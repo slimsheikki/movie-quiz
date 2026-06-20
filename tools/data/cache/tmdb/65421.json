@@ -1,0 +1,151 @@
+{
+  "adult": false,
+  "backdrop_path": "/24xoTQPXbhuFVbEtPAitGAIkDls.jpg",
+  "belongs_to_collection": {
+    "id": 53043,
+    "name": "The Magick Lantern Cycle",
+    "poster_path": "/ia4hNSKVqOYJv4hphrygqNC9Jpn.jpg",
+    "backdrop_path": "/d7tNeH2gO8vsw1r4S81RdmPirc8.jpg"
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 65421,
+  "imdb_id": "tt0045719",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Eaux d'Artifice",
+  "overview": "A woman dressed elegantly walks purposely through the water gardens at the Villa d'Este in Tivoli, as the music of Vivaldi's Winter movement of The Four Seasons plays. Heavy red filters give a blue cast to the light; water plays across stone, and fountains send it into the air. No words are spoken. Baroque statuary and the sensuous flow of water are back lit. Anger calls it water games.",
+  "popularity": 0.4206,
+  "poster_path": "/uGz0MURNU3xMUYrf2tsqzvL9pTX.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1953-01-01",
+  "revenue": 0,
+  "runtime": 13,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Eaux d'Artifice",
+  "video": false,
+  "vote_average": 6.385,
+  "vote_count": 48,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 543200,
+        "known_for_department": "Acting",
+        "name": "Carmilla Salvatorelli",
+        "original_name": "Carmilla Salvatorelli",
+        "popularity": 0.0689,
+        "profile_path": null,
+        "cast_id": 2,
+        "character": "Lady (uncredited)",
+        "credit_id": "52fe4709c3a368484e0b19f3",
+        "order": 0
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 146964,
+        "known_for_department": "Directing",
+        "name": "Kenneth Anger",
+        "original_name": "Kenneth Anger",
+        "popularity": 0.3468,
+        "profile_path": "/r9LiJdpIQT5XkHjiW66xT5Rwxwj.jpg",
+        "credit_id": "52fe4709c3a368484e0b19f9",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 146964,
+        "known_for_department": "Directing",
+        "name": "Kenneth Anger",
+        "original_name": "Kenneth Anger",
+        "popularity": 0.3468,
+        "profile_path": "/r9LiJdpIQT5XkHjiW66xT5Rwxwj.jpg",
+        "credit_id": "64762d671bf266044147237d",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2382974,
+        "known_for_department": "Camera",
+        "name": "Thad Lovett",
+        "original_name": "Thad Lovett",
+        "popularity": 0.0297,
+        "profile_path": null,
+        "credit_id": "5d4e7ceb0d5d8500133efab8",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 146964,
+        "known_for_department": "Directing",
+        "name": "Kenneth Anger",
+        "original_name": "Kenneth Anger",
+        "popularity": 0.3468,
+        "profile_path": "/r9LiJdpIQT5XkHjiW66xT5Rwxwj.jpg",
+        "credit_id": "5d4e7c7b0d5d8500143efd22",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 146964,
+        "known_for_department": "Directing",
+        "name": "Kenneth Anger",
+        "original_name": "Kenneth Anger",
+        "popularity": 0.3468,
+        "profile_path": "/r9LiJdpIQT5XkHjiW66xT5Rwxwj.jpg",
+        "credit_id": "5d4e7cb10d5d8500123ef692",
+        "department": "Editing",
+        "job": "Editor"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "FI",
+        "title": "Veden leikkiä",
+        "type": "TV Title"
+      },
+      {
+        "iso_3166_1": "SU",
+        "title": "Искусственные воды",
+        "type": "Russian Title"
+      }
+    ]
+  }
+}

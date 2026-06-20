@@ -1,0 +1,376 @@
+{
+  "adult": false,
+  "backdrop_path": "/uPEpOfjo3Jy3lag7LVVNPnSgFqC.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 86815,
+  "imdb_id": "tt1532530",
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "La Folie Almayer",
+  "overview": "In 1940s Malaysia, European merchant Kaspar Almayer is obsessed with finding a treasure to secure his daughter's future. His dreams fall victim to the pressure of his own greed, which becomes a torment. Compounding this is the oppressive English domination dominating the country – and that which brings ruin to the remote village where he lives.",
+  "popularity": 0.2738,
+  "poster_path": "/o2mDwohumCDQ81d9alJLtddtJnj.jpg",
+  "production_companies": [
+    {
+      "id": 11773,
+      "logo_path": "/8fCjsqh43LbPV6pm3SfR5Jx64GU.png",
+      "name": "Artémis Productions",
+      "origin_country": "BE"
+    },
+    {
+      "id": 11180,
+      "logo_path": null,
+      "name": "Liaison Cinématographique",
+      "origin_country": ""
+    },
+    {
+      "id": 8009,
+      "logo_path": "/jMXTbZ35gAiHCjIfdDq1B7On9fv.png",
+      "name": "Belgacom",
+      "origin_country": "BE"
+    },
+    {
+      "id": 10645,
+      "logo_path": null,
+      "name": "Paradise Films",
+      "origin_country": "BE"
+    },
+    {
+      "id": 104,
+      "logo_path": "/9aotxauvc9685tq9pTcRJszuT06.png",
+      "name": "Canal+",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "BE",
+      "name": "Belgium"
+    },
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "2012-01-25",
+  "revenue": 7876,
+  "runtime": 128,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Almayer's Folly",
+  "video": false,
+  "vote_average": 6.778,
+  "vote_count": 27,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 37919,
+        "known_for_department": "Acting",
+        "name": "Stanislas Merhar",
+        "original_name": "Stanislas Merhar",
+        "popularity": 0.4496,
+        "profile_path": "/mydjB3KiYv5ytseH5Y5laew6bvl.jpg",
+        "cast_id": 6,
+        "character": "Almayer",
+        "credit_id": "52fe49a09251416c910b37f9",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 135665,
+        "known_for_department": "Acting",
+        "name": "Marc Barbé",
+        "original_name": "Marc Barbé",
+        "popularity": 0.2901,
+        "profile_path": "/wx6mwxsSrAZj3PAg8PkUSAQlTbo.jpg",
+        "cast_id": 7,
+        "character": "Capt. Lingard",
+        "credit_id": "52fe49a09251416c910b37fd",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1128441,
+        "known_for_department": "Acting",
+        "name": "Aurora Marion",
+        "original_name": "Aurora Marion",
+        "popularity": 0.1981,
+        "profile_path": "/tGZ0xt74zYrEWn2W9Qw8h5zkWjw.jpg",
+        "cast_id": 8,
+        "character": "Nina",
+        "credit_id": "52fe49a09251416c910b3801",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1188058,
+        "known_for_department": "Acting",
+        "name": "Zac Andrianasolo",
+        "original_name": "Zac Andrianasolo",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 9,
+        "character": "Daïn",
+        "credit_id": "52fe49a09251416c910b3805",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1188059,
+        "known_for_department": "Acting",
+        "name": "Sakhna Oum",
+        "original_name": "Sakhna Oum",
+        "popularity": 0.0362,
+        "profile_path": null,
+        "cast_id": 10,
+        "character": "Zahira",
+        "credit_id": "52fe49a09251416c910b3809",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1188060,
+        "known_for_department": "Acting",
+        "name": "Solida Chan",
+        "original_name": "Solida Chan",
+        "popularity": 0.0239,
+        "profile_path": null,
+        "cast_id": 11,
+        "character": "Chen",
+        "credit_id": "52fe49a09251416c910b380d",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1188061,
+        "known_for_department": "Acting",
+        "name": "Sun Yucheng",
+        "original_name": "Sun Yucheng",
+        "popularity": 0.0453,
+        "profile_path": null,
+        "cast_id": 12,
+        "character": "Capitaine Tom Li",
+        "credit_id": "52fe49a09251416c910b3811",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1188062,
+        "known_for_department": "Acting",
+        "name": "Bunthang Khim",
+        "original_name": "Bunthang Khim",
+        "popularity": 0.0379,
+        "profile_path": null,
+        "cast_id": 13,
+        "character": "Ali",
+        "credit_id": "52fe49a09251416c910b3815",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1781524,
+        "known_for_department": "Acting",
+        "name": "Fergus Rees",
+        "original_name": "Fergus Rees",
+        "popularity": 0.0362,
+        "profile_path": null,
+        "cast_id": 21,
+        "character": "Sub Lieutenant",
+        "credit_id": "67b0b580f2e084af7f3629f7",
+        "order": 8
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 130030,
+        "known_for_department": "Directing",
+        "name": "Chantal Akerman",
+        "original_name": "Chantal Akerman",
+        "popularity": 0.3172,
+        "profile_path": "/6Q59Air1EjLHfq8NvvBpbTTgnWZ.jpg",
+        "credit_id": "52fe49a09251416c910b37dd",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 8327,
+        "known_for_department": "Writing",
+        "name": "Joseph Conrad",
+        "original_name": "Joseph Conrad",
+        "popularity": 0.4186,
+        "profile_path": "/7dmPuMaghnQZYLoKWdrBPJFTL7c.jpg",
+        "credit_id": "52fe49a09251416c910b37e3",
+        "department": "Writing",
+        "job": "Novel"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 228783,
+        "known_for_department": "Production",
+        "name": "Patrick Quinet",
+        "original_name": "Patrick Quinet",
+        "popularity": 0.133,
+        "profile_path": "/2q3pUO7WL6tZHlzaNtzP1inQ0Cx.jpg",
+        "credit_id": "52fe49a09251416c910b37e9",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 130030,
+        "known_for_department": "Directing",
+        "name": "Chantal Akerman",
+        "original_name": "Chantal Akerman",
+        "popularity": 0.3172,
+        "profile_path": "/6Q59Air1EjLHfq8NvvBpbTTgnWZ.jpg",
+        "credit_id": "52fe49a09251416c910b37ef",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 130030,
+        "known_for_department": "Directing",
+        "name": "Chantal Akerman",
+        "original_name": "Chantal Akerman",
+        "popularity": 0.3172,
+        "profile_path": "/6Q59Air1EjLHfq8NvvBpbTTgnWZ.jpg",
+        "credit_id": "52fe49a09251416c910b37f5",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1683606,
+        "known_for_department": "Camera",
+        "name": "Raymond Fromont",
+        "original_name": "Raymond Fromont",
+        "popularity": 0.0389,
+        "profile_path": null,
+        "credit_id": "585315e4c3a36806a701a1d9",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1270678,
+        "known_for_department": "Editing",
+        "name": "Claire Atherton",
+        "original_name": "Claire Atherton",
+        "popularity": 0.081,
+        "profile_path": null,
+        "credit_id": "585315ecc3a368258c01d698",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 72941,
+        "known_for_department": "Production",
+        "name": "Marion Touitou",
+        "original_name": "Marion Touitou",
+        "popularity": 0.0711,
+        "profile_path": null,
+        "credit_id": "585315f29251416f63029aa2",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1285581,
+        "known_for_department": "Art",
+        "name": "Patrick Dechesne",
+        "original_name": "Patrick Dechesne",
+        "popularity": 0.1251,
+        "profile_path": null,
+        "credit_id": "585315fac3a3682dfe028dee",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 76260,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Catherine Marchand",
+        "original_name": "Catherine Marchand",
+        "popularity": 0.1911,
+        "profile_path": null,
+        "credit_id": "58531602c3a3682fb802e286",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1554982,
+        "known_for_department": "Production",
+        "name": "Marianne Lambert",
+        "original_name": "Marianne Lambert",
+        "popularity": 0.139,
+        "profile_path": null,
+        "credit_id": "5853161592514146c9016564",
+        "department": "Production",
+        "job": "Production Manager"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "DE",
+        "title": "Der Almayer-Wahnsinn",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "TW",
+        "title": "奧邁耶的痴夢",
+        "type": ""
+      }
+    ]
+  }
+}

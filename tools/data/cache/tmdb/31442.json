@@ -1,0 +1,741 @@
+{
+  "adult": false,
+  "backdrop_path": "/jOulpNwtoJP5fF1LJX1ojw6BxBq.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10752,
+      "name": "War"
+    }
+  ],
+  "homepage": "",
+  "id": 31442,
+  "imdb_id": "tt0056111",
+  "origin_country": [
+    "SU"
+  ],
+  "original_language": "ru",
+  "original_title": "Иваново детство",
+  "overview": "In WW2, twelve year old Soviet orphan Ivan Bondarev works for the Soviet army as a scout behind the German lines and strikes a friendship with three sympathetic Soviet officers.",
+  "popularity": 2.3747,
+  "poster_path": "/trY9ADhXgSExH3DLlFhV5C8aDtw.jpg",
+  "production_companies": [
+    {
+      "id": 81478,
+      "logo_path": null,
+      "name": "Tretye Tvorcheskoe Obyedinenie",
+      "origin_country": "SU"
+    },
+    {
+      "id": 344,
+      "logo_path": "/xenuUvcunUNpbaDOYGhWZERaym7.png",
+      "name": "Mosfilm",
+      "origin_country": "SU"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "SU",
+      "name": "Soviet Union"
+    }
+  ],
+  "release_date": "1962-05-09",
+  "revenue": 0,
+  "runtime": 95,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "Pусский"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Ivan's Childhood",
+  "video": false,
+  "vote_average": 7.8,
+  "vote_count": 836,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 13709,
+        "known_for_department": "Acting",
+        "name": "Nikolay Burlyaev",
+        "original_name": "Николай Бурляев",
+        "popularity": 0.6374,
+        "profile_path": "/lVpc5KNypdHVNdJJQZk7p4eijip.jpg",
+        "cast_id": 10,
+        "character": "Ivan",
+        "credit_id": "52fe447e9251416c910129b3",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 119567,
+        "known_for_department": "Acting",
+        "name": "Valentin Zubkov",
+        "original_name": "Валентин Зубков",
+        "popularity": 0.5936,
+        "profile_path": "/obZNOJVpvgJJQvtjcFIyQBEUTbk.jpg",
+        "cast_id": 3,
+        "character": "Kholin",
+        "credit_id": "52fe447d9251416c9101299b",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 90360,
+        "known_for_department": "Acting",
+        "name": "Yevgeni Zharikov",
+        "original_name": "Евгений Жариков",
+        "popularity": 0.422,
+        "profile_path": "/ckH5yBlv9MbM372BM7YDWVp07Eu.jpg",
+        "cast_id": 4,
+        "character": "Galtsev",
+        "credit_id": "52fe447d9251416c9101299f",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 119568,
+        "known_for_department": "Acting",
+        "name": "Stepan Krylov",
+        "original_name": "Степан Крылов",
+        "popularity": 0.1876,
+        "profile_path": "/6lMBWThnyKxvpqL8Z5WPkmJBBDi.jpg",
+        "cast_id": 5,
+        "character": "Katasonov",
+        "credit_id": "52fe447d9251416c910129a3",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1190992,
+        "known_for_department": "Acting",
+        "name": "Mykola Hrynko",
+        "original_name": "Микола Гринько",
+        "popularity": 0.5744,
+        "profile_path": "/n8lxXQbLYOed7AeowxA49yB2jyS.jpg",
+        "cast_id": 13,
+        "character": "Gryaznov",
+        "credit_id": "52fe447e9251416c910129b7",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 119569,
+        "known_for_department": "Acting",
+        "name": "Dmytro Milyutenko",
+        "original_name": "Дмитрий Милютенко",
+        "popularity": 0.2428,
+        "profile_path": "/tDwaG7RhVcfbrevOj8aps05DoU5.jpg",
+        "cast_id": 7,
+        "character": "Old Man",
+        "credit_id": "52fe447d9251416c910129a7",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2291670,
+        "known_for_department": "Acting",
+        "name": "Valentina Malyavina",
+        "original_name": "Валентина Малявина",
+        "popularity": 0.2916,
+        "profile_path": "/3YHbkzM1XYvCWt2FkK2nvmgWM6U.jpg",
+        "cast_id": 25,
+        "character": "Masha",
+        "credit_id": "5cb9061c92514151caf2f224",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 13708,
+        "known_for_department": "Directing",
+        "name": "Irma Raush",
+        "original_name": "Ирма Рауш",
+        "popularity": 0.4319,
+        "profile_path": "/y4OrVv64rB5ffIZKuiSgCbkGDWd.jpg",
+        "cast_id": 9,
+        "character": "Ivan's Mother",
+        "credit_id": "52fe447e9251416c910129af",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 58728,
+        "known_for_department": "Directing",
+        "name": "Andrei Konchalovsky",
+        "original_name": "Андрей Кончаловский",
+        "popularity": 1.1003,
+        "profile_path": "/Utw2YAYrLxZNvdlC83YbIdCrWt.jpg",
+        "cast_id": 26,
+        "character": "Soldier with Glasses",
+        "credit_id": "5d852c5522f5d70028a703bd",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1042917,
+        "known_for_department": "Acting",
+        "name": "Ivan Savkin",
+        "original_name": "Иван Савкин",
+        "popularity": 0.1496,
+        "profile_path": "/mGXAM0SmP1NrlzJb0Y90ckwCjyQ.jpg",
+        "cast_id": 31,
+        "character": "",
+        "credit_id": "64e9d148594c940139c8ee43",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1056549,
+        "known_for_department": "Acting",
+        "name": "Vladimir Marenkov",
+        "original_name": "Владимир Маренков",
+        "popularity": 0.1025,
+        "profile_path": "/bcSibrQmkC1lLgXQLyGEnSdsCkE.jpg",
+        "cast_id": 32,
+        "character": "",
+        "credit_id": "64e9d15645819900c6f87cfb",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4235092,
+        "known_for_department": "Acting",
+        "name": "Vera Miturich",
+        "original_name": "Вера Митурич",
+        "popularity": 0.0214,
+        "profile_path": "/cjdlxmnTPV7Pd4lxICaEpBfDmfU.jpg",
+        "cast_id": 30,
+        "character": "Girl",
+        "credit_id": "64e9d138c613ce00eaa923b7",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1568311,
+        "known_for_department": "Acting",
+        "name": "Nikolay Smorchkov",
+        "original_name": "Николай Сморчков",
+        "popularity": 0.2969,
+        "profile_path": "/owBxHm9pPmUSLfQsWN2mpami2OA.jpg",
+        "cast_id": 29,
+        "character": "Starshina (uncredited)",
+        "credit_id": "64e9d0c85258ae010bd9c316",
+        "order": 12
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 8452,
+        "known_for_department": "Directing",
+        "name": "Andrei Tarkovsky",
+        "original_name": "Андрей Тарковский",
+        "popularity": 1.472,
+        "profile_path": "/mytn9s5kc6CqzKZtbuJ73oA6ujy.jpg",
+        "credit_id": "52fe447d9251416c91012997",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1073946,
+        "known_for_department": "Writing",
+        "name": "Edgar Smirnov",
+        "original_name": "Эдгар Смирнов",
+        "popularity": 0.2926,
+        "profile_path": null,
+        "credit_id": "56c700cc9251410e38001bfe",
+        "department": "Writing",
+        "job": "Script Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1580046,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Lyudmila Baskakova",
+        "original_name": "Людмила Баскакова",
+        "popularity": 0.0505,
+        "profile_path": null,
+        "credit_id": "56c70089925141245b006532",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 13700,
+        "known_for_department": "Art",
+        "name": "Evgeniy Chernyaev",
+        "original_name": "Евгений Черняев",
+        "popularity": 0.0454,
+        "profile_path": "/pwVwX7G3l32V9YxfSQEtomxdgZX.jpg",
+        "credit_id": "56c70073c3a3680d520061e4",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1580048,
+        "known_for_department": "Visual Effects",
+        "name": "Sergey Mukhin",
+        "original_name": "Сергей Мухин",
+        "popularity": 0.1013,
+        "profile_path": null,
+        "credit_id": "65fea0303520e80165d63ed8",
+        "department": "Visual Effects",
+        "job": "VFX Artist"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 8463,
+        "known_for_department": "Editing",
+        "name": "Lyudmila Feiginova",
+        "original_name": "Людмила Фейгинова",
+        "popularity": 0.5173,
+        "profile_path": "/RKVyuvv5ZqGf9rjIkRWepJywcy.jpg",
+        "credit_id": "5baf1b729251413d05006b99",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 8462,
+        "known_for_department": "Camera",
+        "name": "Vadim Yusov",
+        "original_name": "Вадим Юсов",
+        "popularity": 0.2441,
+        "profile_path": "/8cgzIHQWMzmYlJN0beHPb52yZzX.jpg",
+        "credit_id": "5dd6f5d212aabc00138cb36f",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 143676,
+        "known_for_department": "Directing",
+        "name": "Georgi Natanson",
+        "original_name": "Георгий Натансон",
+        "popularity": 0.1053,
+        "profile_path": "/vYS4c4T7EXBnyNMiDvlZu0ng3zl.jpg",
+        "credit_id": "66faf690703e24dc7c134b51",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1136512,
+        "known_for_department": "Production",
+        "name": "Gleb Kuznetsov",
+        "original_name": "Глеб Кузнецов",
+        "popularity": 0.1093,
+        "profile_path": "/4Z1I9oewU5XtPY7VyPd1hLpZF1Y.jpg",
+        "credit_id": "66fb06a87054006f60d026fb",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1170561,
+        "known_for_department": "Writing",
+        "name": "Vladimir Bogomolov",
+        "original_name": "Владимир Богомолов",
+        "popularity": 0.2203,
+        "profile_path": "/aGqGSLZmXjWPYdHjCo5nmdf3xi5.jpg",
+        "credit_id": "66fb070b703e24dc7c134f65",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1117967,
+        "known_for_department": "Writing",
+        "name": "Mikhail Papava",
+        "original_name": "Михаил Папава",
+        "popularity": 0.542,
+        "profile_path": "/ekTqzhwbwh2XhEtbDfJjnwOS7k3.jpg",
+        "credit_id": "66fb071e1c5df25f10d02429",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 8452,
+        "known_for_department": "Directing",
+        "name": "Andrei Tarkovsky",
+        "original_name": "Андрей Тарковский",
+        "popularity": 1.472,
+        "profile_path": "/mytn9s5kc6CqzKZtbuJ73oA6ujy.jpg",
+        "credit_id": "671d107b34c0fabd681cbad8",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 58728,
+        "known_for_department": "Directing",
+        "name": "Andrei Konchalovsky",
+        "original_name": "Андрей Кончаловский",
+        "popularity": 1.1003,
+        "profile_path": "/Utw2YAYrLxZNvdlC83YbIdCrWt.jpg",
+        "credit_id": "671d10996e4210780f7928c4",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1170561,
+        "known_for_department": "Writing",
+        "name": "Vladimir Bogomolov",
+        "original_name": "Владимир Богомолов",
+        "popularity": 0.2203,
+        "profile_path": "/aGqGSLZmXjWPYdHjCo5nmdf3xi5.jpg",
+        "credit_id": "6a050d8cb4260091ce5bfaa1",
+        "department": "Writing",
+        "job": "Short Story"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 8461,
+        "known_for_department": "Sound",
+        "name": "Vyacheslav Ovchinnikov",
+        "original_name": "Вячеслав Овчинников",
+        "popularity": 0.1737,
+        "profile_path": "/qUfzhX7ZcmmAPisWbC0SF3hSaOu.jpg",
+        "credit_id": "6a050da05c6f477897db109c",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5578264,
+        "known_for_department": "Sound",
+        "name": "E. Zelentsova",
+        "original_name": "E. Zelentsova",
+        "popularity": 0.0261,
+        "profile_path": null,
+        "credit_id": "6a050def4d70a80826a14cef",
+        "department": "Sound",
+        "job": "Sound Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4032887,
+        "known_for_department": "Visual Effects",
+        "name": "V. Sevostyanov",
+        "original_name": "V. Sevostyanov",
+        "popularity": 0.0996,
+        "profile_path": null,
+        "credit_id": "6a050e24664f93c5a3e08214",
+        "department": "Visual Effects",
+        "job": "VFX Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6211801,
+        "known_for_department": "Crew",
+        "name": "G. Goncharov",
+        "original_name": "G. Goncharov",
+        "popularity": 0.1415,
+        "profile_path": null,
+        "credit_id": "6a050e4b845008cc95847bd4",
+        "department": "Crew",
+        "job": "Military Consultant"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1589207,
+        "known_for_department": "Sound",
+        "name": "Emin Khachaturyan",
+        "original_name": "Էմին Խաչատրյան",
+        "popularity": 0.2443,
+        "profile_path": "/1JBUXOULkZDFzuq2CYwmAzOiJak.jpg",
+        "credit_id": "6a050e6a83092aeef057febf",
+        "department": "Sound",
+        "job": "Conductor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1136512,
+        "known_for_department": "Production",
+        "name": "Gleb Kuznetsov",
+        "original_name": "Глеб Кузнецов",
+        "popularity": 0.1093,
+        "profile_path": "/4Z1I9oewU5XtPY7VyPd1hLpZF1Y.jpg",
+        "credit_id": "6a050e7ffd6b50a5b3847c6f",
+        "department": "Production",
+        "job": "Executive Producer"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "US",
+        "title": "My Name Is Ivan",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "RU",
+        "title": "Ivanovo detstvo",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "CN",
+        "title": "伊凡的少年时代",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "EE",
+        "title": "Ivani lapsepõlv",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "GE",
+        "title": "Ivanes bavshvoba",
+        "type": "TV title"
+      },
+      {
+        "iso_3166_1": "GR",
+        "title": "Ta paidika hronia tou Ivan",
+        "type": "transliteration"
+      },
+      {
+        "iso_3166_1": "TR",
+        "title": "İvan'ın çocukluğu",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "RS",
+        "title": "Ivanovo detinjstvo",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "BR",
+        "title": "A Infância de Ivan",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "KR",
+        "title": "이반의 어린 시절",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "NO",
+        "title": "Ivans barndom",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "AZ",
+        "title": "İvan'ın Uşaqlığı",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "AM",
+        "title": "Իվանի Մանկությունը",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "GB",
+        "title": "Ivan's Childhood",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "SA",
+        "title": "طفولة إيفان",
+        "type": "Arabic title"
+      },
+      {
+        "iso_3166_1": "IR",
+        "title": "کودکی ایوان",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "EG",
+        "title": "طفوله ايفان",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "BG",
+        "title": "Иваново детство",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "MK",
+        "title": "Ивановото детство",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "JP",
+        "title": "僕の村は戦場だった",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "BY",
+        "title": "Іванава дзяцінства",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "NL",
+        "title": "De jeugd van Ivan",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "NL",
+        "title": "Ivans jeugd",
+        "type": "alternative title"
+      },
+      {
+        "iso_3166_1": "LV",
+        "title": "Ivana bērnība",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "ES",
+        "title": "Ivànovo detstvo",
+        "type": "Catalan title"
+      },
+      {
+        "iso_3166_1": "UA",
+        "title": "Іванове дитинство",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "GR",
+        "title": "Τα παιδικά χρόνια του Ιβάν",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "RO",
+        "title": "Copilăria lui Ivan",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "SI",
+        "title": "Ivanovo otroštvo",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "HR",
+        "title": "Ivanovo djetinjstvo",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "FI",
+        "title": "Ei paluuta",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "HU",
+        "title": "Iván gyermekkora",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "IL",
+        "title": "נעורי איוואן",
+        "type": "Hebrew title"
+      },
+      {
+        "iso_3166_1": "RU",
+        "title": "Йăванăн ачалăхĕ",
+        "type": "Chuvash title"
+      },
+      {
+        "iso_3166_1": "IT",
+        "title": "L'infanzia di Ivan",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "AL",
+        "title": "Fëmijëria e Ivanit",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "PL",
+        "title": "Dziecko wojny",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "CZ",
+        "title": "Ivanovo dětství",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "UA",
+        "title": "İvanovo detstvo",
+        "type": "Tatar title"
+      },
+      {
+        "iso_3166_1": "GE",
+        "title": "ივანეს ბავშვობა",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "IN",
+        "title": "ഐവാൻസ് ചൈൽഡ് ഹുഡ്",
+        "type": "Malayalam title"
+      },
+      {
+        "iso_3166_1": "VN",
+        "title": "Thời thơ ấu của Ivan",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "IN",
+        "title": "ఇవాన్స్ చైల్డ్‌హుడ్",
+        "type": "Telugu title"
+      },
+      {
+        "iso_3166_1": "TH",
+        "title": "อีวาโนโวดเตสตโว",
+        "type": ""
+      }
+    ]
+  }
+}

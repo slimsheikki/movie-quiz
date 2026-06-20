@@ -1,0 +1,481 @@
+{
+  "adult": false,
+  "backdrop_path": "/lppNOAle6eRGnn4nuwjw6auwpDL.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ],
+  "homepage": "",
+  "id": 90652,
+  "imdb_id": "tt0087129",
+  "origin_country": [
+    "DE"
+  ],
+  "original_language": "de",
+  "original_title": "Decoder",
+  "overview": "F.M. discovers that different sonic frequencies induce different patterns of behaviour in listeners, first in his own studio but later in the local \"H-Burger\" restaurant where the passive muzak appears to be wiping people's emotions.",
+  "popularity": 0.363,
+  "poster_path": "/lHxPGSwDTgyuw8sivGl81vn3e1k.jpg",
+  "production_companies": [
+    {
+      "id": 52828,
+      "logo_path": null,
+      "name": "Fett Film",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "release_date": "1984-02-19",
+  "revenue": 0,
+  "runtime": 87,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Information is like a bank. Our job is to rob the bank.",
+  "title": "Decoder",
+  "video": false,
+  "vote_average": 6.2,
+  "vote_count": 41,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 938679,
+        "known_for_department": "Acting",
+        "name": "FM Einheit",
+        "original_name": "FM Einheit",
+        "popularity": 0.1842,
+        "profile_path": "/iN3WEcoTHJq0740jGTYsqTmAJoN.jpg",
+        "cast_id": 1002,
+        "character": "F.M.",
+        "credit_id": "52fe48b19251416c750b042d",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 13616,
+        "known_for_department": "Acting",
+        "name": "William Rice",
+        "original_name": "William Rice",
+        "popularity": 0.1798,
+        "profile_path": "/5qzXa0ph27ymlEAAQ7yvSz81LBM.jpg",
+        "cast_id": 1003,
+        "character": "Jaeger",
+        "credit_id": "52fe48b19251416c750b0431",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 938680,
+        "known_for_department": "Acting",
+        "name": "Christiane Felscherinow",
+        "original_name": "Christiane Felscherinow",
+        "popularity": 0.3143,
+        "profile_path": "/uBLPiJlBueHspa1THd9zGeLQsme.jpg",
+        "cast_id": 1004,
+        "character": "Christiana",
+        "credit_id": "52fe48b19251416c750b0435",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6471,
+        "known_for_department": "Writing",
+        "name": "William S. Burroughs",
+        "original_name": "William S. Burroughs",
+        "popularity": 0.5047,
+        "profile_path": "/wLNshQmdpMMVcSY1tKglZgfLNrQ.jpg",
+        "cast_id": 1005,
+        "character": "Old Man",
+        "credit_id": "52fe48b19251416c750b0439",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 3,
+        "id": 550261,
+        "known_for_department": "Acting",
+        "name": "Genesis P-Orridge",
+        "original_name": "Genesis P-Orridge",
+        "popularity": 0.2339,
+        "profile_path": "/1vKDBXiZ5PURSVhSzMXMaHVgHuL.jpg",
+        "cast_id": 1006,
+        "character": "High Priest",
+        "credit_id": "52fe48b19251416c750b043d",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4922,
+        "known_for_department": "Acting",
+        "name": "Ralf Richter",
+        "original_name": "Ralf Richter",
+        "popularity": 0.4994,
+        "profile_path": "/bHAjEep912NzHpmA4tKhEj13BmP.jpg",
+        "cast_id": 1007,
+        "character": "Jaeger's Assistant",
+        "credit_id": "554aea2892514174ef000ae2",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 23379,
+        "known_for_department": "Acting",
+        "name": "Matthias Fuchs",
+        "original_name": "Matthias Fuchs",
+        "popularity": 0.3219,
+        "profile_path": "/wgKEcr4UDRZ112dAsnt4FCP9JEM.jpg",
+        "cast_id": 1027,
+        "character": "H-Burger Manager",
+        "credit_id": "5e82ed2e3acd20001837bd33",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1123056,
+        "known_for_department": "Sound",
+        "name": "Alexander Hacke",
+        "original_name": "Alexander Hacke",
+        "popularity": 0.1706,
+        "profile_path": "/lUuq9Dfyhot2Zj3U138Zk5GaSvZ.jpg",
+        "cast_id": 1028,
+        "character": "Pirate",
+        "credit_id": "5e82ed7d3344c600152b4023",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1123057,
+        "known_for_department": "Acting",
+        "name": "Mona Mur",
+        "original_name": "Mona Mur",
+        "popularity": 0.186,
+        "profile_path": "/cwgZHK5DCF61dMoiVqzaSQhA6m6.jpg",
+        "cast_id": 1029,
+        "character": "Pirate",
+        "credit_id": "5e82edb8d100b60018c1ebb1",
+        "order": 8
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 938678,
+        "known_for_department": "Directing",
+        "name": "Muscha",
+        "original_name": "Muscha",
+        "popularity": 0.1081,
+        "profile_path": "/rxzzdLB1ZUU284oqQqlqJfC3SV6.jpg",
+        "credit_id": "52fe48b19251416c750b0423",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 34189,
+        "known_for_department": "Production",
+        "name": "Klaus Maeck",
+        "original_name": "Klaus Maeck",
+        "popularity": 0.1186,
+        "profile_path": null,
+        "credit_id": "52fe48b19251416c750b0429",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2180093,
+        "known_for_department": "Editing",
+        "name": "Eva-Maria Will",
+        "original_name": "Eva-Maria Will",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "5dbcb61c42022800165c9e05",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 16233,
+        "known_for_department": "Art",
+        "name": "Volker Schäfer",
+        "original_name": "Volker Schäfer",
+        "popularity": 0.1064,
+        "profile_path": null,
+        "credit_id": "5dbcb61154f6eb00134f5f3c",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 16233,
+        "known_for_department": "Art",
+        "name": "Volker Schäfer",
+        "original_name": "Volker Schäfer",
+        "popularity": 0.1064,
+        "profile_path": null,
+        "credit_id": "5dbcb56a42022800105c95a5",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 938678,
+        "known_for_department": "Directing",
+        "name": "Muscha",
+        "original_name": "Muscha",
+        "popularity": 0.1081,
+        "profile_path": "/rxzzdLB1ZUU284oqQqlqJfC3SV6.jpg",
+        "credit_id": "5dbcb5add2c0c100181e6a89",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1085196,
+        "known_for_department": "Camera",
+        "name": "Johanna Heer",
+        "original_name": "Johanna Heer",
+        "popularity": 0.075,
+        "profile_path": null,
+        "credit_id": "5dbcb5df0f2fbd00117b2e8c",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2446480,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Julia Strauss",
+        "original_name": "Julia Strauss",
+        "popularity": 0.0362,
+        "profile_path": null,
+        "credit_id": "5dbcb6290792e100154ce63b",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1033640,
+        "known_for_department": "Directing",
+        "name": "Trini Trimpop",
+        "original_name": "Trini Trimpop",
+        "popularity": 0.1279,
+        "profile_path": null,
+        "credit_id": "5dbcb57654f6eb00134f5deb",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1033640,
+        "known_for_department": "Directing",
+        "name": "Trini Trimpop",
+        "original_name": "Trini Trimpop",
+        "popularity": 0.1279,
+        "profile_path": null,
+        "credit_id": "5dbcb5c4d2c0c1001620688e",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 34189,
+        "known_for_department": "Production",
+        "name": "Klaus Maeck",
+        "original_name": "Klaus Maeck",
+        "popularity": 0.1186,
+        "profile_path": null,
+        "credit_id": "5dbcb5fb97a4e600187c5ffd",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 938678,
+        "known_for_department": "Directing",
+        "name": "Muscha",
+        "original_name": "Muscha",
+        "popularity": 0.1081,
+        "profile_path": "/rxzzdLB1ZUU284oqQqlqJfC3SV6.jpg",
+        "credit_id": "5dbcb6060f2fbd00117b2ed9",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 16233,
+        "known_for_department": "Art",
+        "name": "Volker Schäfer",
+        "original_name": "Volker Schäfer",
+        "popularity": 0.1064,
+        "profile_path": null,
+        "credit_id": "5dbcb5b9a5890200176ad308",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1295832,
+        "known_for_department": "Editing",
+        "name": "Jonathon Braun",
+        "original_name": "Jonathon Braun",
+        "popularity": 0.1336,
+        "profile_path": null,
+        "credit_id": "5dbcb5ef0792e100134d86d5",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 938678,
+        "known_for_department": "Directing",
+        "name": "Muscha",
+        "original_name": "Muscha",
+        "popularity": 0.1081,
+        "profile_path": "/rxzzdLB1ZUU284oqQqlqJfC3SV6.jpg",
+        "credit_id": "5dbcb54ad2c0c1001b1fd826",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 34189,
+        "known_for_department": "Production",
+        "name": "Klaus Maeck",
+        "original_name": "Klaus Maeck",
+        "popularity": 0.1186,
+        "profile_path": null,
+        "credit_id": "5dbcb5a0a5890200196ae203",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2446481,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Ela Eis",
+        "original_name": "Ela Eis",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "5dbcb635d2c0c100162068df",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1085197,
+        "known_for_department": "Writing",
+        "name": "Werner Schmiedel",
+        "original_name": "Werner Schmiedel",
+        "popularity": 0.0648,
+        "profile_path": null,
+        "credit_id": "5dbcb64554f6eb00184f6678",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 938679,
+        "known_for_department": "Acting",
+        "name": "FM Einheit",
+        "original_name": "FM Einheit",
+        "popularity": 0.1842,
+        "profile_path": "/iN3WEcoTHJq0740jGTYsqTmAJoN.jpg",
+        "credit_id": "5e82ec3ecb6db50012b163e5",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 3,
+        "id": 550261,
+        "known_for_department": "Acting",
+        "name": "Genesis P-Orridge",
+        "original_name": "Genesis P-Orridge",
+        "popularity": 0.2339,
+        "profile_path": "/1vKDBXiZ5PURSVhSzMXMaHVgHuL.jpg",
+        "credit_id": "5e82ecec3acd20001337be32",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 577597,
+        "known_for_department": "Acting",
+        "name": "David Ball",
+        "original_name": "David Ball",
+        "popularity": 0.1254,
+        "profile_path": "/lPMno1IkV12rjJ5WKUVsOPY2ZeA.jpg",
+        "credit_id": "5e82ecd7d100b60018c1ea3c",
+        "department": "Sound",
+        "job": "Music"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "PL",
+        "title": "Dekoder",
+        "type": ""
+      }
+    ]
+  }
+}

@@ -1,0 +1,577 @@
+{
+  "adult": false,
+  "backdrop_path": "/ed2ooAOQCedP49Zo2WlYtfnxTDu.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 106122,
+  "imdb_id": "tt0039834",
+  "origin_country": [
+    "SE"
+  ],
+  "original_language": "sv",
+  "original_title": "Skepp till Indialand",
+  "overview": "Returning home after seven years at sea, a sailor relives his youth aboard a salvage ship dominated by his abusive father, recalling love, betrayal, and the desire to escape. Told in flashback, the film explores family conflict, longing, and moral reckoning in an early milestone of Ingmar Bergman’s career.",
+  "popularity": 0.4433,
+  "poster_path": "/t3YMYzdL25sdd2G4JIugcfZBeIm.jpg",
+  "production_companies": [
+    {
+      "id": 17604,
+      "logo_path": null,
+      "name": "Sveriges Folkbiografer",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "SE",
+      "name": "Sweden"
+    }
+  ],
+  "release_date": "1947-09-22",
+  "revenue": 0,
+  "runtime": 96,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "A Ship to India",
+  "video": false,
+  "vote_average": 6.465,
+  "vote_count": 57,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 131077,
+        "known_for_department": "Acting",
+        "name": "Holger Löwenadler",
+        "original_name": "Holger Löwenadler",
+        "popularity": 0.209,
+        "profile_path": "/9H57PHjMNpLDuKJChuKCnIMuvSo.jpg",
+        "cast_id": 6,
+        "character": "Captain Alexander Blom",
+        "credit_id": "52fe4a60c3a36847f81ca4ef",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 559822,
+        "known_for_department": "Acting",
+        "name": "Anna Lindahl",
+        "original_name": "Anna Lindahl",
+        "popularity": 0.1238,
+        "profile_path": "/3IWCIHZecErDQiUSYnAT2rZWMiz.jpg",
+        "cast_id": 7,
+        "character": "Alice Blom",
+        "credit_id": "52fe4a60c3a36847f81ca4f3",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 69656,
+        "known_for_department": "Acting",
+        "name": "Birger Malmsten",
+        "original_name": "Birger Malmsten",
+        "popularity": 0.1982,
+        "profile_path": "/gmkotgEbeYaxWDZqZMVFNh64UO.jpg",
+        "cast_id": 8,
+        "character": "Johannes Blom",
+        "credit_id": "52fe4a60c3a36847f81ca4f7",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 246347,
+        "known_for_department": "Acting",
+        "name": "Gertrud Fridh",
+        "original_name": "Gertrud Fridh",
+        "popularity": 0.2755,
+        "profile_path": "/HE0o0FGq8lWgvPxtKsoXe7Q6F5.jpg",
+        "cast_id": 9,
+        "character": "Sally",
+        "credit_id": "52fe4a60c3a36847f81ca4fb",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 150087,
+        "known_for_department": "Acting",
+        "name": "Naemi Briese",
+        "original_name": "Naemi Briese",
+        "popularity": 0.1139,
+        "profile_path": "/gd7lbLJA1quVFQyTYvlYOnDHCF4.jpg",
+        "cast_id": 10,
+        "character": "Selma",
+        "credit_id": "52fe4a60c3a36847f81ca4ff",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 550130,
+        "known_for_department": "Acting",
+        "name": "Hjördis Petterson",
+        "original_name": "Hjördis Petterson",
+        "popularity": 0.3531,
+        "profile_path": "/xDRQSk1ueIzMJggDebzRln3Oa3O.jpg",
+        "cast_id": 11,
+        "character": "Sofi",
+        "credit_id": "52fe4a60c3a36847f81ca503",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1118273,
+        "known_for_department": "Acting",
+        "name": "Lasse Krantz",
+        "original_name": "Lasse Krantz",
+        "popularity": 0.0963,
+        "profile_path": "/l68tsoVobCAzxXAHbehI1l8Tq9A.jpg",
+        "cast_id": 41,
+        "character": "Hans",
+        "credit_id": "634aedff20e6a5007a6a02ff",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 557054,
+        "known_for_department": "Acting",
+        "name": "Jan Molander",
+        "original_name": "Jan Molander",
+        "popularity": 0.2217,
+        "profile_path": "/mJBTGQhxDGvsrZ67TD8U0BeqfaP.jpg",
+        "cast_id": 27,
+        "character": "Bertil",
+        "credit_id": "5f1f3d90688cd00034f98487",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 240400,
+        "known_for_department": "Acting",
+        "name": "Erik Hell",
+        "original_name": "Erik Hell",
+        "popularity": 0.151,
+        "profile_path": "/tKvI2kr7XtgNpAjLiYIg7R0BUvp.jpg",
+        "cast_id": 17,
+        "character": "Pekka",
+        "credit_id": "5addebcb925141040900dad9",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6665,
+        "known_for_department": "Acting",
+        "name": "Åke Fridell",
+        "original_name": "Åke Fridell",
+        "popularity": 0.1847,
+        "profile_path": "/7bqRE3uQp2ss3KjnIkp3kdTVkbY.jpg",
+        "cast_id": 19,
+        "character": "Variety Hall Manager",
+        "credit_id": "5addebe7c3a368525400f791",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 572148,
+        "known_for_department": "Acting",
+        "name": "Ingrid Borthen",
+        "original_name": "Ingrid Borthen",
+        "popularity": 0.1863,
+        "profile_path": "/1Nfn6s8ZmV3ecV8l1OlFooc1cyu.jpg",
+        "cast_id": 16,
+        "character": "Girl on the Street (uncredited)",
+        "credit_id": "5addebb1c3a368525400f754",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 133472,
+        "known_for_department": "Acting",
+        "name": "Peter Lindgren",
+        "original_name": "Peter Lindgren",
+        "popularity": 0.1634,
+        "profile_path": "/dBgYR3GJCtS0I7W8LkBKiF9YgcS.jpg",
+        "cast_id": 28,
+        "character": "A Foreign Crew Member (uncredited)",
+        "credit_id": "60a2b36cd4cc8e002a165549",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3093835,
+        "known_for_department": "Acting",
+        "name": "Rolf Bergström",
+        "original_name": "Rolf Bergström",
+        "popularity": 0.0256,
+        "profile_path": null,
+        "cast_id": 30,
+        "character": "Alexander's Sidekick (1) (uncredited)",
+        "credit_id": "60a2b38eda9ef200291aec3a",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 571696,
+        "known_for_department": "Acting",
+        "name": "Gustaf Hiort af Ornäs",
+        "original_name": "Gustaf Hiort af Ornäs",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "cast_id": 29,
+        "character": "Alexander's Sidekick (2) (uncredited)",
+        "credit_id": "60a2b382d4cc8e006ff98f2a",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 222665,
+        "known_for_department": "Acting",
+        "name": "Amy Aaröe",
+        "original_name": "Amy Aaröe",
+        "popularity": 0.0594,
+        "profile_path": "/dpDJ3pwUbl1Q3iozS03f51ntNak.jpg",
+        "cast_id": 31,
+        "character": "Young Girl at the Beach (uncredited)",
+        "credit_id": "60a2b39bda9ef20057b05dc4",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 231928,
+        "known_for_department": "Acting",
+        "name": "Gunnar Nielsen",
+        "original_name": "Gunnar Nielsen",
+        "popularity": 0.0443,
+        "profile_path": null,
+        "cast_id": 32,
+        "character": "Young Man at the Beach (uncredited)",
+        "credit_id": "60a2b3ab00bfe80079c03776",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 575499,
+        "known_for_department": "Acting",
+        "name": "Svea Holst",
+        "original_name": "Svea Holst",
+        "popularity": 0.0842,
+        "profile_path": "/vfptlDeOXMRztkNZyK5WH5p7wn3.jpg",
+        "cast_id": 33,
+        "character": "A Woman at the Arrest of Alexander (uncredited)",
+        "credit_id": "60a2b3bc6332f7003fe62516",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 232176,
+        "known_for_department": "Acting",
+        "name": "Kiki",
+        "original_name": "Kiki",
+        "popularity": 0.0311,
+        "profile_path": null,
+        "cast_id": 34,
+        "character": "The Dwarf on the Variety Show (uncredited)",
+        "credit_id": "60a2b3d4da9ef2003f726d99",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1490711,
+        "known_for_department": "Acting",
+        "name": "Uno Larsson",
+        "original_name": "Uno Larsson",
+        "popularity": 0.0885,
+        "profile_path": "/krMN95NiGew050XvrVFYmlt5iel.jpg",
+        "cast_id": 35,
+        "character": "Elderly Man with Glasses and Hat at the Funfair (uncredited)",
+        "credit_id": "60a2b3e76332f7005c35b1f7",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6648,
+        "known_for_department": "Directing",
+        "name": "Ingmar Bergman",
+        "original_name": "Ingmar Bergman",
+        "popularity": 1.433,
+        "profile_path": "/nkmOaXNRoioViN9OQf2n9Iu6akA.jpg",
+        "cast_id": 36,
+        "character": "Man in Beret at Fairground (uncredited)",
+        "credit_id": "60a2b3f2da9ef200291aec9c",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3093843,
+        "known_for_department": "Acting",
+        "name": "Charles White",
+        "original_name": "Charles White",
+        "popularity": 0,
+        "profile_path": null,
+        "cast_id": 37,
+        "character": "Black Crewman (uncredited)",
+        "credit_id": "60a2b45c51e6ab0040771f7a",
+        "order": 20
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1026184,
+        "known_for_department": "Acting",
+        "name": "John W. Björling",
+        "original_name": "John W. Björling",
+        "popularity": 0.1202,
+        "profile_path": null,
+        "cast_id": 38,
+        "character": "An Older Man on the Variety Show Stage (uncredited)",
+        "credit_id": "60a2b47180729800584d51bb",
+        "order": 21
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3093846,
+        "known_for_department": "Acting",
+        "name": "Rosalie Björklund",
+        "original_name": "Rosalie Björklund",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 39,
+        "character": "A Girl (uncredited)",
+        "credit_id": "60a2b47eb0ba7e007941fe40",
+        "order": 22
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1065643,
+        "known_for_department": "Directing",
+        "name": "Torgny Anderberg",
+        "original_name": "Torgny Anderberg",
+        "popularity": 0.1525,
+        "profile_path": "/jiidPCMryqd3Y0yo3eHA5oWGFaR.jpg",
+        "cast_id": 40,
+        "character": "A Man (uncredited)",
+        "credit_id": "60a2b48862fcd30027bebe07",
+        "order": 23
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6648,
+        "known_for_department": "Directing",
+        "name": "Ingmar Bergman",
+        "original_name": "Ingmar Bergman",
+        "popularity": 1.433,
+        "profile_path": "/nkmOaXNRoioViN9OQf2n9Iu6akA.jpg",
+        "credit_id": "52fe4a60c3a36847f81ca4d9",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 550764,
+        "known_for_department": "Production",
+        "name": "Lorens Marmstedt",
+        "original_name": "Lorens Marmstedt",
+        "popularity": 0.1011,
+        "profile_path": "/bcAgolZN9qDyyqaYmTPyRmIUOgr.jpg",
+        "credit_id": "52fe4a60c3a36847f81ca4e5",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 550766,
+        "known_for_department": "Sound",
+        "name": "Erland von Koch",
+        "original_name": "Erland von Koch",
+        "popularity": 0.06,
+        "profile_path": "/l6a6AHig8ZQzyucCe9anXY5bJce.jpg",
+        "credit_id": "52fe4a60c3a36847f81ca4eb",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 558173,
+        "known_for_department": "Editing",
+        "name": "Tage Holmberg",
+        "original_name": "Tage Holmberg",
+        "popularity": 0.0876,
+        "profile_path": null,
+        "credit_id": "52fe4a60c3a36847f81ca515",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 550765,
+        "known_for_department": "Camera",
+        "name": "Göran Strindberg",
+        "original_name": "Göran Strindberg",
+        "popularity": 0.1829,
+        "profile_path": "/dWEhRv5l29T1TbwuApOZydSMMr6.jpg",
+        "credit_id": "5396d8c4c3a3686423005a58",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6648,
+        "known_for_department": "Directing",
+        "name": "Ingmar Bergman",
+        "original_name": "Ingmar Bergman",
+        "popularity": 1.433,
+        "profile_path": "/nkmOaXNRoioViN9OQf2n9Iu6akA.jpg",
+        "credit_id": "5f1f3a11af3da60035e5de62",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1264192,
+        "known_for_department": "Directing",
+        "name": "Martin Söderhjelm",
+        "original_name": "Martin Söderhjelm",
+        "popularity": 0.0239,
+        "profile_path": "/5jA36Rvct55wtVqlVf0DxXlm7tJ.jpg",
+        "credit_id": "5f1f3ac88fdda9003733c15e",
+        "department": "Writing",
+        "job": "Theatre Play"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6650,
+        "known_for_department": "Production",
+        "name": "Allan Ekelund",
+        "original_name": "Allan Ekelund",
+        "popularity": 0.0772,
+        "profile_path": "/mJqjS8brEuF5prkLkNeaeYDTFee.jpg",
+        "credit_id": "5f1f3aec688cd00035f96598",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1534173,
+        "known_for_department": "Sound",
+        "name": "Lars Nordberg",
+        "original_name": "Lars Nordberg",
+        "popularity": 0.0409,
+        "profile_path": "/rV99eF14LxRQc8qglOsl4kGzpYj.jpg",
+        "credit_id": "5f1f3b314dc34a003483582d",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1625074,
+        "known_for_department": "Sound",
+        "name": "Sven Josephson",
+        "original_name": "Sven Josephson",
+        "popularity": 0.0441,
+        "profile_path": "/mHLAN6AJssGRMqNNPtN1fKMsRyE.jpg",
+        "credit_id": "5f1f3b40af3da60034e5d7f2",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6654,
+        "known_for_department": "Art",
+        "name": "P.A. Lundgren",
+        "original_name": "P.A. Lundgren",
+        "popularity": 0.1444,
+        "profile_path": "/sXMUQJrrGN8GdjXfClWluYXbK8R.jpg",
+        "credit_id": "5f1f3ba8688cd00036f96e6c",
+        "department": "Art",
+        "job": "Production Design"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "GB",
+        "title": "A Ship Bound for India",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "UA",
+        "title": "Корабель йде в Індію",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "GB",
+        "title": "The Land of Desire",
+        "type": "alternative title"
+      },
+      {
+        "iso_3166_1": "US",
+        "title": "Frustration",
+        "type": "original US title"
+      },
+      {
+        "iso_3166_1": "GB",
+        "title": "A Ship to India",
+        "type": "original UK title"
+      },
+      {
+        "iso_3166_1": "SE",
+        "title": "Skeep till India land",
+        "type": ""
+      }
+    ]
+  }
+}

@@ -1,0 +1,530 @@
+{
+  "adult": false,
+  "backdrop_path": "/oQnZNyYhE0007STpv0D8lUUIbhm.jpg",
+  "belongs_to_collection": null,
+  "budget": 3673315,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 269776,
+  "imdb_id": "tt3218580",
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "Alléluia",
+  "overview": "Michel, a murderous womanizer, meets introverted Gloria online and treats her to a whirlwind one-night-stand. Offering herself as an accomplice in his seductive crimes, the unhinged lovers embark on a deadly odyssey amplified by wild sex, unbridled jealousy, and passionate forays into the dark arts. This smart and gory shocker breathes new life into the lovesick horror genre to serve up a chilling tale of white-hot desperation and terrifying devotion.",
+  "popularity": 0.4126,
+  "poster_path": "/7cRgaaD8EdM5hfw6lHSSSG8mEq8.jpg",
+  "production_companies": [
+    {
+      "id": 34068,
+      "logo_path": null,
+      "name": "One Eyed",
+      "origin_country": ""
+    },
+    {
+      "id": 34069,
+      "logo_path": "/i8ALsnHxQ5JsQdoiHY1vxEmoEnJ.png",
+      "name": "Panique!",
+      "origin_country": "BE"
+    },
+    {
+      "id": 7115,
+      "logo_path": "/o2EG4i2JfK1o3EaXuaBKXo1PDlz.png",
+      "name": "Savage Film",
+      "origin_country": "BE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "BE",
+      "name": "Belgium"
+    },
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "2014-11-26",
+  "revenue": 0,
+  "runtime": 93,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Fervidly dark lovesick horror inspired by the real-life criminal duo, the Lonely Hearts Killers.",
+  "title": "Alleluia",
+  "video": false,
+  "vote_average": 5.96,
+  "vote_count": 125,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 18178,
+        "known_for_department": "Acting",
+        "name": "Laurent Lucas",
+        "original_name": "Laurent Lucas",
+        "popularity": 0.4064,
+        "profile_path": "/dMb87uO627isT2BbCHEVbaiCL2g.jpg",
+        "cast_id": 1,
+        "character": "Michel",
+        "credit_id": "537371a8c3a368150f00118a",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2759,
+        "known_for_department": "Acting",
+        "name": "Lola Dueñas",
+        "original_name": "Lola Dueñas",
+        "popularity": 0.4638,
+        "profile_path": "/bZgXKlGkLgjvL3qU2Iq2l2zsKo7.jpg",
+        "cast_id": 2,
+        "character": "Gloria",
+        "credit_id": "537371bbc3a368150f00118e",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 587159,
+        "known_for_department": "Acting",
+        "name": "Héléna Noguerra",
+        "original_name": "Héléna Noguerra",
+        "popularity": 0.3978,
+        "profile_path": "/rgEpXWFmfsB0EgZw6c6CsOaoxbu.jpg",
+        "cast_id": 3,
+        "character": "Solange",
+        "credit_id": "537371cfc3a36815090012e3",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 70320,
+        "known_for_department": "Acting",
+        "name": "Stéphane Bissot",
+        "original_name": "Stéphane Bissot",
+        "popularity": 0.139,
+        "profile_path": "/kW12DBz7xnP3hrqQyHqKZAmw8rb.jpg",
+        "cast_id": 6,
+        "character": "Madeleine",
+        "credit_id": "5426e243c3a3680b250001f2",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 358432,
+        "known_for_department": "Acting",
+        "name": "Édith Le Merdy",
+        "original_name": "Édith Le Merdy",
+        "popularity": 0.3498,
+        "profile_path": "/nJfnwRJfJs904t5m2x7uJSm8oGj.jpg",
+        "cast_id": 7,
+        "character": "Marguerite",
+        "credit_id": "5426e263c3a3680b1e0001e0",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1171904,
+        "known_for_department": "Acting",
+        "name": "Anne-Marie Loop",
+        "original_name": "Anne-Marie Loop",
+        "popularity": 0.1719,
+        "profile_path": "/igYOgcbWoe8g7WoNG4RaaS68nFO.jpg",
+        "cast_id": 8,
+        "character": "Gabriella",
+        "credit_id": "5426e2820e0a2655660001cc",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1142910,
+        "known_for_department": "Acting",
+        "name": "David Murgia",
+        "original_name": "David Murgia",
+        "popularity": 0.3902,
+        "profile_path": "/bgFLJDc4KzNG5dN7mZeGsazbKvl.jpg",
+        "cast_id": 9,
+        "character": "Père Luis",
+        "credit_id": "5426e29fc3a3680b1e0001e8",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1105278,
+        "known_for_department": "Acting",
+        "name": "Renaud Rutten",
+        "original_name": "Renaud Rutten",
+        "popularity": 0.2378,
+        "profile_path": "/k0VU9PwYrlwYcKQd0u5wTw5FozD.jpg",
+        "cast_id": 11,
+        "character": "Le réceptionniste",
+        "credit_id": "5426e2de0e0a2655720001db",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 939471,
+        "known_for_department": "Acting",
+        "name": "Philippe Résimont",
+        "original_name": "Philippe Résimont",
+        "popularity": 0.3434,
+        "profile_path": "/aPtKQWC0sNUIBpsKvlKjSCFuUIG.jpg",
+        "cast_id": 12,
+        "character": "Fritkot man",
+        "credit_id": "5426e334c3a3680b280001e6",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1381361,
+        "known_for_department": "Acting",
+        "name": "Pili Groyne",
+        "original_name": "Pili Groyne",
+        "popularity": 0.3199,
+        "profile_path": "/hfZAmrx2zPGwTrc0w6iqMFcpTY.jpg",
+        "cast_id": 13,
+        "character": "Eve",
+        "credit_id": "55ed97179251413e3a014a3a",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1528945,
+        "known_for_department": "Acting",
+        "name": "Sorenza Mollica",
+        "original_name": "Sorenza Mollica",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "cast_id": 14,
+        "character": "Monique",
+        "credit_id": "56320565c3a3681b4d0144d8",
+        "order": 10
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 72611,
+        "known_for_department": "Directing",
+        "name": "Fabrice Du Welz",
+        "original_name": "Fabrice Du Welz",
+        "popularity": 0.2244,
+        "profile_path": "/lgCfLX9JDgVNtaO5mt9SUfBdZqO.jpg",
+        "credit_id": "5373719bc3a368153000122c",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 72611,
+        "known_for_department": "Directing",
+        "name": "Fabrice Du Welz",
+        "original_name": "Fabrice Du Welz",
+        "popularity": 0.2244,
+        "profile_path": "/lgCfLX9JDgVNtaO5mt9SUfBdZqO.jpg",
+        "credit_id": "53737210c3a368150f001196",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 45774,
+        "known_for_department": "Production",
+        "name": "Vincent Tavier",
+        "original_name": "Vincent Tavier",
+        "popularity": 0.127,
+        "profile_path": null,
+        "credit_id": "53737225c3a36815180012ae",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1207545,
+        "known_for_department": "Camera",
+        "name": "Manuel Dacosse",
+        "original_name": "Manuel Dacosse",
+        "popularity": 0.1545,
+        "profile_path": "/1UC03i5N8c5YCH2EyLCCVcGtE4N.jpg",
+        "credit_id": "613d6722a6ddcb008af05819",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 71932,
+        "known_for_department": "Editing",
+        "name": "Anne-Laure Guégan",
+        "original_name": "Anne-Laure Guégan",
+        "popularity": 0.0623,
+        "profile_path": null,
+        "credit_id": "613d672d4cbe120061f57e74",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1725497,
+        "known_for_department": "Art",
+        "name": "Manu de Meulemeester",
+        "original_name": "Manu de Meulemeester",
+        "popularity": 0.0256,
+        "profile_path": null,
+        "credit_id": "613d673746aed4008898cb38",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1822316,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Christophe Pidre",
+        "original_name": "Christophe Pidre",
+        "popularity": 0.0869,
+        "profile_path": null,
+        "credit_id": "613d67424cbe120061f57ec0",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1822317,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Florence Scholtès",
+        "original_name": "Florence Scholtès",
+        "popularity": 0.0645,
+        "profile_path": null,
+        "credit_id": "613d674bf96a39008acc882b",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3231319,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Urteza Da Fonseca",
+        "original_name": "Urteza Da Fonseca",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "613d675546aed4002c6d8602",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Department Head"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1773493,
+        "known_for_department": "Sound",
+        "name": "Frédéric Meert",
+        "original_name": "Frédéric Meert",
+        "popularity": 0.091,
+        "profile_path": "/3hioNsna4ZGaS7AvPPG4hpCrNhf.jpg",
+        "credit_id": "613d67622dc9dc0026a2f0d2",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1596555,
+        "known_for_department": "Sound",
+        "name": "Emmanuel de Boissieu",
+        "original_name": "Emmanuel de Boissieu",
+        "popularity": 0.1047,
+        "profile_path": "/1Dwc2EWRjHO4ENdrTLRZnVM6jfg.jpg",
+        "credit_id": "613d677108cf87002a911faf",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1367653,
+        "known_for_department": "Visual Effects",
+        "name": "Stéphane Bidault",
+        "original_name": "Stéphane Bidault",
+        "popularity": 0.1034,
+        "profile_path": "/px9quywoR8rIMOu7QlTS3STz6VD.jpg",
+        "credit_id": "613d677c9653f60068ccdb84",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1254060,
+        "known_for_department": "Visual Effects",
+        "name": "Matthias Weber",
+        "original_name": "Matthias Weber",
+        "popularity": 0.0744,
+        "profile_path": null,
+        "credit_id": "613d678eaaf8970062b8486d",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1586237,
+        "known_for_department": "Visual Effects",
+        "name": "Mathieu Jussreandot",
+        "original_name": "Mathieu Jussreandot",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "613d679a6af9dd0027b84720",
+        "department": "Visual Effects",
+        "job": "Visual Effects"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1567374,
+        "known_for_department": "Production",
+        "name": "Tatjana Kozar",
+        "original_name": "Tatjana Kozar",
+        "popularity": 0.1311,
+        "profile_path": null,
+        "credit_id": "613d67ac46aed4002c6d8759",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1105728,
+        "known_for_department": "Production",
+        "name": "Clément Miserez",
+        "original_name": "Clément Miserez",
+        "popularity": 0.1475,
+        "profile_path": "/pqevkVRwNO09PPgRqXFiN2HZ5IJ.jpg",
+        "credit_id": "613d67cc6af9dd006687a652",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 45774,
+        "known_for_department": "Production",
+        "name": "Vincent Tavier",
+        "original_name": "Vincent Tavier",
+        "popularity": 0.127,
+        "profile_path": null,
+        "credit_id": "613d67d62dc9dc0092c34b55",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1033140,
+        "known_for_department": "Production",
+        "name": "Bart Van Langendonck",
+        "original_name": "Bart Van Langendonck",
+        "popularity": 0.0363,
+        "profile_path": "/cmrUQbXx7y5KFKrhcLMaDQoGGPv.jpg",
+        "credit_id": "613d67e4aaf897002afb6838",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 149292,
+        "known_for_department": "Production",
+        "name": "Matthieu Warter",
+        "original_name": "Matthieu Warter",
+        "popularity": 0.1329,
+        "profile_path": "/mcJ07UikTIaQROJPeYI0lOicilb.jpg",
+        "credit_id": "613d6805322b2b005fcb8c11",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1088537,
+        "known_for_department": "Writing",
+        "name": "Romain Protat",
+        "original_name": "Romain Protat",
+        "popularity": 0.1033,
+        "profile_path": "/1Atw2voYktJJRo4b8QPpKPYG4ms.jpg",
+        "credit_id": "5fa5a2608c7b0f004176426e",
+        "department": "Writing",
+        "job": "Adaptation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1029293,
+        "known_for_department": "Sound",
+        "name": "Vincent Cahay",
+        "original_name": "Vincent Cahay",
+        "popularity": 0.0617,
+        "profile_path": null,
+        "credit_id": "5fa5a2761b7294003b9049c4",
+        "department": "Sound",
+        "job": "Music"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "FR",
+        "title": "Alléluia",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "RU",
+        "title": "Allеluia",
+        "type": "trans"
+      }
+    ]
+  }
+}

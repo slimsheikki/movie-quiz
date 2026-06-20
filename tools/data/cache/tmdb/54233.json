@@ -1,0 +1,512 @@
+{
+  "adult": false,
+  "backdrop_path": "/pOYRt2gmUGvKHImegnDx3hv7aer.jpg",
+  "belongs_to_collection": {
+    "id": 1691709,
+    "name": "Coffret Edward Yang",
+    "poster_path": "/jepW6DBP9oaKBeHe9RUpONEdpHi.jpg",
+    "backdrop_path": null
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 54233,
+  "imdb_id": "tt0109685",
+  "origin_country": [
+    "TW"
+  ],
+  "original_language": "zh",
+  "original_title": "獨立時代",
+  "overview": "Over the course of a few days, the paths of a group of young friends, lovers, and acquaintances in Taipei intersect, prompting them to arrive at realizations about their lives.",
+  "popularity": 1.3495,
+  "poster_path": "/sDEPrUoBf52AISJd5liP47ofKzp.jpg",
+  "production_companies": [
+    {
+      "id": 30241,
+      "logo_path": null,
+      "name": "AtomFilms",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "TW",
+      "name": "Taiwan"
+    }
+  ],
+  "release_date": "1994-10-13",
+  "revenue": 0,
+  "runtime": 129,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "普通话"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Don't you break my heart?",
+  "title": "A Confucian Confusion",
+  "video": false,
+  "vote_average": 7.6,
+  "vote_count": 39,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 71395,
+        "known_for_department": "Acting",
+        "name": "Chen Shiang-Chyi",
+        "original_name": "陳湘琪",
+        "popularity": 0.4772,
+        "profile_path": "/nUKvEdVE8i3Us4MpAM4f4160FgY.jpg",
+        "cast_id": 4,
+        "character": "Qiqi",
+        "credit_id": "52fe4891c3a36847f816e76b",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1055456,
+        "known_for_department": "Acting",
+        "name": "Joyce Ni Shu-Chun",
+        "original_name": "倪淑君",
+        "popularity": 0.8821,
+        "profile_path": "/coeNLhTkUHFWFyMen5llKZ1FcSW.jpg",
+        "cast_id": 20,
+        "character": "Molly",
+        "credit_id": "5ddd449aa80673001713caf2",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1371123,
+        "known_for_department": "Acting",
+        "name": "Weiming Wang",
+        "original_name": "Weiming Wang",
+        "popularity": 0.2114,
+        "profile_path": "/z4pFLRoh9D9HfkQKWfaIwX5LxV0.jpg",
+        "cast_id": 10,
+        "character": "Ming",
+        "credit_id": "5483593dc3a36817a50093aa",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2468221,
+        "known_for_department": "Acting",
+        "name": "Wang Bosen",
+        "original_name": "Wang Bosen",
+        "popularity": 0.1078,
+        "profile_path": "/eqhOgjm8YJmJiYrhWJe6hZBlF3O.jpg",
+        "cast_id": 16,
+        "character": "Akeem",
+        "credit_id": "5ddd3d0c1c63290012fe2b39",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 150166,
+        "known_for_department": "Acting",
+        "name": "Danny Deng",
+        "original_name": "鄧安寧",
+        "popularity": 0.3017,
+        "profile_path": "/zFcxz9W0ub3UUTerz7rlTeEfJ75.jpg",
+        "cast_id": 6,
+        "character": "Larry",
+        "credit_id": "52fe4892c3a36847f816e773",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 103598,
+        "known_for_department": "Acting",
+        "name": "Elaine Jin Yan-Ling",
+        "original_name": "金燕玲",
+        "popularity": 1.093,
+        "profile_path": "/i5CCFBhgntuaDSjbMdDYyzbO5jK.jpg",
+        "cast_id": 8,
+        "character": "Auntie",
+        "credit_id": "52fe4892c3a36847f816e77b",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2468257,
+        "known_for_department": "Acting",
+        "name": "Richie Li",
+        "original_name": "Richie Li",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 19,
+        "character": "Feng",
+        "credit_id": "5ddd44520cd44600192e5c97",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 150165,
+        "known_for_department": "Acting",
+        "name": "Chen Yi-wen",
+        "original_name": "陳以文",
+        "popularity": 1.0247,
+        "profile_path": "/svFlxUu5ItDWYvDRR1JNrRZFHAU.jpg",
+        "cast_id": 5,
+        "character": "Liren",
+        "credit_id": "52fe4891c3a36847f816e76f",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2468265,
+        "known_for_department": "Acting",
+        "name": "Ye-Ming Wang",
+        "original_name": "Ye-Ming Wang",
+        "popularity": 0.0872,
+        "profile_path": null,
+        "cast_id": 21,
+        "character": "Birdy",
+        "credit_id": "5ddd45093faba0001902b5b4",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2468255,
+        "known_for_department": "Acting",
+        "name": "Li-Mei Chen",
+        "original_name": "Li-Mei Chen",
+        "popularity": 0.0683,
+        "profile_path": null,
+        "cast_id": 17,
+        "character": "Molly's Sister",
+        "credit_id": "5ddd4370a806730014138bc9",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 143309,
+        "known_for_department": "Directing",
+        "name": "Yen Hung-ya",
+        "original_name": "Yen Hung-ya",
+        "popularity": 0.3409,
+        "profile_path": "/v8QBoeCc7gJHkWD4N9aCG5dQa8l.jpg",
+        "cast_id": 7,
+        "character": "Molly's Brother-in-Law",
+        "credit_id": "52fe4892c3a36847f816e777",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5839763,
+        "known_for_department": "Writing",
+        "name": "Hsu Kuei-ying",
+        "original_name": "徐珪瑩",
+        "popularity": 0.0761,
+        "profile_path": null,
+        "cast_id": 24,
+        "character": "Rehearsal Assistant",
+        "credit_id": "692680266469871ca637140d",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2468268,
+        "known_for_department": "Acting",
+        "name": "Chi-Tung Yu",
+        "original_name": "Chi-Tung Yu",
+        "popularity": 0.0387,
+        "profile_path": null,
+        "cast_id": 22,
+        "character": "Ming's Uncle",
+        "credit_id": "5ddd459fe8d0b40018f9d688",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2468274,
+        "known_for_department": "Acting",
+        "name": "Mei-Yun Yu",
+        "original_name": "Mei-Yun Yu",
+        "popularity": 0.0362,
+        "profile_path": null,
+        "cast_id": 23,
+        "character": "Ming's Mother",
+        "credit_id": "5ddd45d7a80673001713cd55",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1554124,
+        "known_for_department": "Acting",
+        "name": "Hsu Ming",
+        "original_name": "Hsu Ming",
+        "popularity": 0.1298,
+        "profile_path": "/n0IzMb2rCm5m0fnYEjYNSPnJnbE.jpg",
+        "cast_id": 32,
+        "character": "Ming's father",
+        "credit_id": "69ee5bf64ff1a8b9dc6b1e43",
+        "order": 14
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 143309,
+        "known_for_department": "Directing",
+        "name": "Yen Hung-ya",
+        "original_name": "Yen Hung-ya",
+        "popularity": 0.3409,
+        "profile_path": "/v8QBoeCc7gJHkWD4N9aCG5dQa8l.jpg",
+        "credit_id": "52fe4891c3a36847f816e761",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 143035,
+        "known_for_department": "Directing",
+        "name": "Edward Yang",
+        "original_name": "楊德昌",
+        "popularity": 0.977,
+        "profile_path": "/j7K4l87WXqvzT1abKsvgMVnFOyW.jpg",
+        "credit_id": "52fe4891c3a36847f816e767",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 143035,
+        "known_for_department": "Directing",
+        "name": "Edward Yang",
+        "original_name": "楊德昌",
+        "popularity": 0.977,
+        "profile_path": "/j7K4l87WXqvzT1abKsvgMVnFOyW.jpg",
+        "credit_id": "52fe4892c3a36847f816e781",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1554166,
+        "known_for_department": "Editing",
+        "name": "Chen Po-Wen",
+        "original_name": "陳博文",
+        "popularity": 0.2868,
+        "profile_path": "/beXskPZupY5mpFrqi3Lt3Jh24Qi.jpg",
+        "credit_id": "5cd3be5ac3a3680983d8949c",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2308309,
+        "known_for_department": "Sound",
+        "name": "Antonio Lee",
+        "original_name": "Antonio Lee",
+        "popularity": 0.0338,
+        "profile_path": null,
+        "credit_id": "5cd3be7e0e0a264b53fe4627",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 584058,
+        "known_for_department": "Camera",
+        "name": "Chang Chan",
+        "original_name": "Chang Chan",
+        "popularity": 0.0595,
+        "profile_path": null,
+        "credit_id": "5cd3bfc8c3a3687f09d860e4",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1299769,
+        "known_for_department": "Production",
+        "name": "Yu Wei-Yen",
+        "original_name": "Yu Wei-Yen",
+        "popularity": 0.1146,
+        "profile_path": null,
+        "credit_id": "5cd3be8f0e0a261121fe8b4d",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2308310,
+        "known_for_department": "Production",
+        "name": "David Sui",
+        "original_name": "David Sui",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "5cd3beacc3a3687853d8932b",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2395406,
+        "known_for_department": "Lighting",
+        "name": "Li Lung-Yu",
+        "original_name": "Li Lung-Yu",
+        "popularity": 0.095,
+        "profile_path": null,
+        "credit_id": "69d3ff0529a7456d9dca7cb2",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 26731,
+        "known_for_department": "Camera",
+        "name": "Arthur Wong Ngok-Tai",
+        "original_name": "黃岳泰",
+        "popularity": 0.6226,
+        "profile_path": "/lvl5vYoEbkguwaP3uuPdAD90UHa.jpg",
+        "credit_id": "69d3ff41673554eb98cbfb49",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6122831,
+        "known_for_department": "Camera",
+        "name": "Wu-Hsiu Hung",
+        "original_name": "Wu-Hsiu Hung",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "69d3ff7ea8458ecae3edefe4",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1618084,
+        "known_for_department": "Acting",
+        "name": "Tsai Chin",
+        "original_name": "蔡琴",
+        "popularity": 0.4767,
+        "profile_path": "/37jeVsDcGrS5PgrVJDdx1xqk4w6.jpg",
+        "credit_id": "69d400261edaba92f2cbfc44",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 143035,
+        "known_for_department": "Directing",
+        "name": "Edward Yang",
+        "original_name": "楊德昌",
+        "popularity": 0.977,
+        "profile_path": "/j7K4l87WXqvzT1abKsvgMVnFOyW.jpg",
+        "credit_id": "69d40031f2fb9e1166f8a06f",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6122838,
+        "known_for_department": "Art",
+        "name": "Jui-Chung yao",
+        "original_name": "Jui-Chung yao",
+        "popularity": 0.0281,
+        "profile_path": null,
+        "credit_id": "69d4004b5ca4e2e819ca7cbd",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6122842,
+        "known_for_department": "Art",
+        "name": "Ernest Guan",
+        "original_name": "Ernest Guan",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "69d400693fba351569070ec9",
+        "department": "Art",
+        "job": "Production Design"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "TW",
+        "title": "獨立時代",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "JP",
+        "title": "エドワード・ヤンの恋愛時代",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "CN",
+        "title": "DULI SHIDAI",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "HK",
+        "title": "獨立時代",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "KR",
+        "title": "독립시대",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "VN",
+        "title": "Thời Đại Độc Lập",
+        "type": ""
+      }
+    ]
+  }
+}

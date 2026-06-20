@@ -1,0 +1,266 @@
+{
+  "adult": false,
+  "backdrop_path": "/nuxozw8GTYh1QXihN2oWnb3MDRx.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "",
+  "id": 62842,
+  "imdb_id": "tt0063342",
+  "origin_country": [
+    "YU"
+  ],
+  "original_language": "sh",
+  "original_title": "Nevinost bez zaštite",
+  "overview": "A documentary about the famous athlete and movie enthusiast who made Serbia's first sound film, Innocence Unprotected. The Nazi occupation of Belgrade prevented the film from gaining wider acclaim. Director Makavejev intersperses clips of the original film with interviews of surviving cast and crew members, as well as newsreel and archival footage.",
+  "popularity": 0.1797,
+  "poster_path": "/9CBLbgOzkexoM5swzSvv9eExo8h.jpg",
+  "production_companies": [
+    {
+      "id": 5940,
+      "logo_path": "/pJR6Hhx3FsRPzoh4LyJyHEa6cD3.png",
+      "name": "Avala Film",
+      "origin_country": "YU"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "YU",
+      "name": "Yugoslavia"
+    }
+  ],
+  "release_date": "1968-11-12",
+  "revenue": 0,
+  "runtime": 75,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Serbo-Croatian",
+      "iso_639_1": "sh",
+      "name": ""
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Innocence Unprotected",
+  "video": false,
+  "vote_average": 6.81,
+  "vote_count": 29,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 236061,
+        "known_for_department": "Acting",
+        "name": "Dragoljub Aleksić",
+        "original_name": "Dragoljub Aleksić",
+        "popularity": 0.0621,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "Himself",
+        "credit_id": "52fe468fc3a368484e09775f",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 236062,
+        "known_for_department": "Acting",
+        "name": "Bratoljub Gligorijević",
+        "original_name": "Bratoljub Gligorijević",
+        "popularity": 0,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "Petrovic",
+        "credit_id": "52fe468fc3a368484e097763",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 236063,
+        "known_for_department": "Acting",
+        "name": "Vera Jovanović-Šegović",
+        "original_name": "Vera Jovanović-Šegović",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "Wicked Stepmother",
+        "credit_id": "52fe468fc3a368484e097767",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 236064,
+        "known_for_department": "Acting",
+        "name": "Ana Milosavljević",
+        "original_name": "Ana Milosavljević",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 6,
+        "character": "Orphan Nada",
+        "credit_id": "52fe468fc3a368484e09776b",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 236065,
+        "known_for_department": "Acting",
+        "name": "Pera Milosavljević",
+        "original_name": "Pera Milosavljević",
+        "popularity": 0.0261,
+        "profile_path": null,
+        "cast_id": 7,
+        "character": "Servant",
+        "credit_id": "52fe468fc3a368484e09776f",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 563698,
+        "known_for_department": "Acting",
+        "name": "Ivan Živković",
+        "original_name": "Ivan Živković",
+        "popularity": 0.1058,
+        "profile_path": null,
+        "cast_id": 14,
+        "character": "Aleksic's Brother",
+        "credit_id": "52fe468fc3a368484e097791",
+        "order": 5
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1136716,
+        "known_for_department": "Production",
+        "name": "Boško Savić",
+        "original_name": "Boško Savić",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "52fe468fc3a368484e097797",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 17554,
+        "known_for_department": "Directing",
+        "name": "Dušan Makavejev",
+        "original_name": "Dušan Makavejev",
+        "popularity": 0.4438,
+        "profile_path": "/rZgZFhxrleabFpxIAeK3XI2HR5z.jpg",
+        "credit_id": "52fe468fc3a368484e097775",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1095588,
+        "known_for_department": "Sound",
+        "name": "Vojislav Kostić",
+        "original_name": "Vojislav Kostić",
+        "popularity": 0.0873,
+        "profile_path": "/6ao6mLZqTDuErIKpSywROEYAS81.jpg",
+        "credit_id": "52fe468fc3a368484e09777b",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 236060,
+        "known_for_department": "Writing",
+        "name": "Branko Vučićević",
+        "original_name": "Branko Vučićević",
+        "popularity": 0.0842,
+        "profile_path": "/2qoTwqZiIgUCmhabHuirFae6sxK.jpg",
+        "credit_id": "52fe468fc3a368484e09775b",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 17554,
+        "known_for_department": "Directing",
+        "name": "Dušan Makavejev",
+        "original_name": "Dušan Makavejev",
+        "popularity": 0.4438,
+        "profile_path": "/rZgZFhxrleabFpxIAeK3XI2HR5z.jpg",
+        "credit_id": "52fe468fc3a368484e097755",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 234289,
+        "known_for_department": "Editing",
+        "name": "Ivanka Vukasović",
+        "original_name": "Ivanka Vukasović",
+        "popularity": 0.1164,
+        "profile_path": null,
+        "credit_id": "52fe468fc3a368484e09778d",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1136715,
+        "known_for_department": "Camera",
+        "name": "Stevan Mišković",
+        "original_name": "Stevan Mišković",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "564a7c58c3a368602e0014a8",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1136714,
+        "known_for_department": "Crew",
+        "name": "Branko Perak",
+        "original_name": "Branko Perak",
+        "popularity": 0.1577,
+        "profile_path": null,
+        "credit_id": "564a7c619251414dcb00126f",
+        "department": "Camera",
+        "job": "Director of Photography"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "US",
+        "title": "Innocence Unprotected",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "FR",
+        "title": "Innocence sans protection",
+        "type": ""
+      }
+    ]
+  }
+}

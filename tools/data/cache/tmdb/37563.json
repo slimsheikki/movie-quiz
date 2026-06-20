@@ -1,0 +1,430 @@
+{
+  "adult": false,
+  "backdrop_path": "/h7jewTP4Q0fPAiufeFTGZF04P39.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 37563,
+  "imdb_id": "tt0115940",
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "Conte d'été",
+  "overview": "Awaiting his girlfriend Léna’s arrival at the Breton seaside resort of Dinard, Gaspard befriends — and flirts heavily with — two other women, the companionable ethnology student Margot and the sensual townie Solène, making for a rather complicated situation when Léna finally arrives.",
+  "popularity": 1.033,
+  "poster_path": "/l3syqgYqqfqPVheINI5jOBN5hXL.jpg",
+  "production_companies": [
+    {
+      "id": 223,
+      "logo_path": "/pdthRbCuXNlrGNwnmLFRxv5Zy3t.png",
+      "name": "Les Films du Losange",
+      "origin_country": "FR"
+    },
+    {
+      "id": 16366,
+      "logo_path": "/llLC13cdNDmJbq0E0PG8fraWsLp.png",
+      "name": "La Sept Cinéma",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "1996-06-05",
+  "revenue": 0,
+  "runtime": 114,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "A Summer's Tale",
+  "video": false,
+  "vote_average": 7.3,
+  "vote_count": 264,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 26100,
+        "known_for_department": "Acting",
+        "name": "Melvil Poupaud",
+        "original_name": "Melvil Poupaud",
+        "popularity": 0.8279,
+        "profile_path": "/p6Woc7Am82KKnGVyxjtgQuGtTWt.jpg",
+        "cast_id": 12,
+        "character": "Gaspard",
+        "credit_id": "52fe46569251416c910513a9",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 64781,
+        "known_for_department": "Acting",
+        "name": "Amanda Langlet",
+        "original_name": "Amanda Langlet",
+        "popularity": 0.5454,
+        "profile_path": "/uDW876avFijRdvz2nhyuRNoINUA.jpg",
+        "cast_id": 3,
+        "character": "Margot",
+        "credit_id": "52fe46569251416c91051383",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 118024,
+        "known_for_department": "Acting",
+        "name": "Gwenaëlle Simon",
+        "original_name": "Gwenaëlle Simon",
+        "popularity": 0.1296,
+        "profile_path": "/4EMiQCHjo9h4859zCzsalBUu6o7.jpg",
+        "cast_id": 4,
+        "character": "Solène",
+        "credit_id": "52fe46569251416c91051387",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 118025,
+        "known_for_department": "Acting",
+        "name": "Aurelia Nolin",
+        "original_name": "Aurelia Nolin",
+        "popularity": 0.0621,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "Léna",
+        "credit_id": "52fe46569251416c9105138b",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 118026,
+        "known_for_department": "Acting",
+        "name": "Aimé Lefèvre",
+        "original_name": "Aimé Lefèvre",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 10,
+        "character": "Newfoundlander",
+        "credit_id": "52fe46569251416c9105139f",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 118027,
+        "known_for_department": "Acting",
+        "name": "Alain Guellaff",
+        "original_name": "Alain Guellaff",
+        "popularity": 0.0327,
+        "profile_path": null,
+        "cast_id": 6,
+        "character": "Uncle",
+        "credit_id": "52fe46569251416c9105138f",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 118028,
+        "known_for_department": "Acting",
+        "name": "Evelyne Lahana",
+        "original_name": "Evelyne Lahana",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 7,
+        "character": "Aunt",
+        "credit_id": "52fe46569251416c91051393",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 118029,
+        "known_for_department": "Acting",
+        "name": "Yves Guérin",
+        "original_name": "Yves Guérin",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "cast_id": 8,
+        "character": "Accordionist",
+        "credit_id": "52fe46569251416c91051397",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1937871,
+        "known_for_department": "Acting",
+        "name": "Franck Cabot-David",
+        "original_name": "Franck Cabot-David",
+        "popularity": 0.078,
+        "profile_path": "/uGxGS9eTJDNFZqBNv4zkqSOF3bj.jpg",
+        "cast_id": 23,
+        "character": "Cousin",
+        "credit_id": "6824a6e15097c5c63f6ef019",
+        "order": 8
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 28615,
+        "known_for_department": "Directing",
+        "name": "Éric Rohmer",
+        "original_name": "Éric Rohmer",
+        "popularity": 0.7881,
+        "profile_path": "/2lOtFqAMOCvLvU7XeQdazm8t62C.jpg",
+        "credit_id": "52fe46569251416c910513a5",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 28615,
+        "known_for_department": "Directing",
+        "name": "Éric Rohmer",
+        "original_name": "Éric Rohmer",
+        "popularity": 0.7881,
+        "profile_path": "/2lOtFqAMOCvLvU7XeQdazm8t62C.jpg",
+        "credit_id": "543ec94e0e0a266759000168",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 68064,
+        "known_for_department": "Sound",
+        "name": "Sébastien Erms",
+        "original_name": "Sébastien Erms",
+        "popularity": 0.0412,
+        "profile_path": "/r1NI5S1YZZGRTUJf6ABeMUKtIGF.jpg",
+        "credit_id": "59cb1aa89251412be10081ab",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 67527,
+        "known_for_department": "Editing",
+        "name": "Mary Stephen",
+        "original_name": "Mary Stephen",
+        "popularity": 0.1918,
+        "profile_path": "/yd12NL6MNGNhBrGvjtHuGmUcEEN.jpg",
+        "credit_id": "59cb1ab69251412b980088ae",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 67526,
+        "known_for_department": "Camera",
+        "name": "Diane Baratier",
+        "original_name": "Diane Baratier",
+        "popularity": 0.1469,
+        "profile_path": "/pjefy2r2cLUEQvbHtHp9aNAC4fK.jpg",
+        "credit_id": "59cb1aaf9251412bed00868f",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 6100,
+        "known_for_department": "Production",
+        "name": "Margaret Ménégoz",
+        "original_name": "Margaret Ménégoz",
+        "popularity": 0.1418,
+        "profile_path": "/5pWXEemFnZ8L4ZlZ40nrsAoqwvV.jpg",
+        "credit_id": "59cb1a399251412bb3008458",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 118707,
+        "known_for_department": "Sound",
+        "name": "Philippe Eidel",
+        "original_name": "Philippe Eidel",
+        "popularity": 0.1128,
+        "profile_path": "/3sYLwSinRT3X1pVtVt7T4YOwUj9.jpg",
+        "credit_id": "59cb1aa19251412b8b008b9d",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1419007,
+        "known_for_department": "Crew",
+        "name": "Xavier Tauveron",
+        "original_name": "Xavier Tauveron",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "5f9fefd21c09fb003697fe2d",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1171292,
+        "known_for_department": "Sound",
+        "name": "Frédéric de Ravignan",
+        "original_name": "Frédéric de Ravignan",
+        "popularity": 0.0658,
+        "profile_path": "/uCSNxJaGUJ0YL8SJwrEOby10sQ6.jpg",
+        "credit_id": "5f9ff0419ee0ef0036866654",
+        "department": "Sound",
+        "job": "Sound Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1895463,
+        "known_for_department": "Sound",
+        "name": "Pascal Ribier",
+        "original_name": "Pascal Ribier",
+        "popularity": 0.1696,
+        "profile_path": null,
+        "credit_id": "5f9ff0122716710037746085",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 28754,
+        "known_for_department": "Production",
+        "name": "Françoise Etchegaray",
+        "original_name": "Françoise Etchegaray",
+        "popularity": 0.1493,
+        "profile_path": null,
+        "credit_id": "69f42db999f39e6970fbd763",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1145440,
+        "known_for_department": "Sound",
+        "name": "Jonathan Liebling",
+        "original_name": "Jonathan Liebling",
+        "popularity": 0.1952,
+        "profile_path": null,
+        "credit_id": "69f42df5ab2b6f538d237310",
+        "department": "Sound",
+        "job": "Foley Artist"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "RO",
+        "title": "Poveste de vară",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "IT",
+        "title": "Racconto d'estate",
+        "type": "DVD title"
+      },
+      {
+        "iso_3166_1": "UA",
+        "title": "Літня казка",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "DK",
+        "title": "Et sommereventyr",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "FI",
+        "title": "Kesätarina",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "GR",
+        "title": "Ιστορίες του καλοκαιριού",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "IT",
+        "title": "Un ragazzo, tre ragazze",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "JP",
+        "title": "夏物語",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "NO",
+        "title": "Et sommereventyr",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "FR",
+        "title": "Contes des quatre saisons: Conte d'été",
+        "type": "long title"
+      },
+      {
+        "iso_3166_1": "US",
+        "title": "Tales of Four Seasons: A Summer's Tale",
+        "type": "long title"
+      },
+      {
+        "iso_3166_1": "CN",
+        "title": "人间四季之夏天的故事",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "CN",
+        "title": "人间四季：夏",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "US",
+        "title": "A Tale of Summer",
+        "type": ""
+      }
+    ]
+  }
+}

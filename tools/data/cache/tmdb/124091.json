@@ -1,0 +1,843 @@
+{
+  "adult": false,
+  "backdrop_path": "/nOBF2SWJG7ODvIR7H6pBvIX7esU.jpg",
+  "belongs_to_collection": null,
+  "budget": 2000000,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 37,
+      "name": "Western"
+    }
+  ],
+  "homepage": "http://www.laleggendadikasparhauser.com/",
+  "id": 124091,
+  "imdb_id": "tt1887785",
+  "origin_country": [
+    "IT"
+  ],
+  "original_language": "it",
+  "original_title": "La leggenda di Kaspar Hauser",
+  "overview": "Arriving on a deserted beach in the Mediterranean sea, in a time and a place unspecified, Kaspar Hauser is forced to confront the evil of a Grand Duchess who feels threatened by the power she exercises over the community.",
+  "popularity": 0.4038,
+  "poster_path": "/186Rl8qNhOHXWN6cMYs1sHFDUwi.jpg",
+  "production_companies": [
+    {
+      "id": 1791,
+      "logo_path": null,
+      "name": "Blue Films",
+      "origin_country": ""
+    },
+    {
+      "id": 106027,
+      "logo_path": null,
+      "name": "Shooting Hope Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 14016,
+      "logo_path": "/snclwsIZQbgvqYCBJP8fqNlCA5y.png",
+      "name": "MiC",
+      "origin_country": "IT"
+    },
+    {
+      "id": 274774,
+      "logo_path": "/jTXzZRiKZt7L4YvVW4DGvqU51RU.png",
+      "name": "Regione Lazio",
+      "origin_country": "IT"
+    },
+    {
+      "id": 193574,
+      "logo_path": null,
+      "name": "FOURLAB",
+      "origin_country": ""
+    },
+    {
+      "id": 7661,
+      "logo_path": null,
+      "name": "Produzione Straordinaria",
+      "origin_country": "IT"
+    },
+    {
+      "id": 91435,
+      "logo_path": null,
+      "name": "Regione Autonoma della Sardegna",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    }
+  ],
+  "release_date": "2013-06-13",
+  "revenue": 0,
+  "runtime": 95,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Legend of Kaspar Hauser",
+  "video": false,
+  "vote_average": 5.766,
+  "vote_count": 47,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 22461,
+        "known_for_department": "Acting",
+        "name": "Vincent Gallo",
+        "original_name": "Vincent Gallo",
+        "popularity": 1.6118,
+        "profile_path": "/2H8ucxG6LWAHCJAJf9OGfhSXpqQ.jpg",
+        "cast_id": 3,
+        "character": "The Pusher / The Sheriff",
+        "credit_id": "52fe4aa3c3a368484e15f1f3",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 8776,
+        "known_for_department": "Acting",
+        "name": "Claudia Gerini",
+        "original_name": "Claudia Gerini",
+        "popularity": 0.9679,
+        "profile_path": "/QFBen9LPrKuSr9awe0Go3gl6sG.jpg",
+        "cast_id": 4,
+        "character": "The Duchess",
+        "credit_id": "52fe4aa3c3a368484e15f1f7",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 132068,
+        "known_for_department": "Acting",
+        "name": "Elisa Sednaoui",
+        "original_name": "Elisa Sednaoui",
+        "popularity": 0.1834,
+        "profile_path": "/T9otCZxaPhbvQXzyH851inPnuo.jpg",
+        "cast_id": 5,
+        "character": "The Whore",
+        "credit_id": "52fe4aa3c3a368484e15f1fb",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1079388,
+        "known_for_department": "Acting",
+        "name": "Silvia Calderoni",
+        "original_name": "Silvia Calderoni",
+        "popularity": 0.1062,
+        "profile_path": null,
+        "cast_id": 7,
+        "character": "Kaspar Hauser",
+        "credit_id": "52fe4aa3c3a368484e15f203",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 35106,
+        "known_for_department": "Acting",
+        "name": "Fabrizio Gifuni",
+        "original_name": "Fabrizio Gifuni",
+        "popularity": 0.302,
+        "profile_path": "/ptAg3zT52oqeY2mKNjiVhVbMYuh.jpg",
+        "cast_id": 6,
+        "character": "The Priest",
+        "credit_id": "52fe4aa3c3a368484e15f1ff",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1079390,
+        "known_for_department": "Acting",
+        "name": "Marco Lampis",
+        "original_name": "Marco Lampis",
+        "popularity": 0.0454,
+        "profile_path": null,
+        "cast_id": 8,
+        "character": "The Servant",
+        "credit_id": "52fe4aa3c3a368484e15f207",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2074465,
+        "known_for_department": "Acting",
+        "name": "Tonino Fenu",
+        "original_name": "Tonino Fenu",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 17,
+        "character": "The Mule Man",
+        "credit_id": "5b35bae0c3a368533702256c",
+        "order": 6
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 931930,
+        "known_for_department": "Writing",
+        "name": "Davide Manuli",
+        "original_name": "Davide Manuli",
+        "popularity": 0.0404,
+        "profile_path": "/svx57nbOV2IrjjkNRDRcuPy863b.jpg",
+        "credit_id": "52fe4aa4c3a368484e15f213",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 931930,
+        "known_for_department": "Writing",
+        "name": "Davide Manuli",
+        "original_name": "Davide Manuli",
+        "popularity": 0.0404,
+        "profile_path": "/svx57nbOV2IrjjkNRDRcuPy863b.jpg",
+        "credit_id": "52fe4aa4c3a368484e15f20d",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2181395,
+        "known_for_department": "Sound",
+        "name": "Vitalic",
+        "original_name": "Vitalic",
+        "popularity": 0.0571,
+        "profile_path": "/kMH1WPvO0OS0vHyqIt1OkcxmqUO.jpg",
+        "credit_id": "661dda60d75bd6017c30f1f1",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2072577,
+        "known_for_department": "Crew",
+        "name": "Giuseppe Genna",
+        "original_name": "Giuseppe Genna",
+        "popularity": 0.0261,
+        "profile_path": null,
+        "credit_id": "5b31c3dec3a368531d009c59",
+        "department": "Crew",
+        "job": "Additional Writing"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1176443,
+        "known_for_department": "Editing",
+        "name": "Rosella Mocci",
+        "original_name": "Rosella Mocci",
+        "popularity": 0.0557,
+        "profile_path": null,
+        "credit_id": "5b31c3f00e0a2640080094cd",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 34493,
+        "known_for_department": "Camera",
+        "name": "Tarek Ben Abdallah",
+        "original_name": "Tarek Ben Abdallah",
+        "popularity": 0.0387,
+        "profile_path": null,
+        "credit_id": "5b31c3cc0e0a263ff000a05f",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2072578,
+        "known_for_department": "Production",
+        "name": "Alessandro Bonifazi",
+        "original_name": "Alessandro Bonifazi",
+        "popularity": 0.047,
+        "profile_path": null,
+        "credit_id": "5b31c41cc3a3685311008e18",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2072579,
+        "known_for_department": "Production",
+        "name": "Bruno Tribbioli",
+        "original_name": "Bruno Tribbioli",
+        "popularity": 0.0311,
+        "profile_path": null,
+        "credit_id": "5b31c432c3a368532f00a22a",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 931930,
+        "known_for_department": "Writing",
+        "name": "Davide Manuli",
+        "original_name": "Davide Manuli",
+        "popularity": 0.0404,
+        "profile_path": "/svx57nbOV2IrjjkNRDRcuPy863b.jpg",
+        "credit_id": "5b31c4270e0a26401c009edd",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2181395,
+        "known_for_department": "Sound",
+        "name": "Vitalic",
+        "original_name": "Vitalic",
+        "popularity": 0.0571,
+        "profile_path": "/kMH1WPvO0OS0vHyqIt1OkcxmqUO.jpg",
+        "credit_id": "6998fdf4e8ab4e236200aafb",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 34493,
+        "known_for_department": "Camera",
+        "name": "Tarek Ben Abdallah",
+        "original_name": "Tarek Ben Abdallah",
+        "popularity": 0.0387,
+        "profile_path": null,
+        "credit_id": "6998fdfb5fb75dab5a74668f",
+        "department": "Crew",
+        "job": "Cinematography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1626235,
+        "known_for_department": "Production",
+        "name": "Giampietro Preziosa",
+        "original_name": "Giampietro Preziosa",
+        "popularity": 0.0498,
+        "profile_path": null,
+        "credit_id": "6998fe09f30cfdad4df555b6",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2659043,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Ginevra Polverelli",
+        "original_name": "Ginevra Polverelli",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "credit_id": "6998fe1dbb6c502a15746674",
+        "department": "Costume & Make-Up",
+        "job": "Costumer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2783293,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Donatella Borghesi",
+        "original_name": "Donatella Borghesi",
+        "popularity": 0.1451,
+        "profile_path": null,
+        "credit_id": "6998fe25b934343780746725",
+        "department": "Costume & Make-Up",
+        "job": "Hair Department Head"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2768634,
+        "known_for_department": "Camera",
+        "name": "Valerio Coccoli",
+        "original_name": "Valerio Coccoli",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "6998fe39ccef64bd2b27e86f",
+        "department": "Camera",
+        "job": "Second Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2801980,
+        "known_for_department": "Camera",
+        "name": "Michele Nassuato",
+        "original_name": "Michele Nassuato",
+        "popularity": 0.1212,
+        "profile_path": null,
+        "credit_id": "6998fe43098a97301df555d4",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2813908,
+        "known_for_department": "Camera",
+        "name": "Daniele Tarantino",
+        "original_name": "Daniele Tarantino",
+        "popularity": 0.0621,
+        "profile_path": null,
+        "credit_id": "6998fe4c098a97301df555d8",
+        "department": "Camera",
+        "job": "Key Grip"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1615119,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Chiara Marona",
+        "original_name": "Chiara Marona",
+        "popularity": 0.0412,
+        "profile_path": null,
+        "credit_id": "6998fe53eb7ea74f2327e87a",
+        "department": "Costume & Make-Up",
+        "job": "Assistant Costume Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2658975,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Valentina Mezzani",
+        "original_name": "Valentina Mezzani",
+        "popularity": 0.0705,
+        "profile_path": null,
+        "credit_id": "6998fe61d2ef495fb75ae637",
+        "department": "Costume & Make-Up",
+        "job": "Costume Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1636727,
+        "known_for_department": "Directing",
+        "name": "Stefano Felicioni",
+        "original_name": "Stefano Felicioni",
+        "popularity": 0.0484,
+        "profile_path": null,
+        "credit_id": "6998fe68098a97301df555db",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6021163,
+        "known_for_department": "Production",
+        "name": "Sara Rosato",
+        "original_name": "Sara Rosato",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "6998fe71e32ceac09f34507b",
+        "department": "Production",
+        "job": "Production Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1176446,
+        "known_for_department": "Art",
+        "name": "Mario Courrier",
+        "original_name": "Mario Courrier",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "6998fe7aa43a7be3687466d8",
+        "department": "Art",
+        "job": "Property Master"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1767701,
+        "known_for_department": "Writing",
+        "name": "Riccardo Marchesini",
+        "original_name": "Riccardo Marchesini",
+        "popularity": 0.0379,
+        "profile_path": null,
+        "credit_id": "6998fe8c3961fb7d8b182afd",
+        "department": "Visual Effects",
+        "job": "3D Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3924482,
+        "known_for_department": "Visual Effects",
+        "name": "Fulvio Sturniolo",
+        "original_name": "Fulvio Sturniolo",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "6998fe97a43a7be3687466e2",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3785236,
+        "known_for_department": "Visual Effects",
+        "name": "Elisa Tiziani",
+        "original_name": "Elisa Tiziani",
+        "popularity": 0.0441,
+        "profile_path": null,
+        "credit_id": "6998fea0755844528f182ad6",
+        "department": "Visual Effects",
+        "job": "Digital Compositor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3621348,
+        "known_for_department": "Visual Effects",
+        "name": "Fausto Vitali",
+        "original_name": "Fausto Vitali",
+        "popularity": 0.0379,
+        "profile_path": null,
+        "credit_id": "6998feab85ab54072c22e8e2",
+        "department": "Visual Effects",
+        "job": "Digital Compositor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6021165,
+        "known_for_department": "Art",
+        "name": "Eleonora Cunico",
+        "original_name": "Eleonora Cunico",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "6998feb86af8e837ac2416fd",
+        "department": "Art",
+        "job": "Assistant Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6021166,
+        "known_for_department": "Art",
+        "name": "Francesca Macor",
+        "original_name": "Francesca Macor",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "6998fec5f53b4f0daf2416fd",
+        "department": "Art",
+        "job": "Assistant Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4780617,
+        "known_for_department": "Art",
+        "name": "Morena Nastasi",
+        "original_name": "Morena Nastasi",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "6998fed4babb5f78ae182b38",
+        "department": "Art",
+        "job": "Assistant Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1576240,
+        "known_for_department": "Sound",
+        "name": "Francesco Liotard",
+        "original_name": "Francesco Liotard",
+        "popularity": 0.1573,
+        "profile_path": null,
+        "credit_id": "6998feddae6efc1eca345103",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1576240,
+        "known_for_department": "Sound",
+        "name": "Francesco Liotard",
+        "original_name": "Francesco Liotard",
+        "popularity": 0.1573,
+        "profile_path": null,
+        "credit_id": "6998fee2272fb0d57bf555dd",
+        "department": "Sound",
+        "job": "Sound Technical Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6021167,
+        "known_for_department": "Sound",
+        "name": "Federico Pelle",
+        "original_name": "Federico Pelle",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "6998fef1959d77486f00ab4c",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1964530,
+        "known_for_department": "Sound",
+        "name": "Alessandro Romano",
+        "original_name": "Alessandro Romano",
+        "popularity": 0.0363,
+        "profile_path": null,
+        "credit_id": "6998fef95fb75dab5a7466a1",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1852589,
+        "known_for_department": "Sound",
+        "name": "Alessandro Salvatori",
+        "original_name": "Alessandro Salvatori",
+        "popularity": 0.0387,
+        "profile_path": null,
+        "credit_id": "6998ff04272fb0d57bf555e0",
+        "department": "Sound",
+        "job": "Sound Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3440527,
+        "known_for_department": "Production",
+        "name": "Jacopo Cino",
+        "original_name": "Jacopo Cino",
+        "popularity": 0.0493,
+        "profile_path": null,
+        "credit_id": "6998ff22b934343780746735",
+        "department": "Art",
+        "job": "Leadman"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4010312,
+        "known_for_department": "Production",
+        "name": "Simone Contu",
+        "original_name": "Simone Contu",
+        "popularity": 0.0256,
+        "profile_path": null,
+        "credit_id": "6998ff2d99d903b8335ae607",
+        "department": "Production",
+        "job": "Production Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3568002,
+        "known_for_department": "Production",
+        "name": "Stefano Daniele",
+        "original_name": "Stefano Daniele",
+        "popularity": 0.1252,
+        "profile_path": null,
+        "credit_id": "6998ff36f60316247322e8b9",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 931930,
+        "known_for_department": "Writing",
+        "name": "Davide Manuli",
+        "original_name": "Davide Manuli",
+        "popularity": 0.0404,
+        "profile_path": "/svx57nbOV2IrjjkNRDRcuPy863b.jpg",
+        "credit_id": "6998ff5868770c06ba7466eb",
+        "department": "Writing",
+        "job": "Idea"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 931930,
+        "known_for_department": "Writing",
+        "name": "Davide Manuli",
+        "original_name": "Davide Manuli",
+        "popularity": 0.0404,
+        "profile_path": "/svx57nbOV2IrjjkNRDRcuPy863b.jpg",
+        "credit_id": "6998ff5cba2a5b16df27e872",
+        "department": "Crew",
+        "job": "Script"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 931930,
+        "known_for_department": "Writing",
+        "name": "Davide Manuli",
+        "original_name": "Davide Manuli",
+        "popularity": 0.0404,
+        "profile_path": "/svx57nbOV2IrjjkNRDRcuPy863b.jpg",
+        "credit_id": "6998ff617c2d8d966024172f",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 931930,
+        "known_for_department": "Writing",
+        "name": "Davide Manuli",
+        "original_name": "Davide Manuli",
+        "popularity": 0.0404,
+        "profile_path": "/svx57nbOV2IrjjkNRDRcuPy863b.jpg",
+        "credit_id": "6998ff66f46df6f7ba00ab09",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2072577,
+        "known_for_department": "Crew",
+        "name": "Giuseppe Genna",
+        "original_name": "Giuseppe Genna",
+        "popularity": 0.0261,
+        "profile_path": null,
+        "credit_id": "6998ff6e7b89cb693a5ae600",
+        "department": "Writing",
+        "job": "Idea"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2072577,
+        "known_for_department": "Crew",
+        "name": "Giuseppe Genna",
+        "original_name": "Giuseppe Genna",
+        "popularity": 0.0261,
+        "profile_path": null,
+        "credit_id": "6998ff727c2d8d9660241732",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2072577,
+        "known_for_department": "Crew",
+        "name": "Giuseppe Genna",
+        "original_name": "Giuseppe Genna",
+        "popularity": 0.0261,
+        "profile_path": null,
+        "credit_id": "6998ff768b50cf10683450c7",
+        "department": "Crew",
+        "job": "Script"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2072577,
+        "known_for_department": "Crew",
+        "name": "Giuseppe Genna",
+        "original_name": "Giuseppe Genna",
+        "popularity": 0.0261,
+        "profile_path": null,
+        "credit_id": "6998ff7ca87e3942dc182af1",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2072577,
+        "known_for_department": "Crew",
+        "name": "Giuseppe Genna",
+        "original_name": "Giuseppe Genna",
+        "popularity": 0.0261,
+        "profile_path": null,
+        "credit_id": "6998ff80dac7ad51de7466d2",
+        "department": "Writing",
+        "job": "Screenplay"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "RU",
+        "title": "Легенда о Каспаре Хаузере",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "PL",
+        "title": "Legenda Kaspara Hausera",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "FR",
+        "title": "La Légende De Kaspar Hauser",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "GR",
+        "title": "O Thrylos Tou Kaspar Hauser",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "IT",
+        "title": "La Leggenda di Kaspar Hauser",
+        "type": ""
+      }
+    ]
+  }
+}

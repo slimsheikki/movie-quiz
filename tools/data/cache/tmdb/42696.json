@@ -1,0 +1,339 @@
+{
+  "adult": false,
+  "backdrop_path": "/wL8kf5WXBeNWcacQfQpoHLA05SI.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 42696,
+  "imdb_id": "tt0061912",
+  "origin_country": [
+    "YU"
+  ],
+  "original_language": "sh",
+  "original_title": "Ljubavni slucaj ili tragedija sluzbenice P.T.T.",
+  "overview": "After many adventures, a young female switchboard operator starts a love relationship with a serious young man. But while he's away on business, she gets lonely and succumbs to her colleague's passes.",
+  "popularity": 0.685,
+  "poster_path": "/yMt9UFVIiTfX5PIZNHzA5uE1uKw.jpg",
+  "production_companies": [
+    {
+      "id": 5940,
+      "logo_path": "/pJR6Hhx3FsRPzoh4LyJyHEa6cD3.png",
+      "name": "Avala Film",
+      "origin_country": "YU"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "YU",
+      "name": "Yugoslavia"
+    }
+  ],
+  "release_date": "1967-09-22",
+  "revenue": 0,
+  "runtime": 69,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Serbo-Croatian",
+      "iso_639_1": "sh",
+      "name": ""
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Love Affair, or the Case of the Missing Switchboard Operator",
+  "video": false,
+  "vote_average": 6.7,
+  "vote_count": 42,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 110989,
+        "known_for_department": "Acting",
+        "name": "Eva Ras",
+        "original_name": "Eva Ras",
+        "popularity": 0.4414,
+        "profile_path": "/eseW8iLUUoIkgN9KtTZeH3pug1h.jpg",
+        "cast_id": 6,
+        "character": "Izabela, telefonistkinja",
+        "credit_id": "52fe4612c3a36847f80eb105",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 213378,
+        "known_for_department": "Acting",
+        "name": "Slobodan Aligrudić",
+        "original_name": "Slobodan Aligrudić",
+        "popularity": 0.2598,
+        "profile_path": "/j4jpFeZ0LJxIZUJjIwEwVI65dEQ.jpg",
+        "cast_id": 7,
+        "character": "Ahmed, sanitarni inspektor",
+        "credit_id": "52fe4612c3a36847f80eb109",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 228804,
+        "known_for_department": "Acting",
+        "name": "Ružica Sokić",
+        "original_name": "Ružica Sokić",
+        "popularity": 0.2858,
+        "profile_path": "/alyYuhOu3JdkmlhqdbAmTS3VIc2.jpg",
+        "cast_id": 9,
+        "character": "Ruža, Izabelina koleginica",
+        "credit_id": "52fe4612c3a36847f80eb10d",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 239837,
+        "known_for_department": "Acting",
+        "name": "Miodrag Andrić",
+        "original_name": "Miodrag Andrić",
+        "popularity": 0.2182,
+        "profile_path": "/zgJzBb22NfV257BN5crDKiw6WNE.jpg",
+        "cast_id": 10,
+        "character": "Mića, poštar i zavodnik",
+        "credit_id": "52fe4612c3a36847f80eb111",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 239838,
+        "known_for_department": "Acting",
+        "name": "Aleksandar Kostić",
+        "original_name": "Aleksandar Kostić",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "cast_id": 11,
+        "character": "Ekspert za seksualna pitanja",
+        "credit_id": "52fe4612c3a36847f80eb115",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 239839,
+        "known_for_department": "Acting",
+        "name": "Živojin Aleksić",
+        "original_name": "Živojin Aleksić",
+        "popularity": 0.0457,
+        "profile_path": null,
+        "cast_id": 12,
+        "character": "Ekspert za kriminalistiku",
+        "credit_id": "52fe4612c3a36847f80eb119",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 239840,
+        "known_for_department": "Acting",
+        "name": "Dragan Obradović",
+        "original_name": "Dragan Obradović",
+        "popularity": 0.0431,
+        "profile_path": null,
+        "cast_id": 13,
+        "character": "Obducent",
+        "credit_id": "52fe4612c3a36847f80eb11d",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 239841,
+        "known_for_department": "Acting",
+        "name": "Rade Ljubisavljević",
+        "original_name": "Rade Ljubisavljević",
+        "popularity": 0.0168,
+        "profile_path": null,
+        "cast_id": 14,
+        "character": "Vodoinstalater",
+        "credit_id": "52fe4612c3a36847f80eb121",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 239842,
+        "known_for_department": "Acting",
+        "name": "Aca Tadić",
+        "original_name": "Aca Tadić",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "cast_id": 15,
+        "character": "Jorgandžija",
+        "credit_id": "52fe4612c3a36847f80eb125",
+        "order": 8
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 239843,
+        "known_for_department": "Art",
+        "name": "Vladislav Lašić",
+        "original_name": "Vladislav Lašić",
+        "popularity": 0.0666,
+        "profile_path": null,
+        "credit_id": "52fe4612c3a36847f80eb12b",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 17554,
+        "known_for_department": "Directing",
+        "name": "Dušan Makavejev",
+        "original_name": "Dušan Makavejev",
+        "popularity": 0.4438,
+        "profile_path": "/rZgZFhxrleabFpxIAeK3XI2HR5z.jpg",
+        "credit_id": "52fe4612c3a36847f80eb0ef",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 239846,
+        "known_for_department": "Production",
+        "name": "Aleksandar Krstić",
+        "original_name": "Aleksandar Krstić",
+        "popularity": 0.0535,
+        "profile_path": null,
+        "credit_id": "52fe4612c3a36847f80eb143",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 239844,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Jelisaveta Gobecki",
+        "original_name": "Jelisaveta Gobecki",
+        "popularity": 0.1087,
+        "profile_path": null,
+        "credit_id": "52fe4612c3a36847f80eb131",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 236060,
+        "known_for_department": "Writing",
+        "name": "Branko Vučićević",
+        "original_name": "Branko Vučićević",
+        "popularity": 0.0842,
+        "profile_path": "/2qoTwqZiIgUCmhabHuirFae6sxK.jpg",
+        "credit_id": "52fe4612c3a36847f80eb0f5",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 239846,
+        "known_for_department": "Production",
+        "name": "Aleksandar Krstić",
+        "original_name": "Aleksandar Krstić",
+        "popularity": 0.0535,
+        "profile_path": null,
+        "credit_id": "52fe4612c3a36847f80eb13d",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 239836,
+        "known_for_department": "Editing",
+        "name": "Katarina Stojanović",
+        "original_name": "Katarina Stojanović",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "52fe4612c3a36847f80eb101",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 239845,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Dragica Milivojević",
+        "original_name": "Dragica Milivojevic",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "52fe4612c3a36847f80eb137",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 17554,
+        "known_for_department": "Directing",
+        "name": "Dušan Makavejev",
+        "original_name": "Dušan Makavejev",
+        "popularity": 0.4438,
+        "profile_path": "/rZgZFhxrleabFpxIAeK3XI2HR5z.jpg",
+        "credit_id": "52fe4612c3a36847f80eb0e9",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 234290,
+        "known_for_department": "Camera",
+        "name": "Aleksandar Petković",
+        "original_name": "Aleksandar Petković",
+        "popularity": 0.0759,
+        "profile_path": null,
+        "credit_id": "564c9e6d9251416de300366e",
+        "department": "Camera",
+        "job": "Director of Photography"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "RU",
+        "title": "Любовный случай, или Трагедия служащей почтово-телеграфного узла",
+        "type": "alternative russian title"
+      },
+      {
+        "iso_3166_1": "NO",
+        "title": "En hjertesak",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "BR",
+        "title": "Um Caso de Amor, ou o Drama de uma Empregada da Companhia Telefônica",
+        "type": ""
+      }
+    ]
+  }
+}

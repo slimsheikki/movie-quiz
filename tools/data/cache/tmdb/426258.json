@@ -1,0 +1,638 @@
+{
+  "adult": false,
+  "backdrop_path": "/vJOG6eOrusXe3CnEGiAVkQp1bXu.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "http://thestrangeones.com/",
+  "id": 426258,
+  "imdb_id": "tt6014904",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Strange Ones",
+  "overview": "Mysterious events surround the travels of two brothers as they make their way across a remote American landscape. On the surface all seems normal, but what appears to be a simple vacation soon gives way to a dark and complex web of secrets. This is the feature film version of the 2011 short film going by the same name.",
+  "popularity": 0.3652,
+  "poster_path": "/bbeS9X3xTHrziocOov750LoWmvo.jpg",
+  "production_companies": [
+    {
+      "id": 35562,
+      "logo_path": "/wE4mjcC6MWffVY5Xo2Lpjt3wyAF.png",
+      "name": "Gamechanger Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 87038,
+      "logo_path": "/hn9S9PimxwmeTd0oII6ecurKw2x.png",
+      "name": "Adastra Films",
+      "origin_country": "FR"
+    },
+    {
+      "id": 41640,
+      "logo_path": "/e1naE79Djln19oDgMsP3uuvLbTq.png",
+      "name": "Archer Gray",
+      "origin_country": "US"
+    },
+    {
+      "id": 73928,
+      "logo_path": null,
+      "name": "Relic Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 90999,
+      "logo_path": "/fvFryW0HGSIRRtI2hN0hOpTnmhO.png",
+      "name": "Storyboard Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2018-01-05",
+  "revenue": 0,
+  "runtime": 82,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Strange Ones",
+  "video": false,
+  "vote_average": 5.247,
+  "vote_count": 87,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 61363,
+        "known_for_department": "Acting",
+        "name": "Alex Pettyfer",
+        "original_name": "Alex Pettyfer",
+        "popularity": 1.3944,
+        "profile_path": "/jcejkad2OWB71Bz1RRc4Ib0961k.jpg",
+        "cast_id": 2,
+        "character": "Nick",
+        "credit_id": "582c2ce7c3a36872c6005f27",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1397783,
+        "known_for_department": "Acting",
+        "name": "James Freedson-Jackson",
+        "original_name": "James Freedson-Jackson",
+        "popularity": 0.1203,
+        "profile_path": "/oWYiNpLFKMALq7pEt62XWFevQjO.jpg",
+        "cast_id": 3,
+        "character": "Sam",
+        "credit_id": "582c2cefc3a36872c9005a6b",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 164094,
+        "known_for_department": "Acting",
+        "name": "Marin Ireland",
+        "original_name": "Marin Ireland",
+        "popularity": 2.2169,
+        "profile_path": "/jAIOQNraHjvIAdqk81QDV5Phupp.jpg",
+        "cast_id": 6,
+        "character": "Crystal",
+        "credit_id": "585a6375c3a3682dfe07a197",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 58619,
+        "known_for_department": "Acting",
+        "name": "Cindy Cheung",
+        "original_name": "Cindy Cheung",
+        "popularity": 0.6616,
+        "profile_path": "/j7zNyJHlAxqrsIUZYOObssZnj5s.jpg",
+        "cast_id": 27,
+        "character": "Sarah's Mother",
+        "credit_id": "5a3e94f4c3a3680bac013253",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1212964,
+        "known_for_department": "Acting",
+        "name": "Melanie Nicholls-King",
+        "original_name": "Melanie Nicholls-King",
+        "popularity": 0.931,
+        "profile_path": "/lgDou5t3q8IsW5IlyJJtzVPESvz.jpg",
+        "cast_id": 24,
+        "character": "Detective Reynolds",
+        "credit_id": "58c3f1b1c3a3681aa700361c",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1194944,
+        "known_for_department": "Acting",
+        "name": "Gene Jones",
+        "original_name": "Gene Jones",
+        "popularity": 0.3972,
+        "profile_path": "/bafq3sKRaz20gZHfyaIY8E93K3w.jpg",
+        "cast_id": 23,
+        "character": "Gary",
+        "credit_id": "58c3f1759251413432003773",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 132220,
+        "known_for_department": "Acting",
+        "name": "Owen Campbell",
+        "original_name": "Owen Campbell",
+        "popularity": 0.7055,
+        "profile_path": "/qP1NpcKcLi7fQzD4GPW2J74emib.jpg",
+        "cast_id": 25,
+        "character": "Luke",
+        "credit_id": "5a3e94f49251411fd500fc14",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1774266,
+        "known_for_department": "Acting",
+        "name": "Emily Althaus",
+        "original_name": "Emily Althaus",
+        "popularity": 0.5658,
+        "profile_path": "/2X4Ig3KrvHy9An4mQoZtU3yZaCe.jpg",
+        "cast_id": 22,
+        "character": "Kelly",
+        "credit_id": "58c3f14492514134580036a7",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1084956,
+        "known_for_department": "Acting",
+        "name": "Laurent Rejto",
+        "original_name": "Laurent Rejto",
+        "popularity": 0.1728,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "Man in Truck",
+        "credit_id": "582c2cf792514111b10062ad",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1709465,
+        "known_for_department": "Acting",
+        "name": "Will Blomker",
+        "original_name": "Will Blomker",
+        "popularity": 0.238,
+        "profile_path": "/cXdNXsCTI7NX9KZ2aawQdfnUvGb.jpg",
+        "cast_id": 5,
+        "character": "Robert",
+        "credit_id": "582c2cfec3a36872c00062fb",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 118402,
+        "known_for_department": "Acting",
+        "name": "Tobias Campbell",
+        "original_name": "Tobias Campbell",
+        "popularity": 0.1886,
+        "profile_path": null,
+        "cast_id": 26,
+        "character": "Jeremiah",
+        "credit_id": "5a3e94f49251411f4f00f9bd",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1947032,
+        "known_for_department": "Acting",
+        "name": "Allen Fawcett",
+        "original_name": "Allen Fawcett",
+        "popularity": 0.2144,
+        "profile_path": null,
+        "cast_id": 28,
+        "character": "Rest Stop Attendant",
+        "credit_id": "5a3e94f50e0a2620ef014962",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1614440,
+        "known_for_department": "Acting",
+        "name": "Cliff Ferraro",
+        "original_name": "Cliff Ferraro",
+        "popularity": 0.0261,
+        "profile_path": null,
+        "cast_id": 29,
+        "character": "Cop",
+        "credit_id": "5a3e94f50e0a2620e0013e44",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1597546,
+        "known_for_department": "Acting",
+        "name": "Betsy Holt",
+        "original_name": "Betsy Holt",
+        "popularity": 0.3188,
+        "profile_path": "/8CQSIfKuK7DUCSabX5MvcqarW9Z.jpg",
+        "cast_id": 30,
+        "character": "Diner Waitress",
+        "credit_id": "5a3e94f59251411fd500fc17",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1506489,
+        "known_for_department": "Acting",
+        "name": "Birgit Huppuch",
+        "original_name": "Birgit Huppuch",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 31,
+        "character": "Dr. Faller",
+        "credit_id": "5a3e94f60e0a2620e30138b0",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1499452,
+        "known_for_department": "Acting",
+        "name": "Sara Kiener",
+        "original_name": "Sara Kiener",
+        "popularity": 0.0281,
+        "profile_path": null,
+        "cast_id": 32,
+        "character": "Counselor",
+        "credit_id": "5a3e94f6c3a3680bbc0142bd",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1386019,
+        "known_for_department": "Acting",
+        "name": "David Sitler",
+        "original_name": "David Sitler",
+        "popularity": 0.1025,
+        "profile_path": "/aMZeY2TR0jC7q4haATVjlhqQ9IP.jpg",
+        "cast_id": 33,
+        "character": "Male Hiker",
+        "credit_id": "5a3e94f60e0a2620ec013d51",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1947034,
+        "known_for_department": "Acting",
+        "name": "Olivia Wang",
+        "original_name": "Olivia Wang",
+        "popularity": 0.0495,
+        "profile_path": "/o2JfbwxtlSPSfhxs4zAMbrb7oh2.jpg",
+        "cast_id": 40,
+        "character": "Sarah",
+        "credit_id": "67d0e84d42c0ccc3ca1e0dd2",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1947033,
+        "known_for_department": "Acting",
+        "name": "Sheila Stasack",
+        "original_name": "Sheila Stasack",
+        "popularity": 0.176,
+        "profile_path": "/5OIHttlKZtgm7tSqmzTXMhmZlo9.jpg",
+        "cast_id": 34,
+        "character": "Female Hiker",
+        "credit_id": "5a3e94f70e0a2620e0013e48",
+        "order": 18
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1709464,
+        "known_for_department": "Editing",
+        "name": "Christopher Radcliff",
+        "original_name": "Christopher Radcliff",
+        "popularity": 0.2244,
+        "profile_path": "/uCXAbFswtWIont78E36cpBC9IEI.jpg",
+        "credit_id": "582c2cd3c3a36872cc00669a",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1191348,
+        "known_for_department": "Directing",
+        "name": "Lauren Wolkstein",
+        "original_name": "Lauren Wolkstein",
+        "popularity": 0.3665,
+        "profile_path": "/iYAHjKmsbzi7Ev0B4ypau2SsVKk.jpg",
+        "credit_id": "582c2cdf92514111b4006188",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1687884,
+        "known_for_department": "Crew",
+        "name": "Mark Sean Haynes",
+        "original_name": "Mark Sean Haynes",
+        "popularity": 0.1266,
+        "profile_path": null,
+        "credit_id": "63d6c7903dc31300af21f995",
+        "department": "Crew",
+        "job": "Post Production Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 141298,
+        "known_for_department": "Production",
+        "name": "Daniela Taplin Lundberg",
+        "original_name": "Daniela Taplin Lundberg",
+        "popularity": 0.2047,
+        "profile_path": "/5IukhAoQf3puYJvdsIYTsSAdwCy.jpg",
+        "credit_id": "58c3ed369251413452002fad",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1292110,
+        "known_for_department": "Production",
+        "name": "Michael Prall",
+        "original_name": "Michael Prall",
+        "popularity": 0.1159,
+        "profile_path": null,
+        "credit_id": "58c3edd992514134320034f3",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1774264,
+        "known_for_department": "Production",
+        "name": "Eric Schultz",
+        "original_name": "Eric Schultz",
+        "popularity": 0.1776,
+        "profile_path": null,
+        "credit_id": "58c3ee18c3a3681a4a00332c",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1583890,
+        "known_for_department": "Production",
+        "name": "Shani Geva",
+        "original_name": "Shani Geva",
+        "popularity": 0.0404,
+        "profile_path": null,
+        "credit_id": "58c3ee9cc3a3681aa700342d",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1299577,
+        "known_for_department": "Production",
+        "name": "Sébastien Aubert",
+        "original_name": "Sébastien Aubert",
+        "popularity": 0.0634,
+        "profile_path": null,
+        "credit_id": "58c3eea6925141342b0030af",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1709464,
+        "known_for_department": "Editing",
+        "name": "Christopher Radcliff",
+        "original_name": "Christopher Radcliff",
+        "popularity": 0.2244,
+        "profile_path": "/uCXAbFswtWIont78E36cpBC9IEI.jpg",
+        "credit_id": "58c3f076c3a3681ad30031cc",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1183545,
+        "known_for_department": "Camera",
+        "name": "Todd Banhazl",
+        "original_name": "Todd Banhazl",
+        "popularity": 0.1633,
+        "profile_path": "/tdGP6rnWY83PJW9QVu6nHGSRoWJ.jpg",
+        "credit_id": "58c3f086c3a3681a8600339d",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1191348,
+        "known_for_department": "Directing",
+        "name": "Lauren Wolkstein",
+        "original_name": "Lauren Wolkstein",
+        "popularity": 0.3665,
+        "profile_path": "/iYAHjKmsbzi7Ev0B4ypau2SsVKk.jpg",
+        "credit_id": "58c3f094925141341f003410",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1709464,
+        "known_for_department": "Editing",
+        "name": "Christopher Radcliff",
+        "original_name": "Christopher Radcliff",
+        "popularity": 0.2244,
+        "profile_path": "/uCXAbFswtWIont78E36cpBC9IEI.jpg",
+        "credit_id": "58c3f09bc3a3681ac100314d",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1614531,
+        "known_for_department": "Art",
+        "name": "Danica Pantic",
+        "original_name": "Danica Pantic",
+        "popularity": 0.0532,
+        "profile_path": null,
+        "credit_id": "58c3f0a9925141341f00341b",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1394645,
+        "known_for_department": "Sound",
+        "name": "Brian McOmber",
+        "original_name": "Brian McOmber",
+        "popularity": 0.1422,
+        "profile_path": null,
+        "credit_id": "58c3f0ca92514134250035e8",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1292992,
+        "known_for_department": "Production",
+        "name": "Mynette Louie",
+        "original_name": "Mynette Louie",
+        "popularity": 0.1906,
+        "profile_path": "/rBpUtkmFw9CYm115pGZEOa56PI8.jpg",
+        "credit_id": "58c3f0e9c3a3681ad30031ff",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 17450,
+        "known_for_department": "Production",
+        "name": "Anne Carey",
+        "original_name": "Anne Carey",
+        "popularity": 0.1568,
+        "profile_path": null,
+        "credit_id": "58c3f0f59251413452003211",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1764692,
+        "known_for_department": "Production",
+        "name": "Jason Potash",
+        "original_name": "Jason Potash",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "58c3f101c3a3681aa70035cb",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1764687,
+        "known_for_department": "Production",
+        "name": "Paul Finkel",
+        "original_name": "Paul Finkel",
+        "popularity": 0.0885,
+        "profile_path": null,
+        "credit_id": "58c3f1249251413425003627",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1709464,
+        "known_for_department": "Editing",
+        "name": "Christopher Radcliff",
+        "original_name": "Christopher Radcliff",
+        "popularity": 0.2244,
+        "profile_path": "/uCXAbFswtWIont78E36cpBC9IEI.jpg",
+        "credit_id": "5b349a040e0a263ff801e824",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1191348,
+        "known_for_department": "Directing",
+        "name": "Lauren Wolkstein",
+        "original_name": "Lauren Wolkstein",
+        "popularity": 0.3665,
+        "profile_path": "/iYAHjKmsbzi7Ev0B4ypau2SsVKk.jpg",
+        "credit_id": "5b349a1bc3a368531401b302",
+        "department": "Writing",
+        "job": "Story"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "GR",
+        "title": "Οι παράξενοι",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "HU",
+        "title": "Rejtélyes utazók",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "PL",
+        "title": "Dziwni goście",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "RU",
+        "title": "Странные",
+        "type": ""
+      }
+    ]
+  }
+}

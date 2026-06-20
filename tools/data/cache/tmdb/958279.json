@@ -1,0 +1,858 @@
+{
+  "adult": false,
+  "backdrop_path": "/uVeWvMvaTy3zj8Z8oOJ04XGYhW6.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 958279,
+  "imdb_id": "tt17679584",
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "ar",
+  "original_title": "أزرق القفطان",
+  "overview": "A middle-aged tailor and his wife find their relationship challenged by the arrival of a handsome new apprentice.",
+  "popularity": 1.2894,
+  "poster_path": "/a4ipoP8RnMsISuAkzupbZj4mTKI.jpg",
+  "production_companies": [
+    {
+      "id": 20219,
+      "logo_path": "/yG2ZN1BVMRid0HMQWhFaCl2b6hN.png",
+      "name": "Les Films du Nouveau Monde",
+      "origin_country": "FR"
+    },
+    {
+      "id": 58725,
+      "logo_path": "/yN5wFO8H8grMaIbxI1S2DoDLxyp.png",
+      "name": "Ali'n Productions",
+      "origin_country": "MA"
+    },
+    {
+      "id": 15362,
+      "logo_path": "/aurALPPlHEmvVZHt6UnA3k408zn.png",
+      "name": "Velvet Films",
+      "origin_country": "BE"
+    },
+    {
+      "id": 88231,
+      "logo_path": "/hVx90I5BEktosw4N9AneIFwmjeg.png",
+      "name": "Snowglobe",
+      "origin_country": "DK"
+    },
+    {
+      "id": 24430,
+      "logo_path": "/7ZIwXTA5QVD6feybiITOL6OYJPJ.png",
+      "name": "BeTV",
+      "origin_country": "BE"
+    },
+    {
+      "id": 11797,
+      "logo_path": "/oeBCBsLLlIj2UNQBZZkhlPdDOJG.png",
+      "name": "VOO",
+      "origin_country": "BE"
+    },
+    {
+      "id": 792,
+      "logo_path": "/cRhBQP1FFNugNxKkO1pUgeD2Rkr.png",
+      "name": "RTBF",
+      "origin_country": "BE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "BE",
+      "name": "Belgium"
+    },
+    {
+      "iso_3166_1": "DK",
+      "name": "Denmark"
+    },
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "MA",
+      "name": "Morocco"
+    }
+  ],
+  "release_date": "2023-02-10",
+  "revenue": 0,
+  "runtime": 122,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Arabic",
+      "iso_639_1": "ar",
+      "name": "العربية"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Blue Caftan",
+  "video": false,
+  "vote_average": 7.218,
+  "vote_count": 181,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 77498,
+        "known_for_department": "Acting",
+        "name": "Lubna Azabal",
+        "original_name": "Lubna Azabal",
+        "popularity": 1.0459,
+        "profile_path": "/qjsoXqKJPnmoMs1eyeTLBKKShYQ.jpg",
+        "cast_id": 2,
+        "character": "Mina",
+        "credit_id": "624a5627713ea600a1eb3ec5",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 42442,
+        "known_for_department": "Acting",
+        "name": "Saleh Bakri",
+        "original_name": "Saleh Bakri",
+        "popularity": 0.3678,
+        "profile_path": "/nx5owXvKk9QPOXbluDZhtAaUlRB.jpg",
+        "cast_id": 3,
+        "character": "Halim",
+        "credit_id": "624a562c5b2f47006370180c",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3492164,
+        "known_for_department": "Acting",
+        "name": "Ayoub Messioui",
+        "original_name": "Ayoub Messioui",
+        "popularity": 0.0362,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "Youssef",
+        "credit_id": "624a5636308131004f705442",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2215967,
+        "known_for_department": "Acting",
+        "name": "Zakaria Atifi",
+        "original_name": "Zakaria Atifi",
+        "popularity": 0.1946,
+        "profile_path": null,
+        "cast_id": 33,
+        "character": "Bachir",
+        "credit_id": "645ec2466e0d7200ff4a9976",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3088307,
+        "known_for_department": "Acting",
+        "name": "Mounia Lamkimel",
+        "original_name": "Mounia Lamkimel",
+        "popularity": 0.1773,
+        "profile_path": null,
+        "cast_id": 31,
+        "character": "Blue Caftan Client",
+        "credit_id": "645ec222e3fa2f0103a05094",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4058969,
+        "known_for_department": "Acting",
+        "name": "Abdelhamid Zoughi",
+        "original_name": "Abdelhamid Zoughi",
+        "popularity": 0.0362,
+        "profile_path": null,
+        "cast_id": 32,
+        "character": "Doctor",
+        "credit_id": "645ec23ba6725400e3d0e1f5",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4058970,
+        "known_for_department": "Acting",
+        "name": "Fatima Hilal",
+        "original_name": "Fatima Hilal",
+        "popularity": 0.0311,
+        "profile_path": null,
+        "cast_id": 34,
+        "character": "Boutique Customer",
+        "credit_id": "645ec25aef8b32013885e679",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1963988,
+        "known_for_department": "Acting",
+        "name": "Mariam Lalouaz",
+        "original_name": "Mariam Lalouaz",
+        "popularity": 0.0505,
+        "profile_path": null,
+        "cast_id": 35,
+        "character": "Boutique Customer",
+        "credit_id": "645ec262ef8b3200fe7c6c08",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4058973,
+        "known_for_department": "Acting",
+        "name": "Kholoud El Ouehabi",
+        "original_name": "Kholoud El Ouehabi",
+        "popularity": 0.0721,
+        "profile_path": null,
+        "cast_id": 36,
+        "character": "Boutique Customer",
+        "credit_id": "645ec26ba67254014365e5dc",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4058974,
+        "known_for_department": "Acting",
+        "name": "Amira Tiouli",
+        "original_name": "Amira Tiouli",
+        "popularity": 0,
+        "profile_path": null,
+        "cast_id": 37,
+        "character": "Boutique Customer",
+        "credit_id": "645ec271ef8b32011b130219",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4058975,
+        "known_for_department": "Acting",
+        "name": "Hanaa Laidi",
+        "original_name": "Hanaa Laidi",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 38,
+        "character": "Boutique Customer",
+        "credit_id": "645ec278a67254014365e5e8",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4058976,
+        "known_for_department": "Acting",
+        "name": "Aymane El Oarrari",
+        "original_name": "Aymane El Oarrari",
+        "popularity": 0,
+        "profile_path": null,
+        "cast_id": 39,
+        "character": "Boutique Customer's Child",
+        "credit_id": "645ec27fa672540122112f70",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3716213,
+        "known_for_department": "Acting",
+        "name": "Ilyass El Ouahdani",
+        "original_name": "Ilyass El Ouahdani",
+        "popularity": 0.0764,
+        "profile_path": null,
+        "cast_id": 40,
+        "character": "Boutique Customer's Child",
+        "credit_id": "645ec287dbbb4200e22c0283",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4058978,
+        "known_for_department": "Acting",
+        "name": "Fouzia Ejjawi",
+        "original_name": "Fouzia Ejjawi",
+        "popularity": 0,
+        "profile_path": null,
+        "cast_id": 41,
+        "character": "Fatna",
+        "credit_id": "645ec2acef8b3200fe7c6c23",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1749000,
+        "known_for_department": "Acting",
+        "name": "Mohamed Naimane",
+        "original_name": "Mohamed Naimane",
+        "popularity": 0.0648,
+        "profile_path": "/1ojdNQBdERgKveJneruDvRN2As7.jpg",
+        "cast_id": 42,
+        "character": "Bathhouse Employee",
+        "credit_id": "645ec2b8e3fa2f00e4027c08",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4058981,
+        "known_for_department": "Acting",
+        "name": "Mohamed Tahri Joutey Hassani",
+        "original_name": "Mohamed Tahri Joutey Hassani",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 43,
+        "character": "Police Officer",
+        "credit_id": "645ec2c6a67254010108acb9",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4058982,
+        "known_for_department": "Acting",
+        "name": "Abdellah Lebkiri",
+        "original_name": "Abdellah Lebkiri",
+        "popularity": 0.0831,
+        "profile_path": null,
+        "cast_id": 44,
+        "character": "Man in Bathhouse",
+        "credit_id": "645ec2d4e3fa2f0187b7a698",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3741892,
+        "known_for_department": "Acting",
+        "name": "Driss Diouri",
+        "original_name": "Driss Diouri",
+        "popularity": 0.0412,
+        "profile_path": null,
+        "cast_id": 45,
+        "character": "Man in Bathhouse",
+        "credit_id": "645ec2de8c44b90153da55ad",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4058983,
+        "known_for_department": "Acting",
+        "name": "Ilham Chakib",
+        "original_name": "Ilham Chakib",
+        "popularity": 0,
+        "profile_path": null,
+        "cast_id": 46,
+        "character": "Neighbor",
+        "credit_id": "645ec2ebe3fa2f01662027e8",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4058984,
+        "known_for_department": "Acting",
+        "name": "Abdelrhafor Essolh",
+        "original_name": "Abdelrhafor Essolh",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 47,
+        "character": "Tangerine Vendor",
+        "credit_id": "645ec2f6a67254010108acd7",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4058985,
+        "known_for_department": "Acting",
+        "name": "Nourredine Aim",
+        "original_name": "Nourredine Aim",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "cast_id": 48,
+        "character": "Tangerine Vendor",
+        "credit_id": "645ec3006e0d7200e31bd77b",
+        "order": 20
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4058986,
+        "known_for_department": "Acting",
+        "name": "Hassan Boudour",
+        "original_name": "Hassan Boudour",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 49,
+        "character": "Moha",
+        "credit_id": "645ec30ba672540164dd143f",
+        "order": 21
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4058987,
+        "known_for_department": "Acting",
+        "name": "Naima Boudra",
+        "original_name": "Naima Boudra",
+        "popularity": 0.0362,
+        "profile_path": null,
+        "cast_id": 50,
+        "character": "Saleswoman",
+        "credit_id": "645ec3156e0d72017b2fc3b0",
+        "order": 22
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4058988,
+        "known_for_department": "Acting",
+        "name": "Fatima Laaraj",
+        "original_name": "Fatima Laaraj",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 51,
+        "character": "Mortuary Washer",
+        "credit_id": "645ec3208c44b90119c9a15f",
+        "order": 23
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4058989,
+        "known_for_department": "Acting",
+        "name": "Kahija Toufik",
+        "original_name": "Kahija Toufik",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 52,
+        "character": "Mortuary Washer",
+        "credit_id": "645ec32adbbb4200e22c02b8",
+        "order": 24
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1680263,
+        "known_for_department": "Directing",
+        "name": "Maryam Touzani",
+        "original_name": "Maryam Touzani",
+        "popularity": 0.2096,
+        "profile_path": "/pZzjavB0zLgm9sHxki70BDmlwpT.jpg",
+        "credit_id": "624a561b08cf87004e16e6b0",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1680263,
+        "known_for_department": "Directing",
+        "name": "Maryam Touzani",
+        "original_name": "Maryam Touzani",
+        "popularity": 0.2096,
+        "profile_path": "/pZzjavB0zLgm9sHxki70BDmlwpT.jpg",
+        "credit_id": "62eaa7df1bf266005da4d0c2",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 285104,
+        "known_for_department": "Directing",
+        "name": "Nabil Ayouch",
+        "original_name": "Nabil Ayouch",
+        "popularity": 0.2336,
+        "profile_path": "/n7t19GtMJVErQ4SaSKaptVRhPnH.jpg",
+        "credit_id": "62eaa81a8566d2005fb06456",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1487487,
+        "known_for_department": "Camera",
+        "name": "Virginie Surdej",
+        "original_name": "Virginie Surdej",
+        "popularity": 0.0759,
+        "profile_path": "/wTjbxuueMLuRZ0TXGjnvbkJIl5R.jpg",
+        "credit_id": "62eaa88c091e62006048d27a",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1890246,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Jennifer Courouge",
+        "original_name": "Jennifer Courouge",
+        "popularity": 0.082,
+        "profile_path": null,
+        "credit_id": "631fa0fb67dcc90082828c24",
+        "department": "Costume & Make-Up",
+        "job": "Key Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2348383,
+        "known_for_department": "Camera",
+        "name": "Adil Ayoub",
+        "original_name": "Adil Ayoub",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "631fa3520b7316007dc448fc",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3698581,
+        "known_for_department": "Sound",
+        "name": "Samir Abdelmoumen",
+        "original_name": "Samir Abdelmoumen",
+        "popularity": 0.0662,
+        "profile_path": null,
+        "credit_id": "631fa109b87aec007a7827e3",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1554944,
+        "known_for_department": "Production",
+        "name": "Eva Jakobsen",
+        "original_name": "Eva Jakobsen",
+        "popularity": 0.1001,
+        "profile_path": null,
+        "credit_id": "631fa089bd3209008273638d",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3178072,
+        "known_for_department": "Sound",
+        "name": "Miguel Villada",
+        "original_name": "Miguel Villada",
+        "popularity": 0.0646,
+        "profile_path": null,
+        "credit_id": "631fa308e55937009189b378",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3698589,
+        "known_for_department": "Production",
+        "name": "Laure Stemmann",
+        "original_name": "Laure Stemmann",
+        "popularity": 0.0362,
+        "profile_path": null,
+        "credit_id": "631fa3719c24fc0091e2e796",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3245961,
+        "known_for_department": "Production",
+        "name": "Rajae El Jaouhari",
+        "original_name": "Rajae El Jaouhari",
+        "popularity": 0.0193,
+        "profile_path": null,
+        "credit_id": "631fa0e4bd3209007f667fca",
+        "department": "Production",
+        "job": "Casting Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1556004,
+        "known_for_department": "Production",
+        "name": "Katrin Pors",
+        "original_name": "Katrin Pors",
+        "popularity": 0.0974,
+        "profile_path": null,
+        "credit_id": "631fa0a19c24fc007d77c2a6",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2194854,
+        "known_for_department": "Editing",
+        "name": "Nicolas Rumpl",
+        "original_name": "Nicolas Rumpl",
+        "popularity": 0.0687,
+        "profile_path": null,
+        "credit_id": "631fa0d00d2f53007c6c381e",
+        "department": "Editing",
+        "job": "Lead Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3135302,
+        "known_for_department": "Sound",
+        "name": "Ezequiel Pinedo",
+        "original_name": "Ezequiel Pinedo",
+        "popularity": 0.0961,
+        "profile_path": null,
+        "credit_id": "631fa2d3b4a543007a9f48e2",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1561259,
+        "known_for_department": "Production",
+        "name": "Sebastian Schelenz",
+        "original_name": "Sebastian Schelenz",
+        "popularity": 0.1023,
+        "profile_path": "/xzuAKkSr1ZPv1OkNZcz4lM7WzPJ.jpg",
+        "credit_id": "631fa0ad0bb076007b79db63",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3698588,
+        "known_for_department": "Camera",
+        "name": "Sahnoun Anass",
+        "original_name": "Sahnoun Anass",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "631fa324b87aec007f89f1ea",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1331821,
+        "known_for_department": "Editing",
+        "name": "Laurent Navarri",
+        "original_name": "Laurent Navarri",
+        "popularity": 0.0874,
+        "profile_path": "/dF1tIAr6ByYZp0S7Qew52ezNbFT.jpg",
+        "credit_id": "631fa36167dcc9007afb447e",
+        "department": "Editing",
+        "job": "Colorist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3698582,
+        "known_for_department": "Sound",
+        "name": "Santiago R. Cufiño",
+        "original_name": "Santiago R. Cufiño",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "631fa1183927120083290d40",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2005727,
+        "known_for_department": "Production",
+        "name": "Amine Benjelloun",
+        "original_name": "Amine Benjelloun",
+        "popularity": 0.0979,
+        "profile_path": "/AbeCy67qQuczfTCo7H7678fI14i.jpg",
+        "credit_id": "631fa07dce9e91007ccfd1fc",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3178072,
+        "known_for_department": "Sound",
+        "name": "Miguel Villada",
+        "original_name": "Miguel Villada",
+        "popularity": 0.0646,
+        "profile_path": null,
+        "credit_id": "631fa2f467dcc9007f5bac00",
+        "department": "Sound",
+        "job": "Dialogue Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1425402,
+        "known_for_department": "Production",
+        "name": "Mikkel Jersin",
+        "original_name": "Mikkel Jersin",
+        "popularity": 0.1496,
+        "profile_path": null,
+        "credit_id": "631fa0975684630083cd4c0a",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1350222,
+        "known_for_department": "Sound",
+        "name": "Claus Lynge",
+        "original_name": "Claus Lynge",
+        "popularity": 0.1148,
+        "profile_path": null,
+        "credit_id": "631fa1467fcab3007f15593e",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6157,
+        "known_for_department": "Sound",
+        "name": "Kristian Eidnes Andersen",
+        "original_name": "Kristian Eidnes Andersen",
+        "popularity": 0.2129,
+        "profile_path": "/1hyr1THoXrGXuviQ5XQfgL7YSpW.jpg",
+        "credit_id": "674c4ef683912195675447bd",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 285104,
+        "known_for_department": "Directing",
+        "name": "Nabil Ayouch",
+        "original_name": "Nabil Ayouch",
+        "popularity": 0.2336,
+        "profile_path": "/n7t19GtMJVErQ4SaSKaptVRhPnH.jpg",
+        "credit_id": "69207cc65e3e862606eb6ef0",
+        "department": "Writing",
+        "job": "Writer"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "ES",
+        "title": "El caftán azul",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "BA",
+        "title": "Plavi kaftan",
+        "type": "transliteration"
+      },
+      {
+        "iso_3166_1": "BR",
+        "title": "O Caftan Azul",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "BR",
+        "title": "Túnica Turquesa",
+        "type": "festival title"
+      },
+      {
+        "iso_3166_1": "DE",
+        "title": "Das Blau des Kaftans",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "GR",
+        "title": "Το μπλε καφτάνι",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "HK",
+        "title": "藍袍下的溫柔",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "JP",
+        "title": "ブルーカフタン",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "PL",
+        "title": "Turkusowa suknia",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "PL",
+        "title": "Turkusowy kaftan",
+        "type": "alternative title"
+      },
+      {
+        "iso_3166_1": "PT",
+        "title": "O Azul do Cafetã",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "RU",
+        "title": "Голубой кафтан",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "SE",
+        "title": "Den blå kaftanen",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "TW",
+        "title": "雙手的溫柔",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "MA",
+        "title": "أزرق القفطان",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "UA",
+        "title": "Синій каптан",
+        "type": "festival title"
+      }
+    ]
+  }
+}

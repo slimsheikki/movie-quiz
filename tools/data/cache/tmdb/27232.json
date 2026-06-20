@@ -1,0 +1,707 @@
+{
+  "adult": false,
+  "backdrop_path": "/5if7wtyH95UM8QuTKuSp5Quc1L2.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "",
+  "id": 27232,
+  "imdb_id": "tt0085356",
+  "origin_country": [
+    "IT",
+    "MX"
+  ],
+  "original_language": "it",
+  "original_title": "Conquest",
+  "overview": "To mark his passage into manhood, young Ilias is gifted a magical bow by his father and embarks upon a journey into the wilderness to rid the land of evil, all the while battling the witch Ocron, who wishes to steal the bow for her own nefarious ends.",
+  "popularity": 0.9883,
+  "poster_path": "/fwEZHv3nksttbsSkRYAdb5dfaBn.jpg",
+  "production_companies": [
+    {
+      "id": 4420,
+      "logo_path": "/pXxqTCJMn9dgFUsANd2eCZxRDEa.png",
+      "name": "Clemi Cinematografica",
+      "origin_country": "IT"
+    },
+    {
+      "id": 6087,
+      "logo_path": null,
+      "name": "Conquest Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 6089,
+      "logo_path": null,
+      "name": "Golden Sun",
+      "origin_country": "ES"
+    },
+    {
+      "id": 29196,
+      "logo_path": null,
+      "name": "Producciones Esme S.A.",
+      "origin_country": "MX"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    },
+    {
+      "iso_3166_1": "ES",
+      "name": "Spain"
+    },
+    {
+      "iso_3166_1": "MX",
+      "name": "Mexico"
+    }
+  ],
+  "release_date": "1983-06-02",
+  "revenue": 0,
+  "runtime": 88,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "In a place beyond time, comes a terrifying challenge beyond imagination!",
+  "title": "Conquest",
+  "video": false,
+  "vote_average": 5.2,
+  "vote_count": 68,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 95738,
+        "known_for_department": "Acting",
+        "name": "Jorge Rivero",
+        "original_name": "Jorge Rivero",
+        "popularity": 0.8751,
+        "profile_path": "/q1eGKjzZOH3FwsHO7Li15EKrNjd.jpg",
+        "cast_id": 12,
+        "character": "Mace",
+        "credit_id": "52fe4536c3a368484e04e49f",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 31011,
+        "known_for_department": "Production",
+        "name": "Andrea Occhipinti",
+        "original_name": "Andrea Occhipinti",
+        "popularity": 0.5662,
+        "profile_path": "/nVkGMowRB1LV8HZX6iWgZvnBoHJ.jpg",
+        "cast_id": 13,
+        "character": "Ilias",
+        "credit_id": "52fe4536c3a368484e04e4a3",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 38591,
+        "known_for_department": "Acting",
+        "name": "Sabrina Siani",
+        "original_name": "Sabrina Siani",
+        "popularity": 0.7162,
+        "profile_path": "/ktKhnBdvFSB6Bqrv8PBNFynBsCW.jpg",
+        "cast_id": 18,
+        "character": "Ocron",
+        "credit_id": "52fe4536c3a368484e04e4b7",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 98756,
+        "known_for_department": "Acting",
+        "name": "Conrado San Martín",
+        "original_name": "Conrado San Martín",
+        "popularity": 0.2303,
+        "profile_path": "/m4Oc1WjpBi5oSQ4jVBcykPF6aUk.jpg",
+        "cast_id": 14,
+        "character": "Zora",
+        "credit_id": "52fe4536c3a368484e04e4a7",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 99538,
+        "known_for_department": "Acting",
+        "name": "Gioia Scola",
+        "original_name": "Gioia Scola",
+        "popularity": 0.3066,
+        "profile_path": "/7hU2rkQLTglLSfd0GeBHcESIqIn.jpg",
+        "cast_id": 17,
+        "character": "Ayana",
+        "credit_id": "52fe4536c3a368484e04e4b3",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 105222,
+        "known_for_department": "Acting",
+        "name": "Violeta Cela",
+        "original_name": "Violeta Cela",
+        "popularity": 0.2262,
+        "profile_path": "/6ggSLJl6moPn32MeT3mjapou95d.jpg",
+        "cast_id": 15,
+        "character": "Sacrificial Victim",
+        "credit_id": "52fe4536c3a368484e04e4ab",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 136503,
+        "known_for_department": "Acting",
+        "name": "José Gras",
+        "original_name": "José Gras",
+        "popularity": 0.189,
+        "profile_path": null,
+        "cast_id": 16,
+        "character": "Fado",
+        "credit_id": "52fe4536c3a368484e04e4af",
+        "order": 6
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 29433,
+        "known_for_department": "Directing",
+        "name": "Lucio Fulci",
+        "original_name": "Lucio Fulci",
+        "popularity": 0.6753,
+        "profile_path": "/wpkbGp2A6HYpH2QZqI9WRSnzxUy.jpg",
+        "credit_id": "52fe4536c3a368484e04e465",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 38586,
+        "known_for_department": "Writing",
+        "name": "Gino Capone",
+        "original_name": "Gino Capone",
+        "popularity": 0.3877,
+        "profile_path": "/33A26Veppp8m2q7ZgmUwWX7V8wg.jpg",
+        "credit_id": "52fe4536c3a368484e04e46b",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 102095,
+        "known_for_department": "Writing",
+        "name": "José Antonio de la Loma",
+        "original_name": "José Antonio de la Loma",
+        "popularity": 0.3518,
+        "profile_path": "/tJLeXJP1hhp7LOJ1JRu2tDDTCQU.jpg",
+        "credit_id": "52fe4536c3a368484e04e471",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 136491,
+        "known_for_department": "Production",
+        "name": "Carlos Vasallo",
+        "original_name": "Carlos Vasallo",
+        "popularity": 0.2368,
+        "profile_path": null,
+        "credit_id": "52fe4536c3a368484e04e477",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 15055,
+        "known_for_department": "Sound",
+        "name": "Claudio Simonetti",
+        "original_name": "Claudio Simonetti",
+        "popularity": 0.2209,
+        "profile_path": "/gJxL4JXgOAANbAoXsHKP9Yc9bbY.jpg",
+        "credit_id": "52fe4536c3a368484e04e489",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 136494,
+        "known_for_department": "Editing",
+        "name": "Emilio Rodriguez Oses",
+        "original_name": "Emilio Rodriguez Oses",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "52fe4536c3a368484e04e48f",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 136497,
+        "known_for_department": "Art",
+        "name": "Mariangela Capuano",
+        "original_name": "Mariangela Capuano",
+        "popularity": 0.1605,
+        "profile_path": null,
+        "credit_id": "52fe4536c3a368484e04e49b",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 98746,
+        "known_for_department": "Camera",
+        "name": "Alejandro Ulloa",
+        "original_name": "Alejandro Ulloa",
+        "popularity": 0.1577,
+        "profile_path": null,
+        "credit_id": "52fe4536c3a368484e04e4bd",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1792628,
+        "known_for_department": "Sound",
+        "name": "Eros Giustini",
+        "original_name": "Eros Giustini",
+        "popularity": 0.0994,
+        "profile_path": null,
+        "credit_id": "63d56f3b955c6500a840a819",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 103118,
+        "known_for_department": "Production",
+        "name": "Pietro Innocenzi",
+        "original_name": "Pietro Innocenzi",
+        "popularity": 0.1973,
+        "profile_path": "/bwLZRdnamQfnn2JNXPYR44qMYUl.jpg",
+        "credit_id": "63dfbc8a373ac2007c205739",
+        "department": "Production",
+        "job": "Executive In Charge Of Production"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 333662,
+        "known_for_department": "Production",
+        "name": "Giovanni Di Clemente",
+        "original_name": "Giovanni Di Clemente",
+        "popularity": 0.229,
+        "profile_path": null,
+        "credit_id": "5efec36ff031740038508eae",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 333662,
+        "known_for_department": "Production",
+        "name": "Giovanni Di Clemente",
+        "original_name": "Giovanni Di Clemente",
+        "popularity": 0.229,
+        "profile_path": null,
+        "credit_id": "5efec469a284eb003997ee10",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 53197,
+        "known_for_department": "Editing",
+        "name": "Vincenzo Tomassi",
+        "original_name": "Vincenzo Tomassi",
+        "popularity": 0.1808,
+        "profile_path": null,
+        "credit_id": "693f08bfecd79e3e515e01ef",
+        "department": "Editing",
+        "job": "Supervising Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1170679,
+        "known_for_department": "Editing",
+        "name": "José Antonio de la Loma Jr.",
+        "original_name": "José Antonio de la Loma Jr.",
+        "popularity": 0.1266,
+        "profile_path": null,
+        "credit_id": "693f1d1ae6ff552842f78787",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1688133,
+        "known_for_department": "Directing",
+        "name": "Filiberto Fiaschi",
+        "original_name": "Filiberto Fiaschi",
+        "popularity": 0.1095,
+        "profile_path": null,
+        "credit_id": "693f1d799354c2461299973c",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3024208,
+        "known_for_department": "Directing",
+        "name": "Roberto Tatti",
+        "original_name": "Roberto Tatti",
+        "popularity": 0.0588,
+        "profile_path": null,
+        "credit_id": "693f1fe89354c24612999748",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1296211,
+        "known_for_department": "Camera",
+        "name": "Federico Del Zoppo",
+        "original_name": "Federico Del Zoppo",
+        "popularity": 0.16,
+        "profile_path": "/bUlyLatvWY0TRw5UG1iWAXMCbz8.jpg",
+        "credit_id": "693f2061e6ff552842f78795",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1125523,
+        "known_for_department": "Camera",
+        "name": "Claudio Morabito",
+        "original_name": "Claudio Morabito",
+        "popularity": 0.0963,
+        "profile_path": "/rHncPEpOECBrPg6ejyrDlgzKp1A.jpg",
+        "credit_id": "693f20a0705c0e3b2c99eeb6",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1708138,
+        "known_for_department": "Camera",
+        "name": "Mario Bagnato",
+        "original_name": "Mario Bagnato",
+        "popularity": 0.1498,
+        "profile_path": null,
+        "credit_id": "693f2108930b1d609d78113d",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2043963,
+        "known_for_department": "Production",
+        "name": "Walter Marconi",
+        "original_name": "Walter Marconi",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "693f2160673d0a74f0781150",
+        "department": "Directing",
+        "job": "Continuity"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3826539,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Luigi Contini",
+        "original_name": "Luigi Contini",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "693f21bce2bbb7e33b99f162",
+        "department": "Costume & Make-Up",
+        "job": "Hairdresser"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1058164,
+        "known_for_department": "Editing",
+        "name": "Rita Antonelli",
+        "original_name": "Rita Antonelli",
+        "popularity": 0.0534,
+        "profile_path": null,
+        "credit_id": "693f223d962a465b63aece64",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2049965,
+        "known_for_department": "Editing",
+        "name": "Giancarlo Tiburzi",
+        "original_name": "Giancarlo Tiburzi",
+        "popularity": 0.0774,
+        "profile_path": null,
+        "credit_id": "693f227cf9101b96bb5e02d4",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2401960,
+        "known_for_department": "Editing",
+        "name": "Patrizia Innocenzi",
+        "original_name": "Patrizia Innocenzi",
+        "popularity": 0.0866,
+        "profile_path": null,
+        "credit_id": "693f2344be2b2c623783eb69",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      },
+      {
+        "adult": true,
+        "gender": 2,
+        "id": 1792623,
+        "known_for_department": "Camera",
+        "name": "Matt Giordano",
+        "original_name": "Matt Giordano",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "693f23eadc5ccab27b781057",
+        "department": "Camera",
+        "job": "Key Grip"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3678497,
+        "known_for_department": "Camera",
+        "name": "Roberto Pizzi",
+        "original_name": "Roberto Pizzi",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "693f243906a9e6a01e61a37d",
+        "department": "Camera",
+        "job": "Key Grip"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 44958,
+        "known_for_department": "Art",
+        "name": "Massimo Lentini",
+        "original_name": "Massimo Lentini",
+        "popularity": 0.0956,
+        "profile_path": null,
+        "credit_id": "697354734f1ab66f64942aee",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 102095,
+        "known_for_department": "Writing",
+        "name": "José Antonio de la Loma",
+        "original_name": "José Antonio de la Loma",
+        "popularity": 0.3518,
+        "profile_path": "/tJLeXJP1hhp7LOJ1JRu2tDDTCQU.jpg",
+        "credit_id": "6973553df6e80b56f613cfad",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2043956,
+        "known_for_department": "Production",
+        "name": "Domenico Lo Zito",
+        "original_name": "Domenico Lo Zito",
+        "popularity": 0.1068,
+        "profile_path": null,
+        "credit_id": "69735550716bab77ba37b8dc",
+        "department": "Production",
+        "job": "Unit Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1638325,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Franco Rufini",
+        "original_name": "Franco Rufini",
+        "popularity": 0.0869,
+        "profile_path": null,
+        "credit_id": "6973558a1479a017599d0810",
+        "department": "Costume & Make-Up",
+        "job": "Special Effects Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1758900,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Mauro Meniconi",
+        "original_name": "Mauro Meniconi",
+        "popularity": 0.0745,
+        "profile_path": null,
+        "credit_id": "6973559e285587d52413d02c",
+        "department": "Costume & Make-Up",
+        "job": "Assistant Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1956979,
+        "known_for_department": "Sound",
+        "name": "Ettore Mancini",
+        "original_name": "Ettore Mancini",
+        "popularity": 0.1577,
+        "profile_path": null,
+        "credit_id": "697355b4b29d1f3eaaaedeb5",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4317633,
+        "known_for_department": "Camera",
+        "name": "Piero Caputi",
+        "original_name": "Piero Caputi",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "697355c6716bab77ba37b8e4",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1141910,
+        "known_for_department": "Production",
+        "name": "Vincenzo Santangelo",
+        "original_name": "Vincenzo Santangelo",
+        "popularity": 0.0854,
+        "profile_path": null,
+        "credit_id": "697355f827413cb87c13d014",
+        "department": "Production",
+        "job": "Post Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2015418,
+        "known_for_department": "Lighting",
+        "name": "Gaetano Coniglio",
+        "original_name": "Gaetano Coniglio",
+        "popularity": 0.0688,
+        "profile_path": null,
+        "credit_id": "69735620f1f5c78b6c9429d7",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5957377,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Alvaro Grassi",
+        "original_name": "Alvaro Grassi",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "6973563947053c12d837b713",
+        "department": "Costume & Make-Up",
+        "job": "Wardrobe Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1707585,
+        "known_for_department": "Sound",
+        "name": "Romano Pampaloni",
+        "original_name": "Romano Pampaloni",
+        "popularity": 0.1688,
+        "profile_path": null,
+        "credit_id": "69735657867fe319ffdca5de",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "US",
+        "title": "Conquest",
+        "type": "English Title"
+      },
+      {
+        "iso_3166_1": "GR",
+        "title": "Ελκάν: Ατσαλένιος Πολεμιστής",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "GR",
+        "title": "Ελκάν: Ο Ατσαλένιος Πολεμιστής",
+        "type": "VHS title"
+      },
+      {
+        "iso_3166_1": "JP",
+        "title": "ＳＦコンクエスト／魔界の制圧",
+        "type": ""
+      }
+    ]
+  }
+}

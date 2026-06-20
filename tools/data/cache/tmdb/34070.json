@@ -1,0 +1,623 @@
+{
+  "adult": false,
+  "backdrop_path": "/tEwzaE6wMbsoTYKbA2CRjFY1HK6.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 34070,
+  "imdb_id": "tt0120263",
+  "origin_country": [
+    "DK",
+    "SE"
+  ],
+  "original_language": "sv",
+  "original_title": "Sånger från andra våningen",
+  "overview": "A monumental traffic jam serves as the backdrop for the lives of the inhabitants of a Swedish city.",
+  "popularity": 0.575,
+  "poster_path": "/xMZieoxiQ1hb5zraZlhzcvU7MGN.jpg",
+  "production_companies": [
+    {
+      "id": 157,
+      "logo_path": "/s537keIoi6wUOU8E9ztWaV2DY1H.png",
+      "name": "SVT Drama",
+      "origin_country": "SE"
+    },
+    {
+      "id": 5402,
+      "logo_path": "/iYQ3d8XgHgmvvuphqIr7amSDqwH.png",
+      "name": "Easy Film",
+      "origin_country": "DK"
+    },
+    {
+      "id": 5403,
+      "logo_path": "/fAz2WhTpoMxutBA92JqlfeHEGuz.png",
+      "name": "Nordisk Film & TV Fond",
+      "origin_country": "NO"
+    },
+    {
+      "id": 5405,
+      "logo_path": null,
+      "name": "Roy Andersson Filmproduktion",
+      "origin_country": "SE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "SE",
+      "name": "Sweden"
+    },
+    {
+      "iso_3166_1": "DK",
+      "name": "Denmark"
+    },
+    {
+      "iso_3166_1": "NO",
+      "name": "Norway"
+    }
+  ],
+  "release_date": "2000-10-06",
+  "revenue": 80334,
+  "runtime": 99,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "Pусский"
+    },
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Songs from the Second Floor",
+  "video": false,
+  "vote_average": 7.056,
+  "vote_count": 315,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 111784,
+        "known_for_department": "Acting",
+        "name": "Lars Nordh",
+        "original_name": "Lars Nordh",
+        "popularity": 0.0311,
+        "profile_path": null,
+        "cast_id": 1,
+        "character": "Kalle",
+        "credit_id": "52fe454f9251416c9102e103",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 111785,
+        "known_for_department": "Acting",
+        "name": "Stefan Larsson",
+        "original_name": "Stefan Larsson",
+        "popularity": 0.164,
+        "profile_path": "/kCUnq6JwVuRQe9wIBLn3tWW13NS.jpg",
+        "cast_id": 2,
+        "character": "Stefan",
+        "credit_id": "52fe454f9251416c9102e107",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 111786,
+        "known_for_department": "Acting",
+        "name": "Bengt C.W. Carlsson",
+        "original_name": "Bengt C.W. Carlsson",
+        "popularity": 0.2654,
+        "profile_path": "/u8YrM44kw12KLRbAhxitEdJAZRw.jpg",
+        "cast_id": 3,
+        "character": "Lennart",
+        "credit_id": "52fe454f9251416c9102e10b",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 111787,
+        "known_for_department": "Acting",
+        "name": "Torbjörn Fahlström",
+        "original_name": "Torbjörn Fahlström",
+        "popularity": 0.068,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "Pelle Wigert",
+        "credit_id": "52fe454f9251416c9102e10f",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 111788,
+        "known_for_department": "Acting",
+        "name": "Sten Andersson",
+        "original_name": "Sten Andersson",
+        "popularity": 0.0264,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "Lasse",
+        "credit_id": "52fe454f9251416c9102e113",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 111789,
+        "known_for_department": "Acting",
+        "name": "Rolando Núñez",
+        "original_name": "Rolando Núñez",
+        "popularity": 0.07,
+        "profile_path": null,
+        "cast_id": 6,
+        "character": "The foreigner",
+        "credit_id": "52fe454f9251416c9102e117",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 111790,
+        "known_for_department": "Acting",
+        "name": "Lucio Vucina",
+        "original_name": "Lucio Vucina",
+        "popularity": 0.0687,
+        "profile_path": null,
+        "cast_id": 7,
+        "character": "The magician",
+        "credit_id": "52fe454f9251416c9102e11b",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 111791,
+        "known_for_department": "Acting",
+        "name": "Per Jörnelius",
+        "original_name": "Per Jörnelius",
+        "popularity": 0.0714,
+        "profile_path": null,
+        "cast_id": 8,
+        "character": "The sawed man",
+        "credit_id": "52fe454f9251416c9102e11f",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 111792,
+        "known_for_department": "Acting",
+        "name": "Peter Roth",
+        "original_name": "Peter Roth",
+        "popularity": 0.0564,
+        "profile_path": null,
+        "cast_id": 9,
+        "character": "Tomas",
+        "credit_id": "52fe454f9251416c9102e123",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 111793,
+        "known_for_department": "Acting",
+        "name": "Klas-Gösta Olsson",
+        "original_name": "Klas-Gösta Olsson",
+        "popularity": 0.1004,
+        "profile_path": null,
+        "cast_id": 10,
+        "character": "The speechwriter",
+        "credit_id": "52fe454f9251416c9102e127",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 111794,
+        "known_for_department": "Acting",
+        "name": "Nils-Åke Eriksson",
+        "original_name": "Nils-Åke Eriksson",
+        "popularity": 0.0168,
+        "profile_path": null,
+        "cast_id": 11,
+        "character": "Patient",
+        "credit_id": "52fe454f9251416c9102e12b",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 111795,
+        "known_for_department": "Acting",
+        "name": "Hanna Eriksson",
+        "original_name": "Hanna Eriksson",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "cast_id": 12,
+        "character": "Mia",
+        "credit_id": "52fe454f9251416c9102e12f",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 111796,
+        "known_for_department": "Acting",
+        "name": "Tommy Johansson",
+        "original_name": "Tommy Johansson",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 13,
+        "character": "Uffe",
+        "credit_id": "52fe454f9251416c9102e133",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 111797,
+        "known_for_department": "Acting",
+        "name": "Sture Olsson",
+        "original_name": "Sture Olsson",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 14,
+        "character": "Sven",
+        "credit_id": "52fe454f9251416c9102e137",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 111798,
+        "known_for_department": "Acting",
+        "name": "Fredrik Sjögren",
+        "original_name": "Fredrik Sjögren",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 15,
+        "character": "The Russian boy",
+        "credit_id": "52fe454f9251416c9102e13b",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1043350,
+        "known_for_department": "Acting",
+        "name": "Sandy Mansson",
+        "original_name": "Sandy Mansson",
+        "popularity": 0.142,
+        "profile_path": "/kslG28y4TThy0FPXxgBlAlQ3I9b.jpg",
+        "cast_id": 29,
+        "character": "",
+        "credit_id": "5bac78700e0a2664d7033d08",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5318062,
+        "known_for_department": "Acting",
+        "name": "Stephen Whitton",
+        "original_name": "Stephen Whitton",
+        "popularity": 0,
+        "profile_path": null,
+        "cast_id": 31,
+        "character": "Crazy Man",
+        "credit_id": "67dc930fc20fb5a418af2f78",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5318063,
+        "known_for_department": "Acting",
+        "name": "Jöran Mueller",
+        "original_name": "Jöran Mueller",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 32,
+        "character": "",
+        "credit_id": "67dc934b843a9503366ba5ad",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5318067,
+        "known_for_department": "Acting",
+        "name": "Johan Bergenlöw",
+        "original_name": "Johan Bergenlöw",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 33,
+        "character": "",
+        "credit_id": "67dc93ff143da6410faf2624",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5318070,
+        "known_for_department": "Acting",
+        "name": "Jan Steen",
+        "original_name": "Jan Steen",
+        "popularity": 0.0239,
+        "profile_path": null,
+        "cast_id": 34,
+        "character": "",
+        "credit_id": "67dc942dc20fb5a418af2ff9",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5318075,
+        "known_for_department": "Acting",
+        "name": "Tadeusz Urbanski",
+        "original_name": "Tadeusz Urbanski",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 35,
+        "character": "",
+        "credit_id": "67dc94e9927d39deb3f2d421",
+        "order": 20
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2316544,
+        "known_for_department": "Acting",
+        "name": "Conny Linnteg",
+        "original_name": "Conny Linnteg",
+        "popularity": 0,
+        "profile_path": null,
+        "cast_id": 36,
+        "character": "",
+        "credit_id": "67dc951a927d39deb3f2d43a",
+        "order": 21
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1055119,
+        "known_for_department": "Acting",
+        "name": "Gun Fors",
+        "original_name": "Gun Fors",
+        "popularity": 0.0389,
+        "profile_path": null,
+        "cast_id": 37,
+        "character": "",
+        "credit_id": "67dc9529fcf1d59ae9af2884",
+        "order": 22
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 45791,
+        "known_for_department": "Directing",
+        "name": "Roy Andersson",
+        "original_name": "Roy Andersson",
+        "popularity": 0.2459,
+        "profile_path": "/sFcrQOIWUM1QArvquG3DmVqw3Eu.jpg",
+        "credit_id": "52fe45509251416c9102e14d",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 45791,
+        "known_for_department": "Directing",
+        "name": "Roy Andersson",
+        "original_name": "Roy Andersson",
+        "popularity": 0.2459,
+        "profile_path": "/sFcrQOIWUM1QArvquG3DmVqw3Eu.jpg",
+        "credit_id": "52fe45509251416c9102e141",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1819088,
+        "known_for_department": "Production",
+        "name": "Lisa Alwert",
+        "original_name": "Lisa Alwert",
+        "popularity": 0.0621,
+        "profile_path": null,
+        "credit_id": "591d9041925141482f01ef37",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1381902,
+        "known_for_department": "Directing",
+        "name": "Jesper Klevenås",
+        "original_name": "Jesper Klevenås",
+        "popularity": 0.0327,
+        "profile_path": null,
+        "credit_id": "59d3a82192514143b2000133",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1541909,
+        "known_for_department": "Camera",
+        "name": "István Borbás",
+        "original_name": "István Borbás",
+        "popularity": 0.1742,
+        "profile_path": null,
+        "credit_id": "59d3a81292514143a900014b",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1899060,
+        "known_for_department": "Sound",
+        "name": "Magnus Lunell",
+        "original_name": "Magnus Lunell",
+        "popularity": 0.0261,
+        "profile_path": null,
+        "credit_id": "59d3a858925141439b000184",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 45791,
+        "known_for_department": "Directing",
+        "name": "Roy Andersson",
+        "original_name": "Roy Andersson",
+        "popularity": 0.2459,
+        "profile_path": "/sFcrQOIWUM1QArvquG3DmVqw3Eu.jpg",
+        "credit_id": "59d3a82dc3a3683beb000157",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 45791,
+        "known_for_department": "Directing",
+        "name": "Roy Andersson",
+        "original_name": "Roy Andersson",
+        "popularity": 0.2459,
+        "profile_path": "/sFcrQOIWUM1QArvquG3DmVqw3Eu.jpg",
+        "credit_id": "59d3a800925141435b000131",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1317138,
+        "known_for_department": "Writing",
+        "name": "Leontine Arvidsson",
+        "original_name": "Leontine Arvidsson",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "59d3a83d92514143b2000153",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1332141,
+        "known_for_department": "Sound",
+        "name": "Owe Svensson",
+        "original_name": "Owe Svensson",
+        "popularity": 0.0672,
+        "profile_path": "/neULjCUlVnHv6roP5crOQdvDNHJ.jpg",
+        "credit_id": "59d3a86d925141435b0001a4",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1899059,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Ulrika Skantz",
+        "original_name": "Ulrika Skantz",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "59d3a849c3a3683bd1000166",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 45799,
+        "known_for_department": "Acting",
+        "name": "Benny Andersson",
+        "original_name": "Benny Andersson",
+        "popularity": 0.3041,
+        "profile_path": "/uOM6cyli5ULhBEkgWbvuA8KZZ5E.jpg",
+        "credit_id": "67d8ce6fee370afa15a73e94",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "FI",
+        "title": "Toisen kerroksen lauluja",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "ES",
+        "title": "Canciones del segundo piso",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "DK",
+        "title": "Sange fra anden sal",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "NO",
+        "title": "Sanger fra andre etasje",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "KR",
+        "title": "2층에서 들려오는 노래",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "FR",
+        "title": "Chansons du deuxième étage",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "SE",
+        "title": "Sånger från andra våningen",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "JP",
+        "title": "散歩する惑星",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "KR",
+        "title": "이층에서 들려오는 노래",
+        "type": ""
+      }
+    ]
+  }
+}

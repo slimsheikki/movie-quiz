@@ -1,0 +1,593 @@
+{
+  "adult": false,
+  "backdrop_path": "/83AMHdZU71x7U4aZ7QFGBRtdyxo.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "http://rialtopictures.com/masculine.html",
+  "id": 4710,
+  "imdb_id": "tt0060675",
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "Masculin féminin",
+  "overview": "Paul, a young idealist trying to figure out what he wants to do with his life, takes a job interviewing people for a marketing research firm. He moves in with aspiring pop singer Madeleine. Paul, however, is disillusioned by the growing commercialism in society, while Madeleine just wants to be successful. The story is told in a series of 15 unrelated vignettes.",
+  "popularity": 1.1394,
+  "poster_path": "/AroNQnZiqjJOWf32lLNZUzWlGvd.jpg",
+  "production_companies": [
+    {
+      "id": 6181,
+      "logo_path": "/gYyww91VI1jdH89xpZgFFc8zN3F.png",
+      "name": "SF Studios",
+      "origin_country": "SE"
+    },
+    {
+      "id": 1728,
+      "logo_path": "/sujSPQqxYIoKfjAyS8OaJ6hLNed.png",
+      "name": "Sandrews",
+      "origin_country": "SE"
+    },
+    {
+      "id": 14679,
+      "logo_path": null,
+      "name": "Anouchka Films",
+      "origin_country": "FR"
+    },
+    {
+      "id": 6116,
+      "logo_path": "/yCu2D15iD7lcYsBWqXjU65U9nkH.png",
+      "name": "Argos films",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "SE",
+      "name": "Sweden"
+    }
+  ],
+  "release_date": "1966-03-22",
+  "revenue": 0,
+  "runtime": 105,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    },
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Jean-Luc Godard's Swinging Look at Youth and Love in Paris Today!",
+  "title": "Masculin Féminin",
+  "video": false,
+  "vote_average": 7.216,
+  "vote_count": 424,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1653,
+        "known_for_department": "Acting",
+        "name": "Jean-Pierre Léaud",
+        "original_name": "Jean-Pierre Léaud",
+        "popularity": 1.1339,
+        "profile_path": "/zkWjuuyncnHfYpkUfEguwTTRntb.jpg",
+        "cast_id": 1,
+        "character": "Paul",
+        "credit_id": "52fe43d5c3a36847f8072fbd",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 24801,
+        "known_for_department": "Acting",
+        "name": "Chantal Goya",
+        "original_name": "Chantal Goya",
+        "popularity": 0.5365,
+        "profile_path": "/oBxDt0Y1bOhmQLE3PqOvuRW11UP.jpg",
+        "cast_id": 2,
+        "character": "Madeleine Zimmer",
+        "credit_id": "52fe43d5c3a36847f8072fc1",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 35000,
+        "known_for_department": "Acting",
+        "name": "Marlène Jobert",
+        "original_name": "Marlène Jobert",
+        "popularity": 0.5474,
+        "profile_path": "/1v9HRxvEE6jFvIcR8NlOB6yQv5P.jpg",
+        "cast_id": 3,
+        "character": "Élisabeth Choquet",
+        "credit_id": "52fe43d5c3a36847f8072fc5",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 39067,
+        "known_for_department": "Acting",
+        "name": "Michel Debord",
+        "original_name": "Michel Debord",
+        "popularity": 0.0193,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "Robert Packard",
+        "credit_id": "52fe43d5c3a36847f8072fc9",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 39068,
+        "known_for_department": "Acting",
+        "name": "Catherine-Isabelle Duport",
+        "original_name": "Catherine-Isabelle Duport",
+        "popularity": 0.0966,
+        "profile_path": "/nnrh95F9mphFgNvhFf4NUfgFOY8.jpg",
+        "cast_id": 5,
+        "character": "Catherine-Isabelle",
+        "credit_id": "52fe43d5c3a36847f8072fcd",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1170554,
+        "known_for_department": "Acting",
+        "name": "Evabritt Strandberg",
+        "original_name": "Evabritt Strandberg",
+        "popularity": 0.1178,
+        "profile_path": "/5Y6A9bcU7xkVXuRipJncrxh7B6a.jpg",
+        "cast_id": 19,
+        "character": "She (Woman in the Film)",
+        "credit_id": "5b7a9a0ac3a36860db04e0ff",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 69656,
+        "known_for_department": "Acting",
+        "name": "Birger Malmsten",
+        "original_name": "Birger Malmsten",
+        "popularity": 0.1982,
+        "profile_path": "/gmkotgEbeYaxWDZqZMVFNh64UO.jpg",
+        "cast_id": 20,
+        "character": "He (Man in the Film)",
+        "credit_id": "5b7a9a1bc3a36860db04e11a",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 25048,
+        "known_for_department": "Acting",
+        "name": "Yves Afonso",
+        "original_name": "Yves Afonso",
+        "popularity": 0.2208,
+        "profile_path": "/1mlgNm8Noac1KEiiul2FlzBWOpP.jpg",
+        "cast_id": 6,
+        "character": "Man Who Kills Himself (uncredited)",
+        "credit_id": "52fe43d5c3a36847f8072fd1",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 23480,
+        "known_for_department": "Acting",
+        "name": "Henri Attal",
+        "original_name": "Henri Attal",
+        "popularity": 0.2531,
+        "profile_path": "/w9PzdfGPWK4JV5zfXXAqRJ3jAz3.jpg",
+        "cast_id": 7,
+        "character": "The Other Porn Book Reader (uncredited)",
+        "credit_id": "52fe43d5c3a36847f8072fd5",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2871552,
+        "known_for_department": "Acting",
+        "name": "Mickey Baker",
+        "original_name": "Mickey Baker",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 35,
+        "character": "Record Producer (uncredited)",
+        "credit_id": "65c713169451e701637a4ada",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3783,
+        "known_for_department": "Acting",
+        "name": "Brigitte Bardot",
+        "original_name": "Brigitte Bardot",
+        "popularity": 1.5993,
+        "profile_path": "/vqYOnEZyA3AO7sx3SxIFWYrggQJ.jpg",
+        "cast_id": 8,
+        "character": "Brigitte Bardot (uncredited)",
+        "credit_id": "52fe43d5c3a36847f8072fd9",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 7566,
+        "known_for_department": "Acting",
+        "name": "Antoine Bourseiller",
+        "original_name": "Antoine Bourseiller",
+        "popularity": 0.3358,
+        "profile_path": "/2USOaivk1WDnWgKSzidiqcAWocm.jpg",
+        "cast_id": 17,
+        "character": "Brigitte Bardot's Director (uncredited)",
+        "credit_id": "5b7a97e7925141295b03fdf0",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 295250,
+        "known_for_department": "Acting",
+        "name": "Chantal Darget",
+        "original_name": "Chantal Darget",
+        "popularity": 0.1591,
+        "profile_path": "/6IW6JeLdU6SrPCRGvslC7WCNfxe.jpg",
+        "cast_id": 21,
+        "character": "Woman in the Subway (uncredited)",
+        "credit_id": "5b7a9ad6c3a36860e10406b0",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 36481,
+        "known_for_department": "Acting",
+        "name": "Françoise Hardy",
+        "original_name": "Françoise Hardy",
+        "popularity": 0.3209,
+        "profile_path": "/6LeGQfnmpOdTp3PIgR2BiTp1EFg.jpg",
+        "cast_id": 18,
+        "character": "American Officer's Wife (uncredited)",
+        "credit_id": "5b7a98c10e0a264736044bc2",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 586258,
+        "known_for_department": "Directing",
+        "name": "Med Hondo",
+        "original_name": "Med Hondo",
+        "popularity": 0.1767,
+        "profile_path": "/oTanMS7MnWhedjQF7wONNyEXXv4.jpg",
+        "cast_id": 22,
+        "character": "Man in the Subway (uncredited)",
+        "credit_id": "5b7a9b3a0e0a26472b046a29",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4150683,
+        "known_for_department": "Acting",
+        "name": "Elsa Leroy",
+        "original_name": "Elsa Leroy",
+        "popularity": 0.0193,
+        "profile_path": null,
+        "cast_id": 25,
+        "character": "Miss 19 Years Old (uncredited)",
+        "credit_id": "64a7762cf9253200aee350f9",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 13697,
+        "known_for_department": "Acting",
+        "name": "Dominique Zardi",
+        "original_name": "Dominique Zardi",
+        "popularity": 0.3537,
+        "profile_path": "/go1b6s9ZOwbBRUfWZztrJsxOcPF.jpg",
+        "cast_id": 26,
+        "character": "The Porn Book Reader (uncredited)",
+        "credit_id": "64a77660f9253200aee3512a",
+        "order": 16
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 38168,
+        "known_for_department": "Camera",
+        "name": "Willy Kurant",
+        "original_name": "Willy Kurant",
+        "popularity": 0.1713,
+        "profile_path": "/3ZXROmfRPKFs5P7KwNkA1zIisMZ.jpg",
+        "credit_id": "52fe43d5c3a36847f8072fdf",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3776,
+        "known_for_department": "Directing",
+        "name": "Jean-Luc Godard",
+        "original_name": "Jean-Luc Godard",
+        "popularity": 1.2224,
+        "profile_path": "/zP5EDY5MstfkdBmPXNCj8Y6v5KR.jpg",
+        "credit_id": "52fe43d5c3a36847f8072feb",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3776,
+        "known_for_department": "Directing",
+        "name": "Jean-Luc Godard",
+        "original_name": "Jean-Luc Godard",
+        "popularity": 1.2224,
+        "profile_path": "/zP5EDY5MstfkdBmPXNCj8Y6v5KR.jpg",
+        "credit_id": "52fe43d5c3a36847f8072ff7",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 39069,
+        "known_for_department": "Sound",
+        "name": "Jean-Jacques Debout",
+        "original_name": "Jean-Jacques Debout",
+        "popularity": 0.111,
+        "profile_path": "/m7ZmFfz5rnpbcBoiid4eqvAY4PT.jpg",
+        "credit_id": "52fe43d5c3a36847f8072fe5",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2618345,
+        "known_for_department": "Production",
+        "name": "Christine Brierre",
+        "original_name": "Christine Brierre",
+        "popularity": 0.0379,
+        "profile_path": null,
+        "credit_id": "65c711e8a93d2501844b6b7b",
+        "department": "Production",
+        "job": "Publicist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3528,
+        "known_for_department": "Sound",
+        "name": "René Levert",
+        "original_name": "René Levert",
+        "popularity": 0.1826,
+        "profile_path": null,
+        "credit_id": "65c711aca3144001658cf88f",
+        "department": "Sound",
+        "job": "Sound Engineer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1347915,
+        "known_for_department": "Writing",
+        "name": "Marilù Parolini",
+        "original_name": "Marilù Parolini",
+        "popularity": 0.2356,
+        "profile_path": null,
+        "credit_id": "65c711bca93d2501634af2de",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3526,
+        "known_for_department": "Editing",
+        "name": "Agnès Guillemot",
+        "original_name": "Agnès Guillemot",
+        "popularity": 0.07,
+        "profile_path": null,
+        "credit_id": "5ac01e2bc3a368444803a6d8",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1052402,
+        "known_for_department": "Production",
+        "name": "Philippe Dussart",
+        "original_name": "Philippe Dussart",
+        "popularity": 0.0479,
+        "profile_path": null,
+        "credit_id": "64a776f4f92532012d39714c",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 24692,
+        "known_for_department": "Directing",
+        "name": "Bernard Toublanc-Michel",
+        "original_name": "Bernard Toublanc-Michel",
+        "popularity": 0.0844,
+        "profile_path": "/bqAtBq29CMAjULriB0PS7DnXSHK.jpg",
+        "credit_id": "64a77720f056d50139046f5f",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 11532,
+        "known_for_department": "Editing",
+        "name": "Marguerite Renoir",
+        "original_name": "Marguerite Renoir",
+        "popularity": 0.2099,
+        "profile_path": "/voHXNa8MNbQxPWW26hX4RBsAbkn.jpg",
+        "credit_id": "64a776e1f92532010cd2ac33",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 980087,
+        "known_for_department": "Directing",
+        "name": "Jacques Henri Barratier",
+        "original_name": "Jacques Henri Barratier",
+        "popularity": 0.0453,
+        "profile_path": null,
+        "credit_id": "64a7770bf056d500e28ba668",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3776,
+        "known_for_department": "Directing",
+        "name": "Jean-Luc Godard",
+        "original_name": "Jean-Luc Godard",
+        "popularity": 1.2224,
+        "profile_path": "/zP5EDY5MstfkdBmPXNCj8Y6v5KR.jpg",
+        "credit_id": "64a77684af2da800ebe2f2a8",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2304,
+        "known_for_department": "Production",
+        "name": "Anatole Dauman",
+        "original_name": "Anatole Dauman",
+        "popularity": 0.1268,
+        "profile_path": "/6OMlQTVM3D2lKiVt6eccx7JIMCP.jpg",
+        "credit_id": "5b7a9d6c925141294c03aa9d",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 33822,
+        "known_for_department": "Writing",
+        "name": "Guy de Maupassant",
+        "original_name": "Guy de Maupassant",
+        "popularity": 0.41,
+        "profile_path": "/5TnxaJOQcUI3ysXUvstMXfm4bJP.jpg",
+        "credit_id": "699eceb7a29895fa03f22b31",
+        "department": "Writing",
+        "job": "Original Story"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "FR",
+        "title": "Masculin féminin: 15 faits précis",
+        "type": "Full Onscreen Title"
+      },
+      {
+        "iso_3166_1": "SU",
+        "title": "Мужское-женское",
+        "type": "Russian Title"
+      },
+      {
+        "iso_3166_1": "DE",
+        "title": "Masculin - Feminin oder: Die Kinder von Coca Cola",
+        "type": "West Germany Title"
+      },
+      {
+        "iso_3166_1": "AR",
+        "title": "Masculino-femenino",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "FR",
+        "title": "Masculin, féminin",
+        "type": "short title"
+      },
+      {
+        "iso_3166_1": "HK",
+        "title": "男與女",
+        "type": "Mandarin Title"
+      },
+      {
+        "iso_3166_1": "JP",
+        "title": "Dansei Josei",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "ES",
+        "title": "Masculí femení",
+        "type": "Catalan Title"
+      },
+      {
+        "iso_3166_1": "UA",
+        "title": "Чоловіче - жіноче",
+        "type": "New Title"
+      },
+      {
+        "iso_3166_1": "US",
+        "title": "Masculine Feminine",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "US",
+        "title": "Masculine, Feminine: In 15 Acts",
+        "type": "Complete Title"
+      },
+      {
+        "iso_3166_1": "YU",
+        "title": "Muski rod zenski rod",
+        "type": "Serbian Title"
+      }
+    ]
+  }
+}

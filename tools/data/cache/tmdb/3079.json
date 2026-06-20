@@ -1,0 +1,593 @@
+{
+  "adult": false,
+  "backdrop_path": "/5Hw9NUjWoEo9vJus3ECiwRWl8HH.jpg",
+  "belongs_to_collection": {
+    "id": 123720,
+    "name": "Frankenstein (Hammer) Collection",
+    "poster_path": "/Wvpg2lWyGtYMpglu5B5RzQ3KAg.jpg",
+    "backdrop_path": "/6k7NzhLLHTmz8JOHLhhCBjEoZNn.jpg"
+  },
+  "budget": 270000,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ],
+  "homepage": "",
+  "id": 3079,
+  "imdb_id": "tt0050280",
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "The Curse of Frankenstein",
+  "overview": "Baron Victor Frankenstein has discovered life's secret and unleashed a blood-curdling chain of events resulting from his creation: a cursed creature with a horrid face — and a tendency to kill.",
+  "popularity": 1.308,
+  "poster_path": "/r9PDkqKhzdo54aqnOL88wUJY49B.jpg",
+  "production_companies": [
+    {
+      "id": 1314,
+      "logo_path": "/gQBluDqe6dc2ZdzfJbabEHoSGoG.png",
+      "name": "Hammer Film Productions",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "1957-05-20",
+  "revenue": 8000000,
+  "runtime": 83,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The creature created by man and forgotten by nature!",
+  "title": "The Curse of Frankenstein",
+  "video": false,
+  "vote_average": 6.793,
+  "vote_count": 341,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5,
+        "known_for_department": "Acting",
+        "name": "Peter Cushing",
+        "original_name": "Peter Cushing",
+        "popularity": 1.7014,
+        "profile_path": "/if5g03wn6uvHx7F6FxXHLebKc0q.jpg",
+        "cast_id": 16,
+        "character": "Baron Victor Frankenstein",
+        "credit_id": "52fe4383c3a36847f8059d27",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 101499,
+        "known_for_department": "Acting",
+        "name": "Hazel Court",
+        "original_name": "Hazel Court",
+        "popularity": 0.4804,
+        "profile_path": "/qj36ImC6tuukuSqymwNWFruU65H.jpg",
+        "cast_id": 23,
+        "character": "Elizabeth",
+        "credit_id": "52fe4383c3a36847f8059d43",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 30187,
+        "known_for_department": "Acting",
+        "name": "Robert Urquhart",
+        "original_name": "Robert Urquhart",
+        "popularity": 0.7299,
+        "profile_path": "/8oBMWv2on2EiTq0JCGUJfOCzVfH.jpg",
+        "cast_id": 17,
+        "character": "Paul Krempe",
+        "credit_id": "52fe4383c3a36847f8059d2b",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 113,
+        "known_for_department": "Acting",
+        "name": "Christopher Lee",
+        "original_name": "Christopher Lee",
+        "popularity": 2.3204,
+        "profile_path": "/dA26fBr3t7mKqjn3OYW6kbD1LXM.jpg",
+        "cast_id": 18,
+        "character": "The Creature",
+        "credit_id": "52fe4383c3a36847f8059d2f",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 30188,
+        "known_for_department": "Acting",
+        "name": "Melvyn Hayes",
+        "original_name": "Melvyn Hayes",
+        "popularity": 0.4927,
+        "profile_path": "/6crjZTxQ93TjqVmiNTXHCkkuKyU.jpg",
+        "cast_id": 19,
+        "character": "Young Victor",
+        "credit_id": "52fe4383c3a36847f8059d33",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 30189,
+        "known_for_department": "Acting",
+        "name": "Valerie Gaunt",
+        "original_name": "Valerie Gaunt",
+        "popularity": 0.1781,
+        "profile_path": "/gWSyT7FODx1NoXQBmKEOKm6KC4i.jpg",
+        "cast_id": 20,
+        "character": "Justine",
+        "credit_id": "52fe4383c3a36847f8059d37",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 30190,
+        "known_for_department": "Acting",
+        "name": "Paul Hardtmuth",
+        "original_name": "Paul Hardtmuth",
+        "popularity": 0.1165,
+        "profile_path": "/9X0vtfbrXGcXsdgJxReH2AhYxEk.jpg",
+        "cast_id": 21,
+        "character": "Prof. Bernstein",
+        "credit_id": "52fe4383c3a36847f8059d3b",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 30191,
+        "known_for_department": "Acting",
+        "name": "Noel Hood",
+        "original_name": "Noel Hood",
+        "popularity": 0.2678,
+        "profile_path": "/t68fExXVkpHk2RBQNtIfrgZP2Ik.jpg",
+        "cast_id": 22,
+        "character": "Aunt",
+        "credit_id": "52fe4383c3a36847f8059d3f",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 89898,
+        "known_for_department": "Acting",
+        "name": "Fred Johnson",
+        "original_name": "Fred Johnson",
+        "popularity": 0.2223,
+        "profile_path": "/lfVovQ639USNbiLEqLYNPuIKbOU.jpg",
+        "cast_id": 27,
+        "character": "Grandpa",
+        "credit_id": "558bd485c3a3687e650032ee",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1481288,
+        "known_for_department": "Acting",
+        "name": "Claude Kingston",
+        "original_name": "Claude Kingston",
+        "popularity": 0.0592,
+        "profile_path": null,
+        "cast_id": 28,
+        "character": "Little Boy",
+        "credit_id": "558bd497c3a3687e650032f4",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1221548,
+        "known_for_department": "Acting",
+        "name": "Alex Gallier",
+        "original_name": "Alex Gallier",
+        "popularity": 0.0719,
+        "profile_path": null,
+        "cast_id": 29,
+        "character": "Priest",
+        "credit_id": "558bd4a59251410f8f000008",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 552226,
+        "known_for_department": "Acting",
+        "name": "Michael Mulcaster",
+        "original_name": "Michael Mulcaster",
+        "popularity": 0.0939,
+        "profile_path": "/sxGaZeBq8kG0xKzYw9NLpDYOCW5.jpg",
+        "cast_id": 30,
+        "character": "Warder",
+        "credit_id": "558bd4b2c3a3687e650032fc",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1293858,
+        "known_for_department": "Acting",
+        "name": "Andrew Leigh",
+        "original_name": "Andrew Leigh",
+        "popularity": 0.0893,
+        "profile_path": null,
+        "cast_id": 31,
+        "character": "Burgomaster",
+        "credit_id": "558bd4c1c3a36823800014bc",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 101942,
+        "known_for_department": "Acting",
+        "name": "Middleton Woods",
+        "original_name": "Middleton Woods",
+        "popularity": 0.0765,
+        "profile_path": null,
+        "cast_id": 34,
+        "character": "Lecturer",
+        "credit_id": "558bd4ee92514141de00395a",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1481290,
+        "known_for_department": "Acting",
+        "name": "Raymond Ray",
+        "original_name": "Raymond Ray",
+        "popularity": 0.1325,
+        "profile_path": null,
+        "cast_id": 35,
+        "character": "Uncle",
+        "credit_id": "558bd500c3a3687e6800305d",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3481971,
+        "known_for_department": "Acting",
+        "name": "Sally Walsh",
+        "original_name": "Sally Walsh",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "cast_id": 39,
+        "character": "Young Elizabeth",
+        "credit_id": "62401f22c740d90047a317ca",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 140147,
+        "known_for_department": "Acting",
+        "name": "Anne Blake",
+        "original_name": "Anne Blake",
+        "popularity": 0.3814,
+        "profile_path": "/cAA9ELpHhAF9ygGgq8DRqmF8NLu.jpg",
+        "cast_id": 41,
+        "character": "Wife",
+        "credit_id": "6585b42443cd5454d03c31da",
+        "order": 16
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 29662,
+        "known_for_department": "Directing",
+        "name": "Terence Fisher",
+        "original_name": "Terence Fisher",
+        "popularity": 0.5191,
+        "profile_path": "/cigdIPxmq839x0tID9BwK5CREBc.jpg",
+        "credit_id": "52fe4383c3a36847f8059ce1",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 28970,
+        "known_for_department": "Writing",
+        "name": "Mary Shelley",
+        "original_name": "Mary Shelley",
+        "popularity": 0.7673,
+        "profile_path": "/rcTyPNOKNFmZi61FVdAivtBroXt.jpg",
+        "credit_id": "52fe4383c3a36847f8059ce7",
+        "department": "Writing",
+        "job": "Novel"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 30168,
+        "known_for_department": "Production",
+        "name": "Anthony Hinds",
+        "original_name": "Anthony Hinds",
+        "popularity": 0.3607,
+        "profile_path": null,
+        "credit_id": "52fe4383c3a36847f8059ced",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 30169,
+        "known_for_department": "Production",
+        "name": "Max Rosenberg",
+        "original_name": "Max Rosenberg",
+        "popularity": 0.2001,
+        "profile_path": null,
+        "credit_id": "52fe4383c3a36847f8059cf3",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 29667,
+        "known_for_department": "Camera",
+        "name": "Jack Asher",
+        "original_name": "Jack Asher",
+        "popularity": 0.1203,
+        "profile_path": null,
+        "credit_id": "52fe4383c3a36847f8059cf9",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 30172,
+        "known_for_department": "Editing",
+        "name": "James Needs",
+        "original_name": "James Needs",
+        "popularity": 0.1912,
+        "profile_path": null,
+        "credit_id": "52fe4383c3a36847f8059cff",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 30173,
+        "known_for_department": "Production",
+        "name": "Dorothy Holloway",
+        "original_name": "Dorothy Holloway",
+        "popularity": 0.0513,
+        "profile_path": null,
+        "credit_id": "52fe4383c3a36847f8059d05",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 30139,
+        "known_for_department": "Art",
+        "name": "Bernard Robinson",
+        "original_name": "Bernard Robinson",
+        "popularity": 0.1876,
+        "profile_path": null,
+        "credit_id": "52fe4383c3a36847f8059d0b",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 30175,
+        "known_for_department": "Art",
+        "name": "Edward Marshall",
+        "original_name": "Edward Marshall",
+        "popularity": 0.075,
+        "profile_path": null,
+        "credit_id": "52fe4383c3a36847f8059d11",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 30178,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Molly Arbuthnot",
+        "original_name": "Molly Arbuthnot",
+        "popularity": 0.1421,
+        "profile_path": null,
+        "credit_id": "52fe4383c3a36847f8059d17",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 30182,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Henry Montsash",
+        "original_name": "Henry Montsash",
+        "popularity": 0.1428,
+        "profile_path": null,
+        "credit_id": "52fe4383c3a36847f8059d1d",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 29671,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Roy Ashton",
+        "original_name": "Roy Ashton",
+        "popularity": 0.1561,
+        "profile_path": null,
+        "credit_id": "52fe4383c3a36847f8059d23",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 30703,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Philip Leakey",
+        "original_name": "Philip Leakey",
+        "popularity": 0.1804,
+        "profile_path": null,
+        "credit_id": "52fe4383c3a36847f8059d49",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 30700,
+        "known_for_department": "Writing",
+        "name": "Jimmy Sangster",
+        "original_name": "Jimmy Sangster",
+        "popularity": 0.7635,
+        "profile_path": "/oDLQFovGVoTMyVjjTDKOAdvJYFr.jpg",
+        "credit_id": "52fe4383c3a36847f8059d4f",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 30137,
+        "known_for_department": "Sound",
+        "name": "James Bernard",
+        "original_name": "James Bernard",
+        "popularity": 0.263,
+        "profile_path": null,
+        "credit_id": "52fe4383c3a36847f8059d55",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 30139,
+        "known_for_department": "Art",
+        "name": "Bernard Robinson",
+        "original_name": "Bernard Robinson",
+        "popularity": 0.1876,
+        "profile_path": null,
+        "credit_id": "630e2b233d7454007dbfe8cd",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 29664,
+        "known_for_department": "Production",
+        "name": "Michael Carreras",
+        "original_name": "Michael Carreras",
+        "popularity": 0.3449,
+        "profile_path": "/wRpvIeot5SwSRhnIHN5mvVUDdgX.jpg",
+        "credit_id": "558bd519c3a3687e56003536",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 29665,
+        "known_for_department": "Production",
+        "name": "Anthony Nelson Keys",
+        "original_name": "Anthony Nelson Keys",
+        "popularity": 0.2653,
+        "profile_path": null,
+        "credit_id": "558bd52a92514137a00006bf",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1207591,
+        "known_for_department": "Production",
+        "name": "Don Weeks",
+        "original_name": "Don Weeks",
+        "popularity": 0.1233,
+        "profile_path": null,
+        "credit_id": "558bd55892514111a8000bbf",
+        "department": "Production",
+        "job": "Production Manager"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "DE",
+        "title": "Frankensteins Fluch",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "BR",
+        "title": "A Maldição de Frankenstein",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "NL",
+        "title": "Frankenstein Ontsnapt",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "SE",
+        "title": "Frankensteins förbannelse",
+        "type": "Translated"
+      },
+      {
+        "iso_3166_1": "TR",
+        "title": "Frankenstein'ın Laneti",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "AZ",
+        "title": "Frankenstein'ın Lənəti",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "FR",
+        "title": "La Création De Frankenstein",
+        "type": ""
+      }
+    ]
+  }
+}

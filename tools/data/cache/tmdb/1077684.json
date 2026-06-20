@@ -1,0 +1,315 @@
+{
+  "adult": false,
+  "backdrop_path": "/poYOQMm8lGGIdJ8JmCR1ilonc9j.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ],
+  "homepage": "",
+  "id": 1077684,
+  "imdb_id": "tt21909682",
+  "origin_country": [
+    "ES"
+  ],
+  "original_language": "es",
+  "original_title": "Samsara",
+  "overview": "Samsara is the Buddhist cycle of death and reincarnation. From the temples of Laos, we will accompany a soul in its transit from one body to another through the bardo.",
+  "popularity": 0.2123,
+  "poster_path": "/xfuZAK2K7OJe3iBk58u40iohrNy.jpg",
+  "production_companies": [
+    {
+      "id": 187969,
+      "logo_path": "/Urg2aTxtxxk7Xbul8LfUSKeSdS.png",
+      "name": "Señor y Señora",
+      "origin_country": "ES"
+    },
+    {
+      "id": 48575,
+      "logo_path": "/OscpCIbffiYUF5uBdCA8eCAwgU.png",
+      "name": "Filmin",
+      "origin_country": "ES"
+    },
+    {
+      "id": 34217,
+      "logo_path": "/48h1xtqNLfHHalF8UNrZdQxSdZI.png",
+      "name": "Jeonju International Film Festival",
+      "origin_country": "KR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "ES",
+      "name": "Spain"
+    }
+  ],
+  "release_date": "2023-10-06",
+  "revenue": 967213,
+  "runtime": 117,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Lao",
+      "iso_639_1": "lo",
+      "name": ""
+    },
+    {
+      "english_name": "Swahili",
+      "iso_639_1": "sw",
+      "name": "Kiswahili"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Samsara",
+  "video": false,
+  "vote_average": 6.6,
+  "vote_count": 10,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3887361,
+        "known_for_department": "Acting",
+        "name": "Amid Keomany",
+        "original_name": "Amid Keomany",
+        "popularity": 0.0362,
+        "profile_path": null,
+        "cast_id": 2,
+        "character": "Amid",
+        "credit_id": "63ce82e35bce9e00885ae477",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3887362,
+        "known_for_department": "Acting",
+        "name": "Toumor Xiong",
+        "original_name": "Toumor Xiong",
+        "popularity": 0.0239,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "Be Ann",
+        "credit_id": "63ce82e93c434400bc23200c",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3887364,
+        "known_for_department": "Acting",
+        "name": "Simone Milavanh",
+        "original_name": "Simone Milavanh",
+        "popularity": 0.0239,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "Mon",
+        "credit_id": "63ce82f063536a00b7faf874",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3887365,
+        "known_for_department": "Acting",
+        "name": "Mariam Vuaa Mtego",
+        "original_name": "Mariam Vuaa Mtego",
+        "popularity": 0,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "Mariam",
+        "credit_id": "63ce82f83c4344009db99252",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3887366,
+        "known_for_department": "Acting",
+        "name": "Juwairiya Idrisa Uwesu",
+        "original_name": "Juwairiya Idrisa Uwesu",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 6,
+        "character": "Juwairiya",
+        "credit_id": "63ce82fe7aecc600a271fe8e",
+        "order": 4
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1221292,
+        "known_for_department": "Directing",
+        "name": "Lois Patiño",
+        "original_name": "Lois Patiño",
+        "popularity": 0.1201,
+        "profile_path": "/9JmD7iiUvB6vkvXAhsuVmnEPNT.jpg",
+        "credit_id": "63ce82dbe16e5a02cd5a5fe5",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1221292,
+        "known_for_department": "Directing",
+        "name": "Lois Patiño",
+        "original_name": "Lois Patiño",
+        "popularity": 0.1201,
+        "profile_path": "/9JmD7iiUvB6vkvXAhsuVmnEPNT.jpg",
+        "credit_id": "63f19227a24c5000d4e3956d",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2470146,
+        "known_for_department": "Production",
+        "name": "Garbiñe Ortega",
+        "original_name": "Garbiñe Ortega",
+        "popularity": 0.1326,
+        "profile_path": null,
+        "credit_id": "63f19237886348009f3af696",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 971986,
+        "known_for_department": "Camera",
+        "name": "Mauro Herce",
+        "original_name": "Mauro Herce",
+        "popularity": 0.1451,
+        "profile_path": "/jgo7dPRkXLvfTpshMddm7WUHLgY.jpg",
+        "credit_id": "63f1924388634800aacab581",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1544862,
+        "known_for_department": "Directing",
+        "name": "Jessica Sarah Rinland",
+        "original_name": "Jessica Sarah Rinland",
+        "popularity": 0.0848,
+        "profile_path": "/pk2GVAUDZYP5p9XTlT9UnsHqHT5.jpg",
+        "credit_id": "63f1925215376c0095b19424",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1221292,
+        "known_for_department": "Directing",
+        "name": "Lois Patiño",
+        "original_name": "Lois Patiño",
+        "popularity": 0.1201,
+        "profile_path": "/9JmD7iiUvB6vkvXAhsuVmnEPNT.jpg",
+        "credit_id": "63f192594a4bfc00f07d3312",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1785184,
+        "known_for_department": "Sound",
+        "name": "Xabier Erkizia",
+        "original_name": "Xabier Erkizia",
+        "popularity": 0.0289,
+        "profile_path": "/nhfCpsB0OQnewCBb0pWHQXO1Hm2.jpg",
+        "credit_id": "63f19266caaca200a19b4cca",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3364953,
+        "known_for_department": "Crew",
+        "name": "Claudia Salcedo",
+        "original_name": "Claudia Salcedo",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "63f19278a24c5000a13cbfdc",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2470146,
+        "known_for_department": "Production",
+        "name": "Garbiñe Ortega",
+        "original_name": "Garbiñe Ortega",
+        "popularity": 0.1326,
+        "profile_path": null,
+        "credit_id": "63f19282a6725400d7c85ece",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1708908,
+        "known_for_department": "Directing",
+        "name": "Leire Apellániz",
+        "original_name": "Leire Apellániz",
+        "popularity": 0.1234,
+        "profile_path": null,
+        "credit_id": "63f1928b15376c00cb232244",
+        "department": "Production",
+        "job": "Producer"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "TW",
+        "title": "轉生幻夢",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "LA",
+        "title": "សាសារ៉ា",
+        "type": "Khmer"
+      },
+      {
+        "iso_3166_1": "CN",
+        "title": "轮回",
+        "type": "剧情"
+      },
+      {
+        "iso_3166_1": "BR",
+        "title": "Samsara: A Jornada da Alma",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "GR",
+        "title": "Σαμσάρα",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "JP",
+        "title": "サムサラ",
+        "type": ""
+      }
+    ]
+  }
+}

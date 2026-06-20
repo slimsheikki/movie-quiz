@@ -1,0 +1,111 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    }
+  ],
+  "homepage": "",
+  "id": 366808,
+  "imdb_id": "tt4986964",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Immortals",
+  "overview": "This film is a personal journey travelling through time and space to unravel hidden stories and rediscover objects and images that at one time were an integral part of the lives of these artists through which their creations came into being. It is a visual exploration of physical artifacts, personal spaces and living memories where the image speaks for itself, recreating the impression of each artist whilst telling the story of Indian cinema. The film depicts the paradox of India’s relationship with cinema: the romance and the power, the neglect and the worship.",
+  "popularity": 0.128,
+  "poster_path": null,
+  "production_companies": [
+    {
+      "id": 17930,
+      "logo_path": null,
+      "name": "Dungarpur Films",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "KR",
+      "name": "South Korea"
+    },
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "release_date": "2015-10-04",
+  "revenue": 0,
+  "runtime": 52,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Tamil",
+      "iso_639_1": "ta",
+      "name": "தமிழ்"
+    },
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "हिन्दी"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Bengali",
+      "iso_639_1": "bn",
+      "name": "বাংলা"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Immortals",
+  "video": false,
+  "vote_average": 0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 71092,
+        "known_for_department": "Camera",
+        "name": "Avik Mukhopadhyay",
+        "original_name": "Avik Mukhopadhyay",
+        "popularity": 0.0735,
+        "profile_path": "/mh1NglYgTgFE1C7BRbpz5hNCqes.jpg",
+        "credit_id": "60e6c8fba3b5e600291a355e",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1191719,
+        "known_for_department": "Directing",
+        "name": "Shivendra Singh Dungarpur",
+        "original_name": "Shivendra Singh Dungarpur",
+        "popularity": 0.1467,
+        "profile_path": null,
+        "credit_id": "563bc09c9251414c70004fd7",
+        "department": "Directing",
+        "job": "Director"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  }
+}

@@ -1,0 +1,513 @@
+{
+  "adult": false,
+  "backdrop_path": "/cLSMoqNcBtwIAvyG5rirqfRkkkP.jpg",
+  "belongs_to_collection": null,
+  "budget": 2000000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 17238,
+  "imdb_id": "tt0092637",
+  "origin_country": [
+    "IT",
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "The Belly of an Architect",
+  "overview": "Stourley Kracklite, a driven, detail-obsessed architect, travels from America to Rome with his much younger wife, Louisa, to oversee an architectural homage to a personal hero, 18th-century master builder Etienne-Louis Boullée. En route by train, Stourley and Louisa conceive a much-wanted child — but Stourley's obsession with his wife's expanding belly, her perceived infidelity, and his own recurrent bouts of abdominal pain reach epic and dangerous proportions.",
+  "popularity": 0.7637,
+  "poster_path": "/gjS08AHtZ7b44WC2NCuYWpJRoCM.jpg",
+  "production_companies": [
+    {
+      "id": 34471,
+      "logo_path": null,
+      "name": "Callender Company",
+      "origin_country": ""
+    },
+    {
+      "id": 13715,
+      "logo_path": null,
+      "name": "Mondial",
+      "origin_country": ""
+    },
+    {
+      "id": 34472,
+      "logo_path": null,
+      "name": "Tangram Film",
+      "origin_country": "IT"
+    },
+    {
+      "id": 871,
+      "logo_path": null,
+      "name": "British Screen",
+      "origin_country": "GB"
+    },
+    {
+      "id": 12110,
+      "logo_path": null,
+      "name": "Hemdale Group",
+      "origin_country": ""
+    },
+    {
+      "id": 96664,
+      "logo_path": null,
+      "name": "SACIS",
+      "origin_country": ""
+    },
+    {
+      "id": 6705,
+      "logo_path": "/iNB1FCwT4XjO6wkN3PnpPnwr9GX.png",
+      "name": "Film4 Productions",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "1987-09-23",
+  "revenue": 0,
+  "runtime": 118,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Art is the food for madness.",
+  "title": "The Belly of an Architect",
+  "video": false,
+  "vote_average": 6.828,
+  "vote_count": 131,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6197,
+        "known_for_department": "Acting",
+        "name": "Brian Dennehy",
+        "original_name": "Brian Dennehy",
+        "popularity": 2.0926,
+        "profile_path": "/cg7CwS1vMJXCzZ0FUm4RbrjAJ2t.jpg",
+        "cast_id": 4,
+        "character": "Stourley Kracklite",
+        "credit_id": "52fe47129251416c7508ce3d",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 43476,
+        "known_for_department": "Acting",
+        "name": "Chloe Webb",
+        "original_name": "Chloe Webb",
+        "popularity": 0.8249,
+        "profile_path": "/7ylnbM8jTG0WQ3oFFaG0VuEJxnb.jpg",
+        "cast_id": 5,
+        "character": "Louisa Kracklite",
+        "credit_id": "52fe47129251416c7508ce41",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2192,
+        "known_for_department": "Acting",
+        "name": "Lambert Wilson",
+        "original_name": "Lambert Wilson",
+        "popularity": 1.3052,
+        "profile_path": "/pFuLPZtgrKsnRXJCKWILQ69k6Ta.jpg",
+        "cast_id": 6,
+        "character": "Caspasian Speckler",
+        "credit_id": "52fe47129251416c7508ce45",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 34596,
+        "known_for_department": "Acting",
+        "name": "Sergio Fantoni",
+        "original_name": "Sergio Fantoni",
+        "popularity": 0.4042,
+        "profile_path": "/1wDIHi07X2LzRgGJaFZrMx92s2l.jpg",
+        "cast_id": 7,
+        "character": "Io Speckler",
+        "credit_id": "52fe47129251416c7508ce49",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 34043,
+        "known_for_department": "Acting",
+        "name": "Stefania Casini",
+        "original_name": "Stefania Casini",
+        "popularity": 0.4334,
+        "profile_path": "/aSg1jmYTV4nUhm6noY6ocP6hGUT.jpg",
+        "cast_id": 8,
+        "character": "Flavia Speckler",
+        "credit_id": "52fe47129251416c7508ce4d",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 100438,
+        "known_for_department": "Acting",
+        "name": "Vanni Corbellini",
+        "original_name": "Vanni Corbellini",
+        "popularity": 0.26,
+        "profile_path": "/wqAO6vRrP7QXyABQ4WFkL91m4n8.jpg",
+        "cast_id": 20,
+        "character": "Frederico",
+        "credit_id": "56179d32c3a3680fa4002719",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1082662,
+        "known_for_department": "Acting",
+        "name": "Alfredo Varelli",
+        "original_name": "Alfredo Varelli",
+        "popularity": 0.1998,
+        "profile_path": "/4MHVchcZnrGMCdiVZvEjzhwrurg.jpg",
+        "cast_id": 21,
+        "character": "Julio",
+        "credit_id": "56179d44c3a3680f9d0022fd",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 100427,
+        "known_for_department": "Acting",
+        "name": "Geoffrey Copleston",
+        "original_name": "Geoffrey Copleston",
+        "popularity": 0.2443,
+        "profile_path": "/aovs3e7AKfbb3QkvYhW2z5dGYzS.jpg",
+        "cast_id": 22,
+        "character": "Caspetti",
+        "credit_id": "56179d5a9251412aef00241c",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 27199,
+        "known_for_department": "Acting",
+        "name": "Francesco Carnelutti",
+        "original_name": "Francesco Carnelutti",
+        "popularity": 0.2711,
+        "profile_path": "/xeg7fP9Cr5ROWg9Pk1MViwAvZET.jpg",
+        "cast_id": 23,
+        "character": "Pastarri",
+        "credit_id": "56179d729251412af400252c",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 39151,
+        "known_for_department": "Acting",
+        "name": "Marino Masé",
+        "original_name": "Marino Masé",
+        "popularity": 0.4662,
+        "profile_path": "/1rd8gmQnjvYFXjnrfYEpuOZzYUB.jpg",
+        "cast_id": 25,
+        "character": "Trettorio",
+        "credit_id": "56179d9d9251412ae5002354",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 67882,
+        "known_for_department": "Acting",
+        "name": "Marne Maitland",
+        "original_name": "Marne Maitland",
+        "popularity": 0.3898,
+        "profile_path": "/xpO7TbkqYzuoudEAx5Ha5m4fGod.jpg",
+        "cast_id": 34,
+        "character": "Battistino",
+        "credit_id": "689958a5c95fa8129292f074",
+        "order": 10
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 30309,
+        "known_for_department": "Directing",
+        "name": "Peter Greenaway",
+        "original_name": "Peter Greenaway",
+        "popularity": 0.5615,
+        "profile_path": "/xw8UM4GStDbmNy21Hi1tI1UprgW.jpg",
+        "credit_id": "52fe47129251416c7508ce59",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 30309,
+        "known_for_department": "Directing",
+        "name": "Peter Greenaway",
+        "original_name": "Peter Greenaway",
+        "popularity": 0.5615,
+        "profile_path": "/xw8UM4GStDbmNy21Hi1tI1UprgW.jpg",
+        "credit_id": "52fe47129251416c7508ce53",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1416951,
+        "known_for_department": "Sound",
+        "name": "Peter Maxwell",
+        "original_name": "Peter Maxwell",
+        "popularity": 0.2115,
+        "profile_path": null,
+        "credit_id": "6272a5a9c0442900a4cd9ec6",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 12511,
+        "known_for_department": "Art",
+        "name": "Giorgio Desideri",
+        "original_name": "Giorgio Desideri",
+        "popularity": 0.1653,
+        "profile_path": null,
+        "credit_id": "6272a59b5800c40065f04f51",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 33444,
+        "known_for_department": "Art",
+        "name": "Ben van Os",
+        "original_name": "Ben van Os",
+        "popularity": 0.1146,
+        "profile_path": null,
+        "credit_id": "6272a57c5800c40050dbf06d",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2645116,
+        "known_for_department": "Sound",
+        "name": "Glenn Branca",
+        "original_name": "Glenn Branca",
+        "popularity": 0.0297,
+        "profile_path": null,
+        "credit_id": "6272a569b6cff10051558606",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1531575,
+        "known_for_department": "Sound",
+        "name": "Peter Glossop",
+        "original_name": "Peter Glossop",
+        "popularity": 0.2025,
+        "profile_path": "/iKQldZ58qzJw7Hb1oqs40kkDLuR.jpg",
+        "credit_id": "6272a5b7676ce20067bb945e",
+        "department": "Sound",
+        "job": "Production Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 27205,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Luigi Rocchetti",
+        "original_name": "Luigi Rocchetti",
+        "popularity": 0.1271,
+        "profile_path": null,
+        "credit_id": "6272a58fc044290055c12390",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1459943,
+        "known_for_department": "Writing",
+        "name": "Walter Donohue",
+        "original_name": "Walter Donohue",
+        "popularity": 0.2068,
+        "profile_path": null,
+        "credit_id": "553e1bd892514138a900a405",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 9752,
+        "known_for_department": "Camera",
+        "name": "Sacha Vierny",
+        "original_name": "Sacha Vierny",
+        "popularity": 0.1893,
+        "profile_path": null,
+        "credit_id": "553e1976c3a3685c65001164",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1125598,
+        "known_for_department": "Production",
+        "name": "Dino Di Dionisio",
+        "original_name": "Dino Di Dionisio",
+        "popularity": 0.0617,
+        "profile_path": null,
+        "credit_id": "553e1c589251415852002ad7",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 476,
+        "known_for_department": "Editing",
+        "name": "John Wilson",
+        "original_name": "John Wilson",
+        "popularity": 0.2522,
+        "profile_path": "/uEpqYZpgg5NRZrOUwVojMqzfFwQ.jpg",
+        "credit_id": "553e1998c3a3683e55007bfb",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 54670,
+        "known_for_department": "Sound",
+        "name": "Wim Mertens",
+        "original_name": "Wim Mertens",
+        "popularity": 0.0538,
+        "profile_path": null,
+        "credit_id": "553e1984c3a36820ec005323",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1239412,
+        "known_for_department": "Production",
+        "name": "Colin Callender",
+        "original_name": "Colin Callender",
+        "popularity": 0.2208,
+        "profile_path": "/xW3aW7ylF2JyXm5RyAFik1wXEaM.jpg",
+        "credit_id": "553e1be892514135c8005cff",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 8756,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Maurizio Millenotti",
+        "original_name": "Maurizio Millenotti",
+        "popularity": 0.3079,
+        "profile_path": null,
+        "credit_id": "553e1c07c3a3687db1002e0d",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 7700,
+        "known_for_department": "Production",
+        "name": "Conchita Airoldi",
+        "original_name": "Conchita Airoldi",
+        "popularity": 0.2351,
+        "profile_path": "/uRO3HN100iYUNTVjGjEgMwNewMQ.jpg",
+        "credit_id": "553e1c35c3a3683e14007aab",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1354912,
+        "known_for_department": "Art",
+        "name": "Luciana Vedovelli",
+        "original_name": "Luciana Vedovelli",
+        "popularity": 0.2209,
+        "profile_path": null,
+        "credit_id": "59452659c3a36816c5010181",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1187021,
+        "known_for_department": "Acting",
+        "name": "Glenn Branca",
+        "original_name": "Glenn Branca",
+        "popularity": 0.1154,
+        "profile_path": "/gbKVnU9o6jpVcQbrvQRYQc0aVdJ.jpg",
+        "credit_id": "5c0e48edc3a36825150c698a",
+        "department": "Crew",
+        "job": "Additional Music"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "FR",
+        "title": "Le ventre de l'architecte",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "CN",
+        "title": "云雨断肠时",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "NO",
+        "title": "Arkitektens mage",
+        "type": ""
+      }
+    ]
+  }
+}

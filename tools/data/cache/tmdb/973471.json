@@ -1,0 +1,687 @@
+{
+  "adult": false,
+  "backdrop_path": "/qwQCMlF4QI7XqHCBmkDW28Q1ZUP.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "https://www.thesacrificegame.com",
+  "id": 973471,
+  "imdb_id": "tt20114976",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Sacrifice Game",
+  "overview": "Christmas break, 1971. Samantha and Clara, two students who are staying behind for the holidays at their boarding school, must survive the night after the arrival of uninvited visitors.",
+  "popularity": 0.5058,
+  "poster_path": "/6w9Wphe5O5zySyoGxlYJ5irwh4f.jpg",
+  "production_companies": [
+    {
+      "id": 50868,
+      "logo_path": "/zu8TdckeTBPmcv3M9D5QqyJhpvk.png",
+      "name": "Slater Brothers Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 175010,
+      "logo_path": null,
+      "name": "AMG",
+      "origin_country": ""
+    },
+    {
+      "id": 153264,
+      "logo_path": null,
+      "name": "Real by Fake",
+      "origin_country": ""
+    },
+    {
+      "id": 179875,
+      "logo_path": "/eXahadvWSPhvYeq5BsXypNKsdmb.png",
+      "name": "Convoke Media",
+      "origin_country": "US"
+    },
+    {
+      "id": 121063,
+      "logo_path": "/dvpzPTQKLg2nhh95OlBhvGFb8gD.png",
+      "name": "Red Sea Media",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2023-12-07",
+  "revenue": 0,
+  "runtime": 99,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "This Christmas, raise a little hell.",
+  "title": "The Sacrifice Game",
+  "video": false,
+  "vote_average": 5.874,
+  "vote_count": 87,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3080284,
+        "known_for_department": "Acting",
+        "name": "Georgia Acken",
+        "original_name": "Georgia Acken",
+        "popularity": 0.0627,
+        "profile_path": null,
+        "cast_id": 26,
+        "character": "Clara",
+        "credit_id": "62782b7203bf840050abaa40",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1515478,
+        "known_for_department": "Acting",
+        "name": "Mena Massoud",
+        "original_name": "Mena Massoud",
+        "popularity": 0.8093,
+        "profile_path": "/3Ng1Cxcln1tAMcgBY8L6aXNgGdV.jpg",
+        "cast_id": 19,
+        "character": "Jude",
+        "credit_id": "62782b1b9979d234fe762f35",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1547061,
+        "known_for_department": "Acting",
+        "name": "Olivia Scott Welch",
+        "original_name": "Olivia Scott Welch",
+        "popularity": 0.6337,
+        "profile_path": "/9UXJ22J4SlWIUW8KWCwL5Tguoua.jpg",
+        "cast_id": 20,
+        "character": "Maisie",
+        "credit_id": "62782b25a802361414603cc8",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 582155,
+        "known_for_department": "Acting",
+        "name": "Gus Kenworthy",
+        "original_name": "Gus Kenworthy",
+        "popularity": 0.4242,
+        "profile_path": "/XAI1wxZIlQlhNuIhMZoc80vaVH.jpg",
+        "cast_id": 21,
+        "character": "Jimmy",
+        "credit_id": "62782b3407291c00500c56e5",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1440577,
+        "known_for_department": "Acting",
+        "name": "Chloë Levine",
+        "original_name": "Chloë Levine",
+        "popularity": 0.4839,
+        "profile_path": "/g00AlQl7LzlERqLK94pSkbQOLM9.jpg",
+        "cast_id": 22,
+        "character": "Rose",
+        "credit_id": "62782b3e713ea6328876c256",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2719571,
+        "known_for_department": "Acting",
+        "name": "Derek Johns",
+        "original_name": "Derek Johns",
+        "popularity": 0.3486,
+        "profile_path": "/7agWChH4XehsSKxRkKHel1NdnPz.jpg",
+        "cast_id": 23,
+        "character": "Grant",
+        "credit_id": "62782b51323eba1337278ce0",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2559994,
+        "known_for_department": "Acting",
+        "name": "Laurent Pitre",
+        "original_name": "Laurent Pitre",
+        "popularity": 0.1206,
+        "profile_path": "/d3IVgEVM0OinEOOHdAhEYcCbZdm.jpg",
+        "cast_id": 24,
+        "character": "Doug",
+        "credit_id": "62782b5c323eba1336b68789",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4226012,
+        "known_for_department": "Acting",
+        "name": "Madison Baines",
+        "original_name": "Madison Baines",
+        "popularity": 0.1301,
+        "profile_path": "/jFyAsvYnmOpZX3LsgERvOlPOjel.jpg",
+        "cast_id": 27,
+        "character": "Samantha",
+        "credit_id": "64e320af7ef38100ca0c9324",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4462042,
+        "known_for_department": "Acting",
+        "name": "Sophie McIntosh",
+        "original_name": "Sophie McIntosh",
+        "popularity": 0.0722,
+        "profile_path": "/nW2goG3rB2kQUfwe9RY163mxGHW.jpg",
+        "cast_id": 28,
+        "character": "Sandy",
+        "credit_id": "659555dc5907de668863bf61",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6169548,
+        "known_for_department": "Acting",
+        "name": "Isabelle Boulton",
+        "original_name": "Isabelle Boulton",
+        "popularity": 0.0362,
+        "profile_path": null,
+        "cast_id": 34,
+        "character": "Wife",
+        "credit_id": "6a004c8fc5bffab60fce332d",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6002109,
+        "known_for_department": "Acting",
+        "name": "Patrick Kerton",
+        "original_name": "Patrick Kerton",
+        "popularity": 0.0239,
+        "profile_path": null,
+        "cast_id": 35,
+        "character": "Security Guard",
+        "credit_id": "6a004cdb931c8ef79a79022d",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1109368,
+        "known_for_department": "Acting",
+        "name": "Douglas Kidd",
+        "original_name": "Douglas Kidd",
+        "popularity": 0.1041,
+        "profile_path": "/h5cVt5CMWAaVxHwQNoXfDe86tTE.jpg",
+        "cast_id": 36,
+        "character": "Husband",
+        "credit_id": "6a004d06b18d383247222061",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3713076,
+        "known_for_department": "Acting",
+        "name": "Fadi Malo",
+        "original_name": "Fadi Malo",
+        "popularity": 0.0629,
+        "profile_path": "/5K81DrEmmk0TDXtTplqk2E9VtLe.jpg",
+        "cast_id": 37,
+        "character": "Cop",
+        "credit_id": "6a004d15c5bffab60fce3350",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2059122,
+        "known_for_department": "Acting",
+        "name": "Basil McKenna",
+        "original_name": "Basil McKenna",
+        "popularity": 0.1351,
+        "profile_path": null,
+        "cast_id": 38,
+        "character": "Police Officer #1",
+        "credit_id": "6a004d3d47a05f5cc2799bef",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3444836,
+        "known_for_department": "Acting",
+        "name": "Gabriella Mejia Perez",
+        "original_name": "Gabriella Mejia Perez",
+        "popularity": 0.0071,
+        "profile_path": "/i0eP53jCt92OcDrOfpiiLoYYblH.jpg",
+        "cast_id": 39,
+        "character": "Girl #1",
+        "credit_id": "6a004d4d0e9deb66b679d13e",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6203075,
+        "known_for_department": "Acting",
+        "name": "Adam Kelly Morton",
+        "original_name": "Adam Kelly Morton",
+        "popularity": 0.055,
+        "profile_path": null,
+        "cast_id": 40,
+        "character": "State Trooper",
+        "credit_id": "6a004d73c5bffab60fce3360",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1504595,
+        "known_for_department": "Acting",
+        "name": "Jesse Sherman",
+        "original_name": "Jesse Sherman",
+        "popularity": 0.0684,
+        "profile_path": "/rZhMrWeRkMpWvg7S7SXewPu57rB.jpg",
+        "cast_id": 41,
+        "character": "TV News Anchor",
+        "credit_id": "6a004d82b4b10d6bd5799c66",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2574489,
+        "known_for_department": "Acting",
+        "name": "Bailey Thain",
+        "original_name": "Bailey Thain",
+        "popularity": 0.0311,
+        "profile_path": "/xQVcNGoSDYvUQcLJ5RH9hyX7XnZ.jpg",
+        "cast_id": 42,
+        "character": "Popular Mean Girl",
+        "credit_id": "6a004d927368b3e0af79039c",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3151580,
+        "known_for_department": "Acting",
+        "name": "Craig Wexler",
+        "original_name": "Craig Wexler",
+        "popularity": 0,
+        "profile_path": null,
+        "cast_id": 44,
+        "character": "Christmas Caroler",
+        "credit_id": "6a004dbeb2d7b641a179d056",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6203077,
+        "known_for_department": "Acting",
+        "name": "Gale Wexler",
+        "original_name": "Gale Wexler",
+        "popularity": 0.1298,
+        "profile_path": null,
+        "cast_id": 45,
+        "character": "Christmas Caroler",
+        "credit_id": "6a004dde1503fc338aa8d21d",
+        "order": 19
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2080362,
+        "known_for_department": "Writing",
+        "name": "Philip Kalin-Hajdu",
+        "original_name": "Philip Kalin-Hajdu",
+        "popularity": 0.1038,
+        "profile_path": null,
+        "credit_id": "627828e567e0f7358e189a93",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1792670,
+        "known_for_department": "Production",
+        "name": "Albert I. Melamed",
+        "original_name": "Albert I. Melamed",
+        "popularity": 0.0997,
+        "profile_path": null,
+        "credit_id": "627828f272d8551306a50188",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3541803,
+        "known_for_department": "Production",
+        "name": "Duane Farley",
+        "original_name": "Duane Farley",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "62782983724de133502290a0",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1451847,
+        "known_for_department": "Production",
+        "name": "Todd Slater",
+        "original_name": "Todd Slater",
+        "popularity": 0.3137,
+        "profile_path": null,
+        "credit_id": "62782911389da100a321c577",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3541804,
+        "known_for_department": "Production",
+        "name": "Mark Berry",
+        "original_name": "Mark Berry",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "627829a9fc31d30050a412e7",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1547061,
+        "known_for_department": "Acting",
+        "name": "Olivia Scott Welch",
+        "original_name": "Olivia Scott Welch",
+        "popularity": 0.6337,
+        "profile_path": "/9UXJ22J4SlWIUW8KWCwL5Tguoua.jpg",
+        "credit_id": "627829e0fc31d30065ab28f0",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1870974,
+        "known_for_department": "Production",
+        "name": "Heather Buckley",
+        "original_name": "Heather Buckley",
+        "popularity": 0.2056,
+        "profile_path": null,
+        "credit_id": "6278290475f1ad005052230d",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2385701,
+        "known_for_department": "Production",
+        "name": "Yannick Sadler",
+        "original_name": "Yannick Sadler",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "62782a16a80236141271c677",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1651997,
+        "known_for_department": "Directing",
+        "name": "Jenn Wexler",
+        "original_name": "Jenn Wexler",
+        "popularity": 0.2289,
+        "profile_path": "/9UwhS2j3Y80FsJqaOFlE3OBftpj.jpg",
+        "credit_id": "6278282703bf840066d0c26a",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3541800,
+        "known_for_department": "Writing",
+        "name": "Sean Redlitz",
+        "original_name": "Sean Redlitz",
+        "popularity": 0.1007,
+        "profile_path": null,
+        "credit_id": "627828c2724de133512bb43a",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2907275,
+        "known_for_department": "Production",
+        "name": "Roman Kopelevich",
+        "original_name": "Roman Kopelevich",
+        "popularity": 0.1296,
+        "profile_path": null,
+        "credit_id": "62782927a80236141271c100",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1515478,
+        "known_for_department": "Acting",
+        "name": "Mena Massoud",
+        "original_name": "Mena Massoud",
+        "popularity": 0.8093,
+        "profile_path": "/3Ng1Cxcln1tAMcgBY8L6aXNgGdV.jpg",
+        "credit_id": "627829d2af3da60064e4cd81",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3541802,
+        "known_for_department": "Production",
+        "name": "Crystal Hill",
+        "original_name": "Crystal Hill",
+        "popularity": 0.0256,
+        "profile_path": null,
+        "credit_id": "62782949a843c1009309fee6",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1015891,
+        "known_for_department": "Production",
+        "name": "Peter Phok",
+        "original_name": "Peter Phok",
+        "popularity": 0.1989,
+        "profile_path": null,
+        "credit_id": "6278295af10a1a009ea49ee3",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1651997,
+        "known_for_department": "Directing",
+        "name": "Jenn Wexler",
+        "original_name": "Jenn Wexler",
+        "popularity": 0.2289,
+        "profile_path": "/9UwhS2j3Y80FsJqaOFlE3OBftpj.jpg",
+        "credit_id": "627828b5a843c100669f32fa",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3010770,
+        "known_for_department": "Acting",
+        "name": "Marc Côté",
+        "original_name": "Marc Côté",
+        "popularity": 0.0468,
+        "profile_path": null,
+        "credit_id": "62782a3cf10a1a009ea4a383",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1651997,
+        "known_for_department": "Directing",
+        "name": "Jenn Wexler",
+        "original_name": "Jenn Wexler",
+        "popularity": 0.2289,
+        "profile_path": "/9UwhS2j3Y80FsJqaOFlE3OBftpj.jpg",
+        "credit_id": "627828d6807298005009537e",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1419723,
+        "known_for_department": "Editing",
+        "name": "Mathieu Berube",
+        "original_name": "Mathieu Berube",
+        "popularity": 0.1103,
+        "profile_path": null,
+        "credit_id": "659b5a258741c401a3f2261b",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1189593,
+        "known_for_department": "Camera",
+        "name": "Alexandre Bussière",
+        "original_name": "Alexandre Bussière",
+        "popularity": 0.0474,
+        "profile_path": null,
+        "credit_id": "659b5a1ca1074b01a2a0e694",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 968605,
+        "known_for_department": "Editing",
+        "name": "Arthur Tarnowski",
+        "original_name": "Arthur Tarnowski",
+        "popularity": 0.1811,
+        "profile_path": "/ens2O71ksTOVyoiyRoqnXrTjpRc.jpg",
+        "credit_id": "659b5a2c4d0e8d6e9992df80",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1092101,
+        "known_for_department": "Sound",
+        "name": "Mario Sévigny",
+        "original_name": "Mario Sévigny",
+        "popularity": 0.2175,
+        "profile_path": null,
+        "credit_id": "68616b87997001dd864d21b6",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2915081,
+        "known_for_department": "Production",
+        "name": "Samuel Zimmerman",
+        "original_name": "Samuel Zimmerman",
+        "popularity": 0.0998,
+        "profile_path": "/tllQ8yv8sWoPXDBl3U4EpzyVStL.jpg",
+        "credit_id": "6971543898ee66f67b546770",
+        "department": "Production",
+        "job": "Executive Producer"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "UA",
+        "title": "Демонічне Різдво",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "ES",
+        "title": "Juego de Sacrificio",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "MX",
+        "title": "Juego de Sacrificio",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "EC",
+        "title": "Juego de Sacrificio",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "AR",
+        "title": "Juego de Sacrificio",
+        "type": ""
+      }
+    ]
+  }
+}

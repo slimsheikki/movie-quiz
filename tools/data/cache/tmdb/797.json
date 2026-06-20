@@ -1,0 +1,514 @@
+{
+  "adult": false,
+  "backdrop_path": "/amr72SENYz7AM4Hq5WBXxFBJEY6.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 797,
+  "imdb_id": "tt0060827",
+  "origin_country": [
+    "SE"
+  ],
+  "original_language": "sv",
+  "original_title": "Persona",
+  "overview": "A young nurse, Alma, is put in charge of Elisabeth Vogler: an actress who is seemingly healthy in all respects, but will not talk. As they spend time together, Alma speaks to Elisabeth constantly, never receiving any answer.",
+  "popularity": 2.6544,
+  "poster_path": "/fVA5hTcAOlW2LJyelViQfWHxUcx.jpg",
+  "production_companies": [
+    {
+      "id": 6181,
+      "logo_path": "/gYyww91VI1jdH89xpZgFFc8zN3F.png",
+      "name": "SF Studios",
+      "origin_country": "SE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "SE",
+      "name": "Sweden"
+    }
+  ],
+  "release_date": "1966-10-18",
+  "revenue": 250000,
+  "runtime": 84,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Ingmar Bergman's most personal and original film.",
+  "title": "Persona",
+  "video": false,
+  "vote_average": 8.1,
+  "vote_count": 2414,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 6657,
+        "known_for_department": "Acting",
+        "name": "Bibi Andersson",
+        "original_name": "Bibi Andersson",
+        "popularity": 0.6784,
+        "profile_path": "/6EGqmWOR3R3jv3IgrEZmCjTAVGv.jpg",
+        "cast_id": 13,
+        "character": "Alma",
+        "credit_id": "52fe4278c3a36847f80210df",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 11916,
+        "known_for_department": "Acting",
+        "name": "Liv Ullmann",
+        "original_name": "Liv Ullmann",
+        "popularity": 1.501,
+        "profile_path": "/7IJimLbXIOYpLAS4UaHcNYWRsJe.jpg",
+        "cast_id": 14,
+        "character": "Elisabet Vogler",
+        "credit_id": "52fe4278c3a36847f80210e3",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 11917,
+        "known_for_department": "Acting",
+        "name": "Margaretha Krook",
+        "original_name": "Margaretha Krook",
+        "popularity": 0.365,
+        "profile_path": "/eIfMDQG8oaU2Vt5xbYt4vS6ftja.jpg",
+        "cast_id": 15,
+        "character": "The Doctor",
+        "credit_id": "52fe4278c3a36847f80210e7",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6649,
+        "known_for_department": "Acting",
+        "name": "Gunnar Björnstrand",
+        "original_name": "Gunnar Björnstrand",
+        "popularity": 0.4621,
+        "profile_path": "/vy5Y0c1ACGCI6d4rVjmTM6HOqNN.jpg",
+        "cast_id": 16,
+        "character": "Herr Vogler",
+        "credit_id": "52fe4278c3a36847f80210eb",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 11918,
+        "known_for_department": "Acting",
+        "name": "Jörgen Lindström",
+        "original_name": "Jörgen Lindström",
+        "popularity": 0.3395,
+        "profile_path": "/yXsYjc6FvmcHgSJ5Uv4GJBnRBqX.jpg",
+        "cast_id": 17,
+        "character": "Elisabet's Son (uncredited)",
+        "credit_id": "52fe4278c3a36847f80210ef",
+        "order": 4
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 11908,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Mago",
+        "original_name": "Mago",
+        "popularity": 0.0704,
+        "profile_path": "/8kpbMrmHCXhb2qyTGez26AbIo0R.jpg",
+        "credit_id": "52fe4278c3a36847f80210c3",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6648,
+        "known_for_department": "Directing",
+        "name": "Ingmar Bergman",
+        "original_name": "Ingmar Bergman",
+        "popularity": 1.433,
+        "profile_path": "/nkmOaXNRoioViN9OQf2n9Iu6akA.jpg",
+        "credit_id": "52fe4278c3a36847f8021099",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 11905,
+        "known_for_department": "Camera",
+        "name": "Sven Nykvist",
+        "original_name": "Sven Nykvist",
+        "popularity": 0.4381,
+        "profile_path": "/qs8gCA7aTXPfKkGiPdQAqposl5o.jpg",
+        "credit_id": "52fe4278c3a36847f80210b1",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6648,
+        "known_for_department": "Directing",
+        "name": "Ingmar Bergman",
+        "original_name": "Ingmar Bergman",
+        "popularity": 1.433,
+        "profile_path": "/nkmOaXNRoioViN9OQf2n9Iu6akA.jpg",
+        "credit_id": "52fe4278c3a36847f802109f",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 11904,
+        "known_for_department": "Sound",
+        "name": "Lars Johan Werle",
+        "original_name": "Lars Johan Werle",
+        "popularity": 0.0193,
+        "profile_path": null,
+        "credit_id": "52fe4278c3a36847f80210ab",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 11909,
+        "known_for_department": "Production",
+        "name": "Lars-Owe Carlberg",
+        "original_name": "Lars-Owe Carlberg",
+        "popularity": 0.1694,
+        "profile_path": null,
+        "credit_id": "52fe4278c3a36847f80210c9",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 11906,
+        "known_for_department": "Editing",
+        "name": "Ulla Ryghe",
+        "original_name": "Ulla Ryghe",
+        "popularity": 0.1427,
+        "profile_path": "/qXrmCDuxrYelPG94PYnVwzp3oQy.jpg",
+        "credit_id": "52fe4278c3a36847f80210b7",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 11907,
+        "known_for_department": "Art",
+        "name": "Bibi Lindström",
+        "original_name": "Bibi Lindström",
+        "popularity": 0.1005,
+        "profile_path": "/t2QwSsyWr0ogmmLip6S9bOllzvx.jpg",
+        "credit_id": "52fe4278c3a36847f80210bd",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6648,
+        "known_for_department": "Directing",
+        "name": "Ingmar Bergman",
+        "original_name": "Ingmar Bergman",
+        "popularity": 1.433,
+        "profile_path": "/nkmOaXNRoioViN9OQf2n9Iu6akA.jpg",
+        "credit_id": "52fe4278c3a36847f80210a5",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 11914,
+        "known_for_department": "Sound",
+        "name": "Olle Jakobsson",
+        "original_name": "Olle Jacobsson",
+        "popularity": 0.0873,
+        "profile_path": "/nRWbaqTqItqOqYjBDdmX3tjS6dt.jpg",
+        "credit_id": "52fe4278c3a36847f80210db",
+        "department": "Sound",
+        "job": "Sound mixer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1526483,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Börje Lundh",
+        "original_name": "Börje Lundh",
+        "popularity": 0.1406,
+        "profile_path": "/qCHN3jyaysVF6ITXuPkazPkUEB2.jpg",
+        "credit_id": "562b6bdf9251412845004482",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 11910,
+        "known_for_department": "Sound",
+        "name": "Lennart Engholm",
+        "original_name": "Lennart Engholm",
+        "popularity": 0.0387,
+        "profile_path": null,
+        "credit_id": "562b6b62925141284c004abc",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1526482,
+        "known_for_department": "Directing",
+        "name": "Kerstin Berg",
+        "original_name": "Kerstin Berg",
+        "popularity": 0.055,
+        "profile_path": null,
+        "credit_id": "562b6bb6c3a3681b61004baf",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 11912,
+        "known_for_department": "Sound",
+        "name": "Per-Olof Pettersson",
+        "original_name": "Per-Olof Pettersson",
+        "popularity": 0.0988,
+        "profile_path": "/jKKjyzVrGDVXescKtomlPiKUpz5.jpg",
+        "credit_id": "562b6b9a9251412857004804",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 77709,
+        "known_for_department": "Writing",
+        "name": "Bo Arne Vibenius",
+        "original_name": "Bo Arne Vibenius",
+        "popularity": 0.2188,
+        "profile_path": "/cmqROYOXdM99miSJtKLo4erARIz.jpg",
+        "credit_id": "646faa0b5437f501055cd947",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2393637,
+        "known_for_department": "Crew",
+        "name": "Anders Bodin",
+        "original_name": "Anders Bodin",
+        "popularity": 0.077,
+        "profile_path": null,
+        "credit_id": "66d213c0c06438205a03bf6d",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1642275,
+        "known_for_department": "Camera",
+        "name": "Lars Johnsson",
+        "original_name": "Lars Johnsson",
+        "popularity": 0.0558,
+        "profile_path": null,
+        "credit_id": "66d213de5a8a9e5e2dc0bf70",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 994406,
+        "known_for_department": "Directing",
+        "name": "Lenn Hjortzberg",
+        "original_name": "Lenn Hjortzberg",
+        "popularity": 0.0885,
+        "profile_path": "/kCUOx07w0kc8I1IpX8FdWtDNFU7.jpg",
+        "credit_id": "66d2138b27667e3b849437c5",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1642275,
+        "known_for_department": "Camera",
+        "name": "Lars Johnsson",
+        "original_name": "Lars Johnsson",
+        "popularity": 0.0558,
+        "profile_path": null,
+        "credit_id": "66d2140abd4f25adff78b8da",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 77709,
+        "known_for_department": "Writing",
+        "name": "Bo Arne Vibenius",
+        "original_name": "Bo Arne Vibenius",
+        "popularity": 0.2188,
+        "profile_path": "/cmqROYOXdM99miSJtKLo4erARIz.jpg",
+        "credit_id": "66d2140038adc2a72c003993",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1612810,
+        "known_for_department": "Sound",
+        "name": "Evald Andersson",
+        "original_name": "Evald Andersson",
+        "popularity": 0.0487,
+        "profile_path": null,
+        "credit_id": "66d214823c381a51b9c0bf2c",
+        "department": "Sound",
+        "job": "Sound Effects"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1641771,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Tina Johansson",
+        "original_name": "Tina Johansson",
+        "popularity": 0.0368,
+        "profile_path": null,
+        "credit_id": "66d214573c381a51b9c0bf23",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 11910,
+        "known_for_department": "Sound",
+        "name": "Lennart Engholm",
+        "original_name": "Lennart Engholm",
+        "popularity": 0.0387,
+        "profile_path": null,
+        "credit_id": "66d214673c381a51b9c0bf27",
+        "department": "Sound",
+        "job": "Sound Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1192605,
+        "known_for_department": "Art",
+        "name": "Karl-Arne Bergman",
+        "original_name": "Karl-Arne Bergman",
+        "popularity": 0.1109,
+        "profile_path": null,
+        "credit_id": "66d214248f265bb6e9b5f67d",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6648,
+        "known_for_department": "Directing",
+        "name": "Ingmar Bergman",
+        "original_name": "Ingmar Bergman",
+        "popularity": 1.433,
+        "profile_path": "/nkmOaXNRoioViN9OQf2n9Iu6akA.jpg",
+        "credit_id": "66fef02fe48014914684f544",
+        "department": "Writing",
+        "job": "Story"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "CN",
+        "title": "性格",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "CN",
+        "title": "人物",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "SE",
+        "title": "Kinematografi",
+        "type": "working title"
+      },
+      {
+        "iso_3166_1": "GR",
+        "title": "Έρωτες Χωρίς Φραγμό",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "GR",
+        "title": "Erotes horis fragmo",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "FI",
+        "title": "Persona - naisen naamio",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "KR",
+        "title": "페르소나",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "RS",
+        "title": "Персона",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "AZ",
+        "title": "Şəxsiyyət Maskası",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "BR",
+        "title": "Quando Duas Mulheres Pecam",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "DE",
+        "title": "Geschichte zweier Frauen",
+        "type": ""
+      }
+    ]
+  }
+}

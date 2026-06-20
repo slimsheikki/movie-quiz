@@ -1,0 +1,733 @@
+{
+  "adult": false,
+  "backdrop_path": "/nI0DoZzevFQ75xtZDYFplOgwp1P.jpg",
+  "belongs_to_collection": null,
+  "budget": 480000,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "",
+  "id": 25699,
+  "imdb_id": "tt0074857",
+  "origin_country": [
+    "SE"
+  ],
+  "original_language": "sv",
+  "original_title": "Mannen på taket",
+  "overview": "When an inspector is murdered in hospital, the investigation led by Detective Martin Beck uncovers reports of misconduct and possibly revenge.",
+  "popularity": 0.4702,
+  "poster_path": "/uQPoUrIxjk9BhBHxWeXiOenWbCJ.jpg",
+  "production_companies": [
+    {
+      "id": 6181,
+      "logo_path": "/gYyww91VI1jdH89xpZgFFc8zN3F.png",
+      "name": "SF Studios",
+      "origin_country": "SE"
+    },
+    {
+      "id": 2302,
+      "logo_path": "/rPXEdpqwFycAY9ZgrAJXv13qcWW.png",
+      "name": "Svenska Filminstitutet",
+      "origin_country": "SE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "SE",
+      "name": "Sweden"
+    }
+  ],
+  "release_date": "1976-10-01",
+  "revenue": 1390687,
+  "runtime": 108,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Man on the Roof",
+  "video": false,
+  "vote_average": 7.16,
+  "vote_count": 81,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 360116,
+        "known_for_department": "Acting",
+        "name": "Carl-Gustaf Lindstedt",
+        "original_name": "Carl-Gustaf Lindstedt",
+        "popularity": 0.2347,
+        "profile_path": "/ODTy3Wb75UjYyIJhXL3P1ktlkc.jpg",
+        "cast_id": 2,
+        "character": "Martin Beck",
+        "credit_id": "52fe44d8c3a368484e03a1cb",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 67003,
+        "known_for_department": "Acting",
+        "name": "Sven Wollter",
+        "original_name": "Sven Wollter",
+        "popularity": 0.3231,
+        "profile_path": "/17OHnl9BVLRAoLspH0M2DNDTjip.jpg",
+        "cast_id": 3,
+        "character": "Lennart Kollberg",
+        "credit_id": "52fe44d8c3a368484e03a1cf",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 114185,
+        "known_for_department": "Acting",
+        "name": "Thomas Hellberg",
+        "original_name": "Thomas Hellberg",
+        "popularity": 0.144,
+        "profile_path": "/rQSgnWatDG67voy1TTcQxQc8n1O.jpg",
+        "cast_id": 4,
+        "character": "Gunvald Larsson",
+        "credit_id": "52fe44d8c3a368484e03a1d3",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 146154,
+        "known_for_department": "Acting",
+        "name": "Håkan Serner",
+        "original_name": "Håkan Serner",
+        "popularity": 0.1438,
+        "profile_path": "/cQd4vofojGfr7y5Vg6BhcFMf2y9.jpg",
+        "cast_id": 5,
+        "character": "Einar Rönn",
+        "credit_id": "52fe44d8c3a368484e03a1d7",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 47070,
+        "known_for_department": "Acting",
+        "name": "Ingvar Hirdwall",
+        "original_name": "Ingvar Hirdwall",
+        "popularity": 0.5118,
+        "profile_path": "/fcoLF3kEQJ5nDuYaFESiyRGTL8U.jpg",
+        "cast_id": 6,
+        "character": "Åke Eriksson",
+        "credit_id": "52fe44d8c3a368484e03a1db",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 70359,
+        "known_for_department": "Acting",
+        "name": "Birgitta Valberg",
+        "original_name": "Birgitta Valberg",
+        "popularity": 0.2709,
+        "profile_path": "/yuEUmHKrnw5DwonMHdpLr6H8C57.jpg",
+        "cast_id": 29,
+        "character": "Widow Nyman",
+        "credit_id": "5be0e9640e0a263d84000aa4",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1263160,
+        "known_for_department": "Acting",
+        "name": "Carl-Axel Heiknert",
+        "original_name": "Carl-Axel Heiknert",
+        "popularity": 0.1314,
+        "profile_path": "/1brlXbmELWbGOWqrKWBr6j48RVx.jpg",
+        "cast_id": 27,
+        "character": "Hult",
+        "credit_id": "5be0e9280e0a263d7a00083a",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1065643,
+        "known_for_department": "Directing",
+        "name": "Torgny Anderberg",
+        "original_name": "Torgny Anderberg",
+        "popularity": 0.1525,
+        "profile_path": "/jiidPCMryqd3Y0yo3eHA5oWGFaR.jpg",
+        "cast_id": 28,
+        "character": "Malm",
+        "credit_id": "5be0e940c3a3680a02000a28",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 563837,
+        "known_for_department": "Acting",
+        "name": "Bellan Roos",
+        "original_name": "Bellan Roos",
+        "popularity": 0.084,
+        "profile_path": "/5Fel0Fg1G7TUZe3zFDWMVzmErPe.jpg",
+        "cast_id": 7,
+        "character": "Mamma Eriksson",
+        "credit_id": "52fe44d8c3a368484e03a1df",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 213530,
+        "known_for_department": "Acting",
+        "name": "Gus Dahlström",
+        "original_name": "Gus Dahlström",
+        "popularity": 0.1656,
+        "profile_path": "/4QSLJT65ndQTwBNjtgzyGpd30HI.jpg",
+        "cast_id": 8,
+        "character": "Pappa Eriksson",
+        "credit_id": "52fe44d8c3a368484e03a1e3",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 68887,
+        "known_for_department": "Acting",
+        "name": "Folke Hjort",
+        "original_name": "Folke Hjort",
+        "popularity": 0.1012,
+        "profile_path": "/WtvcDh0cenEhCHftGUVme10jt6.jpg",
+        "cast_id": 26,
+        "character": "Melander",
+        "credit_id": "5be0e8d99251414dfa000786",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1255883,
+        "known_for_department": "Acting",
+        "name": "Eva Remaeus",
+        "original_name": "Eva Remaeus",
+        "popularity": 0.1651,
+        "profile_path": "/idYsNLk3TznBco0FoN2kHNUpLf0.jpg",
+        "cast_id": 30,
+        "character": "Mrs. Kollberg",
+        "credit_id": "5be0e97cc3a3680a02000a6c",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1065641,
+        "known_for_department": "Acting",
+        "name": "Gunnel Wadner",
+        "original_name": "Gunnel Wadner",
+        "popularity": 0.1401,
+        "profile_path": "/sPeoQ8nJtocQESM60dUHc9LLmWK.jpg",
+        "cast_id": 10,
+        "character": "Martin Beck's Wife",
+        "credit_id": "52fe44d8c3a368484e03a1eb",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 92576,
+        "known_for_department": "Directing",
+        "name": "Harald Hamrell",
+        "original_name": "Harald Hamrell",
+        "popularity": 0.2953,
+        "profile_path": "/f7y3cOVtqr3I2nbJ0sQjZKlDhbg.jpg",
+        "cast_id": 9,
+        "character": "Stefan Nyman",
+        "credit_id": "52fe44d8c3a368484e03a1e7",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 96934,
+        "known_for_department": "Directing",
+        "name": "Bo Widerberg",
+        "original_name": "Bo Widerberg",
+        "popularity": 0.313,
+        "profile_path": "/dSANpK9IB24lWHDm8v4Irs36amI.jpg",
+        "cast_id": 43,
+        "character": "Man in Red Shirt (uncredited)",
+        "credit_id": "6286bdb22495ab006550b548",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 96935,
+        "known_for_department": "Acting",
+        "name": "Johan Widerberg",
+        "original_name": "Johan Widerberg",
+        "popularity": 0.5407,
+        "profile_path": "/vzD8l02LjcF3AleiUNhtogOvHE9.jpg",
+        "cast_id": 11,
+        "character": "Kollberg's Son (uncredited)",
+        "credit_id": "52fe44d8c3a368484e03a1ef",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2188529,
+        "known_for_department": "Acting",
+        "name": "Nina Widerberg",
+        "original_name": "Nina Widerberg",
+        "popularity": 0.1249,
+        "profile_path": null,
+        "cast_id": 45,
+        "character": "Martin Beck's Daughter (uncredited)",
+        "credit_id": "6286bdc3e004a600506ba3ad",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3079202,
+        "known_for_department": "Acting",
+        "name": "Karin Bergstrand",
+        "original_name": "Karin Bergstrand",
+        "popularity": 0.0338,
+        "profile_path": null,
+        "cast_id": 35,
+        "character": "Old Lady Drinking Coffee (uncredited)",
+        "credit_id": "6286bd482495ab004f8cdd95",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2105144,
+        "known_for_department": "Acting",
+        "name": "Torbjörn Tännsjö",
+        "original_name": "Torbjörn Tännsjö",
+        "popularity": 0.0453,
+        "profile_path": null,
+        "cast_id": 42,
+        "character": "Angry Man at Police Station (uncredited)",
+        "credit_id": "6286bda3b3e62700665eda12",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1077670,
+        "known_for_department": "Acting",
+        "name": "Michaela Jolin",
+        "original_name": "Michaela Jolin",
+        "popularity": 0.075,
+        "profile_path": null,
+        "cast_id": 37,
+        "character": "Screaming Woman on the Bus (uncredited)",
+        "credit_id": "6286bd590859b4149c348182",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2036544,
+        "known_for_department": "Acting",
+        "name": "Bo Holmström",
+        "original_name": "Bo Holmström",
+        "popularity": 0.1076,
+        "profile_path": "/f787fRz8b70mR2aE2kinBvuiICT.jpg",
+        "cast_id": 36,
+        "character": "TV Journalist (uncredited)",
+        "credit_id": "6286bd511f3e60009b734471",
+        "order": 20
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2696630,
+        "known_for_department": "Acting",
+        "name": "Jan Sandquist",
+        "original_name": "Jan Sandquist",
+        "popularity": 0.0143,
+        "profile_path": "/c6WaJtDUbTLZj7bWEBpHsBWjJX4.jpg",
+        "cast_id": 39,
+        "character": "Reporter at Odenplan (uncredited)",
+        "credit_id": "6286bd800d5d851db3b724c5",
+        "order": 21
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1374092,
+        "known_for_department": "Production",
+        "name": "Lars Säfström",
+        "original_name": "Lars Säfström",
+        "popularity": 0.1316,
+        "profile_path": null,
+        "cast_id": 40,
+        "character": "Reporter at Odenplan (uncredited)",
+        "credit_id": "6286bd8f1a32481bd76c50e0",
+        "order": 22
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2181475,
+        "known_for_department": "Acting",
+        "name": "Dan Lindhe",
+        "original_name": "Dan Lindhe",
+        "popularity": 0.1292,
+        "profile_path": null,
+        "cast_id": 38,
+        "character": "Mustached Policeman (uncredited)",
+        "credit_id": "6286bd61209f180066b8c0e6",
+        "order": 23
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2609472,
+        "known_for_department": "Acting",
+        "name": "Johan Thorén",
+        "original_name": "Johan Thorén",
+        "popularity": 0.0553,
+        "profile_path": null,
+        "cast_id": 41,
+        "character": "Policeman Shot Under Helicopter (uncredited)",
+        "credit_id": "6286bd9857530e00a8c55c79",
+        "order": 24
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 96934,
+        "known_for_department": "Directing",
+        "name": "Bo Widerberg",
+        "original_name": "Bo Widerberg",
+        "popularity": 0.313,
+        "profile_path": "/dSANpK9IB24lWHDm8v4Irs36amI.jpg",
+        "credit_id": "52fe44d8c3a368484e03a1c7",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 555761,
+        "known_for_department": "Directing",
+        "name": "Göran Carmback",
+        "original_name": "Göran Carmback",
+        "popularity": 0.1905,
+        "profile_path": "/mVoWNIKvs2LeD5fn8emHm4EXpLB.jpg",
+        "credit_id": "6286bcd03d745400519b46d5",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1149357,
+        "known_for_department": "Production",
+        "name": "Lennart Dunér",
+        "original_name": "Lennart Dunér",
+        "popularity": 0.0693,
+        "profile_path": null,
+        "credit_id": "6286bce08c22c0006733ffad",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1681843,
+        "known_for_department": "Editing",
+        "name": "Peter Ekvall",
+        "original_name": "Peter Ekvall",
+        "popularity": 0.0256,
+        "profile_path": null,
+        "credit_id": "6286bcea839d93009b05c0a7",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1428635,
+        "known_for_department": "Sound",
+        "name": "Leif Westerlund",
+        "original_name": "Leif Westerlund",
+        "popularity": 0.1004,
+        "profile_path": null,
+        "credit_id": "6286bd00839d9300669ecdb2",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 76377,
+        "known_for_department": "Writing",
+        "name": "Maj Sjöwall",
+        "original_name": "Maj Sjöwall",
+        "popularity": 0.3213,
+        "profile_path": "/kweisP7OgcpTsxHxYl3cHZNpbSM.jpg",
+        "credit_id": "5771fd98c3a3682468002b08",
+        "department": "Writing",
+        "job": "Novel"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 76378,
+        "known_for_department": "Writing",
+        "name": "Per Wahlöö",
+        "original_name": "Per Wahlöö",
+        "popularity": 0.2866,
+        "profile_path": "/4afhdwFSvgWZIInBRuK2RVL1MVE.jpg",
+        "credit_id": "5771fd9f9251411dd2002ab9",
+        "department": "Writing",
+        "job": "Novel"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 96934,
+        "known_for_department": "Directing",
+        "name": "Bo Widerberg",
+        "original_name": "Bo Widerberg",
+        "popularity": 0.313,
+        "profile_path": "/dSANpK9IB24lWHDm8v4Irs36amI.jpg",
+        "credit_id": "5771fda69251411ddd002a45",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 56396,
+        "known_for_department": "Directing",
+        "name": "Per Berglund",
+        "original_name": "Per Berglund",
+        "popularity": 0.2559,
+        "profile_path": "/fgAxzVq7dOmsYG40Sm2BB9rQ3kz.jpg",
+        "credit_id": "5771fdbe9251411dcf002c3c",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1080950,
+        "known_for_department": "Camera",
+        "name": "Per Källberg",
+        "original_name": "Per Källberg",
+        "popularity": 0.0849,
+        "profile_path": null,
+        "credit_id": "5771fdcc9251411dc8002ae8",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 225785,
+        "known_for_department": "Camera",
+        "name": "Odd-Geir Sæther",
+        "original_name": "Odd-Geir Sæther",
+        "popularity": 0.0495,
+        "profile_path": null,
+        "credit_id": "5771fdd49251411dd2002ad3",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 46871,
+        "known_for_department": "Editing",
+        "name": "Sylvia Ingemarsson",
+        "original_name": "Sylvia Ingemarsson",
+        "popularity": 0.0861,
+        "profile_path": null,
+        "credit_id": "5771fde09251411dc8002aef",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 96934,
+        "known_for_department": "Directing",
+        "name": "Bo Widerberg",
+        "original_name": "Bo Widerberg",
+        "popularity": 0.313,
+        "profile_path": "/dSANpK9IB24lWHDm8v4Irs36amI.jpg",
+        "credit_id": "5771fde8c3a368245b002d9a",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1026105,
+        "known_for_department": "Art",
+        "name": "Ulf Axén",
+        "original_name": "Ulf Axén",
+        "popularity": 0.0975,
+        "profile_path": "/8j9Sd4FqhfVulLzSZIePWPZgjeG.jpg",
+        "credit_id": "5771fdf09251411dca002982",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1026105,
+        "known_for_department": "Art",
+        "name": "Ulf Axén",
+        "original_name": "Ulf Axén",
+        "popularity": 0.0975,
+        "profile_path": "/8j9Sd4FqhfVulLzSZIePWPZgjeG.jpg",
+        "credit_id": "5771fdf7c3a3682468002b38",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1641772,
+        "known_for_department": "Production",
+        "name": "Suzanne Branner",
+        "original_name": "Suzanne Branner",
+        "popularity": 0.0168,
+        "profile_path": null,
+        "credit_id": "5771fdffc3a3682454002e4b",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 224419,
+        "known_for_department": "Directing",
+        "name": "Stefan Jarl",
+        "original_name": "Stefan Jarl",
+        "popularity": 0.2344,
+        "profile_path": "/kUOIY0n19wK9lTxnwkDDUEBCJMc.jpg",
+        "credit_id": "5771fe079251411dca00298e",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 224419,
+        "known_for_department": "Directing",
+        "name": "Stefan Jarl",
+        "original_name": "Stefan Jarl",
+        "popularity": 0.2344,
+        "profile_path": "/kUOIY0n19wK9lTxnwkDDUEBCJMc.jpg",
+        "credit_id": "5771fe10c3a3682454002e55",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 77709,
+        "known_for_department": "Writing",
+        "name": "Bo Arne Vibenius",
+        "original_name": "Bo Arne Vibenius",
+        "popularity": 0.2188,
+        "profile_path": "/cmqROYOXdM99miSJtKLo4erARIz.jpg",
+        "credit_id": "646fab0e336e0100c70740d0",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 568299,
+        "known_for_department": "Sound",
+        "name": "Björn J:son Lindh",
+        "original_name": "Björn J:son Lindh",
+        "popularity": 0.0764,
+        "profile_path": null,
+        "credit_id": "675048b25f744bf1741e0628",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "SE",
+        "title": "The Man on the Roof",
+        "type": "international title"
+      },
+      {
+        "iso_3166_1": "FR",
+        "title": "Un flic sur le toit",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "DK",
+        "title": "Manden på taget",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "FI",
+        "title": "Komisario Beck tähtäimessä",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "AR",
+        "title": "El hombre en el tajedo",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "NL",
+        "title": "De verschrikkelijke man uit Säffle",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "IT",
+        "title": "L'uomo sul tetto",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "US",
+        "title": "Man on the Roof",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "DK",
+        "title": "Beck - Manden på taget",
+        "type": ""
+      }
+    ]
+  }
+}

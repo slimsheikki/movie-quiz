@@ -1,0 +1,593 @@
+{
+  "adult": false,
+  "backdrop_path": "/bHePzkyRcMhnab2qZbhj1bCElnf.jpg",
+  "belongs_to_collection": null,
+  "budget": 6000000,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ],
+  "homepage": "http://www.lasciencedesreves-lefilm.com/accueil.htm",
+  "id": 300,
+  "imdb_id": "tt0354899",
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "La Science des rêves",
+  "overview": "A man entranced by his dreams and imagination is lovestruck with a French woman and feels he can show her his world.",
+  "popularity": 1.68,
+  "poster_path": "/8bummqwU6MV65ZJvNtKx8Y3NIEk.jpg",
+  "production_companies": [
+    {
+      "id": 11911,
+      "logo_path": "/rGxYK3422RKLRBWQoWKJxRdD2Jp.png",
+      "name": "Partizan Films",
+      "origin_country": "FR"
+    },
+    {
+      "id": 9,
+      "logo_path": "/nda3dTUYdDrJ6rZqBpYvY865aDv.png",
+      "name": "Gaumont",
+      "origin_country": "FR"
+    },
+    {
+      "id": 591,
+      "logo_path": "/q5I5RDwMEiqoNmfaJgd2LraEOJY.png",
+      "name": "France 3 Cinéma",
+      "origin_country": "FR"
+    },
+    {
+      "id": 11912,
+      "logo_path": null,
+      "name": "Mikado Film",
+      "origin_country": "IT"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    }
+  ],
+  "release_date": "2006-06-25",
+  "revenue": 9524340,
+  "runtime": 106,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Close your eyes. Open your heart.",
+  "title": "The Science of Sleep",
+  "video": false,
+  "vote_average": 7,
+  "vote_count": 841,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 258,
+        "known_for_department": "Acting",
+        "name": "Gael García Bernal",
+        "original_name": "Gael García Bernal",
+        "popularity": 2.4507,
+        "profile_path": "/7uEO29wtdyY9bjt2JN43gVpE6vt.jpg",
+        "cast_id": 1,
+        "character": "Stéphane",
+        "credit_id": "52fe4234c3a36847f800bfe9",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4273,
+        "known_for_department": "Acting",
+        "name": "Charlotte Gainsbourg",
+        "original_name": "Charlotte Gainsbourg",
+        "popularity": 2.5874,
+        "profile_path": "/vyZQlwBSpARVHzn6M91ZcJTy7P8.jpg",
+        "cast_id": 2,
+        "character": "Stéphanie",
+        "credit_id": "52fe4234c3a36847f800bfed",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4274,
+        "known_for_department": "Acting",
+        "name": "Miou-Miou",
+        "original_name": "Miou-Miou",
+        "popularity": 0.7836,
+        "profile_path": "/kjQD9nNjcakYxOmXq1IG66y1RtU.jpg",
+        "cast_id": 3,
+        "character": "Christine Miroux",
+        "credit_id": "52fe4234c3a36847f800bff1",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4275,
+        "known_for_department": "Acting",
+        "name": "Alain Chabat",
+        "original_name": "Alain Chabat",
+        "popularity": 1.0638,
+        "profile_path": "/xRjymE6LIJd0useKWN2R1WgKDRy.jpg",
+        "cast_id": 4,
+        "character": "Guy",
+        "credit_id": "52fe4234c3a36847f800bff5",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4286,
+        "known_for_department": "Acting",
+        "name": "Emma de Caunes",
+        "original_name": "Emma de Caunes",
+        "popularity": 0.9414,
+        "profile_path": "/4SGij5jBQNznmVxBHDBtc8gUD2v.jpg",
+        "cast_id": 17,
+        "character": "Zoé",
+        "credit_id": "52fe4234c3a36847f800c041",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4287,
+        "known_for_department": "Acting",
+        "name": "Aurélia Petit",
+        "original_name": "Aurélia Petit",
+        "popularity": 0.4116,
+        "profile_path": "/s42zuQHecWuexXyO4GwbenumMxF.jpg",
+        "cast_id": 18,
+        "character": "Martine",
+        "credit_id": "52fe4234c3a36847f800c045",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4288,
+        "known_for_department": "Acting",
+        "name": "Sacha Bourdo",
+        "original_name": "Sacha Bourdo",
+        "popularity": 0.2983,
+        "profile_path": "/pfTfjG7yq2GhmDrJ8K51bdHCzES.jpg",
+        "cast_id": 19,
+        "character": "Serge",
+        "credit_id": "52fe4234c3a36847f800c049",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4289,
+        "known_for_department": "Acting",
+        "name": "Pierre Vaneck",
+        "original_name": "Pierre Vaneck",
+        "popularity": 0.2469,
+        "profile_path": "/sX7AO0tJAnscSD7wEzq98uLM539.jpg",
+        "cast_id": 20,
+        "character": "Mr. Pouchet",
+        "credit_id": "52fe4234c3a36847f800c04d",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4290,
+        "known_for_department": "Acting",
+        "name": "Stéphane Metzger",
+        "original_name": "Stéphane Metzger",
+        "popularity": 0.4191,
+        "profile_path": "/c0DOtm0oRAzpkDzfJRSHzRaj3tG.jpg",
+        "cast_id": 21,
+        "character": "Sylvain",
+        "credit_id": "52fe4234c3a36847f800c051",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4291,
+        "known_for_department": "Acting",
+        "name": "Alain de Moyencourt",
+        "original_name": "Alain de Moyencourt",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "cast_id": 22,
+        "character": "Gérard",
+        "credit_id": "52fe4234c3a36847f800c055",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4292,
+        "known_for_department": "Production",
+        "name": "Inigo Lezzi",
+        "original_name": "Inigo Lezzi",
+        "popularity": 0.1759,
+        "profile_path": null,
+        "cast_id": 23,
+        "character": "M. Persinnet",
+        "credit_id": "52fe4234c3a36847f800c059",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4293,
+        "known_for_department": "Acting",
+        "name": "Yvette Petit",
+        "original_name": "Yvette Petit",
+        "popularity": 0.0809,
+        "profile_path": "/cJOYfB7GMGTyfQPK7kOwd6TzTgv.jpg",
+        "cast_id": 24,
+        "character": "Ivana",
+        "credit_id": "52fe4234c3a36847f800c05d",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4278,
+        "known_for_department": "Sound",
+        "name": "Jean-Michel Bernard",
+        "original_name": "Jean-Michel Bernard",
+        "popularity": 0.0835,
+        "profile_path": "/3pm6vvDImZZuMtGYjS95AV0727s.jpg",
+        "cast_id": 25,
+        "character": "Policier qui joue au piano",
+        "credit_id": "52fe4234c3a36847f800c061",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4294,
+        "known_for_department": "Acting",
+        "name": "Bertrand Delpierre",
+        "original_name": "Bertrand Delpierre",
+        "popularity": 0.0239,
+        "profile_path": null,
+        "cast_id": 26,
+        "character": "Présentateur JT",
+        "credit_id": "52fe4234c3a36847f800c065",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4295,
+        "known_for_department": "Acting",
+        "name": "Eric Mariotto",
+        "original_name": "Eric Mariotto",
+        "popularity": 0.0363,
+        "profile_path": "/kpRGUqxRb3jeA51ZjriLJsn0QeN.jpg",
+        "cast_id": 27,
+        "character": "Policier",
+        "credit_id": "52fe4234c3a36847f800c069",
+        "order": 14
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4282,
+        "known_for_department": "Art",
+        "name": "Ann Chakraverty",
+        "original_name": "Ann Chakraverty",
+        "popularity": 0.1186,
+        "profile_path": null,
+        "credit_id": "52fe4234c3a36847f800c02b",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4284,
+        "known_for_department": "Art",
+        "name": "Stéphane Rozenbaum",
+        "original_name": "Stéphane Rozenbaum",
+        "popularity": 0.209,
+        "profile_path": "/pfst2G1aIWZQ9vfyAJjtYD3bpPD.jpg",
+        "credit_id": "52fe4234c3a36847f800c037",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4276,
+        "known_for_department": "Production",
+        "name": "Georges Bermann",
+        "original_name": "Georges Bermann",
+        "popularity": 0.0886,
+        "profile_path": null,
+        "credit_id": "52fe4234c3a36847f800c007",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4283,
+        "known_for_department": "Art",
+        "name": "Pierre Pell",
+        "original_name": "Pierre Pell",
+        "popularity": 0.0286,
+        "profile_path": "/rN69qWho6WDoYOXiwILnddqNbLl.jpg",
+        "credit_id": "52fe4234c3a36847f800c031",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4280,
+        "known_for_department": "Editing",
+        "name": "Juliette Welfling",
+        "original_name": "Juliette Welfling",
+        "popularity": 0.1992,
+        "profile_path": null,
+        "credit_id": "52fe4234c3a36847f800c01f",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4292,
+        "known_for_department": "Production",
+        "name": "Inigo Lezzi",
+        "original_name": "Inigo Lezzi",
+        "popularity": 0.1759,
+        "profile_path": null,
+        "credit_id": "52fe4234c3a36847f800c06f",
+        "department": "Production",
+        "job": "Line Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4279,
+        "known_for_department": "Camera",
+        "name": "Jean-Louis Bompoint",
+        "original_name": "Jean-Louis Bompoint",
+        "popularity": 0.0643,
+        "profile_path": null,
+        "credit_id": "52fe4234c3a36847f800c019",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1125145,
+        "known_for_department": "Production",
+        "name": "Nathalie Guillaume",
+        "original_name": "Nathalie Guillaume",
+        "popularity": 0.0256,
+        "profile_path": null,
+        "credit_id": "52fe4234c3a36847f800c075",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4281,
+        "known_for_department": "Production",
+        "name": "Julie Navarro",
+        "original_name": "Julie Navarro",
+        "popularity": 0.107,
+        "profile_path": "/lNUr9AVE0O71ksDiEnlwh1FcJW3.jpg",
+        "credit_id": "52fe4234c3a36847f800c025",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4285,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Florence Fontaine",
+        "original_name": "Florence Fontaine",
+        "popularity": 0.0577,
+        "profile_path": null,
+        "credit_id": "52fe4234c3a36847f800c03d",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4278,
+        "known_for_department": "Sound",
+        "name": "Jean-Michel Bernard",
+        "original_name": "Jean-Michel Bernard",
+        "popularity": 0.0835,
+        "profile_path": "/3pm6vvDImZZuMtGYjS95AV0727s.jpg",
+        "credit_id": "52fe4234c3a36847f800c013",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4277,
+        "known_for_department": "Sound",
+        "name": "Frédéric Junqua",
+        "original_name": "Frédéric Junqua",
+        "popularity": 0.0614,
+        "profile_path": null,
+        "credit_id": "52fe4234c3a36847f800c00d",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 201,
+        "known_for_department": "Directing",
+        "name": "Michel Gondry",
+        "original_name": "Michel Gondry",
+        "popularity": 0.9342,
+        "profile_path": "/4U9DhwQtrs2UUFPya2ixaYh091i.jpg",
+        "credit_id": "52fe4234c3a36847f800bffb",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 201,
+        "known_for_department": "Directing",
+        "name": "Michel Gondry",
+        "original_name": "Michel Gondry",
+        "popularity": 0.9342,
+        "profile_path": "/4U9DhwQtrs2UUFPya2ixaYh091i.jpg",
+        "credit_id": "595baff0c3a36828a1062663",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 201,
+        "known_for_department": "Directing",
+        "name": "Michel Gondry",
+        "original_name": "Michel Gondry",
+        "popularity": 0.9342,
+        "profile_path": "/4U9DhwQtrs2UUFPya2ixaYh091i.jpg",
+        "credit_id": "6758c9fe5ab21dc05c6f841f",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1973160,
+        "known_for_department": "Directing",
+        "name": "Cédric Mercier",
+        "original_name": "Cédric Mercier",
+        "popularity": 0.0429,
+        "profile_path": null,
+        "credit_id": "69028f2abfddf9008e3d4245",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1440559,
+        "known_for_department": "Directing",
+        "name": "Eric Montchaud",
+        "original_name": "Eric Montchaud",
+        "popularity": 0.0686,
+        "profile_path": "/1muBUl2iXRf73WZlAWkyUYWBvTB.jpg",
+        "credit_id": "69028f35bfddf9008e3d4248",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1559509,
+        "known_for_department": "Directing",
+        "name": "Valérie Pirson",
+        "original_name": "Valérie Pirson",
+        "popularity": 0.0404,
+        "profile_path": null,
+        "credit_id": "69028f3ec28f4ea9b779be57",
+        "department": "Visual Effects",
+        "job": "Animation"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "IT",
+        "title": "L'arte del sogno",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "CZ",
+        "title": "Nauka o snech",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "PT",
+        "title": "Sonhando Acordado",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "BR",
+        "title": "Sonhando Acordado",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "HU",
+        "title": "Az álom tudománya",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "KR",
+        "title": "수면의 과학",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "NO",
+        "title": "Vitenskap om drømmer",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "JP",
+        "title": "恋愛睡眠のすすめ",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "US",
+        "title": "The Sciene of Sleep",
+        "type": ""
+      }
+    ]
+  }
+}

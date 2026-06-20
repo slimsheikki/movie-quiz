@@ -1,0 +1,545 @@
+{
+  "adult": false,
+  "backdrop_path": "/cvtirPKwfunXK1eVw3FyIRzgwIh.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 60773,
+  "imdb_id": "tt0056846",
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "La Baie des Anges",
+  "overview": "A bank clerk is drawn into the risky world of a gorgeous gambling addict.",
+  "popularity": 0.5569,
+  "poster_path": "/7gMfVJur6DgujNyt1297GIGYMwJ.jpg",
+  "production_companies": [
+    {
+      "id": 10785,
+      "logo_path": null,
+      "name": "Sud-Pacifique Films",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "1963-03-01",
+  "revenue": 0,
+  "runtime": 84,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Love is just a game of chance",
+  "title": "Bay of Angels",
+  "video": false,
+  "vote_average": 6.664,
+  "vote_count": 195,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 14812,
+        "known_for_department": "Acting",
+        "name": "Jeanne Moreau",
+        "original_name": "Jeanne Moreau",
+        "popularity": 1.1569,
+        "profile_path": "/lsIlRbcStJev5n1mypIeUUYKWuy.jpg",
+        "cast_id": 3,
+        "character": "Jacqueline 'Jackie' Demaistre",
+        "credit_id": "52fe4634c3a368484e084691",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 36018,
+        "known_for_department": "Acting",
+        "name": "Claude Mann",
+        "original_name": "Claude Mann",
+        "popularity": 0.3744,
+        "profile_path": "/2yGCIr1QgGdKX6yO2b7VdAWlvWy.jpg",
+        "cast_id": 4,
+        "character": "Jean Fournier",
+        "credit_id": "52fe4634c3a368484e084695",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 24905,
+        "known_for_department": "Acting",
+        "name": "Paul Guers",
+        "original_name": "Paul Guers",
+        "popularity": 0.2976,
+        "profile_path": "/603boRUx0Yzf4MzRbF1cGEpuf9M.jpg",
+        "cast_id": 5,
+        "character": "Caron",
+        "credit_id": "52fe4634c3a368484e084699",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 35050,
+        "known_for_department": "Acting",
+        "name": "Henri Nassiet",
+        "original_name": "Henri Nassiet",
+        "popularity": 0.2689,
+        "profile_path": "/yqKo9dITu44cC1ILg7mxOLLOkrt.jpg",
+        "cast_id": 6,
+        "character": "M. Fournier",
+        "credit_id": "52fe4634c3a368484e08469d",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 72001,
+        "known_for_department": "Acting",
+        "name": "Nicole Chollet",
+        "original_name": "Nicole Chollet",
+        "popularity": 0.132,
+        "profile_path": "/e8TxWKwRQ3WDN7npH4Rz0hF02Zs.jpg",
+        "cast_id": 7,
+        "character": "Marthe",
+        "credit_id": "52fe4634c3a368484e0846a1",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 29682,
+        "known_for_department": "Acting",
+        "name": "André Certes",
+        "original_name": "André Certes",
+        "popularity": 0.1439,
+        "profile_path": null,
+        "cast_id": 12,
+        "character": "",
+        "credit_id": "5940d6f2c3a36862570139f2",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1502419,
+        "known_for_department": "Acting",
+        "name": "Jean-Pierre Lorrain",
+        "original_name": "Jean-Pierre Lorrain",
+        "popularity": 0.1768,
+        "profile_path": null,
+        "cast_id": 16,
+        "character": "",
+        "credit_id": "61ab3040001bbd008cf103ca",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3416161,
+        "known_for_department": "Acting",
+        "name": "Georges Alban",
+        "original_name": "Georges Alban",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "cast_id": 18,
+        "character": "",
+        "credit_id": "6411d907fe6c1800daef0ba9",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3963706,
+        "known_for_department": "Acting",
+        "name": "Conchita Parodi",
+        "original_name": "Conchita Parodi",
+        "popularity": 0.084,
+        "profile_path": null,
+        "cast_id": 19,
+        "character": "L'hôtelière",
+        "credit_id": "6411d929fe6c180084e8fe02",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3963708,
+        "known_for_department": "Acting",
+        "name": "Jacques Moreau",
+        "original_name": "Jacques Moreau",
+        "popularity": 0.0261,
+        "profile_path": null,
+        "cast_id": 20,
+        "character": "",
+        "credit_id": "6411d94ce18e3f07b424dd2d",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3963709,
+        "known_for_department": "Acting",
+        "name": "André Canter",
+        "original_name": "André Canter",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 21,
+        "character": "",
+        "credit_id": "6411d952323eba00c5ec5dcb",
+        "order": 10
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 24882,
+        "known_for_department": "Directing",
+        "name": "Jacques Demy",
+        "original_name": "Jacques Demy",
+        "popularity": 0.7991,
+        "profile_path": "/5EzvVqngdfzhZCMb8m2EvAsrTj2.jpg",
+        "credit_id": "52fe4634c3a368484e084687",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 24882,
+        "known_for_department": "Directing",
+        "name": "Jacques Demy",
+        "original_name": "Jacques Demy",
+        "popularity": 0.7991,
+        "profile_path": "/5EzvVqngdfzhZCMb8m2EvAsrTj2.jpg",
+        "credit_id": "61ab305e001bbd0019783929",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 24296,
+        "known_for_department": "Art",
+        "name": "Bernard Evein",
+        "original_name": "Bernard Evein",
+        "popularity": 0.1559,
+        "profile_path": "/yX6UI6C5Ok7kO5bpWA4LvGjE9hE.jpg",
+        "credit_id": "6411d9a1323eba00844b424d",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3963710,
+        "known_for_department": "Directing",
+        "name": "Gérald Duduyer",
+        "original_name": "Gérald Duduyer",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "6411d9c9fe6c18009c686acf",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 46934,
+        "known_for_department": "Editing",
+        "name": "Monique Teisseire",
+        "original_name": "Monique Teisseire",
+        "popularity": 0.0357,
+        "profile_path": null,
+        "credit_id": "6411da0db4224200b973defc",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1628721,
+        "known_for_department": "Sound",
+        "name": "André Hervée",
+        "original_name": "André Hervée",
+        "popularity": 0.0986,
+        "profile_path": null,
+        "credit_id": "6411d9dafe6c1800f9bd3cea",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 27436,
+        "known_for_department": "Directing",
+        "name": "Costa-Gavras",
+        "original_name": "Costa-Gavras",
+        "popularity": 0.6268,
+        "profile_path": "/tJ4HybIWWpNrg5yBCfuB2EMYf9H.jpg",
+        "credit_id": "6411d9bb323eba010b926abb",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1902065,
+        "known_for_department": "Sound",
+        "name": "Gérard Manneveau",
+        "original_name": "Gérard Manneveau",
+        "popularity": 0.1036,
+        "profile_path": null,
+        "credit_id": "6411d9f0e18e3f07ac534bc5",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 9758,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Simone Knapp",
+        "original_name": "Simone Knapp",
+        "popularity": 0.224,
+        "profile_path": null,
+        "credit_id": "6411d9adb4224200826f404a",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 9959,
+        "known_for_department": "Sound",
+        "name": "Antoine Bonfanti",
+        "original_name": "Antoine Bonfanti",
+        "popularity": 0.1246,
+        "profile_path": "/mrRqvA3Cl5fmfKmF9O7ETLGIpu8.jpg",
+        "credit_id": "6411d9e6a6c1040082536658",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1654581,
+        "known_for_department": "Art",
+        "name": "Jean Fouchet",
+        "original_name": "Jean Fouchet",
+        "popularity": 0.1653,
+        "profile_path": null,
+        "credit_id": "6411d9fbe18e3f0816c4ef3f",
+        "department": "Crew",
+        "job": "Special Effects"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 45532,
+        "known_for_department": "Editing",
+        "name": "Anne-Marie Cotret",
+        "original_name": "Anne-Marie Cotret",
+        "popularity": 0.0445,
+        "profile_path": null,
+        "credit_id": "5940d6cfc3a368149d00dbf3",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1338204,
+        "known_for_department": "Production",
+        "name": "Paul-Edmond Decharme",
+        "original_name": "Paul-Edmond Decharme",
+        "popularity": 0.0654,
+        "profile_path": null,
+        "credit_id": "5940d6a99251414afb01c38b",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 10934,
+        "known_for_department": "Sound",
+        "name": "Michel Legrand",
+        "original_name": "Michel Legrand",
+        "popularity": 0.3029,
+        "profile_path": "/nkhKfgrBjWZ7BVuI8dZztkX7bcV.jpg",
+        "credit_id": "5ecd461de2bca8001e8aaee3",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 19086,
+        "known_for_department": "Camera",
+        "name": "Jean Rabier",
+        "original_name": "Jean Rabier",
+        "popularity": 0.1619,
+        "profile_path": null,
+        "credit_id": "5ecd4613a3b5e6002259916e",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 24296,
+        "known_for_department": "Art",
+        "name": "Bernard Evein",
+        "original_name": "Bernard Evein",
+        "popularity": 0.1559,
+        "profile_path": "/yX6UI6C5Ok7kO5bpWA4LvGjE9hE.jpg",
+        "credit_id": "6014996eb5bc21003d989083",
+        "department": "Art",
+        "job": "Production Design"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "US",
+        "title": "The Bay of Angels",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "AR",
+        "title": "Fiebre",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "BG",
+        "title": "Заливът на ангелите",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "BR",
+        "title": "A Baía dos Anjos",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "CO",
+        "title": "Fiebre",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "XC",
+        "title": "Andelská zátoka",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "DK",
+        "title": "Englebugten",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "ES",
+        "title": "La bahía de los ángeles",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "FI",
+        "title": "Enkelten lahti",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "GR",
+        "title": "To limani ton angelon",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "HU",
+        "title": "Angyal-öböl",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "IT",
+        "title": "La grande peccatrice",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "NO",
+        "title": "Englebukten",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "PL",
+        "title": "Zatoka aniołów",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "PT",
+        "title": "A Grande Pecadora",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "SE",
+        "title": "Änglabukten",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "RU",
+        "title": "Залив ангелов",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "US",
+        "title": "Bay of Angels",
+        "type": "World-wide (English title)"
+      },
+      {
+        "iso_3166_1": "US",
+        "title": "Bay of the Angels",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "UY",
+        "title": "Fiebre",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "DE",
+        "title": "Die blonde Sünderin",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "CN",
+        "title": "天使湾",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "CZ",
+        "title": "Andělská zátoka",
+        "type": ""
+      }
+    ]
+  }
+}

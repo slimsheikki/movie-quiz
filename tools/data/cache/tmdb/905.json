@@ -1,0 +1,446 @@
+{
+  "adult": false,
+  "backdrop_path": "/y3WwIEEDcbT88MxjCjM8mlBEF04.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 905,
+  "imdb_id": "tt0018737",
+  "origin_country": [
+    "DE"
+  ],
+  "original_language": "de",
+  "original_title": "Die Büchse der Pandora",
+  "overview": "The rise and inevitable fall of an amoral but naive young woman whose insouciant eroticism inspires lust and violence in those around her.",
+  "popularity": 0.9803,
+  "poster_path": "/3B2A5g8t3HZltKp1fplNn2xW4us.jpg",
+  "production_companies": [
+    {
+      "id": 43854,
+      "logo_path": "/tMo26bTTY0f4mMPIvFnyydrDm7V.png",
+      "name": "Nero-Film AG",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "release_date": "1929-01-30",
+  "revenue": 885533,
+  "runtime": 141,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Pandora's Box",
+  "video": false,
+  "vote_average": 7.454,
+  "vote_count": 262,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 13904,
+        "known_for_department": "Acting",
+        "name": "Louise Brooks",
+        "original_name": "Louise Brooks",
+        "popularity": 0.507,
+        "profile_path": "/2vpBqhnfFWBdVgoOsdPUEQFNZGA.jpg",
+        "cast_id": 7,
+        "character": "Lulu",
+        "credit_id": "52fe428bc3a36847f8026e8b",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 13905,
+        "known_for_department": "Acting",
+        "name": "Fritz Kortner",
+        "original_name": "Fritz Kortner",
+        "popularity": 0.361,
+        "profile_path": "/9Yj5OwxoFVP8fkBo4Ey89KfCZrL.jpg",
+        "cast_id": 8,
+        "character": "Dr. Ludwig Schön",
+        "credit_id": "52fe428bc3a36847f8026e8f",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 13906,
+        "known_for_department": "Acting",
+        "name": "Francis Lederer",
+        "original_name": "Francis Lederer",
+        "popularity": 0.4121,
+        "profile_path": "/jf2hWEynH4PbygMSp0hbXqAGJ8l.jpg",
+        "cast_id": 9,
+        "character": "Alwa Schön",
+        "credit_id": "52fe428bc3a36847f8026e93",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 13907,
+        "known_for_department": "Acting",
+        "name": "Carl Goetz",
+        "original_name": "Carl Goetz",
+        "popularity": 0.1977,
+        "profile_path": "/ffR5NnrYXztYxCoIavZt80oIVWl.jpg",
+        "cast_id": 10,
+        "character": "Schigolch",
+        "credit_id": "52fe428bc3a36847f8026e97",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 13908,
+        "known_for_department": "Acting",
+        "name": "Krafft-Raschig",
+        "original_name": "Krafft-Raschig",
+        "popularity": 0.0338,
+        "profile_path": null,
+        "cast_id": 11,
+        "character": "Rodrigo Quast",
+        "credit_id": "52fe428bc3a36847f8026e9b",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 13909,
+        "known_for_department": "Acting",
+        "name": "Alice Roberts",
+        "original_name": "Alice Roberts",
+        "popularity": 0.1023,
+        "profile_path": "/Fxfgp01uZ1uROSUs9eZwCGGdsz.jpg",
+        "cast_id": 12,
+        "character": "Countess Anna Geschwitz",
+        "credit_id": "52fe428bc3a36847f8026e9f",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1359939,
+        "known_for_department": "Acting",
+        "name": "Daisy D'Ora",
+        "original_name": "Daisy D'Ora",
+        "popularity": 0.0261,
+        "profile_path": "/zUc1YbF7pAyOgC2cs7udpuHo2Dq.jpg",
+        "cast_id": 13,
+        "character": "Charlotte Marie Adelaide von Zarnikow",
+        "credit_id": "5bdc8517c3a368054300217e",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 32004,
+        "known_for_department": "Acting",
+        "name": "Gustav Diessl",
+        "original_name": "Gustav Diessl",
+        "popularity": 0.4074,
+        "profile_path": "/auJ0BllPOVInVRd7NnInViZ0wev.jpg",
+        "cast_id": 14,
+        "character": "Jack the Ripper",
+        "credit_id": "5bdc85210e0a26283b00192e",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1048920,
+        "known_for_department": "Acting",
+        "name": "Michael von Newlinsky",
+        "original_name": "Michael von Newlinsky",
+        "popularity": 0.1241,
+        "profile_path": "/8md6qYQKnR7IAebmwcQYUQ4YVM0.jpg",
+        "cast_id": 15,
+        "character": "Marquis Casti-Piani",
+        "credit_id": "5bdc852cc3a3680543002198",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 48064,
+        "known_for_department": "Acting",
+        "name": "Sig Arno",
+        "original_name": "Sig Arno",
+        "popularity": 0.4504,
+        "profile_path": "/tVPZ1OaiplPoc9ODahkIuFp9mcO.jpg",
+        "cast_id": 16,
+        "character": "The Stage Manager",
+        "credit_id": "5bdc85420e0a262853001883",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 46736,
+        "known_for_department": "Acting",
+        "name": "Karl Etlinger",
+        "original_name": "Karl Etlinger",
+        "popularity": 0.1303,
+        "profile_path": "/5qWC7oJCHp7mk9RmlDdccwg81vP.jpg",
+        "cast_id": 32,
+        "character": "Defense attorney",
+        "credit_id": "65c6d502aad9c2017db5d688",
+        "order": 10
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 13899,
+        "known_for_department": "Directing",
+        "name": "G.W. Pabst",
+        "original_name": "Georg Wilhelm Pabst",
+        "popularity": 0.3135,
+        "profile_path": "/j3E2joC0UzP5ftZpFsp1SqOK1Xt.jpg",
+        "credit_id": "52fe428ac3a36847f8026e69",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 13901,
+        "known_for_department": "Writing",
+        "name": "Ladislaus Vajda",
+        "original_name": "Ladislaus Vajda",
+        "popularity": 0.3745,
+        "profile_path": null,
+        "credit_id": "52fe428ac3a36847f8026e75",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 13902,
+        "known_for_department": "Production",
+        "name": "Seymour Nebenzal",
+        "original_name": "Seymour Nebenzal",
+        "popularity": 0.0722,
+        "profile_path": null,
+        "credit_id": "52fe428ac3a36847f8026e7b",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 9837,
+        "known_for_department": "Camera",
+        "name": "Günther Krampf",
+        "original_name": "Günther Krampf",
+        "popularity": 0.0965,
+        "profile_path": null,
+        "credit_id": "52fe428ac3a36847f8026e81",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 13903,
+        "known_for_department": "Art",
+        "name": "Andrej Andrejew",
+        "original_name": "Andrej Andrejew",
+        "popularity": 0.1445,
+        "profile_path": null,
+        "credit_id": "52fe428bc3a36847f8026e87",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 13899,
+        "known_for_department": "Directing",
+        "name": "G.W. Pabst",
+        "original_name": "Georg Wilhelm Pabst",
+        "popularity": 0.3135,
+        "profile_path": "/j3E2joC0UzP5ftZpFsp1SqOK1Xt.jpg",
+        "credit_id": "6355e53e4ca676007fe4effc",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3755172,
+        "known_for_department": "Writing",
+        "name": "Joseph Fleisler",
+        "original_name": "Joseph Fleisler",
+        "popularity": 0.0218,
+        "profile_path": null,
+        "credit_id": "6355e54da06efe007a6557fb",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1546261,
+        "known_for_department": "Production",
+        "name": "Heinz Landsmann",
+        "original_name": "Heinz Landsmann",
+        "popularity": 0.0552,
+        "profile_path": null,
+        "credit_id": "6355e559f9aa470090e21573",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3755172,
+        "known_for_department": "Writing",
+        "name": "Joseph Fleisler",
+        "original_name": "Joseph Fleisler",
+        "popularity": 0.0218,
+        "profile_path": null,
+        "credit_id": "6355e58a385202007a02f4c2",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1468999,
+        "known_for_department": "Art",
+        "name": "Bohumil Heš",
+        "original_name": "Bohumil Heš",
+        "popularity": 0.071,
+        "profile_path": null,
+        "credit_id": "6355e59ad18fb900825e2709",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 32000,
+        "known_for_department": "Art",
+        "name": "Ernö Metzner",
+        "original_name": "Ernö Metzner",
+        "popularity": 0.1059,
+        "profile_path": null,
+        "credit_id": "6355e5a643cd54008267590d",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1468999,
+        "known_for_department": "Art",
+        "name": "Bohumil Heš",
+        "original_name": "Bohumil Heš",
+        "popularity": 0.071,
+        "profile_path": null,
+        "credit_id": "6355e5ded6c300007ddb5f45",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 13900,
+        "known_for_department": "Writing",
+        "name": "Frank Wedekind",
+        "original_name": "Frank Wedekind",
+        "popularity": 0.1172,
+        "profile_path": "/cSVThPeqydbbC92oJr3NyNwoD5y.jpg",
+        "credit_id": "6591ef3e4f9a99738e77af92",
+        "department": "Writing",
+        "job": "Theatre Play"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 31998,
+        "known_for_department": "Editing",
+        "name": "Marc Sorkin",
+        "original_name": "Marc Sorkin",
+        "popularity": 0.1636,
+        "profile_path": null,
+        "credit_id": "6591f01414956560a2da46a1",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 11578,
+        "known_for_department": "Editing",
+        "name": "Paul Falkenberg",
+        "original_name": "Paul Falkenberg",
+        "popularity": 0.1043,
+        "profile_path": "/kKY27lmRzBo7rHeNH85O2QVa6Hl.jpg",
+        "credit_id": "6591f028ebb99d5e179ede1a",
+        "department": "Directing",
+        "job": "Assistant Director"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "DE",
+        "title": "Lulu",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "IT",
+        "title": "Lulù - Il vaso di Pandora",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "ES",
+        "title": "Lulú, la caixa de Pandora",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "ES",
+        "title": "La capsa de Pandora. Variacions sobre el tema de la Lulu",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "TR",
+        "title": "Pandora'nın Kutusu",
+        "type": ""
+      }
+    ]
+  }
+}

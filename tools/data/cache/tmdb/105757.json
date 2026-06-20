@@ -1,0 +1,361 @@
+{
+  "adult": false,
+  "backdrop_path": "/pzhQVEp3ImqYvHYbGWj8sJdTjSU.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 37,
+      "name": "Western"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 105757,
+  "imdb_id": "tt0067979",
+  "origin_country": [
+    "DE"
+  ],
+  "original_language": "de",
+  "original_title": "Whity",
+  "overview": "\"Whity\" is the mulatto butler of the dysfunctional Nicholson family in the American Southwest in 1878. The father, Ben Nicholson, has an attractive young wife, Katherine, and two sons by a previous marriage: the homosexual Frank and the feeble-minded Davy. Whity tries to carry out all their orders, however demeaning, until various family members ask him to kill some of the others.",
+  "popularity": 0.5248,
+  "poster_path": "/4tNrHnRgIezx88vU01bA9iKDUVv.jpg",
+  "production_companies": [
+    {
+      "id": 1492,
+      "logo_path": "/m1gmSFxJkkITHjbee5dvCakotvP.png",
+      "name": "Atlantis-Film",
+      "origin_country": "DE"
+    },
+    {
+      "id": 2277,
+      "logo_path": null,
+      "name": "Antiteater-X-Film",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "release_date": "1971-06-02",
+  "revenue": 0,
+  "runtime": 95,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Whity",
+  "video": false,
+  "vote_average": 5.348,
+  "vote_count": 23,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 32863,
+        "known_for_department": "Acting",
+        "name": "Günther Kaufmann",
+        "original_name": "Günther Kaufmann",
+        "popularity": 0.4067,
+        "profile_path": "/lRbiLa150KS13aRom2NI78Pd8YC.jpg",
+        "cast_id": 9,
+        "character": "Whity",
+        "credit_id": "52fe4a56c3a36847f81c817f",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 10620,
+        "known_for_department": "Acting",
+        "name": "Ulli Lommel",
+        "original_name": "Ulli Lommel",
+        "popularity": 0.5462,
+        "profile_path": "/ngstgeahshDgcBGwmtHhCpuNj22.jpg",
+        "cast_id": 10,
+        "character": "Frank Nicholson",
+        "credit_id": "52fe4a56c3a36847f81c8183",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 23668,
+        "known_for_department": "Acting",
+        "name": "Harry Baer",
+        "original_name": "Harry Baer",
+        "popularity": 0.4276,
+        "profile_path": "/vTuAZ6bZyi7BUs9G1cZLbQR0s7U.jpg",
+        "cast_id": 11,
+        "character": "Davy Nicholson",
+        "credit_id": "52fe4a56c3a36847f81c8187",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3734,
+        "known_for_department": "Acting",
+        "name": "Hanna Schygulla",
+        "original_name": "Hanna Schygulla",
+        "popularity": 0.7924,
+        "profile_path": "/hAZVxNCVzYBq3ToWzE01LXK6Oum.jpg",
+        "cast_id": 12,
+        "character": "Hanna",
+        "credit_id": "52fe4a56c3a36847f81c818b",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 115308,
+        "known_for_department": "Acting",
+        "name": "Ron Randell",
+        "original_name": "Ron Randell",
+        "popularity": 0.4346,
+        "profile_path": "/xeLep7t85yDghTDqpOwHTKmQsf4.jpg",
+        "cast_id": 13,
+        "character": "Benjamin Nicholson",
+        "credit_id": "52fe4a56c3a36847f81c818f",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 9937,
+        "known_for_department": "Acting",
+        "name": "Helga Ballhaus",
+        "original_name": "Helga Ballhaus",
+        "popularity": 0.0884,
+        "profile_path": null,
+        "cast_id": 14,
+        "character": "Judge's wife",
+        "credit_id": "52fe4a56c3a36847f81c8193",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 26330,
+        "known_for_department": "Acting",
+        "name": "Katrin Schaake",
+        "original_name": "Katrin Schaake",
+        "popularity": 0.3432,
+        "profile_path": "/soh4FzVHmnYSQnGjeID9QXAxrjq.jpg",
+        "cast_id": 15,
+        "character": "Katherine Nicholson",
+        "credit_id": "54b83d049251411d66002b0c",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2725,
+        "known_for_department": "Directing",
+        "name": "Rainer Werner Fassbinder",
+        "original_name": "Rainer Werner Fassbinder",
+        "popularity": 1.013,
+        "profile_path": "/uZFSBv6Q4ZSwZr8wfLobBCiiC14.jpg",
+        "cast_id": 16,
+        "character": "Saloon guest (uncredited)",
+        "credit_id": "54b83d1cc3a3686c6b0032db",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 18405,
+        "known_for_department": "Acting",
+        "name": "Peter Berling",
+        "original_name": "Peter Berling",
+        "popularity": 0.6382,
+        "profile_path": "/oAlkmJ99mC8KfARMiaSDm4kn9nj.jpg",
+        "cast_id": 17,
+        "character": "Hefty Bartender (uncredited)",
+        "credit_id": "54b83d46c3a3686c6b0032df",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 21997,
+        "known_for_department": "Acting",
+        "name": "Kurt Raab",
+        "original_name": "Kurt Raab",
+        "popularity": 0.4952,
+        "profile_path": "/k3CjKFY5nT4WIKhC96W1S87j36z.jpg",
+        "cast_id": 18,
+        "character": "Pianist (uncredited)",
+        "credit_id": "54b83d5a9251411d790029e8",
+        "order": 9
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2725,
+        "known_for_department": "Directing",
+        "name": "Rainer Werner Fassbinder",
+        "original_name": "Rainer Werner Fassbinder",
+        "popularity": 1.013,
+        "profile_path": "/uZFSBv6Q4ZSwZr8wfLobBCiiC14.jpg",
+        "credit_id": "52fe4a56c3a36847f81c8151",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2725,
+        "known_for_department": "Directing",
+        "name": "Rainer Werner Fassbinder",
+        "original_name": "Rainer Werner Fassbinder",
+        "popularity": 1.013,
+        "profile_path": "/uZFSBv6Q4ZSwZr8wfLobBCiiC14.jpg",
+        "credit_id": "52fe4a56c3a36847f81c8157",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3767,
+        "known_for_department": "Sound",
+        "name": "Peer Raben",
+        "original_name": "Peer Raben",
+        "popularity": 0.2397,
+        "profile_path": "/c00b1PFJ39wD4YYwSLwzy4LJOtH.jpg",
+        "credit_id": "52fe4a56c3a36847f81c815d",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 18405,
+        "known_for_department": "Acting",
+        "name": "Peter Berling",
+        "original_name": "Peter Berling",
+        "popularity": 0.6382,
+        "profile_path": "/oAlkmJ99mC8KfARMiaSDm4kn9nj.jpg",
+        "credit_id": "52fe4a56c3a36847f81c8163",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 10620,
+        "known_for_department": "Acting",
+        "name": "Ulli Lommel",
+        "original_name": "Ulli Lommel",
+        "popularity": 0.5462,
+        "profile_path": "/ngstgeahshDgcBGwmtHhCpuNj22.jpg",
+        "credit_id": "52fe4a56c3a36847f81c8169",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3767,
+        "known_for_department": "Sound",
+        "name": "Peer Raben",
+        "original_name": "Peer Raben",
+        "popularity": 0.2397,
+        "profile_path": "/c00b1PFJ39wD4YYwSLwzy4LJOtH.jpg",
+        "credit_id": "52fe4a56c3a36847f81c816f",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 21997,
+        "known_for_department": "Acting",
+        "name": "Kurt Raab",
+        "original_name": "Kurt Raab",
+        "popularity": 0.4952,
+        "profile_path": "/k3CjKFY5nT4WIKhC96W1S87j36z.jpg",
+        "credit_id": "52fe4a56c3a36847f81c817b",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3769,
+        "known_for_department": "Camera",
+        "name": "Michael Ballhaus",
+        "original_name": "Michael Ballhaus",
+        "popularity": 0.3468,
+        "profile_path": "/9DHIGsrgeTWA0rch3fFGXTOl1lO.jpg",
+        "credit_id": "5643bd02c3a36870e30035f4",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2737,
+        "known_for_department": "Editing",
+        "name": "Thea Eymèsz",
+        "original_name": "Thea Eymèsz",
+        "popularity": 0.0958,
+        "profile_path": null,
+        "credit_id": "5660b890c3a36875f1004927",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2725,
+        "known_for_department": "Directing",
+        "name": "Rainer Werner Fassbinder",
+        "original_name": "Rainer Werner Fassbinder",
+        "popularity": 1.013,
+        "profile_path": "/uZFSBv6Q4ZSwZr8wfLobBCiiC14.jpg",
+        "credit_id": "5660b897c3a36875f9004f36",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 23668,
+        "known_for_department": "Acting",
+        "name": "Harry Baer",
+        "original_name": "Harry Baer",
+        "popularity": 0.4276,
+        "profile_path": "/vTuAZ6bZyi7BUs9G1cZLbQR0s7U.jpg",
+        "credit_id": "5660b8a4c3a36875f40046b0",
+        "department": "Directing",
+        "job": "Assistant Director"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  }
+}

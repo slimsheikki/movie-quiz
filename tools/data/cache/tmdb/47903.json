@@ -1,0 +1,548 @@
+{
+  "adult": false,
+  "backdrop_path": "/sahQN7DxIPDb0o0TPX7NkAcoH40.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 47903,
+  "imdb_id": "tt0176155",
+  "origin_country": [
+    "XC"
+  ],
+  "original_language": "sk",
+  "original_title": "Slnko v sieti",
+  "overview": "Oldrich \"Fajolo\" Fajták (Marián Bielik), a student who directs quasi-existentialist verbal abuse at his girlfriend Bela Blazejová (Jana Beláková), takes off to a formally volunteer summer work camp at a farm where he meets her grandfather.",
+  "popularity": 0.3271,
+  "poster_path": "/lORMKI7cGtOW7ocrPqJRTjp0UgH.jpg",
+  "production_companies": [
+    {
+      "id": 12508,
+      "logo_path": null,
+      "name": "Štúdio hraných filmov Bratislava",
+      "origin_country": "XC"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "XC",
+      "name": "Czechoslovakia"
+    }
+  ],
+  "release_date": "1963-02-15",
+  "revenue": 0,
+  "runtime": 90,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Slovak",
+      "iso_639_1": "sk",
+      "name": "Slovenčina"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Sun in a Net",
+  "video": false,
+  "vote_average": 7.292,
+  "vote_count": 36,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1132496,
+        "known_for_department": "Camera",
+        "name": "Marián Bielik",
+        "original_name": "Marián Bielik",
+        "popularity": 0.1247,
+        "profile_path": null,
+        "cast_id": 7,
+        "character": "Fajolo",
+        "credit_id": "52fe474dc3a36847f812e099",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1132497,
+        "known_for_department": "Acting",
+        "name": "Jana Beláková",
+        "original_name": "Jana Beláková",
+        "popularity": 0.0289,
+        "profile_path": null,
+        "cast_id": 8,
+        "character": "Bela",
+        "credit_id": "52fe474dc3a36847f812e09d",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1132502,
+        "known_for_department": "Acting",
+        "name": "Eliška Nosálová",
+        "original_name": "Eliška Nosálová",
+        "popularity": 0.1182,
+        "profile_path": "/eGHbPohXCEeCENecHcr4SAxE9Lh.jpg",
+        "cast_id": 13,
+        "character": "Stana Blazejová",
+        "credit_id": "52fe474dc3a36847f812e0b1",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1132498,
+        "known_for_department": "Acting",
+        "name": "Oľga Šalagová",
+        "original_name": "Oľga Šalagová",
+        "popularity": 0.196,
+        "profile_path": null,
+        "cast_id": 9,
+        "character": "Jana",
+        "credit_id": "52fe474dc3a36847f812e0a1",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1132499,
+        "known_for_department": "Acting",
+        "name": "Pavol Chrobák",
+        "original_name": "Pavol Chrobák",
+        "popularity": 0.0389,
+        "profile_path": null,
+        "cast_id": 10,
+        "character": "Mechanic Blažej",
+        "credit_id": "52fe474dc3a36847f812e0a5",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1132503,
+        "known_for_department": "Acting",
+        "name": "Andrej Vandlík",
+        "original_name": "Andrej Vandlík",
+        "popularity": 0.1269,
+        "profile_path": null,
+        "cast_id": 15,
+        "character": "Ján Blazej",
+        "credit_id": "52fe474dc3a36847f812e0b9",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1132500,
+        "known_for_department": "Acting",
+        "name": "Adam Jančo",
+        "original_name": "Adam Jančo",
+        "popularity": 0.0718,
+        "profile_path": null,
+        "cast_id": 11,
+        "character": "Stohár Blazej",
+        "credit_id": "52fe474dc3a36847f812e0a9",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 130909,
+        "known_for_department": "Acting",
+        "name": "Ľubomír Roman",
+        "original_name": "Ľubomír Roman",
+        "popularity": 0.0942,
+        "profile_path": "/iQuoshZ28IiJRD3s3cTffTmpNnF.jpg",
+        "cast_id": 14,
+        "character": "Peto",
+        "credit_id": "52fe474dc3a36847f812e0b5",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3465593,
+        "known_for_department": "Acting",
+        "name": "Peter Lobotka",
+        "original_name": "Peter Lobotka",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 30,
+        "character": "",
+        "credit_id": "622f88b09c24fc0019dab8c4",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1132501,
+        "known_for_department": "Acting",
+        "name": "Vladimír Malina",
+        "original_name": "Vladimír Malina",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 12,
+        "character": "Fisherman",
+        "credit_id": "52fe474dc3a36847f812e0ad",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2644584,
+        "known_for_department": "Acting",
+        "name": "Zuzana Rusková",
+        "original_name": "Zuzana Rusková",
+        "popularity": 0,
+        "profile_path": null,
+        "cast_id": 31,
+        "character": "",
+        "credit_id": "622f88e00e4419004524237b",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3465597,
+        "known_for_department": "Acting",
+        "name": "Anton Galba",
+        "original_name": "Anton Galba",
+        "popularity": 0,
+        "profile_path": null,
+        "cast_id": 32,
+        "character": "Meg",
+        "credit_id": "622f8907a6fdaa001b814150",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3465600,
+        "known_for_department": "Acting",
+        "name": "Vincent Krajčík",
+        "original_name": "Vincent Krajčík",
+        "popularity": 0,
+        "profile_path": null,
+        "cast_id": 33,
+        "character": "",
+        "credit_id": "622f8966e04aca001b87d0c7",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3465602,
+        "known_for_department": "Acting",
+        "name": "Ján Žitňan",
+        "original_name": "Ján Žitňan",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 34,
+        "character": "",
+        "credit_id": "622f898a0e4419001b6f346a",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 85571,
+        "known_for_department": "Acting",
+        "name": "Michal Dočolomanský",
+        "original_name": "Michal Dočolomanský",
+        "popularity": 0.3395,
+        "profile_path": "/2kATI6ldzJLwflyHKMfbrLPI1u4.jpg",
+        "cast_id": 35,
+        "character": "Fajolo (voice)",
+        "credit_id": "622f89b42a210c0045dfe97b",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 222522,
+        "known_for_department": "Acting",
+        "name": "Viliam Polónyi",
+        "original_name": "Viliam Polónyi",
+        "popularity": 0.417,
+        "profile_path": "/bv4vnzAqVRgoZNvkRQLbAKyu3dH.jpg",
+        "cast_id": 36,
+        "character": "Mechanic Blažej (voice)",
+        "credit_id": "622f8a0812970c00797a1e20",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3465605,
+        "known_for_department": "Acting",
+        "name": "Alfonz Gajdoš",
+        "original_name": "Alfonz Gajdoš",
+        "popularity": 0,
+        "profile_path": null,
+        "cast_id": 37,
+        "character": "Meg (voice)",
+        "credit_id": "622f8a209c24fc004492875f",
+        "order": 16
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3395987,
+        "known_for_department": "Production",
+        "name": "Anton Vyskočil",
+        "original_name": "Anton Vyskočil",
+        "popularity": 0.0912,
+        "profile_path": null,
+        "credit_id": "622f87c965c26c00771eb399",
+        "department": "Production",
+        "job": "Unit Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1132495,
+        "known_for_department": "Art",
+        "name": "Jiří Červík",
+        "original_name": "Jiří Červík",
+        "popularity": 0.1323,
+        "profile_path": null,
+        "credit_id": "622f877b65c26c00771eb272",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1413722,
+        "known_for_department": "Writing",
+        "name": "Eduard Grečner",
+        "original_name": "Eduard Grečner",
+        "popularity": 0.1613,
+        "profile_path": "/o8hxzI8xs8wYze3N6bww3D8a0hW.jpg",
+        "credit_id": "622f879da6fdaa00444e4d30",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3465588,
+        "known_for_department": "Sound",
+        "name": "Ladislav Holásek",
+        "original_name": "Ladislav Holásek",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "622f87e665c26c00771eb400",
+        "department": "Sound",
+        "job": "Conductor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3396078,
+        "known_for_department": "Crew",
+        "name": "Magdaléna Fauthová",
+        "original_name": "Magdaléna Fauthová",
+        "popularity": 0.0745,
+        "profile_path": null,
+        "credit_id": "622f87d6a6fdaa00444e4db3",
+        "department": "Crew",
+        "job": "Script"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1804469,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Júlia Ballagová",
+        "original_name": "Júlia Ballagová",
+        "popularity": 0.1157,
+        "profile_path": null,
+        "credit_id": "622f87b84e4dff001b8a9eb7",
+        "department": "Costume & Make-Up",
+        "job": "Costumer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3035919,
+        "known_for_department": "Sound",
+        "name": "Rudolf Pavlíček",
+        "original_name": "Rudolf Pavlíček",
+        "popularity": 0.0474,
+        "profile_path": null,
+        "credit_id": "622f87894e4dff004520643b",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1132492,
+        "known_for_department": "Writing",
+        "name": "Alfonz Bednár",
+        "original_name": "Alfonz Bednár",
+        "popularity": 0.1194,
+        "profile_path": "/wJvcE38rXNgChfU253PKE5DYG3Q.jpg",
+        "credit_id": "622f874fa6fdaa001b813b09",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1132492,
+        "known_for_department": "Writing",
+        "name": "Alfonz Bednár",
+        "original_name": "Alfonz Bednár",
+        "popularity": 0.1194,
+        "profile_path": "/wJvcE38rXNgChfU253PKE5DYG3Q.jpg",
+        "credit_id": "622f8756b87aec001b8298a3",
+        "department": "Writing",
+        "job": "Short Story"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1132529,
+        "known_for_department": "Production",
+        "name": "Ján Svikruha",
+        "original_name": "Ján Svikruha",
+        "popularity": 0.0756,
+        "profile_path": null,
+        "credit_id": "622f87922a210c001b5fb8e1",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3221253,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Emília Bobeková",
+        "original_name": "Emília Bobeková",
+        "popularity": 0.1221,
+        "profile_path": null,
+        "credit_id": "622f87c098f1f10078094c7e",
+        "department": "Costume & Make-Up",
+        "job": "Makeup & Hair"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1191859,
+        "known_for_department": "Camera",
+        "name": "Andrej Barla",
+        "original_name": "Andrej Barla",
+        "popularity": 0.0743,
+        "profile_path": null,
+        "credit_id": "622f87a69c24fc0075e37d1c",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3226855,
+        "known_for_department": "Art",
+        "name": "Mikuláš Vida",
+        "original_name": "Mikuláš Vida",
+        "popularity": 0.0379,
+        "profile_path": null,
+        "credit_id": "622f87afaad9c200443940cc",
+        "department": "Art",
+        "job": "Property Master"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 137036,
+        "known_for_department": "Directing",
+        "name": "Štefan Uher",
+        "original_name": "Štefan Uher",
+        "popularity": 0.1637,
+        "profile_path": "/re7qUli2hV86g0wvMiMvB5DGN2I.jpg",
+        "credit_id": "52fe474dc3a36847f812e077",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1132493,
+        "known_for_department": "Sound",
+        "name": "Ilja Zeljenka",
+        "original_name": "Ilja Zeljenka",
+        "popularity": 0.0379,
+        "profile_path": null,
+        "credit_id": "52fe474dc3a36847f812e083",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 133301,
+        "known_for_department": "Editing",
+        "name": "Bedřich Voděrka",
+        "original_name": "Bedřich Voděrka",
+        "popularity": 0.0718,
+        "profile_path": null,
+        "credit_id": "52fe474dc3a36847f812e08f",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1132494,
+        "known_for_department": "Camera",
+        "name": "Stanislav Szomolányi",
+        "original_name": "Stanislav Szomolányi",
+        "popularity": 0.0947,
+        "profile_path": null,
+        "credit_id": "5900c533c3a368101e00ca02",
+        "department": "Camera",
+        "job": "Director of Photography"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "KR",
+        "title": "그물 속 태양",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "PL",
+        "title": "Słońce w sieci",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "CZ",
+        "title": "Slunce v síti",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "FR",
+        "title": "Le soleil dans le filet",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "HU",
+        "title": "Nap a hálóban",
+        "type": ""
+      }
+    ]
+  }
+}

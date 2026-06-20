@@ -1,0 +1,757 @@
+{
+  "adult": false,
+  "backdrop_path": "/lVgJzjtd97Aznpbp4KkSM0Oxj7J.jpg",
+  "belongs_to_collection": null,
+  "budget": 140000,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "",
+  "id": 26774,
+  "imdb_id": "tt0066849",
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "The Blood on Satan's Claw",
+  "overview": "After a landsman in 18th century England discovers a corpse covered in fur buried in a field, the town becomes infected by \"the devil's skin,\" leading the local children to engage in demonic rituals and criminal behavior.",
+  "popularity": 0.9673,
+  "poster_path": "/shUG4L8iKu9g4bhZVI3SNsIOvD3.jpg",
+  "production_companies": [
+    {
+      "id": 4579,
+      "logo_path": null,
+      "name": "Tigon British Film Productions",
+      "origin_country": "GB"
+    },
+    {
+      "id": 21719,
+      "logo_path": null,
+      "name": "Chilton Films",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "1971-01-28",
+  "revenue": 0,
+  "runtime": 96,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "A chill-filled festival of horror!",
+  "title": "The Blood on Satan's Claw",
+  "video": false,
+  "vote_average": 6.169,
+  "vote_count": 166,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 67917,
+        "known_for_department": "Acting",
+        "name": "Patrick Wymark",
+        "original_name": "Patrick Wymark",
+        "popularity": 0.3174,
+        "profile_path": "/qAObkVULZr2JhbWsdwfoH0d67ht.jpg",
+        "cast_id": 1,
+        "character": "The Judge",
+        "credit_id": "52fe4518c3a368484e0482b3",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 96177,
+        "known_for_department": "Acting",
+        "name": "Linda Hayden",
+        "original_name": "Linda Hayden",
+        "popularity": 0.5066,
+        "profile_path": "/A9EaMD8bH4APcc5riupvxFUpjov.jpg",
+        "cast_id": 2,
+        "character": "Angel Blake",
+        "credit_id": "52fe4518c3a368484e0482b7",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 96187,
+        "known_for_department": "Acting",
+        "name": "Barry Andrews",
+        "original_name": "Barry Andrews",
+        "popularity": 0.2253,
+        "profile_path": "/mSW9YXvzEENDTp0h9W5AmY3LVkN.jpg",
+        "cast_id": 3,
+        "character": "Ralph Gower",
+        "credit_id": "52fe4518c3a368484e0482bb",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 96188,
+        "known_for_department": "Acting",
+        "name": "Michele Dotrice",
+        "original_name": "Michele Dotrice",
+        "popularity": 0.7963,
+        "profile_path": "/rtBoI6uwH3GCNb7EF3YUHm9HwJ7.jpg",
+        "cast_id": 4,
+        "character": "Margaret",
+        "credit_id": "52fe4518c3a368484e0482bf",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 96192,
+        "known_for_department": "Acting",
+        "name": "Wendy Padbury",
+        "original_name": "Wendy Padbury",
+        "popularity": 0.289,
+        "profile_path": "/selCVnBKzLypNOtc4BsRbQLJj50.jpg",
+        "cast_id": 10,
+        "character": "Cathy Vespers",
+        "credit_id": "52fe4518c3a368484e0482d7",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 96189,
+        "known_for_department": "Acting",
+        "name": "Anthony Ainley",
+        "original_name": "Anthony Ainley",
+        "popularity": 0.5073,
+        "profile_path": "/9JjzT3w9N17evJEvX0J2jrkDK0U.jpg",
+        "cast_id": 6,
+        "character": "Reverend Fallowfield",
+        "credit_id": "52fe4518c3a368484e0482c7",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 72707,
+        "known_for_department": "Acting",
+        "name": "Charlotte Mitchell",
+        "original_name": "Charlotte Mitchell",
+        "popularity": 0.274,
+        "profile_path": "/qOl0v3Ahg18n7Kf4wXk0hjXOvCU.jpg",
+        "cast_id": 8,
+        "character": "Ellen Vespers",
+        "credit_id": "52fe4518c3a368484e0482cf",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1995895,
+        "known_for_department": "Acting",
+        "name": "Tamara Ustinov",
+        "original_name": "Tamara Ustinov",
+        "popularity": 0.2884,
+        "profile_path": "/bCxFwBwKN4Xvu0vfnaEXuIWnRBU.jpg",
+        "cast_id": 27,
+        "character": "Rosalind Barton",
+        "credit_id": "5e4d9e78283ed900155c8f7c",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 32160,
+        "known_for_department": "Acting",
+        "name": "Simon Williams",
+        "original_name": "Simon Williams",
+        "popularity": 0.7931,
+        "profile_path": "/zBsPN0SdZuYGZxaOwNEj6IpvAZs.jpg",
+        "cast_id": 28,
+        "character": "Peter Edmonton",
+        "credit_id": "5e4d9f7f9b861600116933a2",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 30769,
+        "known_for_department": "Acting",
+        "name": "James Hayter",
+        "original_name": "James Hayter",
+        "popularity": 0.5446,
+        "profile_path": "/oyWVJYiOinNqg2L6it8aYstWYan.jpg",
+        "cast_id": 5,
+        "character": "Squire Middleton",
+        "credit_id": "52fe4518c3a368484e0482c3",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 30676,
+        "known_for_department": "Acting",
+        "name": "Howard Goorney",
+        "original_name": "Howard Goorney",
+        "popularity": 0.3146,
+        "profile_path": "/vvhxKuBn9IsaHvXr7Qe8fmdTB2R.jpg",
+        "cast_id": 7,
+        "character": "The Doctor",
+        "credit_id": "52fe4518c3a368484e0482cb",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 96191,
+        "known_for_department": "Acting",
+        "name": "Avice Landone",
+        "original_name": "Avice Landone",
+        "popularity": 0.2038,
+        "profile_path": "/9auSo9arAulPs8HOL8aKMt01QcL.jpg",
+        "cast_id": 9,
+        "character": "Isobel Banham",
+        "credit_id": "52fe4518c3a368484e0482d3",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 80496,
+        "known_for_department": "Acting",
+        "name": "Roberta Tovey",
+        "original_name": "Roberta Tovey",
+        "popularity": 0.2526,
+        "profile_path": "/bolxtztXuPYMe1DiJWede5qmGPr.jpg",
+        "cast_id": 47,
+        "character": "Ann",
+        "credit_id": "617e9f003f7e1d0042d38791",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1224838,
+        "known_for_department": "Acting",
+        "name": "Robin Davies",
+        "original_name": "Robin Davies",
+        "popularity": 0.2662,
+        "profile_path": "/1P8JIvRHTZaNEGQbOaEPmfeY84Q.jpg",
+        "cast_id": 29,
+        "character": "Mark Vespers",
+        "credit_id": "5e4d9fbb283ed900135cd614",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 86107,
+        "known_for_department": "Acting",
+        "name": "Geoffrey Hughes",
+        "original_name": "Geoffrey Hughes",
+        "popularity": 0.803,
+        "profile_path": "/taJmzIbmAczkT0upK0MDTqg0S2K.jpg",
+        "cast_id": 43,
+        "character": "Drinking Villager",
+        "credit_id": "5f9d90ad028f140033d043fc",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 93490,
+        "known_for_department": "Acting",
+        "name": "Anna Wing",
+        "original_name": "Anna Wing",
+        "popularity": 0.3536,
+        "profile_path": "/3tW36AV64UQxUb1w7qJNKuB4kf3.jpg",
+        "cast_id": 49,
+        "character": "Concerned Villager",
+        "credit_id": "617ea990d388ae008a0617bb",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2543964,
+        "known_for_department": "Acting",
+        "name": "Peter Ardran",
+        "original_name": "Peter Ardran",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 30,
+        "character": "The Devil (uncredited)",
+        "credit_id": "5e4d9fe2283ed900135cd654",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 108642,
+        "known_for_department": "Acting",
+        "name": "Godfrey James",
+        "original_name": "Godfrey James",
+        "popularity": 0.5067,
+        "profile_path": "/a3ALsGOz9hYVVQkDJWRqogZBpmM.jpg",
+        "cast_id": 31,
+        "character": "Mr. Blake (uncredited)",
+        "credit_id": "5e4da00935811d00134efd78",
+        "order": 17
+      },
+      {
+        "adult": true,
+        "gender": 1,
+        "id": 558479,
+        "known_for_department": "Acting",
+        "name": "Yvonne Paul",
+        "original_name": "Yvonne Paul",
+        "popularity": 0,
+        "profile_path": null,
+        "cast_id": 25,
+        "character": "Dancing Girl (uncredited)",
+        "credit_id": "574f4e15c3a36879e6000272",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1804509,
+        "known_for_department": "Acting",
+        "name": "Jason Twelvetrees",
+        "original_name": "Jason Twelvetrees",
+        "popularity": 0.0416,
+        "profile_path": null,
+        "cast_id": 32,
+        "character": "Ned Carter (uncredited)",
+        "credit_id": "5e4da034a93d2500174273c2",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 83133,
+        "known_for_department": "Acting",
+        "name": "Milton Reid",
+        "original_name": "Milton Reid",
+        "popularity": 0.3885,
+        "profile_path": "/ofCrFYyu4gqtLkwSKthiacirpV1.jpg",
+        "cast_id": 44,
+        "character": "Dog Handler (uncredited)",
+        "credit_id": "60bbedf667825900593db1ca",
+        "order": 20
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1229320,
+        "known_for_department": "Acting",
+        "name": "Eric Mason",
+        "original_name": "Eric Mason",
+        "popularity": 0.348,
+        "profile_path": null,
+        "cast_id": 48,
+        "character": "Villager",
+        "credit_id": "617ea4f70d5d8500438a38ca",
+        "order": 21
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 32154,
+        "known_for_department": "Directing",
+        "name": "Piers Haggard",
+        "original_name": "Piers Haggard",
+        "popularity": 0.69,
+        "profile_path": "/bhInE02XtT9orJALvJw0uWgdkyz.jpg",
+        "credit_id": "52fe4518c3a368484e0482dd",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 96233,
+        "known_for_department": "Writing",
+        "name": "Robert Wynne-Simmons",
+        "original_name": "Robert Wynne-Simmons",
+        "popularity": 0.1699,
+        "profile_path": null,
+        "credit_id": "52fe4518c3a368484e0482e3",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 96234,
+        "known_for_department": "Production",
+        "name": "Peter L. Andrews",
+        "original_name": "Peter L. Andrews",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "52fe4518c3a368484e0482e9",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 96235,
+        "known_for_department": "Production",
+        "name": "Malcolm B. Heyworth",
+        "original_name": "Malcolm B. Heyworth",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "52fe4518c3a368484e0482ef",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 69559,
+        "known_for_department": "Production",
+        "name": "Tony Tenser",
+        "original_name": "Tony Tenser",
+        "popularity": 0.1236,
+        "profile_path": null,
+        "credit_id": "52fe4518c3a368484e0482f5",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 9904,
+        "known_for_department": "Production",
+        "name": "Weston Drury Jr.",
+        "original_name": "Weston Drury Jr.",
+        "popularity": 0.207,
+        "profile_path": null,
+        "credit_id": "52fe4518c3a368484e04830d",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1561880,
+        "known_for_department": "Sound",
+        "name": "Graham V. Hartstone",
+        "original_name": "Graham V. Hartstone",
+        "popularity": 0.2688,
+        "profile_path": null,
+        "credit_id": "60da12cbcc277c0046562c96",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1100809,
+        "known_for_department": "Sound",
+        "name": "Otto Snel",
+        "original_name": "Otto Snel",
+        "popularity": 0.1781,
+        "profile_path": null,
+        "credit_id": "60da12d8880551005d699fab",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 58660,
+        "known_for_department": "Camera",
+        "name": "Dick Bush",
+        "original_name": "Dick Bush",
+        "popularity": 0.251,
+        "profile_path": "/fbtTLgLKreulTeOc8mWL0MUHhCu.jpg",
+        "credit_id": "535d7f5cc3a3682273000b17",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 132588,
+        "known_for_department": "Editing",
+        "name": "Richard Best",
+        "original_name": "Richard Best",
+        "popularity": 0.1661,
+        "profile_path": null,
+        "credit_id": "538f7e4f0e0a26298c00085e",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 96237,
+        "known_for_department": "Art",
+        "name": "Arnold Chapkis",
+        "original_name": "Arnold Chapkis",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "56a9031cc3a36872e9000404",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 32159,
+        "known_for_department": "Sound",
+        "name": "Marc Wilkinson",
+        "original_name": "Marc Wilkinson",
+        "popularity": 0.1524,
+        "profile_path": null,
+        "credit_id": "56a90360c3a36872d80003ca",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2202100,
+        "known_for_department": "Camera",
+        "name": "Mike Rutter",
+        "original_name": "Mike Rutter",
+        "popularity": 0.1155,
+        "profile_path": null,
+        "credit_id": "5c2845f092514138c8bffbb5",
+        "department": "Camera",
+        "job": "Focus Puller"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 32154,
+        "known_for_department": "Directing",
+        "name": "Piers Haggard",
+        "original_name": "Piers Haggard",
+        "popularity": 0.69,
+        "profile_path": "/bhInE02XtT9orJALvJw0uWgdkyz.jpg",
+        "credit_id": "5e4da082283ed900155c95ec",
+        "department": "Crew",
+        "job": "Additional Writing"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1644285,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Olga Angelinetta",
+        "original_name": "Olga Angelinetta",
+        "popularity": 0.1246,
+        "profile_path": null,
+        "credit_id": "5e4da0c29a3c49001635c746",
+        "department": "Costume & Make-Up",
+        "job": "Hairdresser"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 11126,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Eddie Knight",
+        "original_name": "Eddie Knight",
+        "popularity": 0.1136,
+        "profile_path": null,
+        "credit_id": "5e4da0d09a3c49001935cd83",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1849918,
+        "known_for_department": "Production",
+        "name": "Ron Jackson",
+        "original_name": "Ron Jackson",
+        "popularity": 0.1209,
+        "profile_path": null,
+        "credit_id": "5e4da0e01e92250018c94fc5",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1365154,
+        "known_for_department": "Directing",
+        "name": "Stephen Christian",
+        "original_name": "Stephen Christian",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "5e4da0ef9b86160011693565",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1834931,
+        "known_for_department": "Directing",
+        "name": "Bill Westley",
+        "original_name": "Bill Westley",
+        "popularity": 0.0933,
+        "profile_path": null,
+        "credit_id": "5e4da0fd1e9225001dc98880",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1395729,
+        "known_for_department": "Sound",
+        "name": "Tony Dawe",
+        "original_name": "Tony Dawe",
+        "popularity": 0.1498,
+        "profile_path": null,
+        "credit_id": "5e4da110a93d250017427651",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1399995,
+        "known_for_department": "Sound",
+        "name": "William Trent",
+        "original_name": "William Trent",
+        "popularity": 0.0705,
+        "profile_path": null,
+        "credit_id": "5e4da11d9a3c49001635c860",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1926121,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Dulcie Midwinter",
+        "original_name": "Dulcie Midwinter",
+        "popularity": 0.1257,
+        "profile_path": null,
+        "credit_id": "5e4da1381e9225001dc988fe",
+        "department": "Costume & Make-Up",
+        "job": "Wardrobe Master"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 32159,
+        "known_for_department": "Sound",
+        "name": "Marc Wilkinson",
+        "original_name": "Marc Wilkinson",
+        "popularity": 0.1524,
+        "profile_path": null,
+        "credit_id": "5e4da1499a3c49001435df2f",
+        "department": "Sound",
+        "job": "Conductor"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "GB",
+        "title": "Satan's Skin",
+        "type": "working title; Blu-ray title"
+      },
+      {
+        "iso_3166_1": "GB",
+        "title": "The Devil's Touch",
+        "type": "working title"
+      },
+      {
+        "iso_3166_1": "DE",
+        "title": "In den Krallen des Hexenjägers",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "BR",
+        "title": "O Estigma de Satanás",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "DK",
+        "title": "Satans kult",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "ES",
+        "title": "La garra de Satán",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "FI",
+        "title": "Paholaisen nahka",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "FR",
+        "title": "La nuit des maléfices",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "FR",
+        "title": "La nuit du maléfice",
+        "type": "poster title"
+      },
+      {
+        "iso_3166_1": "GB",
+        "title": "The Devil's Skin",
+        "type": "script title"
+      },
+      {
+        "iso_3166_1": "GR",
+        "title": "Aima sta nyhia tou Satana",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "IT",
+        "title": "La pelle di Satana",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "MX",
+        "title": "La piel de Satanás",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "SE",
+        "title": "Satans skinn",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "US",
+        "title": "The Blood on Satan's Claw",
+        "type": "original title"
+      },
+      {
+        "iso_3166_1": "KR",
+        "title": "사탄의 피부",
+        "type": ""
+      }
+    ]
+  }
+}

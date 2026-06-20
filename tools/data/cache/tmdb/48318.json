@@ -1,0 +1,344 @@
+{
+  "adult": false,
+  "backdrop_path": "/hjIEvUldc2lbxKZi6og3G39gLpK.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 48318,
+  "imdb_id": "tt0077383",
+  "origin_country": [
+    "HU"
+  ],
+  "original_language": "hu",
+  "original_title": "Családi tűzfészek",
+  "overview": "A family slowly disintegrates under various pressures in late 1970s communist Hungary.",
+  "popularity": 0.3769,
+  "poster_path": "/tNizybxpOcOAkBzzOyRGVJ323pF.jpg",
+  "production_companies": [
+    {
+      "id": 40353,
+      "logo_path": null,
+      "name": "Balázs Béla Stúdió",
+      "origin_country": "HU"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "HU",
+      "name": "Hungary"
+    }
+  ],
+  "release_date": "1979-01-25",
+  "revenue": 0,
+  "runtime": 108,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Hungarian",
+      "iso_639_1": "hu",
+      "name": "Magyar"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Family Nest",
+  "video": false,
+  "vote_average": 6.6,
+  "vote_count": 44,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 951420,
+        "known_for_department": "Acting",
+        "name": "László Horváth",
+        "original_name": "László Horváth",
+        "popularity": 0.0641,
+        "profile_path": null,
+        "cast_id": 1004,
+        "character": "Laci",
+        "credit_id": "52fe475fc3a36847f8132285",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1086312,
+        "known_for_department": "Acting",
+        "name": "Gábor Kun",
+        "original_name": "Gábor Kun",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "cast_id": 1005,
+        "character": "Laci apja",
+        "credit_id": "52fe475fc3a36847f8132289",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1086313,
+        "known_for_department": "Acting",
+        "name": "Gábor Ifj. Kun",
+        "original_name": "Gábor Ifj. Kun",
+        "popularity": 0,
+        "profile_path": null,
+        "cast_id": 1006,
+        "character": "Gabi, Laci testvére",
+        "credit_id": "52fe475fc3a36847f813228d",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1086314,
+        "known_for_department": "Acting",
+        "name": "Gaborne Kún",
+        "original_name": "Gaborne Kún",
+        "popularity": 0.0362,
+        "profile_path": null,
+        "cast_id": 1007,
+        "character": "Laci anyja",
+        "credit_id": "52fe475fc3a36847f8132291",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1086315,
+        "known_for_department": "Acting",
+        "name": "Jánosné Szekeres",
+        "original_name": "Jánosné Szekeres",
+        "popularity": 0.0696,
+        "profile_path": null,
+        "cast_id": 1008,
+        "character": "A sógornõ",
+        "credit_id": "52fe475fc3a36847f8132295",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3467733,
+        "known_for_department": "Acting",
+        "name": "Jozsef Korn",
+        "original_name": "Jozsef Korn",
+        "popularity": 0.0363,
+        "profile_path": null,
+        "cast_id": 1017,
+        "character": "",
+        "credit_id": "6231f4f90582240045b26054",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3467734,
+        "known_for_department": "Acting",
+        "name": "Iren Racz",
+        "original_name": "Iren Racz",
+        "popularity": 0.0239,
+        "profile_path": null,
+        "cast_id": 1018,
+        "character": "",
+        "credit_id": "6231f503da10f0001973420f",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3467735,
+        "known_for_department": "Acting",
+        "name": "Jánosné Oláh",
+        "original_name": "Jánosné Oláh",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "cast_id": 1019,
+        "character": "",
+        "credit_id": "6231f5331a3248001cea3f57",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3467737,
+        "known_for_department": "Acting",
+        "name": "Adrienne Kadar",
+        "original_name": "Adrienne Kadar",
+        "popularity": 0.0623,
+        "profile_path": null,
+        "cast_id": 1021,
+        "character": "",
+        "credit_id": "6231f5481a324800454fd27c",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2497791,
+        "known_for_department": "Acting",
+        "name": "Krisztina Horváth",
+        "original_name": "Krisztina Horváth",
+        "popularity": 0.0404,
+        "profile_path": null,
+        "cast_id": 1022,
+        "character": "",
+        "credit_id": "6231f6343c3ab00076441b41",
+        "order": 9
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 85637,
+        "known_for_department": "Directing",
+        "name": "Béla Tarr",
+        "original_name": "Tarr Béla",
+        "popularity": 0.626,
+        "profile_path": "/71o40gwwvIeyI52KvIobGqGteXX.jpg",
+        "credit_id": "52fe475fc3a36847f813227d",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 85637,
+        "known_for_department": "Directing",
+        "name": "Béla Tarr",
+        "original_name": "Tarr Béla",
+        "popularity": 0.626,
+        "profile_path": "/71o40gwwvIeyI52KvIobGqGteXX.jpg",
+        "credit_id": "52fe475fc3a36847f8132277",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 56314,
+        "known_for_department": "Editing",
+        "name": "Anna Kornis",
+        "original_name": "Anna Kornis",
+        "popularity": 0.1002,
+        "profile_path": null,
+        "credit_id": "596d16a192514108d0003f62",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1546056,
+        "known_for_department": "Sound",
+        "name": "Szabolcs Szörényi",
+        "original_name": "Szabolcs Szörényi",
+        "popularity": 0.0534,
+        "profile_path": "/v2t2gdbGAd5S3ydRNfOMAYfZrel.jpg",
+        "credit_id": "596d16c892514108c4003e63",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1853357,
+        "known_for_department": "Production",
+        "name": "János Bódis",
+        "original_name": "János Bódis",
+        "popularity": 0.0261,
+        "profile_path": null,
+        "credit_id": "596d16af9251410893003d5c",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1678762,
+        "known_for_department": "Sound",
+        "name": "Mihály Móricz",
+        "original_name": "Móricz Mihály",
+        "popularity": 0.0938,
+        "profile_path": null,
+        "credit_id": "596d16c09251410a12003c21",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1042221,
+        "known_for_department": "Camera",
+        "name": "Ferenc Pap",
+        "original_name": "Pap Ferenc",
+        "popularity": 0.1,
+        "profile_path": null,
+        "credit_id": "596d1687c3a3682c0f003eb2",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1571615,
+        "known_for_department": "Sound",
+        "name": "János Bródy",
+        "original_name": "János Bródy",
+        "popularity": 0.0352,
+        "profile_path": "/mdyGH6ymcbavFA8uAPhw8V1pOe3.jpg",
+        "credit_id": "596d16b9c3a3682c0f003ee8",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1853360,
+        "known_for_department": "Sound",
+        "name": "László Tolcsvay",
+        "original_name": "László Tolcsvay",
+        "popularity": 0.0409,
+        "profile_path": null,
+        "credit_id": "596d16d79251410a31003c9c",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1853359,
+        "known_for_department": "Sound",
+        "name": "Béla Tolcsvay",
+        "original_name": "Béla Tolcsvay",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "596d16cfc3a3682a5c003c26",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "ES",
+        "title": "Nido familiar",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "FR",
+        "title": "Le nid familial",
+        "type": ""
+      }
+    ]
+  }
+}

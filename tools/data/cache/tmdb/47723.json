@@ -1,0 +1,666 @@
+{
+  "adult": false,
+  "backdrop_path": "/bwqWufPLPVHQbZYowNkRURbWX38.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10770,
+      "name": "TV Movie"
+    }
+  ],
+  "homepage": "",
+  "id": 47723,
+  "imdb_id": "tt0119496",
+  "origin_country": [
+    "DK",
+    "SE"
+  ],
+  "original_language": "sv",
+  "original_title": "Larmar och gör sig till",
+  "overview": "In 1925, eccentric inventor and Franz Schubert devotee Carl Åkerblom is confined to a psychiatric ward in Uppsala after attempting to murder his fiancée. Obsessed with death, music, and the future of cinema, he joins forces with a fellow patient to create a “living talkie,” an experimental film performance with live-spoken dialogue. As the project unfolds, art, madness, and mortality collide in a tragicomic reflection on creativity and human frailty.",
+  "popularity": 0.2035,
+  "poster_path": "/bMSjFvrr03h7DNyKs6rsYK9ihcs.jpg",
+  "production_companies": [
+    {
+      "id": 119,
+      "logo_path": "/1di2gITGUZr730AMuMKiCrP90Vl.png",
+      "name": "DR",
+      "origin_country": "DK"
+    },
+    {
+      "id": 17549,
+      "logo_path": null,
+      "name": "Nordiska TV-Samarbetsfonden",
+      "origin_country": ""
+    },
+    {
+      "id": 157,
+      "logo_path": "/s537keIoi6wUOU8E9ztWaV2DY1H.png",
+      "name": "SVT Drama",
+      "origin_country": "SE"
+    },
+    {
+      "id": 1583,
+      "logo_path": "/gKP4egMJOi5rksdnplfPV1wa0sd.png",
+      "name": "RAI",
+      "origin_country": "IT"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DK",
+      "name": "Denmark"
+    },
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    },
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    },
+    {
+      "iso_3166_1": "NO",
+      "name": "Norway"
+    },
+    {
+      "iso_3166_1": "SE",
+      "name": "Sweden"
+    }
+  ],
+  "release_date": "1998-10-01",
+  "revenue": 0,
+  "runtime": 119,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "In the Presence of a Clown",
+  "video": false,
+  "vote_average": 6.984,
+  "vote_count": 32,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3853,
+        "known_for_department": "Acting",
+        "name": "Börje Ahlstedt",
+        "original_name": "Börje Ahlstedt",
+        "popularity": 0.5119,
+        "profile_path": "/vTSfBV4IY1DozY70l3M3oy5K6sH.jpg",
+        "cast_id": 1,
+        "character": "Uncle Carl Åkerblom",
+        "credit_id": "52fe4742c3a36847f812be05",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5024,
+        "known_for_department": "Acting",
+        "name": "Marie Richardson",
+        "original_name": "Marie Richardson",
+        "popularity": 0.7048,
+        "profile_path": "/y2zq5XV66m5IKGkPbT5VZ8n0s23.jpg",
+        "cast_id": 2,
+        "character": "Pauline Thibualt",
+        "credit_id": "52fe4742c3a36847f812be09",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 38127,
+        "known_for_department": "Acting",
+        "name": "Erland Josephson",
+        "original_name": "Erland Josephson",
+        "popularity": 0.7385,
+        "profile_path": "/dopG1nAzyT23DMAPyPoUuwbZs4a.jpg",
+        "cast_id": 3,
+        "character": "Osvald Vogler",
+        "credit_id": "52fe4742c3a36847f812be0d",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 33190,
+        "known_for_department": "Acting",
+        "name": "Pernilla August",
+        "original_name": "Pernilla August",
+        "popularity": 0.8886,
+        "profile_path": "/zICu2ItUmKh0dUcWtee49KpNDMq.jpg",
+        "cast_id": 4,
+        "character": "Karin Bergman",
+        "credit_id": "52fe4742c3a36847f812be11",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 235209,
+        "known_for_department": "Acting",
+        "name": "Anita Björk",
+        "original_name": "Anita Björk",
+        "popularity": 0.1474,
+        "profile_path": "/5FpyVlr6LcJLBZSj4ewtkCmfmKw.jpg",
+        "cast_id": 5,
+        "character": "Anna Åkerblom",
+        "credit_id": "52fe4742c3a36847f812be15",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 70352,
+        "known_for_department": "Acting",
+        "name": "Agneta Ekmanner",
+        "original_name": "Agneta Ekmanner",
+        "popularity": 0.2994,
+        "profile_path": "/wgA9zkSVixZBNWyJwGBAPJazBca.jpg",
+        "cast_id": 6,
+        "character": "Klovnen Rigmor",
+        "credit_id": "52fe4742c3a36847f812be19",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 79196,
+        "known_for_department": "Acting",
+        "name": "Lena Endre",
+        "original_name": "Lena Endre",
+        "popularity": 0.6968,
+        "profile_path": "/hWrqTNGRnXNhAIuVkOyxIhyCW1I.jpg",
+        "cast_id": 7,
+        "character": "Märta Lundberg",
+        "credit_id": "52fe4742c3a36847f812be1d",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 239349,
+        "known_for_department": "Acting",
+        "name": "Gunnel Fred",
+        "original_name": "Gunnel Fred",
+        "popularity": 0.3936,
+        "profile_path": "/qpszltzBSTK0smwpfpGFJvN24um.jpg",
+        "cast_id": 8,
+        "character": "Emma Vogler",
+        "credit_id": "52fe4742c3a36847f812be21",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 73087,
+        "known_for_department": "Acting",
+        "name": "Anna Björk",
+        "original_name": "Anna Björk",
+        "popularity": 0.2093,
+        "profile_path": "/ry2HxLtyVORWnvKzXnkCeu3RzZI.jpg",
+        "cast_id": 9,
+        "character": "Mia Falk",
+        "credit_id": "52fe4742c3a36847f812be25",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 53,
+        "known_for_department": "Acting",
+        "name": "Peter Stormare",
+        "original_name": "Peter Stormare",
+        "popularity": 3.0676,
+        "profile_path": "/1rtpuUqBV29jDc1huUhtjGDbEwn.jpg",
+        "cast_id": 10,
+        "character": "Petrus Landahl",
+        "credit_id": "52fe4742c3a36847f812be29",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2204445,
+        "known_for_department": "Acting",
+        "name": "Gerthi Kulle",
+        "original_name": "Gerthi Kulle",
+        "popularity": 0.1171,
+        "profile_path": null,
+        "cast_id": 13,
+        "character": "Sister Stella",
+        "credit_id": "5c289ded0e0a26790d369bfa",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1609137,
+        "known_for_department": "Acting",
+        "name": "Johan Lindell",
+        "original_name": "Johan Lindell",
+        "popularity": 0.1094,
+        "profile_path": "/oeetblLtCzH623X57dAR5mvBbdS.jpg",
+        "cast_id": 14,
+        "character": "Johan Egerman",
+        "credit_id": "5c289dff92514138dfc05a49",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 236040,
+        "known_for_department": "Acting",
+        "name": "Folke Asplund",
+        "original_name": "Folke Asplund",
+        "popularity": 0.1396,
+        "profile_path": null,
+        "cast_id": 15,
+        "character": "Fredrik Blom",
+        "credit_id": "5c289e0e0e0a26791f36abc8",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 6661,
+        "known_for_department": "Acting",
+        "name": "Inga Landgré",
+        "original_name": "Inga Landgré",
+        "popularity": 0.3763,
+        "profile_path": "/dp6F73XAbjtki5zZoUiOcq6sS0Z.jpg",
+        "cast_id": 16,
+        "character": "Alma Berglund",
+        "credit_id": "5c289e26c3a36808dfd2dd24",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1168428,
+        "known_for_department": "Acting",
+        "name": "Alf Nilsson",
+        "original_name": "Alf Nilsson",
+        "popularity": 0.1301,
+        "profile_path": "/rWujsdcFG4j5XUAavlds4uKuE50.jpg",
+        "cast_id": 17,
+        "character": "Stefan Larsson",
+        "credit_id": "5c289e360e0a264f4233a83b",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1158329,
+        "known_for_department": "Acting",
+        "name": "Harriet Nordlund",
+        "original_name": "Harriet Nordlund",
+        "popularity": 0.0168,
+        "profile_path": null,
+        "cast_id": 18,
+        "character": "Karin Persson",
+        "credit_id": "5c289e470e0a26790d369c7b",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 91454,
+        "known_for_department": "Acting",
+        "name": "Tord Peterson",
+        "original_name": "Tord Peterson",
+        "popularity": 0.3037,
+        "profile_path": "/yO1nZgiFPQeikSXsgIaN8nuGKLZ.jpg",
+        "cast_id": 19,
+        "character": "Algot Frövik",
+        "credit_id": "5c289e6d92514138e5c0364a",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 70361,
+        "known_for_department": "Acting",
+        "name": "Birgitta Pettersson",
+        "original_name": "Birgitta Pettersson",
+        "popularity": 0.1413,
+        "profile_path": "/aPdYBqa7T4QrxLVrFuqEDyu6oQx.jpg",
+        "cast_id": 20,
+        "character": "Hanna Apelblad",
+        "credit_id": "5c289e7c92514138dfc05add",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3118654,
+        "known_for_department": "Acting",
+        "name": "Sticko Attermark",
+        "original_name": "Sticko Attermark",
+        "popularity": 0,
+        "profile_path": null,
+        "cast_id": 40,
+        "character": "Mental patient",
+        "credit_id": "60bfbd04fdc146005824df4a",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6648,
+        "known_for_department": "Directing",
+        "name": "Ingmar Bergman",
+        "original_name": "Ingmar Bergman",
+        "popularity": 1.433,
+        "profile_path": "/nkmOaXNRoioViN9OQf2n9Iu6akA.jpg",
+        "cast_id": 41,
+        "character": "Mental patient",
+        "credit_id": "60bfbd0b13a3880059de010a",
+        "order": 19
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6648,
+        "known_for_department": "Directing",
+        "name": "Ingmar Bergman",
+        "original_name": "Ingmar Bergman",
+        "popularity": 1.433,
+        "profile_path": "/nkmOaXNRoioViN9OQf2n9Iu6akA.jpg",
+        "credit_id": "52fe4742c3a36847f812be2f",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6648,
+        "known_for_department": "Directing",
+        "name": "Ingmar Bergman",
+        "original_name": "Ingmar Bergman",
+        "popularity": 1.433,
+        "profile_path": "/nkmOaXNRoioViN9OQf2n9Iu6akA.jpg",
+        "credit_id": "52fe4742c3a36847f812be35",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1540074,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Cecilia Drott",
+        "original_name": "Cecilia Drott",
+        "popularity": 0.083,
+        "profile_path": null,
+        "credit_id": "60bfb8c40bc5290029ea0ff1",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1882742,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Christina Sjöblom",
+        "original_name": "Christina Sjöblom",
+        "popularity": 0.0579,
+        "profile_path": null,
+        "credit_id": "60bfb8cfeb79c2007819822b",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2204449,
+        "known_for_department": "Sound",
+        "name": "Göte Carlsson",
+        "original_name": "Göte Carlsson",
+        "popularity": 0.042,
+        "profile_path": null,
+        "credit_id": "5c289f5792514138e1c047b8",
+        "department": "Sound",
+        "job": "Sound Engineer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2204448,
+        "known_for_department": "Sound",
+        "name": "Magnus Berglid",
+        "original_name": "Magnus Berglid",
+        "popularity": 0.0731,
+        "profile_path": null,
+        "credit_id": "5c289f250e0a26790f36a491",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1540074,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Cecilia Drott",
+        "original_name": "Cecilia Drott",
+        "popularity": 0.083,
+        "profile_path": null,
+        "credit_id": "5c289ee492514138e5c036bd",
+        "department": "Costume & Make-Up",
+        "job": "Wigmaker"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2114094,
+        "known_for_department": "Editing",
+        "name": "Gunnar Frisell",
+        "original_name": "Gunnar Frisell",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "5c289f7692514138e1c047d2",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 31193,
+        "known_for_department": "Camera",
+        "name": "Tony Forsberg",
+        "original_name": "Tony Forsberg",
+        "popularity": 0.1719,
+        "profile_path": "/oXEWC290BLtBwuhOtYOIeOvd05S.jpg",
+        "credit_id": "5c289ea9c3a3684a15d0ce52",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1882742,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Christina Sjöblom",
+        "original_name": "Christina Sjöblom",
+        "popularity": 0.0579,
+        "profile_path": null,
+        "credit_id": "5c289ef092514138dfc05b7b",
+        "department": "Costume & Make-Up",
+        "job": "Wigmaker"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1073418,
+        "known_for_department": "Writing",
+        "name": "Antonia Pyk",
+        "original_name": "Antonia Pyk",
+        "popularity": 0.2656,
+        "profile_path": "/fqUmBqMaB12NBYlbt1nMHFwFx1V.jpg",
+        "credit_id": "5c289f1292514138e5c036fe",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 46871,
+        "known_for_department": "Editing",
+        "name": "Sylvia Ingemarsson",
+        "original_name": "Sylvia Ingemarsson",
+        "popularity": 0.0861,
+        "profile_path": null,
+        "credit_id": "5c289ec10e0a26792a369e88",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1882750,
+        "known_for_department": "Sound",
+        "name": "Göran Nylander",
+        "original_name": "Göran Nylander",
+        "popularity": 0.0256,
+        "profile_path": null,
+        "credit_id": "5c289f65c3a36808dfd2deb5",
+        "department": "Sound",
+        "job": "Sound Engineer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2204450,
+        "known_for_department": "Sound",
+        "name": "Susanne Kirschner",
+        "original_name": "Susanne Kirschner",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "5c289f8292514138dac04f8f",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1152384,
+        "known_for_department": "Production",
+        "name": "Pia Ehrnvall",
+        "original_name": "Pia Ehrnvall",
+        "popularity": 0.1152,
+        "profile_path": null,
+        "credit_id": "5c289e92c3a36808dfd2dddd",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1400796,
+        "known_for_department": "Sound",
+        "name": "Gábor Pasztor",
+        "original_name": "Gábor Pasztor",
+        "popularity": 0.1664,
+        "profile_path": null,
+        "credit_id": "5c289f8d92514138d7c02fa6",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1152381,
+        "known_for_department": "Production",
+        "name": "Måns Reuterswärd",
+        "original_name": "Måns Reuterswärd",
+        "popularity": 0.083,
+        "profile_path": null,
+        "credit_id": "5c289e9f0e0a26793036bb68",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1895729,
+        "known_for_department": "Art",
+        "name": "Göran Wassberg",
+        "original_name": "Göran Wassberg",
+        "popularity": 0.0261,
+        "profile_path": null,
+        "credit_id": "5c289eccc3a3683a59d3cff7",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2204446,
+        "known_for_department": "Camera",
+        "name": "Irene Wiklund",
+        "original_name": "Irene Wiklund",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "5c289eb5c3a3684a15d0ce6d",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 11237,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Mette Möller",
+        "original_name": "Mette Möller",
+        "popularity": 0.1602,
+        "profile_path": null,
+        "credit_id": "5c289ed90e0a26793036bbaf",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2204447,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Mona Tellström-Berg",
+        "original_name": "Mona Tellström-Berg",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "5c289f00c3a3683a70d3f13a",
+        "department": "Costume & Make-Up",
+        "job": "Wigmaker"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "US",
+        "title": "In the Presence of a Clown",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "PT",
+        "title": "Na Presença do Palhaço",
+        "type": "Portuguese"
+      }
+    ]
+  }
+}

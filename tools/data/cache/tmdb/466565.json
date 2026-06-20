@@ -1,0 +1,632 @@
+{
+  "adult": false,
+  "backdrop_path": "/4ioXfbRTllE0YsZsBlr7fBTUr4l.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ],
+  "homepage": "",
+  "id": 466565,
+  "imdb_id": "tt7323600",
+  "origin_country": [
+    "AT",
+    "DE"
+  ],
+  "original_language": "de",
+  "original_title": "Hagazussa",
+  "overview": "In the 15th century, a young goatherd living alone in a mountain hut feels a dark presence in the woods.",
+  "popularity": 0.6729,
+  "poster_path": "/qxUiwpRKagcNHFlly5IpcbX0QPI.jpg",
+  "production_companies": [
+    {
+      "id": 31052,
+      "logo_path": "/pJgQoO1PyJdhOP1UOrVsDeolYw7.png",
+      "name": "Deutsche Film- und Fernsehakademie Berlin (DFFB)",
+      "origin_country": "DE"
+    },
+    {
+      "id": 113782,
+      "logo_path": null,
+      "name": "Retina Factory",
+      "origin_country": "DE"
+    },
+    {
+      "id": 1251,
+      "logo_path": "/fc0O0mvjl8PbHgZXXY2VgPYos1Z.png",
+      "name": "ARD",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "AT",
+      "name": "Austria"
+    },
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "release_date": "2018-05-17",
+  "revenue": 0,
+  "runtime": 102,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Released",
+  "tagline": "A Heathen's Curse.",
+  "title": "Hagazussa",
+  "video": false,
+  "vote_average": 5.7,
+  "vote_count": 266,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1852039,
+        "known_for_department": "Acting",
+        "name": "Aleksandra Cwen",
+        "original_name": "Aleksandra Cwen",
+        "popularity": 0.0875,
+        "profile_path": "/buEyYEG6N6NqY6RcOF0nURuTbwY.jpg",
+        "cast_id": 1,
+        "character": "Albrun",
+        "credit_id": "596a5f3d92514136a8014b59",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 56702,
+        "known_for_department": "Acting",
+        "name": "Claudia Martini",
+        "original_name": "Claudia Martini",
+        "popularity": 0.2922,
+        "profile_path": "/4qMAfjykvPdk6jwi25P68jnM82m.jpg",
+        "cast_id": 2,
+        "character": "Mother",
+        "credit_id": "596a5f48c3a368375700b606",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1168352,
+        "known_for_department": "Acting",
+        "name": "Tanja Petrovsky",
+        "original_name": "Tanja Petrovsky",
+        "popularity": 0.0709,
+        "profile_path": "/e4VQyGaZCTgC5bvyw6ebl3KLHff.jpg",
+        "cast_id": 3,
+        "character": "Swinda",
+        "credit_id": "596a5f55925141486b00ef9b",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3738,
+        "known_for_department": "Acting",
+        "name": "Haymon Maria Buttinger",
+        "original_name": "Haymon Maria Buttinger",
+        "popularity": 0.4022,
+        "profile_path": "/hBpdnFZYcKxqvpZaoGwWUC1ADxw.jpg",
+        "cast_id": 9,
+        "character": "Minister",
+        "credit_id": "5ac7ce8392514162a402cdab",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2017494,
+        "known_for_department": "Acting",
+        "name": "Celina Peter",
+        "original_name": "Celina Peter",
+        "popularity": 0.0261,
+        "profile_path": "/zeZmqiheRlMwuedG2pedVQktrky.jpg",
+        "cast_id": 10,
+        "character": "Young Albrun",
+        "credit_id": "5ac7ce900e0a2649650307de",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2100756,
+        "known_for_department": "Acting",
+        "name": "Gerdi Marlen Simon",
+        "original_name": "Gerdi Marlen Simon",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 17,
+        "character": "Daughter",
+        "credit_id": "5b68489e92514140680c07c9",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2100758,
+        "known_for_department": "Acting",
+        "name": "Franz Stadler",
+        "original_name": "Franz Stadler",
+        "popularity": 0.0362,
+        "profile_path": null,
+        "cast_id": 18,
+        "character": "Wurzelsepp",
+        "credit_id": "5b68492f92514140640c4748",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1115432,
+        "known_for_department": "Acting",
+        "name": "Thomas Petruo",
+        "original_name": "Thomas Petruo",
+        "popularity": 0.2139,
+        "profile_path": "/8521LExMmneqKU2filUCsZM8zg3.jpg",
+        "cast_id": 19,
+        "character": "Village Doctor",
+        "credit_id": "5b6849940e0a267eed0d40ad",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2100761,
+        "known_for_department": "Acting",
+        "name": "Judith Geerts",
+        "original_name": "Judith Geerts",
+        "popularity": 0.044,
+        "profile_path": null,
+        "cast_id": 20,
+        "character": "Nun",
+        "credit_id": "5b684a3ec3a36818880cbe15",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2100763,
+        "known_for_department": "Acting",
+        "name": "Kilian Abeltshauser",
+        "original_name": "Kilian Abeltshauser",
+        "popularity": 0.0362,
+        "profile_path": null,
+        "cast_id": 21,
+        "character": "Farmer",
+        "credit_id": "5b684a880e0a267ef80cde01",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2100764,
+        "known_for_department": "Acting",
+        "name": "Maximilian Hinterberger",
+        "original_name": "Maximilian Hinterberger",
+        "popularity": 0,
+        "profile_path": null,
+        "cast_id": 22,
+        "character": "Village Boy #1",
+        "credit_id": "5b684f330e0a267ee70cf933",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2100765,
+        "known_for_department": "Acting",
+        "name": "Richard Gerum",
+        "original_name": "Richard Gerum",
+        "popularity": 0,
+        "profile_path": null,
+        "cast_id": 23,
+        "character": "Village Boy #2",
+        "credit_id": "5b684f73c3a368189d0c2a70",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2100766,
+        "known_for_department": "Acting",
+        "name": "Leona Berner",
+        "original_name": "Leona Berner",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 24,
+        "character": "Village Girl #1",
+        "credit_id": "5b684fbcc3a3685375041929",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2100767,
+        "known_for_department": "Acting",
+        "name": "Fabienne Peter",
+        "original_name": "Fabienne Peter",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 25,
+        "character": "Village Girl #2",
+        "credit_id": "5b684fe592514140680c38db",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2100768,
+        "known_for_department": "Acting",
+        "name": "Malena Berner",
+        "original_name": "Malena Berner",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 26,
+        "character": "Village Girl #3",
+        "credit_id": "5b6850240e0a267ef60ca2e9",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2100769,
+        "known_for_department": "Acting",
+        "name": "Iris Berner",
+        "original_name": "Iris Berner",
+        "popularity": 0.0362,
+        "profile_path": null,
+        "cast_id": 27,
+        "character": "Village Mother #1",
+        "credit_id": "5b68504bc3a36818860f3d9d",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2100770,
+        "known_for_department": "Acting",
+        "name": "Andrea Esletzbichler",
+        "original_name": "Andrea Esletzbichler",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 28,
+        "character": "Village Mother #2",
+        "credit_id": "5b68509b0e0a267ef60ca4ca",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2100772,
+        "known_for_department": "Acting",
+        "name": "Martin Eisl",
+        "original_name": "Martin Eisl",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 29,
+        "character": "Coachman",
+        "credit_id": "5b6850ed0e0a267ee70d1065",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2100774,
+        "known_for_department": "Acting",
+        "name": "Benjamin Travincek",
+        "original_name": "Benjamin Travincek",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 30,
+        "character": "Pallbearer #1",
+        "credit_id": "5b6851510e0a267ef80cf3e8",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2017495,
+        "known_for_department": "Production",
+        "name": "Simon Lubinski",
+        "original_name": "Simon Lubinski",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "cast_id": 31,
+        "character": "Pallbearer #2",
+        "credit_id": "5b685182925141404f0b3188",
+        "order": 19
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2035504,
+        "known_for_department": "Sound",
+        "name": "Silvio Naumann",
+        "original_name": "Silvio Naumann",
+        "popularity": 0.0641,
+        "profile_path": null,
+        "credit_id": "60886c71ffc9de00406dd131",
+        "department": "Sound",
+        "job": "Foley Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1413962,
+        "known_for_department": "Sound",
+        "name": "Peter Roigk",
+        "original_name": "Peter Roigk",
+        "popularity": 0.0934,
+        "profile_path": null,
+        "credit_id": "60886c772da8460057c7f2b2",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3069906,
+        "known_for_department": "Sound",
+        "name": "Mmmd",
+        "original_name": "Mmmd",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "60886c2f54a09800294cac34",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2963975,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Janina Kuhlmann",
+        "original_name": "Janina Kuhlmann",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "60886c4d2a210c0058d2f279",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2239116,
+        "known_for_department": "Sound",
+        "name": "Sven Mühlender",
+        "original_name": "Sven Mühlender",
+        "popularity": 0.062,
+        "profile_path": null,
+        "credit_id": "60886c5f904f6d002a18647e",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2680629,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Claus Grüßner",
+        "original_name": "Claus Grüßner",
+        "popularity": 0.0256,
+        "profile_path": null,
+        "credit_id": "60886c429a8a8a002891841c",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1852038,
+        "known_for_department": "Directing",
+        "name": "Lukas Feigelfeld",
+        "original_name": "Lukas Feigelfeld",
+        "popularity": 0.06,
+        "profile_path": "/lpwDedxheClmM5MGHND9yDOfMKn.jpg",
+        "credit_id": "596a5f2f925141486b00ef79",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1904096,
+        "known_for_department": "Sound",
+        "name": "Niklas Kammertöns",
+        "original_name": "Niklas Kammertöns",
+        "popularity": 0.0834,
+        "profile_path": null,
+        "credit_id": "59de5a36c3a368623e08ce7e",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1904095,
+        "known_for_department": "Camera",
+        "name": "Mariel Baqueiro",
+        "original_name": "Mariel Baqueiro",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "59de59e9925141251f091fc6",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1686636,
+        "known_for_department": "Editing",
+        "name": "Jörg Volkmar",
+        "original_name": "Jörg Volkmar",
+        "popularity": 0.0997,
+        "profile_path": null,
+        "credit_id": "59de5948925141251f091f07",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 71737,
+        "known_for_department": "Production",
+        "name": "Myriam Eichler",
+        "original_name": "Myriam Eichler",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "5ac7ceb90e0a26497102dbb6",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2017497,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Katrin Wolferman",
+        "original_name": "Katrin Wolferman",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "5ac7cee7c3a36834e80319e9",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1852038,
+        "known_for_department": "Directing",
+        "name": "Lukas Feigelfeld",
+        "original_name": "Lukas Feigelfeld",
+        "popularity": 0.06,
+        "profile_path": "/lpwDedxheClmM5MGHND9yDOfMKn.jpg",
+        "credit_id": "5ac7ceb1c3a36834d703247f",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1852038,
+        "known_for_department": "Directing",
+        "name": "Lukas Feigelfeld",
+        "original_name": "Lukas Feigelfeld",
+        "popularity": 0.06,
+        "profile_path": "/lpwDedxheClmM5MGHND9yDOfMKn.jpg",
+        "credit_id": "5ac7cea392514162b102c656",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2017495,
+        "known_for_department": "Production",
+        "name": "Simon Lubinski",
+        "original_name": "Simon Lubinski",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "credit_id": "5ac7cec292514162a8029e2f",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2017496,
+        "known_for_department": "Art",
+        "name": "Dana Dumann",
+        "original_name": "Dana Dumann",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "5ac7cede0e0a26496e03107a",
+        "department": "Art",
+        "job": "Production Design"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "DE",
+        "title": "Hagazussa - Der Hexenfluch",
+        "type": "new title"
+      },
+      {
+        "iso_3166_1": "DE",
+        "title": "Hagazussa: A Heathen's Curse",
+        "type": "World-wide English title"
+      },
+      {
+        "iso_3166_1": "BR",
+        "title": "A Maldição da Bruxa",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "FR",
+        "title": "Incantations",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "HU",
+        "title": "Árnyék",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "PA",
+        "title": "La duodécima noche",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "RU",
+        "title": "Ведьмы",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "CA",
+        "title": "Hagazussa",
+        "type": "english title"
+      },
+      {
+        "iso_3166_1": "UA",
+        "title": "Відьми",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "GB",
+        "title": "Hagazussa",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "US",
+        "title": "Hagazussa",
+        "type": ""
+      }
+    ]
+  }
+}

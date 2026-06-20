@@ -1,0 +1,509 @@
+{
+  "adult": false,
+  "backdrop_path": "/jBC7DPifEcOLoPB8JxIHGug3khv.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 314220,
+  "imdb_id": "tt3526706",
+  "origin_country": [
+    "GR"
+  ],
+  "original_language": "el",
+  "original_title": "Chevalier",
+  "overview": "In the middle of the Aegean Sea, six men on a fishing trip on a luxury yacht decide to play a game. During this game, things will be compared. Things will be measured. Songs will be butchered, and blood will be tested. Friends will become rivals and rivals will become hungry. But at the end of the journey, when the game is over, the man who wins will be the best man. And he will wear on his smallest finger the victory ring: the Chevalier.",
+  "popularity": 0.4375,
+  "poster_path": "/RnL5hL9f5tZl84Mqf9EtYaSY2V.jpg",
+  "production_companies": [
+    {
+      "id": 46563,
+      "logo_path": null,
+      "name": "Haos Film",
+      "origin_country": "GR"
+    },
+    {
+      "id": 19246,
+      "logo_path": "/4zrEZfTf94tyG4wRB599gRS0reU.png",
+      "name": "Faliro House Productions",
+      "origin_country": "GR"
+    },
+    {
+      "id": 7254,
+      "logo_path": "/hDJO96mUfqtB9ia7ef7mEvguPxl.png",
+      "name": "Greek Film Centre",
+      "origin_country": "GR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GR",
+      "name": "Greece"
+    }
+  ],
+  "release_date": "2015-11-26",
+  "revenue": 0,
+  "runtime": 105,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Greek",
+      "iso_639_1": "el",
+      "name": "ελληνικά"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "A buddy movie without the buddies.",
+  "title": "Chevalier",
+  "video": false,
+  "vote_average": 5.6,
+  "vote_count": 104,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 118927,
+        "known_for_department": "Acting",
+        "name": "Vangelis Mourikis",
+        "original_name": "Βαγγέλης Μουρίκης",
+        "popularity": 0.4765,
+        "profile_path": "/vjyCvNNLB4HMHvfpya7dtZTJuNg.jpg",
+        "cast_id": 7,
+        "character": "Josef",
+        "credit_id": "565dfd68c3a3687ced0036fd",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1118662,
+        "known_for_department": "Acting",
+        "name": "Makis Papadimitriou",
+        "original_name": "Μάκης Παπαδημητρίου",
+        "popularity": 0.3551,
+        "profile_path": "/qfGnhj9ZVOSuu1ztm4JNSORIDCs.jpg",
+        "cast_id": 24,
+        "character": "Dimitris",
+        "credit_id": "57391abcc3a3685fa800053b",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1275702,
+        "known_for_department": "Acting",
+        "name": "Sakis Rouvas",
+        "original_name": "Σάκης Ρουβάς",
+        "popularity": 0.2604,
+        "profile_path": "/tt0Tu8ZLZFEl1a7MmX7TrFQrd1x.jpg",
+        "cast_id": 9,
+        "character": "Hristos",
+        "credit_id": "5662cb9fc3a3682bcd003612",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1418981,
+        "known_for_department": "Acting",
+        "name": "Kostas Filippoglou",
+        "original_name": "Κώστας Φιλίππογλου",
+        "popularity": 0.279,
+        "profile_path": "/f9bGWLBWS31nLpE9aJSNPftEUkl.jpg",
+        "cast_id": 22,
+        "character": "Cook",
+        "credit_id": "57391a69c3a368581600171f",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1275641,
+        "known_for_department": "Acting",
+        "name": "Panos Koronis",
+        "original_name": "Πάνος Κορώνης",
+        "popularity": 0.3121,
+        "profile_path": "/s74kfWjMVWLxLcGqh40irJzx1lb.jpg",
+        "cast_id": 6,
+        "character": "Giorgos",
+        "credit_id": "565dfd58c3a3687ced0036f6",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1543387,
+        "known_for_department": "Acting",
+        "name": "Yiorgos Kendros",
+        "original_name": "Γιώργος Κέντρος",
+        "popularity": 0.1307,
+        "profile_path": "/fuDlZlvQJILxVJDGehxOm8Sh52F.jpg",
+        "cast_id": 5,
+        "character": "Doctor",
+        "credit_id": "565dfd529251416db0002f8b",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1620753,
+        "known_for_department": "Acting",
+        "name": "Giannis Drakopoulos",
+        "original_name": "Γιάννης Δρακόπουλος",
+        "popularity": 0.2695,
+        "profile_path": "/nhl2uRSthmBPAYgj4OwAyKaj9ft.jpg",
+        "cast_id": 21,
+        "character": "Steward",
+        "credit_id": "57391a53c3a3686bfb000c55",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1324007,
+        "known_for_department": "Acting",
+        "name": "Nikos Orphanos",
+        "original_name": "Νίκος Ορφανός",
+        "popularity": 0.1849,
+        "profile_path": "/nK1LNm93C5UjN3WXbmi3fAwumnX.jpg",
+        "cast_id": 23,
+        "character": "Captain",
+        "credit_id": "57391aa49251414b2e000cd2",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 935654,
+        "known_for_department": "Acting",
+        "name": "Yorgos Pirpassopoulos",
+        "original_name": "Γιώργος Πυρπασόπουλος",
+        "popularity": 0.2882,
+        "profile_path": "/aIJkP19buid0HALQTmbT6GvUpv6.jpg",
+        "cast_id": 29,
+        "character": "Giannis",
+        "credit_id": "633c3726cf48a10082247699",
+        "order": 8
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3636411,
+        "known_for_department": "Art",
+        "name": "Vasilis Marmatakis",
+        "original_name": "Vasilis Marmatakis",
+        "popularity": 0.2161,
+        "profile_path": "/q1cxxRYRxPmVbBgxee4oBhDkobc.jpg",
+        "credit_id": "62dde0925ca7040b2855c02a",
+        "department": "Art",
+        "job": "Graphic Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 122423,
+        "known_for_department": "Directing",
+        "name": "Yorgos Lanthimos",
+        "original_name": "Γιώργος Λάνθιμος",
+        "popularity": 1.3494,
+        "profile_path": "/dvtv8eV1O8Fl385ctOu3sqO2PbD.jpg",
+        "credit_id": "62df3864238513005090dad7",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1128434,
+        "known_for_department": "Camera",
+        "name": "Thimios Bakatakis",
+        "original_name": "Θύμιος Μπακατάκης",
+        "popularity": 0.1548,
+        "profile_path": "/fAb6P0zjPhC2uK5xcX9HQTlmn00.jpg",
+        "credit_id": "62df3ca6d399e6015d2f9bde",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 235125,
+        "known_for_department": "Acting",
+        "name": "Ariane Labed",
+        "original_name": "Ariane Labed",
+        "popularity": 0.6714,
+        "profile_path": "/78QyAml6N1HMuHudmrVlKnJfSQY.jpg",
+        "credit_id": "62e47b99fc5f06005e6e6340",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 236884,
+        "known_for_department": "Directing",
+        "name": "Athina Rachel Tsangari",
+        "original_name": "Athina Rachel Tsangari",
+        "popularity": 0.2805,
+        "profile_path": "/9rb6dWdCJzP6uptGTdq2NmkXx5N.jpg",
+        "credit_id": "54a059859251411d530056ba",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1007616,
+        "known_for_department": "Production",
+        "name": "Christos V. Konstantakopoulos",
+        "original_name": "Christos V. Konstantakopoulos",
+        "popularity": 0.1502,
+        "profile_path": "/fJuXYM27odGs29XUgmEK77mkQkF.jpg",
+        "credit_id": "5504b013c3a36862e50016d3",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 236884,
+        "known_for_department": "Directing",
+        "name": "Athina Rachel Tsangari",
+        "original_name": "Athina Rachel Tsangari",
+        "popularity": 0.2805,
+        "profile_path": "/9rb6dWdCJzP6uptGTdq2NmkXx5N.jpg",
+        "credit_id": "5504aff692514174b00016e1",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 136427,
+        "known_for_department": "Writing",
+        "name": "Efthimis Filippou",
+        "original_name": "Ευθύμης Φιλίππου",
+        "popularity": 0.6994,
+        "profile_path": "/ahr48ZPgUDSK8fVvc6b5yu1vVvW.jpg",
+        "credit_id": "5504afecc3a368256a0016c7",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 933680,
+        "known_for_department": "Production",
+        "name": "Maria Hatzakou",
+        "original_name": "Μαρία Χατζάκου",
+        "popularity": 0.045,
+        "profile_path": null,
+        "credit_id": "5504b02192514174b6001624",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3541133,
+        "known_for_department": "Camera",
+        "name": "Despina Spyrou",
+        "original_name": "Δέσποινα Σπύρου",
+        "popularity": 0.0456,
+        "profile_path": null,
+        "credit_id": "638a65566dc6c0008629aa79",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 147812,
+        "known_for_department": "Camera",
+        "name": "Christos Karamanis",
+        "original_name": "Χρήστος Καραμάνης",
+        "popularity": 0.1095,
+        "profile_path": null,
+        "credit_id": "573919c892514111a80011df",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1620760,
+        "known_for_department": "Directing",
+        "name": "Emmanuela Fragiadaki",
+        "original_name": "Εμμανουέλα Φραγκιαδάκη",
+        "popularity": 0.0306,
+        "profile_path": null,
+        "credit_id": "57391a14c3a3685fa8000503",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1578763,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Daniel Babek",
+        "original_name": "Daniel Babek",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "573919fc925141234100045c",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1620759,
+        "known_for_department": "Sound",
+        "name": "Marilena Orfanou",
+        "original_name": "Marilena Orfanou",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "573919bfc3a368573b001a72",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 147816,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Evi Zafiropoulou",
+        "original_name": "Εύη Ζαφειροπούλου",
+        "popularity": 0.0944,
+        "profile_path": null,
+        "credit_id": "57391a03c3a3685fa80004fd",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 72525,
+        "known_for_department": "Editing",
+        "name": "Yorgos Mavropsaridis",
+        "original_name": "Γιώργος Μαυροψαρίδης",
+        "popularity": 0.3351,
+        "profile_path": "/14I99sGV038xGQxHF6qlCAk2fwX.jpg",
+        "credit_id": "573919e6c3a3684db4001abd",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1211139,
+        "known_for_department": "Art",
+        "name": "Anna Georgiadou",
+        "original_name": "Άννα Γεωργιάδου",
+        "popularity": 0.1021,
+        "profile_path": null,
+        "credit_id": "573919ef92514151a0001a4d",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1373889,
+        "known_for_department": "Production",
+        "name": "Dimitris Birbilis",
+        "original_name": "Δημήτρης Μπιρμπίλης",
+        "popularity": 0.1567,
+        "profile_path": "/fErVTmaNuXeqbiIBR5xEXygbtkO.jpg",
+        "credit_id": "57391a0b925141234100045e",
+        "department": "Production",
+        "job": "Unit Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1620653,
+        "known_for_department": "Editing",
+        "name": "Matthew Johnson",
+        "original_name": "Matthew Johnson",
+        "popularity": 0.0806,
+        "profile_path": null,
+        "credit_id": "573919de92514151a0001a47",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1570069,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Vasileia Rozana",
+        "original_name": "Βασιλεία Ροζάνα",
+        "popularity": 0.2198,
+        "profile_path": null,
+        "credit_id": "573919f59251417917002540",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1570072,
+        "known_for_department": "Directing",
+        "name": "Anna Nikolaou",
+        "original_name": "Anna Nikolaou",
+        "popularity": 0.0646,
+        "profile_path": null,
+        "credit_id": "57391a1bc3a3684db4001ad5",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3636411,
+        "known_for_department": "Art",
+        "name": "Vasilis Marmatakis",
+        "original_name": "Vasilis Marmatakis",
+        "popularity": 0.2161,
+        "profile_path": "/q1cxxRYRxPmVbBgxee4oBhDkobc.jpg",
+        "credit_id": "65cec66bfdf8b7016366a69c",
+        "department": "Art",
+        "job": "Title Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4136623,
+        "known_for_department": "Crew",
+        "name": "Kyriacos Karseras",
+        "original_name": "Κυριάκος Καρσεράς",
+        "popularity": 0.1124,
+        "profile_path": null,
+        "credit_id": "66a3c5adebbba87376ca9f2c",
+        "department": "Crew",
+        "job": "Translator"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  }
+}

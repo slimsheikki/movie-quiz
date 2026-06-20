@@ -1,0 +1,499 @@
+{
+  "adult": false,
+  "backdrop_path": "/9UCHfC9tYojD4mMVBm0boyzYEQq.jpg",
+  "belongs_to_collection": null,
+  "budget": 1000000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 10404,
+  "imdb_id": "tt0101640",
+  "origin_country": [
+    "CN"
+  ],
+  "original_language": "zh",
+  "original_title": "大红灯笼高高挂",
+  "overview": "In 1920s China, 19-year-old Songlian becomes a concubine of a powerful lord and is forced to compete with his three wives for the privileges gained.",
+  "popularity": 3.5635,
+  "poster_path": "/j6MGZpg55cTqlHHwahBtzI2qQg1.jpg",
+  "production_companies": [
+    {
+      "id": 21329,
+      "logo_path": null,
+      "name": "ERA International",
+      "origin_country": "TW"
+    },
+    {
+      "id": 2269,
+      "logo_path": null,
+      "name": "China Film Co-Production",
+      "origin_country": "CN"
+    },
+    {
+      "id": 21330,
+      "logo_path": null,
+      "name": "Century Communications",
+      "origin_country": ""
+    },
+    {
+      "id": 194859,
+      "logo_path": "/pG7MJ556xsjrvVosg4TWmMLWV9v.png",
+      "name": "Salon Films",
+      "origin_country": "HK"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CN",
+      "name": "China"
+    },
+    {
+      "iso_3166_1": "HK",
+      "name": "Hong Kong"
+    },
+    {
+      "iso_3166_1": "TW",
+      "name": "Taiwan"
+    }
+  ],
+  "release_date": "1991-12-18",
+  "revenue": 16600000,
+  "runtime": 125,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "普通话"
+    }
+  ],
+  "status": "Released",
+  "tagline": "China, 1920. One Master, Four Wives.",
+  "title": "Raise the Red Lantern",
+  "video": false,
+  "vote_average": 7.9,
+  "vote_count": 800,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 643,
+        "known_for_department": "Acting",
+        "name": "Gong Li",
+        "original_name": "巩俐",
+        "popularity": 2.6154,
+        "profile_path": "/m3q1rIEdZmOnUVC0MSo1FcIGvp9.jpg",
+        "cast_id": 1,
+        "character": "Songlian",
+        "credit_id": "52fe43689251416c7500f385",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 64987,
+        "known_for_department": "Acting",
+        "name": "He Saifei",
+        "original_name": "何赛飞",
+        "popularity": 1.0145,
+        "profile_path": "/qkd283FzoOHa64VooW7HntyjKhS.jpg",
+        "cast_id": 22,
+        "character": "Meishan",
+        "credit_id": "5330e844c3a3686a7f0006f1",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 64988,
+        "known_for_department": "Acting",
+        "name": "Cao Cuifen",
+        "original_name": "曹翠芬",
+        "popularity": 0.8505,
+        "profile_path": "/3tZqEdZmNIb7SN5xXbrHmLg4WxL.jpg",
+        "cast_id": 16,
+        "character": "Zhuoyun",
+        "credit_id": "52fe43689251416c7500f3c1",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1183504,
+        "known_for_department": "Acting",
+        "name": "Kong Lin",
+        "original_name": "孔琳",
+        "popularity": 1.224,
+        "profile_path": "/iY5RQVQlBZF4XyfUON40qOPWEkb.jpg",
+        "cast_id": 18,
+        "character": "Yan'er",
+        "credit_id": "52fe43689251416c7500f3c9",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6060717,
+        "known_for_department": "Acting",
+        "name": "Zhao Qi",
+        "original_name": "周琦",
+        "popularity": 0.0923,
+        "profile_path": null,
+        "cast_id": 40,
+        "character": "Housekeeper",
+        "credit_id": "69af95a6e2ca3709a080f173",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1183505,
+        "known_for_department": "Acting",
+        "name": "Jin Shuyuan",
+        "original_name": "金淑媛",
+        "popularity": 0.2789,
+        "profile_path": "/tpUYyatZYrc8yaVkhH30G1KxJ7d.jpg",
+        "cast_id": 42,
+        "character": "Yuru",
+        "credit_id": "69c97deece50500bb244e503",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 64989,
+        "known_for_department": "Acting",
+        "name": "Ma Jingwu",
+        "original_name": "马精武",
+        "popularity": 0.9561,
+        "profile_path": "/bGEGcDGhhgY77sj2aUzbHsQAydp.jpg",
+        "cast_id": 14,
+        "character": "Chen Zuoqian",
+        "credit_id": "52fe43689251416c7500f3b9",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1623398,
+        "known_for_department": "Acting",
+        "name": "Cui Zhigang",
+        "original_name": "崔志刚",
+        "popularity": 0.4836,
+        "profile_path": "/sJMDF1sIbGmfZgK6dQy5oT0BCBJ.jpg",
+        "cast_id": 36,
+        "character": "Doctor Gao",
+        "credit_id": "648083c0d2b209012dfb21ed",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1623396,
+        "known_for_department": "Acting",
+        "name": "Chu Xiao",
+        "original_name": "Chu Xiao",
+        "popularity": 0.2067,
+        "profile_path": null,
+        "cast_id": 44,
+        "character": "Feipu",
+        "credit_id": "69c97f57ff1e65f87edd68e0",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1342859,
+        "known_for_department": "Acting",
+        "name": "Cao Zengyin",
+        "original_name": "曹增银",
+        "popularity": 0.2712,
+        "profile_path": "/iA9NthvGde6hmjaH475qed04FEL.jpg",
+        "cast_id": 25,
+        "character": "Old Servant",
+        "credit_id": "5740131ec3a3685f0e0005ec",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1623397,
+        "known_for_department": "Acting",
+        "name": "Ding Weimin",
+        "original_name": "Ding Weimin",
+        "popularity": 0.1249,
+        "profile_path": "/t4qwLV9EkUlMEIW9hVdQkhyjQjS.jpg",
+        "cast_id": 43,
+        "character": "Songlian's Mother",
+        "credit_id": "69c97f1f4d009995503c2684",
+        "order": 10
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 64994,
+        "known_for_department": "Writing",
+        "name": "Naoki Tachikawa",
+        "original_name": "立川直樹",
+        "popularity": 0.1052,
+        "profile_path": null,
+        "credit_id": "52fe43689251416c7500f3af",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 64216,
+        "known_for_department": "Writing",
+        "name": "Su Tong",
+        "original_name": "Su Tong",
+        "popularity": 0.2349,
+        "profile_path": "/q1bLa9da2IYg9cSuFxIz94IemKA.jpg",
+        "credit_id": "52fe43689251416c7500f391",
+        "department": "Writing",
+        "job": "Novel"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 64993,
+        "known_for_department": "Production",
+        "name": "Wenze Zhang",
+        "original_name": "Wenze Zhang",
+        "popularity": 0.0555,
+        "profile_path": null,
+        "credit_id": "52fe43689251416c7500f3a9",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 64991,
+        "known_for_department": "Production",
+        "name": "Yau Fook-Sang",
+        "original_name": "Chiu Fu-Sheng",
+        "popularity": 0.0511,
+        "profile_path": "/yJFlT0vAl1noG1nuucGMAWTvapI.jpg",
+        "credit_id": "52fe43689251416c7500f39d",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 607,
+        "known_for_department": "Directing",
+        "name": "Zhang Yimou",
+        "original_name": "张艺谋",
+        "popularity": 1.7257,
+        "profile_path": "/uU5vECl94jDQYjiRk4eOpVRMEi9.jpg",
+        "credit_id": "52fe43689251416c7500f38b",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 64217,
+        "known_for_department": "Writing",
+        "name": "Ni Zhen",
+        "original_name": "Ni Zhen",
+        "popularity": 0.2033,
+        "profile_path": null,
+        "credit_id": "52fe43689251416c7500f397",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 65285,
+        "known_for_department": "Sound",
+        "name": "Zhao Jiping",
+        "original_name": "Jiping Zhao",
+        "popularity": 0.2098,
+        "profile_path": "/zt2Klnhx4T1u7cDoVvZXNMJpfVV.jpg",
+        "credit_id": "52fe43689251416c7500f3b5",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 64992,
+        "known_for_department": "Directing",
+        "name": "Hou Hsiao-hsien",
+        "original_name": "侯孝賢",
+        "popularity": 0.9214,
+        "profile_path": "/rqP4CEO6toAwGhsj8mmdu3Bta6I.jpg",
+        "credit_id": "52fe43689251416c7500f3a3",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 64996,
+        "known_for_department": "Camera",
+        "name": "Lun Yang",
+        "original_name": "Lun Yang",
+        "popularity": 0.0557,
+        "profile_path": null,
+        "credit_id": "61645c67f9aa470042f4e417",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2528061,
+        "known_for_department": "Sound",
+        "name": "Lanhua Li",
+        "original_name": "Lanhua Li",
+        "popularity": 0.0379,
+        "profile_path": null,
+        "credit_id": "61645c89d18fb900432aa987",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1649923,
+        "known_for_department": "Art",
+        "name": "Tong Huamiao",
+        "original_name": "Tong Huamiao",
+        "popularity": 0.107,
+        "profile_path": null,
+        "credit_id": "61645c7b3a9937008e3e2182",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 28001,
+        "known_for_department": "Camera",
+        "name": "Zhao Fei",
+        "original_name": "Zhao Fei",
+        "popularity": 0.2536,
+        "profile_path": null,
+        "credit_id": "5896087ec3a368089800c91b",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 551534,
+        "known_for_department": "Art",
+        "name": "Cao Juiping",
+        "original_name": "Cao Juiping",
+        "popularity": 0.1796,
+        "profile_path": null,
+        "credit_id": "5eeaf6f2db4ed60034cacc4f",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 64997,
+        "known_for_department": "Editing",
+        "name": "Du Yuan",
+        "original_name": "杜媛",
+        "popularity": 0.3848,
+        "profile_path": null,
+        "credit_id": "5eeaf6dfb046050035097daa",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1649923,
+        "known_for_department": "Art",
+        "name": "Tong Huamiao",
+        "original_name": "Tong Huamiao",
+        "popularity": 0.107,
+        "profile_path": null,
+        "credit_id": "5eeaf7079661fc00355b3cbc",
+        "department": "Costume & Make-Up",
+        "job": "Costume Designer"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "TW",
+        "title": "Da hong deng long gao gao gua",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "CN",
+        "title": "Raise The Red Lantern",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "CN",
+        "title": "Épouses et concubines",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "BR",
+        "title": "Lanternas Vermelhas",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "GB",
+        "title": "Raise the Red Lantern",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "MX",
+        "title": "Esposas y concubinas",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "MX",
+        "title": "La linterna roja",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "IT",
+        "title": "Lanterne rosse",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "KR",
+        "title": "홍등",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "JP",
+        "title": "紅夢",
+        "type": "Japanese title transliteration: “kou mu\""
+      },
+      {
+        "iso_3166_1": "NO",
+        "title": "Bak den røde lykten",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "CN",
+        "title": "Da hong denglong gaogao gua",
+        "type": "pinyin romanization"
+      }
+    ]
+  }
+}

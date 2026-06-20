@@ -1,0 +1,425 @@
+{
+  "adult": false,
+  "backdrop_path": "/jQywhaFDVLPlFw864Bgw5eNtWfi.jpg",
+  "belongs_to_collection": null,
+  "budget": 124797,
+  "genres": [
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ],
+  "homepage": "",
+  "id": 626,
+  "imdb_id": "tt0020530",
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "Un chien andalou",
+  "overview": "Un Chien Andalou is an European avant-garde surrealist film, a collaboration between director Luis Buñuel and Salvador Dali.",
+  "popularity": 1.9564,
+  "poster_path": "/obvE7ElAvCUhKtWFwDSvNbPw9PV.jpg",
+  "production_companies": [
+    {
+      "id": 218841,
+      "logo_path": null,
+      "name": "Billancourt Studios",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "1929-06-05",
+  "revenue": 0,
+  "runtime": 17,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Once upon a time...",
+  "title": "Un Chien Andalou",
+  "video": false,
+  "vote_average": 7.399,
+  "vote_count": 1417,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 8993,
+        "known_for_department": "Acting",
+        "name": "Simone Mareuil",
+        "original_name": "Simone Mareuil",
+        "popularity": 0.1424,
+        "profile_path": "/pAo420kbPWoEvM9UUO6s5lUFchV.jpg",
+        "cast_id": 12,
+        "character": "Young Girl",
+        "credit_id": "52fe4260c3a36847f801986f",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 8992,
+        "known_for_department": "Acting",
+        "name": "Pierre Batcheff",
+        "original_name": "Pierre Batcheff",
+        "popularity": 0.1341,
+        "profile_path": "/wKsEbJjXMUUyHyPNddUYBpM1l76.jpg",
+        "cast_id": 11,
+        "character": "Man",
+        "credit_id": "52fe4260c3a36847f801986b",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 793,
+        "known_for_department": "Directing",
+        "name": "Luis Buñuel",
+        "original_name": "Luis Buñuel",
+        "popularity": 1.2101,
+        "profile_path": "/a7wib1eRG6TyonDXpAbF7PZd0f8.jpg",
+        "cast_id": 9,
+        "character": "Man in Prologue (uncredited)",
+        "credit_id": "52fe4260c3a36847f8019863",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 8988,
+        "known_for_department": "Acting",
+        "name": "Salvador Dalí",
+        "original_name": "Salvador Dalí",
+        "popularity": 0.49,
+        "profile_path": "/ACLbOcxTY6NRsQTylyLPFlXF7K.jpg",
+        "cast_id": 10,
+        "character": "Seminarist (uncredited)",
+        "credit_id": "52fe4260c3a36847f8019867",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 8994,
+        "known_for_department": "Acting",
+        "name": "Robert Hommet",
+        "original_name": "Robert Hommet",
+        "popularity": 0.0756,
+        "profile_path": "/bIZ19BSs6uKynxInhBj7EEG1bqs.jpg",
+        "cast_id": 13,
+        "character": "Young Man (uncredited)",
+        "credit_id": "52fe4260c3a36847f8019873",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 8995,
+        "known_for_department": "Acting",
+        "name": "Marval",
+        "original_name": "Marval",
+        "popularity": 0.048,
+        "profile_path": null,
+        "cast_id": 14,
+        "character": "Seminarist (uncredited)",
+        "credit_id": "52fe4260c3a36847f8019877",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 8996,
+        "known_for_department": "Acting",
+        "name": "Fano Messan",
+        "original_name": "Fano Messan",
+        "popularity": 0.0429,
+        "profile_path": "/ewt4tvr5PvsphUNPQIC8ijZ7gyJ.jpg",
+        "cast_id": 15,
+        "character": "Hermaphrodite (uncredited)",
+        "credit_id": "52fe4260c3a36847f801987b",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 8997,
+        "known_for_department": "Acting",
+        "name": "Jaume Miravitlles",
+        "original_name": "Jaume Miravitlles",
+        "popularity": 0.0815,
+        "profile_path": "/jRpKJEav1k8AU6a6OBHJWIaNdre.jpg",
+        "cast_id": 16,
+        "character": "Fat Seminarist (uncredited)",
+        "credit_id": "52fe4260c3a36847f801987f",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1899217,
+        "known_for_department": "Acting",
+        "name": "Pancho Cossío",
+        "original_name": "Pancho Cossío",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 32,
+        "character": "Stroller (uncredited)",
+        "credit_id": "686888f41b9a8ab1e8a94d0f",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1899222,
+        "known_for_department": "Acting",
+        "name": "Juan Esplandiu",
+        "original_name": "Juan Esplandiu",
+        "popularity": 0.0168,
+        "profile_path": null,
+        "cast_id": 33,
+        "character": "Stroller (uncredited)",
+        "credit_id": "68688911df11df65fa53f6d3",
+        "order": 9
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 793,
+        "known_for_department": "Directing",
+        "name": "Luis Buñuel",
+        "original_name": "Luis Buñuel",
+        "popularity": 1.2101,
+        "profile_path": "/a7wib1eRG6TyonDXpAbF7PZd0f8.jpg",
+        "credit_id": "52fe4260c3a36847f801983b",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 793,
+        "known_for_department": "Directing",
+        "name": "Luis Buñuel",
+        "original_name": "Luis Buñuel",
+        "popularity": 1.2101,
+        "profile_path": "/a7wib1eRG6TyonDXpAbF7PZd0f8.jpg",
+        "credit_id": "6053d1c6c433ea004f437ee5",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 8991,
+        "known_for_department": "Art",
+        "name": "Pierre Schild",
+        "original_name": "Pierre Schild",
+        "popularity": 0.0676,
+        "profile_path": null,
+        "credit_id": "6053d1e39a64c100775717b2",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 793,
+        "known_for_department": "Directing",
+        "name": "Luis Buñuel",
+        "original_name": "Luis Buñuel",
+        "popularity": 1.2101,
+        "profile_path": "/a7wib1eRG6TyonDXpAbF7PZd0f8.jpg",
+        "credit_id": "6053d1b523168c31bceace26",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 793,
+        "known_for_department": "Directing",
+        "name": "Luis Buñuel",
+        "original_name": "Luis Buñuel",
+        "popularity": 1.2101,
+        "profile_path": "/a7wib1eRG6TyonDXpAbF7PZd0f8.jpg",
+        "credit_id": "59d76bea925141252c00c5de",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 8989,
+        "known_for_department": "Camera",
+        "name": "Albert Duverger",
+        "original_name": "Albert Duverger",
+        "popularity": 0.0468,
+        "profile_path": null,
+        "credit_id": "600ff106b2e07400410996a3",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 8988,
+        "known_for_department": "Acting",
+        "name": "Salvador Dalí",
+        "original_name": "Salvador Dalí",
+        "popularity": 0.49,
+        "profile_path": "/ACLbOcxTY6NRsQTylyLPFlXF7K.jpg",
+        "credit_id": "600ff1afcb80280041068588",
+        "department": "Writing",
+        "job": "Screenplay"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "CN",
+        "title": "安达卢西亚之犬",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "US",
+        "title": "An Andalusian Dog",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "AR",
+        "title": "Un perro andaluz",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "BG",
+        "title": "Андалузкото куче",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "BR",
+        "title": "Um Cão Andaluz",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "CZ",
+        "title": "Andaluský Pes",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "DE",
+        "title": "Der andalusische Hund",
+        "type": "TV Title"
+      },
+      {
+        "iso_3166_1": "DE",
+        "title": "Ein andalusischer Hund",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "DK",
+        "title": "Den andalusiske hund",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "ES",
+        "title": "Un perro andaluz",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "FI",
+        "title": "Andalusialainen koira",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "GB",
+        "title": "An Andalusian Dog",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "HR",
+        "title": "Andaluzijski pas",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "HU",
+        "title": "Andalúziai kutya",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "IT",
+        "title": "Un cane andaluso",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "NL",
+        "title": "Een Andalusische hond",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "NO",
+        "title": "Den andalusiske hund",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "PL",
+        "title": "Pies andaluzyjski",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "PT",
+        "title": "Um Cão Andaluz",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "RS",
+        "title": "Andaluzijski pas",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "RU",
+        "title": "Андалузский пёс",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "SE",
+        "title": "Den andalusiska Hunden",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "KR",
+        "title": "안달루시아의 개",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "GR",
+        "title": "Ένας Ανδαλουσιανός Σκύλος",
+        "type": "VHS title"
+      },
+      {
+        "iso_3166_1": "GR",
+        "title": "Ανδαλουσιανός Σκύλος",
+        "type": "Poster title"
+      },
+      {
+        "iso_3166_1": "TR",
+        "title": "Endülüs Köpeği",
+        "type": ""
+      }
+    ]
+  }
+}

@@ -1,0 +1,446 @@
+{
+  "adult": false,
+  "backdrop_path": "/7PfzL69Nc7ywcHjIaAOfDaMIA8R.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 54145,
+  "imdb_id": "tt0079449",
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "Laura, les ombres de l'été",
+  "overview": "A blinded French sculptor completes a statue of a friend's daughter by using his sense of touch.",
+  "popularity": 1.8894,
+  "poster_path": "/tMe9eKcaOXNLGkM01KAB4sGpKfP.jpg",
+  "production_companies": [
+    {
+      "id": 51385,
+      "logo_path": null,
+      "name": "Les Films de l'Alma",
+      "origin_country": "FR"
+    },
+    {
+      "id": 23124,
+      "logo_path": null,
+      "name": "Coral Films",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "1979-11-28",
+  "revenue": 0,
+  "runtime": 95,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Laura",
+  "video": false,
+  "vote_average": 4.724,
+  "vote_count": 29,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 10342,
+        "known_for_department": "Acting",
+        "name": "Maud Adams",
+        "original_name": "Maud Adams",
+        "popularity": 0.828,
+        "profile_path": "/iJMwjbngYgfh4LELSV8HPI9QeJT.jpg",
+        "cast_id": 1,
+        "character": "Sarah",
+        "credit_id": "52fe488ec3a36847f816da61",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 127609,
+        "known_for_department": "Acting",
+        "name": "Dawn Dunlap",
+        "original_name": "Dawn Dunlap",
+        "popularity": 0.4429,
+        "profile_path": "/vSGbf7O8XcMmM3Kiq5S4b2VtaqU.jpg",
+        "cast_id": 2,
+        "character": "Laura",
+        "credit_id": "52fe488ec3a36847f816da65",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 150014,
+        "known_for_department": "Acting",
+        "name": "James Mitchell",
+        "original_name": "James Mitchell",
+        "popularity": 0.0937,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "Paul Thomas Wyler",
+        "credit_id": "52fe488ec3a36847f816da69",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 24390,
+        "known_for_department": "Acting",
+        "name": "Maureen Kerwin",
+        "original_name": "Maureen Kerwin",
+        "popularity": 0.3955,
+        "profile_path": "/mJET0sFAFPbzp8thUnXph5RVjyi.jpg",
+        "cast_id": 6,
+        "character": "Marline Royer",
+        "credit_id": "52fe488ec3a36847f816da73",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 583985,
+        "known_for_department": "Acting",
+        "name": "Anja Schüte",
+        "original_name": "Anja Schüte",
+        "popularity": 0.6734,
+        "profile_path": "/qrBeo4VkyiYTXnO5lCHzhUMiUVd.jpg",
+        "cast_id": 8,
+        "character": "Tänzerin",
+        "credit_id": "57f92b4b925141244700794d",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 70167,
+        "known_for_department": "Acting",
+        "name": "Pierre Londiche",
+        "original_name": "Pierre Londiche",
+        "popularity": 0.316,
+        "profile_path": "/xDPTz7qCa9Yl37hI2NoqpQ6fVaB.jpg",
+        "cast_id": 9,
+        "character": "Richard Moore",
+        "credit_id": "60e923c79979d20025a81722",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1098453,
+        "known_for_department": "Acting",
+        "name": "Thierry Redler",
+        "original_name": "Thierry Redler",
+        "popularity": 0.3024,
+        "profile_path": "/9bUBCogisqR7O7zkVp7vQtkeSwI.jpg",
+        "cast_id": 10,
+        "character": "Costa",
+        "credit_id": "60e923d522e480005f13053a",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 185265,
+        "known_for_department": "Acting",
+        "name": "Louise Vincent",
+        "original_name": "Louise Vincent",
+        "popularity": 0.2842,
+        "profile_path": "/ghMHfoWSQKyez7JzpgSiWriByKx.jpg",
+        "cast_id": 11,
+        "character": "Madame Flory",
+        "credit_id": "60e923e212b10e0046bb054d",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3152175,
+        "known_for_department": "Crew",
+        "name": "William Milié",
+        "original_name": "William Milié",
+        "popularity": 0.0327,
+        "profile_path": null,
+        "cast_id": 12,
+        "character": "Le chorégraphe",
+        "credit_id": "60e923ef8de0ae005d55f156",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3152177,
+        "known_for_department": "Acting",
+        "name": "Gunilla Astrom",
+        "original_name": "Gunilla Astrom",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "cast_id": 13,
+        "character": "Diane",
+        "credit_id": "60e9240643250f00765d25c6",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 20939,
+        "known_for_department": "Camera",
+        "name": "Bernard Daillencourt",
+        "original_name": "Bernard Daillencourt",
+        "popularity": 0.111,
+        "profile_path": null,
+        "cast_id": 14,
+        "character": "Docteur Benoît",
+        "credit_id": "60e9241da3d02700308130a1",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3152178,
+        "known_for_department": "Acting",
+        "name": "Katia Kofet",
+        "original_name": "Katia Kofet",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "cast_id": 15,
+        "character": "Claudie",
+        "credit_id": "60e9243b3344c6007fad7768",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3152179,
+        "known_for_department": "Acting",
+        "name": "Luciano",
+        "original_name": "Luciano",
+        "popularity": 0.089,
+        "profile_path": null,
+        "cast_id": 16,
+        "character": "Timothez Sega",
+        "credit_id": "60e924618de0ae0046a05b6b",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1532220,
+        "known_for_department": "Production",
+        "name": "Michael Pochna",
+        "original_name": "Michael Pochna",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "cast_id": 17,
+        "character": "Gérard",
+        "credit_id": "60e9246f43250f00765d26e5",
+        "order": 13
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 188517,
+        "known_for_department": "Directing",
+        "name": "David Hamilton",
+        "original_name": "David Hamilton",
+        "popularity": 0.6491,
+        "profile_path": "/1YZ2YR4Gz25kKNmZ8jRJt5RXdH0.jpg",
+        "credit_id": "52fe488ec3a36847f816da6f",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 188517,
+        "known_for_department": "Directing",
+        "name": "David Hamilton",
+        "original_name": "David Hamilton",
+        "popularity": 0.6491,
+        "profile_path": "/1YZ2YR4Gz25kKNmZ8jRJt5RXdH0.jpg",
+        "credit_id": "52fe488ec3a36847f816da79",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 235822,
+        "known_for_department": "Directing",
+        "name": "Malcolm J. Thomson",
+        "original_name": "Malcolm J. Thomson",
+        "popularity": 0.0486,
+        "profile_path": null,
+        "credit_id": "60e924a74d6791002d8e0f78",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 84649,
+        "known_for_department": "Production",
+        "name": "Jean-Claude Fleury",
+        "original_name": "Jean-Claude Fleury",
+        "popularity": 0.0652,
+        "profile_path": null,
+        "credit_id": "60e924854d67910046bcde58",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 84651,
+        "known_for_department": "Production",
+        "name": "Serge Laski",
+        "original_name": "Serge Laski",
+        "popularity": 0.0513,
+        "profile_path": null,
+        "credit_id": "60e9249012b10e005d7a0443",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 64910,
+        "known_for_department": "Production",
+        "name": "Alain Terzian",
+        "original_name": "Alain Terzian",
+        "popularity": 0.0829,
+        "profile_path": null,
+        "credit_id": "60e9249bb7d352002fa9cce1",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 23348,
+        "known_for_department": "Editing",
+        "name": "Joële Van Effenterre",
+        "original_name": "Joële Van Effenterre",
+        "popularity": 0.1994,
+        "profile_path": "/7t7ewTPSFEF6kF3PhM4cLnYQfj6.jpg",
+        "credit_id": "60e924f922e4800076754d90",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 32295,
+        "known_for_department": "Art",
+        "name": "Eric Simon",
+        "original_name": "Eric Simon",
+        "popularity": 0.0751,
+        "profile_path": null,
+        "credit_id": "60e92519b76cbb004620df2e",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1145440,
+        "known_for_department": "Sound",
+        "name": "Jonathan Liebling",
+        "original_name": "Jonathan Liebling",
+        "popularity": 0.207,
+        "profile_path": null,
+        "credit_id": "60e9253f3344c6001d00a8b7",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1300465,
+        "known_for_department": "Sound",
+        "name": "Bernard Ortion",
+        "original_name": "Bernard Ortion",
+        "popularity": 0.0728,
+        "profile_path": null,
+        "credit_id": "60e9254a4ca67600750f19fe",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 20939,
+        "known_for_department": "Camera",
+        "name": "Bernard Daillencourt",
+        "original_name": "Bernard Daillencourt",
+        "popularity": 0.111,
+        "profile_path": null,
+        "credit_id": "684071d70b8cc35aca7f50eb",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1964420,
+        "known_for_department": "Acting",
+        "name": "Patrick Juvet",
+        "original_name": "Patrick Juvet",
+        "popularity": 0.2201,
+        "profile_path": "/lV7jZvoEjHCrd6DJEyCCHIwvm6l.jpg",
+        "credit_id": "684071f01c6baae1417f4f60",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "GB",
+        "title": "Laura, Shadows of a Summer",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "BR",
+        "title": "Laura",
+        "type": "Filme"
+      },
+      {
+        "iso_3166_1": "CN",
+        "title": "盗情者劳拉",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "SE",
+        "title": "Laura - Skugga av sommaren",
+        "type": ""
+      }
+    ]
+  }
+}

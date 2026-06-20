@@ -1,0 +1,266 @@
+{
+  "adult": false,
+  "backdrop_path": "/vWoKr1B3r93cUJrG8IyGx7x8m3n.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 110761,
+  "imdb_id": "tt0756206",
+  "origin_country": [
+    "SE"
+  ],
+  "original_language": "en",
+  "original_title": "Container",
+  "overview": "Poetic, experimental and different, Container is described by Lukas Moodysson as \"a black and white silent movie with sound\" and with the following words; \"A woman in a man's body. A man in a woman's body. Jesus in Mary's stomach. The water breaks. It floods into me. I can't close the lid. My heart is full.\"",
+  "popularity": 0.2908,
+  "poster_path": "/1WBt5Ahwbqs82kvIAUU9IoXYKq6.jpg",
+  "production_companies": [
+    {
+      "id": 321,
+      "logo_path": "/pfp6VWF3tYfOHHVRHpYe2iGcYrf.png",
+      "name": "Memfis Film",
+      "origin_country": "SE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "SE",
+      "name": "Sweden"
+    }
+  ],
+  "release_date": "2006-03-10",
+  "revenue": 0,
+  "runtime": 72,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Container",
+  "video": false,
+  "vote_average": 4.7,
+  "vote_count": 19,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 20089,
+        "known_for_department": "Acting",
+        "name": "Jena Malone",
+        "original_name": "Jena Malone",
+        "popularity": 3.9469,
+        "profile_path": "/kGwV9iLmfUxJ6a73ehr0QvAnc8C.jpg",
+        "cast_id": 3,
+        "character": "The Woman / Speaker (voice)",
+        "credit_id": "52fe4ae4c3a36847f81e7347",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 726106,
+        "known_for_department": "Acting",
+        "name": "Peter Lorentzon",
+        "original_name": "Peter Lorentzon",
+        "popularity": 0.0853,
+        "profile_path": "/xoZzXMkhqeCmfX78AvgRN5Uh7cL.jpg",
+        "cast_id": 4,
+        "character": "Man",
+        "credit_id": "52fe4ae4c3a36847f81e734b",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1188424,
+        "known_for_department": "Acting",
+        "name": "Mariha Åberg",
+        "original_name": "Mariha Åberg",
+        "popularity": 0.0362,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "Woman",
+        "credit_id": "52fe4ae4c3a36847f81e734f",
+        "order": 2
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 11037,
+        "known_for_department": "Directing",
+        "name": "Lukas Moodysson",
+        "original_name": "Lukas Moodysson",
+        "popularity": 0.4427,
+        "profile_path": "/9h6dyFQpzf7wTEpVMn9celf2iOI.jpg",
+        "credit_id": "52fe4ae4c3a36847f81e7343",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 11037,
+        "known_for_department": "Directing",
+        "name": "Lukas Moodysson",
+        "original_name": "Lukas Moodysson",
+        "popularity": 0.4427,
+        "profile_path": "/9h6dyFQpzf7wTEpVMn9celf2iOI.jpg",
+        "credit_id": "52fe4ae4c3a36847f81e733d",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 11037,
+        "known_for_department": "Directing",
+        "name": "Lukas Moodysson",
+        "original_name": "Lukas Moodysson",
+        "popularity": 0.4427,
+        "profile_path": "/9h6dyFQpzf7wTEpVMn9celf2iOI.jpg",
+        "credit_id": "5ec3f70bd2147c0021b472de",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1573,
+        "known_for_department": "Sound",
+        "name": "Hans Møller",
+        "original_name": "Hans Møller",
+        "popularity": 0.0468,
+        "profile_path": "/nz2ZdxqieeMPwj3QOt9UYvgA6hc.jpg",
+        "credit_id": "5ec3f6986c8492002127fc0f",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1473820,
+        "known_for_department": "Sound",
+        "name": "Erik Fhölenhag",
+        "original_name": "Erik Fhölenhag",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "credit_id": "5ec3f6dbd2147c0022b6bf53",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 112717,
+        "known_for_department": "Production",
+        "name": "Jesper Kurlandsky",
+        "original_name": "Jesper Kurlandsky",
+        "popularity": 0.098,
+        "profile_path": null,
+        "credit_id": "5ec3f6fd6905fb001fa10c0c",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 112717,
+        "known_for_department": "Production",
+        "name": "Jesper Kurlandsky",
+        "original_name": "Jesper Kurlandsky",
+        "popularity": 0.098,
+        "profile_path": null,
+        "credit_id": "5ec3f6e99979d2002134b727",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1977095,
+        "known_for_department": "Sound",
+        "name": "Per Dybdal Jensen",
+        "original_name": "Per Dybdal Jensen",
+        "popularity": 0.0995,
+        "profile_path": null,
+        "credit_id": "5ec3f67881c7be001fbfa5c3",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1549337,
+        "known_for_department": "Editing",
+        "name": "Andreas Nilsson",
+        "original_name": "Andreas Nilsson",
+        "popularity": 0.0851,
+        "profile_path": null,
+        "credit_id": "5ec3f74037b3a9001f1970db",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 11037,
+        "known_for_department": "Directing",
+        "name": "Lukas Moodysson",
+        "original_name": "Lukas Moodysson",
+        "popularity": 0.4427,
+        "profile_path": "/9h6dyFQpzf7wTEpVMn9celf2iOI.jpg",
+        "credit_id": "5ec3f6c5140bad001d159e96",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 112717,
+        "known_for_department": "Production",
+        "name": "Jesper Kurlandsky",
+        "original_name": "Jesper Kurlandsky",
+        "popularity": 0.098,
+        "profile_path": null,
+        "credit_id": "5ec3f6b618b751001fca5885",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 11053,
+        "known_for_department": "Production",
+        "name": "Lars Jönsson",
+        "original_name": "Lars Jönsson",
+        "popularity": 0.1452,
+        "profile_path": "/r25sTmwMi73MAiG6o6kpnmVKryw.jpg",
+        "credit_id": "5ece835e3dc313001fc82fc2",
+        "department": "Production",
+        "job": "Producer"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  }
+}

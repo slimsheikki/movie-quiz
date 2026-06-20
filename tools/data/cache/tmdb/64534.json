@@ -1,0 +1,563 @@
+{
+  "adult": false,
+  "backdrop_path": "/yhLtni4eZfPQawtRpqdvLFfKcBB.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "",
+  "id": 64534,
+  "imdb_id": "tt0082272",
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "Docteur Jekyll et les Femmes",
+  "overview": "In 19th century London, a sex maniac sneaks into the engagement party of Dr. Henry Jekyll and Miss Fanny Osbourne, turning the event into a nightmarish whirlpool of murder and debauchery.",
+  "popularity": 0.4052,
+  "poster_path": "/yXk7H4DzWItDdbFimfbZsdNbNZ2.jpg",
+  "production_companies": [
+    {
+      "id": 17712,
+      "logo_path": null,
+      "name": "Allegro Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 7932,
+      "logo_path": null,
+      "name": "Multimedia Gesellschaft für Audiovisuelle Information mbH",
+      "origin_country": "DE"
+    },
+    {
+      "id": 18029,
+      "logo_path": null,
+      "name": "Whodunit Productions",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "release_date": "1981-06-17",
+  "revenue": 0,
+  "runtime": 92,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Evil runs rampant against the laws of human restraint!",
+  "title": "The Strange Case of Dr. Jekyll and Miss Osbourne",
+  "video": false,
+  "vote_average": 5.531,
+  "vote_count": 48,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1646,
+        "known_for_department": "Acting",
+        "name": "Udo Kier",
+        "original_name": "Udo Kier",
+        "popularity": 1.8883,
+        "profile_path": "/lIOGDMvrVHMgPXdhicLI41tY1zf.jpg",
+        "cast_id": 1,
+        "character": "Dr. Henry Jekyll",
+        "credit_id": "52fe46ddc3a368484e0a8227",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 239337,
+        "known_for_department": "Acting",
+        "name": "Marina Pierro",
+        "original_name": "Marina Pierro",
+        "popularity": 0.3473,
+        "profile_path": "/u52gZquc1BszJ1uRbsVMFql9Jyc.jpg",
+        "cast_id": 2,
+        "character": "Miss Fanny Osbourne",
+        "credit_id": "52fe46ddc3a368484e0a822b",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 101937,
+        "known_for_department": "Acting",
+        "name": "Gérard Zalcberg",
+        "original_name": "Gérard Zalcberg",
+        "popularity": 0.0789,
+        "profile_path": "/ZAluESVZMjKzZpfZc1cqX0fUJp.jpg",
+        "cast_id": 3,
+        "character": "Mr. Hyde",
+        "credit_id": "52fe46ddc3a368484e0a822f",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2264,
+        "known_for_department": "Acting",
+        "name": "Patrick Magee",
+        "original_name": "Patrick Magee",
+        "popularity": 0.986,
+        "profile_path": "/99xStF5zQy6qkDxLnIVaKD3urzI.jpg",
+        "cast_id": 4,
+        "character": "General",
+        "credit_id": "52fe46ddc3a368484e0a8233",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 13696,
+        "known_for_department": "Acting",
+        "name": "Howard Vernon",
+        "original_name": "Howard Vernon",
+        "popularity": 0.5301,
+        "profile_path": "/wi74uKxjeih5oAXyCTntc00RYF0.jpg",
+        "cast_id": 5,
+        "character": "Dr. Lanyon",
+        "credit_id": "52fe46ddc3a368484e0a8237",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 32162,
+        "known_for_department": "Acting",
+        "name": "Clément Harari",
+        "original_name": "Clément Harari",
+        "popularity": 0.2734,
+        "profile_path": "/ntzRkm93e586RTnDC5iJT7OwEd3.jpg",
+        "cast_id": 20,
+        "character": "Reverend Donald Regan",
+        "credit_id": "52fe46dec3a368484e0a828f",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1268571,
+        "known_for_department": "Production",
+        "name": "Jean Mylonas",
+        "original_name": "Jean Mylonas",
+        "popularity": 0.1379,
+        "profile_path": null,
+        "cast_id": 21,
+        "character": "Mr. Utterson",
+        "credit_id": "52fe46dec3a368484e0a8293",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1268572,
+        "known_for_department": "Acting",
+        "name": "Eugene Braun Munk",
+        "original_name": "Eugene Braun Munk",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "cast_id": 22,
+        "character": "Mr. Enfield",
+        "credit_id": "52fe46dec3a368484e0a8297",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1268573,
+        "known_for_department": "Acting",
+        "name": "Louis Colla",
+        "original_name": "Louis Colla",
+        "popularity": 0.0623,
+        "profile_path": null,
+        "cast_id": 23,
+        "character": "Mr. Maw",
+        "credit_id": "52fe46dec3a368484e0a829b",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1268574,
+        "known_for_department": "Acting",
+        "name": "Catherine Coste",
+        "original_name": "Catherine Coste",
+        "popularity": 0.0423,
+        "profile_path": null,
+        "cast_id": 24,
+        "character": "Mrs. Enfield",
+        "credit_id": "52fe46dec3a368484e0a829f",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 18242,
+        "known_for_department": "Acting",
+        "name": "Rita Maiden",
+        "original_name": "Rita Maiden",
+        "popularity": 0.12,
+        "profile_path": "/z21gHqDxwCgBxdzySbmZVYHNARQ.jpg",
+        "cast_id": 25,
+        "character": "Lady Osbourne, Fanny's mother",
+        "credit_id": "52fe46dec3a368484e0a82a3",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1268575,
+        "known_for_department": "Acting",
+        "name": "Michèle Maze",
+        "original_name": "Michèle Maze",
+        "popularity": 0,
+        "profile_path": null,
+        "cast_id": 26,
+        "character": "",
+        "credit_id": "52fe46dec3a368484e0a82a7",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1268576,
+        "known_for_department": "Acting",
+        "name": "Agnès Daems",
+        "original_name": "Agnès Daems",
+        "popularity": 0.048,
+        "profile_path": "/Ail09XdjXG1qimBVzPulqxQ4oRw.jpg",
+        "cast_id": 27,
+        "character": "Charlotte Carew, the General's daughter",
+        "credit_id": "52fe46dec3a368484e0a82ab",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1268577,
+        "known_for_department": "Acting",
+        "name": "Magali Noaro",
+        "original_name": "Magali Noaro",
+        "popularity": 0.0505,
+        "profile_path": null,
+        "cast_id": 28,
+        "character": "Victoria Enfield, the young dancer",
+        "credit_id": "52fe46dec3a368484e0a82af",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1268578,
+        "known_for_department": "Acting",
+        "name": "Dominique Andersen",
+        "original_name": "Dominique Andersen",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 29,
+        "character": "",
+        "credit_id": "52fe46dec3a368484e0a82b3",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 24769,
+        "known_for_department": "Acting",
+        "name": "Isabelle Cagnat",
+        "original_name": "Isabelle Cagnat",
+        "popularity": 0.1071,
+        "profile_path": null,
+        "cast_id": 30,
+        "character": "Little girl",
+        "credit_id": "52fe46dec3a368484e0a82b7",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 591225,
+        "known_for_department": "Acting",
+        "name": "Gisèle Préville",
+        "original_name": "Gisèle Préville",
+        "popularity": 0.1327,
+        "profile_path": "/7BqS5KVhrt7DvYBMDAyAK9ZUDMd.jpg",
+        "cast_id": 31,
+        "character": "Dr. Jekyll's mother",
+        "credit_id": "52fe46dec3a368484e0a82bb",
+        "order": 16
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 130313,
+        "known_for_department": "Directing",
+        "name": "Walerian Borowczyk",
+        "original_name": "Walerian Borowczyk",
+        "popularity": 0.4158,
+        "profile_path": "/pMnHLINBmGqlAcrNRKZ6JzkppUF.jpg",
+        "credit_id": "52fe46ddc3a368484e0a8243",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 41837,
+        "known_for_department": "Production",
+        "name": "Ralph Baum",
+        "original_name": "Ralph Baum",
+        "popularity": 0.7679,
+        "profile_path": null,
+        "credit_id": "52fe46ddc3a368484e0a824f",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 959458,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Piet Bolscher",
+        "original_name": "Piet Bolscher",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "52fe46ddc3a368484e0a8279",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 130313,
+        "known_for_department": "Directing",
+        "name": "Walerian Borowczyk",
+        "original_name": "Walerian Borowczyk",
+        "popularity": 0.4158,
+        "profile_path": "/pMnHLINBmGqlAcrNRKZ6JzkppUF.jpg",
+        "credit_id": "52fe46ddc3a368484e0a8273",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1268564,
+        "known_for_department": "Production",
+        "name": "Jean-Pierre Labrande",
+        "original_name": "Jean-Pierre Labrande",
+        "popularity": 0.0261,
+        "profile_path": null,
+        "credit_id": "52fe46ddc3a368484e0a825b",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1170743,
+        "known_for_department": "Editing",
+        "name": "Khadicha Bariha",
+        "original_name": "Khadicha Bariha",
+        "popularity": 0.0594,
+        "profile_path": null,
+        "credit_id": "52fe46ddc3a368484e0a826d",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1268566,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Christine Fornelli",
+        "original_name": "Christine Fornelli",
+        "popularity": 0.0853,
+        "profile_path": null,
+        "credit_id": "52fe46ddc3a368484e0a827f",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 130313,
+        "known_for_department": "Directing",
+        "name": "Walerian Borowczyk",
+        "original_name": "Walerian Borowczyk",
+        "popularity": 0.4158,
+        "profile_path": "/pMnHLINBmGqlAcrNRKZ6JzkppUF.jpg",
+        "credit_id": "52fe46ddc3a368484e0a823d",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 29533,
+        "known_for_department": "Writing",
+        "name": "Robert Louis Stevenson",
+        "original_name": "Robert Louis Stevenson",
+        "popularity": 0.6266,
+        "profile_path": "/4gHYG4Gn1uxmG0k1gilfp8cwdBX.jpg",
+        "credit_id": "52fe46ddc3a368484e0a8249",
+        "department": "Writing",
+        "job": "Novel"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1193712,
+        "known_for_department": "Production",
+        "name": "Robert Kuperberg",
+        "original_name": "Robert Kuperberg",
+        "popularity": 0.1259,
+        "profile_path": null,
+        "credit_id": "52fe46ddc3a368484e0a8255",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1197820,
+        "known_for_department": "Sound",
+        "name": "Bernard Parmegiani",
+        "original_name": "Bernard Parmegiani",
+        "popularity": 0.0071,
+        "profile_path": "/6mklfYPQLlFwylQ16jSfg90sQAD.jpg",
+        "credit_id": "52fe46ddc3a368484e0a8261",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1268569,
+        "known_for_department": "Camera",
+        "name": "Jean-Pierre Platel",
+        "original_name": "Jean-Pierre Platel",
+        "popularity": 0.0552,
+        "profile_path": null,
+        "credit_id": "52fe46dec3a368484e0a828b",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1268567,
+        "known_for_department": "Production",
+        "name": "Martine Alleton",
+        "original_name": "Martine Alleton",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "52fe46dec3a368484e0a8285",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1707393,
+        "known_for_department": "Sound",
+        "name": "Gérard Barra",
+        "original_name": "Gérard Barra",
+        "popularity": 0.0863,
+        "profile_path": null,
+        "credit_id": "60f98fb007e28100467af615",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1268565,
+        "known_for_department": "Camera",
+        "name": "Noël Véry",
+        "original_name": "Noël Véry",
+        "popularity": 0.1369,
+        "profile_path": null,
+        "credit_id": "67982cb909c252e3ab23f790",
+        "department": "Camera",
+        "job": "Director of Photography"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "US",
+        "title": "Bloodbath of Doctor Jekyll",
+        "type": "DVD title"
+      },
+      {
+        "iso_3166_1": "US",
+        "title": "Dr. Jekyll and His Women",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "FR",
+        "title": "Le cas estrange du Dr. Jekyll et de Miss Osbourne",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "GB",
+        "title": "The Bloodbath of Doctor Jekyll",
+        "type": "cut version"
+      },
+      {
+        "iso_3166_1": "GB",
+        "title": "The Experiment",
+        "type": "censored version"
+      },
+      {
+        "iso_3166_1": "BR",
+        "title": "Dr. Jekyll e as Mulheres",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "FI",
+        "title": "Tohtori Jekyllin naiset",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "KR",
+        "title": "지킬 박사와 오스본 양의 이상한 사건",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "KR",
+        "title": "지킬 박사와 미스 오스본의 기이한 사건",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "JP",
+        "title": "ジキル博士と女たち／暴行魔ハイド",
+        "type": ""
+      }
+    ]
+  }
+}

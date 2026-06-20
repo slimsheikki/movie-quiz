@@ -1,0 +1,545 @@
+{
+  "adult": false,
+  "backdrop_path": "/mrH2HxDl0p7evhNqSGN7SIYpVRG.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 565341,
+  "imdb_id": "tt9352926",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Sound of Silence",
+  "overview": "A successful \"house tuner\" in New York City, who calibrates the sound in people's homes in order to adjust their moods, meets a client with a problem he can't solve.",
+  "popularity": 0.8787,
+  "poster_path": "/dXkv8lkX9gdJyUxxrulJ2PWzidI.jpg",
+  "production_companies": [
+    {
+      "id": 10039,
+      "logo_path": "/b8w4LldQolMKiLZw4FQJBcXSDGI.png",
+      "name": "Anonymous Content",
+      "origin_country": "US"
+    },
+    {
+      "id": 126750,
+      "logo_path": null,
+      "name": "Feracious Entertainment",
+      "origin_country": ""
+    },
+    {
+      "id": 126751,
+      "logo_path": null,
+      "name": "Group Theory",
+      "origin_country": ""
+    },
+    {
+      "id": 126752,
+      "logo_path": null,
+      "name": "Jhumka Films",
+      "origin_country": ""
+    },
+    {
+      "id": 116068,
+      "logo_path": "/m1Ne6EAi89W6oGSYUnY4KTZq0qd.png",
+      "name": "Keshet Studios",
+      "origin_country": "US"
+    },
+    {
+      "id": 117654,
+      "logo_path": "/1LX9vw24AJr4cGTHZw10e73YEfI.png",
+      "name": "Valparaiso Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 14862,
+      "logo_path": "/2YobmEkVFAcw368uz6Ie1sGP2C8.png",
+      "name": "Washington Square Films",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2019-09-13",
+  "revenue": 0,
+  "runtime": 87,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Sound of Silence",
+  "video": false,
+  "vote_average": 5.8,
+  "vote_count": 38,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 133,
+        "known_for_department": "Acting",
+        "name": "Peter Sarsgaard",
+        "original_name": "Peter Sarsgaard",
+        "popularity": 2.6194,
+        "profile_path": "/5UANyM4co2nwYPgSEmGeNlZRm7V.jpg",
+        "cast_id": 3,
+        "character": "Peter Lucian",
+        "credit_id": "5bff6328c3a3686370059c7c",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 80591,
+        "known_for_department": "Acting",
+        "name": "Rashida Jones",
+        "original_name": "Rashida Jones",
+        "popularity": 3.2254,
+        "profile_path": "/cgWGm9eYCretBWeljPVtpRV7n6V.jpg",
+        "cast_id": 4,
+        "character": "Ellen Chasen",
+        "credit_id": "5bff63339251417e2e0021ed",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1291350,
+        "known_for_department": "Acting",
+        "name": "Tony Revolori",
+        "original_name": "Tony Revolori",
+        "popularity": 1.1947,
+        "profile_path": "/tSF6XmXDikrKZbFUeoDnafXxKjT.jpg",
+        "cast_id": 5,
+        "character": "Samuel Diaz",
+        "credit_id": "5bff6339c3a36864760662ab",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6168,
+        "known_for_department": "Acting",
+        "name": "Austin Pendleton",
+        "original_name": "Austin Pendleton",
+        "popularity": 1.1542,
+        "profile_path": "/nrXfqtXDDYzSFNLPQnfLkus4I7s.jpg",
+        "cast_id": 6,
+        "character": "Robert Feinway",
+        "credit_id": "5bff6341c3a36861f905d09a",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 582722,
+        "known_for_department": "Acting",
+        "name": "Kate Lyn Sheil",
+        "original_name": "Kate Lyn Sheil",
+        "popularity": 0.6393,
+        "profile_path": "/hsdhRIGxyD4fi7b9Xp90qUTmDRB.jpg",
+        "cast_id": 7,
+        "character": "Nancy",
+        "credit_id": "5d13e978c3a36811ee23a017",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 27545,
+        "known_for_department": "Acting",
+        "name": "Bruce Altman",
+        "original_name": "Bruce Altman",
+        "popularity": 1.2447,
+        "profile_path": "/n5y8Mg572LGT3eHyeZaa9NMMlAN.jpg",
+        "cast_id": 8,
+        "character": "Howard Carlyle",
+        "credit_id": "5d13e9b49251415670b8d764",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 60120,
+        "known_for_department": "Acting",
+        "name": "Tina Benko",
+        "original_name": "Tina Benko",
+        "popularity": 0.6901,
+        "profile_path": "/oThs7WpSLtjrlDis1nu93CWp2PR.jpg",
+        "cast_id": 18,
+        "character": "Dr. Elizabeth Brookings",
+        "credit_id": "5dfeb6b29824c80015e09817",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1048566,
+        "known_for_department": "Acting",
+        "name": "Theodore Bouloukos",
+        "original_name": "Theodore Bouloukos",
+        "popularity": 0.2593,
+        "profile_path": "/7NbjfvcLyTmP22PRlj7bdd5qhbN.jpg",
+        "cast_id": 19,
+        "character": "Satisfied Client (voice)",
+        "credit_id": "5dfeb6bc26dac1001461549c",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2487761,
+        "known_for_department": "Acting",
+        "name": "Adit Dileep",
+        "original_name": "Adit Dileep",
+        "popularity": 0.1802,
+        "profile_path": "/yk2OFtOlXj5L85N4X3Gd4wNvSLJ.jpg",
+        "cast_id": 20,
+        "character": "Carl",
+        "credit_id": "5dfeb6c4d1a893001988cbfe",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 95889,
+        "known_for_department": "Acting",
+        "name": "Alison Fraser",
+        "original_name": "Alison Fraser",
+        "popularity": 0.3017,
+        "profile_path": "/8EG7mGD1ERirDhZt2MglB8tZiAi.jpg",
+        "cast_id": 21,
+        "character": "Denise Feinway",
+        "credit_id": "5dfeb6ed65686e001893770a",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 123515,
+        "known_for_department": "Acting",
+        "name": "Alex Karpovsky",
+        "original_name": "Alex Karpovsky",
+        "popularity": 1.3886,
+        "profile_path": "/hz1eUWI0s2SrHbj46BTBsQf9fFA.jpg",
+        "cast_id": 22,
+        "character": "Landon",
+        "credit_id": "5dfeb6fb9824c80015e09910",
+        "order": 10
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1490429,
+        "known_for_department": "Directing",
+        "name": "Michael Tyburski",
+        "original_name": "Michael Tyburski",
+        "popularity": 0.0775,
+        "profile_path": "/4dSQ7UkLGtNpgMj9tEjsFUFS4Pd.jpg",
+        "credit_id": "5bff62bac3a3686476066249",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1155928,
+        "known_for_department": "Directing",
+        "name": "Ben Nabors",
+        "original_name": "Ben Nabors",
+        "popularity": 0.089,
+        "profile_path": "/oh5bGwc1Jbyh1QSN7ViB2gIFoVh.jpg",
+        "credit_id": "5d5070c5a2d2e9001385ac60",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1490429,
+        "known_for_department": "Directing",
+        "name": "Michael Tyburski",
+        "original_name": "Michael Tyburski",
+        "popularity": 0.0775,
+        "profile_path": "/4dSQ7UkLGtNpgMj9tEjsFUFS4Pd.jpg",
+        "credit_id": "5d5070d2a2d2e9001285ab2b",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1155928,
+        "known_for_department": "Directing",
+        "name": "Ben Nabors",
+        "original_name": "Ben Nabors",
+        "popularity": 0.089,
+        "profile_path": "/oh5bGwc1Jbyh1QSN7ViB2gIFoVh.jpg",
+        "credit_id": "5d5070dd3103250011da273c",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1041383,
+        "known_for_department": "Acting",
+        "name": "Adi Ezroni",
+        "original_name": "Adi Ezroni",
+        "popularity": 0.1756,
+        "profile_path": "/qBuVkg0NPJsQa2akGc9DvTTtRRS.jpg",
+        "credit_id": "5d5070f23103250012da2241",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2384704,
+        "known_for_department": "Production",
+        "name": "Tariq Merhab",
+        "original_name": "Tariq Merhab",
+        "popularity": 0.0261,
+        "profile_path": null,
+        "credit_id": "5d507101a2d2e9001285ab6e",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1155928,
+        "known_for_department": "Directing",
+        "name": "Ben Nabors",
+        "original_name": "Ben Nabors",
+        "popularity": 0.089,
+        "profile_path": "/oh5bGwc1Jbyh1QSN7ViB2gIFoVh.jpg",
+        "credit_id": "5d50710e1d820f0014798970",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1292110,
+        "known_for_department": "Production",
+        "name": "Michael Prall",
+        "original_name": "Michael Prall",
+        "popularity": 0.1159,
+        "profile_path": null,
+        "credit_id": "5d5071173103250015da22f2",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2384705,
+        "known_for_department": "Production",
+        "name": "Charlie Scully",
+        "original_name": "Charlie Scully",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "5d507126a2d2e9001685ae68",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1682281,
+        "known_for_department": "Production",
+        "name": "Mandy Tagger",
+        "original_name": "Mandy Tagger",
+        "popularity": 0.0652,
+        "profile_path": null,
+        "credit_id": "5d5071369c0550001444d4ab",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 930989,
+        "known_for_department": "Sound",
+        "name": "Will Bates",
+        "original_name": "Will Bates",
+        "popularity": 0.4021,
+        "profile_path": "/uKnRSTr2bszMh95Z7wZXo36lwou.jpg",
+        "credit_id": "5dfeb75bd236e600108d6f6f",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1031598,
+        "known_for_department": "Camera",
+        "name": "Eric Lin",
+        "original_name": "Eric Lin",
+        "popularity": 0.1641,
+        "profile_path": null,
+        "credit_id": "5dfeb7669824c80015e09a3f",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1683536,
+        "known_for_department": "Editing",
+        "name": "Matthew C. Hart",
+        "original_name": "Matthew C. Hart",
+        "popularity": 0.0936,
+        "profile_path": null,
+        "credit_id": "5dfeb76d26dac10014615612",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1824830,
+        "known_for_department": "Production",
+        "name": "Rori Bergman",
+        "original_name": "Rori Bergman",
+        "popularity": 0.2109,
+        "profile_path": null,
+        "credit_id": "5dfeb777d1a89300148857de",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1333580,
+        "known_for_department": "Art",
+        "name": "Nora Mendis",
+        "original_name": "Nora Mendis",
+        "popularity": 0.1594,
+        "profile_path": null,
+        "credit_id": "5dfeb7809824c80013e07b2e",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1571053,
+        "known_for_department": "Art",
+        "name": "Tori Lancaster",
+        "original_name": "Tori Lancaster",
+        "popularity": 0.1003,
+        "profile_path": "/cvcALaORM5jPDptwfD7aOIn7RXi.jpg",
+        "credit_id": "5dfeb78ad236e600168d29c6",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2487763,
+        "known_for_department": "Art",
+        "name": "Ashley Chipman",
+        "original_name": "Ashley Chipman",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "5dfeb7929824c80015e09ca0",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1660299,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Megan Stark Evans",
+        "original_name": "Megan Stark Evans",
+        "popularity": 0.0894,
+        "profile_path": null,
+        "credit_id": "5dfeb79c26dac1001760e5c2",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2031369,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Felicia Nelson",
+        "original_name": "Felicia Nelson",
+        "popularity": 0.1275,
+        "profile_path": null,
+        "credit_id": "5dfeb7a6d1a893001287ddab",
+        "department": "Costume & Make-Up",
+        "job": "Hair Department Head"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1431987,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Fiona Tyson",
+        "original_name": "Fiona Tyson",
+        "popularity": 0.0663,
+        "profile_path": null,
+        "credit_id": "5dfeb7afd1a893001488592b",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Department Head"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1799777,
+        "known_for_department": "Production",
+        "name": "Eddy Vallante",
+        "original_name": "Eddy Vallante",
+        "popularity": 0.0809,
+        "profile_path": "/olECWZIo2JBzmyDedFYJb9ptTLe.jpg",
+        "credit_id": "600f0d9c4d0e8d003e78a15b",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1636701,
+        "known_for_department": "Art",
+        "name": "Stephen Phelps",
+        "original_name": "Stephen Phelps",
+        "popularity": 0.0766,
+        "profile_path": "/wTahOcrrRFb6HRlZoXojHKJzxZG.jpg",
+        "credit_id": "677f93da89fc5d94424e91ee",
+        "department": "Art",
+        "job": "Property Master"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "RU",
+        "title": "Звук тишины",
+        "type": ""
+      }
+    ]
+  }
+}

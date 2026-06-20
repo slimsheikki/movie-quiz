@@ -1,0 +1,646 @@
+{
+  "adult": false,
+  "backdrop_path": "/bmovbAepfiKM3nGdsgFv54VGM2d.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.meanwhileonearthfilm.com/",
+  "id": 1001083,
+  "imdb_id": "tt21247132",
+  "origin_country": [
+    "BE",
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "Pendant ce temps sur Terre",
+  "overview": "Siblings Elsa and Franck used to be close, but everything changed when Franck’s space mission went awry. Three years have passed since his mysterious disappearance, and 23-year-old Elsa is having trouble moving on with her life. One day, an unidentified life form makes contact, offering to bring her big brother back to Earth. But there's a price to pay...",
+  "popularity": 0.3207,
+  "poster_path": "/5SxwmxZnGNkTe8VBlXuVJnKH7JY.jpg",
+  "production_companies": [
+    {
+      "id": 5725,
+      "logo_path": "/iwPdsbu4EDMVrizP2uoBrnD4iN9.png",
+      "name": "One World Films",
+      "origin_country": "FR"
+    },
+    {
+      "id": 109756,
+      "logo_path": "/sudlIoNIIrKmVWaYD2ZVo9HGogW.png",
+      "name": "Auvergne-Rhône-Alpes Cinéma",
+      "origin_country": "FR"
+    },
+    {
+      "id": 591,
+      "logo_path": "/q5I5RDwMEiqoNmfaJgd2LraEOJY.png",
+      "name": "France 3 Cinéma",
+      "origin_country": "FR"
+    },
+    {
+      "id": 19037,
+      "logo_path": "/tceh2aAORA5JxIZSLQ1GkzTBZDL.png",
+      "name": "uMedia",
+      "origin_country": "BE"
+    },
+    {
+      "id": 7131,
+      "logo_path": "/qpFsGoa96SytbWkhtkkpllu5Cch.png",
+      "name": "France Télévisions",
+      "origin_country": "FR"
+    },
+    {
+      "id": 310,
+      "logo_path": "/4Gp5A4YdjPBfsHT47ngHMaXWmb9.png",
+      "name": "CNC",
+      "origin_country": "FR"
+    },
+    {
+      "id": 10611,
+      "logo_path": "/zQ4fGaEnNkWfSzyygXRcUZwPmDG.png",
+      "name": "Ciné+",
+      "origin_country": "FR"
+    },
+    {
+      "id": 22127,
+      "logo_path": "/lgkXXc4hyHH6WqVMJVUFrhFIjm5.png",
+      "name": "uFund",
+      "origin_country": "BE"
+    },
+    {
+      "id": 104,
+      "logo_path": "/9aotxauvc9685tq9pTcRJszuT06.png",
+      "name": "Canal+",
+      "origin_country": "FR"
+    },
+    {
+      "id": 17065,
+      "logo_path": "/mqoS56YswPVBO3nriH2Qj6pWWbY.png",
+      "name": "Studio Xilam",
+      "origin_country": "FR"
+    },
+    {
+      "id": 267007,
+      "logo_path": null,
+      "name": "Carcadice",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "BE",
+      "name": "Belgium"
+    }
+  ],
+  "release_date": "2024-07-03",
+  "revenue": 128746,
+  "runtime": 87,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Meanwhile on Earth",
+  "video": false,
+  "vote_average": 6.2,
+  "vote_count": 61,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1367720,
+        "known_for_department": "Acting",
+        "name": "Megan Northam",
+        "original_name": "Megan Northam",
+        "popularity": 0.3494,
+        "profile_path": "/docdyrz3Jph8jYNH1hWY8659UkF.jpg",
+        "cast_id": 3,
+        "character": "Elsa",
+        "credit_id": "6356a99fa06efe0082e44554",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2503502,
+        "known_for_department": "Acting",
+        "name": "Dimitri Doré",
+        "original_name": "Dimitri Doré",
+        "popularity": 0.0627,
+        "profile_path": null,
+        "cast_id": 27,
+        "character": "La Voix (voice)",
+        "credit_id": "65cc75fbefd3c2017c377702",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1318257,
+        "known_for_department": "Acting",
+        "name": "Sébastien Pouderoux",
+        "original_name": "Sébastien Pouderoux",
+        "popularity": 0.3554,
+        "profile_path": "/3TOhTuoDJMQJQ8GYL0Y9dVvqSAW.jpg",
+        "cast_id": 20,
+        "character": "Voix de Franck (voice)",
+        "credit_id": "65963131ed96bc2c23f7581e",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1029292,
+        "known_for_department": "Acting",
+        "name": "Catherine Salée",
+        "original_name": "Catherine Salée",
+        "popularity": 0.496,
+        "profile_path": "/4BpOijEiMFxSIDkBS3GNppxW5Yp.jpg",
+        "cast_id": 6,
+        "character": "Annick",
+        "credit_id": "6356a9aed6c300009160f370",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 76285,
+        "known_for_department": "Acting",
+        "name": "Sam Louwyck",
+        "original_name": "Sam Louwyck",
+        "popularity": 0.6195,
+        "profile_path": "/lNBebf27sqh0FTYyyvikp77R197.jpg",
+        "cast_id": 19,
+        "character": "Daniel",
+        "credit_id": "659630fda6c1043705fa5471",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3412067,
+        "known_for_department": "Acting",
+        "name": "Roman Williams",
+        "original_name": "Roman Williams",
+        "popularity": 0.0398,
+        "profile_path": null,
+        "cast_id": 8,
+        "character": "Vincent",
+        "credit_id": "6356a9b9d6c300007ad36e7c",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1281819,
+        "known_for_department": "Acting",
+        "name": "Sofia Lesaffre",
+        "original_name": "Sofia Lesaffre",
+        "popularity": 0.5284,
+        "profile_path": "/bVdTqCxfemzjv25BFQum8mOYGe1.jpg",
+        "cast_id": 5,
+        "character": "Audrey",
+        "credit_id": "6356a9a95f4b73007b869745",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1367236,
+        "known_for_department": "Acting",
+        "name": "Nicolas Avinée",
+        "original_name": "Nicolas Avinée",
+        "popularity": 0.2801,
+        "profile_path": "/dpL7oZ04F1cbdbgMjn21Zw43wNk.jpg",
+        "cast_id": 7,
+        "character": "Augustin",
+        "credit_id": "6356a9b443cd54008267c00f",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4463335,
+        "known_for_department": "Acting",
+        "name": "Yoann Thibaut Mathias",
+        "original_name": "Yoann Thibaut Mathias",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "cast_id": 21,
+        "character": "Jordan",
+        "credit_id": "65963140a698cf19f8439ff6",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3147599,
+        "known_for_department": "Acting",
+        "name": "Arcadi Radeff",
+        "original_name": "Arcadi Radeff",
+        "popularity": 0.2092,
+        "profile_path": "/5e8phMITmDTHRbdF3KaB46x6pOl.jpg",
+        "cast_id": 26,
+        "character": "Luc",
+        "credit_id": "65cc75db1365450186a1f37a",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 15480,
+        "known_for_department": "Acting",
+        "name": "Sabine Timoteo",
+        "original_name": "Sabine Timoteo",
+        "popularity": 0.4062,
+        "profile_path": "/84rbRaC1elfzmCxWo1KLXIZKdVF.jpg",
+        "cast_id": 22,
+        "character": "Sidonie",
+        "credit_id": "6596314860c51d16fd977efd",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1953528,
+        "known_for_department": "Acting",
+        "name": "Marie Bray",
+        "original_name": "Marie Bray",
+        "popularity": 0.1881,
+        "profile_path": null,
+        "cast_id": 24,
+        "character": "Marie Rose",
+        "credit_id": "65963158a6c1043698fa54ab",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 37609,
+        "known_for_department": "Acting",
+        "name": "Christian Bouillette",
+        "original_name": "Christian Bouillette",
+        "popularity": 0.3042,
+        "profile_path": "/vOrOGusQF88Zp9Ll8aCumWPMz66.jpg",
+        "cast_id": 23,
+        "character": "Monsieur Droulez",
+        "credit_id": "6596314fef9d723d1912b0b7",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5214584,
+        "known_for_department": "Acting",
+        "name": "Emile Labbaye",
+        "original_name": "Emile Labbaye",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 31,
+        "character": "Guy",
+        "credit_id": "679bf5ea3de588d5a00110d5",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5214585,
+        "known_for_department": "Acting",
+        "name": "Jean Caillaud",
+        "original_name": "Jean Caillaud",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 32,
+        "character": "Monsieur Perrin",
+        "credit_id": "679bf5fc25b6f1b30dbdd083",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3467922,
+        "known_for_department": "Acting",
+        "name": "Monique Barbarat",
+        "original_name": "Monique Barbarat",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "cast_id": 33,
+        "character": "Renée",
+        "credit_id": "679bf617822e7d32f7bdd140",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5214586,
+        "known_for_department": "Acting",
+        "name": "Yoan Germain Le Mat",
+        "original_name": "Yoan Germain Le Mat",
+        "popularity": 0.0338,
+        "profile_path": null,
+        "cast_id": 34,
+        "character": "Franck",
+        "credit_id": "679bf6323de588d5a00110ed",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5214587,
+        "known_for_department": "Acting",
+        "name": "Haribo",
+        "original_name": "Haribo",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 35,
+        "character": "Le chien",
+        "credit_id": "679bf6433de588d5a0011101",
+        "order": 17
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 550481,
+        "known_for_department": "Directing",
+        "name": "Jérémy Clapin",
+        "original_name": "Jérémy Clapin",
+        "popularity": 0.2606,
+        "profile_path": "/2F8bTJUh85e9NOUgwM6kbAFwyGF.jpg",
+        "credit_id": "62d461e923bcf4004f98a2fd",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 550481,
+        "known_for_department": "Directing",
+        "name": "Jérémy Clapin",
+        "original_name": "Jérémy Clapin",
+        "popularity": 0.2606,
+        "profile_path": "/2F8bTJUh85e9NOUgwM6kbAFwyGF.jpg",
+        "credit_id": "62d461e1e93e950067b0d2ed",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 112771,
+        "known_for_department": "Production",
+        "name": "Marc du Pontavice",
+        "original_name": "Marc du Pontavice",
+        "popularity": 0.1974,
+        "profile_path": "/ohvcMkKYjvaVGq6Q55QMPaIsvGO.jpg",
+        "credit_id": "6356a9eed399e6007a09a096",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2700797,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Magali Baret",
+        "original_name": "Magali Baret",
+        "popularity": 0.0338,
+        "profile_path": null,
+        "credit_id": "6356aa42a06efe007a65b45e",
+        "department": "Costume & Make-Up",
+        "job": "Costumer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1466205,
+        "known_for_department": "Visual Effects",
+        "name": "Tom Pope",
+        "original_name": "Tom Pope",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "6356aa3143250f007ab718b7",
+        "department": "Directing",
+        "job": "Third Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1586262,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Ariane Daurat",
+        "original_name": "Ariane Daurat",
+        "popularity": 0.0639,
+        "profile_path": null,
+        "credit_id": "6356aa04385202007a035e2d",
+        "department": "Costume & Make-Up",
+        "job": "Costume Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3667501,
+        "known_for_department": "Directing",
+        "name": "Robin Le Prêtre",
+        "original_name": "Robin Le Prêtre",
+        "popularity": 0.0579,
+        "profile_path": null,
+        "credit_id": "6356aa20a06efe007f292301",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1727621,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Alice Robert",
+        "original_name": "Alice Robert",
+        "popularity": 0.0948,
+        "profile_path": null,
+        "credit_id": "6356aa0ef8e98200817c5374",
+        "department": "Costume & Make-Up",
+        "job": "Key Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1500497,
+        "known_for_department": "Camera",
+        "name": "Robrecht Heyvaert",
+        "original_name": "Robrecht Heyvaert",
+        "popularity": 0.2327,
+        "profile_path": "/jHZZpTCyJZilDow7bBDvNx8DFW9.jpg",
+        "credit_id": "6356a9f943cd54008267c02e",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1569509,
+        "known_for_department": "Directing",
+        "name": "Amandine Escoffier",
+        "original_name": "Amandine Escoffier",
+        "popularity": 0.0429,
+        "profile_path": null,
+        "credit_id": "6356aa18a06efe007a65b451",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2284332,
+        "known_for_department": "Directing",
+        "name": "Luc Bricault",
+        "original_name": "Luc Bricault",
+        "popularity": 0.1137,
+        "profile_path": "/kfrxRSw1h8ojZZiXTGkxrzQCSzL.jpg",
+        "credit_id": "6356a9e5d6c300007ddbc96f",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 16347,
+        "known_for_department": "Crew",
+        "name": "Patrick Cauderlier",
+        "original_name": "Patrick Cauderlier",
+        "popularity": 0.4527,
+        "profile_path": "/vZXwaZqq8CXEDZS3Xn30CZIQQc8.jpg",
+        "credit_id": "6356aa39d18fb9007ab3e54e",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1618050,
+        "known_for_department": "Editing",
+        "name": "Jean-Christophe Bouzy",
+        "original_name": "Jean-Christophe Bouzy",
+        "popularity": 0.2157,
+        "profile_path": null,
+        "credit_id": "65b17025ea37e00172e483a0",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1648521,
+        "known_for_department": "Art",
+        "name": "Marion Burger",
+        "original_name": "Marion Burger",
+        "popularity": 0.1173,
+        "profile_path": null,
+        "credit_id": "666832850de759906266f617",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 66867,
+        "known_for_department": "Sound",
+        "name": "Dan Levy",
+        "original_name": "Dan Levy",
+        "popularity": 0.0732,
+        "profile_path": "/5RV8pJ6fL4XWQ2BOiUbyYBYiS3N.jpg",
+        "credit_id": "679bf45c95d883ff25011438",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1964494,
+        "known_for_department": "Production",
+        "name": "Cloé Garbay",
+        "original_name": "Cloé Garbay",
+        "popularity": 0.1416,
+        "profile_path": "/9rUrBZJCt5UUUss9cVLcuQoeGvs.jpg",
+        "credit_id": "6867b52fac883ccebf9b339f",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3837999,
+        "known_for_department": "Production",
+        "name": "Laurent Jacobs",
+        "original_name": "Laurent Jacobs",
+        "popularity": 0.065,
+        "profile_path": null,
+        "credit_id": "6867b5423d3498eeee677318",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1542345,
+        "known_for_department": "Production",
+        "name": "Bastien Sirodot",
+        "original_name": "Bastien Sirodot",
+        "popularity": 0.194,
+        "profile_path": "/3ymfiOrLiygU3tv8V8fhJWfBEGZ.jpg",
+        "credit_id": "6867b550c71245180453b869",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1577901,
+        "known_for_department": "Production",
+        "name": "Judith Chalier",
+        "original_name": "Judith Chalier",
+        "popularity": 0.135,
+        "profile_path": "/nObk35UQrNEGbO9i7PfasrlPbKF.jpg",
+        "credit_id": "6867b56426be2697826772d9",
+        "department": "Production",
+        "job": "Casting Director"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "FR",
+        "title": "Pendant ce temps sur Terre",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "CN",
+        "title": "与此同时的地球",
+        "type": ""
+      }
+    ]
+  }
+}

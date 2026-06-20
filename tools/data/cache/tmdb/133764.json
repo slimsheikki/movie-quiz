@@ -1,0 +1,708 @@
+{
+  "adult": false,
+  "backdrop_path": "/eRZOgO9m7UVOCZx9tLal0bSlck5.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 133764,
+  "imdb_id": "tt2208216",
+  "origin_country": [
+    "BE",
+    "FR",
+    "LT"
+  ],
+  "original_language": "lt",
+  "original_title": "Aurora",
+  "overview": "Lucas is a scientist who works near the European experimental project that focus on advanced ‘human neuron research’. The project is to transfer neuron information from one human mind to another. Lukas is chosen to connect his mind with a comatose woman he named Aurora.",
+  "popularity": 0.507,
+  "poster_path": "/2FDPjmAhKcVj0lLZRFjMRjQXV1D.jpg",
+  "production_companies": [
+    {
+      "id": 850,
+      "logo_path": "/aF7qajGJGtMpdrtvssM9g90YanX.png",
+      "name": "Eurimages",
+      "origin_country": "FR"
+    },
+    {
+      "id": 18519,
+      "logo_path": null,
+      "name": "Acajou Films",
+      "origin_country": "FR"
+    },
+    {
+      "id": 19118,
+      "logo_path": "/eM2bob2r7Zmwlbx5YPSeqs4Vm1X.png",
+      "name": "Tremora",
+      "origin_country": "LT"
+    },
+    {
+      "id": 21972,
+      "logo_path": null,
+      "name": "Media Programme of the European Community",
+      "origin_country": "BE"
+    },
+    {
+      "id": 24819,
+      "logo_path": null,
+      "name": "Lietuvos Respublikos kulturos ministerija",
+      "origin_country": "LT"
+    },
+    {
+      "id": 24820,
+      "logo_path": null,
+      "name": "Les Films 2 Cinema",
+      "origin_country": "BE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "BE",
+      "name": "Belgium"
+    },
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "LT",
+      "name": "Lithuania"
+    }
+  ],
+  "release_date": "2012-06-01",
+  "revenue": 0,
+  "runtime": 120,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    },
+    {
+      "english_name": "Lithuanian",
+      "iso_639_1": "lt",
+      "name": "Lietuvių"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Vanishing Waves",
+  "video": false,
+  "vote_average": 5.799,
+  "vote_count": 72,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 559970,
+        "known_for_department": "Acting",
+        "name": "Marius Jampolskis",
+        "original_name": "Marius Jampolskis",
+        "popularity": 0.1359,
+        "profile_path": "/esl2i3n7f8EogvZ0aZEAjBrRAuo.jpg",
+        "cast_id": 3,
+        "character": "Lukas",
+        "credit_id": "52fe4bbbc3a368484e197093",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1153625,
+        "known_for_department": "Acting",
+        "name": "Jurga Jutaitė",
+        "original_name": "Jurga Jutaitė",
+        "popularity": 0.071,
+        "profile_path": null,
+        "cast_id": 2,
+        "character": "Aurora",
+        "credit_id": "52fe4bbbc3a368484e19708f",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2260072,
+        "known_for_department": "Acting",
+        "name": "Rudolfas Jansonas",
+        "original_name": "Rudolfas Jansonas",
+        "popularity": 0.0561,
+        "profile_path": "/pgs9bCWYo7RG108WMyAF87BK54d.jpg",
+        "cast_id": 46,
+        "character": "Jonas",
+        "credit_id": "6589e960325a51587e01c3b8",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1308875,
+        "known_for_department": "Acting",
+        "name": "Vytautas Kaniušonis",
+        "original_name": "Vytautas Kaniušonis",
+        "popularity": 0.2528,
+        "profile_path": "/5rVxBzhmr3CWJk2kGa6ZZIjthGL.jpg",
+        "cast_id": 9,
+        "character": "Mantas",
+        "credit_id": "5347a0b7c3a368670b000c9a",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3323252,
+        "known_for_department": "Directing",
+        "name": "Martina Jablonskytė",
+        "original_name": "Martina Jablonskytė",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 47,
+        "character": "Lina",
+        "credit_id": "6589e98f68b76668b32d20d1",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1335867,
+        "known_for_department": "Acting",
+        "name": "Darius Meškauskas",
+        "original_name": "Darius Meškauskas",
+        "popularity": 0.0846,
+        "profile_path": "/bDjeiZWlbEx0Bg2mo64CVuGaY9w.jpg",
+        "cast_id": 27,
+        "character": "Darius",
+        "credit_id": "53b13e9e0e0a265975007bc9",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 109598,
+        "known_for_department": "Directing",
+        "name": "Šarūnas Bartas",
+        "original_name": "Šarūnas Bartas",
+        "popularity": 0.3183,
+        "profile_path": "/uRBRAgAKmg3486QtafZS8XVgDh0.jpg",
+        "cast_id": 44,
+        "character": "The Man",
+        "credit_id": "5cedecedc3a36865611df2dc",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 587147,
+        "known_for_department": "Acting",
+        "name": "Brice Fournier",
+        "original_name": "Brice Fournier",
+        "popularity": 0.2272,
+        "profile_path": "/sCOMJcVNVMHyztrB2vCG07pIDni.jpg",
+        "cast_id": 4,
+        "character": "Thomas",
+        "credit_id": "52fe4bbbc3a368484e197097",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 943463,
+        "known_for_department": "Acting",
+        "name": "Philip Lenkowsky",
+        "original_name": "Philip Lenkowsky",
+        "popularity": 0.3738,
+        "profile_path": "/1XXxBOgGrtRyUQahEb0CjTQBv0x.jpg",
+        "cast_id": 15,
+        "character": "Damien",
+        "credit_id": "534e3bdbc3a36867a1000fd2",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1276277,
+        "known_for_department": "Acting",
+        "name": "Frédéric Andrau",
+        "original_name": "Frédéric Andrau",
+        "popularity": 0.1386,
+        "profile_path": "/jdnA5WGJTA1qH45Y2YQHcbRk6BV.jpg",
+        "cast_id": 45,
+        "character": "Jacques",
+        "credit_id": "64c10bb5ede1b000e50d1006",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 966842,
+        "known_for_department": "Acting",
+        "name": "Maciej Marczewski",
+        "original_name": "Maciej Marczewski",
+        "popularity": 0.1183,
+        "profile_path": "/1yWlZGGb91W1yhgXFa6dZDb9yK8.jpg",
+        "cast_id": 13,
+        "character": "Alex",
+        "credit_id": "5347a2b6c3a3686713000d43",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1175847,
+        "known_for_department": "Acting",
+        "name": "Nicolas Simon",
+        "original_name": "Nicolas Simon",
+        "popularity": 0.1031,
+        "profile_path": "/al3gOZ026YEgTyvVhg0hf7cSAga.jpg",
+        "cast_id": 14,
+        "character": "Rubin",
+        "credit_id": "5347a2ebc3a3686713000d4d",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1308835,
+        "known_for_department": "Acting",
+        "name": "Arnoldas Eisimantas",
+        "original_name": "Arnoldas Eisimantas",
+        "popularity": 0.0902,
+        "profile_path": "/m8utLBq6vrFIBhoxTLYu8ggrk0S.jpg",
+        "cast_id": 8,
+        "character": "Paulius",
+        "credit_id": "534793fbc3a368672d000c2e",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 995522,
+        "known_for_department": "Acting",
+        "name": "Gabija Jaraminaitė Ryškuvienė",
+        "original_name": "Gabija Jaraminaitė Ryškuvienė",
+        "popularity": 0.1075,
+        "profile_path": null,
+        "cast_id": 26,
+        "character": "Doctor",
+        "credit_id": "53958db90e0a266dbb0066fe",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1308876,
+        "known_for_department": "Acting",
+        "name": "Rasmante Burzaite",
+        "original_name": "Rasmante Burzaite",
+        "popularity": 0.0621,
+        "profile_path": null,
+        "cast_id": 10,
+        "character": "Nurse",
+        "credit_id": "5347a0cec3a36866fd000d5e",
+        "order": 14
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 995521,
+        "known_for_department": "Directing",
+        "name": "Kristina Buožytė",
+        "original_name": "Kristina Buozyte",
+        "popularity": 0.2194,
+        "profile_path": "/1gCbPq6BoQaExQj8TTW1XD1OKLY.jpg",
+        "credit_id": "52fe4bbbc3a368484e1970a1",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 995521,
+        "known_for_department": "Directing",
+        "name": "Kristina Buožytė",
+        "original_name": "Kristina Buozyte",
+        "popularity": 0.2194,
+        "profile_path": "/1gCbPq6BoQaExQj8TTW1XD1OKLY.jpg",
+        "credit_id": "52fe4bbbc3a368484e19708b",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1158485,
+        "known_for_department": "Writing",
+        "name": "Bruno Samper",
+        "original_name": "Bruno Samper",
+        "popularity": 0.1784,
+        "profile_path": null,
+        "credit_id": "52fe4bbbc3a368484e1970a7",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1142945,
+        "known_for_department": "Production",
+        "name": "Aleksandra Gruber",
+        "original_name": "Aleksandra Gruber",
+        "popularity": 0.0193,
+        "profile_path": null,
+        "credit_id": "53958c670e0a266dc50062da",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 137215,
+        "known_for_department": "Editing",
+        "name": "Suzanne Fenn",
+        "original_name": "Suzanne Fenn",
+        "popularity": 0.2234,
+        "profile_path": null,
+        "credit_id": "53958bcf0e0a266dca006401",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1329077,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Vaida Venckute",
+        "original_name": "Vaida Venckute",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "53958c4e0e0a266dce0064e6",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1329071,
+        "known_for_department": "Production",
+        "name": "Ieva Norvilienė",
+        "original_name": "Ieva Norvilienė",
+        "popularity": 0.0724,
+        "profile_path": null,
+        "credit_id": "53958b7e0e0a266dc50062b0",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 928756,
+        "known_for_department": "Production",
+        "name": "Simas Lindesis",
+        "original_name": "Simas Lindesis",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "53958c920e0a266dbf006415",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1329076,
+        "known_for_department": "Art",
+        "name": "Audrius Dumikas",
+        "original_name": "Audrius Dumikas",
+        "popularity": 0.0434,
+        "profile_path": null,
+        "credit_id": "53958c370e0a266dbf00640a",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1329074,
+        "known_for_department": "Production",
+        "name": "Inga Paškevičiūtė",
+        "original_name": "Inga Paškevičiūtė",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "53958c050e0a266dbb0066d7",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1598577,
+        "known_for_department": "Directing",
+        "name": "Jelena Grišina",
+        "original_name": "Jelena Grišina",
+        "popularity": 0.0915,
+        "profile_path": null,
+        "credit_id": "56fbe6419251415f45000e27",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1598576,
+        "known_for_department": "Camera",
+        "name": "Audrius Zelenius",
+        "original_name": "Audrius Zelenius",
+        "popularity": 0.0462,
+        "profile_path": null,
+        "credit_id": "56fbe60d92514115060018f3",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1598579,
+        "known_for_department": "Visual Effects",
+        "name": "Julius Ragaisis",
+        "original_name": "Julius Ragaisis",
+        "popularity": 0.0404,
+        "profile_path": null,
+        "credit_id": "56fbe6d5925141432600268e",
+        "department": "Visual Effects",
+        "job": "Animation Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1598444,
+        "known_for_department": "Lighting",
+        "name": "Simas Gricius",
+        "original_name": "Simas Gricius",
+        "popularity": 0.0699,
+        "profile_path": "/zJ8AkKp3HfiyLxWrk4JBSDNao6i.jpg",
+        "credit_id": "56fbe5fb92514115060018ec",
+        "department": "Lighting",
+        "job": "Lighting Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1598575,
+        "known_for_department": "Lighting",
+        "name": "Rimas Jurgelevicius",
+        "original_name": "Rimas Jurgelevicius",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "56fbe5e892514128850029b1",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1329072,
+        "known_for_department": "Camera",
+        "name": "Feliksas Abrukauskas",
+        "original_name": "Feliksas Abrukauskas",
+        "popularity": 0.1089,
+        "profile_path": "/r3Gre3Rvo4W4iOzXRFvBVPYMeQE.jpg",
+        "credit_id": "56fbe5d89251415f45000e11",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1598578,
+        "known_for_department": "Visual Effects",
+        "name": "Platon Filimonov",
+        "original_name": "Platon Filimonov",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "56fbe6bb9251417973001c69",
+        "department": "Visual Effects",
+        "job": "3D Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1413347,
+        "known_for_department": "Camera",
+        "name": "Ariel Salati",
+        "original_name": "Ariel Salati",
+        "popularity": 0.0574,
+        "profile_path": null,
+        "credit_id": "56fbe6209251414326002671",
+        "department": "Camera",
+        "job": "Steadicam Operator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1598581,
+        "known_for_department": "Sound",
+        "name": "Giedrius Aleknavičius",
+        "original_name": "Giedrius Aleknavičius",
+        "popularity": 0.1303,
+        "profile_path": null,
+        "credit_id": "56fbe75b92514143260026a0",
+        "department": "Crew",
+        "job": "Sound Recordist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1598583,
+        "known_for_department": "Sound",
+        "name": "Leo Pouget",
+        "original_name": "Leo Pouget",
+        "popularity": 0.0261,
+        "profile_path": null,
+        "credit_id": "56fbe7b4c3a36808c2002cfd",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1417214,
+        "known_for_department": "Visual Effects",
+        "name": "Vitalijus Žukas",
+        "original_name": "Vitalijus Žukas",
+        "popularity": 0.0544,
+        "profile_path": null,
+        "credit_id": "56fbe72ac3a36808cf002c99",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1598582,
+        "known_for_department": "Sound",
+        "name": "Nicolas Titeux",
+        "original_name": "Nicolas Titeux",
+        "popularity": 0.0673,
+        "profile_path": null,
+        "credit_id": "56fbe7a1c3a36808ac002d75",
+        "department": "Crew",
+        "job": "Sound Recordist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1525202,
+        "known_for_department": "Sound",
+        "name": "Vytis Puronas",
+        "original_name": "Vytis Puronas",
+        "popularity": 0.0978,
+        "profile_path": "/aLC80eHTgUKueOQBrfMiDLdR7gi.jpg",
+        "credit_id": "56fbe77cc3a36808c8002ad0",
+        "department": "Sound",
+        "job": "Dolby Consultant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1598584,
+        "known_for_department": "Sound",
+        "name": "Karen Blum",
+        "original_name": "Karen Blum",
+        "popularity": 0.0357,
+        "profile_path": null,
+        "credit_id": "56fbe7c9c3a36808a70029ea",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1598580,
+        "known_for_department": "Visual Effects",
+        "name": "Rita Anskaitienė",
+        "original_name": "Rita Anskaitienė",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "56fbe709c3a36808d7002a4c",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1419725,
+        "known_for_department": "Visual Effects",
+        "name": "Jean-François Ferland",
+        "original_name": "Jean-François Ferland",
+        "popularity": 0.2622,
+        "profile_path": "/om2OYd0D9LPwX0gEOmagBiO4VtO.jpg",
+        "credit_id": "56fbe74092514128830029fa",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1163441,
+        "known_for_department": "Sound",
+        "name": "Peter Von Poehl",
+        "original_name": "Peter Von Poehl",
+        "popularity": 0.0549,
+        "profile_path": null,
+        "credit_id": "67e7d60e87145de32d638002",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "GB",
+        "title": "Vanishing Waves",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "HU",
+        "title": "Eltűnő Hullámok",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "PL",
+        "title": "Znikajace Fale",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "RU",
+        "title": "Исчезающие Bолны",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "FR",
+        "title": "Vanishing Waves",
+        "type": ""
+      }
+    ]
+  }
+}

@@ -1,0 +1,745 @@
+{
+  "adult": false,
+  "backdrop_path": "/kgAZX0WXLuK6YYQ6lKN2UdF1Tho.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "",
+  "id": 1818,
+  "imdb_id": "tt0054389",
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "Tirez sur le pianiste",
+  "overview": "Charlie is a former classical pianist who has changed his name and now plays jazz in a grimy Paris bar. When Charlie's brothers, Richard and Chico, surface and ask for Charlie's help while on the run from gangsters they have scammed, he aids their escape. Soon Charlie and Lena, a waitress at the same bar, face trouble when the gangsters arrive, looking for his brothers.",
+  "popularity": 0.7817,
+  "poster_path": "/6UhMIZaaoe2HUU7sEIwYpuYgugh.jpg",
+  "production_companies": [
+    {
+      "id": 745,
+      "logo_path": null,
+      "name": "Les Films de la Pléiade",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "1960-11-25",
+  "revenue": 0,
+  "runtime": 85,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "François Truffaut, Brilliant Director Who Gave You the Award Winning \"The 400 Blows\", Now Brings to the Screen a Fascinating New Work That Plays in Many Keys...All of Them Delightful!",
+  "title": "Shoot the Piano Player",
+  "video": false,
+  "vote_average": 7.185,
+  "vote_count": 440,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 10268,
+        "known_for_department": "Acting",
+        "name": "Charles Aznavour",
+        "original_name": "Charles Aznavour",
+        "popularity": 0.6843,
+        "profile_path": "/yC3yv9Z8J8v4UteLFiDIx97fKYx.jpg",
+        "cast_id": 10,
+        "character": "Charlie Kohler/Edouard Saroyan",
+        "credit_id": "52fe4317c3a36847f8039a19",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 18218,
+        "known_for_department": "Acting",
+        "name": "Marie Dubois",
+        "original_name": "Marie Dubois",
+        "popularity": 0.7571,
+        "profile_path": "/dBReb1CqLpGmZYG2pHJzxoFgFts.jpg",
+        "cast_id": 11,
+        "character": "Léna",
+        "credit_id": "52fe4317c3a36847f8039a1d",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 19269,
+        "known_for_department": "Acting",
+        "name": "Nicole Berger",
+        "original_name": "Nicole Berger",
+        "popularity": 0.2307,
+        "profile_path": "/reT51hjkYj99XOJDN5VMSvLWTcc.jpg",
+        "cast_id": 12,
+        "character": "Thérèse Saroyan",
+        "credit_id": "52fe4317c3a36847f8039a21",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 19270,
+        "known_for_department": "Acting",
+        "name": "Michèle Mercier",
+        "original_name": "Michèle Mercier",
+        "popularity": 0.644,
+        "profile_path": "/bktgqSJAuD3MQoJl8fomncfWpef.jpg",
+        "cast_id": 13,
+        "character": "Clarisse",
+        "credit_id": "52fe4317c3a36847f8039a25",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 148302,
+        "known_for_department": "Acting",
+        "name": "Serge Davri",
+        "original_name": "Serge Davri",
+        "popularity": 0.2435,
+        "profile_path": "/y8HRuatPS0GQ2PqjikRtqCG98mu.jpg",
+        "cast_id": 14,
+        "character": "Plyne",
+        "credit_id": "52fe4317c3a36847f8039a29",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3834,
+        "known_for_department": "Acting",
+        "name": "Claude Mansard",
+        "original_name": "Claude Mansard",
+        "popularity": 0.206,
+        "profile_path": "/vnxKGtSkKDBxejd8nT0xgsBR25x.jpg",
+        "cast_id": 15,
+        "character": "Momo",
+        "credit_id": "52fe4317c3a36847f8039a2d",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 150939,
+        "known_for_department": "Acting",
+        "name": "Richard Kanayan",
+        "original_name": "Richard Kanayan",
+        "popularity": 0.0662,
+        "profile_path": "/yYa9FYUQmhhHM7J09avC2hnb7cb.jpg",
+        "cast_id": 16,
+        "character": "Fido Saroyan",
+        "credit_id": "52fe4317c3a36847f8039a31",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1655,
+        "known_for_department": "Acting",
+        "name": "Albert Rémy",
+        "original_name": "Albert Rémy",
+        "popularity": 0.3964,
+        "profile_path": "/fHpCOCEVNGlurBETZfFBKI5Hxmp.jpg",
+        "cast_id": 17,
+        "character": "Chico Saroyan",
+        "credit_id": "52fe4317c3a36847f8039a35",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1533137,
+        "known_for_department": "Acting",
+        "name": "Jean-Jacques Aslanian",
+        "original_name": "Jean-Jacques Aslanian",
+        "popularity": 0.0311,
+        "profile_path": null,
+        "cast_id": 18,
+        "character": "Richard Saroyan",
+        "credit_id": "563f843dc3a36862da0081a1",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3573,
+        "known_for_department": "Writing",
+        "name": "Daniel Boulanger",
+        "original_name": "Daniel Boulanger",
+        "popularity": 0.4171,
+        "profile_path": "/sdXg9TM9ox0ANO95CHpWUD9siUH.jpg",
+        "cast_id": 19,
+        "character": "Ernest",
+        "credit_id": "563f8455c3a3681b5e02d109",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1010125,
+        "known_for_department": "Directing",
+        "name": "Claude Heymann",
+        "original_name": "Claude Heymann",
+        "popularity": 0.2832,
+        "profile_path": null,
+        "cast_id": 20,
+        "character": "Lars Schmeel",
+        "credit_id": "563f847dc3a3681b54031297",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 545469,
+        "known_for_department": "Directing",
+        "name": "Alex Joffé",
+        "original_name": "Alex Joffé",
+        "popularity": 0.2677,
+        "profile_path": "/f4qzLlBIicfmEnniXIgIaEjoxrT.jpg",
+        "cast_id": 21,
+        "character": "Passerby",
+        "credit_id": "5831b88dc3a3685bb00248f3",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 32323,
+        "known_for_department": "Acting",
+        "name": "Boby Lapointe",
+        "original_name": "Boby Lapointe",
+        "popularity": 0.0773,
+        "profile_path": "/pFRFg1KCYQQYRQ5WUOGjnN4h1Tg.jpg",
+        "cast_id": 22,
+        "character": "Le chanteur",
+        "credit_id": "5831babf92514162c602737e",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3514,
+        "known_for_department": "Acting",
+        "name": "Catherine Lutz",
+        "original_name": "Catherine Lutz",
+        "popularity": 0.1817,
+        "profile_path": null,
+        "cast_id": 23,
+        "character": "Mammy",
+        "credit_id": "5831bc33c3a3685b9d0277ef",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1004633,
+        "known_for_department": "Acting",
+        "name": "Laure Paillette",
+        "original_name": "Laure Paillette",
+        "popularity": 0.1404,
+        "profile_path": "/raHcFZmGVNDeNLmGJMrLQh7lVrA.jpg",
+        "cast_id": 38,
+        "character": "La mère (uncredited)",
+        "credit_id": "5e07d36e5ff34e0013b66310",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 39331,
+        "known_for_department": "Acting",
+        "name": "Alice Sapritch",
+        "original_name": "Alice Sapritch",
+        "popularity": 0.496,
+        "profile_path": "/ve8ggaumg6jkKIXUP3ePCC0Q0zK.jpg",
+        "cast_id": 39,
+        "character": "Concierge (uncredited)",
+        "credit_id": "5e07d380eda4b700122d00b9",
+        "order": 15
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1650,
+        "known_for_department": "Directing",
+        "name": "François Truffaut",
+        "original_name": "François Truffaut",
+        "popularity": 0.9046,
+        "profile_path": "/3bXLtipaybsje01LlQvHvuUAZNq.jpg",
+        "credit_id": "52fe4317c3a36847f80399eb",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 18196,
+        "known_for_department": "Production",
+        "name": "Pierre Braunberger",
+        "original_name": "Pierre Braunberger",
+        "popularity": 0.1807,
+        "profile_path": null,
+        "credit_id": "52fe4317c3a36847f80399f7",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3838,
+        "known_for_department": "Editing",
+        "name": "Cécile Decugis",
+        "original_name": "Cécile Decugis",
+        "popularity": 0.1939,
+        "profile_path": null,
+        "credit_id": "52fe4317c3a36847f8039a0f",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3535,
+        "known_for_department": "Sound",
+        "name": "Georges Delerue",
+        "original_name": "Georges Delerue",
+        "popularity": 0.223,
+        "profile_path": "/xKRsHzgZicN1KCUmnl4M09TVCxE.jpg",
+        "credit_id": "52fe4317c3a36847f80399fd",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3540,
+        "known_for_department": "Camera",
+        "name": "Raoul Coutard",
+        "original_name": "Raoul Coutard",
+        "popularity": 0.2409,
+        "profile_path": "/fEwMCINuiSOu4f3CzHG3UL0BNIc.jpg",
+        "credit_id": "52fe4317c3a36847f8039a03",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 18223,
+        "known_for_department": "Editing",
+        "name": "Claudine Bouché",
+        "original_name": "Claudine Bouché",
+        "popularity": 0.1657,
+        "profile_path": null,
+        "credit_id": "52fe4317c3a36847f8039a09",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 226241,
+        "known_for_department": "Acting",
+        "name": "Bjørn Johansen",
+        "original_name": "Bjørn Johansen",
+        "popularity": 0.0387,
+        "profile_path": null,
+        "credit_id": "5e07d1e026dac100127181c6",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2028418,
+        "known_for_department": "Camera",
+        "name": "Raymond Cauchetier",
+        "original_name": "Raymond Cauchetier",
+        "popularity": 0.1437,
+        "profile_path": null,
+        "credit_id": "5e07d22e5ff34e0013b660c3",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1545829,
+        "known_for_department": "Production",
+        "name": "Roger Fleytoux",
+        "original_name": "Roger Fleytoux",
+        "popularity": 0.1185,
+        "profile_path": null,
+        "credit_id": "5e07d28beda4b700122d0052",
+        "department": "Production",
+        "job": "Administration"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2492824,
+        "known_for_department": "Directing",
+        "name": "Francis Cognany",
+        "original_name": "Francis Cognany",
+        "popularity": 0.0884,
+        "profile_path": null,
+        "credit_id": "5e07d1c3d236e60010a01269",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1169695,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Jacqueline Pipard",
+        "original_name": "Jacqueline Pipard",
+        "popularity": 0.0985,
+        "profile_path": null,
+        "credit_id": "5e07d17dd236e60010a011b0",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1435919,
+        "known_for_department": "Camera",
+        "name": "Claude Beausoleil",
+        "original_name": "Claude Beausoleil",
+        "popularity": 0.1292,
+        "profile_path": null,
+        "credit_id": "5e07d21a26dac100177393c1",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 416915,
+        "known_for_department": "Art",
+        "name": "Jacques Mély",
+        "original_name": "Jacques Mély",
+        "popularity": 0.0387,
+        "profile_path": null,
+        "credit_id": "5e07d167d236e600129f105a",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 233492,
+        "known_for_department": "Directing",
+        "name": "Robert Bober",
+        "original_name": "Robert Bober",
+        "popularity": 0.0505,
+        "profile_path": null,
+        "credit_id": "5e07d1a65aadc400152aa334",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2492826,
+        "known_for_department": "Production",
+        "name": "Luce Deuss",
+        "original_name": "Luce Deuss",
+        "popularity": 0.0256,
+        "profile_path": null,
+        "credit_id": "5e07d2734c1d9a0015e29db5",
+        "department": "Production",
+        "job": "Production Secretary"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3583,
+        "known_for_department": "Writing",
+        "name": "Suzanne Schiffman",
+        "original_name": "Suzanne Schiffman",
+        "popularity": 0.3,
+        "profile_path": "/l3hKqjRlKopffuyPXW4csZtHmWT.jpg",
+        "credit_id": "5e07d26126dac10017739423",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 19267,
+        "known_for_department": "Writing",
+        "name": "David Goodis",
+        "original_name": "David Goodis",
+        "popularity": 0.2917,
+        "profile_path": "/zjIYGoyY7hRo3hNZcNcDoRhVKui.jpg",
+        "credit_id": "5e07d0ae5aadc400152aa167",
+        "department": "Writing",
+        "job": "Novel"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1634673,
+        "known_for_department": "Production",
+        "name": "Serge Komor",
+        "original_name": "Serge Komor",
+        "popularity": 0.0297,
+        "profile_path": null,
+        "credit_id": "5e07d195d285af00168ff167",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2473484,
+        "known_for_department": "Camera",
+        "name": "Jean-Louis Malige",
+        "original_name": "Jean-Louis Malige",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "5e07d23b5ff34e0013b660d1",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 19268,
+        "known_for_department": "Sound",
+        "name": "Jacques Gallois",
+        "original_name": "Jacques Gallois",
+        "popularity": 0.0864,
+        "profile_path": null,
+        "credit_id": "5e3e446d0c271000157b03b1",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1652,
+        "known_for_department": "Writing",
+        "name": "Marcel Moussy",
+        "original_name": "Marcel Moussy",
+        "popularity": 0.0868,
+        "profile_path": null,
+        "credit_id": "5e3e44119603310013ead0b5",
+        "department": "Writing",
+        "job": "Adaptation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1650,
+        "known_for_department": "Directing",
+        "name": "François Truffaut",
+        "original_name": "François Truffaut",
+        "popularity": 0.9046,
+        "profile_path": "/3bXLtipaybsje01LlQvHvuUAZNq.jpg",
+        "credit_id": "5e3e43fc98f1f100140e7313",
+        "department": "Writing",
+        "job": "Adaptation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1650,
+        "known_for_department": "Directing",
+        "name": "François Truffaut",
+        "original_name": "François Truffaut",
+        "popularity": 0.9046,
+        "profile_path": "/3bXLtipaybsje01LlQvHvuUAZNq.jpg",
+        "credit_id": "5e3e440641465c0016c8fcac",
+        "department": "Writing",
+        "job": "Dialogue"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "GB",
+        "title": "Shoot the Pianist",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "AR",
+        "title": "Disparen sobre el pianista",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "BG",
+        "title": "Стреляйте по пианиста",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "KR",
+        "title": "피아니스트를 쏴라",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "US",
+        "title": "Shoot the Piano Player",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "NO",
+        "title": "Skyt på pianisten",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "JP",
+        "title": "ピアニストを撃て",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "MK",
+        "title": "Пукај во пијанистот",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "RU",
+        "title": "Стреляйте в пианиста",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "DK",
+        "title": "Skyd på pianisten",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "DE",
+        "title": "Schießen Sie auf den Pianisten",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "EE",
+        "title": "Tuld klaverimängija pihta",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "ES",
+        "title": "Tirad sobre el pianista",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "IT",
+        "title": "Tirate sul pianista",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "HU",
+        "title": "Lőj a zongoristára!",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "NL",
+        "title": "Schiet op de pianist",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "PL",
+        "title": "Strzelajcie do pianisty",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "BR",
+        "title": "Atirem no Pianista",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "PT",
+        "title": "Disparem Sobre o Pianista",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "AM",
+        "title": "Կրակեք դաշնակահարի վրա",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "FI",
+        "title": "Ampukaa pianistia",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "SE",
+        "title": "Skjut på pianisten!",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "IR",
+        "title": "به پیانیست شلیک کن",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "IL",
+        "title": "תירו בפסנתרן",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "CN",
+        "title": "射杀钢琴师",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "HK",
+        "title": "射殺鋼琴師",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "CZ",
+        "title": "Střílejte na pianistu",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "TR",
+        "title": "Piyanisti Vurun",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "UA",
+        "title": "Стріляйте в піаніста",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "LV",
+        "title": "Nošaujiet pianistu",
+        "type": "alternative title"
+      }
+    ]
+  }
+}

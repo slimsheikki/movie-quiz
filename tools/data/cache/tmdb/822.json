@@ -1,0 +1,557 @@
+{
+  "adult": false,
+  "backdrop_path": "/mh4WEd1A3iYtu6uPgsiGboCkRFb.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ],
+  "homepage": "",
+  "id": 822,
+  "imdb_id": "tt0051792",
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "bn",
+  "original_title": "জলসাঘর",
+  "overview": "An aging, decadent landlord’s passion for music becomes the undoing of his legacy as he sacrifices his wealth in order to compete with the opulent music room of his younger, richer neighbour.",
+  "popularity": 0.719,
+  "poster_path": "/1coINFn9GDeFr09QtkzjgTUbev5.jpg",
+  "production_companies": [
+    {
+      "id": 58215,
+      "logo_path": null,
+      "name": "Arora",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "release_date": "1958-10-10",
+  "revenue": 0,
+  "runtime": 100,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Bengali",
+      "iso_639_1": "bn",
+      "name": "বাংলা"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Music Room",
+  "video": false,
+  "vote_average": 7.531,
+  "vote_count": 160,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 12170,
+        "known_for_department": "Acting",
+        "name": "Chhabi Biswas",
+        "original_name": "Chhabi Biswas",
+        "popularity": 0.2926,
+        "profile_path": "/yUmZUJVPPxFyUDC53bvfKpDk7Dq.jpg",
+        "cast_id": 11,
+        "character": "Biswambhar Roy",
+        "credit_id": "52fe427cc3a36847f802254b",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 12173,
+        "known_for_department": "Acting",
+        "name": "Gangapada Basu",
+        "original_name": "Gangapada Basu",
+        "popularity": 0.2685,
+        "profile_path": "/9DkiVQLWtdCQvEZLLl7snAJEZ0K.jpg",
+        "cast_id": 14,
+        "character": "Mahim Ganguli",
+        "credit_id": "52fe427cc3a36847f8022557",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 12172,
+        "known_for_department": "Acting",
+        "name": "Kali Sarkar",
+        "original_name": "Kali Sarkar",
+        "popularity": 0.1604,
+        "profile_path": null,
+        "cast_id": 13,
+        "character": "Anantha",
+        "credit_id": "52fe427cc3a36847f8022553",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 12174,
+        "known_for_department": "Acting",
+        "name": "Tulsi Lahiri",
+        "original_name": "Tulsi Lahiri",
+        "popularity": 0.086,
+        "profile_path": "/gXHbsZxLUMb7zoExyERA58oPJDR.jpg",
+        "cast_id": 15,
+        "character": "Prashanna",
+        "credit_id": "52fe427cc3a36847f802255b",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 12171,
+        "known_for_department": "Acting",
+        "name": "Padmadevi",
+        "original_name": "Padmadevi",
+        "popularity": 0.2046,
+        "profile_path": "/j80DjlSvoC0nGEvF6jcKdNjjEAw.jpg",
+        "cast_id": 12,
+        "character": "Mahamaya Roy",
+        "credit_id": "52fe427cc3a36847f802254f",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 12175,
+        "known_for_department": "Acting",
+        "name": "Pinaki Sengupta",
+        "original_name": "Pinaki Sengupta",
+        "popularity": 0.1833,
+        "profile_path": "/6MkmjUtm6aMF8s4WBzN7jvLRgCQ.jpg",
+        "cast_id": 16,
+        "character": "Khoka Roy",
+        "credit_id": "52fe427cc3a36847f802255f",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4653723,
+        "known_for_department": "Sound",
+        "name": "Begum Akhtar",
+        "original_name": "Begum Akhtar",
+        "popularity": 0.0732,
+        "profile_path": "/b1LrAO1AETt6FSmM277lPenUlUn.jpg",
+        "cast_id": 34,
+        "character": "Durga Bai",
+        "credit_id": "661cceb9931ea1014a64ac9b",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 12177,
+        "known_for_department": "Acting",
+        "name": "Waheed Khan",
+        "original_name": "Waheed Khan",
+        "popularity": 0.1005,
+        "profile_path": null,
+        "cast_id": 18,
+        "character": "Ustad Ujir Khan",
+        "credit_id": "52fe427cc3a36847f8022567",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2441991,
+        "known_for_department": "Crew",
+        "name": "Roshan Kumari",
+        "original_name": "Roshan Kumari",
+        "popularity": 0.0753,
+        "profile_path": null,
+        "cast_id": 33,
+        "character": "Krishna Bai",
+        "credit_id": "5db58d71d40d4c0012fcaf3b",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1289219,
+        "known_for_department": "Acting",
+        "name": "Sardar Akhtar",
+        "original_name": "Sardar Akhtar",
+        "popularity": 0.151,
+        "profile_path": "/2WhRyUKPabxa57s31Xhrl5OP2vW.jpg",
+        "cast_id": 28,
+        "character": "Singer",
+        "credit_id": "5945d2ea9251413ff401a60d",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1835068,
+        "known_for_department": "Acting",
+        "name": "Bismillah Khan",
+        "original_name": "Bismillah Khan",
+        "popularity": 0.0218,
+        "profile_path": null,
+        "cast_id": 29,
+        "character": "Musician",
+        "credit_id": "5945d30ac3a368167601b75f",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4653724,
+        "known_for_department": "Acting",
+        "name": "Dakshinamohan Thakur",
+        "original_name": "Dakshinamohan Thakur",
+        "popularity": 0,
+        "profile_path": null,
+        "cast_id": 35,
+        "character": "Musician",
+        "credit_id": "661ccf2eec0c580163740596",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4653725,
+        "known_for_department": "Acting",
+        "name": "Ashish Kumar",
+        "original_name": "Ashish Kumar",
+        "popularity": 0,
+        "profile_path": null,
+        "cast_id": 36,
+        "character": "Musician",
+        "credit_id": "661ccf4b0e5aba0186f4fe2c",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4653726,
+        "known_for_department": "Acting",
+        "name": "Robin Mazumdar",
+        "original_name": "Robin Mazumdar",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "cast_id": 37,
+        "character": "Musician",
+        "credit_id": "661ccf6f6d1bb20163385916",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4653727,
+        "known_for_department": "Acting",
+        "name": "Imrat Khan",
+        "original_name": "Imrat Khan",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 38,
+        "character": "Sitar Player",
+        "credit_id": "661ccf9a389da10186361f25",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1835069,
+        "known_for_department": "Acting",
+        "name": "Salamat Ali Khan",
+        "original_name": "Salamat Ali Khan",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 30,
+        "character": "Khyal singer",
+        "credit_id": "5945d3439251413fdd01a388",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1835070,
+        "known_for_department": "Acting",
+        "name": "Tarapada Nandy",
+        "original_name": "Tarapada Nandy",
+        "popularity": 0.0261,
+        "profile_path": null,
+        "cast_id": 31,
+        "character": "",
+        "credit_id": "5945d3ecc3a36816c501ad86",
+        "order": 16
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 12161,
+        "known_for_department": "Writing",
+        "name": "Tarasankar Bandyopadhyay",
+        "original_name": "Tarasankar Bandyopadhyay",
+        "popularity": 0.1513,
+        "profile_path": null,
+        "credit_id": "52fe427bc3a36847f8022517",
+        "department": "Writing",
+        "job": "Novel"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 12162,
+        "known_for_department": "Sound",
+        "name": "Ustad Vilayat Khan",
+        "original_name": "Ustad Vilayat Khan",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "credit_id": "52fe427cc3a36847f802251d",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 12167,
+        "known_for_department": "Editing",
+        "name": "Dulal Dutta",
+        "original_name": "Dulal Dutta",
+        "popularity": 0.1638,
+        "profile_path": "/lXWvedwh8mONznYcNCFdazn7VZw.jpg",
+        "credit_id": "52fe427cc3a36847f802253b",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 12168,
+        "known_for_department": "Art",
+        "name": "Bansi Chandragupta",
+        "original_name": "Bansi Chandragupta",
+        "popularity": 0.16,
+        "profile_path": null,
+        "credit_id": "52fe427cc3a36847f8022541",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 12160,
+        "known_for_department": "Directing",
+        "name": "Satyajit Ray",
+        "original_name": "Satyajit Ray",
+        "popularity": 0.5523,
+        "profile_path": "/qP5mjuc3dL8n9c1zeY4W6L2w38L.jpg",
+        "credit_id": "52fe427bc3a36847f8022511",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 12166,
+        "known_for_department": "Camera",
+        "name": "Subrata Mitra",
+        "original_name": "Subrata Mitra",
+        "popularity": 0.0915,
+        "profile_path": "/kplyeqwOXDumsQeL5USjGafht14.jpg",
+        "credit_id": "52fe427cc3a36847f8022535",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 12168,
+        "known_for_department": "Art",
+        "name": "Bansi Chandragupta",
+        "original_name": "Bansi Chandragupta",
+        "popularity": 0.16,
+        "profile_path": null,
+        "credit_id": "5708121c9251415bbb0000d4",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 12160,
+        "known_for_department": "Directing",
+        "name": "Satyajit Ray",
+        "original_name": "Satyajit Ray",
+        "popularity": 0.5523,
+        "profile_path": "/qP5mjuc3dL8n9c1zeY4W6L2w38L.jpg",
+        "credit_id": "5708126d9251415bbb0000de",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 12160,
+        "known_for_department": "Directing",
+        "name": "Satyajit Ray",
+        "original_name": "Satyajit Ray",
+        "popularity": 0.5523,
+        "profile_path": "/qP5mjuc3dL8n9c1zeY4W6L2w38L.jpg",
+        "credit_id": "57081206c3a3681d320000cf",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1559024,
+        "known_for_department": "Production",
+        "name": "Anil Choudhury",
+        "original_name": "Anil Choudhury",
+        "popularity": 0.1694,
+        "profile_path": null,
+        "credit_id": "570812279251415bbe0000ef",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 12169,
+        "known_for_department": "Sound",
+        "name": "Durgadas Mitra",
+        "original_name": "Durgadas Mitra",
+        "popularity": 0.0264,
+        "profile_path": null,
+        "credit_id": "5708124b9251415bc30000e8",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1559069,
+        "known_for_department": "Directing",
+        "name": "Shailen Dutta",
+        "original_name": "Shailen Dutta",
+        "popularity": 0.0362,
+        "profile_path": null,
+        "credit_id": "570812399251415bcf0000db",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1602838,
+        "known_for_department": "Writing",
+        "name": "Santi P. Choudhury",
+        "original_name": "Santi P. Choudhury",
+        "popularity": 0.0168,
+        "profile_path": null,
+        "credit_id": "5708127ac3a3681d2c0000fd",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1559100,
+        "known_for_department": "Directing",
+        "name": "Tapeshwar Prasad",
+        "original_name": "Tapeshwar Prasad",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "570812419251415bca0000d4",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1305288,
+        "known_for_department": "Directing",
+        "name": "Nityananda Datta",
+        "original_name": "Nityananda Datta",
+        "popularity": 0.0911,
+        "profile_path": "/aSk3gMpudCdTTFKBs2JYTvbYsR9.jpg",
+        "credit_id": "57081232c3a3681d2900010d",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2441991,
+        "known_for_department": "Crew",
+        "name": "Roshan Kumari",
+        "original_name": "Roshan Kumari",
+        "popularity": 0.0753,
+        "profile_path": null,
+        "credit_id": "5db58d570792e10015405915",
+        "department": "Crew",
+        "job": "Choreographer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 12164,
+        "known_for_department": "Acting",
+        "name": "Robin Majumdar",
+        "original_name": "রবিন মজুমদার",
+        "popularity": 0.0533,
+        "profile_path": null,
+        "credit_id": "671b4206e833d92ef0600660",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "US",
+        "title": "The Music Room",
+        "type": "International Title"
+      },
+      {
+        "iso_3166_1": "DE",
+        "title": "Jalsaghar",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "BR",
+        "title": "A Sala de Música",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "GB",
+        "title": "The Music Room",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "IN",
+        "title": "Jalsaghar",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "KR",
+        "title": "뮤직 룸",
+        "type": ""
+      }
+    ]
+  }
+}

@@ -1,0 +1,572 @@
+{
+  "adult": false,
+  "backdrop_path": "/nWPVGwWANbpCLr8q8fTso2ZE8Ze.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "http://www.nieulotne.pl/en",
+  "id": 153781,
+  "imdb_id": "tt2551428",
+  "origin_country": [
+    "PL"
+  ],
+  "original_language": "pl",
+  "original_title": "Nieulotne",
+  "overview": "Lasting is an emotional love story about Michał and Karina, a pair of Polish students who meet and fall in love with each other while working summer jobs in Spain. An unexpected nightmare brutally breaks into their carefree time in the heavenly landscape and throws their lives into chaos.",
+  "popularity": 0.4406,
+  "poster_path": "/z1mYYIlnyUnbWZN2m1cJeqi2PuG.jpg",
+  "production_companies": [
+    {
+      "id": 79104,
+      "logo_path": null,
+      "name": "AP Mañana",
+      "origin_country": "PL"
+    },
+    {
+      "id": 30161,
+      "logo_path": "/h6dniliQm3tgLXBggnXz5u0KpF9.png",
+      "name": "Krakowskie Biuro Festiwalowe",
+      "origin_country": "PL"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "PL",
+      "name": "Poland"
+    }
+  ],
+  "release_date": "2013-01-08",
+  "revenue": 0,
+  "runtime": 89,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Polish",
+      "iso_639_1": "pl",
+      "name": "Polski"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Lasting",
+  "video": false,
+  "vote_average": 4.8,
+  "vote_count": 19,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 489961,
+        "known_for_department": "Acting",
+        "name": "Jakub Gierszał",
+        "original_name": "Jakub Gierszał",
+        "popularity": 1.7925,
+        "profile_path": "/z54kt8s5OsRooCWBMT2Df4q61BZ.jpg",
+        "cast_id": 3,
+        "character": "Michał",
+        "credit_id": "52fe4b4c9251416c910d60e5",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1138756,
+        "known_for_department": "Acting",
+        "name": "Magdalena Berus",
+        "original_name": "Magdalena Berus",
+        "popularity": 0.0984,
+        "profile_path": "/59jqVSxHOieATXhxKjPrK2WAa7p.jpg",
+        "cast_id": 4,
+        "character": "Karina Sobańska",
+        "credit_id": "52fe4b4c9251416c910d60e9",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1131415,
+        "known_for_department": "Acting",
+        "name": "Hovik Keuchkerian",
+        "original_name": "Hovik Keuchkerian",
+        "popularity": 0.8204,
+        "profile_path": "/o5cGKWHlZl4RFROYlT2hD95j0lN.jpg",
+        "cast_id": 10,
+        "character": "Jose Vicente Sotogrande de la Sagra",
+        "credit_id": "6246bff1b458b800656cdb86",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6523,
+        "known_for_department": "Acting",
+        "name": "Juan José Ballesta",
+        "original_name": "Juan José Ballesta",
+        "popularity": 0.189,
+        "profile_path": "/rq7FgmeQggR8c8xP6f5svAjx0kR.jpg",
+        "cast_id": 9,
+        "character": "Joaquin, kuzyn Michała",
+        "credit_id": "59bb3bbdc3a3680ef0005392",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3822,
+        "known_for_department": "Acting",
+        "name": "Ángela Molina",
+        "original_name": "Ángela Molina",
+        "popularity": 1.3879,
+        "profile_path": "/1O8l73B5bcnBHFSjmIWMfhJZCP8.jpg",
+        "cast_id": 5,
+        "character": "Elena, matka Joaquina",
+        "credit_id": "52fe4b4c9251416c910d60ed",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 908548,
+        "known_for_department": "Acting",
+        "name": "Joanna Kulig",
+        "original_name": "Joanna Kulig",
+        "popularity": 1.1026,
+        "profile_path": "/hlRdav6dSvfzyDnSSMooVh9GVxh.jpg",
+        "cast_id": 8,
+        "character": "Marta, koleżanka Kariny",
+        "credit_id": "52fe4b4c9251416c910d60f9",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 82313,
+        "known_for_department": "Acting",
+        "name": "Andrzej Chyra",
+        "original_name": "Andrzej Chyra",
+        "popularity": 0.6558,
+        "profile_path": "/md1w26RncjcM3KHTTDnYtgC1rme.jpg",
+        "cast_id": 6,
+        "character": "ojciec Kariny",
+        "credit_id": "52fe4b4c9251416c910d60f1",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 544038,
+        "known_for_department": "Acting",
+        "name": "Tadeusz Bradecki",
+        "original_name": "Tadeusz Bradecki",
+        "popularity": 0.2084,
+        "profile_path": "/pLpw9Aech8qB9G2Bp3yKMJi8yxK.jpg",
+        "cast_id": 11,
+        "character": "wykładowca Michała",
+        "credit_id": "6246c068dd4716004ec487f5",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1537080,
+        "known_for_department": "Acting",
+        "name": "Halina Skoczyńska",
+        "original_name": "Halina Skoczyńska",
+        "popularity": 0.1059,
+        "profile_path": "/wKIMR38OJxQ0LHFXK0YhMb1f69.jpg",
+        "cast_id": 12,
+        "character": "profesor Ekiert, wykładowczyni Kariny",
+        "credit_id": "6246c07f001bbd00a49e2e9c",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 937163,
+        "known_for_department": "Acting",
+        "name": "Elżbieta Karkoszka",
+        "original_name": "Elżbieta Karkoszka",
+        "popularity": 0.1848,
+        "profile_path": "/rBemNLA1mV4AN9Jx2SnMpjoG4IQ.jpg",
+        "cast_id": 13,
+        "character": "pracownica dziekanatu",
+        "credit_id": "6246c09965e0a200632f9924",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1275869,
+        "known_for_department": "Acting",
+        "name": "Artur Steranko",
+        "original_name": "Artur Steranko",
+        "popularity": 0.0691,
+        "profile_path": "/6sgle4RPQgOI1zsba4695rBqmYR.jpg",
+        "cast_id": 14,
+        "character": "doktor Brzezina",
+        "credit_id": "6246c0ad66f2d2006396622a",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1188253,
+        "known_for_department": "Acting",
+        "name": "Lidia Bogaczówna",
+        "original_name": "Lidia Bogaczówna",
+        "popularity": 0.1323,
+        "profile_path": "/2p0mcxHk4AODOY5f3feoBYLatXS.jpg",
+        "cast_id": 34,
+        "character": "nurse",
+        "credit_id": "65a2893eb7b69d01313bf73d",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1120448,
+        "known_for_department": "Acting",
+        "name": "Anna Próchniak",
+        "original_name": "Anna Próchniak",
+        "popularity": 0.4513,
+        "profile_path": "/1WJcxrIzMp75HLm75HW9V9rxBZi.jpg",
+        "cast_id": 16,
+        "character": "Karina's Friend",
+        "credit_id": "6246c0cedd4716004ec48881",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1345429,
+        "known_for_department": "Acting",
+        "name": "Marcel Sabat",
+        "original_name": "Marcel Sabat",
+        "popularity": 0.1887,
+        "profile_path": "/tWGpd3WwASeHUppg7BQoKUFDEZA.jpg",
+        "cast_id": 17,
+        "character": "siatkarz, kolega Michała",
+        "credit_id": "6246c0e4dd47160095bf9583",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1949452,
+        "known_for_department": "Acting",
+        "name": "Karolina Stefańska",
+        "original_name": "Karolina Stefańska",
+        "popularity": 0.0168,
+        "profile_path": "/vjwz5gSyqPvHQzy4mYiLDnYCnd8.jpg",
+        "cast_id": 18,
+        "character": "rejestratorka w przychodni",
+        "credit_id": "6246c0f9001bbd004f460365",
+        "order": 14
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1648281,
+        "known_for_department": "Production",
+        "name": "Agnieszka Drewno",
+        "original_name": "Agnieszka Drewno",
+        "popularity": 0.0609,
+        "profile_path": null,
+        "credit_id": "6246c255a3e4ba006324bc45",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1648280,
+        "known_for_department": "Production",
+        "name": "Piotr Kobus",
+        "original_name": "Piotr Kobus",
+        "popularity": 0.0703,
+        "profile_path": null,
+        "credit_id": "6246c2648ee49c00a126a15d",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3488392,
+        "known_for_department": "Production",
+        "name": "Roman Sawka",
+        "original_name": "Roman Sawka",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "credit_id": "6246c27a8ee49c004f193170",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3488394,
+        "known_for_department": "Production",
+        "name": "Dariusz Kłodowski",
+        "original_name": "Dariusz Kłodowski",
+        "popularity": 0.0618,
+        "profile_path": null,
+        "credit_id": "6246c29101757f009b5453ca",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3488396,
+        "known_for_department": "Production",
+        "name": "Christine Bernabéu",
+        "original_name": "Christine Bernabéu",
+        "popularity": 0.0362,
+        "profile_path": null,
+        "credit_id": "6246c2a501757f009b5453da",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1648277,
+        "known_for_department": "Editing",
+        "name": "Beata Liszewska",
+        "original_name": "Beata Liszewska",
+        "popularity": 0.0904,
+        "profile_path": null,
+        "credit_id": "6246c2c8dd47160095bf9878",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 46270,
+        "known_for_department": "Sound",
+        "name": "Maria Chilarecka",
+        "original_name": "Maria Chilarecka",
+        "popularity": 0.1217,
+        "profile_path": "/qD07XKHQyAaV3Ew92W82282Qsr8.jpg",
+        "credit_id": "6246c2daa34911006312d883",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1095645,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Katarzyna Lewińska",
+        "original_name": "Katarzyna Lewińska",
+        "popularity": 0.2063,
+        "profile_path": "/7lGRF7sL88aUTNxSbJAN9LQrwSW.jpg",
+        "credit_id": "6246c30ec4ad59004edc80e1",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3488397,
+        "known_for_department": "Art",
+        "name": "Krystyna Basak",
+        "original_name": "Krystyna Basak",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "6246c31f001bbd00a49e3165",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3488398,
+        "known_for_department": "Art",
+        "name": "Jose Antonio Marzal",
+        "original_name": "Jose Antonio Marzal",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "6246c33866f2d2004e030939",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3488399,
+        "known_for_department": "Art",
+        "name": "Demis Marzal",
+        "original_name": "Demis Marzal",
+        "popularity": 0.0168,
+        "profile_path": null,
+        "credit_id": "6246c349001bbd004f460731",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2286164,
+        "known_for_department": "Art",
+        "name": "Elwira Pluta",
+        "original_name": "Elwira Pluta",
+        "popularity": 0.0357,
+        "profile_path": "/s3cRfKLSDmgdlQU12fF5eogy6bH.jpg",
+        "credit_id": "6246c35a3396b9004ef5ca06",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 53617,
+        "known_for_department": "Camera",
+        "name": "Michał Englert",
+        "original_name": "Michał Englert",
+        "popularity": 0.3462,
+        "profile_path": "/a7jiRb6hB8TZe21C7K7BTDOMZwi.jpg",
+        "credit_id": "6246c36db458b800656ce003",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 146433,
+        "known_for_department": "Directing",
+        "name": "Jacek Borcuch",
+        "original_name": "Jacek Borcuch",
+        "popularity": 0.1506,
+        "profile_path": "/6Kyor3bZ258gX7QqVfTsbkpu3yn.jpg",
+        "credit_id": "52fe4b4c9251416c910d60db",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4097551,
+        "known_for_department": "Crew",
+        "name": "Marzena Popławska",
+        "original_name": "Marzena Popławska",
+        "popularity": 0.05,
+        "profile_path": null,
+        "credit_id": "661448bcd18b24017c343851",
+        "department": "Crew",
+        "job": "Script"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 53617,
+        "known_for_department": "Camera",
+        "name": "Michał Englert",
+        "original_name": "Michał Englert",
+        "popularity": 0.3462,
+        "profile_path": "/a7jiRb6hB8TZe21C7K7BTDOMZwi.jpg",
+        "credit_id": "66e19acae42b8e837e40a5c9",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1610050,
+        "known_for_department": "Visual Effects",
+        "name": "Radosław Rekita",
+        "original_name": "Radosław Rekita",
+        "popularity": 0.1234,
+        "profile_path": null,
+        "credit_id": "66f6b35ade21a6b78250c2ae",
+        "department": "Art",
+        "job": "Title Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1648280,
+        "known_for_department": "Production",
+        "name": "Piotr Kobus",
+        "original_name": "Piotr Kobus",
+        "popularity": 0.0703,
+        "profile_path": null,
+        "credit_id": "6717bd8c8e05a8c9a84d3bd7",
+        "department": "Camera",
+        "job": "Underwater Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 146433,
+        "known_for_department": "Directing",
+        "name": "Jacek Borcuch",
+        "original_name": "Jacek Borcuch",
+        "popularity": 0.1506,
+        "profile_path": "/6Kyor3bZ258gX7QqVfTsbkpu3yn.jpg",
+        "credit_id": "69b91b6041c59da06295ef8a",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2528568,
+        "known_for_department": "Sound",
+        "name": "Daniel Bloom",
+        "original_name": "Daniel Bloom",
+        "popularity": 0.0696,
+        "profile_path": "/m764wNrh0Hs2vBX3mZfKFlic56D.jpg",
+        "credit_id": "69b91b74d9ff60f49f21e274",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 569908,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Janusz Kaleja",
+        "original_name": "Janusz Kaleja",
+        "popularity": 0.0588,
+        "profile_path": null,
+        "credit_id": "69b91bc1e223530c11674781",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Designer"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "PL",
+        "title": "Nieulotne",
+        "type": "Original Title"
+      },
+      {
+        "iso_3166_1": "BR",
+        "title": "Indeléveis",
+        "type": ""
+      }
+    ]
+  }
+}

@@ -1,0 +1,671 @@
+{
+  "adult": false,
+  "backdrop_path": "/61IefEsvLfIu60mp1WWu144hoHN.jpg",
+  "belongs_to_collection": null,
+  "budget": 300000,
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "",
+  "id": 3031,
+  "imdb_id": "tt0024188",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Island of Lost Souls",
+  "overview": "An obsessed scientist conducts profane experiments in evolution, eventually establishing himself as the self-styled demigod to a race of mutated, half-human abominations.",
+  "popularity": 1.0149,
+  "poster_path": "/g7K7r1FojQC52YHxfmuXgwYBq5Q.jpg",
+  "production_companies": [
+    {
+      "id": 4,
+      "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
+      "name": "Paramount Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1932-12-23",
+  "revenue": 0,
+  "runtime": 71,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "TERROR! Stalked the Brush-Choked Island...Where Men Who Were Animals Sought the Girl Who Was All-Human!",
+  "title": "Island of Lost Souls",
+  "video": false,
+  "vote_average": 6.919,
+  "vote_count": 265,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 10921,
+        "known_for_department": "Acting",
+        "name": "Charles Laughton",
+        "original_name": "Charles Laughton",
+        "popularity": 0.8236,
+        "profile_path": "/lhk6flmWDZMOLwq8VILMD6jH71F.jpg",
+        "cast_id": 12,
+        "character": "Dr. Moreau",
+        "credit_id": "52fe437ec3a36847f8058551",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 29760,
+        "known_for_department": "Acting",
+        "name": "Richard Arlen",
+        "original_name": "Richard Arlen",
+        "popularity": 0.6765,
+        "profile_path": "/dDr230NdMlxt4BC0OxwG0pJZV7t.jpg",
+        "cast_id": 13,
+        "character": "Edward Parker",
+        "credit_id": "52fe437ec3a36847f8058555",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1507,
+        "known_for_department": "Acting",
+        "name": "Leila Hyams",
+        "original_name": "Leila Hyams",
+        "popularity": 0.5271,
+        "profile_path": "/opmYXK7fBjtP7NWqMMffGQzjw1U.jpg",
+        "cast_id": 14,
+        "character": "Ruth Thomas",
+        "credit_id": "52fe437ec3a36847f8058559",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1547,
+        "known_for_department": "Acting",
+        "name": "Bela Lugosi",
+        "original_name": "Lugosi Béla",
+        "popularity": 1.106,
+        "profile_path": "/fwimu7WKcaJXIjaDwYQg42GxUxa.jpg",
+        "cast_id": 15,
+        "character": "The Sayer of the Law",
+        "credit_id": "52fe437ec3a36847f805855d",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 29761,
+        "known_for_department": "Acting",
+        "name": "Kathleen Burke",
+        "original_name": "Kathleen Burke",
+        "popularity": 0.4064,
+        "profile_path": "/tPomu1hmFeE6ffbJCQrSKImA6Kh.jpg",
+        "cast_id": 16,
+        "character": "Lota the Panther Woman",
+        "credit_id": "52fe437ec3a36847f8058561",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 25176,
+        "known_for_department": "Acting",
+        "name": "Arthur Hohl",
+        "original_name": "Arthur Hohl",
+        "popularity": 0.5093,
+        "profile_path": "/bkLPbxdjy5aRL8KkG0HY6H5sFo5.jpg",
+        "cast_id": 17,
+        "character": "Montgomery",
+        "credit_id": "52fe437ec3a36847f8058565",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 29762,
+        "known_for_department": "Acting",
+        "name": "Stanley Fields",
+        "original_name": "Stanley Fields",
+        "popularity": 0.3925,
+        "profile_path": "/tSPmFJbUooLXafkhmUkuqozHBT7.jpg",
+        "cast_id": 18,
+        "character": "Capt. Davies",
+        "credit_id": "52fe437ec3a36847f8058569",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 14664,
+        "known_for_department": "Acting",
+        "name": "Paul Hurst",
+        "original_name": "Paul Hurst",
+        "popularity": 0.5172,
+        "profile_path": "/fs73WLszYIJuwUfmWkQExPN5zqj.jpg",
+        "cast_id": 19,
+        "character": "Capt. Donahue",
+        "credit_id": "52fe437ec3a36847f805856d",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 29763,
+        "known_for_department": "Acting",
+        "name": "Hans Steinke",
+        "original_name": "Hans Steinke",
+        "popularity": 0.1109,
+        "profile_path": null,
+        "cast_id": 20,
+        "character": "Ouran",
+        "credit_id": "52fe437ec3a36847f8058571",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 29764,
+        "known_for_department": "Acting",
+        "name": "Tetsu Komai",
+        "original_name": "Tetsu Komai",
+        "popularity": 0.1425,
+        "profile_path": "/feZSi0PhPi53TtW1J8UmoKxiT5Y.jpg",
+        "cast_id": 21,
+        "character": "M`ling",
+        "credit_id": "52fe437ec3a36847f8058575",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 13823,
+        "known_for_department": "Acting",
+        "name": "George Irving",
+        "original_name": "George Irving",
+        "popularity": 0.4686,
+        "profile_path": "/mZjiKvrBQK0Y7sL2Yt9QEaIQrFr.jpg",
+        "cast_id": 22,
+        "character": "Consul",
+        "credit_id": "52fe437ec3a36847f8058579",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1782177,
+        "known_for_department": "Acting",
+        "name": "Jack Bardette",
+        "original_name": "Jack Bardette",
+        "popularity": 0.0362,
+        "profile_path": null,
+        "cast_id": 26,
+        "character": "Undetermined Role (uncredited)",
+        "credit_id": "5d3913e060c51d0013894b6d",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2370614,
+        "known_for_department": "Acting",
+        "name": "Evangelus Berbas",
+        "original_name": "Evangelus Berbas",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 27,
+        "character": "Undetermined Role (uncredited)",
+        "credit_id": "5d391416ab684968b58480b7",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 587131,
+        "known_for_department": "Acting",
+        "name": "Joe Bonomo",
+        "original_name": "Joe Bonomo",
+        "popularity": 0.1229,
+        "profile_path": "/9iUlrtqxErFBCUVxnRhIoJYNE37.jpg",
+        "cast_id": 28,
+        "character": "Beast (uncredited)",
+        "credit_id": "5d391514ab684969a5848c8e",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1130467,
+        "known_for_department": "Acting",
+        "name": "Buster Brodie",
+        "original_name": "Buster Brodie",
+        "popularity": 0.1999,
+        "profile_path": "/tASBdwuftOiPb5qXfWoTw3PPm9N.jpg",
+        "cast_id": 30,
+        "character": "Pig Man - a Little Beast (uncredited)",
+        "credit_id": "5d39160fe54d5d018edcf3e1",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2230405,
+        "known_for_department": "Acting",
+        "name": "Jacob Dance",
+        "original_name": "Jacob Dance",
+        "popularity": 0.0934,
+        "profile_path": null,
+        "cast_id": 31,
+        "character": "Beast (uncredited)",
+        "credit_id": "5d391646e54d5d2533da5e98",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1152705,
+        "known_for_department": "Acting",
+        "name": "Jimmy Dime",
+        "original_name": "Jimmy Dime",
+        "popularity": 0.4421,
+        "profile_path": "/jWyPz8zzzLCw3zlUC2wrrjiuSqm.jpg",
+        "cast_id": 32,
+        "character": "Seaman (uncredited)",
+        "credit_id": "5d39167eab684974f58ca32c",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2370617,
+        "known_for_department": "Acting",
+        "name": "Harry Ekezian",
+        "original_name": "Harry Ekezian",
+        "popularity": 0.0327,
+        "profile_path": null,
+        "cast_id": 33,
+        "character": "Gola (uncredited)",
+        "credit_id": "5d3916b6ab68496bf7848a87",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1208025,
+        "known_for_department": "Acting",
+        "name": "Charles Gemora",
+        "original_name": "Charles Gemora",
+        "popularity": 0.2543,
+        "profile_path": "/s86qzXDRtubzWhCrENFEAmCDnfm.jpg",
+        "cast_id": 34,
+        "character": "Gorilla on Pier (uncredited)",
+        "credit_id": "5d39188660c51d07878378a3",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 97999,
+        "known_for_department": "Acting",
+        "name": "John George",
+        "original_name": "John George",
+        "popularity": 0.5319,
+        "profile_path": "/67eRsXH4BISHgoKXpLODrgSn4PN.jpg",
+        "cast_id": 23,
+        "character": "Beast (uncredited)",
+        "credit_id": "59458618c3a368052d012180",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1468182,
+        "known_for_department": "Acting",
+        "name": "Rosemary Grimes",
+        "original_name": "Rosemary Grimes",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "cast_id": 35,
+        "character": "Samoan Girl (uncredited)",
+        "credit_id": "5d3918ea60c51d6d0c8130e0",
+        "order": 20
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1170869,
+        "known_for_department": "Acting",
+        "name": "Robert P. Kerr",
+        "original_name": "Robert P. Kerr",
+        "popularity": 0.0407,
+        "profile_path": "/4NWXzabB4FLxGEiaHQAlcMLbuv1.jpg",
+        "cast_id": 36,
+        "character": "Undetermined Role (uncredited)",
+        "credit_id": "5d3919e5ab684969a5849925",
+        "order": 21
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 137405,
+        "known_for_department": "Acting",
+        "name": "Bob Kortman",
+        "original_name": "Bob Kortman",
+        "popularity": 0.2759,
+        "profile_path": "/hehu5JH7b44Pzcyeng3DF6pCoz0.jpg",
+        "cast_id": 37,
+        "character": "Mr. Hogan (uncredited)",
+        "credit_id": "5d391a02e54d5d4654dcbeed",
+        "order": 22
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1291267,
+        "known_for_department": "Acting",
+        "name": "Robert Milasch",
+        "original_name": "Robert Milasch",
+        "popularity": 0.1923,
+        "profile_path": "/uOy3ydoW0iwNdDc1dvCXl1AzVra.jpg",
+        "cast_id": 39,
+        "character": "Beast (uncredited)",
+        "credit_id": "5d391a6e60c51d0013896735",
+        "order": 23
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 148402,
+        "known_for_department": "Acting",
+        "name": "Constantine Romanoff",
+        "original_name": "Constantine Romanoff",
+        "popularity": 0.2619,
+        "profile_path": "/1HymdpzlhCp5UhKHRS9bF0tStZ3.jpg",
+        "cast_id": 24,
+        "character": "Beast (uncredited)",
+        "credit_id": "5a5eeba99251415aa0004649",
+        "order": 24
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1516,
+        "known_for_department": "Acting",
+        "name": "Schlitzie",
+        "original_name": "Schlitzie",
+        "popularity": 0.2008,
+        "profile_path": null,
+        "cast_id": 40,
+        "character": "Furry Manimal (uncredited)",
+        "credit_id": "5d391b0560c51d00128947e3",
+        "order": 25
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1628855,
+        "known_for_department": "Acting",
+        "name": "Jack Walters",
+        "original_name": "Jack Walters",
+        "popularity": 0.1387,
+        "profile_path": null,
+        "cast_id": 41,
+        "character": "Undetermined Role (uncredited)",
+        "credit_id": "5d391b5f60c51d6d0c814174",
+        "order": 26
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 978055,
+        "known_for_department": "Acting",
+        "name": "Duke York",
+        "original_name": "Duke York",
+        "popularity": 0.2256,
+        "profile_path": "/kWW28nxQuzHFPTatJaUDK68CzLa.jpg",
+        "cast_id": 42,
+        "character": "Beast (uncredited)",
+        "credit_id": "5d391b9960c51d6d0c8141a4",
+        "order": 27
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 11624,
+        "known_for_department": "Writing",
+        "name": "H. G. Wells",
+        "original_name": "H. G. Wells",
+        "popularity": 0.6281,
+        "profile_path": "/3qON4KdxVvoyeiDML4CmGMtZf41.jpg",
+        "credit_id": "52fe437ec3a36847f8058517",
+        "department": "Writing",
+        "job": "Novel"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 29755,
+        "known_for_department": "Directing",
+        "name": "Erle C. Kenton",
+        "original_name": "Erle C. Kenton",
+        "popularity": 0.471,
+        "profile_path": "/ovHMt6ffXovl2PE2CZkRfT7wzsy.jpg",
+        "credit_id": "52fe437ec3a36847f8058529",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 29758,
+        "known_for_department": "Sound",
+        "name": "Arthur Johnston",
+        "original_name": "Arthur Johnston",
+        "popularity": 0.1271,
+        "profile_path": null,
+        "credit_id": "52fe437ec3a36847f805852f",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 29759,
+        "known_for_department": "Sound",
+        "name": "Sigmund Krumgold",
+        "original_name": "Sigmund Krumgold",
+        "popularity": 0.1112,
+        "profile_path": null,
+        "credit_id": "52fe437ec3a36847f8058535",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 29757,
+        "known_for_department": "Writing",
+        "name": "Philip Wylie",
+        "original_name": "Philip Wylie",
+        "popularity": 0.28,
+        "profile_path": null,
+        "credit_id": "52fe437ec3a36847f8058523",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 29756,
+        "known_for_department": "Writing",
+        "name": "Waldemar Young",
+        "original_name": "Waldemar Young",
+        "popularity": 0.2966,
+        "profile_path": "/w3KoXLzUdpeoDYZw58wBOcF0ziw.jpg",
+        "credit_id": "52fe437ec3a36847f805851d",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 9081,
+        "known_for_department": "Camera",
+        "name": "Karl Struss",
+        "original_name": "Karl Struss",
+        "popularity": 0.0742,
+        "profile_path": "/bWIt5hnn3pV0p3M8MQcVibT3M6C.jpg",
+        "credit_id": "52fe437ec3a36847f805853b",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 29755,
+        "known_for_department": "Directing",
+        "name": "Erle C. Kenton",
+        "original_name": "Erle C. Kenton",
+        "popularity": 0.471,
+        "profile_path": "/ovHMt6ffXovl2PE2CZkRfT7wzsy.jpg",
+        "credit_id": "52fe437ec3a36847f8058511",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 7689,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Wally Westmore",
+        "original_name": "Wally Westmore",
+        "popularity": 0.3527,
+        "profile_path": "/udXfZgyri6PGGZoj5flmjbF6nHm.jpg",
+        "credit_id": "52fe437ec3a36847f805854d",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 8622,
+        "known_for_department": "Art",
+        "name": "Hans Dreier",
+        "original_name": "Hans Dreier",
+        "popularity": 0.2592,
+        "profile_path": null,
+        "credit_id": "52fe437ec3a36847f8058547",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2317182,
+        "known_for_department": "Sound",
+        "name": "Loren L. Ryder",
+        "original_name": "Loren L. Ryder",
+        "popularity": 0.0989,
+        "profile_path": "/kN8GiRsDEuZ6lrXUOn79SVP6eqm.jpg",
+        "credit_id": "5cebf6e80e0a261bf2cda942",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 587131,
+        "known_for_department": "Acting",
+        "name": "Joe Bonomo",
+        "original_name": "Joe Bonomo",
+        "popularity": 0.1229,
+        "profile_path": "/9iUlrtqxErFBCUVxnRhIoJYNE37.jpg",
+        "credit_id": "5d3915ad60c51d0013895037",
+        "department": "Crew",
+        "job": "Stunts"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "US",
+        "title": "The Island of Dr. Moreau",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "AT",
+        "title": "Die Insel der verlorenen Seelen",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "BR",
+        "title": "A Ilha das Almas Selvagens",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "ES",
+        "title": "La isla de las almas perdidas",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "FR",
+        "title": "L'île du docteur Moreau",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "GR",
+        "title": "I nisos ton hamenon psyhon",
+        "type": "(transliterated ISO-LATIN-1 title)"
+      },
+      {
+        "iso_3166_1": "HU",
+        "title": "Borzalmak szigete",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "IT",
+        "title": "L'isola delle anime perdute",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "PL",
+        "title": "Wyspa doktora Moreau",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "RU",
+        "title": "Остров потерянных душ",
+        "type": "Soviet Union  title"
+      },
+      {
+        "iso_3166_1": "TR",
+        "title": "Kayip ruhlar adasi",
+        "type": ""
+      }
+    ]
+  }
+}

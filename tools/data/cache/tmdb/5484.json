@@ -1,0 +1,469 @@
+{
+  "adult": false,
+  "backdrop_path": "/asfXhFqi3O270DwDjfjjKkvJPxO.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 5484,
+  "imdb_id": "tt0069141",
+  "origin_country": [
+    "IT"
+  ],
+  "original_language": "it",
+  "original_title": "Quante volte... quella notte",
+  "overview": "A night of attempted seduction is recalled from the perspectives of the woman, the man, a lecherous doorman and a psychoanalyst.",
+  "popularity": 0.501,
+  "poster_path": "/pBqPlJe0AqYiPF9bx6Zy1hplwNg.jpg",
+  "production_companies": [
+    {
+      "id": 1914,
+      "logo_path": null,
+      "name": "Delfino Film",
+      "origin_country": ""
+    },
+    {
+      "id": 12770,
+      "logo_path": null,
+      "name": "Hape Film",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    },
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    }
+  ],
+  "release_date": "1971-07-01",
+  "revenue": 0,
+  "runtime": 83,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "an explosive look into the psychology of a woman in love",
+  "title": "Four Times That Night",
+  "video": false,
+  "vote_average": 5.357,
+  "vote_count": 35,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 44976,
+        "known_for_department": "Acting",
+        "name": "Daniela Giordano",
+        "original_name": "Daniela Giordano",
+        "popularity": 0.562,
+        "profile_path": "/cbi1OfVRGxpG460wM4kJ6XHftnZ.jpg",
+        "cast_id": 9,
+        "character": "Tina Brandt",
+        "credit_id": "52fe4408c3a36847f807e4ad",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 31896,
+        "known_for_department": "Acting",
+        "name": "Brett Halsey",
+        "original_name": "Brett Halsey",
+        "popularity": 0.621,
+        "profile_path": "/mPfkWXhMJTiNEOAGVBNxngM9YW9.jpg",
+        "cast_id": 10,
+        "character": "John Price",
+        "credit_id": "52fe4408c3a36847f807e4b1",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 30652,
+        "known_for_department": "Production",
+        "name": "Dick Randall",
+        "original_name": "Dick Randall",
+        "popularity": 0.2943,
+        "profile_path": "/opc3IeDMQRzW2c7OHUzvUDqhO2m.jpg",
+        "cast_id": 11,
+        "character": "The Janitor",
+        "credit_id": "52fe4408c3a36847f807e4b5",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 44977,
+        "known_for_department": "Acting",
+        "name": "Valeria Sabel",
+        "original_name": "Valeria Sabel",
+        "popularity": 0.1681,
+        "profile_path": "/2KwT7qsdky73wt8rMPYHGvmrd87.jpg",
+        "cast_id": 12,
+        "character": "Sofia Brandt",
+        "credit_id": "52fe4408c3a36847f807e4b9",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 36028,
+        "known_for_department": "Acting",
+        "name": "Michael Hinz",
+        "original_name": "Michael Hinz",
+        "popularity": 0.5149,
+        "profile_path": "/r30Q9eY8fowg0HAIKfCBAv53iuP.jpg",
+        "cast_id": 13,
+        "character": "Rudy",
+        "credit_id": "52fe4408c3a36847f807e4bd",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 26555,
+        "known_for_department": "Acting",
+        "name": "Rainer Basedow",
+        "original_name": "Rainer Basedow",
+        "popularity": 0.642,
+        "profile_path": "/OyKbsxg9sz7msXFMW4jycj6CVj.jpg",
+        "cast_id": 14,
+        "character": "Jack",
+        "credit_id": "52fe4408c3a36847f807e4c1",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 44978,
+        "known_for_department": "Acting",
+        "name": "Brigitte Skay",
+        "original_name": "Brigitte Skay",
+        "popularity": 0.3018,
+        "profile_path": "/xrMy5fmek0n4xIJqlHBcxXkRzzL.jpg",
+        "cast_id": 15,
+        "character": "Mumu",
+        "credit_id": "52fe4408c3a36847f807e4c5",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1072166,
+        "known_for_department": "Acting",
+        "name": "Calisto Calisti",
+        "original_name": "Calisto Calisti",
+        "popularity": 0.4516,
+        "profile_path": "/jluOPhjUdGjFUV8cPPNvU5ilyGq.jpg",
+        "cast_id": 18,
+        "character": "The Scientist",
+        "credit_id": "6130a10750733c00891147c5",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 36211,
+        "known_for_department": "Acting",
+        "name": "Pascale Petit",
+        "original_name": "Pascale Petit",
+        "popularity": 0.3186,
+        "profile_path": "/8AJspnlFETIxcyhwF3Q3givTNiX.jpg",
+        "cast_id": 19,
+        "character": "Esmeralda",
+        "credit_id": "6130a11b50733c002a77ddfe",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3219838,
+        "known_for_department": "Acting",
+        "name": "Sante Lucerlini",
+        "original_name": "Sante Lucerlini",
+        "popularity": 0.0239,
+        "profile_path": null,
+        "cast_id": 20,
+        "character": "Duccio / Rudy (uncredited)",
+        "credit_id": "6130a131eb0932004372abe8",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2910535,
+        "known_for_department": "Writing",
+        "name": "Robert H. Oliver",
+        "original_name": "Robert H. Oliver",
+        "popularity": 0.0382,
+        "profile_path": null,
+        "cast_id": 21,
+        "character": "Giorgio / George (uncredited)",
+        "credit_id": "6130a14550733c0042ca8bfa",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 553251,
+        "known_for_department": "Acting",
+        "name": "Michael Maien",
+        "original_name": "Michael Maien",
+        "popularity": 0.2998,
+        "profile_path": "/h2yrYLNGs6ZeJd1QFzA53MbX6rg.jpg",
+        "cast_id": 22,
+        "character": "Pino / Bill (uncredited)",
+        "credit_id": "6130a15839549a00844e1dff",
+        "order": 11
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 44973,
+        "known_for_department": "Writing",
+        "name": "Mario Moroni",
+        "original_name": "Mario Moroni",
+        "popularity": 0.1132,
+        "profile_path": null,
+        "credit_id": "52fe4408c3a36847f807e485",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 40889,
+        "known_for_department": "Editing",
+        "name": "Otello Colangeli",
+        "original_name": "Otello Colangeli",
+        "popularity": 0.1155,
+        "profile_path": null,
+        "credit_id": "52fe4408c3a36847f807e4a9",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 30652,
+        "known_for_department": "Production",
+        "name": "Dick Randall",
+        "original_name": "Dick Randall",
+        "popularity": 0.2943,
+        "profile_path": "/opc3IeDMQRzW2c7OHUzvUDqhO2m.jpg",
+        "credit_id": "52fe4408c3a36847f807e491",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 29886,
+        "known_for_department": "Camera",
+        "name": "Antonio Rinaldi",
+        "original_name": "Antonio Rinaldi",
+        "popularity": 0.0932,
+        "profile_path": null,
+        "credit_id": "52fe4408c3a36847f807e4a3",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 25826,
+        "known_for_department": "Directing",
+        "name": "Mario Bava",
+        "original_name": "Mario Bava",
+        "popularity": 0.8138,
+        "profile_path": "/vDx5usGSp8Fygmvo4jnepQ4EQRN.jpg",
+        "credit_id": "52fe4408c3a36847f807e47f",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 44974,
+        "known_for_department": "Writing",
+        "name": "Carl Ross",
+        "original_name": "Carl Ross",
+        "popularity": 0.0643,
+        "profile_path": null,
+        "credit_id": "52fe4408c3a36847f807e48b",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1354972,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Lidia Puglia",
+        "original_name": "Lidia Puglia",
+        "popularity": 0.2024,
+        "profile_path": null,
+        "credit_id": "6130a22939549a004340cf65",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5557,
+        "known_for_department": "Art",
+        "name": "Andrea Crisanti",
+        "original_name": "Andrea Crisanti",
+        "popularity": 0.081,
+        "profile_path": null,
+        "credit_id": "6130a1d1e38bd80083cc3f72",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 44965,
+        "known_for_department": "Production",
+        "name": "Alfredo Leone",
+        "original_name": "Alfredo Leone",
+        "popularity": 0.1162,
+        "profile_path": null,
+        "credit_id": "6130a1807f6c8d0061a56857",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3219839,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Blanda Stefani",
+        "original_name": "Blanda Stefani",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "6130a1f6357c000091185a33",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 44975,
+        "known_for_department": "Sound",
+        "name": "Coriolano Gori",
+        "original_name": "Coriolano Gori",
+        "popularity": 0.0873,
+        "profile_path": null,
+        "credit_id": "6130a1a0357c000043e8a5c0",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 30820,
+        "known_for_department": "Writing",
+        "name": "Guido Leoni",
+        "original_name": "Guido Leoni",
+        "popularity": 0.1604,
+        "profile_path": null,
+        "credit_id": "6130a1b47f6c8d0043f3dfcc",
+        "department": "Writing",
+        "job": "Dialogue"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2329069,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Massimo De Rossi",
+        "original_name": "Massimo De Rossi",
+        "popularity": 0.0634,
+        "profile_path": null,
+        "credit_id": "6130a21639549a002a7362ac",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 139134,
+        "known_for_department": "Art",
+        "name": "Romeo Costantini",
+        "original_name": "Romeo Costantini",
+        "popularity": 0.1794,
+        "profile_path": null,
+        "credit_id": "6130a1e539549a00611c994c",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 25826,
+        "known_for_department": "Directing",
+        "name": "Mario Bava",
+        "original_name": "Mario Bava",
+        "popularity": 0.8138,
+        "profile_path": "/vDx5usGSp8Fygmvo4jnepQ4EQRN.jpg",
+        "credit_id": "5e7b66889e40120012051e07",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1634887,
+        "known_for_department": "Production",
+        "name": "Zeljko Kunkera",
+        "original_name": "Zeljko Kunkera",
+        "popularity": 0.1171,
+        "profile_path": null,
+        "credit_id": "5ef7fa88d6d64d0036c42ec1",
+        "department": "Production",
+        "job": "Producer"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "US",
+        "title": "Four Times That Night",
+        "type": ""
+      }
+    ]
+  }
+}

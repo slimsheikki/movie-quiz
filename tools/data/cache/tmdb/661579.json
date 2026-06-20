@@ -1,0 +1,438 @@
+{
+  "adult": false,
+  "backdrop_path": "/9tOJfyyvBY0jUYk5pYC7Jgq06zX.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "",
+  "id": 661579,
+  "imdb_id": "tt11448070",
+  "origin_country": [
+    "CN"
+  ],
+  "original_language": "zh",
+  "original_title": "坚如磐石",
+  "overview": "Officers Su Jianming and Li Huilin investigate a crime involving wealthy businessman Li Zhitian. As clues emerge, the investigation becomes more and more like a game of chess.",
+  "popularity": 0.9745,
+  "poster_path": "/gESv9WPvbmbOwO50vT6yF2OuWwF.jpg",
+  "production_companies": [
+    {
+      "id": 17818,
+      "logo_path": "/tqImejhMUsOuuKCX2cySzaO7QTj.png",
+      "name": "Beijing Enlight Pictures",
+      "origin_country": "CN"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CN",
+      "name": "China"
+    }
+  ],
+  "release_date": "2023-09-28",
+  "revenue": 62600000,
+  "runtime": 128,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "普通话"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Under the Light",
+  "video": false,
+  "vote_average": 5.7,
+  "vote_count": 42,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1724403,
+        "known_for_department": "Acting",
+        "name": "Lei Jiayin",
+        "original_name": "雷佳音",
+        "popularity": 1.6736,
+        "profile_path": "/wjDzXeAycQj01k40oXigRgJCPRr.jpg",
+        "cast_id": 2,
+        "character": "Su Jianming",
+        "credit_id": "5e13e6fd9020120013b97ee1",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1344903,
+        "known_for_department": "Acting",
+        "name": "Yu Hewei",
+        "original_name": "于和伟",
+        "popularity": 2.4047,
+        "profile_path": "/rtHbXVr0NUWYkV1vqCCdhgyyNXG.jpg",
+        "cast_id": 3,
+        "character": "Li Zhitian",
+        "credit_id": "5e13e7086262080016c496f6",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 543178,
+        "known_for_department": "Acting",
+        "name": "Zhang Guoli",
+        "original_name": "张国立",
+        "popularity": 1.8139,
+        "profile_path": "/hNNFegPLSulMnqMWrlYtJmuob9k.jpg",
+        "cast_id": 4,
+        "character": "Zheng Gang",
+        "credit_id": "5e13e7115907de0017e1b976",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 145092,
+        "known_for_department": "Acting",
+        "name": "Zhou Dongyu",
+        "original_name": "周冬雨",
+        "popularity": 1.768,
+        "profile_path": "/vD2vVvIIx8ygzkhUQZJLkvYT1jr.jpg",
+        "cast_id": 5,
+        "character": "Li Huilin",
+        "credit_id": "5e13e71b6262080012c46b16",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1258617,
+        "known_for_department": "Acting",
+        "name": "Sun Yizhou",
+        "original_name": "孙艺洲",
+        "popularity": 2.0436,
+        "profile_path": "/7LrjgcfjklPW6AyC4sxaNx6z089.jpg",
+        "cast_id": 8,
+        "character": "David",
+        "credit_id": "5eddf8da8d52c90022a70a47",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 124995,
+        "known_for_department": "Acting",
+        "name": "Li Naiwen",
+        "original_name": "李乃文",
+        "popularity": 1.7268,
+        "profile_path": "/wiLgtAy6XOoSz79BxFX9vX4GRiJ.jpg",
+        "cast_id": 9,
+        "character": "Liu Feng",
+        "credit_id": "5eddf8df8d52c90022a70a72",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1732752,
+        "known_for_department": "Acting",
+        "name": "Xu Yajun",
+        "original_name": "許亞軍",
+        "popularity": 0.751,
+        "profile_path": "/2TSCEjJQYCrFY4L4w1wT3uONNcR.jpg",
+        "cast_id": 16,
+        "character": "Liu Bo",
+        "credit_id": "6163f6c253866e0048a4a1f9",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1397566,
+        "known_for_department": "Acting",
+        "name": "Tian Yu",
+        "original_name": "田雨",
+        "popularity": 1.2706,
+        "profile_path": "/hltc7NNhaBpD45nVqhC1dPkoVuB.jpg",
+        "cast_id": 11,
+        "character": "Tang Danian",
+        "credit_id": "5eddf90ff36a32001d8c8685",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2139109,
+        "known_for_department": "Acting",
+        "name": "He Zhengjun",
+        "original_name": "何政军",
+        "popularity": 0.6716,
+        "profile_path": "/25mXqwHj5Rp69t1JdBTLKDFes6P.jpg",
+        "cast_id": 12,
+        "character": "Wen Hui",
+        "credit_id": "5eddf9169c24fc00226a49a9",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 6720,
+        "known_for_department": "Acting",
+        "name": "Joan Chen",
+        "original_name": "Joan Chen",
+        "popularity": 2.3723,
+        "profile_path": "/jTu4mVKj8sQpgYnuaKchslor585.jpg",
+        "cast_id": 13,
+        "character": "He Xiuli",
+        "credit_id": "5eddf91cb422420022954bcd",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1134976,
+        "known_for_department": "Acting",
+        "name": "Wang Xun",
+        "original_name": "王迅",
+        "popularity": 1.3515,
+        "profile_path": "/gYT2J4xayWd8yaAqG5oGPDfu8ut.jpg",
+        "cast_id": 14,
+        "character": "Kong Sanshun",
+        "credit_id": "5eddf9239c24fc00226a49d7",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2267874,
+        "known_for_department": "Acting",
+        "name": "Xu Zili",
+        "original_name": "徐子力",
+        "popularity": 0.2989,
+        "profile_path": "/kVETMIN0N0cXhKKNjwhMcXNMWc0.jpg",
+        "cast_id": 17,
+        "character": "Sun Heyang",
+        "credit_id": "64ddb727aaec7103fa474b06",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3360597,
+        "known_for_department": "Acting",
+        "name": "Lin Boyang",
+        "original_name": "林博洋",
+        "popularity": 0.9719,
+        "profile_path": "/hSYWRtfcAL326QmlGduBD1mst0a.jpg",
+        "cast_id": 18,
+        "character": "Yang Xiaowei / Zhu Li",
+        "credit_id": "64ddb731a3b5e60139008bfc",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4219729,
+        "known_for_department": "Acting",
+        "name": "Chen Tong",
+        "original_name": "陳童",
+        "popularity": 0.1655,
+        "profile_path": "/bs21hUYPqXObeDre5FOEvb6w5jE.jpg",
+        "cast_id": 19,
+        "character": "Li Sha",
+        "credit_id": "64ddb73e37109700e2287787",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1340,
+        "known_for_department": "Acting",
+        "name": "Chen Daoming",
+        "original_name": "陈道明",
+        "popularity": 1.5973,
+        "profile_path": "/xu5PRp6umslrXMvnq0pWsa5LnQh.jpg",
+        "cast_id": 20,
+        "character": "Chen Weimin",
+        "credit_id": "64ddb74d37109700ffb8e77e",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2682419,
+        "known_for_department": "Acting",
+        "name": "Chubu Huajie",
+        "original_name": "楚布花羯",
+        "popularity": 0.2652,
+        "profile_path": "/aoqMa7egDPKeYUpLzM4N3OfJ0OT.jpg",
+        "cast_id": 23,
+        "character": "Yellow-haired Hooligan",
+        "credit_id": "6524edfbea84c7014e0200fb",
+        "order": 15
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1416647,
+        "known_for_department": "Directing",
+        "name": "Chen Yu",
+        "original_name": "陈宇",
+        "popularity": 0.6826,
+        "profile_path": "/nPcQb2UmxcsJsvDXDIubudkRqYd.jpg",
+        "credit_id": "60a6521e4b0c6300579647cc",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4219731,
+        "known_for_department": "Sound",
+        "name": "Liu Wanxin",
+        "original_name": "Liu Wanxin",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "64ddb7845ab81a00c5b6114f",
+        "department": "Sound",
+        "job": "Foley Recordist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 57913,
+        "known_for_department": "Camera",
+        "name": "Zhao Xiaoding",
+        "original_name": "赵小丁",
+        "popularity": 0.3745,
+        "profile_path": "/fIHt9A62ZVZcmrF8KirxOrg1CxQ.jpg",
+        "credit_id": "651a78fcd861af011e6e5859",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4026582,
+        "known_for_department": "Production",
+        "name": "Xiaobei Cao",
+        "original_name": "Xiaobei Cao",
+        "popularity": 0.1561,
+        "profile_path": "/gR7f013K1wUFEh1SS4janjrn2fY.jpg",
+        "credit_id": "657d78e07ad08c06794fed43",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2512106,
+        "known_for_department": "Production",
+        "name": "Pang Liwei",
+        "original_name": "Pang Liwei",
+        "popularity": 0.0357,
+        "profile_path": "/i3YnUDSwDxccM9jHuiZ9PD34rHf.jpg",
+        "credit_id": "65d3aaa18261ee01862f7bfe",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3102084,
+        "known_for_department": "Production",
+        "name": "Li Xiaoping",
+        "original_name": "Li Xiaoping",
+        "popularity": 0.0932,
+        "profile_path": null,
+        "credit_id": "65d3aa9009dda4016556fc67",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 607,
+        "known_for_department": "Directing",
+        "name": "Zhang Yimou",
+        "original_name": "张艺谋",
+        "popularity": 1.7257,
+        "profile_path": "/uU5vECl94jDQYjiRk4eOpVRMEi9.jpg",
+        "credit_id": "5e13e6eb5907de0012e0f910",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 122171,
+        "known_for_department": "Camera",
+        "name": "Luo Pan",
+        "original_name": "Luo Pan",
+        "popularity": 0.1154,
+        "profile_path": "/8qYCpzoRDzsN39flX6nEg1nzrI1.jpg",
+        "credit_id": "5eddf705f36a32001d8c82d5",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 37930,
+        "known_for_department": "Sound",
+        "name": "Jo Yeong-wook",
+        "original_name": "조영욱",
+        "popularity": 0.7173,
+        "profile_path": "/jSBt4j7LXz5PjDchUAyFOpD88wY.jpg",
+        "credit_id": "5eddf7189c24fc002068ec2a",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "CN",
+        "title": "Rock Solid",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "CN",
+        "title": "Hard as Rock",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "CN",
+        "title": "Jian ru pan shi",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "US",
+        "title": "Under the Light",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "US",
+        "title": "Under the Light CN",
+        "type": ""
+      }
+    ]
+  }
+}

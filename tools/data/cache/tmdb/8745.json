@@ -1,0 +1,562 @@
+{
+  "adult": false,
+  "backdrop_path": "/n6OG7rBZZoTGl7otm8TbeWKzva6.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 8745,
+  "imdb_id": "tt0057191",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "It Happened at the World's Fair",
+  "overview": "Mike and Danny fly a cropduster, but because of Danny's gambling debts, a local sheriff takes custody of it. Trying to earn money, they hitch-hike to the World's Fair in Seattle and, while Danny tries to earn money playing poker, Mike takes care of a small girl whose father has disappeared. Being a ladies' man, he also finds the time to court a young nurse.",
+  "popularity": 0.9461,
+  "poster_path": "/2ZyMccwiHjf79pmd1Tw65XTyGVL.jpg",
+  "production_companies": [
+    {
+      "id": 43292,
+      "logo_path": null,
+      "name": "Ted Richmond Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 21,
+      "logo_path": "/usUnaYV6hQnlVAXP6r4HwrlLFPG.png",
+      "name": "Metro-Goldwyn-Mayer",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1963-04-03",
+  "revenue": 0,
+  "runtime": 105,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Swinging higher than the space needle with the gals and the songs at the famous Worlds Fair!",
+  "title": "It Happened at the World's Fair",
+  "video": false,
+  "vote_average": 5.827,
+  "vote_count": 52,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 21457,
+        "known_for_department": "Acting",
+        "name": "Elvis Presley",
+        "original_name": "Elvis Presley",
+        "popularity": 1.1798,
+        "profile_path": "/psf1wJUw48ALsfV3tN31FX0mDW5.jpg",
+        "cast_id": 1,
+        "character": "Mike Edwards",
+        "credit_id": "52fe44b7c3a36847f80a5fb7",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 55890,
+        "known_for_department": "Acting",
+        "name": "Joan O'Brien",
+        "original_name": "Joan O'Brien",
+        "popularity": 0.5058,
+        "profile_path": "/t2k99bcDvoWAKH3cBPzfjcr3EcV.jpg",
+        "cast_id": 2,
+        "character": "Diane Warren",
+        "credit_id": "52fe44b7c3a36847f80a5fbb",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 246,
+        "known_for_department": "Acting",
+        "name": "Gary Lockwood",
+        "original_name": "Gary Lockwood",
+        "popularity": 1.4995,
+        "profile_path": "/1tfGE7RW8GgCLEFFJUXETq9Td1T.jpg",
+        "cast_id": 3,
+        "character": "Danny Burke",
+        "credit_id": "52fe44b7c3a36847f80a5fbf",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 55891,
+        "known_for_department": "Acting",
+        "name": "Vicky Tiu",
+        "original_name": "Vicky Tiu",
+        "popularity": 0.0682,
+        "profile_path": "/7QQmKOOYf9wyRvZRoK132AgWEty.jpg",
+        "cast_id": 4,
+        "character": "Sue-Lin",
+        "credit_id": "52fe44b7c3a36847f80a5fc3",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 19435,
+        "known_for_department": "Acting",
+        "name": "H.M. Wynant",
+        "original_name": "H.M. Wynant",
+        "popularity": 0.9755,
+        "profile_path": "/6LzSvk9WfPwOZWkoes6QjYo1QNK.jpg",
+        "cast_id": 5,
+        "character": "Vince Bradley",
+        "credit_id": "52fe44b7c3a36847f80a5fc7",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 14577,
+        "known_for_department": "Acting",
+        "name": "Edith Atwater",
+        "original_name": "Edith Atwater",
+        "popularity": 0.5076,
+        "profile_path": "/ieJIM6uoZqFUhFegAbLG1jWAMcf.jpg",
+        "cast_id": 6,
+        "character": "Miss Steuben",
+        "credit_id": "52fe44b7c3a36847f80a5fcb",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 55892,
+        "known_for_department": "Acting",
+        "name": "Guy Raymond",
+        "original_name": "Guy Raymond",
+        "popularity": 0.3228,
+        "profile_path": "/rwwGqSDgbV5XeL7J50Mpeh5XZDH.jpg",
+        "cast_id": 7,
+        "character": "Barney Thatcher",
+        "credit_id": "52fe44b7c3a36847f80a5fcf",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 55893,
+        "known_for_department": "Acting",
+        "name": "Dorothy Green",
+        "original_name": "Dorothy Green",
+        "popularity": 0.6904,
+        "profile_path": "/jenHe8jXlKnyhxP4gja1De95EYk.jpg",
+        "cast_id": 8,
+        "character": "Miss Ettinger",
+        "credit_id": "52fe44b7c3a36847f80a5fd3",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 55894,
+        "known_for_department": "Acting",
+        "name": "Kam Tong",
+        "original_name": "Kam Tong",
+        "popularity": 0.5208,
+        "profile_path": "/zOKJVLpSsTHIE687IAbGk2UqSVS.jpg",
+        "cast_id": 9,
+        "character": "Uncle Walter Ling",
+        "credit_id": "52fe44b7c3a36847f80a5fd7",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 16102,
+        "known_for_department": "Acting",
+        "name": "Yvonne Craig",
+        "original_name": "Yvonne Craig",
+        "popularity": 0.9831,
+        "profile_path": "/jkU04EqQgjvRVanHOQr4P7XdQrw.jpg",
+        "cast_id": 10,
+        "character": "Dorothy Johnson",
+        "credit_id": "52fe44b7c3a36847f80a5fdb",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 105571,
+        "known_for_department": "Acting",
+        "name": "Jacqueline deWit",
+        "original_name": "Jacqueline deWit",
+        "popularity": 0.4015,
+        "profile_path": "/yfuNBru8DCX7h92E7BDnt97eEqP.jpg",
+        "cast_id": 22,
+        "character": "Mrs. Johnson (uncredited)",
+        "credit_id": "52fe44b7c3a36847f80a601d",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6856,
+        "known_for_department": "Acting",
+        "name": "Kurt Russell",
+        "original_name": "Kurt Russell",
+        "popularity": 4.1552,
+        "profile_path": "/6g1d98oH4miG4k0ZiZWmF3Dt0bO.jpg",
+        "cast_id": 20,
+        "character": "Child who kicks Mike at the fair (uncredited)",
+        "credit_id": "52fe44b7c3a36847f80a6015",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 114961,
+        "known_for_department": "Acting",
+        "name": "Olan Soule",
+        "original_name": "Olan Soule",
+        "popularity": 0.5349,
+        "profile_path": "/sLfM2XrrXIpFoOafSuxZwgEjgns.jpg",
+        "cast_id": 21,
+        "character": "Mr. Johnson (uncredited)",
+        "credit_id": "52fe44b7c3a36847f80a6019",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 136129,
+        "known_for_department": "Acting",
+        "name": "Russell Thorson",
+        "original_name": "Russell Thorson",
+        "popularity": 0.4716,
+        "profile_path": "/2OwLRFsHpz9b99QePUpxxM2Jrph.jpg",
+        "cast_id": 23,
+        "character": "Sheriff Garland (uncredited)",
+        "credit_id": "52fe44b7c3a36847f80a6021",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 60508,
+        "known_for_department": "Acting",
+        "name": "Red West",
+        "original_name": "Red West",
+        "popularity": 0.6202,
+        "profile_path": "/wSJw9XFodrZJEBsMHKM0EsShDjE.jpg",
+        "cast_id": 33,
+        "character": "Fred (uncredited)",
+        "credit_id": "62feccacd6819b007d3b6c50",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2200866,
+        "known_for_department": "Acting",
+        "name": "Paula Lane",
+        "original_name": "Paula Lane",
+        "popularity": 0.1827,
+        "profile_path": "/Wxey2ScMT3o6qw1YtLNcjCeZPy.jpg",
+        "cast_id": 34,
+        "character": "Waitress (uncredited)",
+        "credit_id": "6400a0ef7a4ee700863a4119",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 138378,
+        "known_for_department": "Acting",
+        "name": "Pete Kellett",
+        "original_name": "Pete Kellett",
+        "popularity": 0.2447,
+        "profile_path": "/7h53Fovwq705y4DMuRelatDFRad.jpg",
+        "cast_id": 35,
+        "character": "Policeman (uncredited)",
+        "credit_id": "64a09e82c390c500eb34dc69",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1224636,
+        "known_for_department": "Acting",
+        "name": "Bill Lee",
+        "original_name": "Bill Lee",
+        "popularity": 0.1501,
+        "profile_path": "/eS8aQgJy4nNMIs5t7DyKDHTotXl.jpg",
+        "cast_id": 36,
+        "character": "The Mellomen (uncredited)",
+        "credit_id": "6747cbff8454c6ca36364272",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 150739,
+        "known_for_department": "Acting",
+        "name": "Thurl Ravenscroft",
+        "original_name": "Thurl Ravenscroft",
+        "popularity": 0.5214,
+        "profile_path": "/bG8r0mdyU0lvhllYAAjRAJupWqq.jpg",
+        "cast_id": 37,
+        "character": "The Mellomen (uncredited)",
+        "credit_id": "6747cc0f8454c6ca3636427a",
+        "order": 18
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 14678,
+        "known_for_department": "Camera",
+        "name": "Joseph Ruttenberg",
+        "original_name": "Joseph Ruttenberg",
+        "popularity": 0.2865,
+        "profile_path": "/uwNXqNOOA6cUgdiALCAX4FIl8aS.jpg",
+        "credit_id": "52fe44b7c3a36847f80a5fed",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 40460,
+        "known_for_department": "Sound",
+        "name": "Leith Stevens",
+        "original_name": "Leith Stevens",
+        "popularity": 0.2442,
+        "profile_path": "/kyFfHCScIZEaRmUnu9uOfsYpiWq.jpg",
+        "credit_id": "52fe44b7c3a36847f80a5ff3",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 10640,
+        "known_for_department": "Editing",
+        "name": "Fredric Steinkamp",
+        "original_name": "Fredric Steinkamp",
+        "popularity": 0.1453,
+        "profile_path": null,
+        "credit_id": "52fe44b7c3a36847f80a5ff9",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 40170,
+        "known_for_department": "Art",
+        "name": "E. Preston Ames",
+        "original_name": "E. Preston Ames",
+        "popularity": 0.1696,
+        "profile_path": null,
+        "credit_id": "52fe44b7c3a36847f80a5fff",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 10604,
+        "known_for_department": "Art",
+        "name": "George W. Davis",
+        "original_name": "George W. Davis",
+        "popularity": 0.3921,
+        "profile_path": null,
+        "credit_id": "52fe44b7c3a36847f80a6005",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3648,
+        "known_for_department": "Art",
+        "name": "Henry Grace",
+        "original_name": "Henry Grace",
+        "popularity": 0.3808,
+        "profile_path": null,
+        "credit_id": "52fe44b7c3a36847f80a600b",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 10010,
+        "known_for_department": "Art",
+        "name": "Hugh Hunt",
+        "original_name": "Hugh Hunt",
+        "popularity": 0.1922,
+        "profile_path": null,
+        "credit_id": "52fe44b7c3a36847f80a6011",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 14681,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Sydney Guilaroff",
+        "original_name": "Sydney Guilaroff",
+        "popularity": 0.4528,
+        "profile_path": "/14O60bqcGCLwoYAbTzQJLAHohwN.jpg",
+        "credit_id": "612087a8719aeb004591b3fc",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2083700,
+        "known_for_department": "Costume & Make-Up",
+        "name": "John Truwe",
+        "original_name": "John Truwe",
+        "popularity": 0.3695,
+        "profile_path": null,
+        "credit_id": "612087b3d1a893005c2cec64",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 29801,
+        "known_for_department": "Costume & Make-Up",
+        "name": "William Tuttle",
+        "original_name": "William Tuttle",
+        "popularity": 0.4805,
+        "profile_path": "/rZqVArbsjXxtddh2lm2u21SgBPN.jpg",
+        "credit_id": "612087c2385202002b2c9f0e",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1620924,
+        "known_for_department": "Directing",
+        "name": "Al Jennings",
+        "original_name": "Al Jennings",
+        "popularity": 0.1058,
+        "profile_path": null,
+        "credit_id": "612087cc66ae4d005b52edd4",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 21787,
+        "known_for_department": "Sound",
+        "name": "Franklin Milton",
+        "original_name": "Franklin Milton",
+        "popularity": 0.2878,
+        "profile_path": null,
+        "credit_id": "612087d9d4b9d90045b51b1e",
+        "department": "Sound",
+        "job": "Recording Supervision"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1351874,
+        "known_for_department": "Acting",
+        "name": "Tom Parker",
+        "original_name": "Tom Parker",
+        "popularity": 0.2303,
+        "profile_path": "/m929dKquU8S1caX54RKRQcl4LK8.jpg",
+        "credit_id": "612087f12e069700459e7982",
+        "department": "Crew",
+        "job": "Technical Advisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 55895,
+        "known_for_department": "Writing",
+        "name": "Si Rose",
+        "original_name": "Si Rose",
+        "popularity": 0.1815,
+        "profile_path": null,
+        "credit_id": "54abf4bec3a36822b700400c",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 55896,
+        "known_for_department": "Writing",
+        "name": "Seaman Jacobs",
+        "original_name": "Seaman Jacobs",
+        "popularity": 0.4641,
+        "profile_path": null,
+        "credit_id": "54abf4c79251414d67008d93",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 82800,
+        "known_for_department": "Directing",
+        "name": "Norman Taurog",
+        "original_name": "Norman Taurog",
+        "popularity": 0.6735,
+        "profile_path": "/3xm70GFmrRxKAWezI6OEHR8vEEe.jpg",
+        "credit_id": "54abf4e1c3a3680c21009b7e",
+        "department": "Directing",
+        "job": "Director"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "BR",
+        "title": "Loiras, Morenas e Ruivas",
+        "type": "dvd"
+      },
+      {
+        "iso_3166_1": "DE",
+        "title": "Ob blond, ob braun...",
+        "type": ""
+      }
+    ]
+  }
+}

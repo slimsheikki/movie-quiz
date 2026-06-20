@@ -1,0 +1,305 @@
+{
+  "adult": false,
+  "backdrop_path": "/jiwopJOqUrOBTXaObBsb96CEIn9.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 137028,
+  "imdb_id": "tt0064280",
+  "origin_country": [
+    "DE"
+  ],
+  "original_language": "de",
+  "original_title": "Eika Katappa",
+  "overview": "Collage of dramatic scenes, some exaggerated to comic effect, with asynchronous sound from well known classic, operatic, and rock and roll music –  with different approaches to love, suffering, and death.",
+  "popularity": 0.3037,
+  "poster_path": "/zvdTXYecn3Lk0HU3FuN3mlGdt89.jpg",
+  "production_companies": [
+    {
+      "id": 47759,
+      "logo_path": null,
+      "name": "Werner Schroeter Filmproduktion",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "release_date": "1969-10-10",
+  "revenue": 0,
+  "runtime": 144,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    },
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Eika Katappa",
+  "video": false,
+  "vote_average": 6.667,
+  "vote_count": 9,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 45197,
+        "known_for_department": "Acting",
+        "name": "Magdalena Montezuma",
+        "original_name": "Magdalena Montezuma",
+        "popularity": 0.3698,
+        "profile_path": null,
+        "cast_id": 6,
+        "character": "",
+        "credit_id": "52fe4c23c3a368484e1a963f",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 68116,
+        "known_for_department": "Acting",
+        "name": "Carla Egerer",
+        "original_name": "Carla Egerer",
+        "popularity": 0.1672,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "",
+        "credit_id": "52fe4c23c3a368484e1a9637",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 19525,
+        "known_for_department": "Acting",
+        "name": "Gisela Trowe",
+        "original_name": "Gisela Trowe",
+        "popularity": 0.5915,
+        "profile_path": "/up1LoTMTtRrfnTjOzZmYGHmvyBM.jpg",
+        "cast_id": 3,
+        "character": "",
+        "credit_id": "52fe4c23c3a368484e1a9633",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1101303,
+        "known_for_department": "Acting",
+        "name": "Rosemarie Heinikel",
+        "original_name": "Rosemarie Heinikel",
+        "popularity": 0.0623,
+        "profile_path": "/ujBw7nbykC0JWVzOPV3Ej4c5yJw.jpg",
+        "cast_id": 5,
+        "character": "",
+        "credit_id": "52fe4c23c3a368484e1a963b",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1106601,
+        "known_for_department": "Acting",
+        "name": "Rita Bauer",
+        "original_name": "Rita Bauer",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "cast_id": 12,
+        "character": "",
+        "credit_id": "5fc6cab1a1074b0040ebfd49",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1320669,
+        "known_for_department": "Acting",
+        "name": "René Schoenenberger",
+        "original_name": "René Schoenenberger",
+        "popularity": 0.1727,
+        "profile_path": "/4Gbn2sHZ5vGWAREhrZeo52ksqqa.jpg",
+        "cast_id": 13,
+        "character": "",
+        "credit_id": "5fc6cac6d132d6003f1e27e1",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2877811,
+        "known_for_department": "Acting",
+        "name": "Alix Buchen",
+        "original_name": "Alix Buchen",
+        "popularity": 0.0579,
+        "profile_path": null,
+        "cast_id": 14,
+        "character": "",
+        "credit_id": "5fc6cae2156cc7003e21a8a8",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1874705,
+        "known_for_department": "Acting",
+        "name": "Joachim Bauer",
+        "original_name": "Joachim Bauer",
+        "popularity": 0.0563,
+        "profile_path": null,
+        "cast_id": 15,
+        "character": "",
+        "credit_id": "5fc6caf5df857c003e5ec26c",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1295073,
+        "known_for_department": "Acting",
+        "name": "Knut Koch",
+        "original_name": "Knut Koch",
+        "popularity": 0.0281,
+        "profile_path": null,
+        "cast_id": 16,
+        "character": "",
+        "credit_id": "5fc6cb09fba6250042a2cac0",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1106607,
+        "known_for_department": "Acting",
+        "name": "Sigurd Salto",
+        "original_name": "Sigurd Salto",
+        "popularity": 0.0264,
+        "profile_path": null,
+        "cast_id": 17,
+        "character": "",
+        "credit_id": "5fc6cb2efad8e9003cb9b4eb",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 45192,
+        "known_for_department": "Directing",
+        "name": "Werner Schroeter",
+        "original_name": "Werner Schroeter",
+        "popularity": 0.2772,
+        "profile_path": "/yrTk3uMtzx0mu9ZyqHA59XiC5bA.jpg",
+        "cast_id": 18,
+        "character": "",
+        "credit_id": "5fc6cb3bdf857c00405ee65f",
+        "order": 10
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 45192,
+        "known_for_department": "Directing",
+        "name": "Werner Schroeter",
+        "original_name": "Werner Schroeter",
+        "popularity": 0.2772,
+        "profile_path": "/yrTk3uMtzx0mu9ZyqHA59XiC5bA.jpg",
+        "credit_id": "52fe4c23c3a368484e1a9629",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 45192,
+        "known_for_department": "Directing",
+        "name": "Werner Schroeter",
+        "original_name": "Werner Schroeter",
+        "popularity": 0.2772,
+        "profile_path": "/yrTk3uMtzx0mu9ZyqHA59XiC5bA.jpg",
+        "credit_id": "5fc6ca47a8858700420c42ee",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 45192,
+        "known_for_department": "Directing",
+        "name": "Werner Schroeter",
+        "original_name": "Werner Schroeter",
+        "popularity": 0.2772,
+        "profile_path": "/yrTk3uMtzx0mu9ZyqHA59XiC5bA.jpg",
+        "credit_id": "5fc6ca53a1074b0042ebe36b",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 45192,
+        "known_for_department": "Directing",
+        "name": "Werner Schroeter",
+        "original_name": "Werner Schroeter",
+        "popularity": 0.2772,
+        "profile_path": "/yrTk3uMtzx0mu9ZyqHA59XiC5bA.jpg",
+        "credit_id": "5fc6ca5e13a388003f04cb6e",
+        "department": "Crew",
+        "job": "Cinematography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 48432,
+        "known_for_department": "Directing",
+        "name": "Robert van Ackeren",
+        "original_name": "Robert van Ackeren",
+        "popularity": 0.1592,
+        "profile_path": "/5Hysi6U88O0zBAOevjEDcZiYLaw.jpg",
+        "credit_id": "5fc6ca673a340b0040e29855",
+        "department": "Crew",
+        "job": "Cinematography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 45192,
+        "known_for_department": "Directing",
+        "name": "Werner Schroeter",
+        "original_name": "Werner Schroeter",
+        "popularity": 0.2772,
+        "profile_path": "/yrTk3uMtzx0mu9ZyqHA59XiC5bA.jpg",
+        "credit_id": "5fc6ca853a340b0041e1a5d7",
+        "department": "Production",
+        "job": "Producer"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  }
+}

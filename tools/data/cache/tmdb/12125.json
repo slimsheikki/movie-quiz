@@ -1,0 +1,511 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ],
+  "homepage": "",
+  "id": 12125,
+  "imdb_id": "tt1020559",
+  "origin_country": [
+    "US",
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "Patagonia",
+  "overview": "Patagonia narrates the journeys of two women - one looking for her past, the other for her future. The film inter-cuts between their stories, in which one of them travels south to north through the Welsh springtime and the other east to west through the Argentine autumn.",
+  "popularity": 0.8058,
+  "poster_path": "/aoaRzLEJxmnfkEbjCM43JTkiUHu.jpg",
+  "production_companies": [
+    {
+      "id": 45191,
+      "logo_path": null,
+      "name": "Rainy Day Films",
+      "origin_country": "GB"
+    },
+    {
+      "id": 49092,
+      "logo_path": null,
+      "name": "Redrum Films",
+      "origin_country": "GB"
+    },
+    {
+      "id": 5075,
+      "logo_path": "/9KTaY2KNITk7pWJlR8wfNcMRdQj.png",
+      "name": "S4C",
+      "origin_country": "GB"
+    },
+    {
+      "id": 12177,
+      "logo_path": "/9P2VDiqTAr9qupVBbgCpf6FhLhn.png",
+      "name": "Ffilm Cymru Wales",
+      "origin_country": "GB"
+    },
+    {
+      "id": 11841,
+      "logo_path": null,
+      "name": "Wales Creative IP Fund",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "AR",
+      "name": "Argentina"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "2010-06-10",
+  "revenue": 0,
+  "runtime": 119,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Welsh",
+      "iso_639_1": "cy",
+      "name": "Cymraeg"
+    },
+    {
+      "english_name": "Polish",
+      "iso_639_1": "pl",
+      "name": "Polski"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Patagonia",
+  "video": false,
+  "vote_average": 5.559,
+  "vote_count": 17,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 29528,
+        "known_for_department": "Acting",
+        "name": "Matthew Rhys",
+        "original_name": "Matthew Rhys",
+        "popularity": 4.1054,
+        "profile_path": "/8uktKexgPn0tsW3dsXVNqkqiNh7.jpg",
+        "cast_id": 6,
+        "character": "Mateo",
+        "credit_id": "54d2a787c3a3686abf000427",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 145026,
+        "known_for_department": "Acting",
+        "name": "Marta Lubos",
+        "original_name": "Marta Lubos",
+        "popularity": 0.1654,
+        "profile_path": "/uOPmhWyY31hp660vlt65wOcfpBk.jpg",
+        "cast_id": 5,
+        "character": "Cerys",
+        "credit_id": "54d2a7169251413fd60005e0",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 66957,
+        "known_for_department": "Acting",
+        "name": "Nahuel Pérez Biscayart",
+        "original_name": "Nahuel Pérez Biscayart",
+        "popularity": 0.355,
+        "profile_path": "/27JLQmsKTwKO3WbIVJyBE4iI7za.jpg",
+        "cast_id": 4,
+        "character": "Alejandro",
+        "credit_id": "54d2a6f6c3a3686abf000421",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 71354,
+        "known_for_department": "Acting",
+        "name": "Nia Roberts",
+        "original_name": "Nia Roberts",
+        "popularity": 1.0654,
+        "profile_path": "/gaVKSZODtrRGnpcs77sU1c3rzuj.jpg",
+        "cast_id": 3,
+        "character": "Gwen",
+        "credit_id": "52fe44ba9251416c7503eed1",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1423214,
+        "known_for_department": "Acting",
+        "name": "Matthew Gravelle",
+        "original_name": "Matthew Gravelle",
+        "popularity": 0.8306,
+        "profile_path": "/3aZe6GqjJ701AERGEYRAMsotZFq.jpg",
+        "cast_id": 7,
+        "character": "Rhys",
+        "credit_id": "54d2a82c9251413fca0005d7",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1080281,
+        "known_for_department": "Acting",
+        "name": "Rhys Parry Jones",
+        "original_name": "Rhys Parry Jones",
+        "popularity": 0.0969,
+        "profile_path": "/xCLI3W52OJQ2PJtA5eq2QFs9o9U.jpg",
+        "cast_id": 13,
+        "character": "Martin",
+        "credit_id": "5747d1dfc3a368288c000b08",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 219303,
+        "known_for_department": "Acting",
+        "name": "Duffy",
+        "original_name": "Duffy",
+        "popularity": 0.3348,
+        "profile_path": "/w5PieuONNDbtypB3c3HzyoNsK92.jpg",
+        "cast_id": 10,
+        "character": "Sissy",
+        "credit_id": "54d2a8ebc3a3686ab6000a33",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1656282,
+        "known_for_department": "Acting",
+        "name": "Marco Antonio Caponi",
+        "original_name": "Marco Antonio Caponi",
+        "popularity": 0.205,
+        "profile_path": null,
+        "cast_id": 17,
+        "character": "Diego",
+        "credit_id": "62d37b2b9f51af0057b8bb2f",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2124203,
+        "known_for_department": "Acting",
+        "name": "Gabriela Ferrero",
+        "original_name": "Gabriela Ferrero",
+        "popularity": 0.0867,
+        "profile_path": null,
+        "cast_id": 18,
+        "character": "Eleonara",
+        "credit_id": "62d37b3dc15b55004d404a2e",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4733771,
+        "known_for_department": "Acting",
+        "name": "Stewart Jones",
+        "original_name": "Stewart Jones",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 20,
+        "character": "Old Mr. Roberts",
+        "credit_id": "6650cb125c47b2b48a18fe63",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 27059,
+        "known_for_department": "Acting",
+        "name": "Claudia Cantero",
+        "original_name": "Claudia Cantero",
+        "popularity": 0.1222,
+        "profile_path": "/iZKNLHrvqHlFgzLwY3AEOnXzqmk.jpg",
+        "cast_id": 22,
+        "character": "Marta",
+        "credit_id": "6862dcb0a2dad58c3b9a1b39",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 970112,
+        "known_for_department": "Acting",
+        "name": "Rhodri Meilir",
+        "original_name": "Rhodri Meilir",
+        "popularity": 0.3218,
+        "profile_path": "/vhuVh700mkQaaEBoSAuNlzRXD4S.jpg",
+        "cast_id": 23,
+        "character": "Rhodri",
+        "credit_id": "6862dcd56a7de38aa1558d0d",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1884511,
+        "known_for_department": "Acting",
+        "name": "Ri Richards",
+        "original_name": "Ri Richards",
+        "popularity": 0.0825,
+        "profile_path": null,
+        "cast_id": 24,
+        "character": "Therapist",
+        "credit_id": "6862dcfdf7027f7d3597a261",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1120606,
+        "known_for_department": "Acting",
+        "name": "Sue Roderick",
+        "original_name": "Sue Roderick",
+        "popularity": 0.1423,
+        "profile_path": null,
+        "cast_id": 25,
+        "character": "Barmaid",
+        "credit_id": "6862dd3aa11f0032d69a1b1e",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 121671,
+        "known_for_department": "Acting",
+        "name": "Marcin Kwaśny",
+        "original_name": "Marcin Kwaśny",
+        "popularity": 0.1642,
+        "profile_path": "/fr9BoiO4p0BWL5R3LUZPmE8wZPu.jpg",
+        "cast_id": 26,
+        "character": "Marc",
+        "credit_id": "6862dd55f7027f7d3597a265",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1138897,
+        "known_for_department": "Acting",
+        "name": "Radosław Kaim",
+        "original_name": "Radosław Kaim",
+        "popularity": 0.131,
+        "profile_path": "/gBx1QdsjrtSOIJUfvXOIGfhOSiX.jpg",
+        "cast_id": 27,
+        "character": "Kris",
+        "credit_id": "6862dd7891888fc51b0c787e",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1216391,
+        "known_for_department": "Acting",
+        "name": "Sara Gregory",
+        "original_name": "Sara Gregory",
+        "popularity": 0.3073,
+        "profile_path": "/nPtioaTAWNStyWNnLzWsPyj48mc.jpg",
+        "cast_id": 28,
+        "character": "Chica del Valle (as Sara Lloyd-Gregory)",
+        "credit_id": "6862dd99add4a6815940d26a",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1983399,
+        "known_for_department": "Acting",
+        "name": "Gareth Jewell",
+        "original_name": "Gareth Jewell",
+        "popularity": 0.1689,
+        "profile_path": "/fCKSo8Ux3kSsoKr2xrKtdeWpoGB.jpg",
+        "cast_id": 29,
+        "character": "Chico del Valle",
+        "credit_id": "6862ddbd928ca349b7e0bc46",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4016280,
+        "known_for_department": "Acting",
+        "name": "Alys Thomas",
+        "original_name": "Alys Thomas",
+        "popularity": 0.0379,
+        "profile_path": null,
+        "cast_id": 30,
+        "character": "Kate",
+        "credit_id": "6862ddfc2f94b343b5e0bc57",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4985488,
+        "known_for_department": "Acting",
+        "name": "Rhodri Sion",
+        "original_name": "Rhodri Sion",
+        "popularity": 0.0327,
+        "profile_path": null,
+        "cast_id": 31,
+        "character": "Dave",
+        "credit_id": "6862de1cbe7f4f7cc2e0bc5c",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1099003,
+        "known_for_department": "Acting",
+        "name": "Stewart Jones",
+        "original_name": "Stewart Jones",
+        "popularity": 0.0168,
+        "profile_path": null,
+        "cast_id": 32,
+        "character": "Old Mr. Roberts",
+        "credit_id": "6862de3b1564abd5909a1b4f",
+        "order": 20
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3558567,
+        "known_for_department": "Acting",
+        "name": "Janet Aethwy",
+        "original_name": "Janet Aethwy",
+        "popularity": 0.0268,
+        "profile_path": null,
+        "cast_id": 33,
+        "character": "Old Mr. Roberts' Daughter",
+        "credit_id": "6862de6fbe7f4f7cc2e0bc69",
+        "order": 21
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1836812,
+        "known_for_department": "Acting",
+        "name": "Huw Garmon",
+        "original_name": "Huw Garmon",
+        "popularity": 0.1416,
+        "profile_path": "/8XBU3bsvmPSDTf6d0edNb2eSDpb.jpg",
+        "cast_id": 34,
+        "character": "Padre",
+        "credit_id": "6862dea1c8921ec9b2558d16",
+        "order": 22
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4575,
+        "known_for_department": "Directing",
+        "name": "Marc Evans",
+        "original_name": "Marc Evans",
+        "popularity": 0.4607,
+        "profile_path": "/q79UYdnsIoHwQQlnSYTUtlaG3Uf.jpg",
+        "credit_id": "52fe44ba9251416c7503eec9",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 71086,
+        "known_for_department": "Camera",
+        "name": "Robbie Ryan",
+        "original_name": "Robbie Ryan",
+        "popularity": 0.3314,
+        "profile_path": "/qYbGiIVFjUdPIYXWeWIeDI9xTfr.jpg",
+        "credit_id": "62e31ff1b0040a005ad5d357",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 109478,
+        "known_for_department": "Writing",
+        "name": "Laurence Coriat",
+        "original_name": "Laurence Coriat",
+        "popularity": 0.1798,
+        "profile_path": null,
+        "credit_id": "54d2a93b9251413fd30007d1",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4575,
+        "known_for_department": "Directing",
+        "name": "Marc Evans",
+        "original_name": "Marc Evans",
+        "popularity": 0.4607,
+        "profile_path": "/q79UYdnsIoHwQQlnSYTUtlaG3Uf.jpg",
+        "credit_id": "54d2a95c9251413fc7000644",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2211106,
+        "known_for_department": "Editing",
+        "name": "Mali Evans",
+        "original_name": "Mali Evans",
+        "popularity": 0.1338,
+        "profile_path": null,
+        "credit_id": "5c34b8cbc3a36828e36597a2",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 11468,
+        "known_for_department": "Sound",
+        "name": "Joseph LoDuca",
+        "original_name": "Joseph LoDuca",
+        "popularity": 0.4215,
+        "profile_path": "/wtSopiCJFjs30sITI6fuvjEsKnL.jpg",
+        "credit_id": "6862dc5f2f46a57c5540d297",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  }
+}

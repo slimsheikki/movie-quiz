@@ -1,0 +1,469 @@
+{
+  "adult": false,
+  "backdrop_path": "/A7ZBrQCAIJCskA8oXm7i5jV1Yoj.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "",
+  "id": 29998,
+  "imdb_id": "tt0040829",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Amazing Mr. X",
+  "overview": "On the beach one night, Christine Faber, two years a widow, thinks she hears her late husband Paul calling out of the surf...then meets a tall dark man, Alexis, who seems to know all about such things. After more ghostly manifestations, Christine and younger sister Janet become enmeshed in the eerie artifices of Alexis; but he in turn finds himself manipulated into deeper deviltry than he had in mind...",
+  "popularity": 1.0374,
+  "poster_path": "/7CQ5G1Jpmu2ppeHxTx47DpJ5YEw.jpg",
+  "production_companies": [
+    {
+      "id": 5010,
+      "logo_path": null,
+      "name": "Ben Stoloff Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 247873,
+      "logo_path": null,
+      "name": "Eagle-Lion Films (US)",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1948-07-29",
+  "revenue": 0,
+  "runtime": 78,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "In his eyes, the threat of terror! In his hands, the power to destroy!",
+  "title": "The Amazing Mr. X",
+  "video": false,
+  "vote_average": 6.17,
+  "vote_count": 50,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 45380,
+        "known_for_department": "Acting",
+        "name": "Turhan Bey",
+        "original_name": "Turhan Bey",
+        "popularity": 0.4564,
+        "profile_path": "/YugYyfwqXp9C3Qj0oNaNJVmbf6.jpg",
+        "cast_id": 9,
+        "character": "Alexis",
+        "credit_id": "52fe460ac3a368484e07d635",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 104199,
+        "known_for_department": "Acting",
+        "name": "Lynn Bari",
+        "original_name": "Lynn Bari",
+        "popularity": 0.9252,
+        "profile_path": "/dY4ZYtiCGBXyVtjrE3TjwRD4EJh.jpg",
+        "cast_id": 10,
+        "character": "Christine Faber",
+        "credit_id": "52fe460ac3a368484e07d639",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 10023,
+        "known_for_department": "Acting",
+        "name": "Cathy O'Donnell",
+        "original_name": "Cathy O'Donnell",
+        "popularity": 0.8955,
+        "profile_path": "/hBNexdnsOlpup6iwgTsYg3Zus93.jpg",
+        "cast_id": 11,
+        "character": "Janet Burke",
+        "credit_id": "52fe460ac3a368484e07d63d",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 67685,
+        "known_for_department": "Acting",
+        "name": "Richard Carlson",
+        "original_name": "Richard Carlson",
+        "popularity": 0.8879,
+        "profile_path": "/dTKsl3WAzvfFBHAgOmwt959oFHi.jpg",
+        "cast_id": 12,
+        "character": "Martin Abbott",
+        "credit_id": "52fe460ac3a368484e07d641",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 35847,
+        "known_for_department": "Acting",
+        "name": "Donald Curtis",
+        "original_name": "Donald Curtis",
+        "popularity": 0.4035,
+        "profile_path": "/2VrI2eZXGhESrx9E5EuAbGtqkFF.jpg",
+        "cast_id": 13,
+        "character": "Paul Faber",
+        "credit_id": "52fe460ac3a368484e07d645",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 19110,
+        "known_for_department": "Acting",
+        "name": "Virginia Gregg",
+        "original_name": "Virginia Gregg",
+        "popularity": 1.2526,
+        "profile_path": "/AmNAKjlShaPxv7C3Z2xYC0vvSk5.jpg",
+        "cast_id": 14,
+        "character": "Emily",
+        "credit_id": "52fe460ac3a368484e07d649",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 10926,
+        "known_for_department": "Acting",
+        "name": "Norma Varden",
+        "original_name": "Norma Varden",
+        "popularity": 0.7945,
+        "profile_path": "/6f52jKhHnQRscajyhIoGNMNo4N7.jpg",
+        "cast_id": 16,
+        "character": "Wealthy looking woman",
+        "credit_id": "5b5a48be0e0a26748d005953",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 953159,
+        "known_for_department": "Acting",
+        "name": "Harry Mendoza",
+        "original_name": "Harry Mendoza",
+        "popularity": 0.069,
+        "profile_path": null,
+        "cast_id": 26,
+        "character": "Hoffman",
+        "credit_id": "62324b4fec0c580077cdbeac",
+        "order": 7
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1709732,
+        "known_for_department": "Sound",
+        "name": "Irving Friedman",
+        "original_name": "Irving Friedman",
+        "popularity": 0.125,
+        "profile_path": null,
+        "credit_id": "62324bfe1a3248001ceb65db",
+        "department": "Sound",
+        "job": "Music Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 29640,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Joan St. Oegger",
+        "original_name": "Joan St. Oegger",
+        "popularity": 0.2795,
+        "profile_path": null,
+        "credit_id": "62324bc63c3ab0004834c1ba",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 105478,
+        "known_for_department": "Writing",
+        "name": "Muriel Roy Bolton",
+        "original_name": "Muriel Roy Bolton",
+        "popularity": 0.2145,
+        "profile_path": null,
+        "credit_id": "62324b964142910073b7dec5",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 11994,
+        "known_for_department": "Writing",
+        "name": "Ian McLellan Hunter",
+        "original_name": "Ian McLellan Hunter",
+        "popularity": 0.4035,
+        "profile_path": "/xU02UMrBYlHWxzaG27f64HhSVRX.jpg",
+        "credit_id": "62324b817e12f0007bcdcca5",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 89932,
+        "known_for_department": "Directing",
+        "name": "Benjamin Stoloff",
+        "original_name": "Benjamin Stoloff",
+        "popularity": 0.4811,
+        "profile_path": null,
+        "credit_id": "52fe460ac3a368484e07d61f",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 105477,
+        "known_for_department": "Directing",
+        "name": "Bernard Vorhaus",
+        "original_name": "Bernard Vorhaus",
+        "popularity": 0.3504,
+        "profile_path": "/5K4mp3a2LEq0aCMGFSYCfLeR9Uc.jpg",
+        "credit_id": "52fe460ac3a368484e07d607",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 84940,
+        "known_for_department": "Writing",
+        "name": "Crane Wilbur",
+        "original_name": "Crane Wilbur",
+        "popularity": 0.643,
+        "profile_path": "/2gpp9veLSxWPrU9j5LYhwHLBaaY.jpg",
+        "credit_id": "52fe460ac3a368484e07d619",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 105480,
+        "known_for_department": "Editing",
+        "name": "Norman Colbert",
+        "original_name": "Norman Colbert",
+        "popularity": 0.1208,
+        "profile_path": null,
+        "credit_id": "52fe460ac3a368484e07d631",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 96252,
+        "known_for_department": "Camera",
+        "name": "John Alton",
+        "original_name": "John Alton",
+        "popularity": 0.3201,
+        "profile_path": "/5apOLQX643Krsumz2H84WaOyqqM.jpg",
+        "credit_id": "52fe460ac3a368484e07d62b",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 105479,
+        "known_for_department": "Sound",
+        "name": "Alexander Laszlo",
+        "original_name": "Alexander Laszlo",
+        "popularity": 0.07,
+        "profile_path": null,
+        "credit_id": "52fe460ac3a368484e07d625",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2768,
+        "known_for_department": "Writing",
+        "name": "Stewart Stern",
+        "original_name": "Stewart Stern",
+        "popularity": 0.4272,
+        "profile_path": "/nbI4y0QRyKdcxoqZ4uPVixnnJNQ.jpg",
+        "credit_id": "62fbfc646eecee008eb78fe8",
+        "department": "Crew",
+        "job": "Other"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 120033,
+        "known_for_department": "Sound",
+        "name": "Frank McWhorter",
+        "original_name": "Frank McWhorter",
+        "popularity": 0.0938,
+        "profile_path": null,
+        "credit_id": "61d5ddf9d48cee001cef3394",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1188594,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Frank Westmore",
+        "original_name": "Frank Westmore",
+        "popularity": 0.1522,
+        "profile_path": null,
+        "credit_id": "61d5ddbeb0040a00671ebb2f",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1673989,
+        "known_for_department": "Sound",
+        "name": "Leon Becker",
+        "original_name": "Leon Becker",
+        "popularity": 0.0897,
+        "profile_path": null,
+        "credit_id": "61d5ddece194b00041457737",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1021593,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Ern Westmore",
+        "original_name": "Ern Westmore",
+        "popularity": 0.1656,
+        "profile_path": null,
+        "credit_id": "61d5ddae497560001c129021",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 14498,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Bud Westmore",
+        "original_name": "Bud Westmore",
+        "popularity": 0.3919,
+        "profile_path": "/cujaF4TgLnpronQ3aMCnbLSSOW7.jpg",
+        "credit_id": "61d5ddda1b722c0019098c1f",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2076115,
+        "known_for_department": "Art",
+        "name": "Frank Durlauf",
+        "original_name": "Frank Durlauf",
+        "popularity": 0.1049,
+        "profile_path": null,
+        "credit_id": "5b393adbc3a36846b800692d",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1320496,
+        "known_for_department": "Art",
+        "name": "Armor Marlowe",
+        "original_name": "Armor Marlowe",
+        "popularity": 0.2075,
+        "profile_path": null,
+        "credit_id": "5eb86f627d2bc1001dfe79da",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 933828,
+        "known_for_department": "Production",
+        "name": "James T. Vaughn",
+        "original_name": "James T. Vaughn",
+        "popularity": 0.0327,
+        "profile_path": null,
+        "credit_id": "5eb86f7c0cb3350020d05584",
+        "department": "Production",
+        "job": "Production Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 118445,
+        "known_for_department": "Art",
+        "name": "Clarence Steensen",
+        "original_name": "Clarence Steensen",
+        "popularity": 0.205,
+        "profile_path": null,
+        "credit_id": "5eb86f6a10dad6001d2c6094",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1289037,
+        "known_for_department": "Directing",
+        "name": "Ridgeway Callow",
+        "original_name": "Ridgeway Callow",
+        "popularity": 0.1623,
+        "profile_path": null,
+        "credit_id": "5eb86f86cc277c00216e93ea",
+        "department": "Directing",
+        "job": "Assistant Director"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "US",
+        "title": "The Spiritualist",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "FR",
+        "title": "L'incroyable Monsieur X",
+        "type": ""
+      }
+    ]
+  }
+}

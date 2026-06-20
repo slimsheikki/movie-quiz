@@ -1,0 +1,628 @@
+{
+  "adult": false,
+  "backdrop_path": "/bz8ZdPk44rbOzke6YZ0iRvTk6Lr.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "",
+  "id": 30855,
+  "imdb_id": "tt0068502",
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "Dr. Jekyll & Sister Hyde",
+  "overview": "In foggy London Dr Jekyll experiments on newly deceased women determined to discover an elixir for immortal life. Success enables his spectacular transformation into the beautiful but psychotic Sister Hyde who stalks the dark alleys of Whitechapel for young, innocent, female victims, ensuring continuation of the bloodstained research. With each transformation Sister Hyde becomes the more dominant personality, determined to eventually suppress the frail, ineffectual Dr Jekyll forever.",
+  "popularity": 0.5168,
+  "poster_path": "/mm3cm6hLHYwuB5bRim1PIM6guvN.jpg",
+  "production_companies": [
+    {
+      "id": 1314,
+      "logo_path": "/gQBluDqe6dc2ZdzfJbabEHoSGoG.png",
+      "name": "Hammer Film Productions",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "1971-11-07",
+  "revenue": 0,
+  "runtime": 97,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "PARENTS: Be sure your children are sufficiently mature to witness the intimate details of this frank and revealing film.",
+  "title": "Dr. Jekyll & Sister Hyde",
+  "video": false,
+  "vote_average": 6.121,
+  "vote_count": 107,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 101533,
+        "known_for_department": "Acting",
+        "name": "Ralph Bates",
+        "original_name": "Ralph Bates",
+        "popularity": 0.4369,
+        "profile_path": "/9H7QrcyGE0HBYAFTYg2phJ13C74.jpg",
+        "cast_id": 1,
+        "character": "Dr. Jekyll",
+        "credit_id": "52fe44449251416c9100aa25",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 9925,
+        "known_for_department": "Acting",
+        "name": "Martine Beswick",
+        "original_name": "Martine Beswick",
+        "popularity": 0.628,
+        "profile_path": "/6albSI6G26XPdOV8NYL54eF3WOq.jpg",
+        "cast_id": 2,
+        "character": "Sister Hyde",
+        "credit_id": "52fe44449251416c9100aa29",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 91663,
+        "known_for_department": "Acting",
+        "name": "Gerald Sim",
+        "original_name": "Gerald Sim",
+        "popularity": 0.3643,
+        "profile_path": "/2OMGg61nszlGw3ZCNJAQnTcWlSW.jpg",
+        "cast_id": 4,
+        "character": "Professor Robertson",
+        "credit_id": "52fe44449251416c9100aa33",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 133002,
+        "known_for_department": "Acting",
+        "name": "Lewis Fiander",
+        "original_name": "Lewis Fiander",
+        "popularity": 0.5354,
+        "profile_path": "/kgBGVftMLXA4uTpZFWxjK56JjBf.jpg",
+        "cast_id": 5,
+        "character": "Howard",
+        "credit_id": "52fe44449251416c9100aa37",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 929411,
+        "known_for_department": "Acting",
+        "name": "Susan Brodrick",
+        "original_name": "Susan Brodrick",
+        "popularity": 0.1122,
+        "profile_path": null,
+        "cast_id": 7,
+        "character": "Susan",
+        "credit_id": "52fe44449251416c9100aa41",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 132600,
+        "known_for_department": "Acting",
+        "name": "Dorothy Alison",
+        "original_name": "Dorothy Alison",
+        "popularity": 0.4726,
+        "profile_path": "/24RFJWmQTr1eYH8KB6NvBiAcVeS.jpg",
+        "cast_id": 8,
+        "character": "Mrs. Spencer",
+        "credit_id": "52fe44449251416c9100aa45",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 558447,
+        "known_for_department": "Acting",
+        "name": "Ivor Dean",
+        "original_name": "Ivor Dean",
+        "popularity": 0.4803,
+        "profile_path": "/9RlMZO4edWklGVLow0BqzaVlm6x.jpg",
+        "cast_id": 9,
+        "character": "Burke",
+        "credit_id": "52fe44449251416c9100aa49",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 80499,
+        "known_for_department": "Acting",
+        "name": "Philip Madoc",
+        "original_name": "Philip Madoc",
+        "popularity": 0.6507,
+        "profile_path": "/bs1qNserVwEbRBLIvzxoSVRmLMW.jpg",
+        "cast_id": 10,
+        "character": "Byker",
+        "credit_id": "52fe44449251416c9100aa4d",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1078802,
+        "known_for_department": "Acting",
+        "name": "Irene Bradshaw",
+        "original_name": "Irene Bradshaw",
+        "popularity": 0.062,
+        "profile_path": null,
+        "cast_id": 11,
+        "character": "Yvonne",
+        "credit_id": "52fe44449251416c9100aa51",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 189298,
+        "known_for_department": "Acting",
+        "name": "Neil Wilson",
+        "original_name": "Neil Wilson",
+        "popularity": 0.4048,
+        "profile_path": "/tA9tvz7wtDy2RbyaiurWUdAyDg.jpg",
+        "cast_id": 12,
+        "character": "Older Policeman",
+        "credit_id": "52fe44449251416c9100aa55",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 101506,
+        "known_for_department": "Acting",
+        "name": "Paul Whitsun-Jones",
+        "original_name": "Paul Whitsun-Jones",
+        "popularity": 0.587,
+        "profile_path": "/AdBuLsdZVcP5ysPVUrIsMILyuc0.jpg",
+        "cast_id": 13,
+        "character": "Sergeant Danvers",
+        "credit_id": "52fe44449251416c9100aa59",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 186031,
+        "known_for_department": "Acting",
+        "name": "Tony Calvin",
+        "original_name": "Tony Calvin",
+        "popularity": 0.1172,
+        "profile_path": null,
+        "cast_id": 14,
+        "character": "Hare",
+        "credit_id": "52fe44449251416c9100aa5d",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 140448,
+        "known_for_department": "Acting",
+        "name": "Dan Meaden",
+        "original_name": "Dan Meaden",
+        "popularity": 0.153,
+        "profile_path": null,
+        "cast_id": 15,
+        "character": "Town Crier",
+        "credit_id": "52fe44449251416c9100aa61",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 99581,
+        "known_for_department": "Acting",
+        "name": "Virginia Wetherell",
+        "original_name": "Virginia Wetherell",
+        "popularity": 0.5472,
+        "profile_path": "/hDKfFbouLFiD65CVowqRcKdopVX.jpg",
+        "cast_id": 16,
+        "character": "Betsy",
+        "credit_id": "52fe44449251416c9100aa65",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1078803,
+        "known_for_department": "Acting",
+        "name": "Geoffrey Kenion",
+        "original_name": "Geoffrey Kenion",
+        "popularity": 0.0445,
+        "profile_path": null,
+        "cast_id": 17,
+        "character": "1st Policeman",
+        "credit_id": "52fe44449251416c9100aa69",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1432794,
+        "known_for_department": "Acting",
+        "name": "Bobby Parr",
+        "original_name": "Bobby Parr",
+        "popularity": 0.2009,
+        "profile_path": null,
+        "cast_id": 36,
+        "character": "Young Apprentice",
+        "credit_id": "5e932b7bccb15f00156f2b59",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1217111,
+        "known_for_department": "Acting",
+        "name": "John Lyons",
+        "original_name": "John Lyons",
+        "popularity": 0.2903,
+        "profile_path": "/4IMHviC2HbqXg6UWd55bm8v5XNY.jpg",
+        "cast_id": 40,
+        "character": "Sailor",
+        "credit_id": "64dd3b00d100b614b2eefd78",
+        "order": 16
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 26134,
+        "known_for_department": "Directing",
+        "name": "Roy Ward Baker",
+        "original_name": "Roy Ward Baker",
+        "popularity": 0.689,
+        "profile_path": "/8y7ip2Nhos2I0UfLOFz3kSlmoJp.jpg",
+        "credit_id": "52fe44449251416c9100aa2f",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 11384,
+        "known_for_department": "Sound",
+        "name": "Bill Rowe",
+        "original_name": "Bill Rowe",
+        "popularity": 0.1271,
+        "profile_path": null,
+        "credit_id": "60f98effc439c0005c2e499b",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1605933,
+        "known_for_department": "Costume & Make-Up",
+        "name": "John Wilcox",
+        "original_name": "John Wilcox",
+        "popularity": 0.0646,
+        "profile_path": null,
+        "credit_id": "60f98eda07e28100467af464",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 101523,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Rosemary Burrows",
+        "original_name": "Rosemary Burrows",
+        "popularity": 0.2658,
+        "profile_path": null,
+        "credit_id": "60f98f0ff1759c002eb01208",
+        "department": "Costume & Make-Up",
+        "job": "Wardrobe Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 82652,
+        "known_for_department": "Camera",
+        "name": "Norman Warwick",
+        "original_name": "Norman Warwick",
+        "popularity": 0.1058,
+        "profile_path": null,
+        "credit_id": "555bea319251416b63000233",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2288,
+        "known_for_department": "Production",
+        "name": "James Liggat",
+        "original_name": "James Liggat",
+        "popularity": 0.1657,
+        "profile_path": null,
+        "credit_id": "555bea4b9251416b57000233",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 67903,
+        "known_for_department": "Sound",
+        "name": "David Whitaker",
+        "original_name": "David Whitaker",
+        "popularity": 0.0629,
+        "profile_path": "/yJSCgsuLzV6bom0uhV1cHt9qc85.jpg",
+        "credit_id": "555bea1b9251416b5d00020f",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 30172,
+        "known_for_department": "Editing",
+        "name": "James Needs",
+        "original_name": "James Needs",
+        "popularity": 0.1912,
+        "profile_path": null,
+        "credit_id": "555bea3e9251416b63000236",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1469046,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Bernadette Ibbetson",
+        "original_name": "Bernadette Ibbetson",
+        "popularity": 0.1265,
+        "profile_path": null,
+        "credit_id": "555beaaf9251416b5300022b",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 26128,
+        "known_for_department": "Writing",
+        "name": "Brian Clemens",
+        "original_name": "Brian Clemens",
+        "popularity": 0.8496,
+        "profile_path": "/yqXft7bLKN6YfBHYvVZhLbLNUfv.jpg",
+        "credit_id": "555be9c8c3a3682d8b00023b",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 29533,
+        "known_for_department": "Writing",
+        "name": "Robert Louis Stevenson",
+        "original_name": "Robert Louis Stevenson",
+        "popularity": 0.6266,
+        "profile_path": "/4gHYG4Gn1uxmG0k1gilfp8cwdBX.jpg",
+        "credit_id": "555be9da9251416b63000222",
+        "department": "Writing",
+        "job": "Novel"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 30572,
+        "known_for_department": "Production",
+        "name": "Roy Skeggs",
+        "original_name": "Roy Skeggs",
+        "popularity": 0.2018,
+        "profile_path": null,
+        "credit_id": "555beabe9251416b66000218",
+        "department": "Production",
+        "job": "Production Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1210144,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Trevor Crole-Rees",
+        "original_name": "Trevor Crole-Rees",
+        "popularity": 0.1217,
+        "profile_path": null,
+        "credit_id": "555bea9f9251416b66000211",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 68426,
+        "known_for_department": "Production",
+        "name": "Albert Fennell",
+        "original_name": "Albert Fennell",
+        "popularity": 0.2308,
+        "profile_path": null,
+        "credit_id": "555be9f89251416b60000203",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 26128,
+        "known_for_department": "Writing",
+        "name": "Brian Clemens",
+        "original_name": "Brian Clemens",
+        "popularity": 0.8496,
+        "profile_path": "/yqXft7bLKN6YfBHYvVZhLbLNUfv.jpg",
+        "credit_id": "555be9ea9251416b53000200",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1207591,
+        "known_for_department": "Production",
+        "name": "Don Weeks",
+        "original_name": "Don Weeks",
+        "popularity": 0.1204,
+        "profile_path": null,
+        "credit_id": "555beacec3a3682d7e000259",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 101523,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Rosemary Burrows",
+        "original_name": "Rosemary Burrows",
+        "popularity": 0.2658,
+        "profile_path": null,
+        "credit_id": "555bea889251416b63000245",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 33218,
+        "known_for_department": "Art",
+        "name": "Robert Jones",
+        "original_name": "Robert Jones",
+        "popularity": 0.1548,
+        "profile_path": null,
+        "credit_id": "5607a839c3a368120b0044d5",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1588242,
+        "known_for_department": "Sound",
+        "name": "Philip Martell",
+        "original_name": "Philip Martell",
+        "popularity": 0.0982,
+        "profile_path": null,
+        "credit_id": "56e18d67c3a3680a0d0028d2",
+        "department": "Sound",
+        "job": "Music Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1474505,
+        "known_for_department": "Camera",
+        "name": "Godfrey A. Godar",
+        "original_name": "Godfrey A. Godar",
+        "popularity": 0.1088,
+        "profile_path": null,
+        "credit_id": "56e18d79c3a3680a170028e1",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1582116,
+        "known_for_department": "Sound",
+        "name": "Charles Crafford",
+        "original_name": "Charles Crafford",
+        "popularity": 0.0357,
+        "profile_path": null,
+        "credit_id": "56e18d9c925141543c000852",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4607676,
+        "known_for_department": "Crew",
+        "name": "Michael Collins",
+        "original_name": "Michael Collins",
+        "popularity": 0.0239,
+        "profile_path": null,
+        "credit_id": "69e8f2809fd605bfd2cd56e1",
+        "department": "Crew",
+        "job": "Special Effects"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "SE",
+        "title": "Skräckens gränd",
+        "type": "reissue title"
+      },
+      {
+        "iso_3166_1": "TR",
+        "title": "Doktor Jekyll",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "GB",
+        "title": "Doctor Jekyll and Sister Hyde",
+        "type": "trailer title"
+      },
+      {
+        "iso_3166_1": "GB",
+        "title": "Doctor Jekyll & Sister Hyde",
+        "type": "video box title"
+      },
+      {
+        "iso_3166_1": "GB",
+        "title": "Dr. Jekyll & Sister Hyde",
+        "type": "video box title"
+      },
+      {
+        "iso_3166_1": "GB",
+        "title": "Dr. Jekyll and Sister Hyde",
+        "type": "DVD title"
+      },
+      {
+        "iso_3166_1": "US",
+        "title": "Dr. Jekyll and Sister Hyde",
+        "type": "Blu-Ray title"
+      },
+      {
+        "iso_3166_1": "PT",
+        "title": "A Bela e o Monstro",
+        "type": ""
+      }
+    ]
+  }
+}

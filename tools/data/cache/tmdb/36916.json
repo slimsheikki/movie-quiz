@@ -1,0 +1,400 @@
+{
+  "adult": false,
+  "backdrop_path": "/A10txDd3GMo6GqpzBfB41tEFUQI.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ],
+  "homepage": "",
+  "id": 36916,
+  "imdb_id": "tt0038182",
+  "origin_country": [
+    "JP"
+  ],
+  "original_language": "ja",
+  "original_title": "虎の尾を踏む男達",
+  "overview": "A fugitive lord and his six retainers disguise themselves as monks to bluff their way through a hostile checkpoint.",
+  "popularity": 1.1948,
+  "poster_path": "/98vtyDEczr0mfvuYfflV0CdySok.jpg",
+  "production_companies": [
+    {
+      "id": 882,
+      "logo_path": "/fRSWWjquvzcHjACbtF53utZFIll.png",
+      "name": "TOHO",
+      "origin_country": "JP"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    }
+  ],
+  "release_date": "1952-04-24",
+  "revenue": 0,
+  "runtime": 59,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Men Who Tread on the Tiger's Tail",
+  "video": false,
+  "vote_average": 6.7,
+  "vote_count": 100,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 134256,
+        "known_for_department": "Acting",
+        "name": "Denjirō Ōkōchi",
+        "original_name": "大河内傳次郎",
+        "popularity": 0.9246,
+        "profile_path": "/yegq1bccLpW4ZRCRTuzOGBhBpSM.jpg",
+        "cast_id": 4,
+        "character": "Benkei",
+        "credit_id": "52fe46199251416c910490fd",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 30907,
+        "known_for_department": "Acting",
+        "name": "Susumu Fujita",
+        "original_name": "藤田進",
+        "popularity": 1.1524,
+        "profile_path": "/sSnAxPTb4YEI3Mw15Y2isBbC22K.jpg",
+        "cast_id": 5,
+        "character": "Togashi",
+        "credit_id": "52fe46199251416c91049101",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 134271,
+        "known_for_department": "Acting",
+        "name": "Kenichi Enomoto",
+        "original_name": "榎本健一",
+        "popularity": 0.7072,
+        "profile_path": "/xmcjokeCdWnUXL05xgabt97nH0i.jpg",
+        "cast_id": 6,
+        "character": "Porter",
+        "credit_id": "52fe46199251416c91049105",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 7452,
+        "known_for_department": "Acting",
+        "name": "Masayuki Mori",
+        "original_name": "森雅之",
+        "popularity": 1.1352,
+        "profile_path": "/4HZFAdEGIOk7HxJjcdcxfL4k1x3.jpg",
+        "cast_id": 7,
+        "character": "Kamei",
+        "credit_id": "52fe46199251416c91049109",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 7453,
+        "known_for_department": "Acting",
+        "name": "Takashi Shimura",
+        "original_name": "志村喬",
+        "popularity": 2.2823,
+        "profile_path": "/ydyAm2vyBbEPZRICIMqqjDm0NM9.jpg",
+        "cast_id": 8,
+        "character": "Kataoka",
+        "credit_id": "52fe46199251416c9104910d",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 134258,
+        "known_for_department": "Acting",
+        "name": "Akitake Kōno",
+        "original_name": "河野秋武",
+        "popularity": 1.1542,
+        "profile_path": "/qT7KkMz7KRYge3aKNLnnlxfZXvG.jpg",
+        "cast_id": 9,
+        "character": "Ise",
+        "credit_id": "52fe46199251416c91049111",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 134272,
+        "known_for_department": "Acting",
+        "name": "Yoshio Kosugi",
+        "original_name": "小杉義男",
+        "popularity": 0.9046,
+        "profile_path": "/gIlrjQoolcTbkvjm1uNTANdiDE9.jpg",
+        "cast_id": 10,
+        "character": "Suruga",
+        "credit_id": "52fe46199251416c91049115",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 134274,
+        "known_for_department": "Acting",
+        "name": "Dekao Yokoo",
+        "original_name": "横尾泥海男",
+        "popularity": 0.4887,
+        "profile_path": "/4MT5g3MP2zTY4I6UtHmL6ShEhLJ.jpg",
+        "cast_id": 12,
+        "character": "Hidachibo",
+        "credit_id": "52fe46199251416c9104911d",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 134273,
+        "known_for_department": "Acting",
+        "name": "Hanshiro Iwai",
+        "original_name": "十代目 岩井半四郎",
+        "popularity": 0.3128,
+        "profile_path": "/nCvlcqwr4EYuAgLNEIhj74bWEGY.jpg",
+        "cast_id": 11,
+        "character": "Yoshitsune",
+        "credit_id": "52fe46199251416c91049119",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 134275,
+        "known_for_department": "Acting",
+        "name": "Yasuo Hisamatsu",
+        "original_name": "久松保夫",
+        "popularity": 0.4798,
+        "profile_path": "/vhYgkkGpz3MUS1DiHYG7ITqFcaT.jpg",
+        "cast_id": 13,
+        "character": "Kajiwara's Messenger",
+        "credit_id": "52fe46199251416c91049121",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 134260,
+        "known_for_department": "Acting",
+        "name": "Sōji Kiyokawa",
+        "original_name": "清川荘司",
+        "popularity": 0.6683,
+        "profile_path": "/aPKiRadwUDonKbSmxTTw7RAJBhs.jpg",
+        "cast_id": 14,
+        "character": "Togashi's Messenger",
+        "credit_id": "52fe46199251416c91049125",
+        "order": 10
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5026,
+        "known_for_department": "Directing",
+        "name": "Akira Kurosawa",
+        "original_name": "黒澤明",
+        "popularity": 2.6745,
+        "profile_path": "/ca8fRqLDfTJTCamLKHp70up23ET.jpg",
+        "credit_id": "52fe46199251416c910490ed",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5026,
+        "known_for_department": "Directing",
+        "name": "Akira Kurosawa",
+        "original_name": "黒澤明",
+        "popularity": 2.6745,
+        "profile_path": "/ca8fRqLDfTJTCamLKHp70up23ET.jpg",
+        "credit_id": "52fe46199251416c910490f3",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 134270,
+        "known_for_department": "Writing",
+        "name": "Gohei Namiki",
+        "original_name": "Gohei Namiki",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "5c5e70e29251413376bd74d8",
+        "department": "Writing",
+        "job": "Original Story"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1530299,
+        "known_for_department": "Production",
+        "name": "Motohiko Itō",
+        "original_name": "Motohiko Itô",
+        "popularity": 0.0716,
+        "profile_path": null,
+        "credit_id": "5c5e70f5c3a3684c238c3963",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2238064,
+        "known_for_department": "Writing",
+        "name": "Nobumitsu Kanze",
+        "original_name": "Nobumitsu Kanze",
+        "popularity": 0.0261,
+        "profile_path": null,
+        "credit_id": "5c5e70d30e0a2624f768cfe3",
+        "department": "Writing",
+        "job": "Original Story"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2030565,
+        "known_for_department": "Camera",
+        "name": "Takeo Itō",
+        "original_name": "伊藤武夫",
+        "popularity": 0.1605,
+        "profile_path": null,
+        "credit_id": "5c5e7116c3a3684c238c396e",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1092851,
+        "known_for_department": "Art",
+        "name": "Kazuo Kubo",
+        "original_name": "久保一雄",
+        "popularity": 0.1767,
+        "profile_path": null,
+        "credit_id": "5c5e712792514150c2bcb69d",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1092850,
+        "known_for_department": "Sound",
+        "name": "Tadashi Hattori",
+        "original_name": "服部正",
+        "popularity": 0.1376,
+        "profile_path": null,
+        "credit_id": "5c5e71060e0a2659ab66b774",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5026,
+        "known_for_department": "Directing",
+        "name": "Akira Kurosawa",
+        "original_name": "黒澤明",
+        "popularity": 2.6745,
+        "profile_path": "/ca8fRqLDfTJTCamLKHp70up23ET.jpg",
+        "credit_id": "678b1258d8a5b0d00c42eb86",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1136963,
+        "known_for_department": "Editing",
+        "name": "Toshio Goto",
+        "original_name": "後藤俊夫",
+        "popularity": 0.2797,
+        "profile_path": null,
+        "credit_id": "678b1287d8a5b0d00c42ebba",
+        "department": "Editing",
+        "job": "Editor"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "FR",
+        "title": "Les Hommes qui marchent sur la queue du tigre",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "FR",
+        "title": "Qui marche sur la queue du tigre...",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "JP",
+        "title": "Tora no o wo fumu otokotachi",
+        "type": "romanization"
+      },
+      {
+        "iso_3166_1": "DE",
+        "title": "Die Tigerfährte",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "DE",
+        "title": "Die Männer, die auf des Tigers Schwanz traten",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "ES",
+        "title": "Los hombres que caminan sobre la cola del tigre",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "US",
+        "title": "The Men Who Tread on the Tiger's Tail (Series 23: The First Films of Akira Kurosawa)",
+        "type": "Eclipse (From the Criterion Collection)"
+      },
+      {
+        "iso_3166_1": "JP",
+        "title": "Tora no o o fumu otoko-tachi",
+        "type": "romanized"
+      }
+    ]
+  }
+}

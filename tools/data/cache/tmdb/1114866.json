@@ -1,0 +1,476 @@
+{
+  "adult": false,
+  "backdrop_path": "/6SlRxTZXspF0LwIDQdVZ0BkJDeK.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.totem-films.com/films/blackbird-blackbird-blackberry/",
+  "id": 1114866,
+  "imdb_id": "tt27737950",
+  "origin_country": [
+    "CH"
+  ],
+  "original_language": "de",
+  "original_title": "Blackbird Blackbird Blackberry",
+  "overview": "In a small traditional Georgian village, Etero, the owner of a housekeeping shop, is a forty-eight-year-old spinster. She cherishes her freedom, as much as her cakes, and is preparing for a peaceful and comfortable retirement away from gossip. But a fiery affair with her delivery man could derail all her plans.",
+  "popularity": 0.4275,
+  "poster_path": "/xcG2bRze3RYzx6ajHJhD7HpeOxV.jpg",
+  "production_companies": [
+    {
+      "id": 113254,
+      "logo_path": "/nnYoKyK53uXT7aqURA51n1bGthM.png",
+      "name": "Alva Film",
+      "origin_country": "CH"
+    },
+    {
+      "id": 23406,
+      "logo_path": "/tqIQbCdoa2yfPv05wG8mT9EM0gB.png",
+      "name": "Heimatfilm",
+      "origin_country": "DE"
+    },
+    {
+      "id": 117875,
+      "logo_path": "/x7Yj6g7UX1R3PZEPPtJXV90Qe9r.png",
+      "name": "Takes Film",
+      "origin_country": "GE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CH",
+      "name": "Switzerland"
+    },
+    {
+      "iso_3166_1": "GE",
+      "name": "Georgia"
+    },
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "release_date": "2023-10-26",
+  "revenue": 0,
+  "runtime": 112,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Georgian",
+      "iso_639_1": "ka",
+      "name": "ქართული"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Blackbird Blackbird Blackberry",
+  "video": false,
+  "vote_average": 6.118,
+  "vote_count": 38,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3164289,
+        "known_for_department": "Acting",
+        "name": "Eka Chavleishvili",
+        "original_name": "ეკა ჩავლეიშვილი",
+        "popularity": 0.1949,
+        "profile_path": "/fXAM46wEEOytQNIABlqIVwxkpl8.jpg",
+        "cast_id": 2,
+        "character": "Etero",
+        "credit_id": "643ea2f4e0ca7f048b07245a",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1158687,
+        "known_for_department": "Acting",
+        "name": "Temiko Chichinadze",
+        "original_name": "თეიმურაზ ჭიჭინაძე",
+        "popularity": 0.1428,
+        "profile_path": "/eLC6hc3hFEpTNDLGZzG9V73EJvx.jpg",
+        "cast_id": 22,
+        "character": "Murman",
+        "credit_id": "64ab212c3e2ec8010dac1cdf",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1186776,
+        "known_for_department": "Acting",
+        "name": "Piqria Niqabadze",
+        "original_name": "Piqria Niqabadze",
+        "popularity": 0.0168,
+        "profile_path": null,
+        "cast_id": 25,
+        "character": "Nino",
+        "credit_id": "64ab21e3fa78cd011cfac4d4",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4154560,
+        "known_for_department": "Acting",
+        "name": "Tamar Mdinaradze",
+        "original_name": "Tamar Mdinaradze",
+        "popularity": 0.0404,
+        "profile_path": null,
+        "cast_id": 26,
+        "character": "Londa",
+        "credit_id": "64ab22226a3448010b70b1de",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1726387,
+        "known_for_department": "Acting",
+        "name": "Lia Abuladze",
+        "original_name": "Lia Abuladze",
+        "popularity": 0.0673,
+        "profile_path": null,
+        "cast_id": 21,
+        "character": "Natela",
+        "credit_id": "64ab1726b686b900cc09f7b7",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4154561,
+        "known_for_department": "Acting",
+        "name": "Ana Khurtsidze",
+        "original_name": "ანა ხურციძე",
+        "popularity": 0.0239,
+        "profile_path": null,
+        "cast_id": 27,
+        "character": "Tsisana",
+        "credit_id": "64ab225b3e2ec800cbce34de",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4154556,
+        "known_for_department": "Acting",
+        "name": "Ani Mogeladze",
+        "original_name": "Ani Mogeladze",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "cast_id": 24,
+        "character": "Elene",
+        "credit_id": "64ab21723e2ec800cbce3486",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4154555,
+        "known_for_department": "Acting",
+        "name": "Joni Janashia",
+        "original_name": "Joni Janashia",
+        "popularity": 0.0363,
+        "profile_path": null,
+        "cast_id": 23,
+        "character": "Doctor",
+        "credit_id": "64ab214e66a0d3013a72e010",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3572824,
+        "known_for_department": "Acting",
+        "name": "Tengo Javakhadze",
+        "original_name": "Tengo Javakhadze",
+        "popularity": 0.0518,
+        "profile_path": null,
+        "cast_id": 28,
+        "character": "Abesalom",
+        "credit_id": "64ab22ecb686b9012f874a18",
+        "order": 8
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4047646,
+        "known_for_department": "Sound",
+        "name": "Luka Kasrelishvili",
+        "original_name": "Luka Kasrelishvili",
+        "popularity": 0.1076,
+        "profile_path": null,
+        "credit_id": "6506d03542d8a5011bd6ce34",
+        "department": "Sound",
+        "job": "Foley Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1733305,
+        "known_for_department": "Directing",
+        "name": "Elene Naveriani",
+        "original_name": "ელენე ნავერიანის",
+        "popularity": 0.1503,
+        "profile_path": null,
+        "credit_id": "643ea2cae0ca7f03130723bc",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2186020,
+        "known_for_department": "Directing",
+        "name": "Thomas Reichlin",
+        "original_name": "Thomas Reichlin",
+        "popularity": 0.0239,
+        "profile_path": null,
+        "credit_id": "644accdb4bc38b050674b499",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2554191,
+        "known_for_department": "Art",
+        "name": "Teo Baramidze",
+        "original_name": "Teo Baramidze",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "644acd0afea0d704eb142527",
+        "department": "Production",
+        "job": "Production Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2554188,
+        "known_for_department": "Production",
+        "name": "Ketie Danelia",
+        "original_name": "Ketie Danelia",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "644acce351a64e02fbdce3db",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2541219,
+        "known_for_department": "Production",
+        "name": "Leli Miminoshvili",
+        "original_name": "Leli Miminoshvili",
+        "popularity": 0.0327,
+        "profile_path": null,
+        "credit_id": "644accf90c125505a17a8d6a",
+        "department": "Production",
+        "job": "Casting Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3572819,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Nino Injia",
+        "original_name": "Nino Injia",
+        "popularity": 0.0261,
+        "profile_path": null,
+        "credit_id": "644acd11dc1cb404bdefb228",
+        "department": "Costume & Make-Up",
+        "job": "Costume Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4032464,
+        "known_for_department": "Production",
+        "name": "Shoka Maghradze",
+        "original_name": "Shoka Maghradze",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "644acd00336e0102fb72f0ed",
+        "department": "Production",
+        "job": "Casting Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4032463,
+        "known_for_department": "Writing",
+        "name": "Tamta Melashvili",
+        "original_name": "Tamta Melashvili",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "644accd40c125505d47a8d65",
+        "department": "Writing",
+        "job": "Novel"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2451819,
+        "known_for_department": "Editing",
+        "name": "Aurora Vögeli",
+        "original_name": "Aurora Vögeli",
+        "popularity": 0.0621,
+        "profile_path": null,
+        "credit_id": "644acd28bbd0b004c0bd7be0",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3149410,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Julia Nietlispach",
+        "original_name": "Julia Nietlispach",
+        "popularity": 0.0432,
+        "profile_path": null,
+        "credit_id": "644acd190c125505d47a8d79",
+        "department": "Costume & Make-Up",
+        "job": "Makeup & Hair"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2574355,
+        "known_for_department": "Acting",
+        "name": "Nikoloz Mdivani",
+        "original_name": "Nikoloz Mdivani",
+        "popularity": 0.0538,
+        "profile_path": null,
+        "credit_id": "644accccbbd0b002fbbd7bb8",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1266010,
+        "known_for_department": "Sound",
+        "name": "Philippe Ciompi",
+        "original_name": "Philippe Ciompi",
+        "popularity": 0.0673,
+        "profile_path": null,
+        "credit_id": "644acd3afba6250504d55582",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 7584,
+        "known_for_department": "Production",
+        "name": "Bettina Brokemper",
+        "original_name": "Bettina Brokemper",
+        "popularity": 0.2195,
+        "profile_path": "/mbbgSzzQ5KlYmlDNNrjgR3ekngX.jpg",
+        "credit_id": "644accea4bc38b050674b49f",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3572817,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Eka Chikhradze",
+        "original_name": "Eka Chikhradze",
+        "popularity": 0.0563,
+        "profile_path": null,
+        "credit_id": "644acd2051a64e0537dce3cd",
+        "department": "Costume & Make-Up",
+        "job": "Makeup & Hair"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1784882,
+        "known_for_department": "Camera",
+        "name": "Ágnes Pákózdi",
+        "original_name": "Ágnes Pákózdi",
+        "popularity": 0.0886,
+        "profile_path": null,
+        "credit_id": "644accf19f51af0563e7348b",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1733305,
+        "known_for_department": "Directing",
+        "name": "Elene Naveriani",
+        "original_name": "ელენე ნავერიანის",
+        "popularity": 0.1503,
+        "profile_path": null,
+        "credit_id": "644accc5336e0104c372f0e2",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1566230,
+        "known_for_department": "Sound",
+        "name": "Marc von Stürler",
+        "original_name": "Marc von Stürler",
+        "popularity": 0.0457,
+        "profile_path": null,
+        "credit_id": "644acd4151a64e0590dce3d9",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4047641,
+        "known_for_department": "Sound",
+        "name": "Joni Amiranashvili",
+        "original_name": "Joni Amiranashvili",
+        "popularity": 0.13,
+        "profile_path": null,
+        "credit_id": "6485f4bfd2b209010c19b015",
+        "department": "Sound",
+        "job": "Foley Mixer"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "GE",
+        "title": "Shashvi shashvi maq'vali",
+        "type": "transliteration"
+      },
+      {
+        "iso_3166_1": "CH",
+        "title": "Merle merle mûre",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "TW",
+        "title": "黑鳥．黑莓．送貨員",
+        "type": ""
+      }
+    ]
+  }
+}

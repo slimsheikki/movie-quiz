@@ -1,0 +1,511 @@
+{
+  "adult": false,
+  "backdrop_path": "/uOLTu64odYcNvS8ouwuzV9bsJnE.jpg",
+  "belongs_to_collection": null,
+  "budget": 1000000,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "",
+  "id": 5483,
+  "imdb_id": "tt0068863",
+  "origin_country": [
+    "IT"
+  ],
+  "original_language": "it",
+  "original_title": "Lisa e il diavolo",
+  "overview": "Lisa is a tourist in an ancient city. When she gets lost, she finds an old mansion in which to shelter. Soon she is sucked into a vortex of deception, debauchery and evil presided over by housekeeper Leandre.",
+  "popularity": 0.9502,
+  "poster_path": "/kc1bN9JhSqbezrGcMt8lAvpmXnX.jpg",
+  "production_companies": [
+    {
+      "id": 1913,
+      "logo_path": null,
+      "name": "Leone International",
+      "origin_country": ""
+    },
+    {
+      "id": 1919,
+      "logo_path": null,
+      "name": "Euro America Produzioni Cinematografiche",
+      "origin_country": ""
+    },
+    {
+      "id": 101,
+      "logo_path": "/raOrnuBuBXLhQTnwmiEjyg5d4kQ.png",
+      "name": "Roxy Film",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    },
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    },
+    {
+      "iso_3166_1": "ES",
+      "name": "Spain"
+    }
+  ],
+  "release_date": "1973-05-08",
+  "revenue": 0,
+  "runtime": 95,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Every corner of the soul is lost to the icy clutch of the supernatural!",
+  "title": "Lisa and the Devil",
+  "video": false,
+  "vote_average": 6.2,
+  "vote_count": 155,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 10169,
+        "known_for_department": "Acting",
+        "name": "Telly Savalas",
+        "original_name": "Telly Savalas",
+        "popularity": 1.4928,
+        "profile_path": "/pdJfRVsCdKgrRFXODXkaOfJzAtH.jpg",
+        "cast_id": 11,
+        "character": "Leandro",
+        "credit_id": "52fe4408c3a36847f807e435",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 17844,
+        "known_for_department": "Acting",
+        "name": "Elke Sommer",
+        "original_name": "Elke Sommer",
+        "popularity": 1.6259,
+        "profile_path": "/8xkl8985aLTtX9mC8iXHdrAEO7A.jpg",
+        "cast_id": 12,
+        "character": "Lisa Reiner",
+        "credit_id": "52fe4408c3a36847f807e439",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 21606,
+        "known_for_department": "Acting",
+        "name": "Sylva Koscina",
+        "original_name": "Sylva Koscina",
+        "popularity": 0.939,
+        "profile_path": "/woKWzdVc71f8uX0u0yblFISaMIO.jpg",
+        "cast_id": 13,
+        "character": "Sophia Lehar",
+        "credit_id": "52fe4408c3a36847f807e43d",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 44972,
+        "known_for_department": "Acting",
+        "name": "Alessio Orano",
+        "original_name": "Alessio Orano",
+        "popularity": 0.8086,
+        "profile_path": "/i1T0K9dJ2JLaDPI0wtiVTh8VrWz.jpg",
+        "cast_id": 14,
+        "character": "Max",
+        "credit_id": "52fe4408c3a36847f807e441",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 100409,
+        "known_for_department": "Acting",
+        "name": "Eduardo Fajardo",
+        "original_name": "Eduardo Fajardo",
+        "popularity": 0.4421,
+        "profile_path": "/aBqPQPnfqbpUA6d32Q1VdXo9BrM.jpg",
+        "cast_id": 19,
+        "character": "Francis Lehar",
+        "credit_id": "52fe4408c3a36847f807e455",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 33827,
+        "known_for_department": "Acting",
+        "name": "Espartaco Santoni",
+        "original_name": "Espartaco Santoni",
+        "popularity": 0.3975,
+        "profile_path": "/76M72gHpW7OEkMcb0E6hhde36Ja.jpg",
+        "cast_id": 17,
+        "character": "Carlo",
+        "credit_id": "52fe4408c3a36847f807e44d",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 15385,
+        "known_for_department": "Acting",
+        "name": "Alida Valli",
+        "original_name": "Alida Valli",
+        "popularity": 0.7685,
+        "profile_path": "/11s7AosF2LHIGgdACpyPyoPlAyI.jpg",
+        "cast_id": 16,
+        "character": "Contessa",
+        "credit_id": "52fe4408c3a36847f807e449",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 31991,
+        "known_for_department": "Acting",
+        "name": "Gabriele Tinti",
+        "original_name": "Gabriele Tinti",
+        "popularity": 0.8219,
+        "profile_path": "/f2NJidxvaqX8MQSv7MN36NDK1kY.jpg",
+        "cast_id": 15,
+        "character": "George",
+        "credit_id": "52fe4408c3a36847f807e445",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 106679,
+        "known_for_department": "Acting",
+        "name": "Franz von Treuberg",
+        "original_name": "Franz von Treuberg",
+        "popularity": 0.1831,
+        "profile_path": "/tMf8AXEBe5RoTipmolSmfegqvxI.jpg",
+        "cast_id": 18,
+        "character": "Shopkeeper",
+        "credit_id": "52fe4408c3a36847f807e451",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1116336,
+        "known_for_department": "Acting",
+        "name": "Kathy Leone",
+        "original_name": "Kathy Leone",
+        "popularity": 0.0362,
+        "profile_path": null,
+        "cast_id": 20,
+        "character": "Lisa's friend",
+        "credit_id": "52fe4408c3a36847f807e459",
+        "order": 9
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 25826,
+        "known_for_department": "Directing",
+        "name": "Mario Bava",
+        "original_name": "Mario Bava",
+        "popularity": 0.8138,
+        "profile_path": "/vDx5usGSp8Fygmvo4jnepQ4EQRN.jpg",
+        "credit_id": "52fe4408c3a36847f807e3fb",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 44965,
+        "known_for_department": "Production",
+        "name": "Alfredo Leone",
+        "original_name": "Alfredo Leone",
+        "popularity": 0.1162,
+        "profile_path": null,
+        "credit_id": "52fe4408c3a36847f807e40d",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 44967,
+        "known_for_department": "Editing",
+        "name": "Carlo Reali",
+        "original_name": "Carlo Reali",
+        "popularity": 0.3297,
+        "profile_path": "/qOlcCKGGjDGJWXyq62E9oPaWmC1.jpg",
+        "credit_id": "52fe4408c3a36847f807e431",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 25826,
+        "known_for_department": "Directing",
+        "name": "Mario Bava",
+        "original_name": "Mario Bava",
+        "popularity": 0.8138,
+        "profile_path": "/vDx5usGSp8Fygmvo4jnepQ4EQRN.jpg",
+        "credit_id": "52fe4408c3a36847f807e407",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 40896,
+        "known_for_department": "Camera",
+        "name": "Cecilio Paniagua",
+        "original_name": "Cecilio Paniagua",
+        "popularity": 0.1714,
+        "profile_path": "/ezFxRHrYX8uAQLP6le8aJGPYwIF.jpg",
+        "credit_id": "52fe4408c3a36847f807e425",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 44965,
+        "known_for_department": "Production",
+        "name": "Alfredo Leone",
+        "original_name": "Alfredo Leone",
+        "popularity": 0.1162,
+        "profile_path": null,
+        "credit_id": "52fe4408c3a36847f807e42b",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1298627,
+        "known_for_department": "Art",
+        "name": "Rafael Ferri",
+        "original_name": "Rafael Ferri",
+        "popularity": 0.1349,
+        "profile_path": null,
+        "credit_id": "56c9ddc292514130a9000c24",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 31542,
+        "known_for_department": "Camera",
+        "name": "Emilio Varriano",
+        "original_name": "Emilio Varriano",
+        "popularity": 0.1082,
+        "profile_path": null,
+        "credit_id": "56c9dde392514123f8000c60",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1313634,
+        "known_for_department": "Art",
+        "name": "Nedo Azzini",
+        "original_name": "Nedo Azzini",
+        "popularity": 0.1111,
+        "profile_path": null,
+        "credit_id": "56c9ddb292514102ad002c6f",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1313635,
+        "known_for_department": "Crew",
+        "name": "Franco Tocci",
+        "original_name": "Franco Tocci",
+        "popularity": 0.0519,
+        "profile_path": null,
+        "credit_id": "56c9ddfa92514130a9000c2d",
+        "department": "Crew",
+        "job": "Special Effects"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1461764,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Franco Freda",
+        "original_name": "Franco Freda",
+        "popularity": 0.2339,
+        "profile_path": null,
+        "credit_id": "56c9de0f92514123b8000d10",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 29389,
+        "known_for_department": "Sound",
+        "name": "Carlo Savina",
+        "original_name": "Carlo Savina",
+        "popularity": 0.3115,
+        "profile_path": null,
+        "credit_id": "6491de7342bf0100c7fd35d1",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 100856,
+        "known_for_department": "Writing",
+        "name": "José Gutiérrez Maesso",
+        "original_name": "José Gutiérrez Maesso",
+        "popularity": 0.4035,
+        "profile_path": null,
+        "credit_id": "5e7956ced18b240017828357",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 44955,
+        "known_for_department": "Directing",
+        "name": "Lamberto Bava",
+        "original_name": "Lamberto Bava",
+        "popularity": 0.3857,
+        "profile_path": "/alCOCvgUarpfuFaf750r0r7adp7.jpg",
+        "credit_id": "5e7956f1d18b24001582b821",
+        "department": "Directing",
+        "job": "Assistant Director"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "US",
+        "title": "House of Exorcism",
+        "type": "International Recut Version"
+      },
+      {
+        "iso_3166_1": "US",
+        "title": "The Devil in the House of Exorcism",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "FR",
+        "title": "La maison de l'exorcisme",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "NL",
+        "title": "Lisa and the Devil",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "NL",
+        "title": "The House of Exorcism",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "NL",
+        "title": "La Casa dell'Esorcismo",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "AR",
+        "title": "Lisa y el diablo",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "BR",
+        "title": "Lisa e o Diabo",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "FI",
+        "title": "Paholaisen kourissa",
+        "type": "video title"
+      },
+      {
+        "iso_3166_1": "FR",
+        "title": "Lisa et le diable",
+        "type": "TV title"
+      },
+      {
+        "iso_3166_1": "DE",
+        "title": "Lisa und der Teufel",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "GR",
+        "title": "I Lisa & o Satanas",
+        "type": "video title"
+      },
+      {
+        "iso_3166_1": "HU",
+        "title": "Lisa és az ördög",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "IT",
+        "title": "Il diavolo e i morti",
+        "type": "working title"
+      },
+      {
+        "iso_3166_1": "MX",
+        "title": "La casa del exorcismo",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "NO",
+        "title": "Besatt av djevelen",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "NO",
+        "title": "Før natten er omme...",
+        "type": "video box title"
+      },
+      {
+        "iso_3166_1": "PL",
+        "title": "Dom egzorcyzmów",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "SU",
+        "title": "Дом Дьявола",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "ES",
+        "title": "El diablo se lleva los muertos",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "SE",
+        "title": "Lisa och djävulen",
+        "type": ""
+      }
+    ]
+  }
+}

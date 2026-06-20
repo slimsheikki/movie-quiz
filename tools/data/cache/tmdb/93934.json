@@ -1,0 +1,383 @@
+{
+  "adult": false,
+  "backdrop_path": "/xzfR4D9G1YpZylwCnBqBznZNkMg.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 93934,
+  "imdb_id": "tt0071690",
+  "origin_country": [
+    "BE"
+  ],
+  "original_language": "fr",
+  "original_title": "Je, tu, il, elle",
+  "overview": "A woman suffers a subdued psychological breakdown in the wake of a devastating breakup.",
+  "popularity": 0.5915,
+  "poster_path": "/4arnTs41WSLWsnENWdljFKo0pu1.jpg",
+  "production_companies": [
+    {
+      "id": 10645,
+      "logo_path": null,
+      "name": "Paradise Films",
+      "origin_country": "BE"
+    },
+    {
+      "id": 10648,
+      "logo_path": null,
+      "name": "French Ministry of Foreign Affairs",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "BE",
+      "name": "Belgium"
+    },
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "1974-11-19",
+  "revenue": 0,
+  "runtime": 86,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Je Tu Il Elle",
+  "video": false,
+  "vote_average": 6.513,
+  "vote_count": 117,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 130030,
+        "known_for_department": "Directing",
+        "name": "Chantal Akerman",
+        "original_name": "Chantal Akerman",
+        "popularity": 0.3172,
+        "profile_path": "/6Q59Air1EjLHfq8NvvBpbTTgnWZ.jpg",
+        "cast_id": 6,
+        "character": "Julie",
+        "credit_id": "52fe49449251416c750c2949",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 17498,
+        "known_for_department": "Acting",
+        "name": "Niels Arestrup",
+        "original_name": "Niels Arestrup",
+        "popularity": 0.4842,
+        "profile_path": "/cGBSXuGCgXNMdXJAQhhLCf4hxAn.jpg",
+        "cast_id": 7,
+        "character": "Truck Driver",
+        "credit_id": "52fe49449251416c750c294d",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 586298,
+        "known_for_department": "Acting",
+        "name": "Claire Wauthion",
+        "original_name": "Claire Wauthion",
+        "popularity": 0.1477,
+        "profile_path": "/hIutJDXsIOnGpuzIT5ONmcuTMGm.jpg",
+        "cast_id": 8,
+        "character": "Girlfriend",
+        "credit_id": "52fe49449251416c750c2951",
+        "order": 2
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 130030,
+        "known_for_department": "Directing",
+        "name": "Chantal Akerman",
+        "original_name": "Chantal Akerman",
+        "popularity": 0.3172,
+        "profile_path": "/6Q59Air1EjLHfq8NvvBpbTTgnWZ.jpg",
+        "credit_id": "52fe49449251416c750c292d",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 130030,
+        "known_for_department": "Directing",
+        "name": "Chantal Akerman",
+        "original_name": "Chantal Akerman",
+        "popularity": 0.3172,
+        "profile_path": "/6Q59Air1EjLHfq8NvvBpbTTgnWZ.jpg",
+        "credit_id": "52fe49449251416c750c2933",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 999862,
+        "known_for_department": "Writing",
+        "name": "Paul Paquay",
+        "original_name": "Paul Paquay",
+        "popularity": 0.1014,
+        "profile_path": null,
+        "credit_id": "52fe49449251416c750c293f",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 130030,
+        "known_for_department": "Directing",
+        "name": "Chantal Akerman",
+        "original_name": "Chantal Akerman",
+        "popularity": 0.3172,
+        "profile_path": "/6Q59Air1EjLHfq8NvvBpbTTgnWZ.jpg",
+        "credit_id": "52fe49449251416c750c2945",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1093086,
+        "known_for_department": "Editing",
+        "name": "Luc Fréché",
+        "original_name": "Luc Fréché",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "52fe49459251416c750c2969",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1093087,
+        "known_for_department": "Editing",
+        "name": "Geneviève Luciani",
+        "original_name": "Geneviève Luciani",
+        "popularity": 0.0825,
+        "profile_path": null,
+        "credit_id": "52fe49459251416c750c296f",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1398485,
+        "known_for_department": "Directing",
+        "name": "Samy Szlingerbaum",
+        "original_name": "Samy Szlingerbaum",
+        "popularity": 0.1168,
+        "profile_path": null,
+        "credit_id": "62e6e7906782590060f88ff8",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1093083,
+        "known_for_department": "Camera",
+        "name": "Bénédicte Delesalle",
+        "original_name": "Bénédicte Delesalle",
+        "popularity": 0.0546,
+        "profile_path": null,
+        "credit_id": "573f9be692514115cc0003e6",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1093084,
+        "known_for_department": "Camera",
+        "name": "Renelde Dupont",
+        "original_name": "Renelde Dupont",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "573f9bf2c3a3683bd6000bf7",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1093085,
+        "known_for_department": "Writing",
+        "name": "Charlotte Szlovak",
+        "original_name": "Charlotte Szlovak",
+        "popularity": 0.0746,
+        "profile_path": null,
+        "credit_id": "573f9bfec3a368277b000c75",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1623328,
+        "known_for_department": "Directing",
+        "name": "Paul Arias",
+        "original_name": "Paul Arias",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "573f9c0cc3a3682777000de3",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1311778,
+        "known_for_department": "Directing",
+        "name": "Eric de Kuyper",
+        "original_name": "Eric de Kuyper",
+        "popularity": 0.1145,
+        "profile_path": "/xDgcPAIvNUyYdEjopMiHT91rSTx.jpg",
+        "credit_id": "661d8aa267203d0186142c31",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1593454,
+        "known_for_department": "Directing",
+        "name": "Marc Lobet",
+        "original_name": "Marc Lobet",
+        "popularity": 0.0239,
+        "profile_path": null,
+        "credit_id": "69b380c1663ed74cfbcbd9b6",
+        "department": "Sound",
+        "job": "Sound Effects"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1134241,
+        "known_for_department": "Sound",
+        "name": "Alain Pierre",
+        "original_name": "Alain Pierre",
+        "popularity": 0.055,
+        "profile_path": null,
+        "credit_id": "69b380dda0f4ad7c40df496d",
+        "department": "Sound",
+        "job": "Sound Effects"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1865842,
+        "known_for_department": "Sound",
+        "name": "Gérard Rousseau",
+        "original_name": "Gérard Rousseau",
+        "popularity": 0.1281,
+        "profile_path": null,
+        "credit_id": "69b38100eb0b8a9dd3df48c4",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6068083,
+        "known_for_department": "Art",
+        "name": "Michel Fradier",
+        "original_name": "Michel Fradier",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "69b3812296c11fd02c7606dd",
+        "department": "Art",
+        "job": "Props"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "US",
+        "title": "I, You, He, She",
+        "type": "informal literal title"
+      },
+      {
+        "iso_3166_1": "US",
+        "title": "Je, Tu, Il, Elle",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "DE",
+        "title": "Ich, du, er, sie",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "SU",
+        "title": "Я, ты, он, она",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "US",
+        "title": "Je tu il Elle",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "UZ",
+        "title": "Men, Sen, U",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "UA",
+        "title": "Я, ти, він, вона",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "AR",
+        "title": "Yo, Tú, Él, Ella",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "BE",
+        "title": "Ik, jij, hij, zij",
+        "type": "Flemish title"
+      }
+    ]
+  }
+}

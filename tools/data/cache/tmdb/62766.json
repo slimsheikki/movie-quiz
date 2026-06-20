@@ -1,0 +1,398 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 62766,
+  "imdb_id": "tt0319702",
+  "origin_country": [
+    "RU"
+  ],
+  "original_language": "ru",
+  "original_title": "Конец века",
+  "overview": "\"The Institute of Conscious Dreams\" - the so-called clinic is a mysterious place. True miracles happen here. It is here, during psychedelic sessions, that a door opens into a different reality, into the depths of a person's consciousness and his genetic memory.",
+  "popularity": 0.5287,
+  "poster_path": "/bXIn5aBrErNmWOXMayMjE1BYVAt.jpg",
+  "production_companies": [
+    {
+      "id": 25606,
+      "logo_path": "/eSlqpXsyQW7u059lOnSsXtUakLl.png",
+      "name": "Gosfilmfond Russia",
+      "origin_country": "RU"
+    },
+    {
+      "id": 4016,
+      "logo_path": "/dxfChyspg1Sn5fYqiQXByDOyzdF.png",
+      "name": "Panorama Studio",
+      "origin_country": "RU"
+    },
+    {
+      "id": 15755,
+      "logo_path": "/cZDbkvJPOnzHlmu2CDx05DcEnaf.png",
+      "name": "Ministry of Culture of the Russian Federation",
+      "origin_country": "RU"
+    },
+    {
+      "id": 170208,
+      "logo_path": "/8qh5BEyKYOQ0e81LPbvWHQvyOy5.png",
+      "name": "Lenfilm",
+      "origin_country": "RU"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "RU",
+      "name": "Russia"
+    }
+  ],
+  "release_date": "2001-09-01",
+  "revenue": 0,
+  "runtime": 151,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "Pусский"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Turn of the Century",
+  "video": false,
+  "vote_average": 4.167,
+  "vote_count": 6,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 93225,
+        "known_for_department": "Acting",
+        "name": "Aleksandr Baluev",
+        "original_name": "Александр Балуев",
+        "popularity": 0.6944,
+        "profile_path": "/ovroDQro4zq2cAgdMSAjdPvDZSy.jpg",
+        "cast_id": 2,
+        "character": "",
+        "credit_id": "52fe468dc3a368484e096f4f",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 235971,
+        "known_for_department": "Acting",
+        "name": "Roman Viktyuk",
+        "original_name": "Роман Виктюк",
+        "popularity": 0.1423,
+        "profile_path": "/1o7Zl3ub5bH59EnYXJQxqy2JSzm.jpg",
+        "cast_id": 3,
+        "character": "",
+        "credit_id": "52fe468dc3a368484e096f53",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 235972,
+        "known_for_department": "Acting",
+        "name": "Svetlana Svirko",
+        "original_name": "Светлана Свирко",
+        "popularity": 0.1739,
+        "profile_path": "/99hjAFJ2a9hLh2DdVYLo4JGMcUX.jpg",
+        "cast_id": 4,
+        "character": "Olga",
+        "credit_id": "52fe468dc3a368484e096f57",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 134112,
+        "known_for_department": "Acting",
+        "name": "Irina Sokolova",
+        "original_name": "Ирина Соколова",
+        "popularity": 0.268,
+        "profile_path": "/3n9v2iffzrhaJ6dU6t1eu0pwM2s.jpg",
+        "cast_id": 5,
+        "character": "Marina Nikolaevna",
+        "credit_id": "5aa53c26c3a3687c25024ec1",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1203185,
+        "known_for_department": "Acting",
+        "name": "Viktor Mikhaylov",
+        "original_name": "Виктор Михайлов",
+        "popularity": 0.4325,
+        "profile_path": "/urdAAqX5NO469I709CEukn3FFP.jpg",
+        "cast_id": 6,
+        "character": "Andrey",
+        "credit_id": "5c19f6d992514152eee275e5",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 224284,
+        "known_for_department": "Acting",
+        "name": "Dmitriy Shevchenko",
+        "original_name": "Дмитрий Шевченко",
+        "popularity": 0.4917,
+        "profile_path": "/lUl4Pg992GH0VWeDGl8Y5PKJmeX.jpg",
+        "cast_id": 7,
+        "character": "",
+        "credit_id": "61a0e5fa0cb3350066e0b753",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3471454,
+        "known_for_department": "Acting",
+        "name": "Alexandra Ionova",
+        "original_name": "Alexandra Ionova",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 15,
+        "character": "",
+        "credit_id": "64c4f251cadb6b01256f639f",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2031320,
+        "known_for_department": "Writing",
+        "name": "Mariya Oshmyanskaya",
+        "original_name": "Мария Ошмянская",
+        "popularity": 0.0336,
+        "profile_path": "/1zGDjPDItejyeQfaGOXg22D2LwP.jpg",
+        "cast_id": 16,
+        "character": "",
+        "credit_id": "64c4f27dcadb6b00e75caaf3",
+        "order": 7
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 88782,
+        "known_for_department": "Directing",
+        "name": "Konstantin Lopushansky",
+        "original_name": "Константин Лопушанский",
+        "popularity": 0.2103,
+        "profile_path": "/znz4T3wzZP0Ayodh2lSwX4imPa3.jpg",
+        "credit_id": "52fe468dc3a368484e096f4b",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1614729,
+        "known_for_department": "Production",
+        "name": "Ada Staviskaya",
+        "original_name": "Ада Ставиская",
+        "popularity": 0.0848,
+        "profile_path": "/vuzVqCpSQDtUbcYmfY37bxhUy8E.jpg",
+        "credit_id": "61a0e62fd71fb400916ba2d3",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 88782,
+        "known_for_department": "Directing",
+        "name": "Konstantin Lopushansky",
+        "original_name": "Константин Лопушанский",
+        "popularity": 0.2103,
+        "profile_path": "/znz4T3wzZP0Ayodh2lSwX4imPa3.jpg",
+        "credit_id": "61a0e63705822400641f7acd",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 88782,
+        "known_for_department": "Directing",
+        "name": "Konstantin Lopushansky",
+        "original_name": "Константин Лопушанский",
+        "popularity": 0.2103,
+        "profile_path": "/znz4T3wzZP0Ayodh2lSwX4imPa3.jpg",
+        "credit_id": "61a0e6430cb33500440b5766",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1960850,
+        "known_for_department": "Camera",
+        "name": "Nikolai Pokoptsev",
+        "original_name": "Николай Покопцев",
+        "popularity": 0.0505,
+        "profile_path": null,
+        "credit_id": "61a0e65e7f1d83008ee65a48",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2179549,
+        "known_for_department": "Art",
+        "name": "Vladimir Yuzhakov",
+        "original_name": "Vladimir Yuzhakov",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "61a0e6ccbe4b360045cd6cba",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2655904,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Andzhela Sapunova",
+        "original_name": "Анжела Сапунова",
+        "popularity": 0.0548,
+        "profile_path": null,
+        "credit_id": "61a0e6e13dc313002d1ffede",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2402557,
+        "known_for_department": "Camera",
+        "name": "Georgiy Blinov",
+        "original_name": "Георгий Блинов",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "credit_id": "668718d1c5f96a37ce7ae1ba",
+        "department": "Camera",
+        "job": "Additional Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1139039,
+        "known_for_department": "Camera",
+        "name": "Sergey Yurizditskiy",
+        "original_name": "Сергей Юриздицкий",
+        "popularity": 0.0691,
+        "profile_path": "/NfY3RDSpDj7HHNqn6aFAQApNAl.jpg",
+        "credit_id": "64c4f3029b6e4700c50720f4",
+        "department": "Camera",
+        "job": "Additional Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1830995,
+        "known_for_department": "Writing",
+        "name": "Vladimir Studennikov",
+        "original_name": "Владимир Студенников",
+        "popularity": 0.1182,
+        "profile_path": "/5zl9TjWw4kGRMJkcsYFt8ytOJST.jpg",
+        "credit_id": "64c4f31e95ce2401012eca50",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2227289,
+        "known_for_department": "Camera",
+        "name": "Anatoly Groshev",
+        "original_name": "Анатолий Грошев",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "64c4f33f95ce2401012eca60",
+        "department": "Camera",
+        "job": "Additional Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3526826,
+        "known_for_department": "Camera",
+        "name": "Lev Golubev",
+        "original_name": "Лев Голубев",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "64c4f34acadb6b00e75cab4b",
+        "department": "Camera",
+        "job": "Additional Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4109572,
+        "known_for_department": "Camera",
+        "name": "Sergei Vershinin",
+        "original_name": "Сергей Вершинин",
+        "popularity": 0.0297,
+        "profile_path": null,
+        "credit_id": "64c4f358eec5b5011cb02ed8",
+        "department": "Camera",
+        "job": "Additional Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4186068,
+        "known_for_department": "Camera",
+        "name": "Evgeny Gurevich",
+        "original_name": "Евгений Гуревич",
+        "popularity": 0.045,
+        "profile_path": null,
+        "credit_id": "64c4f3f8eec5b5011cb02f1c",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4186069,
+        "known_for_department": "Sound",
+        "name": "Val Belin",
+        "original_name": "Val Belin",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "64c4f424cadb6b01440d3c47",
+        "department": "Sound",
+        "job": "Music"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "RU",
+        "title": "Konets Veka",
+        "type": "transliteration"
+      }
+    ]
+  }
+}

@@ -1,0 +1,165 @@
+{
+  "adult": false,
+  "backdrop_path": "/2v5rmkgnQowel2OaPeuS1smTAtS.jpg",
+  "belongs_to_collection": {
+    "id": 53043,
+    "name": "The Magick Lantern Cycle",
+    "poster_path": "/ia4hNSKVqOYJv4hphrygqNC9Jpn.jpg",
+    "backdrop_path": "/d7tNeH2gO8vsw1r4S81RdmPirc8.jpg"
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 44296,
+  "imdb_id": "tt0039383",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Fireworks",
+  "overview": "A dissatisfied dreamer awakes, goes out in the night seeking a 'light' and is drawn through the needle's eye. A dream of a dream, he returns to bed less empty than before.",
+  "popularity": 0.3555,
+  "poster_path": "/1ifeszb6nlfPgJYL1Jjjeoxc41C.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1947-12-31",
+  "revenue": 0,
+  "runtime": 14,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Fireworks",
+  "video": false,
+  "vote_average": 5.883,
+  "vote_count": 81,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 146964,
+        "known_for_department": "Directing",
+        "name": "Kenneth Anger",
+        "original_name": "Kenneth Anger",
+        "popularity": 0.3102,
+        "profile_path": "/r9LiJdpIQT5XkHjiW66xT5Rwxwj.jpg",
+        "cast_id": 1002,
+        "character": "Dreamer (uncredited)",
+        "credit_id": "52fe4683c3a36847f81030db",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2354604,
+        "known_for_department": "Acting",
+        "name": "Gordon Gray",
+        "original_name": "Gordon Gray",
+        "popularity": 0.0932,
+        "profile_path": null,
+        "cast_id": 1006,
+        "character": "First Sailor (uncredited)",
+        "credit_id": "5d1e6ff4a13533000f0afec5",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 543202,
+        "known_for_department": "Acting",
+        "name": "Bill Seltzer",
+        "original_name": "Bill Seltzer",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 1004,
+        "character": "Second Sailor (uncredited)",
+        "credit_id": "52fe4683c3a36847f81030e3",
+        "order": 2
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 146964,
+        "known_for_department": "Directing",
+        "name": "Kenneth Anger",
+        "original_name": "Kenneth Anger",
+        "popularity": 0.3102,
+        "profile_path": "/r9LiJdpIQT5XkHjiW66xT5Rwxwj.jpg",
+        "credit_id": "52fe4683c3a36847f81030e9",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 146964,
+        "known_for_department": "Directing",
+        "name": "Kenneth Anger",
+        "original_name": "Kenneth Anger",
+        "popularity": 0.3102,
+        "profile_path": "/r9LiJdpIQT5XkHjiW66xT5Rwxwj.jpg",
+        "credit_id": "52fe4683c3a36847f81030d7",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 146964,
+        "known_for_department": "Directing",
+        "name": "Kenneth Anger",
+        "original_name": "Kenneth Anger",
+        "popularity": 0.3102,
+        "profile_path": "/r9LiJdpIQT5XkHjiW66xT5Rwxwj.jpg",
+        "credit_id": "5d4e7a8e0d5d8500133ef397",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1281708,
+        "known_for_department": "Writing",
+        "name": "Chester Kessler",
+        "original_name": "Chester Kessler",
+        "popularity": 0.0362,
+        "profile_path": null,
+        "credit_id": "5d4e7ab90d5d8500143ef798",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "SU",
+        "title": "Фейерверк",
+        "type": "Russian Title"
+      }
+    ]
+  }
+}

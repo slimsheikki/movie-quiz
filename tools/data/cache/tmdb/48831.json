@@ -1,0 +1,518 @@
+{
+  "adult": false,
+  "backdrop_path": "/zNMMKmyZ2W5viK2iqbsRfaQIa2u.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 48831,
+  "imdb_id": "tt0064612",
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "Ma nuit chez Maud",
+  "overview": "The Catholic Jean-Louis runs into an old friend, the Marxist Vidal, in Clermont-Ferrand around Christmas. Vidal introduces Jean-Louis to the modestly libertine, recently divorced Maud and the three engage in conversation on religion, atheism, love, morality and Blaise Pascal's life and writings on philosophy, faith and mathematics. Jean-Louis ends up spending a night at Maud's. Jean-Louis' Catholic views on marriage, fidelity and obligation make his situation a dilemma, as he has already, at the very beginning of the film, proclaimed his love for a young woman whom, however, he has never yet spoken to.",
+  "popularity": 0.6997,
+  "poster_path": "/9usKgth3ROn4LwPQ7tTvxKnpBGL.jpg",
+  "production_companies": [
+    {
+      "id": 745,
+      "logo_path": null,
+      "name": "Les Films de la Pléiade",
+      "origin_country": "FR"
+    },
+    {
+      "id": 76822,
+      "logo_path": null,
+      "name": "Les Films des deux mondes",
+      "origin_country": "FR"
+    },
+    {
+      "id": 53,
+      "logo_path": "/3cWJikm9MdWCMKdatuk8gDTa5xy.png",
+      "name": "Les Films du Carrosse",
+      "origin_country": "FR"
+    },
+    {
+      "id": 223,
+      "logo_path": "/pdthRbCuXNlrGNwnmLFRxv5Zy3t.png",
+      "name": "Les Films du Losange",
+      "origin_country": "FR"
+    },
+    {
+      "id": 17873,
+      "logo_path": null,
+      "name": "Les Productions de la Guéville",
+      "origin_country": "FR"
+    },
+    {
+      "id": 82,
+      "logo_path": null,
+      "name": "Renn Productions",
+      "origin_country": "FR"
+    },
+    {
+      "id": 21466,
+      "logo_path": null,
+      "name": "Simar Films",
+      "origin_country": "FR"
+    },
+    {
+      "id": 6849,
+      "logo_path": "/AjdOGHRLAhWbP1aAga85A9EOfD2.png",
+      "name": "SFP",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "1969-06-04",
+  "revenue": 0,
+  "runtime": 110,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "My Night at Maud's",
+  "video": false,
+  "vote_average": 7.7,
+  "vote_count": 354,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1352,
+        "known_for_department": "Acting",
+        "name": "Jean-Louis Trintignant",
+        "original_name": "Jean-Louis Trintignant",
+        "popularity": 0.7373,
+        "profile_path": "/wn6owr4wvkeaEvlsPtwXSldFGEW.jpg",
+        "cast_id": 2,
+        "character": "Jean-Louis",
+        "credit_id": "52fe4777c3a36847f81373f7",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 9765,
+        "known_for_department": "Acting",
+        "name": "Françoise Fabian",
+        "original_name": "Françoise Fabian",
+        "popularity": 0.6169,
+        "profile_path": "/8osKgSNCZ5xQn40njZwBgDZ20Ss.jpg",
+        "cast_id": 9,
+        "character": "Maud",
+        "credit_id": "52fe4777c3a36847f8137411",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 24393,
+        "known_for_department": "Acting",
+        "name": "Marie-Christine Barrault",
+        "original_name": "Marie-Christine Barrault",
+        "popularity": 0.6353,
+        "profile_path": "/sVJxEzQupuhk1n2g4HpisKGXSSY.jpg",
+        "cast_id": 3,
+        "character": "Françoise",
+        "credit_id": "52fe4777c3a36847f81373fb",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 39440,
+        "known_for_department": "Acting",
+        "name": "Antoine Vitez",
+        "original_name": "Antoine Vitez",
+        "popularity": 0.2712,
+        "profile_path": "/ev4rVZsC5uXvLkb6bNmAii5J1GT.jpg",
+        "cast_id": 5,
+        "character": "Vidal",
+        "credit_id": "52fe4777c3a36847f81373ff",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 44398,
+        "known_for_department": "Acting",
+        "name": "Leonid Kogan",
+        "original_name": "Леонид Коган",
+        "popularity": 0.0711,
+        "profile_path": "/7uoa0KqlNSyBUQ06JB9qTJZAKy6.jpg",
+        "cast_id": 7,
+        "character": "Concert Violinist",
+        "credit_id": "52fe4777c3a36847f8137409",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 223269,
+        "known_for_department": "Acting",
+        "name": "Guy Léger",
+        "original_name": "Guy Léger",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 8,
+        "character": "Priest",
+        "credit_id": "52fe4777c3a36847f813740d",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1372857,
+        "known_for_department": "Acting",
+        "name": "Anne Dubot",
+        "original_name": "Anne Dubot",
+        "popularity": 0.0807,
+        "profile_path": null,
+        "cast_id": 18,
+        "character": "Blonde Friend",
+        "credit_id": "600c64cc75f1ad003e370ee0",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2948914,
+        "known_for_department": "Acting",
+        "name": "Marie Becker",
+        "original_name": "Marie Becker",
+        "popularity": 0.0572,
+        "profile_path": null,
+        "cast_id": 19,
+        "character": "Marie (uncredited)",
+        "credit_id": "600c64fb7776f0003f0da563",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2539508,
+        "known_for_department": "Acting",
+        "name": "Marie-Claude Rauzier",
+        "original_name": "Marie-Claude Rauzier",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 20,
+        "character": "Student (uncredited)",
+        "credit_id": "600c6518391b9c003fd54656",
+        "order": 8
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 28615,
+        "known_for_department": "Directing",
+        "name": "Éric Rohmer",
+        "original_name": "Éric Rohmer",
+        "popularity": 0.7902,
+        "profile_path": "/2lOtFqAMOCvLvU7XeQdazm8t62C.jpg",
+        "credit_id": "52fe4777c3a36847f81373f3",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 28615,
+        "known_for_department": "Directing",
+        "name": "Éric Rohmer",
+        "original_name": "Éric Rohmer",
+        "popularity": 0.7902,
+        "profile_path": "/2lOtFqAMOCvLvU7XeQdazm8t62C.jpg",
+        "credit_id": "52fe4777c3a36847f8137405",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3569,
+        "known_for_department": "Camera",
+        "name": "Néstor Almendros",
+        "original_name": "Néstor Almendros",
+        "popularity": 0.2317,
+        "profile_path": "/5ECtx9BgjULaZhOHu5DHpzdhJod.jpg",
+        "credit_id": "568c795ec3a3686075030a42",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1620067,
+        "known_for_department": "Production",
+        "name": "Alfred de Graff",
+        "original_name": "Alfred de Graff",
+        "popularity": 0.0943,
+        "profile_path": null,
+        "credit_id": "5737e005925141132200151c",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 23393,
+        "known_for_department": "Directing",
+        "name": "Barbet Schroeder",
+        "original_name": "Barbet Schroeder",
+        "popularity": 0.6032,
+        "profile_path": "/w01XzkltJjm7BwqjXXFNrEj2vSd.jpg",
+        "credit_id": "5737dfecc3a36840ec0043f8",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3838,
+        "known_for_department": "Editing",
+        "name": "Cécile Decugis",
+        "original_name": "Cécile Decugis",
+        "popularity": 0.1939,
+        "profile_path": null,
+        "credit_id": "5737dff39251417dd8001849",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 72831,
+        "known_for_department": "Art",
+        "name": "Nicole Rachline",
+        "original_name": "Nicole Rachline",
+        "popularity": 0.063,
+        "profile_path": null,
+        "credit_id": "5737dffbc3a3687e1a005f9d",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3571,
+        "known_for_department": "Sound",
+        "name": "Jacques Maumont",
+        "original_name": "Jacques Maumont",
+        "popularity": 0.093,
+        "profile_path": null,
+        "credit_id": "5737e00cc3a3686f04001c16",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 19344,
+        "known_for_department": "Sound",
+        "name": "Jean-Pierre Ruh",
+        "original_name": "Jean-Pierre Ruh",
+        "popularity": 0.1366,
+        "profile_path": "/sGW2j1b8Lghf35Id9B3NRM4j2Pa.jpg",
+        "credit_id": "5737e0149251417dd8001855",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 28752,
+        "known_for_department": "Production",
+        "name": "Pierre Cottrell",
+        "original_name": "Pierre Cottrell",
+        "popularity": 0.1793,
+        "profile_path": null,
+        "credit_id": "5737dfe4c3a3687e1a005f9b",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1301,
+        "known_for_department": "Camera",
+        "name": "Philippe Rousselot",
+        "original_name": "Philippe Rousselot",
+        "popularity": 0.3727,
+        "profile_path": "/dxUrQKKnS0BAolYdp4Q7CkcWLSD.jpg",
+        "credit_id": "600c65b73f8ede0041654187",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2948922,
+        "known_for_department": "Production",
+        "name": "Pierre Grimberg",
+        "original_name": "Pierre Grimberg",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "600c65f922e480003e020832",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2532161,
+        "known_for_department": "Lighting",
+        "name": "Jean-Claude Gasché",
+        "original_name": "Jean-Claude Gasché",
+        "popularity": 0.0372,
+        "profile_path": null,
+        "credit_id": "600c657bafe224003e429872",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 39191,
+        "known_for_department": "Camera",
+        "name": "Emmanuel Machuel",
+        "original_name": "Emmanuel Machuel",
+        "popularity": 0.145,
+        "profile_path": null,
+        "credit_id": "600c6595371097003ea298e4",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2203630,
+        "known_for_department": "Editing",
+        "name": "Christine Lecouvette",
+        "original_name": "Christine Lecouvette",
+        "popularity": 0.0256,
+        "profile_path": null,
+        "credit_id": "600c65d5813cb600407cbe9d",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 18571,
+        "known_for_department": "Sound",
+        "name": "Alain Sempé",
+        "original_name": "Alain Sempé",
+        "popularity": 0.113,
+        "profile_path": null,
+        "credit_id": "600c655d75f1ad003d374f76",
+        "department": "Sound",
+        "job": "Sound Assistant"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "GB",
+        "title": "My Night with Maud",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "CN",
+        "title": "我在溫柔鄉",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "FR",
+        "title": "Six contes moraux III: Ma nuit chez Maud",
+        "type": "long title"
+      },
+      {
+        "iso_3166_1": "US",
+        "title": "Six Moral Tales III: My Night at Maud's",
+        "type": "long title"
+      },
+      {
+        "iso_3166_1": "DK",
+        "title": "Min nat hos Maud",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "FI",
+        "title": "Yöni Maudin luona",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "GR",
+        "title": "Μια νύχτα με τη Μωντ",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "JP",
+        "title": "モード家の一夜",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "TR",
+        "title": "Maud'daki Gecem",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "KR",
+        "title": "모드의 집에서 하룻밤",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "KR",
+        "title": "모드 집에서 하룻밤",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "KR",
+        "title": "모드의 집에서의 하룻밤",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "CN",
+        "title": "在莫德家的一夜",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "NO",
+        "title": "Min natt hos Maud",
+        "type": ""
+      }
+    ]
+  }
+}

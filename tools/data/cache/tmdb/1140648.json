@@ -1,0 +1,742 @@
+{
+  "adult": false,
+  "backdrop_path": "/pcjWAV4Iw7sl3dpV1dfIoxbbTuu.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 1140648,
+  "imdb_id": "tt14729020",
+  "origin_country": [
+    "IE"
+  ],
+  "original_language": "en",
+  "original_title": "Double Blind",
+  "overview": "After an experimental drug trial goes awry, the test subjects face a terrifying side effect: if you fall asleep you die. Trapped in an isolated facility, panic ensues as they try to escape and somehow stay awake.",
+  "popularity": 1.5333,
+  "poster_path": "/7JG4otyEyfTSECOq8VkFRdAA01M.jpg",
+  "production_companies": [
+    {
+      "id": 7662,
+      "logo_path": "/uGLpMN6r5MyFosNTgP9PKU48CHp.png",
+      "name": "Epic Pictures Group",
+      "origin_country": "US"
+    },
+    {
+      "id": 125869,
+      "logo_path": "/8H1pD5MeUGztwowGTdrQBYGSvYB.png",
+      "name": "Failsafe Films",
+      "origin_country": "IE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IE",
+      "name": "Ireland"
+    }
+  ],
+  "release_date": "2024-02-09",
+  "revenue": 0,
+  "runtime": 90,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "If you fall asleep you die.",
+  "title": "Double Blind",
+  "video": false,
+  "vote_average": 6.135,
+  "vote_count": 185,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1460120,
+        "known_for_department": "Acting",
+        "name": "Millie Brady",
+        "original_name": "Millie Brady",
+        "popularity": 1.2805,
+        "profile_path": "/rCMJ6hS6qMta17X6QzmNDqLdm38.jpg",
+        "cast_id": 1,
+        "character": "Claire",
+        "credit_id": "648af9bbc2ff3d00ad006681",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 92730,
+        "known_for_department": "Acting",
+        "name": "Pollyanna McIntosh",
+        "original_name": "Pollyanna McIntosh",
+        "popularity": 1.2212,
+        "profile_path": "/c2YsFhPEEXEgqMTgASdvVoOkbnH.jpg",
+        "cast_id": 4,
+        "character": "Dr. Burke",
+        "credit_id": "653ec8c2519bbb013832f204",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1812314,
+        "known_for_department": "Acting",
+        "name": "Akshay Kumar",
+        "original_name": "Akshay Kumar",
+        "popularity": 0.504,
+        "profile_path": "/ynbrjFIC9jRKUL2xw4G3HvvFSIH.jpg",
+        "cast_id": 5,
+        "character": "Amir",
+        "credit_id": "653ec8decc9683014eb9c8fc",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1009108,
+        "known_for_department": "Acting",
+        "name": "Diarmuid Noyes",
+        "original_name": "Diarmuid Noyes",
+        "popularity": 0.4124,
+        "profile_path": "/saynEGgbzlYOyzFaEKfNhvBLKbA.jpg",
+        "cast_id": 6,
+        "character": "Ray",
+        "credit_id": "653ec8e7519bbb00e18d3416",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1600596,
+        "known_for_department": "Acting",
+        "name": "Brenock O'Connor",
+        "original_name": "Brenock O'Connor",
+        "popularity": 0.704,
+        "profile_path": "/n32zOLtJ1BP8UnCEkZfaGLsdp6L.jpg",
+        "cast_id": 7,
+        "character": "Paul",
+        "credit_id": "653ec8f2519bbb011b45818c",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3524336,
+        "known_for_department": "Acting",
+        "name": "Abby Fitz",
+        "original_name": "Abby Fitz",
+        "popularity": 0.4782,
+        "profile_path": "/dsIijvByEZr81YGzY7VazWoGheD.jpg",
+        "cast_id": 8,
+        "character": "Alison",
+        "credit_id": "653ec93b50733c013e34f8ac",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3964802,
+        "known_for_department": "Acting",
+        "name": "Shonagh Marie",
+        "original_name": "Shonagh Marie",
+        "popularity": 0.1282,
+        "profile_path": "/5ILSIHIQ8LA0TxuiyXiBQDS18ct.jpg",
+        "cast_id": 9,
+        "character": "Vanessa",
+        "credit_id": "65a9c1a96af8f80135be32e6",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2625340,
+        "known_for_department": "Acting",
+        "name": "Frank Blake",
+        "original_name": "Frank Blake",
+        "popularity": 0.6171,
+        "profile_path": "/vapsLZpKx7Y2gPt3XQNRswJZfc5.jpg",
+        "cast_id": 10,
+        "character": "Marcus",
+        "credit_id": "65a9c1c86af8f80132be2eb0",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 11110,
+        "known_for_department": "Acting",
+        "name": "Kate Ashfield",
+        "original_name": "Kate Ashfield",
+        "popularity": 1.8668,
+        "profile_path": "/rtuYpo9W4AsCvI1I6brIdHe7qi.jpg",
+        "cast_id": 11,
+        "character": "Helen Brady",
+        "credit_id": "65a9c37268afd60127509688",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1188325,
+        "known_for_department": "Acting",
+        "name": "Amy De Bhrún",
+        "original_name": "Amy De Bhrún",
+        "popularity": 0.558,
+        "profile_path": "/cN5ep9TcNHmJcK6uO0wMUtvgIOx.jpg",
+        "cast_id": 12,
+        "character": "News Reporter",
+        "credit_id": "65a9c3827caa47012b093b71",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3176583,
+        "known_for_department": "Acting",
+        "name": "Janet Grene",
+        "original_name": "Janet Grene",
+        "popularity": 0.1877,
+        "profile_path": null,
+        "cast_id": 13,
+        "character": "Nurse",
+        "credit_id": "65a9c3925346610133cd0706",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1124864,
+        "known_for_department": "Acting",
+        "name": "Håkon Karoliussen",
+        "original_name": "Håkon Karoliussen",
+        "popularity": 0.1194,
+        "profile_path": null,
+        "cast_id": 14,
+        "character": "Head of Division",
+        "credit_id": "65a9c3a3c433ea00cb7452c2",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1877251,
+        "known_for_department": "Acting",
+        "name": "Caoilfhionn McDonnell",
+        "original_name": "Caoilfhionn McDonnell",
+        "popularity": 0.0795,
+        "profile_path": "/viVAFxT4aCAAky18Wu5vNE4Lj0Y.jpg",
+        "cast_id": 15,
+        "character": "Senior Director",
+        "credit_id": "65a9c3b37caa4701250935e3",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1193623,
+        "known_for_department": "Acting",
+        "name": "Luca Pierucci",
+        "original_name": "Luca Pierucci",
+        "popularity": 0.2254,
+        "profile_path": null,
+        "cast_id": 16,
+        "character": "Executive Vice President",
+        "credit_id": "65a9c548b0cd20012d1799d8",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2474508,
+        "known_for_department": "Acting",
+        "name": "Eon Grey",
+        "original_name": "Eon Grey",
+        "popularity": 0.0214,
+        "profile_path": "/xt7ZzzlklLq7UVENY3sclAoT43N.jpg",
+        "cast_id": 17,
+        "character": "Head of Research",
+        "credit_id": "65a9c64cb0cd20012a179abf",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5827916,
+        "known_for_department": "Acting",
+        "name": "Daiana Maderia",
+        "original_name": "Daiana Maderia",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 31,
+        "character": "Nurse",
+        "credit_id": "691e8806a0f5efe42b2e295f",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5827918,
+        "known_for_department": "Acting",
+        "name": "Denise Dawson",
+        "original_name": "Denise Dawson",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "cast_id": 32,
+        "character": "Nurse",
+        "credit_id": "691e881230194b4b7c2e295d",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5827919,
+        "known_for_department": "Acting",
+        "name": "Susan O'Riordan",
+        "original_name": "Susan O'Riordan",
+        "popularity": 0.0261,
+        "profile_path": null,
+        "cast_id": 33,
+        "character": "Nurse",
+        "credit_id": "691e8826903831629b4a28e8",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1219983,
+        "known_for_department": "Acting",
+        "name": "Mike Neville",
+        "original_name": "Mike Neville",
+        "popularity": 0.0322,
+        "profile_path": null,
+        "cast_id": 34,
+        "character": "Security Team",
+        "credit_id": "691e88494ea03324450583b4",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5827921,
+        "known_for_department": "Acting",
+        "name": "Daniel Mortell",
+        "original_name": "Daniel Mortell",
+        "popularity": 0,
+        "profile_path": null,
+        "cast_id": 35,
+        "character": "Security Team",
+        "credit_id": "691e8854903831629b4a28f5",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5827922,
+        "known_for_department": "Acting",
+        "name": "Adrian Szejka",
+        "original_name": "Adrian Szejka",
+        "popularity": 0,
+        "profile_path": null,
+        "cast_id": 36,
+        "character": "Security Team",
+        "credit_id": "691e88674ac24835a0fa28eb",
+        "order": 20
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5827924,
+        "known_for_department": "Acting",
+        "name": "Tony Kelleher",
+        "original_name": "Tony Kelleher",
+        "popularity": 0,
+        "profile_path": null,
+        "cast_id": 37,
+        "character": "Security Team",
+        "credit_id": "691e8897fa4775837505831b",
+        "order": 21
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1669184,
+        "known_for_department": "Acting",
+        "name": "Lauterio Zamparelli",
+        "original_name": "Lauterio Zamparelli",
+        "popularity": 0.2801,
+        "profile_path": null,
+        "cast_id": 38,
+        "character": "Security Team",
+        "credit_id": "691e88adf1f72334af2e28a9",
+        "order": 22
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5827926,
+        "known_for_department": "Acting",
+        "name": "Seamus Doherty",
+        "original_name": "Seamus Doherty",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 39,
+        "character": "Security Team",
+        "credit_id": "691e88bfc9d5d47dd121a442",
+        "order": 23
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5827927,
+        "known_for_department": "Acting",
+        "name": "Victoria Choux",
+        "original_name": "Victoria Choux",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 40,
+        "character": "Blackwood Facility Voice",
+        "credit_id": "691e88d92d4268c8e7c2cca5",
+        "order": 24
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5827929,
+        "known_for_department": "Acting",
+        "name": "Ann Magnier",
+        "original_name": "Ann Magnier",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 41,
+        "character": "Voice on Phone",
+        "credit_id": "691e88ec552287864ac2cc4a",
+        "order": 25
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5827930,
+        "known_for_department": "Acting",
+        "name": "Conor Flanagan",
+        "original_name": "Conor Flanagan",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "cast_id": 42,
+        "character": "George Bannon",
+        "credit_id": "691e890948141350d105829a",
+        "order": 26
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1222925,
+        "known_for_department": "Acting",
+        "name": "Martin Phillips",
+        "original_name": "Martin Phillips",
+        "popularity": 0.1395,
+        "profile_path": "/fdOMWevyF2eteFoNHqNIM4OaCLe.jpg",
+        "cast_id": 43,
+        "character": "Blackwood Executive",
+        "credit_id": "691e895cf4406cc0bf2e28f7",
+        "order": 27
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1752029,
+        "known_for_department": "Directing",
+        "name": "Ian Hunt-Duffy",
+        "original_name": "Ian Hunt-Duffy",
+        "popularity": 0.047,
+        "profile_path": "/kjJF7BfSr3UJ6wI3WTWePTnswBJ.jpg",
+        "credit_id": "648af9c9559d22011c4a923d",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4112782,
+        "known_for_department": "Acting",
+        "name": "Darach McGarrigle",
+        "original_name": "Darach McGarrigle",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "credit_id": "648af9d4c2ff3d00ad00668e",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4902966,
+        "known_for_department": "Directing",
+        "name": "Emer Regan",
+        "original_name": "Emer Regan",
+        "popularity": 0.0429,
+        "profile_path": null,
+        "credit_id": "66ca7fea465b5ddb6b3279a0",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1878784,
+        "known_for_department": "Production",
+        "name": "Amy Rowan",
+        "original_name": "Amy Rowan",
+        "popularity": 0.1448,
+        "profile_path": null,
+        "credit_id": "66cffa9ad4c78f34cc66fc42",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1135883,
+        "known_for_department": "Art",
+        "name": "Steven Kingston",
+        "original_name": "Steven Kingston",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "credit_id": "66cffaaa507c3ab8bb6a0514",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2852170,
+        "known_for_department": "Production",
+        "name": "Juliane Wothe",
+        "original_name": "Juliane Wothe",
+        "popularity": 0.0311,
+        "profile_path": null,
+        "credit_id": "66cffb42d7b725762a22c5d8",
+        "department": "Production",
+        "job": "Line Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1915656,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Gwen Jeffares Hourie",
+        "original_name": "Gwen Jeffares Hourie",
+        "popularity": 0.1407,
+        "profile_path": null,
+        "credit_id": "66cffad30b8489b3e4a0ba8e",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2244529,
+        "known_for_department": "Production",
+        "name": "Patrick O'Neill",
+        "original_name": "Patrick O'Neill",
+        "popularity": 0.0688,
+        "profile_path": null,
+        "credit_id": "66cffb337a78c7c93f4af4a7",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2883215,
+        "known_for_department": "Directing",
+        "name": "Eoin Kenny",
+        "original_name": "Eoin Kenny",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "66cffab80ba07317ae11a8ac",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 62345,
+        "known_for_department": "Production",
+        "name": "Patrick Ewald",
+        "original_name": "Patrick Ewald",
+        "popularity": 0.2218,
+        "profile_path": null,
+        "credit_id": "66cffb0d9bfceb13a7ec40e0",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1975423,
+        "known_for_department": "Camera",
+        "name": "Narayan Van Maele",
+        "original_name": "Narayan Van Maele",
+        "popularity": 0.1636,
+        "profile_path": "/6KI83K6NiXxYelPx2ugUZCGXyJk.jpg",
+        "credit_id": "681beac3565afadcad01e63a",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3622006,
+        "known_for_department": "Sound",
+        "name": "Die Hexen",
+        "original_name": "Die Hexen",
+        "popularity": 0.0696,
+        "profile_path": "/7j7XSQ0dHpcdEf4ajp0IQmeZ500.jpg",
+        "credit_id": "681c5b5f80ce0418ea6e363c",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2193150,
+        "known_for_department": "Crew",
+        "name": "Adam Behan",
+        "original_name": "Adam Behan",
+        "popularity": 0.403,
+        "profile_path": "/kdGRdUbF6B6FsqAwOcDJGUCjNeL.jpg",
+        "credit_id": "6823e60a5e0477a6415a3487",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5855076,
+        "known_for_department": "Writing",
+        "name": "Mitzi Smishkewych-Kosovske",
+        "original_name": "Mitzi Smishkewych-Kosovske",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "69309d540cd02e82146ee1ab",
+        "department": "Directing",
+        "job": "Assistant Director Trainee"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "BR",
+        "title": "Fique Acordado",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "MX",
+        "title": "Double Blind",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "ES",
+        "title": "El experimento del sueño",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "AU",
+        "title": "Double Blind",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "AZ",
+        "title": "Klaustrofobiya. yuxusuzluq",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "CA",
+        "title": "Double Blind",
+        "type": "English"
+      },
+      {
+        "iso_3166_1": "CN",
+        "title": "双盲",
+        "type": "Mandarin"
+      },
+      {
+        "iso_3166_1": "EC",
+        "title": "Double Blind",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "FR",
+        "title": "Double Blind",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "DE",
+        "title": "Double Blind",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "IE",
+        "title": "Double Blind",
+        "type": "English"
+      },
+      {
+        "iso_3166_1": "IT",
+        "title": "Double Blind",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "PL",
+        "title": "Ślepa próba",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "RU",
+        "title": "Клаустрофобы: Инсомния",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "UA",
+        "title": "Клаустрофоби: Без сну",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "GB",
+        "title": "Double Blind",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "US",
+        "title": "Double Blind",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "DE",
+        "title": "Schlaf nicht ein",
+        "type": ""
+      }
+    ]
+  }
+}

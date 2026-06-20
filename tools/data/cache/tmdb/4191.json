@@ -1,0 +1,673 @@
+{
+  "adult": false,
+  "backdrop_path": "/iEpJt9cx3tBSxjHnRh0OyGn7VsC.jpg",
+  "belongs_to_collection": null,
+  "budget": 747000,
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "homepage": "",
+  "id": 4191,
+  "imdb_id": "tt0061955",
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "La mariée était en noir",
+  "overview": "Julie Kohler is prevented from suicide by her mother. She leaves home, with the intent to track down, charm and kill five men who do not know her. What is her goal? What is her purpose?",
+  "popularity": 0.7338,
+  "poster_path": "/iP7kuo3tMyR2hJfqBsssiPnEoik.jpg",
+  "production_companies": [
+    {
+      "id": 1216,
+      "logo_path": null,
+      "name": "DDL Cinematografica",
+      "origin_country": "IT"
+    },
+    {
+      "id": 53,
+      "logo_path": "/3cWJikm9MdWCMKdatuk8gDTa5xy.png",
+      "name": "Les Films du Carrosse",
+      "origin_country": "FR"
+    },
+    {
+      "id": 64,
+      "logo_path": null,
+      "name": "Les Productions Artistes Associés",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    }
+  ],
+  "release_date": "1968-03-22",
+  "revenue": 9600000,
+  "runtime": 107,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "She was a bride when the violence happened... now she's a widow and it's going to happen again.",
+  "title": "The Bride Wore Black",
+  "video": false,
+  "vote_average": 7.1,
+  "vote_count": 285,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 14812,
+        "known_for_department": "Acting",
+        "name": "Jeanne Moreau",
+        "original_name": "Jeanne Moreau",
+        "popularity": 1.1569,
+        "profile_path": "/lsIlRbcStJev5n1mypIeUUYKWuy.jpg",
+        "cast_id": 8,
+        "character": "Julie Kohler",
+        "credit_id": "52fe43b1c3a36847f806820f",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 11989,
+        "known_for_department": "Acting",
+        "name": "Michel Bouquet",
+        "original_name": "Michel Bouquet",
+        "popularity": 0.5128,
+        "profile_path": "/omtQES1qZlp1kOTWEMeEeusgqWc.jpg",
+        "cast_id": 12,
+        "character": "Coral",
+        "credit_id": "52fe43b1c3a36847f806821f",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 24299,
+        "known_for_department": "Acting",
+        "name": "Jean-Claude Brialy",
+        "original_name": "Jean-Claude Brialy",
+        "popularity": 0.7503,
+        "profile_path": "/8eAz3iwsHLWRstqasUxdd8KnuPR.jpg",
+        "cast_id": 9,
+        "character": "Corey",
+        "credit_id": "52fe43b1c3a36847f8068213",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 17028,
+        "known_for_department": "Acting",
+        "name": "Charles Denner",
+        "original_name": "Charles Denner",
+        "popularity": 0.5759,
+        "profile_path": "/fXrk3RHA1c60h3RuYc4CRQLRjCB.jpg",
+        "cast_id": 10,
+        "character": "Fergus",
+        "credit_id": "52fe43b1c3a36847f8068217",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 24903,
+        "known_for_department": "Acting",
+        "name": "Claude Rich",
+        "original_name": "Claude Rich",
+        "popularity": 0.6556,
+        "profile_path": "/pFKzxPQsAIbVsAhrDvp974U9Ras.jpg",
+        "cast_id": 11,
+        "character": "Bliss",
+        "credit_id": "52fe43b1c3a36847f806821b",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2369,
+        "known_for_department": "Acting",
+        "name": "Michael Lonsdale",
+        "original_name": "Michael Lonsdale",
+        "popularity": 1.0045,
+        "profile_path": "/lQZktsBj1CFbIEIpXOZp55kCiB5.jpg",
+        "cast_id": 27,
+        "character": "Morane",
+        "credit_id": "52fe43b1c3a36847f8068267",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3573,
+        "known_for_department": "Writing",
+        "name": "Daniel Boulanger",
+        "original_name": "Daniel Boulanger",
+        "popularity": 0.4615,
+        "profile_path": "/sdXg9TM9ox0ANO95CHpWUD9siUH.jpg",
+        "cast_id": 13,
+        "character": "Delvaux",
+        "credit_id": "52fe43b1c3a36847f8068223",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 18765,
+        "known_for_department": "Acting",
+        "name": "Alexandra Stewart",
+        "original_name": "Alexandra Stewart",
+        "popularity": 0.9797,
+        "profile_path": "/mbKb2w8SJfVKFTdPsUsLqauLQJC.jpg",
+        "cast_id": 14,
+        "character": "Mlle Becker",
+        "credit_id": "52fe43b1c3a36847f8068227",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 35248,
+        "known_for_department": "Acting",
+        "name": "Sylvine Delannoy",
+        "original_name": "Sylvine Delannoy",
+        "popularity": 0.0911,
+        "profile_path": "/zfbNzFGOZNK97ukHJCOXXwUhcJ9.jpg",
+        "cast_id": 18,
+        "character": "Mme Morane",
+        "credit_id": "52fe43b1c3a36847f8068237",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 35247,
+        "known_for_department": "Acting",
+        "name": "Luce Fabiole",
+        "original_name": "Luce Fabiole",
+        "popularity": 0.2176,
+        "profile_path": "/gpoMtmvKPGcQ4tDFYcTi16B5eei.jpg",
+        "cast_id": 17,
+        "character": "Mère de Julie",
+        "credit_id": "52fe43b1c3a36847f8068233",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1385605,
+        "known_for_department": "Acting",
+        "name": "Michèle Montfort",
+        "original_name": "Michèle Montfort",
+        "popularity": 0.0596,
+        "profile_path": "/dRGmHfs5iUWuEYwKBxjPnmtqYaJ.jpg",
+        "cast_id": 28,
+        "character": "Modèle de Fergus",
+        "credit_id": "54674e5522136e7bec0019e1",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3517,
+        "known_for_department": "Acting",
+        "name": "Paul Pavel",
+        "original_name": "Paul Pavel",
+        "popularity": 0.2553,
+        "profile_path": "/3PcOj1biSueYSFXhWztH5a8OUZ.jpg",
+        "cast_id": 29,
+        "character": "Mécanicien",
+        "credit_id": "54674edf22136e7bfb001a14",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3516,
+        "known_for_department": "Acting",
+        "name": "Serge Rousseau",
+        "original_name": "Serge Rousseau",
+        "popularity": 0.2043,
+        "profile_path": "/zUL46yPLP1kezi3gb5kLc5p4CHp.jpg",
+        "cast_id": 16,
+        "character": "David",
+        "credit_id": "52fe43b1c3a36847f806822f",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3833,
+        "known_for_department": "Acting",
+        "name": "Van Doude",
+        "original_name": "Van Doude",
+        "popularity": 0.3298,
+        "profile_path": "/ybVtft5dS41jZv9eYojQ1QLKmsL.jpg",
+        "cast_id": 20,
+        "character": "Inspecteur",
+        "credit_id": "52fe43b1c3a36847f806823f",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 35246,
+        "known_for_department": "Acting",
+        "name": "Christophe Bruno",
+        "original_name": "Christophe Bruno",
+        "popularity": 0.0286,
+        "profile_path": "/aEkY6vXm8etV2k3pV4vXhMm8mpx.jpg",
+        "cast_id": 15,
+        "character": "Cookie",
+        "credit_id": "52fe43b1c3a36847f806822b",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 35249,
+        "known_for_department": "Acting",
+        "name": "Jacques Robiolles",
+        "original_name": "Jacques Robiolles",
+        "popularity": 0.0561,
+        "profile_path": "/vcD6UdsF1FoTcPxlLV16dux6taX.jpg",
+        "cast_id": 19,
+        "character": "Charlie",
+        "credit_id": "52fe43b1c3a36847f806823b",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1083979,
+        "known_for_department": "Acting",
+        "name": "Gilles Quéant",
+        "original_name": "Gilles Quéant",
+        "popularity": 0.1992,
+        "profile_path": "/3VtqmeZIJa46ESLv2qLIKaQfdxt.jpg",
+        "cast_id": 30,
+        "character": "Juge examinateur",
+        "credit_id": "5793b9dac3a3683ffb001038",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 39673,
+        "known_for_department": "Acting",
+        "name": "Daniel Pommereulle",
+        "original_name": "Daniel Pommereulle",
+        "popularity": 0.1057,
+        "profile_path": "/bpoGURGpkhWOqP982wFWkJrnMZM.jpg",
+        "cast_id": 31,
+        "character": "L'ami de Fergus",
+        "credit_id": "5a5bc2e79251413f6b0262de",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1681484,
+        "known_for_department": "Acting",
+        "name": "Jacqueline Rouillard",
+        "original_name": "Jacqueline Rouillard",
+        "popularity": 0.1372,
+        "profile_path": "/1KnleJTf4aIExZfhlNYV5MCIndT.jpg",
+        "cast_id": 38,
+        "character": "La logeuse de Coral",
+        "credit_id": "5e250a291bf2660016fbcf0f",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2515182,
+        "known_for_department": "Acting",
+        "name": "Frédérique Fontanarosa",
+        "original_name": "Frédérique Fontanarosa",
+        "popularity": 0.0407,
+        "profile_path": "/l59ebhL6SyFJeTfomS6cCtKkO4G.jpg",
+        "cast_id": 39,
+        "character": "Musicien (non crédité)",
+        "credit_id": "5e250a881bf2660016fbcfc0",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1077239,
+        "known_for_department": "Acting",
+        "name": "Renaud Fontanarosa",
+        "original_name": "Renaud Fontanarosa",
+        "popularity": 0.0865,
+        "profile_path": "/2sgQKCSjQ6xbSno3Nm70xMB8I7P.jpg",
+        "cast_id": 40,
+        "character": "Musicien (non crédité)",
+        "credit_id": "5e250a985ed8e90017615441",
+        "order": 20
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2515185,
+        "known_for_department": "Acting",
+        "name": "Jacqueline Gaillard",
+        "original_name": "Jacqueline Gaillard",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 41,
+        "character": "Femme de chambre (non crédité)",
+        "credit_id": "5e250aada894d6000f3af08c",
+        "order": 21
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 18814,
+        "known_for_department": "Acting",
+        "name": "Maurice Garrel",
+        "original_name": "Maurice Garrel",
+        "popularity": 0.4632,
+        "profile_path": "/6W9u0YxtASAmvzozXvvXfJFA3g6.jpg",
+        "cast_id": 42,
+        "character": "Le Plaignant (non crédité)",
+        "credit_id": "5e250abfa894d6000f3af0ae",
+        "order": 22
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2515190,
+        "known_for_department": "Acting",
+        "name": "Elisabeth Rey",
+        "original_name": "Elisabeth Rey",
+        "popularity": 0.0362,
+        "profile_path": null,
+        "cast_id": 43,
+        "character": "Julie Child (non crédité)",
+        "credit_id": "5e250af3a894d600153addd8",
+        "order": 23
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2515193,
+        "known_for_department": "Acting",
+        "name": "Jean-Pierre Rey",
+        "original_name": "Jean-Pierre Rey",
+        "popularity": 0,
+        "profile_path": null,
+        "cast_id": 44,
+        "character": "David Child (non crédité)",
+        "credit_id": "5e250b30bfeb8b0011d547c1",
+        "order": 24
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2515194,
+        "known_for_department": "Acting",
+        "name": "Dominique Robier",
+        "original_name": "Dominique Robier",
+        "popularity": 0.0168,
+        "profile_path": null,
+        "cast_id": 45,
+        "character": "Sabine, la nièce de Julie (non crédité)",
+        "credit_id": "5e250b438f26bc001579e5bf",
+        "order": 25
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2515195,
+        "known_for_department": "Acting",
+        "name": "Michèle Viborel",
+        "original_name": "Michèle Viborel",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 46,
+        "character": "Gilberte, la fiancée de Bliss (non crédité)",
+        "credit_id": "5e250b635ed8e9001561596e",
+        "order": 26
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1650,
+        "known_for_department": "Directing",
+        "name": "François Truffaut",
+        "original_name": "François Truffaut",
+        "popularity": 1.1822,
+        "profile_path": "/3bXLtipaybsje01LlQvHvuUAZNq.jpg",
+        "credit_id": "52fe43b1c3a36847f80681e7",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 7748,
+        "known_for_department": "Writing",
+        "name": "Cornell Woolrich",
+        "original_name": "Cornell Woolrich",
+        "popularity": 0.4923,
+        "profile_path": "/7yCwjCYnjV2qbIoD4OKn8TbZZ3H.jpg",
+        "credit_id": "52fe43b1c3a36847f80681f9",
+        "department": "Writing",
+        "job": "Novel"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1045,
+        "known_for_department": "Sound",
+        "name": "Bernard Herrmann",
+        "original_name": "Bernard Herrmann",
+        "popularity": 0.4312,
+        "profile_path": "/vpIPFhUpHBqDrbgbnaQnDCYekDI.jpg",
+        "credit_id": "52fe43b1c3a36847f80681ff",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3540,
+        "known_for_department": "Camera",
+        "name": "Raoul Coutard",
+        "original_name": "Raoul Coutard",
+        "popularity": 0.1932,
+        "profile_path": "/fEwMCINuiSOu4f3CzHG3UL0BNIc.jpg",
+        "credit_id": "52fe43b1c3a36847f8068205",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3524,
+        "known_for_department": "Production",
+        "name": "Marcel Berbert",
+        "original_name": "Marcel Berbert",
+        "popularity": 0.0911,
+        "profile_path": "/ysIopNGes84lrd2UL92o8Uyrka5.jpg",
+        "credit_id": "52fe43b1c3a36847f806820b",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 35954,
+        "known_for_department": "Production",
+        "name": "Oscar Lewenstein",
+        "original_name": "Oscar Lewenstein",
+        "popularity": 0.0906,
+        "profile_path": null,
+        "credit_id": "52fe43b1c3a36847f8068251",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 18223,
+        "known_for_department": "Editing",
+        "name": "Claudine Bouché",
+        "original_name": "Claudine Bouché",
+        "popularity": 0.1159,
+        "profile_path": null,
+        "credit_id": "52fe43b1c3a36847f806825d",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 9358,
+        "known_for_department": "Art",
+        "name": "Pierre Guffroy",
+        "original_name": "Pierre Guffroy",
+        "popularity": 0.2223,
+        "profile_path": "/2ZNLlKQY1wrRgXm41ZMf7n87KtE.jpg",
+        "credit_id": "52fe43b1c3a36847f8068263",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1650,
+        "known_for_department": "Directing",
+        "name": "François Truffaut",
+        "original_name": "François Truffaut",
+        "popularity": 1.1822,
+        "profile_path": "/3bXLtipaybsje01LlQvHvuUAZNq.jpg",
+        "credit_id": "5e2508e1bfeb8b0011d54111",
+        "department": "Writing",
+        "job": "Adaptation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 18558,
+        "known_for_department": "Acting",
+        "name": "Jean-Louis Richard",
+        "original_name": "Jean-Louis Richard",
+        "popularity": 0.7771,
+        "profile_path": "/pT0vIOIESVdy1AincoVJowRksRI.jpg",
+        "credit_id": "5e2508f0bfeb8b0015d529d5",
+        "department": "Writing",
+        "job": "Adaptation"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1664,
+        "known_for_department": "Production",
+        "name": "Georges Charlot",
+        "original_name": "Georges Charlot",
+        "popularity": 0.0379,
+        "profile_path": null,
+        "credit_id": "5e250924a894d600123af702",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3528,
+        "known_for_department": "Sound",
+        "name": "René Levert",
+        "original_name": "René Levert",
+        "popularity": 0.1826,
+        "profile_path": null,
+        "credit_id": "5e250931a894d600153ad9a9",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2406367,
+        "known_for_department": "Sound",
+        "name": "André Girard",
+        "original_name": "André Girard",
+        "popularity": 0.1165,
+        "profile_path": null,
+        "credit_id": "5e250944a894d600123af74c",
+        "department": "Sound",
+        "job": "Conductor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3583,
+        "known_for_department": "Writing",
+        "name": "Suzanne Schiffman",
+        "original_name": "Suzanne Schiffman",
+        "popularity": 0.2029,
+        "profile_path": "/l3hKqjRlKopffuyPXW4csZtHmWT.jpg",
+        "credit_id": "5e2509521bf2660012fc28c6",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "PL",
+        "title": "Panna mloda w zalobie",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "KR",
+        "title": "비련의 신부",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "NL",
+        "title": "De Bruid Droeg Zwart",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "RU",
+        "title": "Невеста была в чёрном",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "RU",
+        "title": "Новобрачная была в чёрном",
+        "type": ""
+      }
+    ]
+  }
+}

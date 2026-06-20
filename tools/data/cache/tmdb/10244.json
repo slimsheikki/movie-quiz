@@ -1,0 +1,444 @@
+{
+  "adult": false,
+  "backdrop_path": "/cnSTQxH0wdGbAVdJiiQTivwRkRr.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "",
+  "id": 10244,
+  "imdb_id": "tt0065808",
+  "origin_country": [
+    "DE"
+  ],
+  "original_language": "de",
+  "original_title": "Götter der Pest",
+  "overview": "After his release from prison, ex-convict Franz Walsch finds his way back into the Munich criminal underworld. His attentions focus upon two women, Joanna and Margarethe, as well as upon Günther, his friend who earlier shot his brother.",
+  "popularity": 0.375,
+  "poster_path": "/rNdUc21wxttgRQsuGMtgH3NnxSB.jpg",
+  "production_companies": [
+    {
+      "id": 2277,
+      "logo_path": null,
+      "name": "Antiteater-X-Film",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "release_date": "1970-07-24",
+  "revenue": 0,
+  "runtime": 91,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Gods of the Plague",
+  "video": false,
+  "vote_average": 5.597,
+  "vote_count": 31,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 23668,
+        "known_for_department": "Acting",
+        "name": "Harry Baer",
+        "original_name": "Harry Baer",
+        "popularity": 0.4433,
+        "profile_path": "/vTuAZ6bZyi7BUs9G1cZLbQR0s7U.jpg",
+        "cast_id": 7,
+        "character": "Franz",
+        "credit_id": "52fe43489251416c7500a76d",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3734,
+        "known_for_department": "Acting",
+        "name": "Hanna Schygulla",
+        "original_name": "Hanna Schygulla",
+        "popularity": 0.7298,
+        "profile_path": "/hAZVxNCVzYBq3ToWzE01LXK6Oum.jpg",
+        "cast_id": 8,
+        "character": "Joanna",
+        "credit_id": "52fe43489251416c7500a771",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 39298,
+        "known_for_department": "Directing",
+        "name": "Margarethe von Trotta",
+        "original_name": "Margarethe von Trotta",
+        "popularity": 0.4496,
+        "profile_path": "/rxFG8ZBtXRt0iRzMKiFOq579GD.jpg",
+        "cast_id": 9,
+        "character": "Margarethe",
+        "credit_id": "52fe43489251416c7500a775",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 68116,
+        "known_for_department": "Acting",
+        "name": "Carla Egerer",
+        "original_name": "Carla Egerer",
+        "popularity": 0.1358,
+        "profile_path": null,
+        "cast_id": 11,
+        "character": "Carla",
+        "credit_id": "52fe43489251416c7500a779",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 45195,
+        "known_for_department": "Acting",
+        "name": "Ingrid Caven",
+        "original_name": "Ingrid Caven",
+        "popularity": 0.4806,
+        "profile_path": "/py0XImGnp27PIWYAMWIyNP78X5K.jpg",
+        "cast_id": 12,
+        "character": "Magdalene Fuller",
+        "credit_id": "52fe43489251416c7500a77d",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 53418,
+        "known_for_department": "Acting",
+        "name": "Lilith Ungerer",
+        "original_name": "Lilith Ungerer",
+        "popularity": 0.1813,
+        "profile_path": "/xVecPY6Xp5rj7G3WtZ5NLV7syhq.jpg",
+        "cast_id": 13,
+        "character": "Mädchen im ersten Café",
+        "credit_id": "52fe43489251416c7500a781",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2729,
+        "known_for_department": "Acting",
+        "name": "Irm Hermann",
+        "original_name": "Irm Hermann",
+        "popularity": 0.4883,
+        "profile_path": "/4NzeDGGAqq0Aw8QpqTuOAu7DkeN.jpg",
+        "cast_id": 14,
+        "character": "Barkeeper",
+        "credit_id": "52fe43489251416c7500a785",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2725,
+        "known_for_department": "Directing",
+        "name": "Rainer Werner Fassbinder",
+        "original_name": "Rainer Werner Fassbinder",
+        "popularity": 0.9984,
+        "profile_path": "/uZFSBv6Q4ZSwZr8wfLobBCiiC14.jpg",
+        "cast_id": 15,
+        "character": "Pornokunde",
+        "credit_id": "52fe43489251416c7500a789",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 68117,
+        "known_for_department": "Acting",
+        "name": "Yaak Karsunke",
+        "original_name": "Yaak Karsunke",
+        "popularity": 0.0743,
+        "profile_path": null,
+        "cast_id": 16,
+        "character": "Kommissar",
+        "credit_id": "52fe43489251416c7500a78d",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 68118,
+        "known_for_department": "Acting",
+        "name": "Micha Cochina",
+        "original_name": "Micha Cochina",
+        "popularity": 0.0311,
+        "profile_path": null,
+        "cast_id": 17,
+        "character": "Joe",
+        "credit_id": "52fe43489251416c7500a791",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2740,
+        "known_for_department": "Acting",
+        "name": "Lilo Pempeit",
+        "original_name": "Lilo Pempeit",
+        "popularity": 0.1889,
+        "profile_path": "/cKTUKW1TLHqi86hgNMRwiii8eLQ.jpg",
+        "cast_id": 18,
+        "character": "Mutter",
+        "credit_id": "52fe43489251416c7500a795",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 68120,
+        "known_for_department": "Acting",
+        "name": "Marian Seidowsky",
+        "original_name": "Marian Seidowsky",
+        "popularity": 0.0687,
+        "profile_path": null,
+        "cast_id": 19,
+        "character": "Marian",
+        "credit_id": "52fe43489251416c7500a799",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 68121,
+        "known_for_department": "Acting",
+        "name": "Jan George",
+        "original_name": "Jan George",
+        "popularity": 0.0466,
+        "profile_path": null,
+        "cast_id": 20,
+        "character": "Inspektor",
+        "credit_id": "52fe43489251416c7500a79d",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 26330,
+        "known_for_department": "Acting",
+        "name": "Katrin Schaake",
+        "original_name": "Katrin Schaake",
+        "popularity": 0.3859,
+        "profile_path": "/soh4FzVHmnYSQnGjeID9QXAxrjq.jpg",
+        "cast_id": 21,
+        "character": "Wirtin im zweiten Café",
+        "credit_id": "52fe43489251416c7500a7a1",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 32863,
+        "known_for_department": "Acting",
+        "name": "Günther Kaufmann",
+        "original_name": "Günther Kaufmann",
+        "popularity": 0.412,
+        "profile_path": "/lRbiLa150KS13aRom2NI78Pd8YC.jpg",
+        "cast_id": 22,
+        "character": "Günter",
+        "credit_id": "52fe43489251416c7500a7a5",
+        "order": 14
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3767,
+        "known_for_department": "Sound",
+        "name": "Peer Raben",
+        "original_name": "Peer Raben",
+        "popularity": 0.2132,
+        "profile_path": "/c00b1PFJ39wD4YYwSLwzy4LJOtH.jpg",
+        "credit_id": "52fe43489251416c7500a763",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2725,
+        "known_for_department": "Directing",
+        "name": "Rainer Werner Fassbinder",
+        "original_name": "Rainer Werner Fassbinder",
+        "popularity": 0.9984,
+        "profile_path": "/uZFSBv6Q4ZSwZr8wfLobBCiiC14.jpg",
+        "credit_id": "52fe43489251416c7500a769",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 21997,
+        "known_for_department": "Acting",
+        "name": "Kurt Raab",
+        "original_name": "Kurt Raab",
+        "popularity": 0.4919,
+        "profile_path": "/k3CjKFY5nT4WIKhC96W1S87j36z.jpg",
+        "credit_id": "52fe43489251416c7500a75d",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2725,
+        "known_for_department": "Directing",
+        "name": "Rainer Werner Fassbinder",
+        "original_name": "Rainer Werner Fassbinder",
+        "popularity": 0.9984,
+        "profile_path": "/uZFSBv6Q4ZSwZr8wfLobBCiiC14.jpg",
+        "credit_id": "52fe43489251416c7500a74b",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2725,
+        "known_for_department": "Directing",
+        "name": "Rainer Werner Fassbinder",
+        "original_name": "Rainer Werner Fassbinder",
+        "popularity": 0.9984,
+        "profile_path": "/uZFSBv6Q4ZSwZr8wfLobBCiiC14.jpg",
+        "credit_id": "52fe43489251416c7500a751",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 9935,
+        "known_for_department": "Production",
+        "name": "Michael Fengler",
+        "original_name": "Michael Fengler",
+        "popularity": 0.2389,
+        "profile_path": "/zMgq5GqolC0eIIeVYRGu83rnSVE.jpg",
+        "credit_id": "5660abe4c3a36875f10046ec",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1359067,
+        "known_for_department": "Production",
+        "name": "Christian Hohoff",
+        "original_name": "Christian Hohoff",
+        "popularity": 0.17,
+        "profile_path": null,
+        "credit_id": "5660ac15c3a36875ed00420c",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3767,
+        "known_for_department": "Sound",
+        "name": "Peer Raben",
+        "original_name": "Peer Raben",
+        "popularity": 0.2132,
+        "profile_path": "/c00b1PFJ39wD4YYwSLwzy4LJOtH.jpg",
+        "credit_id": "5660ac1d92514122040034ea",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 10616,
+        "known_for_department": "Camera",
+        "name": "Dietrich Lohmann",
+        "original_name": "Dietrich Lohmann",
+        "popularity": 0.1801,
+        "profile_path": null,
+        "credit_id": "5660abf7c3a36875ed004207",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 21997,
+        "known_for_department": "Acting",
+        "name": "Kurt Raab",
+        "original_name": "Kurt Raab",
+        "popularity": 0.4919,
+        "profile_path": "/k3CjKFY5nT4WIKhC96W1S87j36z.jpg",
+        "credit_id": "5660ac24c3a36875e20046d4",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2725,
+        "known_for_department": "Directing",
+        "name": "Rainer Werner Fassbinder",
+        "original_name": "Rainer Werner Fassbinder",
+        "popularity": 0.9984,
+        "profile_path": "/uZFSBv6Q4ZSwZr8wfLobBCiiC14.jpg",
+        "credit_id": "5660abeb9251417918004372",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1103709,
+        "known_for_department": "Sound",
+        "name": "Gottfried Hüngsberg",
+        "original_name": "Gottfried Hüngsberg",
+        "popularity": 0.0466,
+        "profile_path": null,
+        "credit_id": "5a97eec592514128b000f03c",
+        "department": "Sound",
+        "job": "Sound Designer"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "AU",
+        "title": "Gods of the Plague",
+        "type": ""
+      }
+    ]
+  }
+}

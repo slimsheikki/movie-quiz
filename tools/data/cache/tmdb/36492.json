@@ -1,0 +1,619 @@
+{
+  "adult": false,
+  "backdrop_path": "/1d50kGSMP8xZiyV1IpJbFBczMos.jpg",
+  "belongs_to_collection": null,
+  "budget": 5000000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 36492,
+  "imdb_id": "tt0066892",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Carnal Knowledge",
+  "overview": "Two lifelong friends navigate complex sexual encounters and emotional entanglements, wrestling with societal norms and personal desires.",
+  "popularity": 1.5803,
+  "poster_path": "/l7e1qP8Mq97W1Wg14FNnbz1OxmG.jpg",
+  "production_companies": [
+    {
+      "id": 494,
+      "logo_path": "/ioc65azmsAeL1XQN4dFnrpdJoMO.png",
+      "name": "AVCO Embassy Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1971-06-30",
+  "revenue": 28623900,
+  "runtime": 98,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Its time has come.",
+  "title": "Carnal Knowledge",
+  "video": false,
+  "vote_average": 6.578,
+  "vote_count": 225,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 514,
+        "known_for_department": "Acting",
+        "name": "Jack Nicholson",
+        "original_name": "Jack Nicholson",
+        "popularity": 2.1966,
+        "profile_path": "/hBHcQIEa6P48HQAlLZkh0eKSSkG.jpg",
+        "cast_id": 1,
+        "character": "Jonathan",
+        "credit_id": "52fe45ed9251416c9104332f",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 11850,
+        "known_for_department": "Acting",
+        "name": "Candice Bergen",
+        "original_name": "Candice Bergen",
+        "popularity": 2.1191,
+        "profile_path": "/yDthvXPRkcwSVcPj9QZz3Z7ZH5B.jpg",
+        "cast_id": 2,
+        "character": "Susan",
+        "credit_id": "52fe45ed9251416c91043333",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 64928,
+        "known_for_department": "Acting",
+        "name": "Art Garfunkel",
+        "original_name": "Art Garfunkel",
+        "popularity": 0.5267,
+        "profile_path": "/sNssWMf5FyPmr0Wt9ZYmMemAqsF.jpg",
+        "cast_id": 3,
+        "character": "Sandy",
+        "credit_id": "52fe45ed9251416c91043337",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 13567,
+        "known_for_department": "Acting",
+        "name": "Ann-Margret",
+        "original_name": "Ann-Margret",
+        "popularity": 1.606,
+        "profile_path": "/z20lA2EyYbLcZn5GV1deMQDUCEc.jpg",
+        "cast_id": 4,
+        "character": "Bobbie",
+        "credit_id": "52fe45ed9251416c9104333b",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 13299,
+        "known_for_department": "Acting",
+        "name": "Rita Moreno",
+        "original_name": "Rita Moreno",
+        "popularity": 1.3082,
+        "profile_path": "/zB0M77jr7tmsmWHEr2bWO2Xq66L.jpg",
+        "cast_id": 7,
+        "character": "Louise",
+        "credit_id": "52fe45ed9251416c9104334b",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1400215,
+        "known_for_department": "Acting",
+        "name": "Cynthia O'Neal",
+        "original_name": "Cynthia O'Neal",
+        "popularity": 0.136,
+        "profile_path": null,
+        "cast_id": 9,
+        "character": "Cindy",
+        "credit_id": "5490c391c3a368228300005f",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 10556,
+        "known_for_department": "Acting",
+        "name": "Carol Kane",
+        "original_name": "Carol Kane",
+        "popularity": 2.0447,
+        "profile_path": "/dm3Ci8XuVYZBqqlYtaLgth94VUe.jpg",
+        "cast_id": 8,
+        "character": "Jennifer",
+        "credit_id": "52fe45ed9251416c9104334f",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1423321,
+        "known_for_department": "Acting",
+        "name": "Sheri Jackson",
+        "original_name": "Sheri Jackson",
+        "popularity": 0.1803,
+        "profile_path": null,
+        "cast_id": 13,
+        "character": "Mama",
+        "credit_id": "54d3380fc3a3686abf002945",
+        "order": 7
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5342,
+        "known_for_department": "Directing",
+        "name": "Mike Nichols",
+        "original_name": "Mike Nichols",
+        "popularity": 0.9741,
+        "profile_path": "/eJgJEVil7iOJ9sTAXLCVRKfeKKM.jpg",
+        "credit_id": "52fe45ed9251416c91043341",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5342,
+        "known_for_department": "Directing",
+        "name": "Mike Nichols",
+        "original_name": "Mike Nichols",
+        "popularity": 0.9741,
+        "profile_path": "/eJgJEVil7iOJ9sTAXLCVRKfeKKM.jpg",
+        "credit_id": "5490c3b3c3a3682283000068",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 15131,
+        "known_for_department": "Camera",
+        "name": "Giuseppe Rotunno",
+        "original_name": "Giuseppe Rotunno",
+        "popularity": 0.1917,
+        "profile_path": "/wr6CxoAWe52wdLeHF8hqp3hJynd.jpg",
+        "credit_id": "569cf9459251415e64003fbd",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 18376,
+        "known_for_department": "Directing",
+        "name": "Meta Rebner",
+        "original_name": "Meta Rebner",
+        "popularity": 0.0829,
+        "profile_path": null,
+        "credit_id": "56a93d8cc3a36872db001e42",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 12020,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Anthea Sylbert",
+        "original_name": "Anthea Sylbert",
+        "popularity": 0.1221,
+        "profile_path": null,
+        "credit_id": "56a93cdc9251417db9001d86",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 8339,
+        "known_for_department": "Art",
+        "name": "George R. Nelson",
+        "original_name": "George R. Nelson",
+        "popularity": 0.1633,
+        "profile_path": null,
+        "credit_id": "56a93ce8c3a36872db001e2e",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 19778,
+        "known_for_department": "Art",
+        "name": "Robert Luthardt",
+        "original_name": "Robert Luthardt",
+        "popularity": 0.1451,
+        "profile_path": null,
+        "credit_id": "56a93ca7c3a36872e1001e8f",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3105,
+        "known_for_department": "Sound",
+        "name": "Richard Portman",
+        "original_name": "Richard Portman",
+        "popularity": 0.5553,
+        "profile_path": null,
+        "credit_id": "6636d06494d8a8012b32bb69",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5166,
+        "known_for_department": "Editing",
+        "name": "Stu Linder",
+        "original_name": "Stu Linder",
+        "popularity": 0.2162,
+        "profile_path": null,
+        "credit_id": "6636d102b2681f012af33758",
+        "department": "Editing",
+        "job": "Editorial Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 12015,
+        "known_for_department": "Editing",
+        "name": "Sam O'Steen",
+        "original_name": "Sam O'Steen",
+        "popularity": 0.1756,
+        "profile_path": null,
+        "credit_id": "5ac2cc40c3a3682d33026f90",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 13867,
+        "known_for_department": "Sound",
+        "name": "Larry Jost",
+        "original_name": "Larry Jost",
+        "popularity": 0.244,
+        "profile_path": null,
+        "credit_id": "5e4bdc522866fa00149bfa51",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3777,
+        "known_for_department": "Production",
+        "name": "Joseph E. Levine",
+        "original_name": "Joseph E. Levine",
+        "popularity": 0.1141,
+        "profile_path": "/kgsFpaI2HSkYUviLONIs3yF22TX.jpg",
+        "credit_id": "5e4bdb661e9225001dc6c168",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1163642,
+        "known_for_department": "Camera",
+        "name": "Giuseppe Maccari",
+        "original_name": "Giuseppe Maccari",
+        "popularity": 0.1695,
+        "profile_path": null,
+        "credit_id": "5e4bdc992866fa00169c1597",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1753827,
+        "known_for_department": "Lighting",
+        "name": "Rodolfo Bramucci",
+        "original_name": "Rodolfo Bramucci",
+        "popularity": 0.0387,
+        "profile_path": null,
+        "credit_id": "5e4bdc8e35811d00174cf5ee",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 12993,
+        "known_for_department": "Production",
+        "name": "Tim Zinnemann",
+        "original_name": "Tim Zinnemann",
+        "popularity": 0.2788,
+        "profile_path": null,
+        "credit_id": "5e4bdc3035811d00174cf56c",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1762461,
+        "known_for_department": "Camera",
+        "name": "Clyde Hart",
+        "original_name": "Clyde Hart",
+        "popularity": 0.1469,
+        "profile_path": null,
+        "credit_id": "5e4bdc7a35811d00194cb0ac",
+        "department": "Camera",
+        "job": "Key Grip"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2357941,
+        "known_for_department": "Art",
+        "name": "Robert Schultz",
+        "original_name": "Robert Schultz",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "5e4bdc4335811d00174cf57e",
+        "department": "Art",
+        "job": "Property Master"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1298944,
+        "known_for_department": "Camera",
+        "name": "Piero Servo",
+        "original_name": "Piero Servo",
+        "popularity": 0.2588,
+        "profile_path": null,
+        "credit_id": "5e4bdca59b86160011667dea",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1586040,
+        "known_for_department": "Production",
+        "name": "Clive Reed",
+        "original_name": "Clive Reed",
+        "popularity": 0.1031,
+        "profile_path": null,
+        "credit_id": "5e4bdb749b86160011667a6a",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1461646,
+        "known_for_department": "Production",
+        "name": "Joe L. Cramer",
+        "original_name": "Joe L. Cramer",
+        "popularity": 0.047,
+        "profile_path": null,
+        "credit_id": "5e4bdc229b86160011667c93",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 51841,
+        "known_for_department": "Camera",
+        "name": "Mary Ellen Mark",
+        "original_name": "Mary Ellen Mark",
+        "popularity": 0.1048,
+        "profile_path": "/8xLyvZX5RpUwfCWI4OsvQAexVOr.jpg",
+        "credit_id": "5e4bdc8335811d00194cb0de",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1655112,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Lorraine Roberson",
+        "original_name": "Lorraine Roberson",
+        "popularity": 0.0877,
+        "profile_path": null,
+        "credit_id": "5e52dbb0a93d2500174b2940",
+        "department": "Costume & Make-Up",
+        "job": "Hair Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 14681,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Sydney Guilaroff",
+        "original_name": "Sydney Guilaroff",
+        "popularity": 0.4528,
+        "profile_path": "/14O60bqcGCLwoYAbTzQJLAHohwN.jpg",
+        "credit_id": "5e52db9ba76ac50016a5619a",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2547956,
+        "known_for_department": "Crew",
+        "name": "Peter Borkent",
+        "original_name": "Peter Borkent",
+        "popularity": 0.1109,
+        "profile_path": null,
+        "credit_id": "5e52dc68a93d2500134b5a08",
+        "department": "Crew",
+        "job": "Driver"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3777,
+        "known_for_department": "Production",
+        "name": "Joseph E. Levine",
+        "original_name": "Joseph E. Levine",
+        "popularity": 0.1141,
+        "profile_path": "/kgsFpaI2HSkYUviLONIs3yF22TX.jpg",
+        "credit_id": "5e52dc76a76ac50016a5630f",
+        "department": "Crew",
+        "job": "Presenter"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 74811,
+        "known_for_department": "Sound",
+        "name": "Dan Wallin",
+        "original_name": "Dan Wallin",
+        "popularity": 0.3587,
+        "profile_path": null,
+        "credit_id": "5e52dc4ef48b340015718abc",
+        "department": "Sound",
+        "job": "Scoring Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1409008,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Charles H. Schram",
+        "original_name": "Charles H. Schram",
+        "popularity": 0.1492,
+        "profile_path": "/fdY09ub1rX0yYh8qcPrWtQurpfi.jpg",
+        "credit_id": "5e52dbc9d2c0c10013a31962",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 69051,
+        "known_for_department": "Writing",
+        "name": "Jules Feiffer",
+        "original_name": "Jules Feiffer",
+        "popularity": 0.2919,
+        "profile_path": null,
+        "credit_id": "698a7e2732d85b0e8f822e06",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 12017,
+        "known_for_department": "Art",
+        "name": "Richard Sylbert",
+        "original_name": "Richard Sylbert",
+        "popularity": 0.2267,
+        "profile_path": null,
+        "credit_id": "698a7e2999301e09e9822e2f",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 75783,
+        "known_for_department": "Production",
+        "name": "Gordon Arnell",
+        "original_name": "Gordon Arnell",
+        "popularity": 0.1019,
+        "profile_path": null,
+        "credit_id": "6999711be1a8593cd06a2f05",
+        "department": "Production",
+        "job": "Publicist"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "DE",
+        "title": "Wie bitte wär's mit Liebe?",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "DE",
+        "title": "Carnal Knowledge - Die Kunst zu lieben",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "RU",
+        "title": "Познание плоти",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "UA",
+        "title": "Пізнання плоті",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "IT",
+        "title": "Conoscenza carnale",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "FR",
+        "title": "Ce plaisir qu'on dit charnel",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "PL",
+        "title": "Porozmawiajmy o kobietach",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "SE",
+        "title": "Köttets lust",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "DE",
+        "title": "Der obszöne Vogel der Lust",
+        "type": ""
+      }
+    ]
+  }
+}

@@ -1,0 +1,498 @@
+{
+  "adult": false,
+  "backdrop_path": "/bmzxl2sL2TARJCeFagnXDsUFEpc.jpg",
+  "belongs_to_collection": null,
+  "budget": 75000,
+  "genres": [
+    {
+      "id": 37,
+      "name": "Western"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 42701,
+  "imdb_id": "tt0062262",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Shooting",
+  "overview": "Two miners agree to guide a mysterious woman, who has appeared in their camp from nowhere, to a nearby town; but soon, because of her erratic behavior, they begin to suspect that her true purpose is quite different.",
+  "popularity": 0.9429,
+  "poster_path": "/oaySRq49jlCtoYjhoR7IhSga6Vm.jpg",
+  "production_companies": [
+    {
+      "id": 38111,
+      "logo_path": null,
+      "name": "Proteus Films",
+      "origin_country": ""
+    },
+    {
+      "id": 34281,
+      "logo_path": null,
+      "name": "Santa Clara Productions",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1966-06-02",
+  "revenue": 0,
+  "runtime": 82,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Suspenseful desert pursuit in the “High Noon” tradition",
+  "title": "The Shooting",
+  "video": false,
+  "vote_average": 6.241,
+  "vote_count": 133,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 8255,
+        "known_for_department": "Acting",
+        "name": "Warren Oates",
+        "original_name": "Warren Oates",
+        "popularity": 1.5367,
+        "profile_path": "/nwBandbfSoaafAYI9S1qGMCBfl4.jpg",
+        "cast_id": 13,
+        "character": "Willett Gashade",
+        "credit_id": "52fe4613c3a36847f80eb2a3",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 34660,
+        "known_for_department": "Acting",
+        "name": "Will Hutchins",
+        "original_name": "Will Hutchins",
+        "popularity": 1.5449,
+        "profile_path": "/py2zVDwdgkgx8Zm4luigZ7NkkDj.jpg",
+        "cast_id": 10,
+        "character": "Coley Boyard",
+        "credit_id": "52fe4613c3a36847f80eb297",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 26142,
+        "known_for_department": "Acting",
+        "name": "Millie Perkins",
+        "original_name": "Millie Perkins",
+        "popularity": 0.7347,
+        "profile_path": "/go1PNFwnfuUuMcVLSKpua2dUIRk.jpg",
+        "cast_id": 11,
+        "character": "Woman",
+        "credit_id": "52fe4613c3a36847f80eb29b",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 514,
+        "known_for_department": "Acting",
+        "name": "Jack Nicholson",
+        "original_name": "Jack Nicholson",
+        "popularity": 2.1966,
+        "profile_path": "/hBHcQIEa6P48HQAlLZkh0eKSSkG.jpg",
+        "cast_id": 12,
+        "character": "Billy Spear",
+        "credit_id": "52fe4613c3a36847f80eb29f",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 131311,
+        "known_for_department": "Writing",
+        "name": "Charles Eastman",
+        "original_name": "Charles Eastman",
+        "popularity": 0.1725,
+        "profile_path": null,
+        "cast_id": 14,
+        "character": "Bearded Man",
+        "credit_id": "52fe4613c3a36847f80eb2a7",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 544142,
+        "known_for_department": "Acting",
+        "name": "Guy El Tsosie",
+        "original_name": "Guy El Tsosie",
+        "popularity": 0.0728,
+        "profile_path": null,
+        "cast_id": 15,
+        "character": "Indian",
+        "credit_id": "52fe4613c3a36847f80eb2ab",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 98633,
+        "known_for_department": "Acting",
+        "name": "Brandon Carroll",
+        "original_name": "Brandon Carroll",
+        "popularity": 0.057,
+        "profile_path": null,
+        "cast_id": 16,
+        "character": "Sheriff",
+        "credit_id": "52fe4613c3a36847f80eb2af",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 544143,
+        "known_for_department": "Acting",
+        "name": "B. J. Merholz",
+        "original_name": "B. J. Merholz",
+        "popularity": 0.1132,
+        "profile_path": null,
+        "cast_id": 17,
+        "character": "Leland Drum",
+        "credit_id": "52fe4613c3a36847f80eb2b3",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 544144,
+        "known_for_department": "Art",
+        "name": "Wally Moon",
+        "original_name": "Wally Moon",
+        "popularity": 0.0865,
+        "profile_path": null,
+        "cast_id": 18,
+        "character": "Deputy",
+        "credit_id": "52fe4613c3a36847f80eb2b7",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 544145,
+        "known_for_department": "Acting",
+        "name": "William Mackleprang",
+        "original_name": "William Mackleprang",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "cast_id": 19,
+        "character": "Crosstree Townsman #1",
+        "credit_id": "52fe4613c3a36847f80eb2bb",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2350159,
+        "known_for_department": "Acting",
+        "name": "James Campbell",
+        "original_name": "James Campbell",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 24,
+        "character": "Crosstree Townsman #2",
+        "credit_id": "5d16da8d5b4fed001846560c",
+        "order": 10
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 20921,
+        "known_for_department": "Directing",
+        "name": "Monte Hellman",
+        "original_name": "Monte Hellman",
+        "popularity": 0.6364,
+        "profile_path": "/5RIlmlujW02As9Blb8qLa0wxd86.jpg",
+        "credit_id": "52fe4612c3a36847f80eb281",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 102429,
+        "known_for_department": "Production",
+        "name": "Roger Corman",
+        "original_name": "Roger Corman",
+        "popularity": 1.1151,
+        "profile_path": "/m0ApZMol42l8vLV8MLpUSCpyA6n.jpg",
+        "credit_id": "52fe4613c3a36847f80eb293",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 20921,
+        "known_for_department": "Directing",
+        "name": "Monte Hellman",
+        "original_name": "Monte Hellman",
+        "popularity": 0.6364,
+        "profile_path": "/5RIlmlujW02As9Blb8qLa0wxd86.jpg",
+        "credit_id": "52fe4612c3a36847f80eb27b",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 514,
+        "known_for_department": "Acting",
+        "name": "Jack Nicholson",
+        "original_name": "Jack Nicholson",
+        "popularity": 2.1966,
+        "profile_path": "/hBHcQIEa6P48HQAlLZkh0eKSSkG.jpg",
+        "credit_id": "52fe4613c3a36847f80eb287",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 95782,
+        "known_for_department": "Writing",
+        "name": "Carole Eastman",
+        "original_name": "Carole Eastman",
+        "popularity": 0.1704,
+        "profile_path": null,
+        "credit_id": "546254320e0a267be9000147",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 20921,
+        "known_for_department": "Directing",
+        "name": "Monte Hellman",
+        "original_name": "Monte Hellman",
+        "popularity": 0.6364,
+        "profile_path": "/5RIlmlujW02As9Blb8qLa0wxd86.jpg",
+        "credit_id": "5b89f12bc3a36851fa00a688",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1038559,
+        "known_for_department": "Camera",
+        "name": "Gregory Sandor",
+        "original_name": "Gregory Sandor",
+        "popularity": 0.1243,
+        "profile_path": null,
+        "credit_id": "5b89f1240e0a261d7a00a90e",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 544144,
+        "known_for_department": "Art",
+        "name": "Wally Moon",
+        "original_name": "Wally Moon",
+        "popularity": 0.0865,
+        "profile_path": null,
+        "credit_id": "5b89f1530e0a261d6e00c223",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 102650,
+        "known_for_department": "Writing",
+        "name": "John Herman Shaner",
+        "original_name": "John Herman Shaner",
+        "popularity": 0.4235,
+        "profile_path": null,
+        "credit_id": "5d16dc68126ec300210af291",
+        "department": "Production",
+        "job": "Producer's Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 229862,
+        "known_for_department": "Sound",
+        "name": "Richard Markowitz",
+        "original_name": "Richard Markowitz",
+        "popularity": 0.1421,
+        "profile_path": null,
+        "credit_id": "5d16dae9ca0e17001e6ca004",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 14842,
+        "known_for_department": "Sound",
+        "name": "James Nelson",
+        "original_name": "James Nelson",
+        "popularity": 0.3051,
+        "profile_path": null,
+        "credit_id": "5d16db765b4fed0021465459",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2335891,
+        "known_for_department": "Sound",
+        "name": "Frank Murphy",
+        "original_name": "Frank Murphy",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "5d16db4cca0e1700186ca423",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 8955,
+        "known_for_department": "Production",
+        "name": "Paul Lewis",
+        "original_name": "Paul Lewis",
+        "popularity": 0.121,
+        "profile_path": null,
+        "credit_id": "5dcba308cc277c0012df8e5e",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 8955,
+        "known_for_department": "Production",
+        "name": "Paul Lewis",
+        "original_name": "Paul Lewis",
+        "popularity": 0.121,
+        "profile_path": null,
+        "credit_id": "6850769bd255e0a1c5441d82",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 45634,
+        "known_for_department": "Acting",
+        "name": "Gary Kent",
+        "original_name": "Gary Kent",
+        "popularity": 0.4116,
+        "profile_path": "/7iTt5SdmuSBKgzfprYyuHDByvqn.jpg",
+        "credit_id": "685076d462b85070576667f0",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 179188,
+        "known_for_department": "Acting",
+        "name": "Neil Summers",
+        "original_name": "Neil Summers",
+        "popularity": 1.5777,
+        "profile_path": "/2ESnlgBQzWM17KvSao5GrJInd0u.jpg",
+        "credit_id": "685076fa76ba464f4399bce4",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 12401,
+        "known_for_department": "Production",
+        "name": "Gary Kurtz",
+        "original_name": "Gary Kurtz",
+        "popularity": 0.3126,
+        "profile_path": "/q6tgPiNqzEOIYmHxMrpWoUirmmu.jpg",
+        "credit_id": "6850770cd255e0a1c5441d88",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "DE",
+        "title": "Das Schiessen — Nur der Stärkste überlebt",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "BR",
+        "title": "Disparo para Matar",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "BR",
+        "title": "O Tiro Certo",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "FR",
+        "title": "Le Visage de la haine",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "PT",
+        "title": "Duelo no Deserto",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "US",
+        "title": "The Epitaph",
+        "type": "working title"
+      },
+      {
+        "iso_3166_1": "PL",
+        "title": "W poszukiwaniu zemsty",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "RO",
+        "title": "Împuşcătura",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "AR",
+        "title": "El disparo",
+        "type": ""
+      }
+    ]
+  }
+}

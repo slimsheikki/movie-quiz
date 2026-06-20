@@ -1,0 +1,417 @@
+{
+  "adult": false,
+  "backdrop_path": "/EGIbG1zVCdlQnyDFkSwScyMzUo.jpg",
+  "belongs_to_collection": null,
+  "budget": 66500,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "",
+  "id": 27636,
+  "imdb_id": "tt0057078",
+  "origin_country": [
+    "FR",
+    "IT"
+  ],
+  "original_language": "it",
+  "original_title": "La frusta e il corpo",
+  "overview": "Disowned in the past by his father, Kurt Menliff, a cruel and sadistic nobleman, returns to the family castle to reclaim his inheritance.",
+  "popularity": 0.5155,
+  "poster_path": "/lydaya4kSCMpev4UwrqrM05fa9k.jpg",
+  "production_companies": [
+    {
+      "id": 3920,
+      "logo_path": null,
+      "name": "Leone Film",
+      "origin_country": "IT"
+    },
+    {
+      "id": 4842,
+      "logo_path": null,
+      "name": "Francinor",
+      "origin_country": "FR"
+    },
+    {
+      "id": 19102,
+      "logo_path": null,
+      "name": "PIP",
+      "origin_country": "FR"
+    },
+    {
+      "id": 122823,
+      "logo_path": null,
+      "name": "Vox Film",
+      "origin_country": "IT"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    }
+  ],
+  "release_date": "1963-08-29",
+  "revenue": 0,
+  "runtime": 87,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Evil horror!!!",
+  "title": "The Whip and the Body",
+  "video": false,
+  "vote_average": 6.377,
+  "vote_count": 159,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 39754,
+        "known_for_department": "Acting",
+        "name": "Daliah Lavi",
+        "original_name": "Daliah Lavi",
+        "popularity": 0.6343,
+        "profile_path": "/185wZM1WuDkoxiPrVjK8QLjpu2Q.jpg",
+        "cast_id": 14,
+        "character": "Nevenka",
+        "credit_id": "52fe455cc3a368484e0557f1",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 113,
+        "known_for_department": "Acting",
+        "name": "Christopher Lee",
+        "original_name": "Christopher Lee",
+        "popularity": 2.3234,
+        "profile_path": "/dA26fBr3t7mKqjn3OYW6kbD1LXM.jpg",
+        "cast_id": 15,
+        "character": "Kurt Menliff",
+        "credit_id": "52fe455cc3a368484e0557f5",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 37745,
+        "known_for_department": "Acting",
+        "name": "Tony Kendall",
+        "original_name": "Tony Kendall",
+        "popularity": 0.3643,
+        "profile_path": "/rbiwlLTFPN95NKnPRh4BwfCgRRU.jpg",
+        "cast_id": 16,
+        "character": "Cristiano Menliff",
+        "credit_id": "52fe455cc3a368484e0557f9",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5969,
+        "known_for_department": "Acting",
+        "name": "Ida Galli",
+        "original_name": "Ida Galli",
+        "popularity": 0.5827,
+        "profile_path": "/9iUgC8Z10IIxGUd1ozoNcy7zYvp.jpg",
+        "cast_id": 17,
+        "character": "Katia",
+        "credit_id": "52fe455cc3a368484e0557fd",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 54941,
+        "known_for_department": "Acting",
+        "name": "Harriet Medin",
+        "original_name": "Harriet Medin",
+        "popularity": 0.2963,
+        "profile_path": "/7CwP8SQey9wzVLE821qCYfa6irr.jpg",
+        "cast_id": 18,
+        "character": "Giorgia",
+        "credit_id": "52fe455cc3a368484e055801",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 98509,
+        "known_for_department": "Acting",
+        "name": "Gustavo De Nardo",
+        "original_name": "Gustavo De Nardo",
+        "popularity": 0.1017,
+        "profile_path": "/pJaLnWwAhEL4G3VT9pJldlOEzSY.jpg",
+        "cast_id": 19,
+        "character": "Count Menliff",
+        "credit_id": "52fe455cc3a368484e055805",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6784,
+        "known_for_department": "Acting",
+        "name": "Jacques Herlin",
+        "original_name": "Jacques Herlin",
+        "popularity": 0.3471,
+        "profile_path": "/cZmxyy3Il7SefSY8Jfv4ghjr0j5.jpg",
+        "cast_id": 21,
+        "character": "Priest",
+        "credit_id": "52fe455cc3a368484e05580d",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 30900,
+        "known_for_department": "Acting",
+        "name": "Luciano Pigozzi",
+        "original_name": "Luciano Pigozzi",
+        "popularity": 0.5596,
+        "profile_path": "/5PTtLdknAOIPHinNC1C34oh0sFx.jpg",
+        "cast_id": 20,
+        "character": "Losat",
+        "credit_id": "52fe455cc3a368484e055809",
+        "order": 7
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 25826,
+        "known_for_department": "Directing",
+        "name": "Mario Bava",
+        "original_name": "Mario Bava",
+        "popularity": 0.6984,
+        "profile_path": "/vDx5usGSp8Fygmvo4jnepQ4EQRN.jpg",
+        "credit_id": "52fe455cc3a368484e0557b1",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 50818,
+        "known_for_department": "Writing",
+        "name": "Ernesto Gastaldi",
+        "original_name": "Ernesto Gastaldi",
+        "popularity": 0.7305,
+        "profile_path": "/tz0ozsEwJqIOn1YPDcfMl8XXTTC.jpg",
+        "credit_id": "52fe455cc3a368484e0557bd",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 50819,
+        "known_for_department": "Writing",
+        "name": "Ugo Guerra",
+        "original_name": "Ugo Guerra",
+        "popularity": 0.356,
+        "profile_path": null,
+        "credit_id": "52fe455cc3a368484e0557c3",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 21230,
+        "known_for_department": "Production",
+        "name": "Luciano Martino",
+        "original_name": "Luciano Martino",
+        "popularity": 0.3781,
+        "profile_path": "/hbfPn5q6LRXCudSqfoOMLatzz2.jpg",
+        "credit_id": "52fe455cc3a368484e0557c9",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 98483,
+        "known_for_department": "Camera",
+        "name": "Ubaldo Terzano",
+        "original_name": "Ubaldo Terzano",
+        "popularity": 0.1212,
+        "profile_path": null,
+        "credit_id": "52fe455cc3a368484e0557cf",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 29500,
+        "known_for_department": "Sound",
+        "name": "Carlo Rustichelli",
+        "original_name": "Carlo Rustichelli",
+        "popularity": 0.201,
+        "profile_path": "/uZyH8qIupMgsRErHN7RKuAActno.jpg",
+        "credit_id": "52fe455cc3a368484e0557e1",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 98508,
+        "known_for_department": "Art",
+        "name": "Ottavio Scotti",
+        "original_name": "Ottavio Scotti",
+        "popularity": 0.1606,
+        "profile_path": null,
+        "credit_id": "52fe455cc3a368484e0557ed",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 25320,
+        "known_for_department": "Production",
+        "name": "Elio Scardamaglia",
+        "original_name": "Elio Scardamaglia",
+        "popularity": 0.0631,
+        "profile_path": "/ask3kGlEkKI1Ww1pjxEXbovoUwM.jpg",
+        "credit_id": "65112771344a8e0972cdf008",
+        "department": "Production",
+        "job": "General Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 98507,
+        "known_for_department": "Production",
+        "name": "Federico Magnaghi",
+        "original_name": "Federico Magnaghi",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "6511283be8d0b400adbd337b",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 50818,
+        "known_for_department": "Writing",
+        "name": "Ernesto Gastaldi",
+        "original_name": "Ernesto Gastaldi",
+        "popularity": 0.7305,
+        "profile_path": "/tz0ozsEwJqIOn1YPDcfMl8XXTTC.jpg",
+        "credit_id": "6511295026dac100ac094b17",
+        "department": "Writing",
+        "job": "Dialogue"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 21230,
+        "known_for_department": "Production",
+        "name": "Luciano Martino",
+        "original_name": "Luciano Martino",
+        "popularity": 0.3781,
+        "profile_path": "/hbfPn5q6LRXCudSqfoOMLatzz2.jpg",
+        "credit_id": "65112963e1faed00c61734ec",
+        "department": "Writing",
+        "job": "Dialogue"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 50819,
+        "known_for_department": "Writing",
+        "name": "Ugo Guerra",
+        "original_name": "Ugo Guerra",
+        "popularity": 0.356,
+        "profile_path": null,
+        "credit_id": "6511297aa9117f01385389f2",
+        "department": "Writing",
+        "job": "Dialogue"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 31985,
+        "known_for_department": "Editing",
+        "name": "Renato Cinquini",
+        "original_name": "Renato Cinquini",
+        "popularity": 0.1281,
+        "profile_path": null,
+        "credit_id": "53d5b62d0e0a262844005acc",
+        "department": "Editing",
+        "job": "Editor"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "GB",
+        "title": "Night Is the Phantom",
+        "type": "English dubbed version"
+      },
+      {
+        "iso_3166_1": "US",
+        "title": "What?",
+        "type": "English dubbed version"
+      },
+      {
+        "iso_3166_1": "DE",
+        "title": "Der Mörder von Schloß Menliff",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "US",
+        "title": "The Whip and the Flesh",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "BE",
+        "title": "Het gegeseld lichaam",
+        "type": "Flemish title"
+      },
+      {
+        "iso_3166_1": "BE",
+        "title": "Rêves macabres",
+        "type": "Video title"
+      },
+      {
+        "iso_3166_1": "DK",
+        "title": "Pisken og kroppen",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "HU",
+        "title": "A hús és a test",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "US",
+        "title": "What†",
+        "type": "Stylized English title"
+      }
+    ]
+  }
+}

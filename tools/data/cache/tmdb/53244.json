@@ -1,0 +1,623 @@
+{
+  "adult": false,
+  "backdrop_path": "/xHBalaJTvYxbZxIdI2moPMXQ52a.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 53244,
+  "imdb_id": "tt0304678",
+  "origin_country": [
+    "FR",
+    "PT"
+  ],
+  "original_language": "fr",
+  "original_title": "Sex is Comedy",
+  "overview": "A director struggles with a difficult sex scene between a young actor and actress who can't stand one another. Aided by her loyal assistant, she is hell-bent on getting the scene right without compromise.",
+  "popularity": 0.9358,
+  "poster_path": "/twhRxBqPbbbeUNZtvpyQl2PvNPF.jpg",
+  "production_companies": [
+    {
+      "id": 243,
+      "logo_path": null,
+      "name": "CB Films",
+      "origin_country": "FR"
+    },
+    {
+      "id": 11359,
+      "logo_path": "/aqWJRi66t2oMPMmC60CdK9I3WQd.png",
+      "name": "France 2",
+      "origin_country": "FR"
+    },
+    {
+      "id": 94,
+      "logo_path": "/huC7HqorvUThGIrENrbcHmQVUA0.png",
+      "name": "ARTE France Cinéma",
+      "origin_country": "FR"
+    },
+    {
+      "id": 324,
+      "logo_path": null,
+      "name": "Flach Film",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "2002-06-05",
+  "revenue": 0,
+  "runtime": 94,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    },
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Faking it has never been like this.",
+  "title": "Sex Is Comedy",
+  "video": false,
+  "vote_average": 5.9,
+  "vote_count": 56,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 57298,
+        "known_for_department": "Acting",
+        "name": "Anne Parillaud",
+        "original_name": "Anne Parillaud",
+        "popularity": 0.9424,
+        "profile_path": "/jv8ufhXcPc00l0PWkc01CfJoczC.jpg",
+        "cast_id": 3,
+        "character": "Jeanne",
+        "credit_id": "52fe485ac3a36847f816334d",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 136170,
+        "known_for_department": "Acting",
+        "name": "Grégoire Colin",
+        "original_name": "Grégoire Colin",
+        "popularity": 0.6895,
+        "profile_path": "/jtolsceVVsMT1wWi8m8pdtaUE4f.jpg",
+        "cast_id": 4,
+        "character": "The Actor",
+        "credit_id": "52fe485ac3a36847f8163351",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 7706,
+        "known_for_department": "Acting",
+        "name": "Roxane Mesquida",
+        "original_name": "Roxane Mesquida",
+        "popularity": 0.5982,
+        "profile_path": "/zMj3cn2mK7691lg88eIBZK7EVKx.jpg",
+        "cast_id": 6,
+        "character": "The Actress",
+        "credit_id": "52fe485ac3a36847f8163355",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 943199,
+        "known_for_department": "Acting",
+        "name": "Ashley Wanninger",
+        "original_name": "Ashley Wanninger",
+        "popularity": 0.1083,
+        "profile_path": "/tURaZDmKmm5EGoNglnKAYDpovWg.jpg",
+        "cast_id": 7,
+        "character": "Leo",
+        "credit_id": "52fe485ac3a36847f8163359",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 30639,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Dominique Colladant",
+        "original_name": "Dominique Colladant",
+        "popularity": 0.1526,
+        "profile_path": null,
+        "cast_id": 8,
+        "character": "Willy",
+        "credit_id": "52fe485ac3a36847f816335d",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 946714,
+        "known_for_department": "Acting",
+        "name": "Bart Binnema",
+        "original_name": "Bart Binnema",
+        "popularity": 0.1078,
+        "profile_path": null,
+        "cast_id": 9,
+        "character": "Director of Photography",
+        "credit_id": "52fe485ac3a36847f8163361",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1712980,
+        "known_for_department": "Acting",
+        "name": "Elisabete Piecho",
+        "original_name": "Elisabete Piecho",
+        "popularity": 0.1307,
+        "profile_path": "/uBkPMka0waSThjFHscDhYJ1t8b4.jpg",
+        "cast_id": 32,
+        "character": "Continuity Girl",
+        "credit_id": "5ec4bcd56c849200202922b3",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1484302,
+        "known_for_department": "Acting",
+        "name": "Francis Selleck",
+        "original_name": "Francis Selleck",
+        "popularity": 0.113,
+        "profile_path": null,
+        "cast_id": 33,
+        "character": "Production Manager",
+        "credit_id": "5ec4bcdf9979d2002135d3a5",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2645796,
+        "known_for_department": "Acting",
+        "name": "Júlia Fragata",
+        "original_name": "Júlia Fragata",
+        "popularity": 0.0479,
+        "profile_path": null,
+        "cast_id": 34,
+        "character": "The set dresser",
+        "credit_id": "5ec4bcef8e2e000021216900",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1704064,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Ana Lorena",
+        "original_name": "Ana Lorena",
+        "popularity": 0.1033,
+        "profile_path": null,
+        "cast_id": 35,
+        "character": "The make-up artist",
+        "credit_id": "5ec4bd0428723c001f4df9fc",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1125198,
+        "known_for_department": "Sound",
+        "name": "Yves Osmu",
+        "original_name": "Yves Osmu",
+        "popularity": 0.0973,
+        "profile_path": null,
+        "cast_id": 37,
+        "character": "",
+        "credit_id": "6a0bc477df7d16ed5a8faaf3",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1764784,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Claire Monatte",
+        "original_name": "Claire Monatte",
+        "popularity": 0.0557,
+        "profile_path": null,
+        "cast_id": 38,
+        "character": "",
+        "credit_id": "6a0bc4977110af0b0acd10ab",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1398515,
+        "known_for_department": "Lighting",
+        "name": "Arnaldo Junior",
+        "original_name": "Arnaldo Junior",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 39,
+        "character": "",
+        "credit_id": "6a0bc4a58fc38ff2f78fab0c",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1191006,
+        "known_for_department": "Directing",
+        "name": "Bruno Ramos",
+        "original_name": "Bruno Ramos",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 40,
+        "character": "",
+        "credit_id": "6a0bc4f97fbd4e38cd8fab34",
+        "order": 13
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 6295,
+        "known_for_department": "Directing",
+        "name": "Catherine Breillat",
+        "original_name": "Catherine Breillat",
+        "popularity": 0.6517,
+        "profile_path": "/wIJr8XJc7QjTCydM810YCWEK2oD.jpg",
+        "credit_id": "52fe485ac3a36847f8163343",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 6295,
+        "known_for_department": "Directing",
+        "name": "Catherine Breillat",
+        "original_name": "Catherine Breillat",
+        "popularity": 0.6517,
+        "profile_path": "/wIJr8XJc7QjTCydM810YCWEK2oD.jpg",
+        "credit_id": "52fe485ac3a36847f8163349",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 7703,
+        "known_for_department": "Directing",
+        "name": "Michaël Weill",
+        "original_name": "Michaël Weill",
+        "popularity": 0.1179,
+        "profile_path": null,
+        "credit_id": "58b04a35c3a36842fd0024d1",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1086689,
+        "known_for_department": "Editing",
+        "name": "Pedro Marques",
+        "original_name": "Pedro Marques",
+        "popularity": 0.0591,
+        "profile_path": null,
+        "credit_id": "58b04af29251411a5c00e587",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1335416,
+        "known_for_department": "Sound",
+        "name": "Sylvain Lasseur",
+        "original_name": "Sylvain Lasseur",
+        "popularity": 0.1341,
+        "profile_path": null,
+        "credit_id": "58b04bb0c3a3682cf600d89e",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 32230,
+        "known_for_department": "Sound",
+        "name": "Laure Arto",
+        "original_name": "Laure Arto",
+        "popularity": 0.0917,
+        "profile_path": null,
+        "credit_id": "58b04bfec3a3682cd000e398",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1764784,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Claire Monatte",
+        "original_name": "Claire Monatte",
+        "popularity": 0.0557,
+        "profile_path": null,
+        "credit_id": "58b04cf8c3a3682cd000e46f",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1180409,
+        "known_for_department": "Production",
+        "name": "Philippe Delest",
+        "original_name": "Philippe Delest",
+        "popularity": 0.0459,
+        "profile_path": null,
+        "credit_id": "58b04d6ac3a3682cf600da21",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 7701,
+        "known_for_department": "Editing",
+        "name": "Pascale Chavance",
+        "original_name": "Pascale Chavance",
+        "popularity": 0.1116,
+        "profile_path": null,
+        "credit_id": "58b04aa1c3a3682d2400d174",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1125198,
+        "known_for_department": "Sound",
+        "name": "Yves Osmu",
+        "original_name": "Yves Osmu",
+        "popularity": 0.0973,
+        "profile_path": null,
+        "credit_id": "58b04b4e9251411a6700e8cd",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 958089,
+        "known_for_department": "Production",
+        "name": "João Cayatte",
+        "original_name": "João Cayatte",
+        "popularity": 0.0546,
+        "profile_path": null,
+        "credit_id": "58b04cb3c3a3682cd000e432",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 7695,
+        "known_for_department": "Production",
+        "name": "Jean-François Lepetit",
+        "original_name": "Jean-François Lepetit",
+        "popularity": 0.1424,
+        "profile_path": "/ol5wKO7Tn26XgvjVgXjWrlm0LHj.jpg",
+        "credit_id": "58b04d48c3a368431c002640",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 7703,
+        "known_for_department": "Directing",
+        "name": "Michaël Weill",
+        "original_name": "Michaël Weill",
+        "popularity": 0.1179,
+        "profile_path": null,
+        "credit_id": "58b04bc89251411a6700e924",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1704064,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Ana Lorena",
+        "original_name": "Ana Lorena",
+        "popularity": 0.1033,
+        "profile_path": null,
+        "credit_id": "58b04d07c3a3682cd000e484",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 18806,
+        "known_for_department": "Production",
+        "name": "António da Cunha Telles",
+        "original_name": "António da Cunha Telles",
+        "popularity": 0.1763,
+        "profile_path": "/8ZaViDkoATD5rIhhm6FmQxyz0tn.jpg",
+        "credit_id": "58b04d579251411a6700ea6a",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1764783,
+        "known_for_department": "Writing",
+        "name": "Fátima Ribeiro",
+        "original_name": "Fátima Ribeiro",
+        "popularity": 0.0782,
+        "profile_path": null,
+        "credit_id": "58b04ccc9251411a6400eca7",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1733791,
+        "known_for_department": "Sound",
+        "name": "Frédéric Attal",
+        "original_name": "Frédéric Attal",
+        "popularity": 0.155,
+        "profile_path": null,
+        "credit_id": "58b04ba5c3a3682cf600d899",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1764785,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Iracema Machado",
+        "original_name": "Iracema Machado",
+        "popularity": 0.0327,
+        "profile_path": null,
+        "credit_id": "58b04d13c3a3682d1000df50",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1764759,
+        "known_for_department": "Sound",
+        "name": "Yves Levêque",
+        "original_name": "Yves Levêque",
+        "popularity": 0.0798,
+        "profile_path": null,
+        "credit_id": "58b04b67c3a3682d1000de06",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1764786,
+        "known_for_department": "Production",
+        "name": "Cristina Soares",
+        "original_name": "Cristina Soares",
+        "popularity": 0.0637,
+        "profile_path": null,
+        "credit_id": "58b04d749251411a5800f4ce",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1362706,
+        "known_for_department": "Sound",
+        "name": "Filipe Gonçalves",
+        "original_name": "Filipe Gonçalves",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "58b04b74c3a36842fd0025c9",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1764752,
+        "known_for_department": "Directing",
+        "name": "David Santini",
+        "original_name": "David Santini",
+        "popularity": 0.0536,
+        "profile_path": null,
+        "credit_id": "58b04a52c3a3682d1b00ef21",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1764757,
+        "known_for_department": "Editing",
+        "name": "Sylvain Dupuy",
+        "original_name": "Sylvain Dupuy",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "58b04abfc3a36842fd002542",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 30639,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Dominique Colladant",
+        "original_name": "Dominique Colladant",
+        "popularity": 0.1526,
+        "profile_path": null,
+        "credit_id": "640476d3383df200835b5159",
+        "department": "Costume & Make-Up",
+        "job": "Special Effects Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1393921,
+        "known_for_department": "Camera",
+        "name": "Laurent Machuel",
+        "original_name": "Laurent Machuel",
+        "popularity": 0.0955,
+        "profile_path": "/rFxEqmTI5JAWfkbDY7XjAPiqRPT.jpg",
+        "credit_id": "6a0bc59e3e734b0d60409aff",
+        "department": "Camera",
+        "job": "Director of Photography"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "UA",
+        "title": "Секс — комедія",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "UA",
+        "title": "Секс це комедія",
+        "type": ""
+      }
+    ]
+  }
+}

@@ -1,0 +1,610 @@
+{
+  "adult": false,
+  "backdrop_path": "/seXnWUtyLa4fIceoeiUFLAPJ0B0.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ],
+  "homepage": "",
+  "id": 43036,
+  "imdb_id": "tt0054099",
+  "origin_country": [
+    "IT"
+  ],
+  "original_language": "it",
+  "original_title": "Il mulino delle donne di pietra",
+  "overview": "Hans von Arnam travels to a Flemish village to study a strange carousel  located in an old windmill that displays famous murderesses and other notorious women from history. Professor Gregorius Wahl, owner of the windmill, warns Hans to stay away from his mysterious daughter Elfi, in order to keep Hans from discovering the horrible secret shared by the Professor and Elfi's Doctor.",
+  "popularity": 0.6669,
+  "poster_path": "/iUNBJPOr7J8qomqirXfcwtxN34i.jpg",
+  "production_companies": [
+    {
+      "id": 27456,
+      "logo_path": null,
+      "name": "Faros Film",
+      "origin_country": ""
+    },
+    {
+      "id": 36910,
+      "logo_path": null,
+      "name": "C.E.C. Films",
+      "origin_country": ""
+    },
+    {
+      "id": 1671,
+      "logo_path": null,
+      "name": "Explorer Film '58",
+      "origin_country": "IT"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    }
+  ],
+  "release_date": "1960-08-30",
+  "revenue": 0,
+  "runtime": 95,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Why do warm-blooded beauties suddenly turn to stone?!",
+  "title": "Mill of the Stone Women",
+  "video": false,
+  "vote_average": 6.03,
+  "vote_count": 82,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 33543,
+        "known_for_department": "Acting",
+        "name": "Pierre Brice",
+        "original_name": "Pierre Brice",
+        "popularity": 0.735,
+        "profile_path": "/fJGOEJ6udYxiRFXQIoUqdoTz1Yw.jpg",
+        "cast_id": 1,
+        "character": "Hans von Arnam",
+        "credit_id": "52fe4628c3a36847f80efee1",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 57497,
+        "known_for_department": "Acting",
+        "name": "Scilla Gabel",
+        "original_name": "Scilla Gabel",
+        "popularity": 0.4906,
+        "profile_path": "/eDhCJ0doSLLr0LkXyl4ouRVQLGW.jpg",
+        "cast_id": 4,
+        "character": "Elfie Wahl",
+        "credit_id": "52fe4628c3a36847f80efee9",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 24931,
+        "known_for_department": "Acting",
+        "name": "Dany Carrel",
+        "original_name": "Dany Carrel",
+        "popularity": 0.4599,
+        "profile_path": "/y65ZzO4n42oNNSfgpqmOmf0dzDN.jpg",
+        "cast_id": 3,
+        "character": "Liselotte Kornheim",
+        "credit_id": "52fe4628c3a36847f80efee5",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 32555,
+        "known_for_department": "Acting",
+        "name": "Herbert A. E. Böhme",
+        "original_name": "Herbert A. E. Böhme",
+        "popularity": 0.1693,
+        "profile_path": "/3lbCjshX1n7Dxd0P7nBrRn7mrvr.jpg",
+        "cast_id": 7,
+        "character": "Prof. Gregorius Wahl",
+        "credit_id": "52fe4628c3a36847f80efef7",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 14121,
+        "known_for_department": "Acting",
+        "name": "Wolfgang Preiss",
+        "original_name": "Wolfgang Preiss",
+        "popularity": 0.6626,
+        "profile_path": "/zVc7y8pBzjmcAi478z79r7qJLSt.jpg",
+        "cast_id": 5,
+        "character": "Doctor Loren Bolem",
+        "credit_id": "52fe4628c3a36847f80efeed",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 31897,
+        "known_for_department": "Acting",
+        "name": "Marco Guglielmi",
+        "original_name": "Marco Guglielmi",
+        "popularity": 0.3916,
+        "profile_path": "/3yykbxhQVZYGgykw1D7DScfCnI4.jpg",
+        "cast_id": 16,
+        "character": "Ralf",
+        "credit_id": "52fe4628c3a36847f80eff19",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1050319,
+        "known_for_department": "Acting",
+        "name": "Olga Solbelli",
+        "original_name": "Olga Solbelli",
+        "popularity": 0.1722,
+        "profile_path": "/5N2Cuy7ze0Y729KSX05Vyn7JF0Z.jpg",
+        "cast_id": 10,
+        "character": "Selma",
+        "credit_id": "52fe4628c3a36847f80efefb",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 32378,
+        "known_for_department": "Acting",
+        "name": "Liana Orfei",
+        "original_name": "Liana Orfei",
+        "popularity": 0.4618,
+        "profile_path": "/4VtRGG2OiwmuP1gFKtelpXNjBRJ.jpg",
+        "cast_id": 15,
+        "character": "Annelore",
+        "credit_id": "52fe4628c3a36847f80eff15",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1050320,
+        "known_for_department": "Acting",
+        "name": "Alberto Archetti",
+        "original_name": "Alberto Archetti",
+        "popularity": 0.0716,
+        "profile_path": null,
+        "cast_id": 11,
+        "character": "Konrad",
+        "credit_id": "52fe4628c3a36847f80efeff",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 54941,
+        "known_for_department": "Acting",
+        "name": "Harriet Medin",
+        "original_name": "Harriet Medin",
+        "popularity": 0.4884,
+        "profile_path": "/7CwP8SQey9wzVLE821qCYfa6irr.jpg",
+        "cast_id": 38,
+        "character": "Marta",
+        "credit_id": "698a68e5ffc20a6ad0126b09",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 237623,
+        "known_for_department": "Acting",
+        "name": "Cristina Gaïoni",
+        "original_name": "Cristina Gaïoni",
+        "popularity": 0.2827,
+        "profile_path": "/954uo7DzatQbErhmzdCOgtsJpM2.jpg",
+        "cast_id": 39,
+        "character": "L'amici di Liselotte",
+        "credit_id": "698a68f4d725cb43258b215f",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 56729,
+        "known_for_department": "Acting",
+        "name": "Carlo D'Angelo",
+        "original_name": "Carlo D'Angelo",
+        "popularity": 0.3319,
+        "profile_path": "/e76T8eXNu6OZkvaTZZV8kyoNdlv.jpg",
+        "cast_id": 40,
+        "character": "Il maggiordomo del dottore",
+        "credit_id": "698a6904168b1da2528b2158",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 41159,
+        "known_for_department": "Directing",
+        "name": "Ferdinando Baldi",
+        "original_name": "Ferdinando Baldi",
+        "popularity": 0.329,
+        "profile_path": "/9q4BXXF4unmJi4pzCo7UcmNWBvy.jpg",
+        "cast_id": 41,
+        "character": "L'assistente del dottore",
+        "credit_id": "698a690ef5ab7195748f1631",
+        "order": 12
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 33724,
+        "known_for_department": "Directing",
+        "name": "Giorgio Ferroni",
+        "original_name": "Giorgio Ferroni",
+        "popularity": 0.2738,
+        "profile_path": "/sX4no8a2NSUsj4mj0OtpKkFs5nE.jpg",
+        "credit_id": "52fe4628c3a36847f80efef3",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 31981,
+        "known_for_department": "Writing",
+        "name": "Remigio Del Grosso",
+        "original_name": "Remigio Del Grosso",
+        "popularity": 0.2935,
+        "profile_path": null,
+        "credit_id": "52fe4628c3a36847f80eff0b",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 33724,
+        "known_for_department": "Directing",
+        "name": "Giorgio Ferroni",
+        "original_name": "Giorgio Ferroni",
+        "popularity": 0.2738,
+        "profile_path": "/sX4no8a2NSUsj4mj0OtpKkFs5nE.jpg",
+        "credit_id": "52fe4628c3a36847f80eff11",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 31982,
+        "known_for_department": "Writing",
+        "name": "Ugo Liberatore",
+        "original_name": "Ugo Liberatore",
+        "popularity": 0.4431,
+        "profile_path": "/5madq3VV5UFImnaaZdLdv6zyma3.jpg",
+        "credit_id": "53f3bc67c3a36822fd00038c",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 73624,
+        "known_for_department": "Writing",
+        "name": "Giorgio Stegani",
+        "original_name": "Giorgio Stegani",
+        "popularity": 0.164,
+        "profile_path": null,
+        "credit_id": "54677e6622136e1e13000207",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1385657,
+        "known_for_department": "Writing",
+        "name": "Pieter van Weigen",
+        "original_name": "Pieter van Weigen",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "54677e8022136e1e1c000230",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1210424,
+        "known_for_department": "Production",
+        "name": "Giampaolo Bigazzi",
+        "original_name": "Giampaolo Bigazzi",
+        "popularity": 0.0769,
+        "profile_path": null,
+        "credit_id": "54677e92eaeb8118b2000266",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1083210,
+        "known_for_department": "Camera",
+        "name": "Pier Ludovico Pavoni",
+        "original_name": "Pier Ludovico Pavoni",
+        "popularity": 0.079,
+        "profile_path": null,
+        "credit_id": "54677ec122136e1e1c000238",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 101240,
+        "known_for_department": "Art",
+        "name": "Carlo Gentili",
+        "original_name": "Carlo Gentili",
+        "popularity": 0.1605,
+        "profile_path": "/gBpp2WzdLLh5fLGWDacxFXILFn3.jpg",
+        "credit_id": "6326c8ada14e10007bb2ce52",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 33808,
+        "known_for_department": "Editing",
+        "name": "Antonietta Zita",
+        "original_name": "Antonietta Zita",
+        "popularity": 0.1359,
+        "profile_path": null,
+        "credit_id": "6326c889a67254007addb36a",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 548188,
+        "known_for_department": "Sound",
+        "name": "Carlo Innocenzi",
+        "original_name": "Carlo Innocenzi",
+        "popularity": 0.1226,
+        "profile_path": "/vY8a9FZAv9PDyKhz5Uc5LoHPn19.jpg",
+        "credit_id": "6326c83153866e008f04f9ec",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1887030,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Franco Palombi",
+        "original_name": "Franco Palombi",
+        "popularity": 0.1275,
+        "profile_path": null,
+        "credit_id": "6326c8c253866e008f04fa1b",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 22473,
+        "known_for_department": "Art",
+        "name": "Arrigo Equini",
+        "original_name": "Arrigo Equini",
+        "popularity": 0.1389,
+        "profile_path": null,
+        "credit_id": "6326c89da67254007d5e6110",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5997861,
+        "known_for_department": "Production",
+        "name": "Charles Kornel",
+        "original_name": "Charles Kornel",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "698a683ddf720ccf3ecb0c0f",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2326505,
+        "known_for_department": "Production",
+        "name": "Piero Ghione",
+        "original_name": "Piero Ghione",
+        "popularity": 0.0673,
+        "profile_path": null,
+        "credit_id": "698a68521dd84488b0bb834b",
+        "department": "Production",
+        "job": "Production Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 70022,
+        "known_for_department": "Production",
+        "name": "Thomas Sagone",
+        "original_name": "Thomas Sagone",
+        "popularity": 0.0826,
+        "profile_path": null,
+        "credit_id": "698a685b6369d06da6018353",
+        "department": "Production",
+        "job": "Production Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5997864,
+        "known_for_department": "Production",
+        "name": "Lucien Vittel",
+        "original_name": "Lucien Vittel",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "698a6865a889aaede43386c5",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3198426,
+        "known_for_department": "Directing",
+        "name": "Giuliano Betti",
+        "original_name": "Giuliano Betti",
+        "popularity": 0.076,
+        "profile_path": null,
+        "credit_id": "698a6871723b528b91018392",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3867521,
+        "known_for_department": "Production",
+        "name": "Piero Braccialini",
+        "original_name": "Piero Braccialini",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "698a687bf1f6ddc7508f167d",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1598807,
+        "known_for_department": "Crew",
+        "name": "Jacques Bonpunt",
+        "original_name": "Jacques Bonpunt",
+        "popularity": 0.0456,
+        "profile_path": null,
+        "credit_id": "698a688797d2d6c646126b5c",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1706165,
+        "known_for_department": "Sound",
+        "name": "Umberto Picistrelli",
+        "original_name": "Umberto Picistrelli",
+        "popularity": 0.1214,
+        "profile_path": null,
+        "credit_id": "698a688f2912b685efbb8362",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 22471,
+        "known_for_department": "Camera",
+        "name": "Angelo Lotti",
+        "original_name": "Angelo Lotti",
+        "popularity": 0.1141,
+        "profile_path": null,
+        "credit_id": "698a6897f9a3bd9412cb0c82",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2016356,
+        "known_for_department": "Camera",
+        "name": "Renato Mascagno",
+        "original_name": "Renato Mascagno",
+        "popularity": 0.0776,
+        "profile_path": null,
+        "credit_id": "698a68a1784f68fdb5aee423",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "US",
+        "title": "Mill of the Stone Women",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "FR",
+        "title": "Le Moulin des supplices",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "SE",
+        "title": "Doktor Skräck och de förstenade kvinnorna",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "GB",
+        "title": "Drops of Blood",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "ES",
+        "title": "El molino de las mujeres de piedra",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "BR",
+        "title": "O Moinho das Mulheres de Pedra",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "NL",
+        "title": "De Molen van de Versteende Vrouwen",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "DE",
+        "title": "Die Muhle der Versteinerten Frauen",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "US",
+        "title": "The Mill of the Stone Women",
+        "type": ""
+      }
+    ]
+  }
+}

@@ -1,0 +1,582 @@
+{
+  "adult": false,
+  "backdrop_path": "/skvs0FGnvsHFafgWbw0dI9ns9ca.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 13574,
+  "imdb_id": "tt0756729",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Year of the Dog",
+  "overview": "A secretary's life changes in unexpected ways after her dog dies.",
+  "popularity": 0.9329,
+  "poster_path": "/6K9ZWVMOpgQeYlq8mYGnreOViPW.jpg",
+  "production_companies": [
+    {
+      "id": 838,
+      "logo_path": "/tcW3UqV46Mdq6GyaS1ydEDocEDF.png",
+      "name": "Paramount Vantage",
+      "origin_country": "US"
+    },
+    {
+      "id": 21623,
+      "logo_path": null,
+      "name": "Rip Cord Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 81,
+      "logo_path": "/8wOfUhA7vwU2gbPjQy7Vv3EiF0o.png",
+      "name": "Plan B Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2007-04-13",
+  "revenue": 1606237,
+  "runtime": 97,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Has the world left you a stray?",
+  "title": "Year of the Dog",
+  "video": false,
+  "vote_average": 5.5,
+  "vote_count": 73,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 28640,
+        "known_for_department": "Acting",
+        "name": "Molly Shannon",
+        "original_name": "Molly Shannon",
+        "popularity": 1.4828,
+        "profile_path": "/5ZTbNpJtDRU4ZCH24nJvFRxaqAD.jpg",
+        "cast_id": 3,
+        "character": "Peggy",
+        "credit_id": "52fe457c9251416c7505838b",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4784,
+        "known_for_department": "Acting",
+        "name": "Laura Dern",
+        "original_name": "Laura Dern",
+        "popularity": 2.5699,
+        "profile_path": "/gB9PnGEvxKg33OSlcqptQwTBwPE.jpg",
+        "cast_id": 4,
+        "character": "Bret",
+        "credit_id": "52fe457c9251416c7505838f",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 9788,
+        "known_for_department": "Acting",
+        "name": "Regina King",
+        "original_name": "Regina King",
+        "popularity": 2.6637,
+        "profile_path": "/tqgHkoh2g8NfFPquJuEs3kvAAgF.jpg",
+        "cast_id": 5,
+        "character": "Layla",
+        "credit_id": "52fe457c9251416c75058393",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 17867,
+        "known_for_department": "Acting",
+        "name": "Tom McCarthy",
+        "original_name": "Tom McCarthy",
+        "popularity": 1.0527,
+        "profile_path": "/cEA6cxG3AiH0hUzFH9mUQQVy20O.jpg",
+        "cast_id": 7,
+        "character": "Pier",
+        "credit_id": "52fe457c9251416c7505839b",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6181,
+        "known_for_department": "Acting",
+        "name": "Josh Pais",
+        "original_name": "Josh Pais",
+        "popularity": 1.0802,
+        "profile_path": "/uH90fGfLLzYCX02yOW3kH4LMO7n.jpg",
+        "cast_id": 9,
+        "character": "Robin",
+        "credit_id": "52fe457d9251416c750583a3",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4764,
+        "known_for_department": "Acting",
+        "name": "John C. Reilly",
+        "original_name": "John C. Reilly",
+        "popularity": 1.882,
+        "profile_path": "/iDQ8w4qcxU3le5ZWoCKpHs1QNok.jpg",
+        "cast_id": 6,
+        "character": "Al",
+        "credit_id": "52fe457c9251416c75058397",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 133,
+        "known_for_department": "Acting",
+        "name": "Peter Sarsgaard",
+        "original_name": "Peter Sarsgaard",
+        "popularity": 2.6194,
+        "profile_path": "/5UANyM4co2nwYPgSEmGeNlZRm7V.jpg",
+        "cast_id": 8,
+        "character": "Newt",
+        "credit_id": "52fe457c9251416c7505839f",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 25310,
+        "known_for_department": "Acting",
+        "name": "Dale Godboldo",
+        "original_name": "Dale Godboldo",
+        "popularity": 0.6313,
+        "profile_path": "/ixhfAtYhECFnCQcKmKNrs0MkwKI.jpg",
+        "cast_id": 17,
+        "character": "Don",
+        "credit_id": "5a7786ddc3a3682261005dc9",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 55546,
+        "known_for_department": "Acting",
+        "name": "Liza Weil",
+        "original_name": "Liza Weil",
+        "popularity": 2.1388,
+        "profile_path": "/eYR8oJnVKfCR73OlF7Uy2oC2MM3.jpg",
+        "cast_id": 10,
+        "character": "Trishelle",
+        "credit_id": "52fe457d9251416c750583a7",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 76364,
+        "known_for_department": "Acting",
+        "name": "Amy Schlagel",
+        "original_name": "Amy Schlagel",
+        "popularity": 0.1788,
+        "profile_path": "/1EgBLjCGbBGxYqGZwbPWXOVS66.jpg",
+        "cast_id": 27,
+        "character": "Lissie",
+        "credit_id": "631bc3f939549a0083ceff6d",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2564999,
+        "known_for_department": "Acting",
+        "name": "Zoe Schlagel",
+        "original_name": "Zoe Schlagel",
+        "popularity": 0.0718,
+        "profile_path": null,
+        "cast_id": 28,
+        "character": "Lissie",
+        "credit_id": "631bc40e7646fd007f08eb3e",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2258277,
+        "known_for_department": "Crew",
+        "name": "Ursula Brauner",
+        "original_name": "Ursula Brauner",
+        "popularity": 0.2086,
+        "profile_path": null,
+        "cast_id": 29,
+        "character": "Dog Owner",
+        "credit_id": "631bc42e58361b007ea476cf",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1485442,
+        "known_for_department": "Acting",
+        "name": "Susan Mackin",
+        "original_name": "Susan Mackin",
+        "popularity": 0.1567,
+        "profile_path": null,
+        "cast_id": 30,
+        "character": "Susan",
+        "credit_id": "631bc4497646fd007f08eb4a",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1228322,
+        "known_for_department": "Acting",
+        "name": "Inara George",
+        "original_name": "Inara George",
+        "popularity": 0.1661,
+        "profile_path": null,
+        "cast_id": 31,
+        "character": "Holly",
+        "credit_id": "631bc4927646fd00916140d6",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3694954,
+        "known_for_department": "Acting",
+        "name": "Christy Moore",
+        "original_name": "Christy Moore",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "cast_id": 32,
+        "character": "Al's Girlfriend",
+        "credit_id": "631bc4ab8566d20091ea5bf2",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 86170,
+        "known_for_department": "Acting",
+        "name": "Audrey Wasilewski",
+        "original_name": "Audrey Wasilewski",
+        "popularity": 1.1302,
+        "profile_path": "/4iUq8nA7hm2taO0vMMvvwtQvLr2.jpg",
+        "cast_id": 33,
+        "character": "Audrey",
+        "credit_id": "631bc4c1435011007ab49b51",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 17415,
+        "known_for_department": "Acting",
+        "name": "Brenda Canela",
+        "original_name": "Brenda Canela",
+        "popularity": 0.2041,
+        "profile_path": "/hhn4kjG44g7uN0CiQMEsVF6mn3V.jpg",
+        "cast_id": 34,
+        "character": "Brenda",
+        "credit_id": "631bc4d6435011007f9739ac",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 155625,
+        "known_for_department": "Acting",
+        "name": "Sonya Eddy",
+        "original_name": "Sonya Eddy",
+        "popularity": 0.6918,
+        "profile_path": "/u4yQNLmXkijZoXxMYC2Hs3DtA4P.jpg",
+        "cast_id": 35,
+        "character": "Nurse",
+        "credit_id": "631bc4ed39549a0083ceff88",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 61080,
+        "known_for_department": "Acting",
+        "name": "Jon Shere",
+        "original_name": "Jon Shere",
+        "popularity": 0.0362,
+        "profile_path": null,
+        "cast_id": 36,
+        "character": "Pound Employee",
+        "credit_id": "631bc5050bb076008022f421",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 206311,
+        "known_for_department": "Acting",
+        "name": "Steve Berg",
+        "original_name": "Steve Berg",
+        "popularity": 0.7637,
+        "profile_path": "/rXYD0Zqx4lqz7c3XWwA6TG75AzB.jpg",
+        "cast_id": 37,
+        "character": "Steve",
+        "credit_id": "631bc51c8566d2007df5cb20",
+        "order": 19
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 17735,
+        "known_for_department": "Writing",
+        "name": "Mike White",
+        "original_name": "Mike White",
+        "popularity": 1.9737,
+        "profile_path": "/eJpW9GKmWh0W7enmjjZQ8MIEzoI.jpg",
+        "credit_id": "52fe457c9251416c75058381",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 23486,
+        "known_for_department": "Sound",
+        "name": "Christophe Beck",
+        "original_name": "Christophe Beck",
+        "popularity": 0.503,
+        "profile_path": "/n3U0OPETTZGTx4mgsrryARKphR4.jpg",
+        "credit_id": "61d096bf7b7b4d001ce1efb5",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 805594,
+        "known_for_department": "Production",
+        "name": "Meredith Tucker",
+        "original_name": "Meredith Tucker",
+        "popularity": 0.2093,
+        "profile_path": null,
+        "credit_id": "61d098c81684f7008dc8079e",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5215,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Nancy Steiner",
+        "original_name": "Nancy Steiner",
+        "popularity": 0.2525,
+        "profile_path": "/280H8yZmBKyz36jFm5Ls9i5QmQk.jpg",
+        "credit_id": "61d098f1944a570045ae5e4e",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 72264,
+        "known_for_department": "Camera",
+        "name": "Tim Orr",
+        "original_name": "Tim Orr",
+        "popularity": 0.1791,
+        "profile_path": "/7ANEkhXONfNC1ftIlSvIg4HFH03.jpg",
+        "credit_id": "61d096daa0f1a20090494a01",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 61076,
+        "known_for_department": "Art",
+        "name": "Daniel Bradford",
+        "original_name": "Daniel Bradford",
+        "popularity": 0.2858,
+        "profile_path": null,
+        "credit_id": "61d098d5f9a3fb001a7369ea",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 61077,
+        "known_for_department": "Art",
+        "name": "Macie Vener",
+        "original_name": "Macie Vener",
+        "popularity": 0.0726,
+        "profile_path": null,
+        "credit_id": "61d098dcd8f44e001c61a822",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 33711,
+        "known_for_department": "Art",
+        "name": "K.C. Fox",
+        "original_name": "K.C. Fox",
+        "popularity": 0.3168,
+        "profile_path": null,
+        "credit_id": "61d098e622f5d700458c9f46",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 17735,
+        "known_for_department": "Writing",
+        "name": "Mike White",
+        "original_name": "Mike White",
+        "popularity": 1.9737,
+        "profile_path": "/eJpW9GKmWh0W7enmjjZQ8MIEzoI.jpg",
+        "credit_id": "61d096c6a27502008cf2ada0",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 563,
+        "known_for_department": "Editing",
+        "name": "Dody Dorn",
+        "original_name": "Dody Dorn",
+        "popularity": 0.3252,
+        "profile_path": "/d3RESRZlLhsOIUQNIWxVqaO21q3.jpg",
+        "credit_id": "61d096d01b722c008beafd08",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 17735,
+        "known_for_department": "Writing",
+        "name": "Mike White",
+        "original_name": "Mike White",
+        "popularity": 1.9737,
+        "profile_path": "/eJpW9GKmWh0W7enmjjZQ8MIEzoI.jpg",
+        "credit_id": "58d06cb792514159d600119c",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 287,
+        "known_for_department": "Acting",
+        "name": "Brad Pitt",
+        "original_name": "Brad Pitt",
+        "popularity": 8.6783,
+        "profile_path": "/m09Y1YfPPeNYYUSHnnVqahkrC1o.jpg",
+        "credit_id": "58d06caa92514159d6001183",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 991827,
+        "known_for_department": "Production",
+        "name": "Ben LeClair",
+        "original_name": "Ben LeClair",
+        "popularity": 0.1392,
+        "profile_path": "/6uOBMF8Ob8JRajGhfUJ0fAnntNl.jpg",
+        "credit_id": "58d06cce92514159d60011c0",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1395351,
+        "known_for_department": "Production",
+        "name": "Nan Morales",
+        "original_name": "Nan Morales",
+        "popularity": 0.2478,
+        "profile_path": null,
+        "credit_id": "58d06cdbc3a36867c900102e",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 20458,
+        "known_for_department": "Production",
+        "name": "Dede Gardner",
+        "original_name": "Dede Gardner",
+        "popularity": 0.6958,
+        "profile_path": "/uQ0Zgn4MZe5q1fMTb0m9Vi5ZqNK.jpg",
+        "credit_id": "58d06cc4c3a368674f001229",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1199564,
+        "known_for_department": "Acting",
+        "name": "Mike Malone",
+        "original_name": "Mike Malone",
+        "popularity": 0.4739,
+        "profile_path": null,
+        "credit_id": "64a5acc0158c85011c84c973",
+        "department": "Art",
+        "job": "Set Dresser"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "HU",
+        "title": "Kutya éve",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "ES",
+        "title": "El año del perro",
+        "type": ""
+      }
+    ]
+  }
+}

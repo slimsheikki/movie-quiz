@@ -1,0 +1,509 @@
+{
+  "adult": false,
+  "backdrop_path": "/1Fhdi3lhkCDj7xGt5HBS7Z0UU0a.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 32690,
+  "imdb_id": "tt0042958",
+  "origin_country": [
+    "JP"
+  ],
+  "original_language": "ja",
+  "original_title": "醜聞",
+  "overview": "A celebrity photograph sparks a court case as a tabloid magazine spins a scandalous yarn over a painter and a famous singer.",
+  "popularity": 1.199,
+  "poster_path": "/nIpDB30mVA37o7ezno4vaiYpJ88.jpg",
+  "production_companies": [
+    {
+      "id": 192,
+      "logo_path": "/93eAKlnQecDdMtucfOprzcjMw9V.png",
+      "name": "Shochiku",
+      "origin_country": "JP"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    }
+  ],
+  "release_date": "1950-04-26",
+  "revenue": 0,
+  "runtime": 104,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Scandal",
+  "video": false,
+  "vote_average": 6.857,
+  "vote_count": 98,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 7450,
+        "known_for_department": "Acting",
+        "name": "Toshirō Mifune",
+        "original_name": "三船敏郎",
+        "popularity": 1.9854,
+        "profile_path": "/3A9PqrtiXHLp8B2JL7m3YvVXrmL.jpg",
+        "cast_id": 5,
+        "character": "Ichirô Aoye",
+        "credit_id": "52fe44e49251416c9102075f",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 86820,
+        "known_for_department": "Acting",
+        "name": "Yoshiko Yamaguchi",
+        "original_name": "山口淑子",
+        "popularity": 0.9951,
+        "profile_path": "/f9Pdf6P2B0kavM7IFMXPjAETnXL.jpg",
+        "cast_id": 7,
+        "character": "Miyako Saijo",
+        "credit_id": "52fe44e49251416c91020767",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 131018,
+        "known_for_department": "Acting",
+        "name": "Yōko Katsuragi",
+        "original_name": "桂木洋子",
+        "popularity": 0.659,
+        "profile_path": "/nUnHqKpVRYgwQtl8S773dF5vJ7D.jpg",
+        "cast_id": 8,
+        "character": "Masako Hiruta",
+        "credit_id": "52fe44e49251416c9102076b",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 106161,
+        "known_for_department": "Acting",
+        "name": "Noriko Sengoku",
+        "original_name": "千石規子",
+        "popularity": 0.6672,
+        "profile_path": "/xmGs4tO59mq4e80r8iXBIjrwzSC.jpg",
+        "cast_id": 9,
+        "character": "Sumie",
+        "credit_id": "52fe44e49251416c9102076f",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 97203,
+        "known_for_department": "Acting",
+        "name": "Eitarō Ozawa",
+        "original_name": "小沢栄太郎",
+        "popularity": 1.2418,
+        "profile_path": "/5ppJVvKljVAvBaXxEoCb7rbkjEJ.jpg",
+        "cast_id": 10,
+        "character": "Hori",
+        "credit_id": "52fe44e49251416c91020773",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 7453,
+        "known_for_department": "Acting",
+        "name": "Takashi Shimura",
+        "original_name": "志村喬",
+        "popularity": 1.1571,
+        "profile_path": "/ydyAm2vyBbEPZRICIMqqjDm0NM9.jpg",
+        "cast_id": 6,
+        "character": "Attorney Hiruta",
+        "credit_id": "52fe44e49251416c91020763",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 33767,
+        "known_for_department": "Acting",
+        "name": "Shinichi Himori",
+        "original_name": "日守新一",
+        "popularity": 0.7262,
+        "profile_path": "/uvdGhKmIIfjO705CqXAS13gO65X.jpg",
+        "cast_id": 35,
+        "character": "",
+        "credit_id": "5e65c2533876515d99bc1323",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 96804,
+        "known_for_department": "Acting",
+        "name": "Kōji Mitsui",
+        "original_name": "三井弘次",
+        "popularity": 0.765,
+        "profile_path": "/nahTXDNpFHNfKMraAHNDYiLXBM.jpg",
+        "cast_id": 26,
+        "character": "Cameraman A",
+        "credit_id": "558b1bbac3a3687e5f0001bc",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 131021,
+        "known_for_department": "Acting",
+        "name": "Ichirō Shimizu",
+        "original_name": "清水一郎",
+        "popularity": 0.473,
+        "profile_path": "/fRWIZqYMd3K0U29PGgQaxoUjEJA.jpg",
+        "cast_id": 12,
+        "character": "Arai",
+        "credit_id": "52fe44e49251416c91020777",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 131193,
+        "known_for_department": "Acting",
+        "name": "Fumiko Okamura",
+        "original_name": "岡村文子",
+        "popularity": 0.5051,
+        "profile_path": "/zmB6Q7MB5f2MVGFfkWTbBeiGh92.jpg",
+        "cast_id": 13,
+        "character": "Miyako's mother",
+        "credit_id": "52fe44e49251416c9102077b",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 131194,
+        "known_for_department": "Acting",
+        "name": "Masao Shimizu",
+        "original_name": "清水将夫",
+        "popularity": 0.9442,
+        "profile_path": "/77QHN0Ac5Oq31R1PKQSIVX3nFzX.jpg",
+        "cast_id": 14,
+        "character": "Judge",
+        "credit_id": "52fe44e49251416c9102077f",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 55666,
+        "known_for_department": "Acting",
+        "name": "Tanie Kitabayashi",
+        "original_name": "北林谷栄",
+        "popularity": 0.8619,
+        "profile_path": "/vGG6ErgXfrZuRsVfDP3Po3XReST.jpg",
+        "cast_id": 19,
+        "character": "Yasu Hiruta",
+        "credit_id": "558b1a63c3a3687e5f000141",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1049221,
+        "known_for_department": "Acting",
+        "name": "Sugisaku Aoyama",
+        "original_name": "青山杉作",
+        "popularity": 0.4303,
+        "profile_path": null,
+        "cast_id": 20,
+        "character": "Dr. Kataoka",
+        "credit_id": "558b1a91c3a3687e6b000130",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 108028,
+        "known_for_department": "Acting",
+        "name": "Kokuten Kōdō",
+        "original_name": "高堂国典",
+        "popularity": 0.6562,
+        "profile_path": "/yYtoQtEf3QntzWC7XRQeJQeGp52.jpg",
+        "cast_id": 21,
+        "character": "Old Man #1",
+        "credit_id": "558b1aaf92514141cf000162",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 7455,
+        "known_for_department": "Acting",
+        "name": "Kichijirō Ueda",
+        "original_name": "上田吉二郎",
+        "popularity": 0.6338,
+        "profile_path": "/qjBYqwAobeFnOhpkxNnv36IvCQy.jpg",
+        "cast_id": 22,
+        "character": "Old Man #2",
+        "credit_id": "558b1aee92514141d800017f",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 34377,
+        "known_for_department": "Acting",
+        "name": "Bokuzen Hidari",
+        "original_name": "左卜全",
+        "popularity": 0.7148,
+        "profile_path": "/kvISvHgKAAWVPOnDjgVHWOgSOaO.jpg",
+        "cast_id": 23,
+        "character": "Drunk",
+        "credit_id": "558b1b2192514141cf00019f",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 33732,
+        "known_for_department": "Acting",
+        "name": "Taiji Tonoyama",
+        "original_name": "殿山泰司",
+        "popularity": 1.1227,
+        "profile_path": "/k88bvJ91SiL2Nn6QtQf7hB8U4iv.jpg",
+        "cast_id": 24,
+        "character": "Aoye's friend",
+        "credit_id": "558b1b72c3a3687e62000176",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1090914,
+        "known_for_department": "Acting",
+        "name": "Junji Masuda",
+        "original_name": "増田順司",
+        "popularity": 0.5219,
+        "profile_path": null,
+        "cast_id": 25,
+        "character": "News Reporter",
+        "credit_id": "558b1b7f92514141db00019f",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 985090,
+        "known_for_department": "Acting",
+        "name": "Takashi Kanda",
+        "original_name": "神田隆",
+        "popularity": 0.8578,
+        "profile_path": "/fDpY6hYAHgEJW3mXwbU7Day3oeC.jpg",
+        "cast_id": 36,
+        "character": "",
+        "credit_id": "5fa2db09bb1057003c5c06ee",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 7454,
+        "known_for_department": "Acting",
+        "name": "Minoru Chiaki",
+        "original_name": "千秋実",
+        "popularity": 0.9556,
+        "profile_path": "/9E3efYEg8pxANdfVLqYGiX8zJE8.jpg",
+        "cast_id": 37,
+        "character": "",
+        "credit_id": "5fa2db11bb1057003e5c06bf",
+        "order": 19
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 109559,
+        "known_for_department": "Production",
+        "name": "Takashi Koide",
+        "original_name": "Takashi Koide",
+        "popularity": 0.0973,
+        "profile_path": null,
+        "credit_id": "52fe44e49251416c9102074f",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 7460,
+        "known_for_department": "Sound",
+        "name": "Fumio Hayasaka",
+        "original_name": "早坂文雄",
+        "popularity": 0.5149,
+        "profile_path": "/A4t45XV0SXKnYzZNkzrjCl4jHUy.jpg",
+        "credit_id": "52fe44e49251416c9102078b",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5026,
+        "known_for_department": "Directing",
+        "name": "Akira Kurosawa",
+        "original_name": "黒澤明",
+        "popularity": 2.4859,
+        "profile_path": "/ca8fRqLDfTJTCamLKHp70up23ET.jpg",
+        "credit_id": "52fe44e49251416c91020749",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 20832,
+        "known_for_department": "Production",
+        "name": "Sōjirō Motoki",
+        "original_name": "本木荘二郎",
+        "popularity": 0.3213,
+        "profile_path": "/3elxuzpG4zmKcXmJxAkRnUDjCn7.jpg",
+        "credit_id": "52fe44e49251416c91020785",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1092852,
+        "known_for_department": "Camera",
+        "name": "Toshio Ubukata",
+        "original_name": "生方敏夫",
+        "popularity": 0.2027,
+        "profile_path": null,
+        "credit_id": "5960db71c3a36828a10cfa62",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1039764,
+        "known_for_department": "Editing",
+        "name": "Yoshi Sugihara",
+        "original_name": "杉原よ志",
+        "popularity": 0.373,
+        "profile_path": null,
+        "credit_id": "5bb7ac3d9251410dd502c742",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 34373,
+        "known_for_department": "Writing",
+        "name": "Ryuzo Kikushima",
+        "original_name": "菊島隆三",
+        "popularity": 1.1622,
+        "profile_path": "/gNNF41FS2hqSKRHR0Rwkanvv68D.jpg",
+        "credit_id": "5bb7ac13c3a36815150331e4",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 552003,
+        "known_for_department": "Art",
+        "name": "Tatsuo Hamada",
+        "original_name": "浜田辰雄",
+        "popularity": 0.3084,
+        "profile_path": null,
+        "credit_id": "5bb7ac4f9251410dcb02a692",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5026,
+        "known_for_department": "Directing",
+        "name": "Akira Kurosawa",
+        "original_name": "黒澤明",
+        "popularity": 2.4859,
+        "profile_path": "/ca8fRqLDfTJTCamLKHp70up23ET.jpg",
+        "credit_id": "5bb7abfe9251410dcb02a626",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1604533,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Bunjiro Suzuki",
+        "original_name": "Bunjiro Suzuki",
+        "popularity": 0.0538,
+        "profile_path": null,
+        "credit_id": "5bb7ac660e0a26339702c1d4",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "ES",
+        "title": "Escándalo",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "JP",
+        "title": "Shûbun",
+        "type": "transliteration"
+      },
+      {
+        "iso_3166_1": "FR",
+        "title": "Scandale",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "DE",
+        "title": "Skandal",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "JP",
+        "title": "スキャンダル",
+        "type": "alternative title"
+      },
+      {
+        "iso_3166_1": "JP",
+        "title": "Sukyandaru",
+        "type": "Alt. Romaji"
+      },
+      {
+        "iso_3166_1": "JP",
+        "title": "Shūbun",
+        "type": "Romaji"
+      }
+    ]
+  }
+}

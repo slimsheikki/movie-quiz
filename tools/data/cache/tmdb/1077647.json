@@ -1,0 +1,310 @@
+{
+  "adult": false,
+  "backdrop_path": "/5G7WyWUBQhic7bk1dbqQaNJ22UL.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "http://www.filmgarten.at/inwater",
+  "id": 1077647,
+  "imdb_id": "tt26448971",
+  "origin_country": [
+    "KR"
+  ],
+  "original_language": "ko",
+  "original_title": "물안에서",
+  "overview": "A director, a cinematographer, and an actress spend the days leading up to a movie shoot together on-location, waiting for the director to come up with an idea for what the film will be about.",
+  "popularity": 0.7291,
+  "poster_path": "/8SmD9SeiQRG2vuUl8u5lvTZQu4X.jpg",
+  "production_companies": [
+    {
+      "id": 17387,
+      "logo_path": "/7vpMH9k3fqiE6Zw0mnRayFd8Tuw.png",
+      "name": "Jeonwonsa Film",
+      "origin_country": "KR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "KR",
+      "name": "South Korea"
+    }
+  ],
+  "release_date": "2023-04-12",
+  "revenue": 0,
+  "runtime": 61,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "한국어/조선말"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Do you know the man from a far away land who swam far out to sea?",
+  "title": "In Water",
+  "video": false,
+  "vote_average": 6.5,
+  "vote_count": 24,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2288848,
+        "known_for_department": "Acting",
+        "name": "Shin Seok-ho",
+        "original_name": "신석호",
+        "popularity": 0.3901,
+        "profile_path": "/j1i08iO4oEhsvIcF4Y16TMSiTL4.jpg",
+        "cast_id": 6,
+        "character": "Seongmo",
+        "credit_id": "63ce6f307f0540008a7749f5",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2549743,
+        "known_for_department": "Acting",
+        "name": "Ha Seong-guk",
+        "original_name": "하성국",
+        "popularity": 0.608,
+        "profile_path": "/3FW50397nOBKjlpHrb1HdAMmPRg.jpg",
+        "cast_id": 7,
+        "character": "Sangguk",
+        "credit_id": "63ce6f3ae16e5a0339e5ab21",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3888432,
+        "known_for_department": "Acting",
+        "name": "Kim Seung-yun",
+        "original_name": "김승윤",
+        "popularity": 0.3293,
+        "profile_path": "/ijR7B9fbEqjJWGDySmlgO5LdLYP.jpg",
+        "cast_id": 9,
+        "character": "Namhee",
+        "credit_id": "63cf58fe8dbc33009d7a2595",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 123664,
+        "known_for_department": "Acting",
+        "name": "Kim Min-hee",
+        "original_name": "김민희",
+        "popularity": 1.7289,
+        "profile_path": "/zZ41nW0GJqesHB75hFP6qllPS9y.jpg",
+        "cast_id": 16,
+        "character": "Seongmo's Ex-Girlfriend (voice)",
+        "credit_id": "651a5b6707216600c5676927",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4517634,
+        "known_for_department": "Writing",
+        "name": "Kim So-ryeong",
+        "original_name": "김소령",
+        "popularity": 0.0886,
+        "profile_path": null,
+        "cast_id": 17,
+        "character": "",
+        "credit_id": "65bf943ea35c8e017cd63221",
+        "order": 4
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4517634,
+        "known_for_department": "Writing",
+        "name": "Kim So-ryeong",
+        "original_name": "김소령",
+        "popularity": 0.0886,
+        "profile_path": null,
+        "credit_id": "65bf94bf1dbc88017c1f0ddf",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 150975,
+        "known_for_department": "Directing",
+        "name": "Hong Sang-soo",
+        "original_name": "홍상수",
+        "popularity": 1.3128,
+        "profile_path": "/cjZT9zhN5Yl65vTYAoyxCE02rm4.jpg",
+        "credit_id": "63d1599c66ae4d0096b693c6",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 150975,
+        "known_for_department": "Directing",
+        "name": "Hong Sang-soo",
+        "original_name": "홍상수",
+        "popularity": 1.3128,
+        "profile_path": "/cjZT9zhN5Yl65vTYAoyxCE02rm4.jpg",
+        "credit_id": "63ce6ea4e16e5a02e9191fc5",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 150975,
+        "known_for_department": "Directing",
+        "name": "Hong Sang-soo",
+        "original_name": "홍상수",
+        "popularity": 1.3128,
+        "profile_path": "/cjZT9zhN5Yl65vTYAoyxCE02rm4.jpg",
+        "credit_id": "63ce6e77e16e5a02cd5a5632",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 150975,
+        "known_for_department": "Directing",
+        "name": "Hong Sang-soo",
+        "original_name": "홍상수",
+        "popularity": 1.3128,
+        "profile_path": "/cjZT9zhN5Yl65vTYAoyxCE02rm4.jpg",
+        "credit_id": "63ce6e945bce9e00885ada7d",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 150975,
+        "known_for_department": "Directing",
+        "name": "Hong Sang-soo",
+        "original_name": "홍상수",
+        "popularity": 1.3128,
+        "profile_path": "/cjZT9zhN5Yl65vTYAoyxCE02rm4.jpg",
+        "credit_id": "63cfb4310d2f5301d9a5a761",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 123664,
+        "known_for_department": "Acting",
+        "name": "Kim Min-hee",
+        "original_name": "김민희",
+        "popularity": 1.7289,
+        "profile_path": "/zZ41nW0GJqesHB75hFP6qllPS9y.jpg",
+        "credit_id": "63cfc63f0d2f5301d1efdb09",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 123664,
+        "known_for_department": "Acting",
+        "name": "Kim Min-hee",
+        "original_name": "김민희",
+        "popularity": 1.7289,
+        "profile_path": "/zZ41nW0GJqesHB75hFP6qllPS9y.jpg",
+        "credit_id": "63cfc6a28dbc3300f06eaad7",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3888696,
+        "known_for_department": "Sound",
+        "name": "Kim Hye-jeong",
+        "original_name": "김혜정",
+        "popularity": 0.0973,
+        "profile_path": null,
+        "credit_id": "63cfc8840d2f53025753bf4e",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 150975,
+        "known_for_department": "Directing",
+        "name": "Hong Sang-soo",
+        "original_name": "홍상수",
+        "popularity": 1.3128,
+        "profile_path": "/cjZT9zhN5Yl65vTYAoyxCE02rm4.jpg",
+        "credit_id": "678f73412ef5be0b9c5b3810",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 123664,
+        "known_for_department": "Acting",
+        "name": "Kim Min-hee",
+        "original_name": "김민희",
+        "popularity": 1.7289,
+        "profile_path": "/zZ41nW0GJqesHB75hFP6qllPS9y.jpg",
+        "credit_id": "67ba429c55e3994bbd466ec7",
+        "department": "Production",
+        "job": "Line Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 150975,
+        "known_for_department": "Directing",
+        "name": "Hong Sang-soo",
+        "original_name": "홍상수",
+        "popularity": 1.3128,
+        "profile_path": "/cjZT9zhN5Yl65vTYAoyxCE02rm4.jpg",
+        "credit_id": "67f6b07831775276d6d9143f",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "KR",
+        "title": "mul-an-e-seo",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "TW",
+        "title": "在水中",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "HK",
+        "title": "水中鏡花",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "AT",
+        "title": "Im Wasser",
+        "type": ""
+      }
+    ]
+  }
+}

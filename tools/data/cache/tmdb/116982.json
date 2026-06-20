@@ -1,0 +1,537 @@
+{
+  "adult": false,
+  "backdrop_path": "/xVlQ3apBJ86JZCWq1ILjXGcumvc.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 36,
+      "name": "History"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 116982,
+  "imdb_id": "tt0131335",
+  "origin_country": [
+    "MX"
+  ],
+  "original_language": "es",
+  "original_title": "Canoa: memoria de un hecho vergonzoso",
+  "overview": "A group of students arrives in a small town during a hiking expedition. Once there, the local priest accuses them of being communist agitators on the run from an army crack-down against student demonstrations in nearby Mexico City and rallies the townsfolk to lynch them. Based on a true story.",
+  "popularity": 0.5933,
+  "poster_path": "/ag35bvtquwiDPsY4itNH895NguW.jpg",
+  "production_companies": [
+    {
+      "id": 49830,
+      "logo_path": null,
+      "name": "Sindicato de Trabajadores de la Producción Cinematográfica (STPC)",
+      "origin_country": "MX"
+    },
+    {
+      "id": 14188,
+      "logo_path": null,
+      "name": "Conacite Uno",
+      "origin_country": "MX"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "MX",
+      "name": "Mexico"
+    }
+  ],
+  "release_date": "1976-03-04",
+  "revenue": 0,
+  "runtime": 116,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "A town. Vested interests. 1968: a decisive year in the history of Mexico.",
+  "title": "Canoa: A Shameful Memory",
+  "video": false,
+  "vote_average": 7.7,
+  "vote_count": 86,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1070128,
+        "known_for_department": "Acting",
+        "name": "Salvador Sánchez",
+        "original_name": "Salvador Sánchez",
+        "popularity": 0.5424,
+        "profile_path": "/ywDIDiK39kAKQ9TLNMgq7Z4avmJ.jpg",
+        "cast_id": 13,
+        "character": "Witness",
+        "credit_id": "55d2183392514179d1000031",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 7368,
+        "known_for_department": "Acting",
+        "name": "Ernesto Gómez Cruz",
+        "original_name": "Ernesto Gómez Cruz",
+        "popularity": 0.5663,
+        "profile_path": "/rtDS8sZw9PniGdDPW12QKsUcNSb.jpg",
+        "cast_id": 12,
+        "character": "Lucas",
+        "credit_id": "55d2181dc3a36812a7000042",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 19448,
+        "known_for_department": "Acting",
+        "name": "Enrique Lucero",
+        "original_name": "Enrique Lucero",
+        "popularity": 0.5064,
+        "profile_path": "/73ptY5OLhr1xHZZn2pWrt0KI2qd.jpg",
+        "cast_id": 20,
+        "character": "Cura",
+        "credit_id": "57b9e8e89251413618000d33",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1050381,
+        "known_for_department": "Acting",
+        "name": "Arturo Alegro",
+        "original_name": "Arturo Alegro",
+        "popularity": 0.1647,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "Ramón",
+        "credit_id": "52fe4ba6c3a36847f820dcc3",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1064928,
+        "known_for_department": "Acting",
+        "name": "Roberto Sosa Sr.",
+        "original_name": "Roberto Sosa Sr.",
+        "popularity": 0.0297,
+        "profile_path": null,
+        "cast_id": 6,
+        "character": "Julián",
+        "credit_id": "52fe4ba6c3a36847f820dcc7",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 941421,
+        "known_for_department": "Acting",
+        "name": "Carlos Chávez",
+        "original_name": "Carlos Chávez",
+        "popularity": 0.2146,
+        "profile_path": "/yiQXe609oxPFxP1mCUOXorJoei9.jpg",
+        "cast_id": 7,
+        "character": "Miguel",
+        "credit_id": "52fe4ba6c3a36847f820dccb",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 941566,
+        "known_for_department": "Acting",
+        "name": "Gerardo Vigil",
+        "original_name": "Gerardo Vigil",
+        "popularity": 0.0352,
+        "profile_path": null,
+        "cast_id": 8,
+        "character": "Jesús Carrillo Sánchez",
+        "credit_id": "52fe4ba6c3a36847f820dccf",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 974765,
+        "known_for_department": "Acting",
+        "name": "Jaime Garza",
+        "original_name": "Jaime Garza",
+        "popularity": 0.2773,
+        "profile_path": "/hDSLglLuK50MQcHabXLaBEolpBz.jpg",
+        "cast_id": 35,
+        "character": "Roberto",
+        "credit_id": "5cf1d7169251413921b98b47",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 9630,
+        "known_for_department": "Acting",
+        "name": "Sergio Calderón",
+        "original_name": "Sergio Calderón",
+        "popularity": 0.4531,
+        "profile_path": "/nzzxespfHZQbXcE733Dy88SIkKF.jpg",
+        "cast_id": 10,
+        "character": "Presidente Municipal",
+        "credit_id": "52fe4ba6c3a36847f820dcd7",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1460902,
+        "known_for_department": "Acting",
+        "name": "Gerardo del Castillo",
+        "original_name": "Gerardo del Castillo",
+        "popularity": 0.1005,
+        "profile_path": null,
+        "cast_id": 15,
+        "character": "Manuel",
+        "credit_id": "57b9e808925141361e000c58",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1026995,
+        "known_for_department": "Acting",
+        "name": "Alicia del Lago",
+        "original_name": "Alicia del Lago",
+        "popularity": 0.1565,
+        "profile_path": null,
+        "cast_id": 16,
+        "character": "Esposa de Lucas",
+        "credit_id": "57b9e8899251413618000d02",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 942706,
+        "known_for_department": "Acting",
+        "name": "Malena Doria",
+        "original_name": "Malena Doria",
+        "popularity": 0.1814,
+        "profile_path": "/msV8uPut9WgM4TNY2eQWWsgIV0U.jpg",
+        "cast_id": 17,
+        "character": "Ama de llaves del cura",
+        "credit_id": "57b9e89fc3a36845e9000cc8",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1066864,
+        "known_for_department": "Acting",
+        "name": "Jorge Fegán",
+        "original_name": "Jorge Fegán",
+        "popularity": 0.1135,
+        "profile_path": "/cgkIlyVISVNkikyELIwEDaIZ4H0.jpg",
+        "cast_id": 18,
+        "character": "Comandante",
+        "credit_id": "57b9e8b49251413621000c79",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 76874,
+        "known_for_department": "Acting",
+        "name": "Guillermo Gil",
+        "original_name": "Guillermo Gil",
+        "popularity": 0.1884,
+        "profile_path": "/bN1AGtC6yS3SdMOgAUQAUsOTMKF.jpg",
+        "cast_id": 19,
+        "character": "Policia del ejercito",
+        "credit_id": "57b9e8d0c3a36845dc000cab",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1071091,
+        "known_for_department": "Acting",
+        "name": "Juan Ángel Martínez",
+        "original_name": "Juan Ángel Martínez",
+        "popularity": 0.1317,
+        "profile_path": null,
+        "cast_id": 21,
+        "character": "Comisario",
+        "credit_id": "57b9e90c925141361b000cb7",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 7369,
+        "known_for_department": "Acting",
+        "name": "Gastón Melo",
+        "original_name": "Gastón Melo",
+        "popularity": 0.1992,
+        "profile_path": null,
+        "cast_id": 22,
+        "character": "Sacristan",
+        "credit_id": "57b9e92b9251413621000cc4",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 236686,
+        "known_for_department": "Acting",
+        "name": "Manuel Ojeda",
+        "original_name": "Manuel Ojeda",
+        "popularity": 0.4049,
+        "profile_path": "/wAi6n2cNt8T86ykBWwTKljAWCny.jpg",
+        "cast_id": 23,
+        "character": "Hombre del pueblo",
+        "credit_id": "57b9e944c3a36845d3000cb6",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1486678,
+        "known_for_department": "Acting",
+        "name": "Rodrigo Puebla",
+        "original_name": "Rodrigo Puebla",
+        "popularity": 0.1919,
+        "profile_path": null,
+        "cast_id": 24,
+        "character": "Pedro",
+        "credit_id": "57b9e95bc3a36845ee000d4c",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 941366,
+        "known_for_department": "Directing",
+        "name": "Salvador Garcini",
+        "original_name": "Salvador Garcini",
+        "popularity": 0.1043,
+        "profile_path": null,
+        "cast_id": 25,
+        "character": "(uncredited)",
+        "credit_id": "57b9e9adc3a36845df000daa",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1527353,
+        "known_for_department": "Acting",
+        "name": "Baltazar Oviedo",
+        "original_name": "Baltazar Oviedo",
+        "popularity": 0.0536,
+        "profile_path": null,
+        "cast_id": 26,
+        "character": "(uncredited)",
+        "credit_id": "57b9ea2a925141361b000d53",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1460903,
+        "known_for_department": "Acting",
+        "name": "Adriana Rojo",
+        "original_name": "Adriana Rojo",
+        "popularity": 0.0498,
+        "profile_path": null,
+        "cast_id": 27,
+        "character": "(uncredited)",
+        "credit_id": "57b9ea4b9251413624000db5",
+        "order": 20
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1064927,
+        "known_for_department": "Writing",
+        "name": "Tomás Pérez Turrent",
+        "original_name": "Tomás Pérez Turrent",
+        "popularity": 0.1016,
+        "profile_path": null,
+        "credit_id": "52fe4ba6c3a36847f820dcb3",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1018132,
+        "known_for_department": "Production",
+        "name": "Roberto Lozoya",
+        "original_name": "Roberto Lozoya",
+        "popularity": 0.0634,
+        "profile_path": null,
+        "credit_id": "52fe4ba6c3a36847f820dcb9",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 974555,
+        "known_for_department": "Directing",
+        "name": "Felipe Cazals",
+        "original_name": "Felipe Cazals",
+        "popularity": 0.1913,
+        "profile_path": "/iwQEsD4LKVGo8qunay1ajx0EWdI.jpg",
+        "credit_id": "52fe4ba6c3a36847f820dcad",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1020068,
+        "known_for_department": "Camera",
+        "name": "Álex Phillips Jr.",
+        "original_name": "Álex Phillips Jr.",
+        "popularity": 0.2019,
+        "profile_path": null,
+        "credit_id": "54f984269251414b650011aa",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1642101,
+        "known_for_department": "Directing",
+        "name": "Manuel Ortega",
+        "original_name": "Manuel Ortega",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "577155c29251414ab50017f4",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1103668,
+        "known_for_department": "Editing",
+        "name": "Rafael Ceballos",
+        "original_name": "Rafael Ceballos",
+        "popularity": 0.0834,
+        "profile_path": null,
+        "credit_id": "57b9eb28c3a36845dc000deb",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1064723,
+        "known_for_department": "Editing",
+        "name": "Sigfrido García",
+        "original_name": "Sigfrido García",
+        "popularity": 0.0922,
+        "profile_path": null,
+        "credit_id": "57b9ebc1c3a36845dc000e32",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1542113,
+        "known_for_department": "Crew",
+        "name": "Federico Farfán",
+        "original_name": "Federico Farfán",
+        "popularity": 0.1181,
+        "profile_path": null,
+        "credit_id": "57b9ec7bc3a36845d8000f20",
+        "department": "Crew",
+        "job": "Special Effects"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1619361,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Felisa Ladrón de Guevara",
+        "original_name": "Felisa Ladrón de Guevara",
+        "popularity": 0.0568,
+        "profile_path": null,
+        "credit_id": "57b9eb47c3a36845d5000d49",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1063528,
+        "known_for_department": "Sound",
+        "name": "Gonzalo Gavira",
+        "original_name": "Gonzalo Gavira",
+        "popularity": 0.0897,
+        "profile_path": null,
+        "credit_id": "57b9ec0dc3a36845e6001050",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1564988,
+        "known_for_department": "Sound",
+        "name": "Manuel Topete",
+        "original_name": "Manuel Topete",
+        "popularity": 0.1608,
+        "profile_path": null,
+        "credit_id": "57b9ec2d9251413611000ee3",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1507536,
+        "known_for_department": "Production",
+        "name": "Alfredo Chavira",
+        "original_name": "Alfredo Chavira",
+        "popularity": 0.0289,
+        "profile_path": null,
+        "credit_id": "57b9eb929251413624000e51",
+        "department": "Production",
+        "job": "Production Supervisor"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "MX",
+        "title": "Canoa",
+        "type": ""
+      }
+    ]
+  }
+}

@@ -1,0 +1,858 @@
+{
+  "adult": false,
+  "backdrop_path": "/3Na31ta8vDuKOgQuPLdSZLs8bCB.jpg",
+  "belongs_to_collection": null,
+  "budget": 5000000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10752,
+      "name": "War"
+    }
+  ],
+  "homepage": "",
+  "id": 25237,
+  "imdb_id": "tt0091251",
+  "origin_country": [
+    "SU"
+  ],
+  "original_language": "ru",
+  "original_title": "Иди и смотри",
+  "overview": "The invasion of a village in Belarus by German forces sends young Florya into the forest to join the weary Resistance fighters, against his family's wishes. There he meets a girl, Glasha, who accompanies him back to his village. On returning home, Florya finds his family and fellow peasants massacred. His continued survival amidst the brutal debris of war becomes increasingly nightmarish, a battle between despair and hope.",
+  "popularity": 5.6351,
+  "poster_path": "/qNbMsKVzigERgJUbwf8pKyZogpb.jpg",
+  "production_companies": [
+    {
+      "id": 12617,
+      "logo_path": "/9Wf5DFTvzxo0pSqDp8MQWW3d01.png",
+      "name": "Belarusfilm",
+      "origin_country": "SU"
+    },
+    {
+      "id": 344,
+      "logo_path": "/xenuUvcunUNpbaDOYGhWZERaym7.png",
+      "name": "Mosfilm",
+      "origin_country": "SU"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "SU",
+      "name": "Soviet Union"
+    }
+  ],
+  "release_date": "1985-10-17",
+  "revenue": 20929648,
+  "runtime": 142,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Belarusian",
+      "iso_639_1": "be",
+      "name": "беларуская мова"
+    },
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "Pусский"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The cruelest side of war.",
+  "title": "Come and See",
+  "video": false,
+  "vote_average": 8.2,
+  "vote_count": 1855,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 93407,
+        "known_for_department": "Acting",
+        "name": "Aleksei Kravchenko",
+        "original_name": "Алексей Кравченко",
+        "popularity": 0.8551,
+        "profile_path": "/o7UD6o30iJ29dTHPCbtOScv9s5E.jpg",
+        "cast_id": 4,
+        "character": "Flyora Gayshun",
+        "credit_id": "52fe44bfc3a368484e0347b1",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 93408,
+        "known_for_department": "Acting",
+        "name": "Olga Mironova",
+        "original_name": "Ольга Миронова",
+        "popularity": 0.3943,
+        "profile_path": "/wSeCtQNuWVVUlHMAAkxVRSCYh7s.jpg",
+        "cast_id": 5,
+        "character": "Glasha",
+        "credit_id": "52fe44bfc3a368484e0347b5",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 93409,
+        "known_for_department": "Acting",
+        "name": "Liubomiras Laucevičius",
+        "original_name": "Liubomiras Laucevičius",
+        "popularity": 0.299,
+        "profile_path": "/r6Gdi2P7D6cPHcgTvvO4NSzvb9I.jpg",
+        "cast_id": 6,
+        "character": "Kosach",
+        "credit_id": "52fe44bfc3a368484e0347b9",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 139096,
+        "known_for_department": "Acting",
+        "name": "Vladas Bagdonas",
+        "original_name": "Vladas Bagdonas",
+        "popularity": 0.2496,
+        "profile_path": "/58chkP7aSp51iKDjEtP295ZWl6k.jpg",
+        "cast_id": 11,
+        "character": "Rubezh",
+        "credit_id": "52fe44bfc3a368484e0347c3",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1148739,
+        "known_for_department": "Acting",
+        "name": "Jüri Lumiste",
+        "original_name": "Jüri Lumiste",
+        "popularity": 0.22,
+        "profile_path": "/wU5CyMxiwzEU5mCSSUsTZeIHp8A.jpg",
+        "cast_id": 12,
+        "character": "Obersturmführer",
+        "credit_id": "52fe44bfc3a368484e0347c7",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1148740,
+        "known_for_department": "Acting",
+        "name": "Viktors Lorencs",
+        "original_name": "Viktors Lorencs",
+        "popularity": 0.2856,
+        "profile_path": "/24LC3IfTgkY7Mj7fjQENx6Q9oaf.jpg",
+        "cast_id": 13,
+        "character": "Sturmbannführer",
+        "credit_id": "52fe44bfc3a368484e0347cb",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1148741,
+        "known_for_department": "Acting",
+        "name": "Kazimir Rabetsky",
+        "original_name": "Kazimir Rabetsky",
+        "popularity": 0.1664,
+        "profile_path": "/qQzj2XqMqf4OpFwBFYGR5lRETtY.jpg",
+        "cast_id": 14,
+        "character": "Village Headman",
+        "credit_id": "52fe44bfc3a368484e0347cf",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1148742,
+        "known_for_department": "Acting",
+        "name": "Yevgeni Tilicheyev",
+        "original_name": "Евгений Тиличеев",
+        "popularity": 0.265,
+        "profile_path": "/1je1iVIpiAvJ0CAt4KDk6ALe434.jpg",
+        "cast_id": 15,
+        "character": "Gezhel",
+        "credit_id": "52fe44bfc3a368484e0347d3",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1148743,
+        "known_for_department": "Acting",
+        "name": "Aleksandr Berda",
+        "original_name": "Александр Берда",
+        "popularity": 0.2221,
+        "profile_path": "/rUldJxRhCDRhlYegoaTK6U4fl2H.jpg",
+        "cast_id": 16,
+        "character": "Chief of Staff of the Partisan Detachment",
+        "credit_id": "52fe44bfc3a368484e0347d7",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1406690,
+        "known_for_department": "Acting",
+        "name": "G. Velts",
+        "original_name": "Г. Вельц",
+        "popularity": 0.0561,
+        "profile_path": null,
+        "cast_id": 49,
+        "character": "Medical NCO",
+        "credit_id": "61e1eec2cb30840098dd9666",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5244044,
+        "known_for_department": "Acting",
+        "name": "Viktor Vasiliev",
+        "original_name": "Виктор Васильев",
+        "popularity": 0.1762,
+        "profile_path": "/7ZbYdDqSyYNhRMhKaJTFGK9GLvV.jpg",
+        "cast_id": 69,
+        "character": "German",
+        "credit_id": "67ad8fcff87b3796279f3f3c",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1406692,
+        "known_for_department": "Acting",
+        "name": "Igor Gnevashev",
+        "original_name": "Igor Gnevashev",
+        "popularity": 0.1008,
+        "profile_path": "/2cN6eH5nRDbUSgzcWtjeMtxGBcd.jpg",
+        "cast_id": 40,
+        "character": "Jew",
+        "credit_id": "5fb615cf7c6de3003e0a3e6e",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1163598,
+        "known_for_department": "Acting",
+        "name": "Vasiliy Domrachyov",
+        "original_name": "Василий Домрачёв",
+        "popularity": 0.2864,
+        "profile_path": "/9rOuq0gBTlVeHEeqwl2oFcrFVIS.jpg",
+        "cast_id": 35,
+        "character": "Little Policeman",
+        "credit_id": "5eb824aeed96bc001fa2b0d4",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5244055,
+        "known_for_department": "Acting",
+        "name": "Gennadiy Yelkin",
+        "original_name": "Gennadiy Yelkin",
+        "popularity": 0.0193,
+        "profile_path": null,
+        "cast_id": 70,
+        "character": "Flyora's friend",
+        "credit_id": "67ad90bdabe77ca47a36e7b9",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1961439,
+        "known_for_department": "Acting",
+        "name": "Evgeniy Kryzhanovskiy",
+        "original_name": "Евгений Крыжановский",
+        "popularity": 0.1512,
+        "profile_path": "/lGm7vZjHBPU0Jv43AlYXzZzxXJQ.jpg",
+        "cast_id": 36,
+        "character": "Partisan with Glasses",
+        "credit_id": "5eb82579c3514c00205cb58a",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3382987,
+        "known_for_department": "Acting",
+        "name": "N. Lisichenok",
+        "original_name": "N. Lisichenok",
+        "popularity": 0.0239,
+        "profile_path": null,
+        "cast_id": 53,
+        "character": "",
+        "credit_id": "61e1f13b9ca759001d7448fb",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1783654,
+        "known_for_department": "Acting",
+        "name": "Viktor Manaev",
+        "original_name": "Виктор Манаев",
+        "popularity": 0.213,
+        "profile_path": "/csHIgeFfBcLqgkZmDKLfHmvcqCc.jpg",
+        "cast_id": 41,
+        "character": "Partisan",
+        "credit_id": "5fb616258741c4003e366f65",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3382989,
+        "known_for_department": "Acting",
+        "name": "Takhir Matyullin",
+        "original_name": "Тахир Матюлин",
+        "popularity": 0.085,
+        "profile_path": "/jlIPiqUhz7aGnC3XMbD5SzIdUDE.jpg",
+        "cast_id": 54,
+        "character": "Elderly Partisan",
+        "credit_id": "61e1f1958cfcc700412624de",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 86853,
+        "known_for_department": "Acting",
+        "name": "Pyotr Merkuryev",
+        "original_name": "Пётр Меркурьев",
+        "popularity": 0.172,
+        "profile_path": "/kiFCwEOdurqceu0A3y0WKgwVwWq.jpg",
+        "cast_id": 42,
+        "character": "Gleb Vasiliyevich",
+        "credit_id": "5fb61659ae3843003de0c2f6",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1098559,
+        "known_for_department": "Acting",
+        "name": "Valentin Mishatkin",
+        "original_name": "Валентин Мишаткин",
+        "popularity": 0.1005,
+        "profile_path": null,
+        "cast_id": 39,
+        "character": "Policeman",
+        "credit_id": "5fb615b3a6c104003da4eca0",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2861820,
+        "known_for_department": "Acting",
+        "name": "Gennady Matytskiy",
+        "original_name": "Gennady Matytskiy",
+        "popularity": 0.0214,
+        "profile_path": "/96dfsJvSifZHWuQ6Y2Y8upOS7vN.jpg",
+        "cast_id": 43,
+        "character": "Kazik",
+        "credit_id": "5fb617f968929c003c7801f8",
+        "order": 20
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3382993,
+        "known_for_department": "Acting",
+        "name": "Yevgeniya Polyakova",
+        "original_name": "Yevgeniya Polyakova",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 55,
+        "character": "",
+        "credit_id": "61e1f1f6bf0f630068f3a704",
+        "order": 21
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 90362,
+        "known_for_department": "Acting",
+        "name": "Anatoly Slivnikov",
+        "original_name": "Анатолий Сливников",
+        "popularity": 0.1694,
+        "profile_path": null,
+        "cast_id": 37,
+        "character": "Partisan Disguised as a German Soldier",
+        "credit_id": "5eb825b6cc277c00216e2a66",
+        "order": 22
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1890350,
+        "known_for_department": "Acting",
+        "name": "Georgiy Strokov",
+        "original_name": "Георгий Строков",
+        "popularity": 0.1093,
+        "profile_path": "/jhuXIa0oNQeNEfHb9zRWuqQYNLu.jpg",
+        "cast_id": 44,
+        "character": "Policeman",
+        "credit_id": "5fb6196ea6c104003da4f01b",
+        "order": 23
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1874463,
+        "known_for_department": "Acting",
+        "name": "Tatyana Shestakova",
+        "original_name": "Татьяна Шестакова",
+        "popularity": 0.2773,
+        "profile_path": "/iErG2HlJu1s3HTWsTNzxV85Gu0g.jpg",
+        "cast_id": 38,
+        "character": "Flyora's Mother",
+        "credit_id": "5eb826a20cb3350021cd3589",
+        "order": 24
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2861821,
+        "known_for_department": "Acting",
+        "name": "Oleg Shapko",
+        "original_name": "Oleg Shapko",
+        "popularity": 0.1214,
+        "profile_path": "/hg0vqsuVGWo9U6Y2orTn6Mettqv.jpg",
+        "cast_id": 45,
+        "character": "Partisan",
+        "credit_id": "5fb61b5f7314a1004006eaaf",
+        "order": 25
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3382986,
+        "known_for_department": "Acting",
+        "name": "Nina Evdokimova",
+        "original_name": "Nina Evdokimova",
+        "popularity": 0.0841,
+        "profile_path": null,
+        "cast_id": 51,
+        "character": "Mother (uncredited)",
+        "credit_id": "61e1f093ffd44d0097461d3a",
+        "order": 26
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1090374,
+        "known_for_department": "Acting",
+        "name": "Valery Kravchenko",
+        "original_name": "Валерий Кравченко",
+        "popularity": 0.376,
+        "profile_path": "/tkdZ581x4c1SQgKJCNUZnG1UnIl.jpg",
+        "cast_id": 52,
+        "character": "Kosach (voice) (uncredited)",
+        "credit_id": "61e1f0fd8cfcc7006555f9ea",
+        "order": 27
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2509809,
+        "known_for_department": "Acting",
+        "name": "Aleksandra Ravenskikh",
+        "original_name": "Александра Ровенских",
+        "popularity": 0.2388,
+        "profile_path": "/e5LcfocAnpQqrjf3rhDmqPK86Vd.jpg",
+        "cast_id": 56,
+        "character": "German Woman in the Car (uncredited)",
+        "credit_id": "61e1f243c175b2008a714fc1",
+        "order": 28
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3383015,
+        "known_for_department": "Acting",
+        "name": "Aleksandr Solopov",
+        "original_name": "Aleksandr Solopov",
+        "popularity": 0.0239,
+        "profile_path": null,
+        "cast_id": 57,
+        "character": "Part-bit (uncredited)",
+        "credit_id": "61e1f35dcb30840068ea4767",
+        "order": 29
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2553352,
+        "known_for_department": "Acting",
+        "name": "Igor Bezyaev",
+        "original_name": "Ігор Безяєв",
+        "popularity": 0.1405,
+        "profile_path": "/87qNUimmP1RJH1GbBVuKloHK0g7.jpg",
+        "cast_id": 59,
+        "character": "Partisan (uncredited)",
+        "credit_id": "61e1f3bebf0f6300411fafd3",
+        "order": 30
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3383020,
+        "known_for_department": "Acting",
+        "name": "Yakov Ovchukov-Suvorov",
+        "original_name": "Yakov Ovchukov-Suvorov",
+        "popularity": 0.0413,
+        "profile_path": null,
+        "cast_id": 60,
+        "character": "German with a Tambourine (uncredited)",
+        "credit_id": "61e1f3f0bf0f63001ae5c614",
+        "order": 31
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1614386,
+        "known_for_department": "Acting",
+        "name": "Svetlana Zelenkovskaya",
+        "original_name": "Svetlana Zelenkovskaya",
+        "popularity": 0.1902,
+        "profile_path": "/8pAdFPxV1gvBoPN6YZz9VU53Dkf.jpg",
+        "cast_id": 47,
+        "character": "Village Girl (uncredited)",
+        "credit_id": "5fb65773d96c3c0040de5a49",
+        "order": 32
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 125892,
+        "known_for_department": "Art",
+        "name": "Viktor Petrov",
+        "original_name": "Виктор Петров",
+        "popularity": 0.0959,
+        "profile_path": null,
+        "credit_id": "52fe44bfc3a368484e0347f5",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 93406,
+        "known_for_department": "Directing",
+        "name": "Elem Klimov",
+        "original_name": "Элем Климов",
+        "popularity": 0.8301,
+        "profile_path": "/9NKmQh7OWRefFBaMl30MTLgRqKj.jpg",
+        "credit_id": "52fe44bfc3a368484e0347a1",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 929399,
+        "known_for_department": "Sound",
+        "name": "Oleg Yanchenko",
+        "original_name": "Олег Янченко",
+        "popularity": 0.0575,
+        "profile_path": "/3fSOIj2F2YhpUaXLkTIhE8s1O3l.jpg",
+        "credit_id": "52fe44bfc3a368484e0347ef",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1092913,
+        "known_for_department": "Editing",
+        "name": "Valeriya Belova",
+        "original_name": "Валерия Белова",
+        "popularity": 0.0779,
+        "profile_path": "/zKCJCIWukTUo28ksi46ZT5HYW9b.jpg",
+        "credit_id": "52fe44bfc3a368484e0347e9",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1148745,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Eleonora Semyonova",
+        "original_name": "Eleonora Semyonova",
+        "popularity": 0.0505,
+        "profile_path": null,
+        "credit_id": "52fe44bfc3a368484e034807",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1584996,
+        "known_for_department": "Costume & Make-Up",
+        "name": "V. Bolotnikova",
+        "original_name": "В. Болотникова",
+        "popularity": 0.0646,
+        "profile_path": null,
+        "credit_id": "638ebf8b196757028e60657c",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 57467,
+        "known_for_department": "Camera",
+        "name": "Alexey Rodionov",
+        "original_name": "Алексей Родионов",
+        "popularity": 0.1185,
+        "profile_path": null,
+        "credit_id": "591100f8c3a36864d403a857",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 59903,
+        "known_for_department": "Writing",
+        "name": "Ales Adamovich",
+        "original_name": "Алесь Адамович",
+        "popularity": 0.177,
+        "profile_path": "/vobMb2nSvKGXhp0FPcgwTdpyMVa.jpg",
+        "credit_id": "662a568e33a533009dd1e205",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 93406,
+        "known_for_department": "Directing",
+        "name": "Elem Klimov",
+        "original_name": "Элем Климов",
+        "popularity": 0.8301,
+        "profile_path": "/9NKmQh7OWRefFBaMl30MTLgRqKj.jpg",
+        "credit_id": "662a567f886348011eae590f",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 57467,
+        "known_for_department": "Camera",
+        "name": "Alexey Rodionov",
+        "original_name": "Алексей Родионов",
+        "popularity": 0.1185,
+        "profile_path": null,
+        "credit_id": "663270312a09bc0126584c79",
+        "department": "Camera",
+        "job": "Steadicam Operator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3669954,
+        "known_for_department": "Production",
+        "name": "Stepan Tereschenko",
+        "original_name": "Степан Терещенко",
+        "popularity": 0.0261,
+        "profile_path": null,
+        "credit_id": "66c4dcf66d109b33c0adc4ff",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1866991,
+        "known_for_department": "Sound",
+        "name": "Viktor Mors",
+        "original_name": "Виктор Морс",
+        "popularity": 0.1182,
+        "profile_path": null,
+        "credit_id": "5eb7ef84bbe1dd002281a1ae",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2319190,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Aleksandr Zhurba",
+        "original_name": "Александр Журба",
+        "popularity": 0.0905,
+        "profile_path": null,
+        "credit_id": "5eb7f41b0cb3350020cf90c1",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2530936,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Sofya Mikhlina",
+        "original_name": "Sofya Mikhlina",
+        "popularity": 0.045,
+        "profile_path": null,
+        "credit_id": "5eb7f24a0cb3350020cf8c63",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "DE",
+        "title": "Geh und sieh",
+        "type": "GDR"
+      },
+      {
+        "iso_3166_1": "ES",
+        "title": "Ven y mira (Masacre)",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "AR",
+        "title": "Masacre: Venga y vea...",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "BE",
+        "title": "Ga en kijk",
+        "type": "Flemish literal title"
+      },
+      {
+        "iso_3166_1": "FR",
+        "title": "Va et regarde",
+        "type": "TV title"
+      },
+      {
+        "iso_3166_1": "FR",
+        "title": "Viens et vois",
+        "type": "DVD title"
+      },
+      {
+        "iso_3166_1": "GR",
+        "title": "Ela na deis",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "JP",
+        "title": "Honoo 628",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "RS",
+        "title": "Idi i gledaj",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "BY",
+        "title": "Ідзі і глядзі",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "UA",
+        "title": "Іди і дивись",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "KG",
+        "title": "Келип көр",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "FI",
+        "title": "Tule ja katso",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "RO",
+        "title": "Vino și vezi",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "RO",
+        "title": "Du-te şi vezi",
+        "type": "alternative title"
+      },
+      {
+        "iso_3166_1": "PT",
+        "title": "Vem e Vê",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "MX",
+        "title": "Ven y mira",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "IT",
+        "title": "Va' e vedi",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "BR",
+        "title": "Vá e Veja",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "KR",
+        "title": "컴 앤 씨",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "PL",
+        "title": "Idź i patrz",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "ID",
+        "title": "Datang dan Lihat",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "AZ",
+        "title": "Gəl və Gör",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "IR",
+        "title": "بیا و بنگر",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "AM",
+        "title": "Գնա և տես",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "AM",
+        "title": "Gna ev Tes",
+        "type": ""
+      }
+    ]
+  }
+}

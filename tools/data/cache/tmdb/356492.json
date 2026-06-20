@@ -1,0 +1,106 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [],
+  "homepage": "",
+  "id": 356492,
+  "imdb_id": "tt5525538",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "記憶のカタログ",
+  "overview": "Shuji Terayama starts a poem, and then ships his pencil to Herbie Yamaguchi in the UK. Herbie ships the pencil back to Terayama, who then finishes his poem.",
+  "popularity": 0.0996,
+  "poster_path": "/xPeQhbtFPjgfhfBazkGAM05gZW0.jpg",
+  "production_companies": [],
+  "production_countries": [],
+  "release_date": "1977-08-28",
+  "revenue": 0,
+  "runtime": 3,
+  "softcore": false,
+  "spoken_languages": [],
+  "status": "Released",
+  "tagline": "",
+  "title": "Catalog of Memory",
+  "video": false,
+  "vote_average": 0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 137495,
+        "known_for_department": "Directing",
+        "name": "Shūji Terayama",
+        "original_name": "寺山修司",
+        "popularity": 0.8098,
+        "profile_path": "/n2zFgMKGmniENJIDijCA4koXRcj.jpg",
+        "cast_id": 1,
+        "character": "himself",
+        "credit_id": "55dfe8d5c3a3682698001348",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2031538,
+        "known_for_department": "Sound",
+        "name": "Michi Tanaka",
+        "original_name": "Michi Tanaka",
+        "popularity": 0.1965,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "Self",
+        "credit_id": "6636868c356a7101291794ba",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1366210,
+        "known_for_department": "Acting",
+        "name": "Herbie Yamaguchi",
+        "original_name": "Herbie Yamaguchi",
+        "popularity": 0.0505,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "Self",
+        "credit_id": "66379a806611b4012a687bbe",
+        "order": 2
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2031538,
+        "known_for_department": "Sound",
+        "name": "Michi Tanaka",
+        "original_name": "Michi Tanaka",
+        "popularity": 0.1965,
+        "profile_path": null,
+        "credit_id": "663686abc616ac01251a8c12",
+        "department": "Directing",
+        "job": "Director"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "NL",
+        "title": "Catalogue of Memory",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "JP",
+        "title": "Kioku no Katarogu",
+        "type": ""
+      }
+    ]
+  }
+}

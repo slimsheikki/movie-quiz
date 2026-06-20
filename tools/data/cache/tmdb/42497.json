@@ -1,0 +1,355 @@
+{
+  "adult": false,
+  "backdrop_path": "/jDgaKZG5KfEMKYmxt6G3mpKBfo6.jpg",
+  "belongs_to_collection": null,
+  "budget": 27000,
+  "genres": [
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 42497,
+  "imdb_id": "tt0067580",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Pink Narcissus",
+  "overview": "An outrageous erotic poem focusing on the daydreams of a beautiful boy prostitute who, from the seclusion of his ultra-kitsch apartment, conceives a series of interlinked narcissistic fantasies populated by matadors, dancing boys, slaves, and leather-clad bikers.",
+  "popularity": 1.0173,
+  "poster_path": "/kaZiiGE6820KyFF9XkzPB9Rx9qn.jpg",
+  "production_companies": [
+    {
+      "id": 136146,
+      "logo_path": null,
+      "name": "La Folie des Hommes",
+      "origin_country": ""
+    },
+    {
+      "id": 136147,
+      "logo_path": null,
+      "name": "Pink Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1971-05-24",
+  "revenue": 0,
+  "runtime": 65,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "A unique experience in visual fantasy!",
+  "title": "Pink Narcissus",
+  "video": false,
+  "vote_average": 6.3,
+  "vote_count": 60,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1168215,
+        "known_for_department": "Acting",
+        "name": "Bobby Kendall",
+        "original_name": "Bobby Kendall",
+        "popularity": 0.1006,
+        "profile_path": null,
+        "cast_id": 1013,
+        "character": "Pan",
+        "credit_id": "5ef135b62e2b2c00377050cf",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2688197,
+        "known_for_department": "Acting",
+        "name": "Don Brooks",
+        "original_name": "Don Brooks",
+        "popularity": 0.049,
+        "profile_path": null,
+        "cast_id": 1012,
+        "character": "Angel / Times Square Hustler / Hippie",
+        "credit_id": "5ef1359b6e3deb0037a3b697",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 140172,
+        "known_for_department": "Acting",
+        "name": "Charles Ludlam",
+        "original_name": "Charles Ludlam",
+        "popularity": 0.2609,
+        "profile_path": null,
+        "cast_id": 1014,
+        "character": "Salesman / Bar owner / Blind man / Pizza maker / Hindu dancer (uncredited)",
+        "credit_id": "5ef135d0283ed900368f5dc8",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2688210,
+        "known_for_department": "Acting",
+        "name": "Arthur Williams",
+        "original_name": "Arthur Williams",
+        "popularity": 0.0557,
+        "profile_path": null,
+        "cast_id": 1024,
+        "character": "John",
+        "credit_id": "5ef13da82e2b2c0036724fe8",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2688211,
+        "known_for_department": "Acting",
+        "name": "Don Kvares",
+        "original_name": "Don Kvares",
+        "popularity": 0.0445,
+        "profile_path": null,
+        "cast_id": 1025,
+        "character": "Drag Queen",
+        "credit_id": "5ef13dc16c84d60034ad50c8",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2688212,
+        "known_for_department": "Acting",
+        "name": "Eddie Barton",
+        "original_name": "Eddie Barton",
+        "popularity": 0.0777,
+        "profile_path": null,
+        "cast_id": 1026,
+        "character": "",
+        "credit_id": "5ef13dd7af58cb0032f4c293",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2005223,
+        "known_for_department": "Acting",
+        "name": "Larry Rey",
+        "original_name": "Larry Rey",
+        "popularity": 0.0362,
+        "profile_path": null,
+        "cast_id": 1027,
+        "character": "Priest",
+        "credit_id": "5ef13e05283ed90035919ce2",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2688215,
+        "known_for_department": "Acting",
+        "name": "Harvey Yerkes",
+        "original_name": "Harvey Yerkes",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "cast_id": 1028,
+        "character": "",
+        "credit_id": "5ef13fa5af58cb0035f69a9d",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2688216,
+        "known_for_department": "Acting",
+        "name": "Don Stephens",
+        "original_name": "Don Stephens",
+        "popularity": 0.0336,
+        "profile_path": null,
+        "cast_id": 1029,
+        "character": "",
+        "credit_id": "5ef13fc4957e6d00367dc6b4",
+        "order": 8
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3069940,
+        "known_for_department": "Production",
+        "name": "Saul Shiffrin",
+        "original_name": "Saul Shiffrin",
+        "popularity": 0.0327,
+        "profile_path": null,
+        "credit_id": "60887755e19de90029f69e36",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": true,
+        "gender": 2,
+        "id": 237393,
+        "known_for_department": "Directing",
+        "name": "James Bidgood",
+        "original_name": "James Bidgood",
+        "popularity": 0,
+        "profile_path": "/lEwLqumdJsLovhhICpNKH6GjlZw.jpg",
+        "credit_id": "5ef136152e2b2c00356e0b54",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": true,
+        "gender": 2,
+        "id": 237393,
+        "known_for_department": "Directing",
+        "name": "James Bidgood",
+        "original_name": "James Bidgood",
+        "popularity": 0,
+        "profile_path": "/lEwLqumdJsLovhhICpNKH6GjlZw.jpg",
+        "credit_id": "5ef136256c84d60034ad1efe",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": true,
+        "gender": 2,
+        "id": 237393,
+        "known_for_department": "Directing",
+        "name": "James Bidgood",
+        "original_name": "James Bidgood",
+        "popularity": 0,
+        "profile_path": "/lEwLqumdJsLovhhICpNKH6GjlZw.jpg",
+        "credit_id": "5ef13637957e6d00377cbf40",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": true,
+        "gender": 2,
+        "id": 237393,
+        "known_for_department": "Directing",
+        "name": "James Bidgood",
+        "original_name": "James Bidgood",
+        "popularity": 0,
+        "profile_path": "/lEwLqumdJsLovhhICpNKH6GjlZw.jpg",
+        "credit_id": "5ef13646957e6d00367d8304",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 64728,
+        "known_for_department": "Editing",
+        "name": "Martin Jay Sadoff",
+        "original_name": "Martin Jay Sadoff",
+        "popularity": 0.1512,
+        "profile_path": null,
+        "credit_id": "5ef1365f6e3deb0036a6e598",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": true,
+        "gender": 2,
+        "id": 237393,
+        "known_for_department": "Directing",
+        "name": "James Bidgood",
+        "original_name": "James Bidgood",
+        "popularity": 0,
+        "profile_path": "/lEwLqumdJsLovhhICpNKH6GjlZw.jpg",
+        "credit_id": "5ef1367a6e3deb0036a6e5db",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 66709,
+        "known_for_department": "Production",
+        "name": "Gary Goch",
+        "original_name": "Gary Goch",
+        "popularity": 0.0306,
+        "profile_path": null,
+        "credit_id": "5ef137006e3deb0036a6e6be",
+        "department": "Sound",
+        "job": "Music Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 64728,
+        "known_for_department": "Editing",
+        "name": "Martin Jay Sadoff",
+        "original_name": "Martin Jay Sadoff",
+        "popularity": 0.1512,
+        "profile_path": null,
+        "credit_id": "5ef13765957e6d00367d84f8",
+        "department": "Sound",
+        "job": "Music Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 65553,
+        "known_for_department": "Acting",
+        "name": "Bill Graham",
+        "original_name": "Bill Graham",
+        "popularity": 0.1011,
+        "profile_path": null,
+        "credit_id": "5ef13783af58cb0035f65c64",
+        "department": "Production",
+        "job": "Finance"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "JP",
+        "title": "ピンクナルシス",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "SU",
+        "title": "Розовый нарцисс",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "UA",
+        "title": "Рожевий нарцис",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "KR",
+        "title": "핑크 나르키소스",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "KR",
+        "title": "분홍 수선화",
+        "type": ""
+      }
+    ]
+  }
+}

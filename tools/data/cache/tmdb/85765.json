@@ -1,0 +1,353 @@
+{
+  "adult": false,
+  "backdrop_path": "/elW1M4UjyEr6IqvXwPhpjOlHgHI.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "",
+  "id": 85765,
+  "imdb_id": "tt0062751",
+  "origin_country": [
+    "US",
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "Boom!",
+  "overview": "Secluding herself in an island mansion in the Mediterranean with her servants and nurses, the wealthy Flora \"Sissy\" Goforth  prepares for her impending death -- and she isn't the only one who's waiting. Known for his attraction to the dying rich, poet Chris Flanders ingratiates himself with the wilting Sissy. Although her friend explains Flanders' \"Angel of Death\" nature to her, Sissy embraces the vulture-like Flanders.",
+  "popularity": 0.5314,
+  "poster_path": "/fnZXyiICb8mJzXNMnnJnq6nQwEr.jpg",
+  "production_companies": [
+    {
+      "id": 49778,
+      "logo_path": null,
+      "name": "Moon Lake",
+      "origin_country": ""
+    },
+    {
+      "id": 33,
+      "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+      "name": "Universal Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 49777,
+      "logo_path": null,
+      "name": "John Heyman Productions",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "1968-05-26",
+  "revenue": 0,
+  "runtime": 113,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Together they devour life",
+  "title": "Boom!",
+  "video": false,
+  "vote_average": 5.9,
+  "vote_count": 39,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3635,
+        "known_for_department": "Acting",
+        "name": "Elizabeth Taylor",
+        "original_name": "Elizabeth Taylor",
+        "popularity": 2.197,
+        "profile_path": "/wYJRf3omoq8TJ1CHUXo1nxWr3ud.jpg",
+        "cast_id": 6,
+        "character": "Flora 'Sissy' Goforth",
+        "credit_id": "52fe495b9251416c910aaa9b",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5341,
+        "known_for_department": "Acting",
+        "name": "Richard Burton",
+        "original_name": "Richard Burton",
+        "popularity": 1.6672,
+        "profile_path": "/j8yRSo6S2bnYubKZTBUvD7fuOyX.jpg",
+        "cast_id": 7,
+        "character": "Chris Flanders",
+        "credit_id": "52fe495b9251416c910aaa9f",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 12718,
+        "known_for_department": "Writing",
+        "name": "Noël Coward",
+        "original_name": "Noël Coward",
+        "popularity": 0.6346,
+        "profile_path": "/20dd32wR8putmUni8BK7ABx5ThM.jpg",
+        "cast_id": 8,
+        "character": "The Witch of Capri",
+        "credit_id": "52fe495b9251416c910aaaa3",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 69206,
+        "known_for_department": "Acting",
+        "name": "Joanna Shimkus",
+        "original_name": "Joanna Shimkus",
+        "popularity": 0.5628,
+        "profile_path": "/4X0G4vwBFjQNBdd6wpp3osv6DT2.jpg",
+        "cast_id": 9,
+        "character": "Miss Black",
+        "credit_id": "52fe495b9251416c910aaaa7",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 16085,
+        "known_for_department": "Acting",
+        "name": "Michael Dunn",
+        "original_name": "Michael Dunn",
+        "popularity": 0.5351,
+        "profile_path": "/xMvzOvHR8CweClFPuRfHKkSAHUq.jpg",
+        "cast_id": 10,
+        "character": "Rudi",
+        "credit_id": "52fe495b9251416c910aaaab",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5567,
+        "known_for_department": "Acting",
+        "name": "Romolo Valli",
+        "original_name": "Romolo Valli",
+        "popularity": 0.4322,
+        "profile_path": "/xVO1GktLxu7JmqVgEPiShqo4TMA.jpg",
+        "cast_id": 11,
+        "character": "Doctor Luilo",
+        "credit_id": "56783eebc3a36847470000ec",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1496792,
+        "known_for_department": "Acting",
+        "name": "Fernando Piazza",
+        "original_name": "Fernando Piazza",
+        "popularity": 0.0538,
+        "profile_path": null,
+        "cast_id": 12,
+        "character": "Etti",
+        "credit_id": "56783ef6c3a36847500000da",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 937521,
+        "known_for_department": "Acting",
+        "name": "Veronica Wells",
+        "original_name": "Veronica Wells",
+        "popularity": 0.0822,
+        "profile_path": null,
+        "cast_id": 13,
+        "character": "Simonetta",
+        "credit_id": "56783f06c3a368474a0000e7",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1551978,
+        "known_for_department": "Acting",
+        "name": "Howard Taylor",
+        "original_name": "Howard Taylor",
+        "popularity": 0.0281,
+        "profile_path": null,
+        "cast_id": 14,
+        "character": "Journalist",
+        "credit_id": "56783f13c3a36847440000f8",
+        "order": 8
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 39009,
+        "known_for_department": "Directing",
+        "name": "Joseph Losey",
+        "original_name": "Joseph Losey",
+        "popularity": 0.4573,
+        "profile_path": "/sPcG1jKsfCIViiDRJkB0FzH0PJt.jpg",
+        "credit_id": "52fe495b9251416c910aaa7f",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2289,
+        "known_for_department": "Sound",
+        "name": "John Barry",
+        "original_name": "John Barry",
+        "popularity": 0.5241,
+        "profile_path": "/5ZDkrb8pj67sD65F5W8J32LT2NO.jpg",
+        "credit_id": "52fe495b9251416c910aaa8b",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 133869,
+        "known_for_department": "Editing",
+        "name": "Reginald Beck",
+        "original_name": "Reginald Beck",
+        "popularity": 0.1219,
+        "profile_path": null,
+        "credit_id": "52fe495b9251416c910aaa97",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 666,
+        "known_for_department": "Camera",
+        "name": "Douglas Slocombe",
+        "original_name": "Douglas Slocombe",
+        "popularity": 0.2964,
+        "profile_path": "/3MLaxck3irbvVyNBJXAAASoU1C6.jpg",
+        "credit_id": "573c32c5c3a3687d12000aee",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 32299,
+        "known_for_department": "Production",
+        "name": "John Heyman",
+        "original_name": "John Heyman",
+        "popularity": 0.0996,
+        "profile_path": null,
+        "credit_id": "5bb79545c3a368151002fefc",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 24680,
+        "known_for_department": "Sound",
+        "name": "Gerry Humphreys",
+        "original_name": "Gerry Humphreys",
+        "popularity": 0.2112,
+        "profile_path": null,
+        "credit_id": "5bb7957c0e0a26339d0294c8",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 232013,
+        "known_for_department": "Production",
+        "name": "Norman Priggen",
+        "original_name": "Norman Priggen",
+        "popularity": 0.1535,
+        "profile_path": null,
+        "credit_id": "5bb7954e0e0a26338b02ca00",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1370816,
+        "known_for_department": "Sound",
+        "name": "Les Hammond",
+        "original_name": "Les Hammond",
+        "popularity": 0.0909,
+        "profile_path": null,
+        "credit_id": "5bb79572c3a3681515030b23",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 11061,
+        "known_for_department": "Art",
+        "name": "Richard Macdonald",
+        "original_name": "Richard Macdonald",
+        "popularity": 0.1447,
+        "profile_path": null,
+        "credit_id": "5bb7955f9251410dd502a87c",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3634,
+        "known_for_department": "Writing",
+        "name": "Tennessee Williams",
+        "original_name": "Tennessee Williams",
+        "popularity": 0.4862,
+        "profile_path": "/uSKXFsiDcFUIEJUyQ0CqoFwIJ2s.jpg",
+        "credit_id": "690f426b2465062343ce803e",
+        "department": "Writing",
+        "job": "Theatre Play"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3634,
+        "known_for_department": "Writing",
+        "name": "Tennessee Williams",
+        "original_name": "Tennessee Williams",
+        "popularity": 0.4862,
+        "profile_path": "/uSKXFsiDcFUIEJUyQ0CqoFwIJ2s.jpg",
+        "credit_id": "690f42767be3c0786ace81fc",
+        "department": "Writing",
+        "job": "Screenplay"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  }
+}

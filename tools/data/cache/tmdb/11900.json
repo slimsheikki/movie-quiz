@@ -1,0 +1,414 @@
+{
+  "adult": false,
+  "backdrop_path": "/sZRR4sTJrXszqW6gGqg846FzuP.jpg",
+  "belongs_to_collection": null,
+  "budget": 200000,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 11900,
+  "imdb_id": "tt0065436",
+  "origin_country": [
+    "DE"
+  ],
+  "original_language": "de",
+  "original_title": "Auch Zwerge haben klein angefangen",
+  "overview": "A group of tormented patients stage a coup at an oppressive, dismal asylum after they're not allowed out on an excursion.",
+  "popularity": 0.5956,
+  "poster_path": "/b0jmVC1a4LghH9BtzTPn1DELvBP.jpg",
+  "production_companies": [
+    {
+      "id": 843,
+      "logo_path": "/2OHdsgrtHxa9CtFlkxnbyrZv8Jy.png",
+      "name": "Werner Herzog Filmproduktion",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "release_date": "1971-02-02",
+  "revenue": 0,
+  "runtime": 96,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Even Dwarfs Started Small",
+  "video": false,
+  "vote_average": 6.4,
+  "vote_count": 123,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 70870,
+        "known_for_department": "Acting",
+        "name": "Helmut Döring",
+        "original_name": "Helmut Döring",
+        "popularity": 0.0507,
+        "profile_path": null,
+        "cast_id": 1,
+        "character": "Hombré",
+        "credit_id": "52fe449d9251416c7503b017",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 70871,
+        "known_for_department": "Acting",
+        "name": "Paul Glauer",
+        "original_name": "Paul Glauer",
+        "popularity": 0.0297,
+        "profile_path": null,
+        "cast_id": 2,
+        "character": "Erzieher",
+        "credit_id": "52fe449d9251416c7503b01b",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 70872,
+        "known_for_department": "Acting",
+        "name": "Gisela Hertwig",
+        "original_name": "Gisela Hertwig",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "Pobrecita",
+        "credit_id": "52fe449d9251416c7503b01f",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 70873,
+        "known_for_department": "Acting",
+        "name": "Hertel Minkner",
+        "original_name": "Hertel Minkner",
+        "popularity": 0.0318,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "Chicklets",
+        "credit_id": "52fe449d9251416c7503b023",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1578737,
+        "known_for_department": "Acting",
+        "name": "Gertrud Piccini",
+        "original_name": "Gertrud Piccini",
+        "popularity": 0.0389,
+        "profile_path": null,
+        "cast_id": 15,
+        "character": "Piccini",
+        "credit_id": "56c3e6f59251416ba9000e20",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1578738,
+        "known_for_department": "Acting",
+        "name": "Marianne Saar",
+        "original_name": "Marianne Saar",
+        "popularity": 0.0281,
+        "profile_path": null,
+        "cast_id": 16,
+        "character": "Theresa",
+        "credit_id": "56c3e6fdc3a3687207000fd8",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1578739,
+        "known_for_department": "Acting",
+        "name": "Brigitte Saar",
+        "original_name": "Brigitte Saar",
+        "popularity": 0.0168,
+        "profile_path": null,
+        "cast_id": 17,
+        "character": "Cochina",
+        "credit_id": "56c3e705c3a3687203000f06",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1578740,
+        "known_for_department": "Acting",
+        "name": "Gerd Gickel",
+        "original_name": "Gerd Gickel",
+        "popularity": 0.0445,
+        "profile_path": null,
+        "cast_id": 18,
+        "character": "Pepe",
+        "credit_id": "56c3e70cc3a3687207000fdf",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1578741,
+        "known_for_department": "Acting",
+        "name": "Erna Gschwendtner",
+        "original_name": "Erna Gschwendtner",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 19,
+        "character": "Azucar",
+        "credit_id": "56c3e7149251416ba7000f7a",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1578742,
+        "known_for_department": "Acting",
+        "name": "Gerhard Maerz",
+        "original_name": "Gerhard Maerz",
+        "popularity": 0.0453,
+        "profile_path": null,
+        "cast_id": 20,
+        "character": "Territory",
+        "credit_id": "56c3e71ec3a36871fd000e13",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1578743,
+        "known_for_department": "Acting",
+        "name": "Alfredo Piccini",
+        "original_name": "Alfredo Piccini",
+        "popularity": 0,
+        "profile_path": null,
+        "cast_id": 21,
+        "character": "Anselmo",
+        "credit_id": "56c3e7269251416bba000e81",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1578744,
+        "known_for_department": "Acting",
+        "name": "Erna Smollarz",
+        "original_name": "Erna Smollarz",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 22,
+        "character": "Schweppes",
+        "credit_id": "56c3e72f9251416bac000ddb",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1578745,
+        "known_for_department": "Acting",
+        "name": "Lajos Zsarnoczay",
+        "original_name": "Lajos Zsarnoczay",
+        "popularity": 0,
+        "profile_path": null,
+        "cast_id": 23,
+        "character": "Chapparo",
+        "credit_id": "56c3e7379251416bae000f3a",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1448455,
+        "known_for_department": "Acting",
+        "name": "Pepi Hermine",
+        "original_name": "Pepi Hermine",
+        "popularity": 0.0409,
+        "profile_path": "/dFUHEthHSMLEXW9uOyybEIl74nL.jpg",
+        "cast_id": 24,
+        "character": "The President",
+        "credit_id": "56c3e7409251416bb1000e7b",
+        "order": 13
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 20553,
+        "known_for_department": "Camera",
+        "name": "Thomas Mauch",
+        "original_name": "Thomas Mauch",
+        "popularity": 0.1969,
+        "profile_path": null,
+        "credit_id": "52fe449d9251416c7503b041",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6818,
+        "known_for_department": "Directing",
+        "name": "Werner Herzog",
+        "original_name": "Werner Herzog",
+        "popularity": 1.5623,
+        "profile_path": "/qKlz1oM482Xf0jTPfLiR6qXlLYK.jpg",
+        "credit_id": "52fe449d9251416c7503b035",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 49501,
+        "known_for_department": "Sound",
+        "name": "Florian Fricke",
+        "original_name": "Florian Fricke",
+        "popularity": 0.0143,
+        "profile_path": "/qa5a0Q28i8wnHbz9KUv2ykAuAr6.jpg",
+        "credit_id": "52fe449d9251416c7503b03b",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6818,
+        "known_for_department": "Directing",
+        "name": "Werner Herzog",
+        "original_name": "Werner Herzog",
+        "popularity": 1.5623,
+        "profile_path": "/qKlz1oM482Xf0jTPfLiR6qXlLYK.jpg",
+        "credit_id": "52fe449d9251416c7503b02f",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 20554,
+        "known_for_department": "Editing",
+        "name": "Beate Mainka-Jellinghaus",
+        "original_name": "Beate Mainka-Jellinghaus",
+        "popularity": 0.3264,
+        "profile_path": null,
+        "credit_id": "52fe449d9251416c7503b047",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6818,
+        "known_for_department": "Directing",
+        "name": "Werner Herzog",
+        "original_name": "Werner Herzog",
+        "popularity": 1.5623,
+        "profile_path": "/qKlz1oM482Xf0jTPfLiR6qXlLYK.jpg",
+        "credit_id": "52fe449d9251416c7503b029",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1578736,
+        "known_for_department": "Production",
+        "name": "Francisco Ariza",
+        "original_name": "Francisco Ariza",
+        "popularity": 0.1364,
+        "profile_path": null,
+        "credit_id": "56c3e6bec3a3687203000ef8",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1463981,
+        "known_for_department": "Acting",
+        "name": "Wolfgang von Ungern-Sternberg",
+        "original_name": "Wolfgang von Ungern-Sternberg",
+        "popularity": 0.055,
+        "profile_path": null,
+        "credit_id": "56c3e6d19251416bba000e6b",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 20555,
+        "known_for_department": "Sound",
+        "name": "Herbert Prasch",
+        "original_name": "Herbert Prasch",
+        "popularity": 0.0377,
+        "profile_path": null,
+        "credit_id": "56c3e6dac3a3687200000f99",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 49497,
+        "known_for_department": "Production",
+        "name": "Walter Saxer",
+        "original_name": "Walter Saxer",
+        "popularity": 0.1764,
+        "profile_path": null,
+        "credit_id": "56c3e6c89251416ba7000f6b",
+        "department": "Production",
+        "job": "Unit Production Manager"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "US",
+        "title": "Even Dwarfs Started Small",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "ES",
+        "title": "También los enanos empezaron pequeños",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "NO",
+        "title": "Også dverger begynte i det små",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "IT",
+        "title": "Anche i nani hanno cominciato da piccoli",
+        "type": ""
+      }
+    ]
+  }
+}

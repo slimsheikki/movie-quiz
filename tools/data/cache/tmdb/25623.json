@@ -1,0 +1,722 @@
+{
+  "adult": false,
+  "backdrop_path": "/ylHdeFztJTQorRtePsLyNt69msB.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "http://www.janusfilms.com/house",
+  "id": 25623,
+  "imdb_id": "tt0076162",
+  "origin_country": [
+    "JP"
+  ],
+  "original_language": "ja",
+  "original_title": "ハウス",
+  "overview": "Hoping to find a sense of connection to her late mother, Gorgeous takes a trip with her friends to visit her aunt's ancestral house in the countryside. The girls soon discover that there is more to the old house than meets the eye.",
+  "popularity": 2.8802,
+  "poster_path": "/myMnHnG6kxYaQYknnW76VCHBpYT.jpg",
+  "production_companies": [
+    {
+      "id": 70472,
+      "logo_path": null,
+      "name": "Toho Eizo Bijutsu",
+      "origin_country": "JP"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    }
+  ],
+  "release_date": "1977-08-26",
+  "revenue": 0,
+  "runtime": 88,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    }
+  ],
+  "status": "Released",
+  "tagline": "In the heart of a violet forest, an old house awaits young girls.",
+  "title": "House",
+  "video": false,
+  "vote_average": 7.3,
+  "vote_count": 787,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 132765,
+        "known_for_department": "Acting",
+        "name": "Kimiko Ikegami",
+        "original_name": "池上季実子",
+        "popularity": 1.0938,
+        "profile_path": "/gnCzRkDZ5uMZWzVT2Yi4OFIerAP.jpg",
+        "cast_id": 13,
+        "character": "Gorgeous / Gorgeous' Mother",
+        "credit_id": "5a91bcb60e0a2616c00105bb",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 132766,
+        "known_for_department": "Acting",
+        "name": "Kumiko Ohba",
+        "original_name": "大場久美子",
+        "popularity": 1.2165,
+        "profile_path": "/ka6OpgAGQNuy8PRC5DjdKUYZHyz.jpg",
+        "cast_id": 46,
+        "character": "Fantasy",
+        "credit_id": "5e87e0b5d207f3001695b8d7",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 132768,
+        "known_for_department": "Acting",
+        "name": "Ai Matsubara",
+        "original_name": "まつばらあい",
+        "popularity": 0.2509,
+        "profile_path": "/6Bg6NqdgXhsdrMYAqggnuYKzMAv.jpg",
+        "cast_id": 16,
+        "character": "Prof",
+        "credit_id": "5a91bd1a925141417d00f001",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 132769,
+        "known_for_department": "Acting",
+        "name": "Miki Jinbo",
+        "original_name": "神保美喜",
+        "popularity": 0.6042,
+        "profile_path": "/mI3yZDGntnCF55f8kTymDSZsHMN.jpg",
+        "cast_id": 14,
+        "character": "Kung Fu",
+        "credit_id": "5a91bcc8c3a36824fd010c02",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 132772,
+        "known_for_department": "Acting",
+        "name": "Eriko Tanaka",
+        "original_name": "エリコ・タナカ",
+        "popularity": 0.4665,
+        "profile_path": "/az4RrN8CooeeVYy3tzI9HVlYhbl.jpg",
+        "cast_id": 18,
+        "character": "Melody",
+        "credit_id": "5a91bd3f0e0a2616bd00fa4b",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 132770,
+        "known_for_department": "Acting",
+        "name": "Masayo Miyako",
+        "original_name": "宮子昌代",
+        "popularity": 0.2742,
+        "profile_path": "/b9jUfiKHBRpvc9vTtdUnaDdoniu.jpg",
+        "cast_id": 19,
+        "character": "Sweet",
+        "credit_id": "5a91bd540e0a2616bd00fa64",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 132771,
+        "known_for_department": "Acting",
+        "name": "Mieko Satoh",
+        "original_name": "Mieko Satoh",
+        "popularity": 0.1839,
+        "profile_path": "/duj9DXEAbPYjc6BvJ4YHYdvHvlz.jpg",
+        "cast_id": 17,
+        "character": "Mac",
+        "credit_id": "5a91bd2dc3a36824fd010c9b",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 132767,
+        "known_for_department": "Acting",
+        "name": "Yōko Minamida",
+        "original_name": "南田洋子",
+        "popularity": 0.9766,
+        "profile_path": "/pSLAagXDtvX35HbmYQh0hO7ljTN.jpg",
+        "cast_id": 27,
+        "character": "Hausu Karei",
+        "credit_id": "5a91be34925141417700f9c5",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1523785,
+        "known_for_department": "Acting",
+        "name": "Kiyohiko Ozaki",
+        "original_name": "尾崎紀世彦",
+        "popularity": 0.3177,
+        "profile_path": null,
+        "cast_id": 20,
+        "character": "Keisuke Togo",
+        "credit_id": "5a91bd6cc3a368251d00f24b",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1523786,
+        "known_for_department": "Writing",
+        "name": "Saho Sasazawa",
+        "original_name": "笹沢左保",
+        "popularity": 0.3789,
+        "profile_path": null,
+        "cast_id": 21,
+        "character": "Gorgeous' Father",
+        "credit_id": "5a91bd8e925141418600f1a3",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 148472,
+        "known_for_department": "Acting",
+        "name": "Haruko Wanibuchi",
+        "original_name": "鰐淵晴子",
+        "popularity": 1.5829,
+        "profile_path": "/mfM3o5IhVERSVrdZaYJ5o4xuv2q.jpg",
+        "cast_id": 26,
+        "character": "Ryôko Ema",
+        "credit_id": "5a91be220e0a2616c30102e6",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1484347,
+        "known_for_department": "Sound",
+        "name": "Asei Kobayashi",
+        "original_name": "小林亜星",
+        "popularity": 0.5385,
+        "profile_path": "/xhXVO7DpRdnGIPhZNDz0j23Jsd1.jpg",
+        "cast_id": 22,
+        "character": "Watermelon Farmer",
+        "credit_id": "5a91bda60e0a2616c0010710",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 213476,
+        "known_for_department": "Writing",
+        "name": "Mitsutoshi Ishigami",
+        "original_name": "石上三登志",
+        "popularity": 0.2889,
+        "profile_path": "/nfTaZ73584g3HHkexcwYDTvHvS5.jpg",
+        "cast_id": 45,
+        "character": "Photographer",
+        "credit_id": "5ddbe6af0cd44600142c0014",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1523787,
+        "known_for_department": "Acting",
+        "name": "Ippei Hara",
+        "original_name": "Ippei Hara",
+        "popularity": 0.0454,
+        "profile_path": null,
+        "cast_id": 51,
+        "character": "Tora-san Lookalike",
+        "credit_id": "6238f3e0d6590b001b2b7343",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 552170,
+        "known_for_department": "Acting",
+        "name": "Shōichi Hirose",
+        "original_name": "広瀬正一",
+        "popularity": 0.6407,
+        "profile_path": "/6GPbRH8GNvGygu9Bj77XeFr5l8w.jpg",
+        "cast_id": 43,
+        "character": "Ramen Trucker",
+        "credit_id": "5ddbe67e4284ea0011f8457d",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1481144,
+        "known_for_department": "Acting",
+        "name": "Yasumasa Ônishi",
+        "original_name": "大西康雅",
+        "popularity": 0.4583,
+        "profile_path": null,
+        "cast_id": 44,
+        "character": "Old Villager",
+        "credit_id": "5ddbe694a806730014117a11",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 134401,
+        "known_for_department": "Acting",
+        "name": "Kiyoko Tsuji",
+        "original_name": "津路清子",
+        "popularity": 0.3365,
+        "profile_path": null,
+        "cast_id": 42,
+        "character": "Grandmother",
+        "credit_id": "5ddbe65a3faba00015005e80",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 33134,
+        "known_for_department": "Acting",
+        "name": "Tomokazu Miura",
+        "original_name": "三浦友和",
+        "popularity": 1.3109,
+        "profile_path": "/2tKusMF6dzGOfH7MM73FCsJzRoJ.jpg",
+        "cast_id": 23,
+        "character": "Auntie's Fiancé",
+        "credit_id": "5a91bdcac3a368250200fbac",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1032682,
+        "known_for_department": "Acting",
+        "name": "Fumi Dan",
+        "original_name": "檀ふみ",
+        "popularity": 1.0493,
+        "profile_path": "/k3ER3dJ1ie8goxubMOdHaaHICTS.jpg",
+        "cast_id": 24,
+        "character": "Teacher",
+        "credit_id": "5a91bde50e0a2616cf00f97a",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1984576,
+        "known_for_department": "Acting",
+        "name": "Godiego",
+        "original_name": "Godiego",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "cast_id": 25,
+        "character": "Themselves",
+        "credit_id": "5a91bdf90e0a2616bd00fb69",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3503929,
+        "known_for_department": "Acting",
+        "name": "Gregg Painter",
+        "original_name": "Gregg Painter",
+        "popularity": 0.0264,
+        "profile_path": null,
+        "cast_id": 56,
+        "character": "Mr. Painter",
+        "credit_id": "625a3663a0f1a200a8c979a0",
+        "order": 20
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3475201,
+        "known_for_department": "Acting",
+        "name": "Midori Naitô",
+        "original_name": "Midori Naitô",
+        "popularity": 0.0759,
+        "profile_path": null,
+        "cast_id": 52,
+        "character": "",
+        "credit_id": "6238f4b19ee0ef0077883b13",
+        "order": 21
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3475189,
+        "known_for_department": "Acting",
+        "name": "Tetsuo Kanai",
+        "original_name": "Tetsuo Kanai",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "cast_id": 50,
+        "character": "",
+        "credit_id": "6238f2e2271ca5004644b4d4",
+        "order": 22
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1270421,
+        "known_for_department": "Art",
+        "name": "Kazuo Satsuya",
+        "original_name": "薩谷和夫",
+        "popularity": 0.2035,
+        "profile_path": "/f8svGHVPYChwE0aFyNYxiLFSkAw.jpg",
+        "cast_id": 40,
+        "character": "Shoe Store Man (uncredited)",
+        "credit_id": "5ddbe5f94284ea0014f87608",
+        "order": 23
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1885269,
+        "known_for_department": "Acting",
+        "name": "Chigumi Ôbayashi",
+        "original_name": "Chigumi Ôbayashi",
+        "popularity": 0.1804,
+        "profile_path": "/drAtEnwYMDKtlFbdNv08OFXE3lf.jpg",
+        "cast_id": 41,
+        "character": "Shoe Store Girl (uncredited)",
+        "credit_id": "5ddbe6264284ea0011f844de",
+        "order": 24
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 132305,
+        "known_for_department": "Directing",
+        "name": "Nobuhiko Obayashi",
+        "original_name": "大林宣彦",
+        "popularity": 1.1306,
+        "profile_path": "/oLAnlKiIL7txhEvjsBxFoLGu0gp.jpg",
+        "cast_id": 53,
+        "character": "Husband (uncredited)",
+        "credit_id": "6238f601271ca5004644c135",
+        "order": 25
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1615472,
+        "known_for_department": "Production",
+        "name": "Kyōko Ōbayashi",
+        "original_name": "大林恭子",
+        "popularity": 0.3051,
+        "profile_path": null,
+        "cast_id": 54,
+        "character": "Wife (uncredited)",
+        "credit_id": "6238f61f075288001c643e8c",
+        "order": 26
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 132307,
+        "known_for_department": "Writing",
+        "name": "Chiho Katsura",
+        "original_name": "桂千穂",
+        "popularity": 0.9586,
+        "profile_path": "/yiTfIWXV0GC5iuSU3mpcaFYihS0.jpg",
+        "cast_id": 55,
+        "character": "Train Passenger (uncredited)",
+        "credit_id": "6238f6377a1bd6004610039e",
+        "order": 27
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1885269,
+        "known_for_department": "Acting",
+        "name": "Chigumi Ôbayashi",
+        "original_name": "Chigumi Ôbayashi",
+        "popularity": 0.1804,
+        "profile_path": "/drAtEnwYMDKtlFbdNv08OFXE3lf.jpg",
+        "credit_id": "621638de3f4833001ca1601d",
+        "department": "Writing",
+        "job": "Original Story"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 132307,
+        "known_for_department": "Writing",
+        "name": "Chiho Katsura",
+        "original_name": "桂千穂",
+        "popularity": 0.9586,
+        "profile_path": "/yiTfIWXV0GC5iuSU3mpcaFYihS0.jpg",
+        "credit_id": "52fe44d1c3a368484e038ce5",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 132305,
+        "known_for_department": "Directing",
+        "name": "Nobuhiko Obayashi",
+        "original_name": "大林宣彦",
+        "popularity": 1.1306,
+        "profile_path": "/oLAnlKiIL7txhEvjsBxFoLGu0gp.jpg",
+        "credit_id": "52fe44d2c3a368484e038d0b",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 132305,
+        "known_for_department": "Directing",
+        "name": "Nobuhiko Obayashi",
+        "original_name": "大林宣彦",
+        "popularity": 1.1306,
+        "profile_path": "/oLAnlKiIL7txhEvjsBxFoLGu0gp.jpg",
+        "credit_id": "608dba47a1a9ba00407d120a",
+        "department": "Crew",
+        "job": "Special Effects"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1198491,
+        "known_for_department": "Camera",
+        "name": "Yoshitaka Sakamoto",
+        "original_name": "阪本善尚",
+        "popularity": 0.1614,
+        "profile_path": null,
+        "credit_id": "5ca1665c0e0a265986fc0b46",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 93078,
+        "known_for_department": "Directing",
+        "name": "Kōhei Oguri",
+        "original_name": "小栗康平",
+        "popularity": 0.5416,
+        "profile_path": "/kOr5lO8Sa2siIVUcp5x0mvIKfHB.jpg",
+        "credit_id": "5ca166bfc3a368735984ec47",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 93102,
+        "known_for_department": "Editing",
+        "name": "Nobuo Ogawa",
+        "original_name": "小川信夫",
+        "popularity": 0.2912,
+        "profile_path": null,
+        "credit_id": "5ca166cd925141631805d123",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 18604,
+        "known_for_department": "Production",
+        "name": "Tomoyuki Tanaka",
+        "original_name": "田中友幸",
+        "popularity": 0.5116,
+        "profile_path": "/fceS19GAexPnmtVQJHG9VxaVHGZ.jpg",
+        "credit_id": "5ca166da0e0a26598efbed17",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1484347,
+        "known_for_department": "Sound",
+        "name": "Asei Kobayashi",
+        "original_name": "小林亜星",
+        "popularity": 0.5385,
+        "profile_path": "/xhXVO7DpRdnGIPhZNDz0j23Jsd1.jpg",
+        "credit_id": "5ca166749251411a18088ad4",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1270421,
+        "known_for_department": "Art",
+        "name": "Kazuo Satsuya",
+        "original_name": "薩谷和夫",
+        "popularity": 0.2035,
+        "profile_path": "/f8svGHVPYChwE0aFyNYxiLFSkAw.jpg",
+        "credit_id": "5ca1667f0e0a265983fbfac1",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1270421,
+        "known_for_department": "Art",
+        "name": "Kazuo Satsuya",
+        "original_name": "薩谷和夫",
+        "popularity": 0.2035,
+        "profile_path": "/f8svGHVPYChwE0aFyNYxiLFSkAw.jpg",
+        "credit_id": "5ca166b3c3a36873448508d9",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1926036,
+        "known_for_department": "Lighting",
+        "name": "Shinji Kojima",
+        "original_name": "Shinji Kojima",
+        "popularity": 0.1731,
+        "profile_path": null,
+        "credit_id": "5ca166a59251412c0e081b61",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 115639,
+        "known_for_department": "Sound",
+        "name": "Mickie Yoshino",
+        "original_name": "ミッキー吉野",
+        "popularity": 0.2084,
+        "profile_path": null,
+        "credit_id": "5ca1666992514129a703afc0",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1263380,
+        "known_for_department": "Production",
+        "name": "Yorihiko Yamada",
+        "original_name": "山田順彦",
+        "popularity": 0.0568,
+        "profile_path": null,
+        "credit_id": "5ca166f09251415bbe05cfab",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 132305,
+        "known_for_department": "Directing",
+        "name": "Nobuhiko Obayashi",
+        "original_name": "大林宣彦",
+        "popularity": 1.1306,
+        "profile_path": "/oLAnlKiIL7txhEvjsBxFoLGu0gp.jpg",
+        "credit_id": "5ca166fec3a368735284df66",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1615471,
+        "known_for_department": "Sound",
+        "name": "Shouhei Hayashi",
+        "original_name": "林昌平",
+        "popularity": 0.1213,
+        "profile_path": null,
+        "credit_id": "5ca16696c3a368735284defe",
+        "department": "Sound",
+        "job": "Sound Designer"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "JP",
+        "title": "Hausu",
+        "type": "Romaji"
+      },
+      {
+        "iso_3166_1": "RU",
+        "title": "Дом",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "UA",
+        "title": "Буди́нок",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "KR",
+        "title": "하우스",
+        "type": "한글"
+      },
+      {
+        "iso_3166_1": "JP",
+        "title": "HOUSE ハウス",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "CN",
+        "title": "鬼怪屋",
+        "type": "Mandarin title"
+      },
+      {
+        "iso_3166_1": "GR",
+        "title": "Το Σπίτι",
+        "type": "literal title"
+      },
+      {
+        "iso_3166_1": "TW",
+        "title": "鬼怪屋",
+        "type": "alternative title"
+      },
+      {
+        "iso_3166_1": "VN",
+        "title": "Ngôi Nhà Ma Ám",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "KR",
+        "title": "하우스: 크라이테리언",
+        "type": ""
+      }
+    ]
+  }
+}

@@ -1,0 +1,266 @@
+{
+  "adult": false,
+  "backdrop_path": "/rePadi6HOoyEYoZVLS87MwAoIxD.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 37,
+      "name": "Western"
+    }
+  ],
+  "homepage": "",
+  "id": 135385,
+  "imdb_id": "tt0061404",
+  "origin_country": [
+    "IT"
+  ],
+  "original_language": "it",
+  "original_title": "Bill il taciturno",
+  "overview": "Django arrives in the town of Santa Anna at the behest of a man named Sanders who'd been trying to buy safe passage for his cargo from a Mexican bandit named El Santo. Django finds that Sanders has been killed and that his rival, a man named Thompson, is now trying to deal with El Santo. Django, after a brief involvement with a beautiful young widow named Linda -- who has information on a lost gold mine -- becomes entangled in this situation by agreeing to escort a shipment through El Santo's territory.",
+  "popularity": 0.5686,
+  "poster_path": "/zEvok6ETRI0Hj0ElEEjZ4Gv72q1.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    }
+  ],
+  "release_date": "1967-04-29",
+  "revenue": 0,
+  "runtime": 85,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Django Kills Softly",
+  "video": false,
+  "vote_average": 5.4,
+  "vote_count": 10,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 33807,
+        "known_for_department": "Acting",
+        "name": "George Eastman",
+        "original_name": "George Eastman",
+        "popularity": 0.6199,
+        "profile_path": "/ehjBEKKfk9Bx5l22JvUSPbdv64c.jpg",
+        "cast_id": 6,
+        "character": "Django",
+        "credit_id": "53330277c3a3686a950047f6",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 43240,
+        "known_for_department": "Acting",
+        "name": "Luciano Rossi",
+        "original_name": "Luciano Rossi",
+        "popularity": 0.3984,
+        "profile_path": "/2PYdis6wi8mL7mVuoB16IuJiL6Y.jpg",
+        "cast_id": 3,
+        "character": "Dr. Thompson",
+        "credit_id": "52fe4bf6c3a368484e1a053d",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 32378,
+        "known_for_department": "Acting",
+        "name": "Liana Orfei",
+        "original_name": "Liana Orfei",
+        "popularity": 0.4525,
+        "profile_path": "/4VtRGG2OiwmuP1gFKtelpXNjBRJ.jpg",
+        "cast_id": 4,
+        "character": "Linda",
+        "credit_id": "52fe4bf6c3a368484e1a0541",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1126381,
+        "known_for_department": "Acting",
+        "name": "Mimmo Maggio",
+        "original_name": "Mimmo Maggio",
+        "popularity": 0.0261,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "El Santo",
+        "credit_id": "52fe4bf6c3a368484e1a0545",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1140962,
+        "known_for_department": "Acting",
+        "name": "Domenico Maggio",
+        "original_name": "Domenico Maggio",
+        "popularity": 0.1034,
+        "profile_path": null,
+        "cast_id": 7,
+        "character": "El Santo (comme Mimmo Maggio)",
+        "credit_id": "5a13eb11c3a3684efe003451",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1872322,
+        "known_for_department": "Acting",
+        "name": "Peter Hellman",
+        "original_name": "Peter Hellman",
+        "popularity": 0.1474,
+        "profile_path": null,
+        "cast_id": 8,
+        "character": "Rosson",
+        "credit_id": "5a13eb229251413661003697",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1927277,
+        "known_for_department": "Acting",
+        "name": "Paul Marou",
+        "original_name": "Paul Marou",
+        "popularity": 0.0609,
+        "profile_path": null,
+        "cast_id": 9,
+        "character": "Steve (as Paul Maru)",
+        "credit_id": "5a13eb39c3a3684f040034a2",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1076582,
+        "known_for_department": "Acting",
+        "name": "Spartaco Conversi",
+        "original_name": "Spartaco Conversi",
+        "popularity": 0.377,
+        "profile_path": "/hdc5Z0g0IPF8hL4xpoKxPeFVGHa.jpg",
+        "cast_id": 10,
+        "character": "Miguel",
+        "credit_id": "5a13eb4dc3a3684f040034bb",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 98222,
+        "known_for_department": "Acting",
+        "name": "Antonio Tomahawk",
+        "original_name": "Antonio Tomahawk",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 11,
+        "character": "Pedro",
+        "credit_id": "5a13eb5c925141364f003566",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 98492,
+        "known_for_department": "Acting",
+        "name": "Federico Boido",
+        "original_name": "Federico Boido",
+        "popularity": 0.3117,
+        "profile_path": "/lGPoEZtCqn2DdlzKT6xkbPEb8FX.jpg",
+        "cast_id": 12,
+        "character": "Celui nerveux (comme Rik Boyd)",
+        "credit_id": "5a13eb6ec3a3684f12003816",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1139991,
+        "known_for_department": "Acting",
+        "name": "Anna Manduchi",
+        "original_name": "Anna Manduchi",
+        "popularity": 0.1207,
+        "profile_path": "/bP45mirwAt0RWr66NxfXq3Py7c0.jpg",
+        "cast_id": 13,
+        "character": "Mrs. Sanders",
+        "credit_id": "624868812d3721009ed4e2e8",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5256280,
+        "known_for_department": "Acting",
+        "name": "Maurizio Mannoia",
+        "original_name": "Maurizio Mannoia",
+        "popularity": 0.0729,
+        "profile_path": "/s17QuUpVvJqfjBhwXMVY0qEAhEs.jpg",
+        "cast_id": 14,
+        "character": "El Santo's Bandit (uncredited)",
+        "credit_id": "690a0881a874432d111e5d27",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5872698,
+        "known_for_department": "Acting",
+        "name": "Gerlando Martelli",
+        "original_name": "Gerlando Martelli",
+        "popularity": 0.0811,
+        "profile_path": "/7PnwlNEO7XeKstu9yjQQYsOQUrs.jpg",
+        "cast_id": 15,
+        "character": "Thompson's Henchman (uncredited)",
+        "credit_id": "697cc8a01ad1733a3a909c81",
+        "order": 12
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 89275,
+        "known_for_department": "Directing",
+        "name": "Massimo Pupillo",
+        "original_name": "Massimo Pupillo",
+        "popularity": 0.0825,
+        "profile_path": "/iWYXbBTcWkwHg6aUTQpte2yQo91.jpg",
+        "credit_id": "52fe4bf6c3a368484e1a0535",
+        "department": "Directing",
+        "job": "Director"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "US",
+        "title": "Django Kills Silently",
+        "type": "Alternative title"
+      },
+      {
+        "iso_3166_1": "DE",
+        "title": "Django - Der lautlose Killer",
+        "type": ""
+      }
+    ]
+  }
+}

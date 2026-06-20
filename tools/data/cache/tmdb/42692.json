@@ -1,0 +1,283 @@
+{
+  "adult": false,
+  "backdrop_path": "/npDDNi2b7XBvaFL2Noh2MbS2EWd.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    }
+  ],
+  "homepage": "",
+  "id": 42692,
+  "imdb_id": "tt0061620",
+  "origin_country": [
+    "SE"
+  ],
+  "original_language": "sv",
+  "original_title": "Elvira Madigan",
+  "overview": "Famous acrobat Elvira Madigan meets Sixten Sparre, a married Swedish officer with two children. They decide to elope, but since Sparre deserted the army, he's unemployable and the couple encounter various hardships.",
+  "popularity": 0.5278,
+  "poster_path": "/odjkOW8BYVTj1q73Ad5KIHFfAge.jpg",
+  "production_companies": [
+    {
+      "id": 1763,
+      "logo_path": "/mpT9ipd8lt4qMYzdnV8SN7VJdnA.png",
+      "name": "Europa Film",
+      "origin_country": "SE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "SE",
+      "name": "Sweden"
+    }
+  ],
+  "release_date": "1967-04-24",
+  "revenue": 0,
+  "runtime": 91,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Danish",
+      "iso_639_1": "da",
+      "name": "Dansk"
+    },
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Elvira Madigan",
+  "video": false,
+  "vote_average": 7,
+  "vote_count": 54,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 135996,
+        "known_for_department": "Acting",
+        "name": "Pia Degermark",
+        "original_name": "Pia Degermark",
+        "popularity": 0.2533,
+        "profile_path": "/5pbM2t3TxqNZMP2Vo2e6ngKYDkW.jpg",
+        "cast_id": 2,
+        "character": "Hedvig Jensen",
+        "credit_id": "52fe4612c3a36847f80eafb3",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 549526,
+        "known_for_department": "Acting",
+        "name": "Thommy Berggren",
+        "original_name": "Thommy Berggren",
+        "popularity": 0.2522,
+        "profile_path": "/8CiRLqoxEb89HZqiENDRSwKM3BV.jpg",
+        "cast_id": 10,
+        "character": "Sixten Sparre",
+        "credit_id": "52fe4612c3a36847f80eafd9",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1017239,
+        "known_for_department": "Directing",
+        "name": "Lennart Malmer",
+        "original_name": "Lennart Malmer",
+        "popularity": 0.087,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "Kristoffer",
+        "credit_id": "52fe4612c3a36847f80eafb7",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1154226,
+        "known_for_department": "Acting",
+        "name": "Cleo Jensen",
+        "original_name": "Cleo Jensen",
+        "popularity": 0.0402,
+        "profile_path": null,
+        "cast_id": 11,
+        "character": "Cleo",
+        "credit_id": "52fe4612c3a36847f80eafdd",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2188529,
+        "known_for_department": "Acting",
+        "name": "Nina Widerberg",
+        "original_name": "Nina Widerberg",
+        "popularity": 0.1249,
+        "profile_path": null,
+        "cast_id": 15,
+        "character": "Cleo's daughter",
+        "credit_id": "5cd95de90e0a2604afcbbc80",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1373965,
+        "known_for_department": "Acting",
+        "name": "Yvonne Ingdal",
+        "original_name": "Yvonne Ingdal",
+        "popularity": 0.0598,
+        "profile_path": "/bbinPoaTEgeYquT72BISllZEEOw.jpg",
+        "cast_id": 16,
+        "character": "Hedvig Jensen (voice)",
+        "credit_id": "5cd95e1cc3a3684a97c39cc1",
+        "order": 5
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 992861,
+        "known_for_department": "Sound",
+        "name": "Ulf Björlin",
+        "original_name": "Ulf Björlin",
+        "popularity": 0.0501,
+        "profile_path": null,
+        "credit_id": "52fe4612c3a36847f80eafc9",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 23331,
+        "known_for_department": "Camera",
+        "name": "Jörgen Persson",
+        "original_name": "Jörgen Persson",
+        "popularity": 0.1966,
+        "profile_path": null,
+        "credit_id": "52fe4612c3a36847f80eafcf",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 96934,
+        "known_for_department": "Directing",
+        "name": "Bo Widerberg",
+        "original_name": "Bo Widerberg",
+        "popularity": 0.313,
+        "profile_path": "/dSANpK9IB24lWHDm8v4Irs36amI.jpg",
+        "credit_id": "52fe4612c3a36847f80eafaf",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 96934,
+        "known_for_department": "Directing",
+        "name": "Bo Widerberg",
+        "original_name": "Bo Widerberg",
+        "popularity": 0.313,
+        "profile_path": "/dSANpK9IB24lWHDm8v4Irs36amI.jpg",
+        "credit_id": "52fe4612c3a36847f80eafbd",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 96934,
+        "known_for_department": "Directing",
+        "name": "Bo Widerberg",
+        "original_name": "Bo Widerberg",
+        "popularity": 0.313,
+        "profile_path": "/dSANpK9IB24lWHDm8v4Irs36amI.jpg",
+        "credit_id": "52fe4612c3a36847f80eafd5",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3868,
+        "known_for_department": "Production",
+        "name": "Waldemar Bergendahl",
+        "original_name": "Waldemar Bergendahl",
+        "popularity": 0.2739,
+        "profile_path": "/3XZmmIA5tufwRLGQZzBcGUlLnzE.jpg",
+        "credit_id": "52fe4612c3a36847f80eafc3",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6852,
+        "known_for_department": "Sound",
+        "name": "Jack Fitzstephens",
+        "original_name": "Jack Fitzstephens",
+        "popularity": 0.1295,
+        "profile_path": null,
+        "credit_id": "59935d03925141541b0041db",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1080975,
+        "known_for_department": "Sound",
+        "name": "Sven Fahlén",
+        "original_name": "Sven Fahlén",
+        "popularity": 0.048,
+        "profile_path": null,
+        "credit_id": "59935cf2925141542b00442b",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 556015,
+        "known_for_department": "Editing",
+        "name": "Kalle Boman",
+        "original_name": "Kalle Boman",
+        "popularity": 0.1994,
+        "profile_path": "/tfQhQPkQWH04HVu0EHZW8K0txfT.jpg",
+        "credit_id": "59935cd6c3a3687f4600417b",
+        "department": "Directing",
+        "job": "Assistant Director"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "RU",
+        "title": "Эльвира Мадиган",
+        "type": ""
+      }
+    ]
+  }
+}

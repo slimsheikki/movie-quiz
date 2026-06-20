@@ -1,0 +1,852 @@
+{
+  "adult": false,
+  "backdrop_path": "/qDEZmaaAGhEso6kvB5kk1CROPwG.jpg",
+  "belongs_to_collection": {
+    "id": 158391,
+    "name": "Apu Collection",
+    "poster_path": "/5QHJ5xdCjI5gjY5jHLYO5gtkw7u.jpg",
+    "backdrop_path": "/r3WHsC8YNp4558QWixbdccI1tuN.jpg"
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 897,
+  "imdb_id": "tt0048956",
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "bn",
+  "original_title": "অপরাজিত",
+  "overview": "Apu and his family have moved away from the country to live in the bustling holy city of Benares. As he progresses from wide-eyed child to intellectually curious teenager, eventually studying in Kolkata, we witness his academic and moral education, as well as the growing complexity of his relationship with his mother.",
+  "popularity": 0.7712,
+  "poster_path": "/qvR2Qs42WHwCEcuwhQnterU3gVY.jpg",
+  "production_companies": [
+    {
+      "id": 1988,
+      "logo_path": null,
+      "name": "Epic Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 26424,
+      "logo_path": null,
+      "name": "Satyajit Ray Productions",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "release_date": "1956-10-11",
+  "revenue": 170215,
+  "runtime": 110,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Bengali",
+      "iso_639_1": "bn",
+      "name": "বাংলা"
+    },
+    {
+      "english_name": "Sanskrit",
+      "iso_639_1": "sa",
+      "name": ""
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Aparajito",
+  "video": false,
+  "vote_average": 7.857,
+  "vote_count": 291,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 13763,
+        "known_for_department": "Acting",
+        "name": "Karuna Banerjee",
+        "original_name": "Karuna Banerjee",
+        "popularity": 0.2049,
+        "profile_path": "/pm4DcNLgkzzuHO53mi1BEuYnliv.jpg",
+        "cast_id": 2,
+        "character": "Sarbojaya Ray",
+        "credit_id": "52fe4289c3a36847f8026941",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 13766,
+        "known_for_department": "Acting",
+        "name": "Santi Gupta",
+        "original_name": "Santi Gupta",
+        "popularity": 0.0952,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "Ginnima",
+        "credit_id": "52fe4289c3a36847f8026949",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 13768,
+        "known_for_department": "Acting",
+        "name": "Ranibala",
+        "original_name": "Ranibala",
+        "popularity": 0.1524,
+        "profile_path": null,
+        "cast_id": 7,
+        "character": "Teliginni",
+        "credit_id": "52fe4289c3a36847f8026951",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 13769,
+        "known_for_department": "Acting",
+        "name": "Sudipta Roy",
+        "original_name": "Sudipta Roy",
+        "popularity": 0.0722,
+        "profile_path": null,
+        "cast_id": 8,
+        "character": "Nirupama",
+        "credit_id": "52fe4289c3a36847f8026955",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1559091,
+        "known_for_department": "Acting",
+        "name": "Keya Sengupta",
+        "original_name": "Keya Sengupta",
+        "popularity": 0.0462,
+        "profile_path": null,
+        "cast_id": 43,
+        "character": "",
+        "credit_id": "568d7920c3a36859020003a1",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1559071,
+        "known_for_department": "Acting",
+        "name": "Kamala Adhikari",
+        "original_name": "Kamala Adhikari",
+        "popularity": 0.0822,
+        "profile_path": null,
+        "cast_id": 30,
+        "character": "Mokshada",
+        "credit_id": "568d783b9251416b52000345",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1559088,
+        "known_for_department": "Acting",
+        "name": "Saraswati Pandey",
+        "original_name": "Saraswati Pandey",
+        "popularity": 0.0803,
+        "profile_path": null,
+        "cast_id": 41,
+        "character": "",
+        "credit_id": "568d78fcc3a3685906000397",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 13762,
+        "known_for_department": "Acting",
+        "name": "Kanu Bannerjee",
+        "original_name": "Kanu Bannerjee",
+        "popularity": 0.2146,
+        "profile_path": "/4Si1KHQMsgIlmRtxoMualY6Iazv.jpg",
+        "cast_id": 1,
+        "character": "Harihar Ray",
+        "credit_id": "52fe4289c3a36847f802693d",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 13765,
+        "known_for_department": "Acting",
+        "name": "Smaran Ghosal",
+        "original_name": "Smaran Ghosal",
+        "popularity": 0.1134,
+        "profile_path": "/gL1X2iFscjA3ARrOFfd7OMrHeUT.jpg",
+        "cast_id": 4,
+        "character": "Teenage Apurba \"Apu\" Kumar Ray",
+        "credit_id": "52fe4289c3a36847f8026945",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 12175,
+        "known_for_department": "Acting",
+        "name": "Pinaki Sengupta",
+        "original_name": "Pinaki Sengupta",
+        "popularity": 0.1833,
+        "profile_path": "/6MkmjUtm6aMF8s4WBzN7jvLRgCQ.jpg",
+        "cast_id": 22,
+        "character": "Young Apurba \"Apu\" Kumar Ray",
+        "credit_id": "52fe4289c3a36847f8026999",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 13767,
+        "known_for_department": "Acting",
+        "name": "Ramani Ranjan Sengupta",
+        "original_name": "Ramani Sengupta",
+        "popularity": 0.0264,
+        "profile_path": null,
+        "cast_id": 6,
+        "character": "Bhabataran",
+        "credit_id": "52fe4289c3a36847f802694d",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 13770,
+        "known_for_department": "Acting",
+        "name": "Ajay Mitra",
+        "original_name": "Ajay Mitra",
+        "popularity": 0.047,
+        "profile_path": null,
+        "cast_id": 9,
+        "character": "Anil",
+        "credit_id": "52fe4289c3a36847f8026959",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 13771,
+        "known_for_department": "Acting",
+        "name": "Charuprakash Ghosh",
+        "original_name": "Charuprakash Ghosh",
+        "popularity": 0.1607,
+        "profile_path": "/ooTTJp7LYWtd32SKJ0780HonGbQ.jpg",
+        "cast_id": 10,
+        "character": "Nanda",
+        "credit_id": "52fe4289c3a36847f802695d",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 13772,
+        "known_for_department": "Acting",
+        "name": "Subodh Ganguli",
+        "original_name": "Subodh Ganguli",
+        "popularity": 0.0761,
+        "profile_path": null,
+        "cast_id": 11,
+        "character": "Headmaster",
+        "credit_id": "52fe4289c3a36847f8026961",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1094825,
+        "known_for_department": "Acting",
+        "name": "Kali Bannerjee",
+        "original_name": "Kali Bannerjee",
+        "popularity": 0.2238,
+        "profile_path": "/uUz3Lk0NhxlhhKG51VjvrITUZ52.jpg",
+        "cast_id": 32,
+        "character": "Kathak",
+        "credit_id": "568d7855c3a36858fc000338",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1174299,
+        "known_for_department": "Acting",
+        "name": "Mani Srimani",
+        "original_name": "Mani Srimani",
+        "popularity": 0.1006,
+        "profile_path": "/jh11N6dlGMfTIDlOOFKuz9yu3B.jpg",
+        "cast_id": 44,
+        "character": "Inspector",
+        "credit_id": "568d79349251416b4500037e",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1559090,
+        "known_for_department": "Acting",
+        "name": "Kalicharan Roy",
+        "original_name": "Kalicharan Roy",
+        "popularity": 0,
+        "profile_path": null,
+        "cast_id": 42,
+        "character": "Akhil, press owner",
+        "credit_id": "568d7918c3a368590200039b",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 13773,
+        "known_for_department": "Acting",
+        "name": "Hemanta Chatterjee",
+        "original_name": "Hemanta Chatterjee",
+        "popularity": 0.0404,
+        "profile_path": null,
+        "cast_id": 12,
+        "character": "Professor",
+        "credit_id": "52fe4289c3a36847f8026965",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1559072,
+        "known_for_department": "Acting",
+        "name": "Lalchand Banerjee",
+        "original_name": "Lalchand Banerjee",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "cast_id": 31,
+        "character": "Lahiri",
+        "credit_id": "568d784ac3a3685906000374",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1559085,
+        "known_for_department": "Acting",
+        "name": "K.S. Pandey",
+        "original_name": "K.S. Pandey",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "cast_id": 40,
+        "character": "Pandey",
+        "credit_id": "568d78f79251416b52000365",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1559073,
+        "known_for_department": "Acting",
+        "name": "Panchanan Bhattacharya",
+        "original_name": "Panchanan Bhattacharya",
+        "popularity": 0.0499,
+        "profile_path": "/l9ozvr9egL0Sc9Rbg2uV1pnHPCl.jpg",
+        "cast_id": 33,
+        "character": "",
+        "credit_id": "568d7881c3a36858ec00032d",
+        "order": 20
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1559080,
+        "known_for_department": "Acting",
+        "name": "Anil Mukherjee",
+        "original_name": "Anil Mukherjee",
+        "popularity": 0.051,
+        "profile_path": null,
+        "cast_id": 37,
+        "character": "Abinash",
+        "credit_id": "568d78de9251416b5500032b",
+        "order": 21
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1559074,
+        "known_for_department": "Acting",
+        "name": "Debabrata Chakraborty",
+        "original_name": "Debabrata Chakraborty",
+        "popularity": 0.0281,
+        "profile_path": null,
+        "cast_id": 34,
+        "character": "",
+        "credit_id": "568d7889c3a36858ea000360",
+        "order": 22
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1559093,
+        "known_for_department": "Acting",
+        "name": "Udayshankar Tiwari",
+        "original_name": "Udayshankar Tiwari",
+        "popularity": 0.0239,
+        "profile_path": null,
+        "cast_id": 45,
+        "character": "",
+        "credit_id": "568d793c9251416b4e00033e",
+        "order": 23
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1559075,
+        "known_for_department": "Acting",
+        "name": "Harendrakumar Chakravarti",
+        "original_name": "Harendrakumar Chakravarti",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "cast_id": 35,
+        "character": "Doctor",
+        "credit_id": "568d78959251416b4500036c",
+        "order": 24
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1559082,
+        "known_for_department": "Acting",
+        "name": "Shibnarayan Nag",
+        "original_name": "Shibnarayan Nag",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 38,
+        "character": "",
+        "credit_id": "568d78e5c3a36858fc000349",
+        "order": 25
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1559084,
+        "known_for_department": "Acting",
+        "name": "Bhaganu Palwan",
+        "original_name": "Bhaganu Palwan",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 39,
+        "character": "Palwan",
+        "credit_id": "568d78efc3a36858ea000370",
+        "order": 26
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1559076,
+        "known_for_department": "Acting",
+        "name": "Meenakshi Devi",
+        "original_name": "Meenakshi Devi",
+        "popularity": 0.0522,
+        "profile_path": null,
+        "cast_id": 36,
+        "character": "Pandey's wife",
+        "credit_id": "568d78a9c3a36858f0000338",
+        "order": 27
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 12160,
+        "known_for_department": "Directing",
+        "name": "Satyajit Ray",
+        "original_name": "Satyajit Ray",
+        "popularity": 0.5523,
+        "profile_path": "/qP5mjuc3dL8n9c1zeY4W6L2w38L.jpg",
+        "credit_id": "52fe4289c3a36847f802696b",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 12160,
+        "known_for_department": "Directing",
+        "name": "Satyajit Ray",
+        "original_name": "Satyajit Ray",
+        "popularity": 0.5523,
+        "profile_path": "/qP5mjuc3dL8n9c1zeY4W6L2w38L.jpg",
+        "credit_id": "52fe4289c3a36847f8026971",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 12160,
+        "known_for_department": "Directing",
+        "name": "Satyajit Ray",
+        "original_name": "Satyajit Ray",
+        "popularity": 0.5523,
+        "profile_path": "/qP5mjuc3dL8n9c1zeY4W6L2w38L.jpg",
+        "credit_id": "52fe4289c3a36847f8026977",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 13744,
+        "known_for_department": "Writing",
+        "name": "Bibhutibhushan Bandyopadhyay",
+        "original_name": "Bibhutibhushan Bandyopadhyay",
+        "popularity": 0.3768,
+        "profile_path": "/wFV0f08L2mH3Z5tromgHHi2viOT.jpg",
+        "credit_id": "52fe4289c3a36847f802697d",
+        "department": "Writing",
+        "job": "Novel"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 13745,
+        "known_for_department": "Sound",
+        "name": "Ravi Shankar",
+        "original_name": "Ravi Shankar",
+        "popularity": 0.3248,
+        "profile_path": "/seZPaYPkBtx4nnDtRXWrUc2x7t3.jpg",
+        "credit_id": "52fe4289c3a36847f8026983",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 12167,
+        "known_for_department": "Editing",
+        "name": "Dulal Dutta",
+        "original_name": "Dulal Dutta",
+        "popularity": 0.1638,
+        "profile_path": "/lXWvedwh8mONznYcNCFdazn7VZw.jpg",
+        "credit_id": "52fe4289c3a36847f8026989",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 12168,
+        "known_for_department": "Art",
+        "name": "Bansi Chandragupta",
+        "original_name": "Bansi Chandragupta",
+        "popularity": 0.16,
+        "profile_path": null,
+        "credit_id": "52fe4289c3a36847f802698f",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 12169,
+        "known_for_department": "Sound",
+        "name": "Durgadas Mitra",
+        "original_name": "Durgadas Mitra",
+        "popularity": 0.0264,
+        "profile_path": null,
+        "credit_id": "52fe4289c3a36847f8026995",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 12166,
+        "known_for_department": "Camera",
+        "name": "Subrata Mitra",
+        "original_name": "Subrata Mitra",
+        "popularity": 0.0915,
+        "profile_path": "/kplyeqwOXDumsQeL5USjGafht14.jpg",
+        "credit_id": "52fe4289c3a36847f802699f",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 12168,
+        "known_for_department": "Art",
+        "name": "Bansi Chandragupta",
+        "original_name": "Bansi Chandragupta",
+        "popularity": 0.16,
+        "profile_path": null,
+        "credit_id": "568d77c6c3a36858f9000350",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1559024,
+        "known_for_department": "Production",
+        "name": "Anil Choudhury",
+        "original_name": "Anil Choudhury",
+        "popularity": 0.1694,
+        "profile_path": null,
+        "credit_id": "568d77cf9251416b4a00038c",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1559068,
+        "known_for_department": "Directing",
+        "name": "Suren Chakraborty",
+        "original_name": "Suren Chakraborty",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "568d77d99251416b550002fe",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1559069,
+        "known_for_department": "Directing",
+        "name": "Shailen Dutta",
+        "original_name": "Shailen Dutta",
+        "popularity": 0.0362,
+        "profile_path": null,
+        "credit_id": "568d77e19251416b420002ed",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1559070,
+        "known_for_department": "Directing",
+        "name": "Arup Guhathakurta",
+        "original_name": "Arup Guhathakurta",
+        "popularity": 0.0549,
+        "profile_path": "/9uEcCdoCwhybhJdFsqmVQrcCzu5.jpg",
+        "credit_id": "568d77e9c3a36858fc00032f",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1559028,
+        "known_for_department": "Directing",
+        "name": "Subir Hajra",
+        "original_name": "Subir Hajra",
+        "popularity": 0.0959,
+        "profile_path": null,
+        "credit_id": "568d77f2c3a368590600036a",
+        "department": "Directing",
+        "job": "Assistant Director"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "US",
+        "title": "The Unvanquished",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "US",
+        "title": "Apu Trilogy 2: The Unvanquished",
+        "type": "alternative title"
+      },
+      {
+        "iso_3166_1": "DE",
+        "title": "Apus Weg ins Leben - 2.: Der Unbesiegbare",
+        "type": "West German title"
+      },
+      {
+        "iso_3166_1": "PT",
+        "title": "O Invencível",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "ES",
+        "title": "El invencible",
+        "type": "DVD title"
+      },
+      {
+        "iso_3166_1": "KR",
+        "title": "아푸 2 - 불굴의 인간",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "KR",
+        "title": "아푸 제2부 - 불굴의 인간",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "PL",
+        "title": "Nieugięty",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "AR",
+        "title": "Aparajito: El invicto",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "BR",
+        "title": "O Invencível",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "CA",
+        "title": "L'invaincu",
+        "type": "French title"
+      },
+      {
+        "iso_3166_1": "CN",
+        "title": "大河之歌",
+        "type": "Mandarin title"
+      },
+      {
+        "iso_3166_1": "DK",
+        "title": "Den ubesejrede",
+        "type": "reissue title"
+      },
+      {
+        "iso_3166_1": "IN",
+        "title": "अपराजितो",
+        "type": "Hindi title"
+      },
+      {
+        "iso_3166_1": "DE",
+        "title": "Der Unbesiegte",
+        "type": "East German title"
+      },
+      {
+        "iso_3166_1": "FI",
+        "title": "Voittamaton",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "FR",
+        "title": "L'invaincu",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "GR",
+        "title": "Ο ανίκητος",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "GR",
+        "title": "O anikitos",
+        "type": "transliteration"
+      },
+      {
+        "iso_3166_1": "HU",
+        "title": "A legyőzhetetlen",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "IT",
+        "title": "L'invitto",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "JP",
+        "title": "大河のうた",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "MX",
+        "title": "El invicto",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "NO",
+        "title": "De ubeseirede",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "SU",
+        "title": "Непокоренный",
+        "type": "Russian title"
+      },
+      {
+        "iso_3166_1": "ES",
+        "title": "L'invicte",
+        "type": "Catalan title"
+      },
+      {
+        "iso_3166_1": "ES",
+        "title": "Aparajito (El invencible)",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "SE",
+        "title": "Den obesegrade",
+        "type": "TV title"
+      },
+      {
+        "iso_3166_1": "GB",
+        "title": "The Unvanquished",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "GB",
+        "title": "Aparajito (The Unvanquished)",
+        "type": "Subtitle"
+      },
+      {
+        "iso_3166_1": "KR",
+        "title": "아푸 제2부: 불굴의 인간",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "KR",
+        "title": "아파라지토",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "KR",
+        "title": "아푸 2부 - 아파라지토",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "KR",
+        "title": "아푸 제2부 - 아파라지토",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "KR",
+        "title": "아푸 제2부: 아파라지토",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "DK",
+        "title": "De ubesejrede",
+        "type": ""
+      }
+    ]
+  }
+}

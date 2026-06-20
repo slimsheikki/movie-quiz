@@ -1,0 +1,510 @@
+{
+  "adult": false,
+  "backdrop_path": "/yaHKeQKl6ECVXRd4jPLYVOEINmP.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 42260,
+  "imdb_id": "tt0073424",
+  "origin_country": [
+    "DE"
+  ],
+  "original_language": "de",
+  "original_title": "Mutter Küsters' Fahrt zum Himmel",
+  "overview": "Frau Emma Küsters prepares dinner late one seemingly-ordinary afternoon in her seemingly-ordinary Frankfurt kitchen. She wants to add canned sausages to the stew; her irritating daughter-in-law thinks otherwise. But the point is moot: Ernst Küsters has not only murdered the personnel director at the soap factory where he's employed but succeeded that by committing suicide.",
+  "popularity": 0.5831,
+  "poster_path": "/9xnA40LULMD2VQb2hFql2vHEeje.jpg",
+  "production_companies": [
+    {
+      "id": 11626,
+      "logo_path": null,
+      "name": "Tango Film",
+      "origin_country": "DE"
+    },
+    {
+      "id": 10869,
+      "logo_path": null,
+      "name": "Filmverlag der Autoren",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "release_date": "1975-07-07",
+  "revenue": 0,
+  "runtime": 108,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Mother Küsters Goes to Heaven",
+  "video": false,
+  "vote_average": 7.671,
+  "vote_count": 35,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2726,
+        "known_for_department": "Acting",
+        "name": "Brigitte Mira",
+        "original_name": "Brigitte Mira",
+        "popularity": 0.3402,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "Emma Küsters",
+        "credit_id": "52fe45f8c3a36847f80e4e43",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 45195,
+        "known_for_department": "Acting",
+        "name": "Ingrid Caven",
+        "original_name": "Ingrid Caven",
+        "popularity": 0.5008,
+        "profile_path": "/py0XImGnp27PIWYAMWIyNP78X5K.jpg",
+        "cast_id": 5,
+        "character": "Corinna",
+        "credit_id": "52fe45f8c3a36847f80e4e47",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 20017,
+        "known_for_department": "Acting",
+        "name": "Margit Carstensen",
+        "original_name": "Margit Carstensen",
+        "popularity": 0.6634,
+        "profile_path": "/hSCBZ1eoJpJaDg2pBRWxHmqSeKQ.jpg",
+        "cast_id": 6,
+        "character": "Frau Thälmann",
+        "credit_id": "52fe45f8c3a36847f80e4e4b",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6251,
+        "known_for_department": "Acting",
+        "name": "Karlheinz Böhm",
+        "original_name": "Karlheinz Böhm",
+        "popularity": 0.9473,
+        "profile_path": "/zQ9xw9dcXFSoaD3rncUg1XDLokt.jpg",
+        "cast_id": 8,
+        "character": "Karl Tillmann",
+        "credit_id": "541ad7b60e0a26013b001690",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2729,
+        "known_for_department": "Acting",
+        "name": "Irm Hermann",
+        "original_name": "Irm Hermann",
+        "popularity": 0.4895,
+        "profile_path": "/4NzeDGGAqq0Aw8QpqTuOAu7DkeN.jpg",
+        "cast_id": 9,
+        "character": "Helene",
+        "credit_id": "541ad7c40e0a26013500163d",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3757,
+        "known_for_department": "Acting",
+        "name": "Gottfried John",
+        "original_name": "Gottfried John",
+        "popularity": 0.847,
+        "profile_path": "/duXWjkperrnUq094bgsYddJeIG0.jpg",
+        "cast_id": 10,
+        "character": "Jörg Niemeyer",
+        "credit_id": "541ad7d60e0a260132001762",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 21997,
+        "known_for_department": "Acting",
+        "name": "Kurt Raab",
+        "original_name": "Kurt Raab",
+        "popularity": 0.4952,
+        "profile_path": "/k3CjKFY5nT4WIKhC96W1S87j36z.jpg",
+        "cast_id": 11,
+        "character": "Barkeeper Gustav",
+        "credit_id": "541ad7e5c3a3684ea70016c6",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 73671,
+        "known_for_department": "Acting",
+        "name": "Peter Kern",
+        "original_name": "Peter Kern",
+        "popularity": 0.3694,
+        "profile_path": "/yQMAtwyj2SB3WKSMNfMcaQ2Dqjv.jpg",
+        "cast_id": 12,
+        "character": "Nachtklubbesitzer",
+        "credit_id": "541ad7f30e0a26012f00160e",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1154794,
+        "known_for_department": "Acting",
+        "name": "Armin Meier",
+        "original_name": "Armin Meier",
+        "popularity": 0.1775,
+        "profile_path": "/xunbfYlGpXo1z9VZFov8Y2bBmyh.jpg",
+        "cast_id": 14,
+        "character": "Ernst",
+        "credit_id": "5a177c05c3a3680b88009b98",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 23379,
+        "known_for_department": "Acting",
+        "name": "Matthias Fuchs",
+        "original_name": "Matthias Fuchs",
+        "popularity": 0.3219,
+        "profile_path": "/wgKEcr4UDRZ112dAsnt4FCP9JEM.jpg",
+        "cast_id": 15,
+        "character": "Horst Knab",
+        "credit_id": "5a177c149251410329009f61",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2436894,
+        "known_for_department": "Acting",
+        "name": "Gustav Holzapfel",
+        "original_name": "Gustav Holzapfel",
+        "popularity": 0,
+        "profile_path": null,
+        "cast_id": 29,
+        "character": "Herr Holzapfel",
+        "credit_id": "5dac4c24174a870015a7febf",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2740,
+        "known_for_department": "Acting",
+        "name": "Lilo Pempeit",
+        "original_name": "Lilo Pempeit",
+        "popularity": 0.1794,
+        "profile_path": "/cKTUKW1TLHqi86hgNMRwiii8eLQ.jpg",
+        "cast_id": 28,
+        "character": "Sekretärin",
+        "credit_id": "5dac4c0dae3668001298b8f9",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 39006,
+        "known_for_department": "Acting",
+        "name": "Peter Chatel",
+        "original_name": "Peter Chatel",
+        "popularity": 0.3137,
+        "profile_path": "/xWlshh3F6fLXqHvgLo863bei8x1.jpg",
+        "cast_id": 26,
+        "character": "Photograph",
+        "credit_id": "5dac4bfdae3668001298b8dd",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1178322,
+        "known_for_department": "Acting",
+        "name": "Peter Bollag",
+        "original_name": "Peter Bollag",
+        "popularity": 0.0656,
+        "profile_path": null,
+        "cast_id": 27,
+        "character": "Photograph",
+        "credit_id": "5dac4c043876510010dcee48",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 32422,
+        "known_for_department": "Acting",
+        "name": "Volker Spengler",
+        "original_name": "Volker Spengler",
+        "popularity": 0.3253,
+        "profile_path": "/8Sp51c1dL4XrLp4klyakr0UzD6E.jpg",
+        "cast_id": 24,
+        "character": "Photograph",
+        "credit_id": "5dac4be2ed28b90014db334e",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 233536,
+        "known_for_department": "Acting",
+        "name": "Vitus Zeplichal",
+        "original_name": "Vitus Zeplichal",
+        "popularity": 0.3758,
+        "profile_path": "/e5bg5Vg9EjvgUY0133LqRe15wQ9.jpg",
+        "cast_id": 25,
+        "character": "Reporter",
+        "credit_id": "5dac4becae3668001298b839",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 233534,
+        "known_for_department": "Acting",
+        "name": "Y Sa Lo",
+        "original_name": "Y Sa Lo",
+        "popularity": 0.095,
+        "profile_path": "/84QiAVxBYrIswi7ilR9o1Yam1Af.jpg",
+        "cast_id": 23,
+        "character": "Terroristin",
+        "credit_id": "5dac4bd7ed28b90014db333e",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 32552,
+        "known_for_department": "Acting",
+        "name": "Adrian Hoven",
+        "original_name": "Adrian Hoven",
+        "popularity": 0.4372,
+        "profile_path": "/7ASNJxtQceMblUcnGpfKz8w8NPu.jpg",
+        "cast_id": 30,
+        "character": "Redacteur - in - chief Linke (uncredited)",
+        "credit_id": "5dac4c7aed28b90017db2298",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1285081,
+        "known_for_department": "Acting",
+        "name": "Hannes Kaetner",
+        "original_name": "Hannes Kaetner",
+        "popularity": 0.236,
+        "profile_path": null,
+        "cast_id": 31,
+        "character": "Security Man (uncredited)",
+        "credit_id": "5dac4c83ed28b90012dac795",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 10627,
+        "known_for_department": "Acting",
+        "name": "Eva Mattes",
+        "original_name": "Eva Mattes",
+        "popularity": 0.5651,
+        "profile_path": "/63ET2xZ3ezbDGKwXxz2eqwX0pxB.jpg",
+        "cast_id": 32,
+        "character": "Sekretärin (uncredited)",
+        "credit_id": "5dac4c8ced28b90012dac79f",
+        "order": 19
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2725,
+        "known_for_department": "Directing",
+        "name": "Rainer Werner Fassbinder",
+        "original_name": "Rainer Werner Fassbinder",
+        "popularity": 1.013,
+        "profile_path": "/uZFSBv6Q4ZSwZr8wfLobBCiiC14.jpg",
+        "credit_id": "52fe45f7c3a36847f80e4e39",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2725,
+        "known_for_department": "Directing",
+        "name": "Rainer Werner Fassbinder",
+        "original_name": "Rainer Werner Fassbinder",
+        "popularity": 1.013,
+        "profile_path": "/uZFSBv6Q4ZSwZr8wfLobBCiiC14.jpg",
+        "credit_id": "52fe45f7c3a36847f80e4e3f",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 21997,
+        "known_for_department": "Acting",
+        "name": "Kurt Raab",
+        "original_name": "Kurt Raab",
+        "popularity": 0.4952,
+        "profile_path": "/k3CjKFY5nT4WIKhC96W1S87j36z.jpg",
+        "credit_id": "52fe45f8c3a36847f80e4e51",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3767,
+        "known_for_department": "Sound",
+        "name": "Peer Raben",
+        "original_name": "Peer Raben",
+        "popularity": 0.2397,
+        "profile_path": "/c00b1PFJ39wD4YYwSLwzy4LJOtH.jpg",
+        "credit_id": "665dae7523e862aed16d102f",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2737,
+        "known_for_department": "Editing",
+        "name": "Thea Eymèsz",
+        "original_name": "Thea Eymèsz",
+        "popularity": 0.0958,
+        "profile_path": null,
+        "credit_id": "5a9703ef92514128ad002739",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 21997,
+        "known_for_department": "Acting",
+        "name": "Kurt Raab",
+        "original_name": "Kurt Raab",
+        "popularity": 0.4952,
+        "profile_path": "/k3CjKFY5nT4WIKhC96W1S87j36z.jpg",
+        "credit_id": "5a970405c3a3686145002ca6",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1987704,
+        "known_for_department": "Art",
+        "name": "Ruediger Schmid",
+        "original_name": "Ruediger Schmid",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "5a97041292514128a0002864",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1980985,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Jo Braun",
+        "original_name": "Jo Braun",
+        "popularity": 0.0361,
+        "profile_path": null,
+        "credit_id": "5a97041c0e0a260153002b63",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1987705,
+        "known_for_department": "Sound",
+        "name": "Wolfgang Hoffmann",
+        "original_name": "Wolfgang Hoffmann",
+        "popularity": 0.0468,
+        "profile_path": null,
+        "credit_id": "5a97042892514128a7002681",
+        "department": "Sound",
+        "job": "Sound Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3769,
+        "known_for_department": "Camera",
+        "name": "Michael Ballhaus",
+        "original_name": "Michael Ballhaus",
+        "popularity": 0.3468,
+        "profile_path": "/9DHIGsrgeTWA0rch3fFGXTOl1lO.jpg",
+        "credit_id": "5f4826206cf3d500362774a1",
+        "department": "Camera",
+        "job": "Director of Photography"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "US",
+        "title": "Mother Küsters’ Trip to Heaven",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "FR",
+        "title": "Maman Küsters s’en va au ciel",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "IT",
+        "title": "Il viaggio in cielo di mamma Kusters",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "RU",
+        "title": "Вознесение Матушки Кюстерс",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "UA",
+        "title": "Подорож мати Кюстерс на небеса",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "UA",
+        "title": "Мати Кюстерс потрапляє на небеса",
+        "type": ""
+      }
+    ]
+  }
+}

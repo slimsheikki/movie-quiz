@@ -1,0 +1,587 @@
+{
+  "adult": false,
+  "backdrop_path": "/pvFmXlMDsYoDnFu21hY3tlyW1xv.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10752,
+      "name": "War"
+    }
+  ],
+  "homepage": "",
+  "id": 17988,
+  "imdb_id": "tt0036947",
+  "origin_country": [
+    "JP"
+  ],
+  "original_language": "ja",
+  "original_title": "一番美しく",
+  "overview": "Young women at a precision optics factory in wartime Japan push to exceed production quotas, enduring illness, injury, and personal hardship to “serve the country.” Led by Tsuru Watanabe, they fight fatigue and setbacks to keep their line moving—even when duty collides with grief.",
+  "popularity": 0.9571,
+  "poster_path": "/37EKyIKpmGLEX5Js0cQq9J8DFW3.jpg",
+  "production_companies": [
+    {
+      "id": 882,
+      "logo_path": "/fRSWWjquvzcHjACbtF53utZFIll.png",
+      "name": "TOHO",
+      "origin_country": "JP"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    }
+  ],
+  "release_date": "1944-04-13",
+  "revenue": 0,
+  "runtime": 85,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Most Beautiful",
+  "video": false,
+  "vote_average": 5.527,
+  "vote_count": 56,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 7453,
+        "known_for_department": "Acting",
+        "name": "Takashi Shimura",
+        "original_name": "志村喬",
+        "popularity": 2.2823,
+        "profile_path": "/ydyAm2vyBbEPZRICIMqqjDm0NM9.jpg",
+        "cast_id": 2,
+        "character": "Chief Goro Ishida",
+        "credit_id": "52fe47589251416c7509610b",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1144066,
+        "known_for_department": "Acting",
+        "name": "Shōji Kiyokawa",
+        "original_name": "Shôji Kiyokawa",
+        "popularity": 0.1306,
+        "profile_path": "/zzDMjkTARLjKoAPEgTQKUlSjRUJ.jpg",
+        "cast_id": 3,
+        "character": "Soichi Yoshikawa, Chief of General Affairs Section",
+        "credit_id": "52fe47589251416c7509610f",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 134263,
+        "known_for_department": "Acting",
+        "name": "Ichirō Sugai",
+        "original_name": "菅井一郎",
+        "popularity": 0.6532,
+        "profile_path": "/eP2AnYLxj5tMRNM5wkf4t5gnwcI.jpg",
+        "cast_id": 4,
+        "character": "Ken Shinda, Chief of Labor Section",
+        "credit_id": "52fe47589251416c75096113",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 134351,
+        "known_for_department": "Acting",
+        "name": "Takako Irie",
+        "original_name": "入江たか子",
+        "popularity": 0.6955,
+        "profile_path": "/iqD3lh1wWQEEbgXcVC8oAU2n8TR.jpg",
+        "cast_id": 5,
+        "character": "Noriko Mizushima, dorm mother",
+        "credit_id": "52fe47589251416c75096117",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1478608,
+        "known_for_department": "Acting",
+        "name": "Yôko Yaguchi",
+        "original_name": "矢口陽子",
+        "popularity": 0.2859,
+        "profile_path": "/swszdQf28vWOGBXYdpPfiEUc6Ie.jpg",
+        "cast_id": 6,
+        "character": "Tsuru Watanabe, president of women workers",
+        "credit_id": "558329bfc3a3682d86000666",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1478609,
+        "known_for_department": "Acting",
+        "name": "Sayuri Tanima",
+        "original_name": "谷間小百合",
+        "popularity": 0.4048,
+        "profile_path": null,
+        "cast_id": 7,
+        "character": "Yuriko Tanimura, vice president of women workers",
+        "credit_id": "558329e09251413bdc000b36",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1478610,
+        "known_for_department": "Acting",
+        "name": "Sachiko Ozaki",
+        "original_name": "Sachiko Ozaki",
+        "popularity": 0.0629,
+        "profile_path": "/dThO1QrgFcmZ60zArWsPByhNohV.jpg",
+        "cast_id": 8,
+        "character": "Sachiko Yamazaki",
+        "credit_id": "558329fac3a368236c0006a9",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1478611,
+        "known_for_department": "Acting",
+        "name": "Shizuko Nishigaki",
+        "original_name": "Shizuko Nishigaki",
+        "popularity": 0.0709,
+        "profile_path": "/8nem05YMbr1gIQy32Iwu1PsrOO7.jpg",
+        "cast_id": 9,
+        "character": "Fusae Nishioka",
+        "credit_id": "55832a149251415c590006dd",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1478612,
+        "known_for_department": "Acting",
+        "name": "Asako Suzuki",
+        "original_name": "Asako Suzuki",
+        "popularity": 0.0956,
+        "profile_path": "/6Wyz2w3sUDDiaB2LYZqHzY3PMau.jpg",
+        "cast_id": 10,
+        "character": "Asako Suzumura",
+        "credit_id": "55832a33925141064a00095c",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1268056,
+        "known_for_department": "Acting",
+        "name": "Haruko Toyama",
+        "original_name": "Haruko Toyama",
+        "popularity": 0.1933,
+        "profile_path": null,
+        "cast_id": 11,
+        "character": "Masako Koyama",
+        "credit_id": "55832a49c3a3682d86000670",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1478613,
+        "known_for_department": "Acting",
+        "name": "Aiko Masu",
+        "original_name": "Aiko Masu",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "cast_id": 12,
+        "character": "Tokiko Hiroda",
+        "credit_id": "55832a63c3a3686c0e000b0a",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1478614,
+        "known_for_department": "Acting",
+        "name": "Kazuko Hitomi",
+        "original_name": "Kazuko Hitomi",
+        "popularity": 0.0261,
+        "profile_path": "/58af6oAaLyandU2ca649NxMFE8X.jpg",
+        "cast_id": 13,
+        "character": "Kazuko Futomi",
+        "credit_id": "55832a77c3a3686fac001b8b",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1478615,
+        "known_for_department": "Acting",
+        "name": "Shizuko Yamada",
+        "original_name": "Shizuko Yamada",
+        "popularity": 0,
+        "profile_path": "/zhhfGvMc4wTaW7nAoizkwwlquFV.jpg",
+        "cast_id": 14,
+        "character": "Hisae Yamaguchi",
+        "credit_id": "55832a999251413b8a000c87",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1478616,
+        "known_for_department": "Acting",
+        "name": "Itoko Kōno",
+        "original_name": "河野糸子",
+        "popularity": 0.3459,
+        "profile_path": "/86oh8SWBtyPq3w2YKvgqFtPFYeC.jpg",
+        "cast_id": 15,
+        "character": "Sue Okabe",
+        "credit_id": "55832aabc3a3686cc5000c97",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1478617,
+        "known_for_department": "Acting",
+        "name": "Emiko Rei",
+        "original_name": "Emiko Rei",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 16,
+        "character": "Chie Shima (uncredited)",
+        "credit_id": "55832ae29251415c590006e7",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1478618,
+        "known_for_department": "Acting",
+        "name": "Haruko Mii",
+        "original_name": "Haruko Mii",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 17,
+        "character": "Haruko Kawai (uncredited)",
+        "credit_id": "55832af29251413b8a000c91",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1478619,
+        "known_for_department": "Acting",
+        "name": "Minori Toyohara",
+        "original_name": "Minori Toyohara",
+        "popularity": 0.0362,
+        "profile_path": null,
+        "cast_id": 18,
+        "character": "Minori Yoyota (uncredited)",
+        "credit_id": "55832b08c3a3686fb9001dea",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1478620,
+        "known_for_department": "Acting",
+        "name": "Eiko Hirayama",
+        "original_name": "Eiko Hirayama",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "cast_id": 19,
+        "character": "Yoshiko Shirayama (uncredited)",
+        "credit_id": "55832b21c3a3686c0e000b1a",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1478621,
+        "known_for_department": "Acting",
+        "name": "Harue Yamashita",
+        "original_name": "Harue Yamashita",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 20,
+        "character": "Kiyo Mishima (uncredited)",
+        "credit_id": "55832b349251412b400004d3",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1478622,
+        "known_for_department": "Acting",
+        "name": "Mineko Mashiro",
+        "original_name": "Mineko Mashiro",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 21,
+        "character": "Mineko Bando (uncredited)",
+        "credit_id": "55832b4cc3a3686fb9001df0",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1478623,
+        "known_for_department": "Acting",
+        "name": "Isuzu Miyakawa",
+        "original_name": "Isuzu Miyakawa",
+        "popularity": 0.1016,
+        "profile_path": null,
+        "cast_id": 22,
+        "character": "Shizue Miyazaki (uncredited)",
+        "credit_id": "55832b6392514158f4000641",
+        "order": 20
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 239647,
+        "known_for_department": "Acting",
+        "name": "Michiko Oikawa",
+        "original_name": "及川道子",
+        "popularity": 0.0977,
+        "profile_path": "/8ps2NpUOR10iOfb2ORIvSGI19HE.jpg",
+        "cast_id": 23,
+        "character": "Michiko Ayukawa (uncredited)",
+        "credit_id": "55832b8192514158f4000646",
+        "order": 21
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1459952,
+        "known_for_department": "Acting",
+        "name": "Teruko Kato",
+        "original_name": "加藤照子",
+        "popularity": 0.3537,
+        "profile_path": null,
+        "cast_id": 24,
+        "character": "Teruko Sato (uncredited)",
+        "credit_id": "55832b979251413b8a000c9d",
+        "order": 22
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 134258,
+        "known_for_department": "Acting",
+        "name": "Akitake Kōno",
+        "original_name": "河野秋武",
+        "popularity": 1.1542,
+        "profile_path": "/qT7KkMz7KRYge3aKNLnnlxfZXvG.jpg",
+        "cast_id": 25,
+        "character": "Fire and drum band instructor (uncredited)",
+        "credit_id": "55832babc3a3686cc5000ca8",
+        "order": 23
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1200878,
+        "known_for_department": "Acting",
+        "name": "Unpei Yokoyama",
+        "original_name": "横山運平",
+        "popularity": 0.628,
+        "profile_path": "/oHDY2wVxlsEoTOFeR8Sssog1KxH.jpg",
+        "cast_id": 26,
+        "character": "Dormitory worker (uncredited)",
+        "credit_id": "55832bc0c3a368236c0006be",
+        "order": 24
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 125723,
+        "known_for_department": "Acting",
+        "name": "Chieko Nakakita",
+        "original_name": "中北千枝子",
+        "popularity": 1.1213,
+        "profile_path": "/wPDw7i4mYeTX6N0N9vwUgXHkxef.jpg",
+        "cast_id": 27,
+        "character": "Student worker (uncredited)",
+        "credit_id": "55832bda925141064a000976",
+        "order": 25
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1478624,
+        "known_for_department": "Acting",
+        "name": "Koyuri Tanima",
+        "original_name": "Koyuri Tanima",
+        "popularity": 0,
+        "profile_path": null,
+        "cast_id": 28,
+        "character": "Factory worker (uncredited)",
+        "credit_id": "55832befc3a3682d8600068c",
+        "order": 26
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5026,
+        "known_for_department": "Directing",
+        "name": "Akira Kurosawa",
+        "original_name": "黒澤明",
+        "popularity": 2.6745,
+        "profile_path": "/ca8fRqLDfTJTCamLKHp70up23ET.jpg",
+        "credit_id": "52fe47589251416c75096107",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1715951,
+        "known_for_department": "Production",
+        "name": "Jin Usami",
+        "original_name": "Jin Usami",
+        "popularity": 0.0826,
+        "profile_path": null,
+        "credit_id": "5bc68611c3a3683e0e001477",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5026,
+        "known_for_department": "Directing",
+        "name": "Akira Kurosawa",
+        "original_name": "黒澤明",
+        "popularity": 2.6745,
+        "profile_path": "/ca8fRqLDfTJTCamLKHp70up23ET.jpg",
+        "credit_id": "5bc685bbc3a3683e03001215",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1530299,
+        "known_for_department": "Production",
+        "name": "Motohiko Itō",
+        "original_name": "Motohiko Itô",
+        "popularity": 0.0716,
+        "profile_path": null,
+        "credit_id": "5bc685f2c3a3683e080014fd",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1429259,
+        "known_for_department": "Art",
+        "name": "Teruaki Abe",
+        "original_name": "Teruaki Abe",
+        "popularity": 0.2576,
+        "profile_path": null,
+        "credit_id": "5e8a32f49979d20017ecec67",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1111735,
+        "known_for_department": "Sound",
+        "name": "Seiichi Suzuki",
+        "original_name": "鈴木静一",
+        "popularity": 0.267,
+        "profile_path": null,
+        "credit_id": "5e8a33049979d20017ecec88",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1542450,
+        "known_for_department": "Camera",
+        "name": "Jōji Ohara",
+        "original_name": "小原譲治",
+        "popularity": 0.8124,
+        "profile_path": "/j2ofJYCTKsIhcnYUEcuqqgSyQp1.jpg",
+        "credit_id": "67bd718a7617568fc65e9390",
+        "department": "Camera",
+        "job": "Director of Photography"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "BR",
+        "title": "A Mais Bela",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "SU",
+        "title": "Самые красивые",
+        "type": "Russian title"
+      },
+      {
+        "iso_3166_1": "FR",
+        "title": "Le Plus Beau",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "JP",
+        "title": "Ichiban utsukushiku",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "US",
+        "title": "Most Beautifully",
+        "type": "alternative title"
+      },
+      {
+        "iso_3166_1": "PT",
+        "title": "Espírito Mais Elevado",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "BR",
+        "title": "Espírito Mais Elevado",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "JP",
+        "title": "一番美しく",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "US",
+        "title": "The Most Beautiful (Series 23: The First Films of Akira Kurosawa)",
+        "type": "Eclipse (From the Criterion Collection)"
+      },
+      {
+        "iso_3166_1": "AZ",
+        "title": "Ən Gözəl",
+        "type": ""
+      }
+    ]
+  }
+}

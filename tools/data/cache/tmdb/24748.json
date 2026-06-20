@@ -1,0 +1,634 @@
+{
+  "adult": false,
+  "backdrop_path": "/dlmROevxOVYtZXRUzt6DGJzl9BL.jpg",
+  "belongs_to_collection": null,
+  "budget": 2500000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 37,
+      "name": "Western"
+    }
+  ],
+  "homepage": "",
+  "id": 24748,
+  "imdb_id": "tt0057163",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Hud",
+  "overview": "Hud Bannon is a ruthless young man who tarnishes everything and everyone he touches. Hud represents the perfect embodiment of alienated youth, out for kicks with no regard for the consequences. There is bitter conflict between the callous Hud and his stern and highly principled father, Homer. Hud's nephew Lon admires Hud's cheating ways, though he soon becomes too aware of Hud's reckless amorality to bear him anymore. In the world of the takers and the taken, Hud is a winner. He's a cheat, but, he explains, \"I always say the law was meant to be interpreted in a lenient manner.\"",
+  "popularity": 2.3759,
+  "poster_path": "/A168bF52vmAIGkC2Qafj7M2EmaE.jpg",
+  "production_companies": [
+    {
+      "id": 4,
+      "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
+      "name": "Paramount Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1963-05-24",
+  "revenue": 10000000,
+  "runtime": 112,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The man with the barbed-wire soul.",
+  "title": "Hud",
+  "video": false,
+  "vote_average": 7.232,
+  "vote_count": 358,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3636,
+        "known_for_department": "Acting",
+        "name": "Paul Newman",
+        "original_name": "Paul Newman",
+        "popularity": 3.0122,
+        "profile_path": "/bP2fByqNR7BorsUNuD6nSm0u2vJ.jpg",
+        "cast_id": 10,
+        "character": "Hud Bannon",
+        "credit_id": "52fe44a7c3a368484e02f379",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 19550,
+        "known_for_department": "Acting",
+        "name": "Melvyn Douglas",
+        "original_name": "Melvyn Douglas",
+        "popularity": 0.7069,
+        "profile_path": "/4WuaoFCSdffenrKeCJAIX0MmyJt.jpg",
+        "cast_id": 11,
+        "character": "Homer Bannon",
+        "credit_id": "52fe44a7c3a368484e02f37d",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1934,
+        "known_for_department": "Acting",
+        "name": "Patricia Neal",
+        "original_name": "Patricia Neal",
+        "popularity": 1.0326,
+        "profile_path": "/spdaTjYnm2TfYsOUYIM9zGdr4Ym.jpg",
+        "cast_id": 12,
+        "character": "Alma Brown",
+        "credit_id": "52fe44a7c3a368484e02f381",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 30511,
+        "known_for_department": "Acting",
+        "name": "Brandon De Wilde",
+        "original_name": "Brandon De Wilde",
+        "popularity": 0.9382,
+        "profile_path": "/cl8hufW5kHzDeuzHUgbj2QjdenT.jpg",
+        "cast_id": 13,
+        "character": "Lon 'Lonnie' Bannon",
+        "credit_id": "52fe44a7c3a368484e02f385",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 13786,
+        "known_for_department": "Acting",
+        "name": "Whit Bissell",
+        "original_name": "Whit Bissell",
+        "popularity": 1.1449,
+        "profile_path": "/ctpL0dPAv6n9ArbWRK1Cet0wvqk.jpg",
+        "cast_id": 14,
+        "character": "Mr. Burris",
+        "credit_id": "52fe44a7c3a368484e02f389",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 13787,
+        "known_for_department": "Acting",
+        "name": "Crahan Denton",
+        "original_name": "Crahan Denton",
+        "popularity": 0.5985,
+        "profile_path": "/lubpY2PrCRwdCnYislmjvfmzNb5.jpg",
+        "cast_id": 15,
+        "character": "Jesse",
+        "credit_id": "52fe44a7c3a368484e02f38d",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 8331,
+        "known_for_department": "Acting",
+        "name": "John Ashley",
+        "original_name": "John Ashley",
+        "popularity": 0.7367,
+        "profile_path": "/9qR47x9ky5eRJg7VV9St0wltTNw.jpg",
+        "cast_id": 16,
+        "character": "Hermy",
+        "credit_id": "52fe44a7c3a368484e02f391",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3014,
+        "known_for_department": "Acting",
+        "name": "Val Avery",
+        "original_name": "Val Avery",
+        "popularity": 0.9368,
+        "profile_path": "/1Pl3rZvKYamQpFLygxZeWFXVx1w.jpg",
+        "cast_id": 17,
+        "character": "Jose",
+        "credit_id": "52fe44a7c3a368484e02f395",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1587639,
+        "known_for_department": "Acting",
+        "name": "George Petrie",
+        "original_name": "George Petrie",
+        "popularity": 0.5607,
+        "profile_path": "/68jl4QHsNFeBoTQwp6xLMaHChha.jpg",
+        "cast_id": 18,
+        "character": "Joe Scanlon",
+        "credit_id": "52fe44a7c3a368484e02f399",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 94779,
+        "known_for_department": "Acting",
+        "name": "Curt Conway",
+        "original_name": "Curt Conway",
+        "popularity": 0.3942,
+        "profile_path": "/7eYYRhUYXKHahBuJ58uDrYXM48A.jpg",
+        "cast_id": 19,
+        "character": "Truman Peters",
+        "credit_id": "52fe44a7c3a368484e02f39d",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 31353,
+        "known_for_department": "Acting",
+        "name": "Sheldon Allman",
+        "original_name": "Sheldon Allman",
+        "popularity": 0.3525,
+        "profile_path": "/gOA2A58gAEXSpXTJbZXj4QRBLot.jpg",
+        "cast_id": 20,
+        "character": "Mr. Thompson",
+        "credit_id": "52fe44a7c3a368484e02f3a1",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 116565,
+        "known_for_department": "Acting",
+        "name": "Pitt Herbert",
+        "original_name": "Pitt Herbert",
+        "popularity": 0.6084,
+        "profile_path": null,
+        "cast_id": 21,
+        "character": "Mr. Larker",
+        "credit_id": "52fe44a7c3a368484e02f3a5",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 215708,
+        "known_for_department": "Crew",
+        "name": "Robert Hinkle",
+        "original_name": "Robert Hinkle",
+        "popularity": 0.1307,
+        "profile_path": null,
+        "cast_id": 23,
+        "character": "Rodeo Announcer Frank",
+        "credit_id": "52fe44a7c3a368484e02f3ad",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 151667,
+        "known_for_department": "Acting",
+        "name": "Sharyn Hillyer",
+        "original_name": "Sharyn Hillyer",
+        "popularity": 0.1761,
+        "profile_path": "/wMRLeLk0gQzfLEndXiBdbbs6yNL.jpg",
+        "cast_id": 25,
+        "character": "Myra",
+        "credit_id": "52fe44a7c3a368484e02f3b5",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 89163,
+        "known_for_department": "Acting",
+        "name": "Yvette Vickers",
+        "original_name": "Yvette Vickers",
+        "popularity": 0.4414,
+        "profile_path": "/7lScXrjqBKFXwK2CZ5gSWzXIPY8.jpg",
+        "cast_id": 26,
+        "character": "Lily Peters",
+        "credit_id": "52fe44a7c3a368484e02f3b9",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1215649,
+        "known_for_department": "Acting",
+        "name": "Don Kennedy",
+        "original_name": "Don Kennedy",
+        "popularity": 0.556,
+        "profile_path": "/kRmLhrxbLVNJOXKCEXB4Mc9l5A3.jpg",
+        "cast_id": 27,
+        "character": "Charlie Tucker",
+        "credit_id": "5a8f2ec8925141646f003119",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3615075,
+        "known_for_department": "Acting",
+        "name": "Carl Low",
+        "original_name": "Carl Low",
+        "popularity": 0.0509,
+        "profile_path": null,
+        "cast_id": 39,
+        "character": "Mr. Kirby",
+        "credit_id": "62c6dfa2b7abb5036bed7460",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4086988,
+        "known_for_department": "Acting",
+        "name": "Wag Blesing",
+        "original_name": "Wag Blesing",
+        "popularity": 0.0577,
+        "profile_path": null,
+        "cast_id": 40,
+        "character": "Show Spectator",
+        "credit_id": "6474adc29ae613014668d584",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2143131,
+        "known_for_department": "Acting",
+        "name": "Peter Brooks",
+        "original_name": "Peter Brooks",
+        "popularity": 0.2707,
+        "profile_path": "/f2K4Jduf2M1I7f54Jdtbu6KTKRh.jpg",
+        "cast_id": 41,
+        "character": "George",
+        "credit_id": "651895e493bd6900e12dd386",
+        "order": 18
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 18854,
+        "known_for_department": "Directing",
+        "name": "Martin Ritt",
+        "original_name": "Martin Ritt",
+        "popularity": 0.57,
+        "profile_path": "/2lz95mrGjNgpK6Tzu1B99g7pQx5.jpg",
+        "credit_id": "52fe44a7c3a368484e02f345",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 14569,
+        "known_for_department": "Camera",
+        "name": "James Wong Howe",
+        "original_name": "James Wong Howe",
+        "popularity": 0.3774,
+        "profile_path": "/7i7dsr3DjFuUXWjDG0Kp467Sovo.jpg",
+        "credit_id": "52fe44a7c3a368484e02f36f",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 46620,
+        "known_for_department": "Writing",
+        "name": "Irving Ravetch",
+        "original_name": "Irving Ravetch",
+        "popularity": 0.4766,
+        "profile_path": null,
+        "credit_id": "52fe44a7c3a368484e02f351",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1807,
+        "known_for_department": "Writing",
+        "name": "Larry McMurtry",
+        "original_name": "Larry McMurtry",
+        "popularity": 0.4779,
+        "profile_path": "/gUNTqvaIZIadroDmQeDTiLEulBQ.jpg",
+        "credit_id": "52fe44a7c3a368484e02f34b",
+        "department": "Writing",
+        "job": "Novel"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 7182,
+        "known_for_department": "Sound",
+        "name": "Elmer Bernstein",
+        "original_name": "Elmer Bernstein",
+        "popularity": 0.2736,
+        "profile_path": "/3617TFsk3QuDSkuXT6rle9UFcfA.jpg",
+        "credit_id": "52fe44a7c3a368484e02f369",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 46621,
+        "known_for_department": "Writing",
+        "name": "Harriet Frank Jr.",
+        "original_name": "Harriet Frank Jr.",
+        "popularity": 0.4048,
+        "profile_path": "/oIFPoERO2ctrEZDm5qRe04ijy0A.jpg",
+        "credit_id": "52fe44a7c3a368484e02f357",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 16751,
+        "known_for_department": "Editing",
+        "name": "Frank Bracht",
+        "original_name": "Frank Bracht",
+        "popularity": 0.1408,
+        "profile_path": null,
+        "credit_id": "52fe44a7c3a368484e02f375",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 46620,
+        "known_for_department": "Writing",
+        "name": "Irving Ravetch",
+        "original_name": "Irving Ravetch",
+        "popularity": 0.4766,
+        "profile_path": null,
+        "credit_id": "52fe44a7c3a368484e02f35d",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 18854,
+        "known_for_department": "Directing",
+        "name": "Martin Ritt",
+        "original_name": "Martin Ritt",
+        "popularity": 0.57,
+        "profile_path": "/2lz95mrGjNgpK6Tzu1B99g7pQx5.jpg",
+        "credit_id": "52fe44a7c3a368484e02f363",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4350,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Edith Head",
+        "original_name": "Edith Head",
+        "popularity": 0.5535,
+        "profile_path": "/l6LmpdKnU67FaoNBLi8VRRoO6wX.jpg",
+        "credit_id": "5abbc15ec3a36843a6015c6a",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 8582,
+        "known_for_department": "Sound",
+        "name": "John R. Carter",
+        "original_name": "John R. Carter",
+        "popularity": 0.1349,
+        "profile_path": null,
+        "credit_id": "5c2b3ad90e0a2655f838a7f5",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5188,
+        "known_for_department": "Art",
+        "name": "Hal Pereira",
+        "original_name": "Hal Pereira",
+        "popularity": 0.5078,
+        "profile_path": null,
+        "credit_id": "5ddef8bc0cd44600143060e8",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 7687,
+        "known_for_department": "Art",
+        "name": "Sam Comer",
+        "original_name": "Sam Comer",
+        "popularity": 0.3117,
+        "profile_path": "/gffHWHizNXvkM6k0SE6U22wkT9M.jpg",
+        "credit_id": "5ddef8d488bbe6001819ce19",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 74692,
+        "known_for_department": "Art",
+        "name": "Tambi Larsen",
+        "original_name": "Tambi Larsen",
+        "popularity": 0.1773,
+        "profile_path": null,
+        "credit_id": "5ddef8b24f5801000ffb19ee",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 11083,
+        "known_for_department": "Art",
+        "name": "Robert R. Benton",
+        "original_name": "Robert R. Benton",
+        "popularity": 0.1274,
+        "profile_path": null,
+        "credit_id": "5ddef8c4c51acd0013f1fbe6",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 121202,
+        "known_for_department": "Crew",
+        "name": "Rex Wimpy",
+        "original_name": "Rex Wimpy",
+        "popularity": 0.1361,
+        "profile_path": null,
+        "credit_id": "5ff38e0b7aecc60040ff8439",
+        "department": "Camera",
+        "job": "Second Unit Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 50580,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Nellie Manley",
+        "original_name": "Nellie Manley",
+        "popularity": 0.3173,
+        "profile_path": null,
+        "credit_id": "5ff38d29ab68490044a0df79",
+        "department": "Costume & Make-Up",
+        "job": "Hair Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 7689,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Wally Westmore",
+        "original_name": "Wally Westmore",
+        "popularity": 0.3527,
+        "profile_path": "/udXfZgyri6PGGZoj5flmjbF6nHm.jpg",
+        "credit_id": "5ff38d85ca7ec60040b2fecb",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1183417,
+        "known_for_department": "Directing",
+        "name": "Charles C. Coleman",
+        "original_name": "Charles C. Coleman",
+        "popularity": 0.1825,
+        "profile_path": null,
+        "credit_id": "5ff38da646e75f003ed61109",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1710243,
+        "known_for_department": "Sound",
+        "name": "John Wilkinson",
+        "original_name": "John Wilkinson",
+        "popularity": 0.351,
+        "profile_path": null,
+        "credit_id": "5ff38dd81d3563003f0f044e",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "US",
+        "title": "Hud",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "JP",
+        "title": "ハッド",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "BR",
+        "title": "O Indomado",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "PT",
+        "title": "Hud: O Mais Selvagem Entre Mil",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "FR",
+        "title": "Le plus sauvage d'entre tous",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "AR",
+        "title": "El indomable",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "ES",
+        "title": "Hud, el más salvaje entre mil",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "DE",
+        "title": "Der Wildeste unter tausend",
+        "type": ""
+      }
+    ]
+  }
+}

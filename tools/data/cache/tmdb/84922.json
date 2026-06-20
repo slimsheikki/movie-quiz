@@ -1,0 +1,549 @@
+{
+  "adult": false,
+  "backdrop_path": "/qP5Yqu52CGwYFKQgTA5SszjYDt0.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ],
+  "homepage": "",
+  "id": 84922,
+  "imdb_id": "tt0071797",
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "Mahler",
+  "overview": "Famed composer Gustav Mahler reflects on the tragedies of his life and failing marriage while traveling by train.",
+  "popularity": 0.6116,
+  "poster_path": "/qtKHqPr8llaSk4BSFczsopmsIP.jpg",
+  "production_companies": [
+    {
+      "id": 4597,
+      "logo_path": null,
+      "name": "Goodtimes Enterprises",
+      "origin_country": "GB"
+    },
+    {
+      "id": 14123,
+      "logo_path": null,
+      "name": "Visual Programme Systems",
+      "origin_country": ""
+    },
+    {
+      "id": 108263,
+      "logo_path": null,
+      "name": "Mayfair Pictures",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "1974-04-04",
+  "revenue": 0,
+  "runtime": 115,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "status": "Released",
+  "tagline": "An electrifying visual odyssey into musical madness and savage romance.",
+  "title": "Mahler",
+  "video": false,
+  "vote_average": 6.8,
+  "vote_count": 47,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 24682,
+        "known_for_department": "Acting",
+        "name": "Robert Powell",
+        "original_name": "Robert Powell",
+        "popularity": 1.2018,
+        "profile_path": "/seHIncPS18PLjhEPqy4ZdeZ6lsU.jpg",
+        "cast_id": 1,
+        "character": "Gustav Mahler",
+        "credit_id": "52fe49189251416c910a2819",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 92434,
+        "known_for_department": "Acting",
+        "name": "Georgina Hale",
+        "original_name": "Georgina Hale",
+        "popularity": 0.6488,
+        "profile_path": "/elEJol92JBxypUayYrYEzOvsKPY.jpg",
+        "cast_id": 2,
+        "character": "Alma Mahler",
+        "credit_id": "52fe49189251416c910a281d",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 24699,
+        "known_for_department": "Acting",
+        "name": "Lee Montague",
+        "original_name": "Lee Montague",
+        "popularity": 0.7405,
+        "profile_path": "/1EDK3FWIhErnv6pEXR1Y4pQOxjd.jpg",
+        "cast_id": 3,
+        "character": "Bernhard Mahler",
+        "credit_id": "52fe49199251416c910a2821",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2274,
+        "known_for_department": "Acting",
+        "name": "Miriam Karlin",
+        "original_name": "Miriam Karlin",
+        "popularity": 0.5765,
+        "profile_path": "/3VbYzKcHJdVYGkrBcqMgcKRmICE.jpg",
+        "cast_id": 4,
+        "character": "Aunt Rosa",
+        "credit_id": "52fe49199251416c910a2825",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 39001,
+        "known_for_department": "Acting",
+        "name": "Rosalie Crutchley",
+        "original_name": "Rosalie Crutchley",
+        "popularity": 0.8976,
+        "profile_path": "/tED225NxITxnQUVdhRvenRsayzt.jpg",
+        "cast_id": 7,
+        "character": "Marie Mahler",
+        "credit_id": "52fe49199251416c910a2835",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1225740,
+        "known_for_department": "Acting",
+        "name": "Richard Morant",
+        "original_name": "Richard Morant",
+        "popularity": 0.3876,
+        "profile_path": "/2tWROxvYs8gEwqpmg1ENM2UjdiO.jpg",
+        "cast_id": 15,
+        "character": "Max",
+        "credit_id": "5a0239e0c3a3686296001db9",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 192866,
+        "known_for_department": "Acting",
+        "name": "Angela Down",
+        "original_name": "Angela Down",
+        "popularity": 0.5673,
+        "profile_path": "/iWRCWuzqlngzL272xWkdsWjV5jG.jpg",
+        "cast_id": 16,
+        "character": "Justine Mahler",
+        "credit_id": "5a0239ecc3a368637f001cb7",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 32556,
+        "known_for_department": "Acting",
+        "name": "Ronald Pickup",
+        "original_name": "Ronald Pickup",
+        "popularity": 0.8691,
+        "profile_path": "/9wJtlqBNPPa87UJDfLNnSNQRhEn.jpg",
+        "cast_id": 17,
+        "character": "Nick",
+        "credit_id": "5a023a2292514111e4001f2a",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 12691,
+        "known_for_department": "Acting",
+        "name": "Peter Eyre",
+        "original_name": "Peter Eyre",
+        "popularity": 0.6432,
+        "profile_path": "/lqLx9IBYtkdfHTrWcAKooOkCUz5.jpg",
+        "cast_id": 18,
+        "character": "Otto Mahler",
+        "credit_id": "5a023a3c92514111d2001ffe",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 110318,
+        "known_for_department": "Acting",
+        "name": "Dana Gillespie",
+        "original_name": "Dana Gillespie",
+        "popularity": 0.2848,
+        "profile_path": "/xX8Y6iNFidIsdte4Iu13zz6Op2O.jpg",
+        "cast_id": 19,
+        "character": "Anna von Mildenburg",
+        "credit_id": "5a023be992514111da0021db",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1227492,
+        "known_for_department": "Acting",
+        "name": "David Collings",
+        "original_name": "David Collings",
+        "popularity": 0.6603,
+        "profile_path": "/b5cf5xxGciODfifgFIW9bok66AY.jpg",
+        "cast_id": 20,
+        "character": "Hugo Wolfe",
+        "credit_id": "5a023bf59251411201002229",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 10734,
+        "known_for_department": "Acting",
+        "name": "Kenneth Colley",
+        "original_name": "Kenneth Colley",
+        "popularity": 0.6286,
+        "profile_path": "/5eH380TIBWnjyCDCq3o7DUeZOsX.jpg",
+        "cast_id": 21,
+        "character": "Krenek",
+        "credit_id": "5a023c0192514111f400222e",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2091956,
+        "known_for_department": "Acting",
+        "name": "Antonia Ellis",
+        "original_name": "Antonia Ellis",
+        "popularity": 0.3117,
+        "profile_path": null,
+        "cast_id": 22,
+        "character": "Cosima Wagner",
+        "credit_id": "5b588190c3a3685c8b0505df",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 936,
+        "known_for_department": "Acting",
+        "name": "Oliver Reed",
+        "original_name": "Oliver Reed",
+        "popularity": 1.5018,
+        "profile_path": "/dWfotc1X71wNCGyPO9hXpv8U9Gw.jpg",
+        "cast_id": 24,
+        "character": "Train Conductor",
+        "credit_id": "5d946b1d21c4ca00307f9e89",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 14823,
+        "known_for_department": "Acting",
+        "name": "Andrew Faulds",
+        "original_name": "Andrew Faulds",
+        "popularity": 0.3955,
+        "profile_path": "/kQdTOUeLDxivFcmhJXJ6hv43f3k.jpg",
+        "cast_id": 25,
+        "character": "Doctor on Train",
+        "credit_id": "5e0fcf2f58361b0012c08960",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 11028,
+        "known_for_department": "Acting",
+        "name": "George Coulouris",
+        "original_name": "George Coulouris",
+        "popularity": 1.1359,
+        "profile_path": "/cB87rJWOsstpwhBXk6nqqZ9SEJg.jpg",
+        "cast_id": 26,
+        "character": "Doctor Roth",
+        "credit_id": "60d99ff58805510045862041",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1404595,
+        "known_for_department": "Acting",
+        "name": "Arnold Yarrow",
+        "original_name": "Arnold Yarrow",
+        "popularity": 0.1551,
+        "profile_path": null,
+        "cast_id": 29,
+        "character": "Grandfather",
+        "credit_id": "675857b81287d9b46ba19a4e",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4525130,
+        "known_for_department": "Acting",
+        "name": "Elaine Delmar",
+        "original_name": "Elaine Delmar",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 31,
+        "character": "Princess",
+        "credit_id": "67e56d812580eef1e8005765",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 130481,
+        "known_for_department": "Acting",
+        "name": "Otto Diamant",
+        "original_name": "Otto Diamant",
+        "popularity": 0.1808,
+        "profile_path": null,
+        "cast_id": 32,
+        "character": "Professor Sladky",
+        "credit_id": "67e56da05e8e5c9bacba5091",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 118614,
+        "known_for_department": "Acting",
+        "name": "Berwick Kaler",
+        "original_name": "Berwick Kaler",
+        "popularity": 0.3998,
+        "profile_path": "/zlCnj05MQEqCMhClTfwhxU4IsPn.jpg",
+        "cast_id": 30,
+        "character": "Dancing Officer at Mahler's Cremation (uncredited)",
+        "credit_id": "67a8a28d214611ab5df0f513",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 32265,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Victoria Russell",
+        "original_name": "Victoria Russell",
+        "popularity": 0.1655,
+        "profile_path": null,
+        "cast_id": 28,
+        "character": "Girl Running Alongside Train (uncredited)",
+        "credit_id": "670751331d96dc6d4769f7a5",
+        "order": 20
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 32327,
+        "known_for_department": "Directing",
+        "name": "Ken Russell",
+        "original_name": "Ken Russell",
+        "popularity": 0.7942,
+        "profile_path": "/hM5kaWhCsdZbl2NsHES3rWzt8xa.jpg",
+        "credit_id": "52fe49199251416c910a282b",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 32327,
+        "known_for_department": "Directing",
+        "name": "Ken Russell",
+        "original_name": "Ken Russell",
+        "popularity": 0.7942,
+        "profile_path": "/hM5kaWhCsdZbl2NsHES3rWzt8xa.jpg",
+        "credit_id": "52fe49199251416c910a2831",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 65305,
+        "known_for_department": "Production",
+        "name": "Roy Baird",
+        "original_name": "Roy Baird",
+        "popularity": 0.1154,
+        "profile_path": null,
+        "credit_id": "5701d1c3c3a368569c0019e8",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 70649,
+        "known_for_department": "Production",
+        "name": "Sanford Lieberson",
+        "original_name": "Sanford Lieberson",
+        "popularity": 0.172,
+        "profile_path": null,
+        "credit_id": "5701d1cc925141607f0015a3",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 8967,
+        "known_for_department": "Production",
+        "name": "David Puttnam",
+        "original_name": "David Puttnam",
+        "popularity": 0.2815,
+        "profile_path": "/9p1JLzTSpBALtrJVWX5ix09wWeR.jpg",
+        "credit_id": "5701d1d5c3a368568c00185f",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 58660,
+        "known_for_department": "Camera",
+        "name": "Dick Bush",
+        "original_name": "Dick Bush",
+        "popularity": 0.2438,
+        "profile_path": "/fbtTLgLKreulTeOc8mWL0MUHhCu.jpg",
+        "credit_id": "5701d1dcc3a368568c001862",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 23865,
+        "known_for_department": "Editing",
+        "name": "Michael Bradsell",
+        "original_name": "Michael Bradsell",
+        "popularity": 0.1475,
+        "profile_path": null,
+        "credit_id": "5701d1e39251416072001593",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 121680,
+        "known_for_department": "Art",
+        "name": "Ian Whittaker",
+        "original_name": "Ian Whittaker",
+        "popularity": 0.2666,
+        "profile_path": null,
+        "credit_id": "5701d1f39251416072001598",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 39815,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Shirley Russell",
+        "original_name": "Shirley Russell",
+        "popularity": 0.1542,
+        "profile_path": null,
+        "credit_id": "5701d1fa92514160700016bc",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2523,
+        "known_for_department": "Editing",
+        "name": "Stuart Baird",
+        "original_name": "Stuart Baird",
+        "popularity": 0.5585,
+        "profile_path": "/rSKMlgfJ1m2xZcsxHUV0hvYc9Eh.jpg",
+        "credit_id": "5c6496469251417df4fb8312",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "IT",
+        "title": "La perdizione",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "PT",
+        "title": "Mahler, Delírio Fantástico",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "RU",
+        "title": "Малер",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "FI",
+        "title": "Polttava hurmio",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "FI",
+        "title": "Brinnande extas",
+        "type": "(Swedish title)"
+      },
+      {
+        "iso_3166_1": "ES",
+        "title": "Una sombra en el pasado",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "BR",
+        "title": "Mahler, Uma Paixão Violenta",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "BG",
+        "title": "Малер",
+        "type": ""
+      }
+    ]
+  }
+}

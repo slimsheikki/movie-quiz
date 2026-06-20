@@ -1,0 +1,1281 @@
+{
+  "adult": false,
+  "backdrop_path": "/iihMna17sTxP3zwlWBsKZbvDiGZ.jpg",
+  "belongs_to_collection": {
+    "id": 288280,
+    "name": "Tony Manero Collection",
+    "poster_path": "/qWXxKpBdnMlQyP8f2WPIE3iCL63.jpg",
+    "backdrop_path": "/28f8ckuOSsMiXTaVKB1nOCityBm.jpg"
+  },
+  "budget": 3500000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 11009,
+  "imdb_id": "tt0076666",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Saturday Night Fever",
+  "overview": "Tony spends his Saturdays at a disco where his stylish moves raise his popularity among the patrons. But his life outside the disco is not easy and things change when he gets attracted to Stephanie.",
+  "popularity": 3.2967,
+  "poster_path": "/ylA7E5Md21aqgzxbwa2dFxX8LKV.jpg",
+  "production_companies": [
+    {
+      "id": 3978,
+      "logo_path": "/kk8VINipfjy7osPd5DgFTfyxUI.png",
+      "name": "Robert Stigwood Organization",
+      "origin_country": "GB"
+    },
+    {
+      "id": 4,
+      "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
+      "name": "Paramount Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 235839,
+      "logo_path": null,
+      "name": "SNF Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1977-12-16",
+  "revenue": 237113184,
+  "runtime": 118,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Where do you go when the record is over...",
+  "title": "Saturday Night Fever",
+  "video": false,
+  "vote_average": 6.732,
+  "vote_count": 2086,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 8891,
+        "known_for_department": "Acting",
+        "name": "John Travolta",
+        "original_name": "John Travolta",
+        "popularity": 4.6268,
+        "profile_path": "/ap8eEYfBKTLixmVVpRlq4NslDD5.jpg",
+        "cast_id": 9,
+        "character": "Tony Manero",
+        "credit_id": "52fe43e29251416c75021d25",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 67787,
+        "known_for_department": "Acting",
+        "name": "Karen Lynn Gorney",
+        "original_name": "Karen Lynn Gorney",
+        "popularity": 0.4654,
+        "profile_path": "/180L4tV9AvFM4JzWmHyKEsmTZOv.jpg",
+        "cast_id": 10,
+        "character": "Stephanie",
+        "credit_id": "52fe43e29251416c75021d29",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 62014,
+        "known_for_department": "Acting",
+        "name": "Barry Miller",
+        "original_name": "Barry Miller",
+        "popularity": 0.7675,
+        "profile_path": "/jClFwEE3TJqOi8yyuD1c6o9ldlr.jpg",
+        "cast_id": 11,
+        "character": "Bobby C.",
+        "credit_id": "52fe43e29251416c75021d2d",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 67788,
+        "known_for_department": "Acting",
+        "name": "Joseph Cali",
+        "original_name": "Joseph Cali",
+        "popularity": 0.3806,
+        "profile_path": "/qYf43JOmvNR5SausEtyaXIjlqdt.jpg",
+        "cast_id": 12,
+        "character": "Joey",
+        "credit_id": "52fe43e29251416c75021d31",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 174563,
+        "known_for_department": "Acting",
+        "name": "Paul Pape",
+        "original_name": "Paul Pape",
+        "popularity": 0.4415,
+        "profile_path": "/7lBHhavJ6wpLoMl9FybfLzKzVQy.jpg",
+        "cast_id": 13,
+        "character": "Double J.",
+        "credit_id": "52fe43e29251416c75021d35",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1216751,
+        "known_for_department": "Acting",
+        "name": "Donna Pescow",
+        "original_name": "Donna Pescow",
+        "popularity": 1.1607,
+        "profile_path": "/4GblWAvSkQ7d6UXYXbNBBISUiW.jpg",
+        "cast_id": 29,
+        "character": "Annette",
+        "credit_id": "52fe43e29251416c75021d73",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 171758,
+        "known_for_department": "Writing",
+        "name": "Bruce Ornstein",
+        "original_name": "Bruce Ornstein",
+        "popularity": 0.2643,
+        "profile_path": "/bh4Dx7x9AREbtG1CFhea9HaDQKO.jpg",
+        "cast_id": 15,
+        "character": "Gus",
+        "credit_id": "52fe43e29251416c75021d39",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 20972,
+        "known_for_department": "Acting",
+        "name": "Julie Bovasso",
+        "original_name": "Julie Bovasso",
+        "popularity": 0.6058,
+        "profile_path": "/q0VH5NSnsHnhgZxe6SufKQ63Y6Q.jpg",
+        "cast_id": 16,
+        "character": "Flo",
+        "credit_id": "52fe43e29251416c75021d3d",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 119054,
+        "known_for_department": "Acting",
+        "name": "Martin Shakar",
+        "original_name": "Martin Shakar",
+        "popularity": 0.2878,
+        "profile_path": "/yDxoVs2okrsXcmqX4LER0eLeZhy.jpg",
+        "cast_id": 17,
+        "character": "Frank, Jr.",
+        "credit_id": "52fe43e29251416c75021d41",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 118132,
+        "known_for_department": "Acting",
+        "name": "Sam Coppola",
+        "original_name": "Sam Coppola",
+        "popularity": 0.5598,
+        "profile_path": "/wVFzWq1Nq3jdKSpZ2LPdKNMmooi.jpg",
+        "cast_id": 18,
+        "character": "Fusco",
+        "credit_id": "52fe43e29251416c75021d45",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 951077,
+        "known_for_department": "Acting",
+        "name": "Nina Hansen",
+        "original_name": "Nina Hansen",
+        "popularity": 0.0965,
+        "profile_path": null,
+        "cast_id": 19,
+        "character": "Grandmother",
+        "credit_id": "52fe43e29251416c75021d49",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1191736,
+        "known_for_department": "Acting",
+        "name": "Lisa Peluso",
+        "original_name": "Lisa Peluso",
+        "popularity": 0.1557,
+        "profile_path": null,
+        "cast_id": 20,
+        "character": "Linda",
+        "credit_id": "52fe43e29251416c75021d4d",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 59695,
+        "known_for_department": "Acting",
+        "name": "Denny Dillon",
+        "original_name": "Denny Dillon",
+        "popularity": 0.6023,
+        "profile_path": "/twzmSpea8deQ0asOqRCvyCEzp43.jpg",
+        "cast_id": 21,
+        "character": "Doreen",
+        "credit_id": "52fe43e29251416c75021d51",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1161044,
+        "known_for_department": "Acting",
+        "name": "Bert Michaels",
+        "original_name": "Bert Michaels",
+        "popularity": 0.1463,
+        "profile_path": "/oStQV4O0R9YlM57nvqpsBKLpd0k.jpg",
+        "cast_id": 22,
+        "character": "Pete",
+        "credit_id": "52fe43e29251416c75021d55",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 33492,
+        "known_for_department": "Acting",
+        "name": "Robert Costanzo",
+        "original_name": "Robert Costanzo",
+        "popularity": 1.4138,
+        "profile_path": "/vyUeNk56Yv7xyHztgVa8UBEIasu.jpg",
+        "cast_id": 23,
+        "character": "Paint Store Customer",
+        "credit_id": "52fe43e29251416c75021d59",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1191737,
+        "known_for_department": "Acting",
+        "name": "Robert Weil",
+        "original_name": "Robert Weil",
+        "popularity": 0.429,
+        "profile_path": "/icVsPaCdcX09Z2XU2jUrsfTfzxm.jpg",
+        "cast_id": 24,
+        "character": "Becker",
+        "credit_id": "52fe43e29251416c75021d5d",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1191738,
+        "known_for_department": "Acting",
+        "name": "Shelly Batt",
+        "original_name": "Shelly Batt",
+        "popularity": 0.1806,
+        "profile_path": null,
+        "cast_id": 25,
+        "character": "Girl in Disco",
+        "credit_id": "52fe43e29251416c75021d61",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 53122,
+        "known_for_department": "Acting",
+        "name": "Fran Drescher",
+        "original_name": "Fran Drescher",
+        "popularity": 1.4587,
+        "profile_path": "/t5nDXDld8QykgZ3cllrn2OziI38.jpg",
+        "cast_id": 26,
+        "character": "Connie",
+        "credit_id": "52fe43e29251416c75021d65",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1671975,
+        "known_for_department": "Acting",
+        "name": "Donald Gantry",
+        "original_name": "Donald Gantry",
+        "popularity": 0.0568,
+        "profile_path": null,
+        "cast_id": 40,
+        "character": "Jay Langhart",
+        "credit_id": "5ff90df3336e01003e7cda0f",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 77255,
+        "known_for_department": "Acting",
+        "name": "Murray Moston",
+        "original_name": "Murray Moston",
+        "popularity": 0.214,
+        "profile_path": "/dCykiwWb0WNfiFJjw7e8lb0Dy63.jpg",
+        "cast_id": 41,
+        "character": "Haberdashery Salesman",
+        "credit_id": "5ff90e0befea7a003e6d5d23",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3012,
+        "known_for_department": "Acting",
+        "name": "William Andrews",
+        "original_name": "William Andrews",
+        "popularity": 0.2991,
+        "profile_path": "/iGA6Ng2vq1HUxJJomQ5042YHgQj.jpg",
+        "cast_id": 42,
+        "character": "Detective",
+        "credit_id": "5ff90e2a336e01003d7c7a93",
+        "order": 20
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 167878,
+        "known_for_department": "Acting",
+        "name": "Ann Travolta",
+        "original_name": "Ann Travolta",
+        "popularity": 0.1295,
+        "profile_path": "/2Eb6plB6qa8cHPSGitsXp5EIZh0.jpg",
+        "cast_id": 43,
+        "character": "Pizza Girl",
+        "credit_id": "5ff90e4261bac4003fa9cc7f",
+        "order": 21
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2928790,
+        "known_for_department": "Acting",
+        "name": "Helen Travolta",
+        "original_name": "Helen Travolta",
+        "popularity": 0.126,
+        "profile_path": null,
+        "cast_id": 44,
+        "character": "Lady in Paint Store",
+        "credit_id": "5ff90e5720af77003d179164",
+        "order": 22
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2928791,
+        "known_for_department": "Acting",
+        "name": "Ellen March",
+        "original_name": "Ellen March",
+        "popularity": 0.058,
+        "profile_path": null,
+        "cast_id": 45,
+        "character": "Bartender",
+        "credit_id": "5ff90e6edd83fa003f6cb1cd",
+        "order": 23
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1830776,
+        "known_for_department": "Acting",
+        "name": "Monti Rock III",
+        "original_name": "Monti Rock III",
+        "popularity": 0.1245,
+        "profile_path": null,
+        "cast_id": 46,
+        "character": "The Deejay",
+        "credit_id": "5ff90e84efea7a003d6ddc83",
+        "order": 24
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 107068,
+        "known_for_department": "Acting",
+        "name": "Val Bisoglio",
+        "original_name": "Val Bisoglio",
+        "popularity": 0.7368,
+        "profile_path": "/hxHOZKWalOfKXSiYr3jEuQEiL0k.jpg",
+        "cast_id": 30,
+        "character": "Frank, Sr.",
+        "credit_id": "540b0a5a0e0a262b46002591",
+        "order": 25
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 12840,
+        "known_for_department": "Directing",
+        "name": "John Badham",
+        "original_name": "John Badham",
+        "popularity": 0.8927,
+        "profile_path": "/hh0EssedcgUOICkZywbVuwVOJO4.jpg",
+        "cast_id": 47,
+        "character": "Pedestrian #1 (uncredited)",
+        "credit_id": "5ff90ea20c1255003fefdb79",
+        "order": 26
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 37470,
+        "known_for_department": "Acting",
+        "name": "Adrienne King",
+        "original_name": "Adrienne King",
+        "popularity": 0.5297,
+        "profile_path": "/igRfRtDEogoLzCXkX833atJCzC2.jpg",
+        "cast_id": 48,
+        "character": "Dancer (uncredited)",
+        "credit_id": "5ff90ef961bac4003ca98e87",
+        "order": 27
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 21512,
+        "known_for_department": "Writing",
+        "name": "Norman Wexler",
+        "original_name": "Norman Wexler",
+        "popularity": 0.3463,
+        "profile_path": "/seOQrSX6pMuXz2y6m5KSAqPQicO.jpg",
+        "credit_id": "52fe43e29251416c75021cfd",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 66887,
+        "known_for_department": "Acting",
+        "name": "Maurice Gibb",
+        "original_name": "Maurice Gibb",
+        "popularity": 0.4403,
+        "profile_path": "/p3ODGgcmq6DmtFI609EsGHd3nKm.jpg",
+        "credit_id": "52fe43e29251416c75021d0f",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 66885,
+        "known_for_department": "Acting",
+        "name": "Barry Gibb",
+        "original_name": "Barry Gibb",
+        "popularity": 0.7645,
+        "profile_path": "/lBjOiPNqoPhJjcaWHTsb5Bi7WD.jpg",
+        "credit_id": "52fe43e29251416c75021d09",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 8879,
+        "known_for_department": "Production",
+        "name": "Robert Stigwood",
+        "original_name": "Robert Stigwood",
+        "popularity": 0.0855,
+        "profile_path": null,
+        "credit_id": "52fe43e29251416c75021d03",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 12840,
+        "known_for_department": "Directing",
+        "name": "John Badham",
+        "original_name": "John Badham",
+        "popularity": 0.8927,
+        "profile_path": "/hh0EssedcgUOICkZywbVuwVOJO4.jpg",
+        "credit_id": "52fe43e29251416c75021cf7",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 66886,
+        "known_for_department": "Acting",
+        "name": "Robin Gibb",
+        "original_name": "Robin Gibb",
+        "popularity": 0.6415,
+        "profile_path": "/obSTuECytam5wAD13snGFrOJhaP.jpg",
+        "credit_id": "52fe43e29251416c75021d15",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 14844,
+        "known_for_department": "Editing",
+        "name": "David Rawlins",
+        "original_name": "David Rawlins",
+        "popularity": 0.2932,
+        "profile_path": null,
+        "credit_id": "52fe43e29251416c75021d21",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 25212,
+        "known_for_department": "Camera",
+        "name": "Ralf D. Bode",
+        "original_name": "Ralf D. Bode",
+        "popularity": 0.1607,
+        "profile_path": "/8XQVnDlIBzcgBI1YxuSsD89v8cw.jpg",
+        "credit_id": "52fe43e29251416c75021d1b",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 66882,
+        "known_for_department": "Writing",
+        "name": "Nik Cohn",
+        "original_name": "Nik Cohn",
+        "popularity": 0.1854,
+        "profile_path": null,
+        "credit_id": "52fe43e29251416c75021d6b",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 91834,
+        "known_for_department": "Crew",
+        "name": "Bill Anagnos",
+        "original_name": "Bill Anagnos",
+        "popularity": 0.6971,
+        "profile_path": "/vslW0fA2WO2CWMdHZi8DRn5Kr7V.jpg",
+        "credit_id": "64e07250a3b5e601d9efbd74",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 70765,
+        "known_for_department": "Directing",
+        "name": "John Nicolella",
+        "original_name": "John Nicolella",
+        "popularity": 0.3502,
+        "profile_path": "/rYOhzWoIfe1TWoVtgCrWeiLkCm9.jpg",
+        "credit_id": "61d27cc0497560001c0a6617",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3144524,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Jennifer Nichols",
+        "original_name": "Jennifer Nichols",
+        "popularity": 0.0441,
+        "profile_path": null,
+        "credit_id": "61d27fc84d0e8d0040c87312",
+        "department": "Costume & Make-Up",
+        "job": "Costumer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1481688,
+        "known_for_department": "Directing",
+        "name": "Renata Stoia",
+        "original_name": "Renata Stoia",
+        "popularity": 0.1397,
+        "profile_path": null,
+        "credit_id": "61d27d5dec370c0097fb0fb0",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3367941,
+        "known_for_department": "Production",
+        "name": "Arlene Albertson",
+        "original_name": "Arlene Albertson",
+        "popularity": 0.0571,
+        "profile_path": null,
+        "credit_id": "61d27dbba6e2d200419498a7",
+        "department": "Production",
+        "job": "Production Office Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 91085,
+        "known_for_department": "Sound",
+        "name": "Robert W. Glass Jr.",
+        "original_name": "Robert W. Glass Jr.",
+        "popularity": 0.3217,
+        "profile_path": null,
+        "credit_id": "61d27f135ff34e00a147926f",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2507345,
+        "known_for_department": "Directing",
+        "name": "Joseph Ray",
+        "original_name": "Joseph Ray",
+        "popularity": 0.1331,
+        "profile_path": null,
+        "credit_id": "61d27d298c22c000998e9868",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1127740,
+        "known_for_department": "Art",
+        "name": "James Mazzola",
+        "original_name": "James Mazzola",
+        "popularity": 0.3231,
+        "profile_path": null,
+        "credit_id": "61d27e48c15f890040f3d9a9",
+        "department": "Art",
+        "job": "Property Master"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1459588,
+        "known_for_department": "Lighting",
+        "name": "William Ward",
+        "original_name": "William Ward",
+        "popularity": 0.0747,
+        "profile_path": null,
+        "credit_id": "61d27e8e944a570091e20c44",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1027810,
+        "known_for_department": "Sound",
+        "name": "John Caper Jr.",
+        "original_name": "John Caper Jr.",
+        "popularity": 0.3412,
+        "profile_path": null,
+        "credit_id": "61d27eec4d0e8d0069c690cb",
+        "department": "Sound",
+        "job": "Music Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2348875,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Joe Tubens",
+        "original_name": "Joe Tubens",
+        "popularity": 0.0664,
+        "profile_path": null,
+        "credit_id": "61d27ce9bdd568001d2013da",
+        "department": "Costume & Make-Up",
+        "job": "Hair Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 13931,
+        "known_for_department": "Camera",
+        "name": "Tom Priestley Jr.",
+        "original_name": "Tom Priestley Jr.",
+        "popularity": 0.2808,
+        "profile_path": null,
+        "credit_id": "61d27e30e194b0008cf12d0d",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1562587,
+        "known_for_department": "Sound",
+        "name": "Les Lazarowitz",
+        "original_name": "Les Lazarowitz",
+        "popularity": 0.3885,
+        "profile_path": null,
+        "credit_id": "61d27ecf7dfda60043b77a43",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1727635,
+        "known_for_department": "Crew",
+        "name": "Gary Kalkin",
+        "original_name": "Gary Kalkin",
+        "popularity": 0.0582,
+        "profile_path": null,
+        "credit_id": "61d27de24d0e8d0040c86e9d",
+        "department": "Crew",
+        "job": "Unit Publicist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1342626,
+        "known_for_department": "Sound",
+        "name": "John T. Reitz",
+        "original_name": "John T. Reitz",
+        "popularity": 0.551,
+        "profile_path": null,
+        "credit_id": "61d27f228c22c000998e9d0c",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 933465,
+        "known_for_department": "Crew",
+        "name": "Paul Nuckles",
+        "original_name": "Paul Nuckles",
+        "popularity": 0.148,
+        "profile_path": null,
+        "credit_id": "61d27ffe497560001c0a6e60",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 112526,
+        "known_for_department": "Production",
+        "name": "Allan Wertheim",
+        "original_name": "Allan Wertheim",
+        "popularity": 0.103,
+        "profile_path": null,
+        "credit_id": "61d27d09bdd568001d201420",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1969161,
+        "known_for_department": "Camera",
+        "name": "James Finnerty",
+        "original_name": "James Finnerty",
+        "popularity": 0.1095,
+        "profile_path": null,
+        "credit_id": "61d27eb45ff34e006c85a589",
+        "department": "Camera",
+        "job": "Key Grip"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1710243,
+        "known_for_department": "Sound",
+        "name": "John Wilkinson",
+        "original_name": "John Wilkinson",
+        "popularity": 0.351,
+        "profile_path": null,
+        "credit_id": "61d27f059a3c4900417d9ffb",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1213894,
+        "known_for_department": "Crew",
+        "name": "Lester Wilson",
+        "original_name": "Lester Wilson",
+        "popularity": 0.0595,
+        "profile_path": null,
+        "credit_id": "65efae7b66a7c30162dddc49",
+        "department": "Crew",
+        "job": "Choreographer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1614005,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Max Henriquez",
+        "original_name": "Max Henriquez",
+        "popularity": 0.091,
+        "profile_path": null,
+        "credit_id": "65efae511f748b018450e8db",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 74811,
+        "known_for_department": "Sound",
+        "name": "Dan Wallin",
+        "original_name": "Dan Wallin",
+        "popularity": 0.3587,
+        "profile_path": null,
+        "credit_id": "5cf564f79251416aebba2bfa",
+        "department": "Sound",
+        "job": "Scoring Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 8422,
+        "known_for_department": "Sound",
+        "name": "David Shire",
+        "original_name": "David Shire",
+        "popularity": 0.2061,
+        "profile_path": "/dQJiwFFPRE73HEcp6PnrdqdL2fv.jpg",
+        "credit_id": "5cf564d20e0a2619d3cefabf",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 954445,
+        "known_for_department": "Production",
+        "name": "Shirley Rich",
+        "original_name": "Shirley Rich",
+        "popularity": 0.118,
+        "profile_path": null,
+        "credit_id": "5f2396903503980034e7c28f",
+        "department": "Production",
+        "job": "Casting Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 6494,
+        "known_for_department": "Art",
+        "name": "Patrizia von Brandenstein",
+        "original_name": "Patrizia von Brandenstein",
+        "popularity": 0.3249,
+        "profile_path": null,
+        "credit_id": "5f2396d8168ea30035ae8d12",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 18174,
+        "known_for_department": "Art",
+        "name": "George DeTitta Sr.",
+        "original_name": "George DeTitta Sr.",
+        "popularity": 0.1721,
+        "profile_path": null,
+        "credit_id": "5f2396bf5b2f4700365ecdf0",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 56932,
+        "known_for_department": "Production",
+        "name": "Kevin McCormick",
+        "original_name": "Kevin McCormick",
+        "popularity": 0.204,
+        "profile_path": "/5gqQ1TWVRUwkdOK72Uh1LRZMFlZ.jpg",
+        "credit_id": "5f2396223503980033e51a37",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2727287,
+        "known_for_department": "Production",
+        "name": "Milt Felsen",
+        "original_name": "Milt Felsen",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "5f23962c43999b0037629731",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 14539,
+        "known_for_department": "Art",
+        "name": "Charles Bailey",
+        "original_name": "Charles Bailey",
+        "popularity": 0.2038,
+        "profile_path": null,
+        "credit_id": "5f2396b0168ea30034ae77c3",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1071607,
+        "known_for_department": "Sound",
+        "name": "Walter Murphy",
+        "original_name": "Walter Murphy",
+        "popularity": 0.2828,
+        "profile_path": null,
+        "credit_id": "683f3fcba63c464c00f2bdf5",
+        "department": "Sound",
+        "job": "Songs"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 72741,
+        "known_for_department": "Acting",
+        "name": "Yvonne Elliman",
+        "original_name": "Yvonne Elliman",
+        "popularity": 0.3556,
+        "profile_path": "/c6RxF7oLJfqaSp757L6YiQQ6mvT.jpg",
+        "credit_id": "683f4021c2c43f93327bb30e",
+        "department": "Sound",
+        "job": "Songs"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1426474,
+        "known_for_department": "Acting",
+        "name": "Tavares",
+        "original_name": "Tavares",
+        "popularity": 0.0256,
+        "profile_path": null,
+        "credit_id": "683f404ad035ba8c0268abee",
+        "department": "Sound",
+        "job": "Songs"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 8422,
+        "known_for_department": "Sound",
+        "name": "David Shire",
+        "original_name": "David Shire",
+        "popularity": 0.2061,
+        "profile_path": "/dQJiwFFPRE73HEcp6PnrdqdL2fv.jpg",
+        "credit_id": "683f4071b7b45a021a68a85e",
+        "department": "Sound",
+        "job": "Songs"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5481452,
+        "known_for_department": "Sound",
+        "name": "KC & The Sunshine Band",
+        "original_name": "KC & The Sunshine Band",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "683f409be74ceb5d8bf2be4a",
+        "department": "Sound",
+        "job": "Songs"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4993110,
+        "known_for_department": "Acting",
+        "name": "Kool & the Gang,",
+        "original_name": "Kool & the Gang,",
+        "popularity": 0.0362,
+        "profile_path": null,
+        "credit_id": "683f40bee74ceb5d8bf2be4d",
+        "department": "Sound",
+        "job": "Songs"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5481455,
+        "known_for_department": "Sound",
+        "name": "Ralph MacDonald",
+        "original_name": "Ralph MacDonald",
+        "popularity": 0.0168,
+        "profile_path": null,
+        "credit_id": "683f41353088da4be5ad89a6",
+        "department": "Sound",
+        "job": "Songs"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5481456,
+        "known_for_department": "Sound",
+        "name": "The Trammps",
+        "original_name": "The Trammps",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "683f414babfc1e2df8289755",
+        "department": "Sound",
+        "job": "Songs"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5481457,
+        "known_for_department": "Sound",
+        "name": "MFSB",
+        "original_name": "MFSB",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "683f416f14268f6820289880",
+        "department": "Sound",
+        "job": "Songs"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1637995,
+        "known_for_department": "Sound",
+        "name": "Michael Colgan",
+        "original_name": "Michael Colgan",
+        "popularity": 0.0998,
+        "profile_path": null,
+        "credit_id": "69e7f172c9c8922c36c0a50a",
+        "department": "Sound",
+        "job": "Sound Editor"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "RU",
+        "title": "Лихорадка субботнего вечера",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "KR",
+        "title": "토요일밤의 열기",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "KR",
+        "title": "토요일 밤의 열기",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "MX",
+        "title": "Fiebre de Sabado por la noche",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "BR",
+        "title": "Os Embalos de Sábado a Noite",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "DE",
+        "title": "Nur Samstag Nacht - Saturday Night Fever",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "NO",
+        "title": "Lørdagskjøret",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "BG",
+        "title": "Треска в събота вечер",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "MK",
+        "title": "Треска на саботната вечер",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "RS",
+        "title": "Грозница суботње вечери",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "UA",
+        "title": "Лихоманка суботнього вечора",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "GR",
+        "title": "Πυρετός το Σαββατόβραδο",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "AZ",
+        "title": "Şənbə Gecəsi Qızdırması",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "ES",
+        "title": "Febre del dissabte nit",
+        "type": "Catalan title"
+      },
+      {
+        "iso_3166_1": "ES",
+        "title": "Fiebre del sábado noche",
+        "type": "Castilian title"
+      },
+      {
+        "iso_3166_1": "HR",
+        "title": "Groznica subotnje večeri",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "PL",
+        "title": "Gorączka sobotniej nocy",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "PT",
+        "title": "Febre de Sábado à Noite",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "SI",
+        "title": "Horúčka sobotňajšej noci",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "IT",
+        "title": "La febbre del sabato sera",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "LV",
+        "title": "Sestdienas vakara drudzis",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "FI",
+        "title": "Saturday Night Fever – lauantai-illan huumaa",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "HU",
+        "title": "Szombat esti láz",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "CZ",
+        "title": "Horečka sobotní noci",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "PK",
+        "title": "سیٹرڈے نائٹ فیور",
+        "type": "Urdu title"
+      },
+      {
+        "iso_3166_1": "IR",
+        "title": "تب شب یکشنبه",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "EG",
+        "title": "حمى ليلة السبت",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "IL",
+        "title": "שיגעון המוזיקה",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "JP",
+        "title": "サタデー・ナイト・フィーバー",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "IN",
+        "title": "सैटरडे नाईट फीवर",
+        "type": "Hindi title"
+      },
+      {
+        "iso_3166_1": "CN",
+        "title": "周末夜狂热",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "HK",
+        "title": "週末夜狂熱",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "DK",
+        "title": "Disco-feber",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "TH",
+        "title": "แซทเทอร์เดย์ไนท์ฟีเวอร์",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "TR",
+        "title": "Cumartesi Gecesi Ateşi",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "FR",
+        "title": "La Fièvre du samedi soir",
+        "type": ""
+      }
+    ]
+  }
+}

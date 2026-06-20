@@ -1,0 +1,846 @@
+{
+  "adult": false,
+  "backdrop_path": "/cLKNGx0bFpbtsVOXeaXJw3dNcKQ.jpg",
+  "belongs_to_collection": null,
+  "budget": 600000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 32015,
+  "imdb_id": "tt0058604",
+  "origin_country": [
+    "CU",
+    "SU"
+  ],
+  "original_language": "es",
+  "original_title": "Soy Cuba",
+  "overview": "A study in contrasts set in and around Havana that explores Cuba's 1959 revolution: a young woman's fascination with the excess of an American-owned casino leads to her downfall in the eyes of her street vendor boyfriend; a tenant farmer revolts the only way he knows how, attacking the land he works; university students gain first-hand knowledge of political upheaval; and, in the hills outside the city, the members of a poor peasant family are patriotically swept up into the burgeoning revolt.",
+  "popularity": 1.488,
+  "poster_path": "/qQxv27Lae6Uph7iOEzyZ5BOZxJh.jpg",
+  "production_companies": [
+    {
+      "id": 5175,
+      "logo_path": "/685bT26uK9vuaCwf2Hylufdb4yI.png",
+      "name": "ICAIC",
+      "origin_country": "CU"
+    },
+    {
+      "id": 344,
+      "logo_path": "/xenuUvcunUNpbaDOYGhWZERaym7.png",
+      "name": "Mosfilm",
+      "origin_country": "SU"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CU",
+      "name": "Cuba"
+    },
+    {
+      "iso_3166_1": "SU",
+      "name": "Soviet Union"
+    }
+  ],
+  "release_date": "1964-10-26",
+  "revenue": 0,
+  "runtime": 141,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "Pусский"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "I Am Cuba",
+  "video": false,
+  "vote_average": 7.8,
+  "vote_count": 252,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 108773,
+        "known_for_department": "Acting",
+        "name": "Sergio Corrieri",
+        "original_name": "Sergio Corrieri",
+        "popularity": 0.2104,
+        "profile_path": "/hmnSowA99COYoMaOdIo8AnzsRrs.jpg",
+        "cast_id": 6,
+        "character": "Alberto",
+        "credit_id": "52fe44b19251416c910198b3",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1349308,
+        "known_for_department": "Acting",
+        "name": "Salvador Wood",
+        "original_name": "Salvador Wood",
+        "popularity": 0.1182,
+        "profile_path": "/p6zAxTXhoepBx9MfXAgkQoBvCKq.jpg",
+        "cast_id": 14,
+        "character": "",
+        "credit_id": "5524f01f92514171cb008298",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1293291,
+        "known_for_department": "Writing",
+        "name": "José Gallardo",
+        "original_name": "José Gallardo",
+        "popularity": 0.1334,
+        "profile_path": null,
+        "cast_id": 9,
+        "character": "Pedro",
+        "credit_id": "5300a2ec9251416ae72f17a6",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1060325,
+        "known_for_department": "Sound",
+        "name": "Raúl García",
+        "original_name": "Raúl García",
+        "popularity": 0.1175,
+        "profile_path": null,
+        "cast_id": 11,
+        "character": "Enrique",
+        "credit_id": "5524efa0c3a3687df3000e0f",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1293290,
+        "known_for_department": "Acting",
+        "name": "Luz María Collazo",
+        "original_name": "Luz María Collazo",
+        "popularity": 0.0847,
+        "profile_path": null,
+        "cast_id": 8,
+        "character": "Maria / Betty",
+        "credit_id": "5300a2e39251416ad52f0e84",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2168,
+        "known_for_department": "Acting",
+        "name": "Jean Bouise",
+        "original_name": "Jean Bouise",
+        "popularity": 0.6537,
+        "profile_path": "/spNN6qOzddC8y3Bttp8VnjLUixs.jpg",
+        "cast_id": 10,
+        "character": "Jim",
+        "credit_id": "5300a2f49251416aee31de1e",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3378355,
+        "known_for_department": "Acting",
+        "name": "Alberto Morgan",
+        "original_name": "Alberto Morgan",
+        "popularity": 0.0717,
+        "profile_path": null,
+        "cast_id": 20,
+        "character": "Ángel",
+        "credit_id": "61ddc7e1c175b200664c06b6",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3378356,
+        "known_for_department": "Acting",
+        "name": "Fausto Mirabal",
+        "original_name": "Fausto Mirabal",
+        "popularity": 0.0389,
+        "profile_path": null,
+        "cast_id": 21,
+        "character": "",
+        "credit_id": "61ddc7fa5c071b0066eaca38",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3378358,
+        "known_for_department": "Acting",
+        "name": "Roberto García York",
+        "original_name": "Roberto García York",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 22,
+        "character": "American Activist",
+        "credit_id": "61ddc8155c071b001debf47f",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3378362,
+        "known_for_department": "Acting",
+        "name": "María de las Mercedes Díez",
+        "original_name": "María de las Mercedes Díez",
+        "popularity": 0,
+        "profile_path": null,
+        "cast_id": 23,
+        "character": "",
+        "credit_id": "61ddc82a6e0d72009e997cab",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3378363,
+        "known_for_department": "Acting",
+        "name": "Bárbara Domínguez",
+        "original_name": "Bárbara Domínguez",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 24,
+        "character": "",
+        "credit_id": "61ddc83ae24b9300416f88fa",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3378364,
+        "known_for_department": "Acting",
+        "name": "Jesús del Monte",
+        "original_name": "Jesús del Monte",
+        "popularity": 0.0362,
+        "profile_path": null,
+        "cast_id": 25,
+        "character": "",
+        "credit_id": "61ddc84cc175b2001c88bf03",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 94913,
+        "known_for_department": "Acting",
+        "name": "Luisa María Jiménez Rodríquez",
+        "original_name": "Luisa María Jiménez Rodríquez",
+        "popularity": 0.1161,
+        "profile_path": null,
+        "cast_id": 13,
+        "character": "Teresa",
+        "credit_id": "5524efbd9251415c7c00b2eb",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3378365,
+        "known_for_department": "Acting",
+        "name": "Mario González Broche",
+        "original_name": "Mario González Broche",
+        "popularity": 0.0571,
+        "profile_path": null,
+        "cast_id": 26,
+        "character": "Pablo",
+        "credit_id": "61ddc864b0040a001c647b4d",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3378366,
+        "known_for_department": "Acting",
+        "name": "Tony López",
+        "original_name": "Tony López",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 27,
+        "character": "",
+        "credit_id": "61ddc893c175b20041c70ec9",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3378369,
+        "known_for_department": "Acting",
+        "name": "Héctor Castañeda",
+        "original_name": "Héctor Castañeda",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 28,
+        "character": "",
+        "credit_id": "61ddc8e207291c0067f9c8f2",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3378370,
+        "known_for_department": "Acting",
+        "name": "Rosendo Lamadriz",
+        "original_name": "Rosendo Lamadriz",
+        "popularity": 0.0379,
+        "profile_path": null,
+        "cast_id": 29,
+        "character": "",
+        "credit_id": "61ddc8eb5c071b0043f912a5",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3378372,
+        "known_for_department": "Acting",
+        "name": "Roberto Villar",
+        "original_name": "Roberto Villar",
+        "popularity": 0,
+        "profile_path": null,
+        "cast_id": 30,
+        "character": "",
+        "credit_id": "61ddc90eb0040a0041eaeb8d",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1683612,
+        "known_for_department": "Acting",
+        "name": "Roberto Cabrera",
+        "original_name": "Roberto Cabrera",
+        "popularity": 0.0368,
+        "profile_path": null,
+        "cast_id": 31,
+        "character": "",
+        "credit_id": "61ddc91ccb3084001dfb70fd",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3378374,
+        "known_for_department": "Acting",
+        "name": "Alfredo Ávila",
+        "original_name": "Alfredo Ávila",
+        "popularity": 0.051,
+        "profile_path": null,
+        "cast_id": 32,
+        "character": "",
+        "credit_id": "61ddc93d945c20001950d3ac",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3378375,
+        "known_for_department": "Acting",
+        "name": "José Espinosa",
+        "original_name": "José Espinosa",
+        "popularity": 0.0261,
+        "profile_path": null,
+        "cast_id": 33,
+        "character": "",
+        "credit_id": "61ddc9511d6c5f004352e685",
+        "order": 20
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3378376,
+        "known_for_department": "Acting",
+        "name": "Rafael Díaz",
+        "original_name": "Rafael Díaz",
+        "popularity": 0.0264,
+        "profile_path": null,
+        "cast_id": 34,
+        "character": "",
+        "credit_id": "61ddc9771d6c5f00960395ae",
+        "order": 21
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 944598,
+        "known_for_department": "Acting",
+        "name": "Isabel Moreno",
+        "original_name": "Isabel Moreno",
+        "popularity": 0.0416,
+        "profile_path": null,
+        "cast_id": 35,
+        "character": "",
+        "credit_id": "61ddc9a9a6fdaa0068f4ce84",
+        "order": 22
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2963397,
+        "known_for_department": "Sound",
+        "name": "Manuel J. Mora",
+        "original_name": "Manuel J. Mora",
+        "popularity": 0.0379,
+        "profile_path": null,
+        "cast_id": 36,
+        "character": "",
+        "credit_id": "61ddc9b68cfcc700411b3c72",
+        "order": 23
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 990600,
+        "known_for_department": "Acting",
+        "name": "Raquel Revuelta",
+        "original_name": "Raquel Revuelta",
+        "popularity": 0.0453,
+        "profile_path": null,
+        "cast_id": 37,
+        "character": "The voice of Cuba",
+        "credit_id": "61ddc9d407291c0067f9cb5e",
+        "order": 24
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1044011,
+        "known_for_department": "Acting",
+        "name": "Aramís Delgado",
+        "original_name": "Aramís Delgado",
+        "popularity": 0.0593,
+        "profile_path": null,
+        "cast_id": 38,
+        "character": "(uncredited)",
+        "credit_id": "61ddca35b0040a0066108856",
+        "order": 25
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3378381,
+        "known_for_department": "Acting",
+        "name": "Raúl Gómez",
+        "original_name": "Raúl Gómez",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 39,
+        "character": "Singer (uncredited)",
+        "credit_id": "61ddca55cb30840068e12590",
+        "order": 26
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3378382,
+        "known_for_department": "Acting",
+        "name": "Pepe Ramírez",
+        "original_name": "Pepe Ramírez",
+        "popularity": 0.0478,
+        "profile_path": null,
+        "cast_id": 40,
+        "character": "(uncredited)",
+        "credit_id": "61ddca6e945c20001950d734",
+        "order": 27
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 108770,
+        "known_for_department": "Writing",
+        "name": "Yevgeny Yevtushenko",
+        "original_name": "Евгений Евтушенко",
+        "popularity": 0.4321,
+        "profile_path": "/gGOLO9f3uRSm6B0OkVakpZXb9Ns.jpg",
+        "credit_id": "52fe44b19251416c910198a3",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 108772,
+        "known_for_department": "Art",
+        "name": "Yevgeni Svidetelev",
+        "original_name": "Евгений Свидетелев",
+        "popularity": 0.0748,
+        "profile_path": null,
+        "credit_id": "52fe44b19251416c910198af",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 108764,
+        "known_for_department": "Directing",
+        "name": "Mikheil Kalatozishvili",
+        "original_name": "მიხეილ კალატოზიშვილი",
+        "popularity": 0.6779,
+        "profile_path": "/1RTm958MhWTNjD8CHFx7Z8u2gU7.jpg",
+        "credit_id": "52fe44b19251416c910198b9",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 108769,
+        "known_for_department": "Directing",
+        "name": "Enrique Pineda Barnet",
+        "original_name": "Enrique Pineda Barnet",
+        "popularity": 0.1497,
+        "profile_path": "/k6nEIUVR8DC9nf3V9blMo5NG2Po.jpg",
+        "credit_id": "52fe44b19251416c9101989d",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3274678,
+        "known_for_department": "Costume & Make-Up",
+        "name": "René Portocarrero",
+        "original_name": "René Portocarrero",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "616c8f4c53866e0093cedc81",
+        "department": "Costume & Make-Up",
+        "job": "Costume Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3274679,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Luz M. Cáceres",
+        "original_name": "Luz M. Cáceres",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "616c8f581365450064dcbdf0",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1632789,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Vera Rudina",
+        "original_name": "Вера Рудина",
+        "popularity": 0.0841,
+        "profile_path": null,
+        "credit_id": "616c8f63a097dc00920483e8",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2180553,
+        "known_for_department": "Visual Effects",
+        "name": "Boris Travkin",
+        "original_name": "Борис Травкин",
+        "popularity": 0.0561,
+        "profile_path": null,
+        "credit_id": "64132ce7e18e3f0816c571f6",
+        "department": "Crew",
+        "job": "Special Effects"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3965019,
+        "known_for_department": "Crew",
+        "name": "Enrique Fong",
+        "original_name": "Enrique Fong",
+        "popularity": 0.051,
+        "profile_path": null,
+        "credit_id": "64132cc42667780099a1eda7",
+        "department": "Crew",
+        "job": "Special Effects"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2585829,
+        "known_for_department": "Editing",
+        "name": "Lidiya Tyurina",
+        "original_name": "Lidiya Tyurina",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "64132d0f26677800b85ad521",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3965020,
+        "known_for_department": "Crew",
+        "name": "Vasily Pugachev",
+        "original_name": "Vasily Pugachev",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "64132ccf26677800b85ad506",
+        "department": "Crew",
+        "job": "Special Effects"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3965021,
+        "known_for_department": "Crew",
+        "name": "Vladimir Sukharizky",
+        "original_name": "Vladimir Sukharizky",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "64132cdbe18e3f07e954c865",
+        "department": "Crew",
+        "job": "Special Effects"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3965022,
+        "known_for_department": "Visual Effects",
+        "name": "A. Vinokurov",
+        "original_name": "A. Vinokurov",
+        "popularity": 0.0168,
+        "profile_path": null,
+        "credit_id": "64132cf8b4224200f79209cb",
+        "department": "Crew",
+        "job": "Special Effects"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 108771,
+        "known_for_department": "Camera",
+        "name": "Sergei Urusevsky",
+        "original_name": "Сергей Урусевский",
+        "popularity": 0.178,
+        "profile_path": "/oz95CfL0V9CnKj9KWRWcCQ6HB8X.jpg",
+        "credit_id": "66521fe8cb9d2f74f43494dd",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1636891,
+        "known_for_department": "Sound",
+        "name": "Carlos Fariñas",
+        "original_name": "Carlos Fariñas",
+        "popularity": 0.0256,
+        "profile_path": null,
+        "credit_id": "66521fcd6277ad2806170e63",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3378391,
+        "known_for_department": "Writing",
+        "name": "Nina Glagoleva",
+        "original_name": "Нина Глаголева",
+        "popularity": 0.0516,
+        "profile_path": null,
+        "credit_id": "686940cb9772f95ef7a953e6",
+        "department": "Writing",
+        "job": "Script Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2349193,
+        "known_for_department": "Production",
+        "name": "Konstantin Stenkin",
+        "original_name": "Константин Стенькин",
+        "popularity": 0.0595,
+        "profile_path": "/uSfAerewVTJh9iBiGa5tZ7It1z.jpg",
+        "credit_id": "689ced24993a5e9777268e0a",
+        "department": "Production",
+        "job": "Executive Producer's Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5624078,
+        "known_for_department": "Production",
+        "name": "T. Vargina",
+        "original_name": "T. Vargina",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "689ced4b5d3761d8fb8db7c6",
+        "department": "Production",
+        "job": "Executive Producer's Assistant"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "SU",
+        "title": "Я - Куба",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "US",
+        "title": "I Am Cuba",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "DE",
+        "title": "Ich bin Kuba",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "JP",
+        "title": "Ikari no Kyuba",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "FR",
+        "title": "Je suis Cuba",
+        "type": "literal French title"
+      },
+      {
+        "iso_3166_1": "BR",
+        "title": "Eu Sou Cuba",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "KR",
+        "title": "아이 엠 쿠바",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "KR",
+        "title": "소이 쿠바",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "CL",
+        "title": "Ya Kuba",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "CN",
+        "title": "我是古巴",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "GE",
+        "title": "მე ვარ კუბა",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "RS",
+        "title": "Ја,Куба",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "RU",
+        "title": "Эпӗ — Куба",
+        "type": "Chuvash title"
+      },
+      {
+        "iso_3166_1": "AZ",
+        "title": "Mən Kubayam",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "DK",
+        "title": "Ja - Kuba",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "IT",
+        "title": "Io sono Cuba",
+        "type": "literal Italian title"
+      },
+      {
+        "iso_3166_1": "UA",
+        "title": "Ya — Kuba",
+        "type": "Tatar title"
+      },
+      {
+        "iso_3166_1": "RO",
+        "title": "Eu sunt Cuba!",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "RO",
+        "title": "Eu sînt Cuba!",
+        "type": "alternative title"
+      },
+      {
+        "iso_3166_1": "TR",
+        "title": "Ben Küba'yım",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "SA",
+        "title": "أنا كوبا",
+        "type": "Arabic title"
+      },
+      {
+        "iso_3166_1": "IR",
+        "title": "من کوبا هستم",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "EG",
+        "title": "انا كوبا",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "JP",
+        "title": "怒りのキューバ",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "IN",
+        "title": "ਆਈ ਐਮ ਕਿਊਬਾ",
+        "type": "Punjabi title"
+      },
+      {
+        "iso_3166_1": "TH",
+        "title": "ยาคูบา",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "TH",
+        "title": "ซอยกูบา",
+        "type": "alternative title"
+      }
+    ]
+  }
+}

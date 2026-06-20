@@ -1,0 +1,584 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Ciné Quiz</title>
+<style>
+  :root{
+    --bg:#0a0c0c; --ink:#0a0c0c;
+    --cyan:#c6f0c0; --mint:#c6f0c0; --dim:#6f8a72;   /* main color = mint green (no blue chrome) */
+    --good:#147a3a; --bad:#b3261e;
+    --stock:#c6f0c0;                 /* current ticket-stock color (set per round) */
+    /* per-stage pastel palettes (all light → black ink reads): mint→butter→apricot→rose→lilac */
+    --easy:#c6f0c0; --medium:#efe6a0; --hard:#f2cb9f; --veryhard:#efb1ab; --cinephile:#cdbef0;
+    --serif:"Georgia","Times New Roman",serif;
+    --cond:"Arial Narrow","Helvetica Neue",Helvetica,Arial,sans-serif;
+  }
+  *{box-sizing:border-box;-webkit-tap-highlight-color:transparent}
+  html,body{margin:0;color:var(--cyan);font-family:var(--cond);background:var(--bg)}
+  body{display:flex;justify-content:center;min-height:100dvh}
+  #app{width:100%;max-width:460px;padding:16px 14px calc(16px + env(safe-area-inset-bottom));display:flex;flex-direction:column;gap:14px}
+
+  .meta{font-size:11px;letter-spacing:.22em;text-transform:uppercase;color:var(--dim)}
+
+  /* top marquee (on black) */
+  .topbar{display:flex;align-items:center;justify-content:space-between;gap:10px}
+  .logo{border:2px solid var(--cyan);color:var(--cyan);font-weight:800;letter-spacing:.16em;
+        text-transform:uppercase;font-size:14px;padding:7px 12px}
+  .chip{background:transparent;color:var(--stock);border:2px solid var(--stock);border-radius:999px;
+        padding:5px 13px;font-size:11px;letter-spacing:.18em;text-transform:uppercase;font-weight:800}
+
+  /* rank ladder — sideways admission ticket (green stock, scalloped ends) */
+  .ladder{padding:13px 26px;display:flex;flex-direction:column;gap:9px}
+  .ladder .row{display:flex;justify-content:space-between;align-items:baseline}
+  .ladder .meta{color:rgba(10,12,12,.65)}
+  .ladder .score{font-family:var(--cond);font-size:24px;font-weight:800;color:var(--ink)}
+  .ladder .score small{font-size:12px;color:rgba(10,12,12,.55);font-weight:600}
+  .track{position:relative;height:13px;border:2px solid var(--ink);border-radius:999px;overflow:hidden;background:#0a0c0c}
+  .fill{position:absolute;inset:0 100% 0 0;transition:right .5s ease, background .3s}
+  .ticks{position:absolute;inset:0;display:flex;pointer-events:none}
+  .ticks span{flex:1;border-right:1px solid rgba(255,255,255,.16)}
+  .ticks span:last-child{border-right:0}
+  .bands{display:flex;gap:5px}
+  .bands b{flex:1;text-align:center;font-size:9px;letter-spacing:.04em;text-transform:uppercase;
+           color:rgba(10,12,12,.5);font-weight:800;padding:4px 0;border-radius:999px;border:1.5px solid rgba(10,12,12,.35)}
+  .bands b.done{opacity:.5}
+
+  /* movie-ticket card */
+  .stock{background:var(--stock);color:var(--ink);position:relative;border-radius:4px}
+  /* scalloped edges: one evenly-spaced flex row of arches, bigger one in the middle */
+  .scallop{position:absolute;left:0;right:0;display:flex;justify-content:space-between;align-items:center;
+    padding:0 10px;pointer-events:none;z-index:1}
+  .scallop.top{top:0;align-items:flex-start}
+  .scallop.bottom{bottom:0;align-items:flex-end}
+  .scallop i{flex:0 0 auto;width:28px;height:14px;background:var(--bg)}
+  .scallop.top i{border-radius:0 0 99px 99px}
+  .scallop.bottom i{border-radius:99px 99px 0 0}
+  .scallop i.big{width:48px;height:24px}
+  /* sideways ticket: small uniform arches on the left/right ends */
+  .scallop.left,.scallop.right{left:auto;right:auto;top:0;bottom:0;flex-direction:column;justify-content:space-around;padding:6px 0}
+  .scallop.left{left:0;align-items:flex-start}
+  .scallop.right{right:0;align-items:flex-end}
+  .scallop.left i,.scallop.right i{width:10px;height:16px}
+  .scallop.left i{border-radius:0 99px 99px 0}
+  .scallop.right i{border-radius:99px 0 0 99px}
+
+  /* internal perforation separators */
+  .perf{height:0;border-top:2px dashed rgba(10,12,12,.4);margin:0 18px}
+
+  .ticket{padding:0}
+  .ticket .body{padding:8px 18px 12px;display:flex;flex-direction:column;gap:11px}
+  .stub{display:flex;align-items:center;justify-content:space-between;
+        padding:34px 18px 11px;
+        text-transform:uppercase;font-weight:800;letter-spacing:.26em;font-size:13px;color:var(--ink)}
+  .stub .serial{opacity:.6;font-variant-numeric:tabular-nums;letter-spacing:.14em}
+  .foot{padding:10px 18px 32px;text-align:center;text-transform:uppercase;
+        letter-spacing:.3em;font-size:10px;font-weight:800;color:rgba(10,12,12,.6)}
+
+  .framewrap{position:relative;border:2px solid var(--ink);overflow:hidden;aspect-ratio:16/9;background:#000}
+  canvas{display:block;width:100%;height:100%;touch-action:manipulation}
+
+  .potbar{display:flex;align-items:center;gap:10px;border-top:2px dashed rgba(10,12,12,.45);padding-top:11px}
+  .pot{font-family:var(--cond);font-size:32px;font-weight:800;color:var(--ink);font-variant-numeric:tabular-nums;line-height:1}
+  .potlabel{font-size:9px;letter-spacing:.2em;text-transform:uppercase;color:rgba(10,12,12,.7);line-height:1.3;font-weight:700}
+  .streak{margin-left:auto;font-size:11px;letter-spacing:.14em;text-transform:uppercase;color:var(--ink);font-weight:800}
+  .hint{font-size:12px;color:rgba(10,12,12,.62);text-align:center;letter-spacing:.02em;font-style:italic;font-family:var(--serif)}
+
+  /* choices (black ink on stock) */
+  .choices{display:flex;flex-direction:column;gap:8px}
+  .choice{font-family:var(--serif);font-size:16px;text-align:left;color:var(--ink);background:transparent;
+          border:2px solid var(--ink);border-radius:3px;padding:12px 14px;cursor:pointer;
+          transition:background .12s,color .12s}
+  .choice:hover{background:rgba(10,12,12,.10)}
+  .choice:disabled{cursor:default}
+  .choice.correct{border-color:var(--good);background:rgba(20,122,58,.16);color:var(--good);font-weight:700}
+  .choice.wrong{border-color:var(--bad);background:rgba(179,38,30,.14);color:var(--bad)}
+
+  /* overlays */
+  .overlay{position:fixed;inset:0;background:rgba(5,7,7,.88);display:flex;align-items:center;justify-content:center;padding:18px;z-index:10}
+  .panel{width:100%;max-width:430px;padding:0}
+  .panel .pad{padding:36px 24px 36px;display:flex;flex-direction:column;gap:14px;text-align:center}
+  .panel h1{font-family:var(--cond);font-weight:800;text-transform:uppercase;letter-spacing:.12em;font-size:30px;margin:0;color:var(--ink)}
+  .panel h2{font-family:var(--serif);font-size:27px;margin:0;line-height:1.15;color:var(--ink)}
+  .panel .result{font-weight:800;text-transform:uppercase;letter-spacing:.2em;font-size:13px}
+  .panel .delta{font-family:var(--cond);font-size:38px;font-weight:800}
+  .panel ul{list-style:none;margin:0;padding:0;font-size:11px;letter-spacing:.16em;text-transform:uppercase;color:rgba(10,12,12,.7);display:flex;flex-direction:column;gap:4px}
+  .btn{font-family:var(--cond);font-weight:800;text-transform:uppercase;letter-spacing:.16em;font-size:14px;
+       border:2px solid var(--ink);color:var(--stock);background:var(--ink);border-radius:3px;padding:14px;cursor:pointer}
+  .rules{font-size:13px;line-height:1.65;color:var(--ink);text-align:left;font-family:var(--serif)}
+  .rules b{font-weight:700}
+
+  /* main menu — the ticket IS the button */
+  #menuOv{transition:background .5s ease}
+  #menuOv.ripping{background:transparent}
+  .menuticket{border:0;font:inherit;cursor:pointer;display:block;width:100%;max-width:430px;text-align:center;
+    transition:transform .15s ease}
+  .menuticket:hover{transform:translateY(-2px)}
+  .menuticket:active{transform:translateY(0)}
+  .menuticket .meta{color:rgba(10,12,12,.6)}
+  .menuticket .enter{font-family:var(--cond);font-weight:800;text-transform:uppercase;letter-spacing:.16em;font-size:22px;
+    color:var(--stock);background:var(--ink);border-radius:3px;padding:15px;margin-top:6px}
+  .menuticket .tearhint{margin-top:4px;font-size:10px}
+
+  /* tear-in-half pieces (cloned on click) */
+  .tear{z-index:100;pointer-events:none;
+    transition:transform .72s cubic-bezier(.5,0,.2,1), opacity .72s ease}
+  .tear-top{clip-path:polygon(0 0,100% 0,100% 50%,87.5% 44%,75% 56%,62.5% 44%,50% 56%,37.5% 44%,25% 56%,12.5% 44%,0 50%)}
+  .tear-bottom{clip-path:polygon(0 50%,12.5% 44%,25% 56%,37.5% 44%,50% 56%,62.5% 44%,75% 56%,87.5% 44%,100% 50%,100% 100%,0 100%)}
+  .tear-top.go{transform:translateY(-165%) rotate(-5deg);opacity:0}
+  .tear-bottom.go{transform:translateY(165%) rotate(5deg);opacity:0}
+
+  .hidden{display:none!important}
+  .toast{position:fixed;top:16px;left:50%;transform:translateX(-50%);z-index:20;border:2px solid var(--ink);border-radius:999px;
+         padding:8px 18px;font-size:12px;font-weight:800;letter-spacing:.16em;text-transform:uppercase;color:var(--ink);
+         opacity:0;transition:opacity .3s, top .3s;pointer-events:none}
+  .toast.show{opacity:1;top:24px}
+  /* tiny movie-ticket confetti (pastel stub + ink border + side-notch perforations) */
+  .confetti-ticket{position:absolute;width:17px;height:11px;border:1.5px solid var(--ink);border-radius:2px;
+    background-repeat:no-repeat;will-change:transform,opacity;
+    background-image:radial-gradient(circle 2px at 0 50%, var(--bg) 2px, transparent 2.5px),
+                     radial-gradient(circle 2px at 100% 50%, var(--bg) 2px, transparent 2.5px),
+                     linear-gradient(var(--ink),var(--ink));
+    background-size:100% 100%,100% 100%,1.5px 60%;
+    background-position:0 0,0 0,center}
+
+  /* ===================== DESKTOP / LANDSCAPE ===================== */
+  /* "Projection / Auditorium": marquee on top, giant projected still, a row of 4 ticket "seats". */
+  @media (min-width:1000px){
+    body{justify-content:center;align-items:stretch}
+    #app{max-width:1500px;width:100%;min-height:100dvh;margin:0 auto;
+         display:flex;flex-direction:column;gap:14px;padding:20px 32px 24px}
+
+    .topbar{align-items:center}
+    .logo{font-size:16px;padding:9px 14px}
+    .chip{font-size:12px;padding:6px 15px}
+
+    /* MARQUEE — rank ladder as one wide horizontal admission ticket */
+    .ladder{flex-direction:row;align-items:center;gap:28px;padding:14px 32px}
+    .ladder .row{flex:0 0 auto;flex-direction:column;align-items:flex-start;gap:1px}
+    .ladder .meta{font-size:10px}
+    .ladder .score{font-size:28px}
+    .ladder .track{flex:1 1 auto;min-width:160px}
+    .ladder .bands{flex:0 0 auto;width:clamp(340px,32vw,520px)}
+
+    /* PLAY AREA — the still is the hero, framed like a lit screen on black */
+    .ticket{flex:1;display:flex;flex-direction:column;min-height:0;background:transparent;border-radius:0}
+    .ticket>.scallop{display:none}              /* drop the card scallops; ticket motif lives in marquee + seats */
+    .ticket .stub,.ticket>.perf,.ticket .foot{display:none}
+    .ticket .body{flex:1;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:18px;padding:0;min-height:0}
+
+    .framewrap{height:min(60vh,48vw);aspect-ratio:16/9;width:auto;max-width:96%;border:3px solid #14181a;
+               box-shadow:0 0 0 10px #0d0f10,0 22px 60px rgba(0,0,0,.7)}
+
+    .potbar{width:min(1000px,92%);border-top:0;padding-top:0;justify-content:center;gap:20px}
+    .pot{font-size:42px;color:var(--cyan)}
+    .potlabel{color:rgba(198,240,192,.7)}
+    .streak{margin-left:0;color:var(--cyan)}
+    .hint{color:rgba(198,240,192,.55);margin:0}
+    .hint::after{content:" · keys 1–4 to answer · Enter for next";opacity:.85}
+
+    /* SEATS — the 4 choices as a row of mint ticket stubs */
+    .choices{width:min(1000px,94%);display:grid;grid-template-columns:repeat(4,1fr);gap:16px;counter-reset:ch}
+    .choice{background:var(--stock);color:var(--ink);border:2px solid var(--ink);border-radius:4px;min-height:76px;
+            display:flex;align-items:center;justify-content:center;gap:10px;text-align:center;font-size:17px;padding:12px 14px;
+            transition:background .12s,color .12s,transform .12s,box-shadow .12s}
+    .choice::before{counter-increment:ch;content:counter(ch);flex:0 0 auto;width:1.7em;height:1.7em;border:2px solid var(--ink);
+            border-radius:50%;display:inline-flex;align-items:center;justify-content:center;font-family:var(--cond);font-weight:800;font-size:13px}
+    .choice:hover{transform:translateY(-3px);box-shadow:0 8px 18px rgba(0,0,0,.45)}
+    .choice:hover::before{background:var(--ink);color:var(--stock)}
+    .choice:focus-visible{outline:3px solid var(--ink);outline-offset:3px}
+    .btn:focus-visible{outline:3px solid var(--stock);outline-offset:3px}
+    .choice.correct{background:var(--stock);color:var(--ink);border-color:var(--good);outline:3px solid var(--good)}
+    .choice.correct::before{background:var(--good);color:#fff;border-color:var(--good)}
+    .choice.wrong{background:var(--stock);color:var(--ink);border-color:var(--bad);outline:3px solid var(--bad)}
+    .choice.wrong::before{background:var(--bad);color:#fff;border-color:var(--bad)}
+
+    /* overlays scaled up for the laptop */
+    .panel,.menuticket{max-width:520px}
+    .panel h1{font-size:40px}
+    .panel h2{font-size:30px}
+  }
+</style>
+</head>
+<body>
+<div id="app">
+  <div class="topbar">
+    <div class="logo">Ciné Quiz</div>
+    <div class="chip" id="bandChip">—</div>
+  </div>
+
+  <div class="ladder stock sideways">
+    <div class="row">
+      <div class="meta" id="rankLabel">Admission Rank</div>
+      <div class="score"><span id="scoreNum">0</span><small> / <span id="goalNum">1000</span></small></div>
+    </div>
+    <div class="track"><div class="fill" id="fill"></div>
+      <div class="ticks"><span></span><span></span><span></span><span></span><span></span></div>
+    </div>
+    <div class="bands" id="bands"></div>
+  </div>
+
+  <div class="ticket stock">
+    <div class="stub"><span>Admit One</span><span class="serial" id="serial">N° 0000</span></div>
+    <div class="perf"></div>
+    <div class="body">
+      <div class="framewrap"><canvas id="cv" width="640" height="360"></canvas></div>
+      <div class="potbar">
+        <div class="pot" id="potNum">0</div>
+        <div class="potlabel">Points<br>at stake</div>
+        <div class="streak" id="streak"></div>
+      </div>
+      <div class="hint">Name the film before the pot ticks away · faster is worth more</div>
+      <div class="choices" id="choices"></div>
+    </div>
+    <div class="perf"></div>
+    <div class="foot">Ciné Quiz · Cinéma</div>
+  </div>
+</div>
+
+<div class="toast" id="toast"></div>
+
+<!-- MAIN MENU -->
+<div class="overlay" id="menuOv">
+  <button class="panel stock menuticket" id="enterBtn" type="button">
+    <div class="stub"><span>Admit One</span><span class="serial">N° 1928</span></div>
+    <div class="perf"></div>
+    <div class="pad">
+      <div class="meta" style="letter-spacing:.3em">Cinéma · Présente</div>
+      <h1>Ciné Quiz</h1>
+      <div class="rules" style="text-align:center">
+        Name the film from a single frame. Climb <b>Easy → Cinephile</b> and reach <b>1000</b> to win.
+      </div>
+      <div class="enter">Enter Cinema</div>
+      <div class="meta tearhint">Tap the ticket to tear it</div>
+    </div>
+  </button>
+</div>
+
+<!-- REVEAL -->
+<div class="overlay hidden" id="revealOv">
+  <div class="panel stock">
+    <div class="pad">
+      <div class="result" id="rvResult"></div>
+      <div class="delta" id="rvDelta"></div>
+      <h2 id="rvTitle"></h2>
+      <ul id="rvMeta"></ul>
+      <button class="btn" id="nextBtn">Next Feature</button>
+    </div>
+  </div>
+</div>
+
+<!-- WIN -->
+<div class="overlay hidden" id="winOv">
+  <div class="panel stock">
+    <div class="pad">
+      <div class="result" id="winResult">Cinephile</div>
+      <h1>You Win</h1>
+      <div class="rules" style="text-align:center">She reached 1000 and held the top of the marquee. A true cinephile.</div>
+      <button class="btn" id="againBtn">Play Again</button>
+    </div>
+  </div>
+</div>
+
+<script src="data/movies.js?v=2"></script>
+<script>
+(function(){
+  "use strict";
+
+  // ---- band config (the tuning table) ----
+  // Each stage has a `goal` — fill the bar to that to clear the stage; then it resets and the next (harder) stage begins.
+  // Every stage fills to 1000, but points-per-answer DIMINISH as you climb, so later stages are a longer grind.
+  // Easy ≈ 4-5 quick answers; Cinephile ≈ 15+. Stings scale down with payouts so a miss ≈ one good answer.
+  const BANDS = [
+    {key:"easy",      name:"Easy",      goal:1000, pMax:240, pMin:120, T:22, sting:150, color:"--easy"},
+    {key:"medium",    name:"Medium",    goal:1000, pMax:165, pMin:80,  T:26, sting:110, color:"--medium"},
+    {key:"hard",      name:"Hard",      goal:1000, pMax:120, pMin:55,  T:30, sting:80,  color:"--hard"},
+    {key:"veryhard",  name:"Very Hard", goal:1000, pMax:92,  pMin:42,  T:34, sting:60,  color:"--veryhard"},
+    {key:"cinephile", name:"Cinephile", goal:1000, pMax:75,  pMin:34,  T:38, sting:48,  color:"--cinephile"}
+  ];
+
+  // ---- state ----  stage = current mode index (0..4); progress = points in the current stage's bar
+  const S = { stage:0, progress:0, streak:0, round:null, recent:[] };
+  const RECENT_MAX = 40;   // a film won't reappear until at least this many others have been shown
+
+  // ---- helpers ----
+  const $ = s => document.querySelector(s);
+  const cssVar = v => getComputedStyle(document.documentElement).getPropertyValue(v).trim();
+  const setStock = v => document.documentElement.style.setProperty("--stock", cssVar(v));
+  const rand = n => Math.floor(Math.random()*n);
+  const shuffle = a => { a=a.slice(); for(let i=a.length-1;i>0;i--){const j=rand(i+1);[a[i],a[j]]=[a[j],a[i]];} return a; };
+
+  // ---- canvas / pixel engine ----
+  const cv = $("#cv"), ctx = cv.getContext("2d");
+  let img=null;
+
+  // pixelation skipped for now — show the frame in full
+  function draw(){ ctx.drawImage(img, 0, 0, cv.width, cv.height); }
+
+  // ---- pot (time decay + spend) ----
+  let startT=0, spent=0, tickId=null, autoId=null;
+  function currentPot(){
+    const b=S.round.band, frac=Math.min(1,(performance.now()-startT)/(b.T*1000));
+    const decayed = b.pMax - (b.pMax-b.pMin)*frac;
+    return Math.max(0, Math.round(decayed - spent));
+  }
+  function renderPot(){ $("#potNum").textContent = currentPot(); }
+
+  // ---- round lifecycle ----
+  function pickMovie(band){
+    const pool = MOVIES.filter(m=>m.difficulty===band.key);
+    return pool[rand(pool.length)];
+  }
+  // 3 fresh random decoys every round (never the same set) — same tier + similar era to stay fair
+  function makeChoices(movie, band){
+    const ans = movie.title, ak = ans.trim().toLowerCase(), yr = movie.year||0;
+    const sameTier = MOVIES.filter(m => m.difficulty===band.key && m.title.trim().toLowerCase()!==ak);
+    const pools = [
+      sameTier.filter(m => Math.abs((m.year||0)-yr) <= 15),  // same league, similar era
+      sameTier,                                              // same league, any era
+      MOVIES                                                 // last resort
+    ];
+    const used = new Set([ak]), decoys = [];
+    for(const pool of pools){
+      let guard = 0;
+      while(decoys.length<3 && pool.length && guard++<500){
+        const t = pool[rand(pool.length)].title, k = t.trim().toLowerCase();
+        if(!used.has(k)){ used.add(k); decoys.push(t); }
+      }
+      if(decoys.length>=3) break;
+    }
+    return shuffle([ans, ...decoys]);
+  }
+  function startRound(){
+    const band = BANDS[S.stage];
+    const movie = pickMovie(band);
+    const frame = movie.frames[rand(movie.frames.length)];
+    const choices = makeChoices(movie, band);
+    S.round = { band, movie, frame, choices, answered:false };
+
+    spent=0;
+
+    setStock(band.color);
+    document.documentElement.style.setProperty("--cyan", cssVar(band.color));  // chrome adopts the stage color
+    renderLadder();
+    $("#serial").textContent = "N° " + String(1+rand(9998)).padStart(4,"0");
+    $("#bandChip").textContent = band.name;
+    $("#streak").textContent = S.streak>=2 ? ("Streak ×"+S.streak) : "";
+
+    // choices
+    const cw=$("#choices"); cw.innerHTML="";
+    S.round.choices.forEach(t=>{
+      const b=document.createElement("button");
+      b.className="choice"; b.textContent=t;
+      b.onclick=()=>answer(b,t);
+      cw.appendChild(b);
+    });
+
+    // load frame then start
+    img = new Image();
+    img.onload = ()=>{
+      draw();
+      startT = performance.now();
+      renderPot();
+      tickId = setInterval(renderPot, 100);
+    };
+    img.src = frame.indexOf("<svg")===0 ? "data:image/svg+xml;utf8,"+encodeURIComponent(frame) : frame;
+  }
+
+  function stopTimers(){ clearInterval(tickId); clearInterval(autoId); }
+
+  function answer(btn, title){
+    if(S.round.answered) return;
+    S.round.answered=true; stopTimers();
+    const correct = title===S.round.movie.title;
+    const band = S.round.band;
+    let delta, evt = { promoted:false, won:false };
+
+    if(correct){
+      const mult = 1 + 0.05*Math.min(S.streak,4);
+      delta = Math.round(currentPot()*mult);
+      S.streak++;
+      S.progress += delta;
+      if(S.progress >= band.goal){                          // bar filled → clear the stage
+        if(S.stage === BANDS.length-1){ evt.won = true; S.progress = band.goal; }
+        else { evt.promoted = true; S.stage++; S.progress -= band.goal; }   // carry overflow into the next, harder stage
+      }
+    } else {
+      delta = -band.sting;
+      S.streak = 0;
+      S.progress += delta;
+      if(S.progress < 0){
+        if(S.stage > 0){ evt.relegated = true; S.stage--; S.progress = BANDS[S.stage].goal + S.progress; }  // fall back a stage
+        else S.progress = 0;                                // can't fall below the first stage
+      }
+    }
+
+    // mark choice colors
+    [...document.querySelectorAll(".choice")].forEach(b=>{
+      b.disabled=true;
+      if(b.textContent===S.round.movie.title) b.classList.add("correct");
+      else if(b===btn && !correct) b.classList.add("wrong");
+    });
+
+    setTimeout(()=>showReveal(correct, delta, evt), 650);
+  }
+
+  // ---- stage-cleared toast ----
+  function toastPromote(){
+    const prev=BANDS[S.stage-1], cur=BANDS[S.stage];
+    const t=$("#toast");
+    t.textContent = prev.name+" cleared → "+cur.name;
+    t.style.background = cssVar(cur.color);
+    t.style.color = cssVar("--ink");
+    t.classList.add("show");
+    setTimeout(()=>t.classList.remove("show"), 1800);
+    confettiBurst(32, 0.4);
+  }
+
+  function toastRelegate(){
+    const cur=BANDS[S.stage];
+    const t=$("#toast");
+    t.textContent = "Relegated → "+cur.name;
+    t.style.background = cssVar("--bad");
+    t.style.color = "#fff";
+    t.classList.add("show");
+    setTimeout(()=>t.classList.remove("show"), 1800);
+  }
+
+  // ---- tiny movie-ticket confetti pop ----
+  function confettiBurst(count, originYFrac){
+    if(window.matchMedia && matchMedia("(prefers-reduced-motion: reduce)").matches) return;
+    const cols=[cssVar(BANDS[S.stage].color), cssVar(BANDS[Math.max(0,S.stage-1)].color), "#ffffff"];
+    const layer=document.createElement("div");
+    layer.style.cssText="position:fixed;inset:0;pointer-events:none;z-index:90;overflow:hidden";
+    document.body.appendChild(layer);
+    const cx=window.innerWidth/2, cy=window.innerHeight*(originYFrac||0.4);
+    for(let i=0;i<count;i++){
+      const p=document.createElement("div");
+      p.className="confetti-ticket";
+      p.style.left=cx+"px"; p.style.top=cy+"px";
+      p.style.backgroundColor=cols[i%cols.length];
+      const s=0.7+Math.random()*0.9;
+      const ang=-Math.PI/2 + (Math.random()-0.5)*Math.PI*1.15;   // fan upward
+      const dist=90+Math.random()*240;
+      const dx=Math.cos(ang)*dist, upy=Math.sin(ang)*dist;
+      const fall=window.innerHeight*0.55 + Math.random()*140;
+      const rot=Math.random()*900-450;
+      layer.appendChild(p);
+      p.animate([
+        {transform:`translate(-50%,-50%) rotate(0deg) scale(${s})`, opacity:1},
+        {transform:`translate(calc(-50% + ${dx*0.5}px), calc(-50% + ${upy}px)) rotate(${rot*0.4}deg) scale(${s})`, opacity:1, offset:0.4},
+        {transform:`translate(calc(-50% + ${dx}px), calc(-50% + ${upy+fall}px)) rotate(${rot}deg) scale(${s})`, opacity:0}
+      ], {duration:1300+Math.random()*700, easing:"cubic-bezier(.15,.6,.3,1)", fill:"forwards"});
+    }
+    setTimeout(()=>layer.remove(), 2200);
+  }
+
+  function showReveal(correct, delta, evt){
+    renderLadder();
+    setStock(BANDS[S.stage].color);                                              // re-theme to the (possibly new) stage
+    document.documentElement.style.setProperty("--cyan", cssVar(BANDS[S.stage].color));
+    if(evt.won) return showWin();
+    if(evt.promoted) toastPromote();
+    else if(evt.relegated) toastRelegate();
+    const m=S.round.movie;
+    $("#rvResult").textContent = correct ? "Correct" : "Wrong";
+    $("#rvResult").style.color = correct ? cssVar("--good") : cssVar("--bad");
+    $("#rvDelta").textContent = (delta>=0?"+":"")+delta;
+    $("#rvDelta").style.color = correct ? cssVar("--good") : cssVar("--bad");
+    $("#rvTitle").textContent = m.title;
+    const country = Array.isArray(m.country) ? m.country.join(", ") : (m.country || "");
+    $("#rvMeta").innerHTML = "<li>"+m.year+" · "+m.director+"</li><li>"+country+"</li>";
+    $("#revealOv").classList.remove("hidden");
+    renderLadder();
+  }
+  function showWin(){
+    setStock("--cinephile");
+    document.documentElement.style.setProperty("--cyan", cssVar("--cinephile"));
+    $("#winResult").style.color=cssVar("--ink");
+    $("#winOv").classList.remove("hidden");
+    confettiBurst(70, 0.32);
+    setTimeout(()=>confettiBurst(50, 0.28), 380);
+  }
+
+  // ---- ladder render ----
+  function renderLadder(){
+    const band = BANDS[S.stage];
+    $("#scoreNum").textContent = S.progress;
+    $("#goalNum").textContent = band.goal;
+    $("#rankLabel").textContent = band.name + " · Stage " + (S.stage+1) + " / 5";
+    const pct = Math.min(100, (S.progress/band.goal)*100);
+    const fill=$("#fill");
+    fill.style.right = (100-pct)+"%";
+    fill.style.background = cssVar(band.color);
+    const bandsEl=$("#bands"); bandsEl.innerHTML="";
+    BANDS.forEach((b,i)=>{
+      const el=document.createElement("b");
+      el.textContent=b.name;
+      if(i<S.stage){ el.classList.add("done"); el.style.background=cssVar(b.color); el.style.color=cssVar("--ink"); el.style.borderColor=cssVar(b.color); }
+      else if(i===S.stage){ el.classList.add("on"); el.style.background=cssVar("--ink"); el.style.color=cssVar(b.color); el.style.borderColor=cssVar("--ink"); }
+      bandsEl.appendChild(el);
+    });
+  }
+
+  // ---- enter cinema: tear the ticket in half, then reveal the game ----
+  function enterCinema(){
+    const menu = $("#menuOv"), ticket = $("#enterBtn");
+    const r = ticket.getBoundingClientRect();
+    startRound();                                  // prepare the game behind the menu
+    const mk = cls=>{
+      const c = ticket.cloneNode(true); c.removeAttribute("id");
+      c.className = ticket.className + " tear " + cls;
+      c.style.cssText = "position:fixed;margin:0;left:"+r.left+"px;top:"+r.top+"px;width:"+r.width+"px;height:"+r.height+"px";
+      document.body.appendChild(c); return c;
+    };
+    const top = mk("tear-top"), bot = mk("tear-bottom");
+    ticket.style.visibility = "hidden";
+    menu.classList.add("ripping");
+    requestAnimationFrame(()=>requestAnimationFrame(()=>{ top.classList.add("go"); bot.classList.add("go"); }));
+    setTimeout(()=>{ menu.classList.add("hidden"); top.remove(); bot.remove(); ticket.style.visibility=""; }, 800);
+  }
+
+  // ---- buttons ----
+  $("#enterBtn").onclick = enterCinema;
+  $("#nextBtn").onclick  = ()=>{ $("#revealOv").classList.add("hidden"); startRound(); };
+  $("#againBtn").onclick = ()=>{ S.stage=0;S.progress=0;S.streak=0; $("#winOv").classList.add("hidden"); startRound(); };
+
+  // ---- keyboard: 1–4 answer, Enter advances ----
+  const visible = el => el && !el.classList.contains("hidden") && getComputedStyle(el).display!=="none";
+  document.addEventListener("keydown", e=>{
+    const menu=$("#menuOv"), rev=$("#revealOv"), win=$("#winOv");
+    if(e.key==="Enter"){
+      if(visible(rev)){ e.preventDefault(); $("#nextBtn").click(); }
+      else if(visible(win)){ e.preventDefault(); $("#againBtn").click(); }
+      else if(visible(menu)){ e.preventDefault(); $("#enterBtn").click(); }
+      return;
+    }
+    if(visible(menu)||visible(rev)||visible(win)) return;     // numbers only during live play
+    if(S.round && S.round.answered) return;
+    if(e.key>="1" && e.key<="4"){
+      const btn=[...document.querySelectorAll(".choice")][+e.key-1];
+      if(btn && !btn.disabled){ e.preventDefault(); btn.click(); }
+    }
+  });
+
+  // build scalloped edges on every ticket-stock surface (larger arch centered)
+  document.querySelectorAll(".stock").forEach(el=>{
+    const sideways = el.classList.contains("sideways");
+    const sides = sideways ? ["left","right"] : ["top","bottom"];
+    const n = sideways ? 5 : 9;
+    const mid = sideways ? -1 : (n-1)/2;   // sideways: uniform arches, no dominant middle
+    sides.forEach(side=>{
+      const s=document.createElement("div"); s.className="scallop "+side;
+      for(let i=0;i<n;i++){ const a=document.createElement("i"); if(i===mid) a.className="big"; s.appendChild(a); }
+      el.appendChild(s);
+    });
+  });
+
+  setStock("--cyan");
+  renderLadder();
+})();
+</script>
+</body>
+</html>

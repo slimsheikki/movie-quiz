@@ -1,0 +1,378 @@
+{
+  "adult": false,
+  "backdrop_path": "/fmvlV6uJpKKpPVLZ76Et8GYtoGR.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 138030,
+  "imdb_id": "tt0059348",
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "bn",
+  "original_title": "কাপুরুষ",
+  "overview": "Amitabha Roy is a Calcutta-based scriptwriter, driving around in the country to collect material for a film. His vehicle breaks down in a small town. A tea planter, Bimal Gupta, offers hospitality for the night. Amitabha is forced to accept the offer as he has no alternative.",
+  "popularity": 0.4201,
+  "poster_path": "/nJFvRbIQ4xx5AQGvsJBnimNtf6G.jpg",
+  "production_companies": [
+    {
+      "id": 15320,
+      "logo_path": null,
+      "name": "R.D. Bansal & Co.",
+      "origin_country": "IN"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "release_date": "1965-05-07",
+  "revenue": 0,
+  "runtime": 70,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Bengali",
+      "iso_639_1": "bn",
+      "name": "বাংলা"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Coward",
+  "video": false,
+  "vote_average": 7.222,
+  "vote_count": 54,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 13752,
+        "known_for_department": "Acting",
+        "name": "Soumitra Chatterjee",
+        "original_name": "Soumitra Chatterjee",
+        "popularity": 0.2709,
+        "profile_path": "/pjomXVYzHd62IuduDc9UVS82sBb.jpg",
+        "cast_id": 1,
+        "character": "Amitabha Roy",
+        "credit_id": "52fe4c3dc3a368484e1ae511",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 550859,
+        "known_for_department": "Acting",
+        "name": "Madhabi Mukherjee",
+        "original_name": "Madhabi Mukherjee",
+        "popularity": 0.4872,
+        "profile_path": "/nqjJEBXvhA5E4bivtrcWP3berAv.jpg",
+        "cast_id": 2,
+        "character": "Karuna Gupta",
+        "credit_id": "52fe4c3dc3a368484e1ae515",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1108036,
+        "known_for_department": "Acting",
+        "name": "Haradhan Bandyopadhyay",
+        "original_name": "Haradhan Bandopadhyay",
+        "popularity": 0.2567,
+        "profile_path": "/4CmmZxAVPzHArWCcynb5lCZX21j.jpg",
+        "cast_id": 11,
+        "character": "Bimal Gupta",
+        "credit_id": "595eceed9251415a4006202b",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1559027,
+        "known_for_department": "Acting",
+        "name": "Santi Chatterjee",
+        "original_name": "Santi Chatterjee",
+        "popularity": 0.1179,
+        "profile_path": null,
+        "cast_id": 8,
+        "character": "",
+        "credit_id": "593de855925141058f027117",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1832135,
+        "known_for_department": "Acting",
+        "name": "Satish Haldar",
+        "original_name": "Satish Haldar",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 9,
+        "character": "",
+        "credit_id": "593de85fc3a3680f870267d5",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1832136,
+        "known_for_department": "Acting",
+        "name": "Deochand Lal",
+        "original_name": "Deochand Lal",
+        "popularity": 0.0434,
+        "profile_path": null,
+        "cast_id": 10,
+        "character": "",
+        "credit_id": "593de867c3a3680f42026aa2",
+        "order": 5
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 12168,
+        "known_for_department": "Art",
+        "name": "Bansi Chandragupta",
+        "original_name": "Bansi Chandragupta",
+        "popularity": 0.16,
+        "profile_path": null,
+        "credit_id": "6096ad24dd2589003decba22",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1172912,
+        "known_for_department": "Production",
+        "name": "R.D. Bansal",
+        "original_name": "R.D. Bansal",
+        "popularity": 0.0906,
+        "profile_path": null,
+        "credit_id": "6096ad08b2e074003c6f4035",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2288918,
+        "known_for_department": "Sound",
+        "name": "Atul Chatterjee",
+        "original_name": "Atul Chatterjee",
+        "popularity": 0.119,
+        "profile_path": "/faQ5ac9EtHtJR54lHSJVAQLiiJx.jpg",
+        "credit_id": "60e15047b686b9002d638d30",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2697560,
+        "known_for_department": "Sound",
+        "name": "Nripen Paul",
+        "original_name": "Nripen Paul",
+        "popularity": 0.0239,
+        "profile_path": null,
+        "credit_id": "60e15055caa5080048e514e0",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1559101,
+        "known_for_department": "Directing",
+        "name": "Amiya Sanyal",
+        "original_name": "Amiya Sanyal",
+        "popularity": 0.0379,
+        "profile_path": null,
+        "credit_id": "60e1503abdd568007ea5638e",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1174280,
+        "known_for_department": "Sound",
+        "name": "Sujit Sarkar",
+        "original_name": "Sujit Sarkar",
+        "popularity": 0.0629,
+        "profile_path": null,
+        "credit_id": "60e150724544af0074fcffa3",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 12160,
+        "known_for_department": "Directing",
+        "name": "Satyajit Ray",
+        "original_name": "Satyajit Ray",
+        "popularity": 0.5523,
+        "profile_path": "/qP5mjuc3dL8n9c1zeY4W6L2w38L.jpg",
+        "credit_id": "52fe4c3dc3a368484e1ae51f",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 12160,
+        "known_for_department": "Directing",
+        "name": "Satyajit Ray",
+        "original_name": "Satyajit Ray",
+        "popularity": 0.5523,
+        "profile_path": "/qP5mjuc3dL8n9c1zeY4W6L2w38L.jpg",
+        "credit_id": "593ca298c3a3680f6701615f",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1480318,
+        "known_for_department": "Writing",
+        "name": "Premendra Mitra",
+        "original_name": "Premendra Mitra",
+        "popularity": 0.1618,
+        "profile_path": null,
+        "credit_id": "6040a6c155c1f40045768a82",
+        "department": "Writing",
+        "job": "Short Story"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1100785,
+        "known_for_department": "Camera",
+        "name": "Soumendu Roy",
+        "original_name": "Soumendu Roy",
+        "popularity": 0.1325,
+        "profile_path": "/zmkwCa16MtrpWfeSAXwjdEa8nCT.jpg",
+        "credit_id": "6040a6e62fe2fa005b8c7b46",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 12167,
+        "known_for_department": "Editing",
+        "name": "Dulal Dutta",
+        "original_name": "Dulal Dutta",
+        "popularity": 0.1638,
+        "profile_path": "/lXWvedwh8mONznYcNCFdazn7VZw.jpg",
+        "credit_id": "6040a6f679b3d40042b160de",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 12160,
+        "known_for_department": "Directing",
+        "name": "Satyajit Ray",
+        "original_name": "Satyajit Ray",
+        "popularity": 0.5523,
+        "profile_path": "/qP5mjuc3dL8n9c1zeY4W6L2w38L.jpg",
+        "credit_id": "6040a6ce55c1f40045768a87",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "FR",
+        "title": "Le lâche",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "IN",
+        "title": "Kapurush",
+        "type": "transliteration"
+      },
+      {
+        "iso_3166_1": "US",
+        "title": "The Coward",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "PL",
+        "title": "Tchórz",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "BR",
+        "title": "O Covarde",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "PT",
+        "title": "O Cobarde",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "CL",
+        "title": "El cobarde",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "DE",
+        "title": "Kapurush - Der Feigling",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "IN",
+        "title": "Kapurush Mahapurush",
+        "type": "Hindi title, alternative title"
+      },
+      {
+        "iso_3166_1": "IT",
+        "title": "Il codardo",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "SU",
+        "title": "Трус",
+        "type": "Russian title"
+      },
+      {
+        "iso_3166_1": "TR",
+        "title": "Korkak",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "GB",
+        "title": "The Coward",
+        "type": ""
+      }
+    ]
+  }
+}

@@ -1,0 +1,593 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 136724,
+  "imdb_id": "tt0078147",
+  "origin_country": [
+    "IT"
+  ],
+  "original_language": "it",
+  "original_title": "Nel regno di Napoli",
+  "overview": "Thirty years of Neapolitan history (from 1942 to 1972) through the ups and downs of the Cavioli and Pagano families.",
+  "popularity": 0.2585,
+  "poster_path": "/rVbM37wI7SyrLSPyM7yei6IXBWW.jpg",
+  "production_companies": [
+    {
+      "id": 113299,
+      "logo_path": null,
+      "name": "P.B.C. S.p.a.",
+      "origin_country": ""
+    },
+    {
+      "id": 1766,
+      "logo_path": null,
+      "name": "Dieter Geissler Filmproduktion",
+      "origin_country": "DE"
+    },
+    {
+      "id": 4606,
+      "logo_path": "/otZHbf1HmzLRQsZFSqJXkf8EHz7.png",
+      "name": "ZDF",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    },
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    }
+  ],
+  "release_date": "1978-05-25",
+  "revenue": 0,
+  "runtime": 130,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Kingdom of Naples",
+  "video": false,
+  "vote_average": 7.143,
+  "vote_count": 7,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1331525,
+        "known_for_department": "Acting",
+        "name": "Liana Trouché",
+        "original_name": "Liana Trouché",
+        "popularity": 0.2272,
+        "profile_path": "/to48G3OSvaUyinmPriNI6lvAlUt.jpg",
+        "cast_id": 2,
+        "character": "Valeria Cavioli-Simonetti",
+        "credit_id": "53a0fe68c3a3687b9800119d",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1149778,
+        "known_for_department": "Acting",
+        "name": "Antonio Orlando",
+        "original_name": "Antonio Orlando",
+        "popularity": 0.1946,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "Massimo Pagano",
+        "credit_id": "53a0fe78c3a3687b9b0011e7",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 240893,
+        "known_for_department": "Acting",
+        "name": "Renata Zamengo",
+        "original_name": "Renata Zamengo",
+        "popularity": 0.1743,
+        "profile_path": "/4vsvB0BvO0uhsNauegW9tTrVU5T.jpg",
+        "cast_id": 4,
+        "character": "Mother Pagano",
+        "credit_id": "53a0fe87c3a3687b9e00122c",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1209852,
+        "known_for_department": "Acting",
+        "name": "Dino Mele",
+        "original_name": "Dino Mele",
+        "popularity": 0.2309,
+        "profile_path": "/iSwlH1VXf9BO8NxAPfLk6a3ZTxt.jpg",
+        "cast_id": 5,
+        "character": "Father Pagano",
+        "credit_id": "5c36e02dc3a3685ee327a006",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 95225,
+        "known_for_department": "Acting",
+        "name": "Margareth Clémenti",
+        "original_name": "Margareth Clémenti",
+        "popularity": 0.2416,
+        "profile_path": "/wfjLES1Ss5IyxdQpuLgOjpP6rFr.jpg",
+        "cast_id": 6,
+        "character": "Rosaria",
+        "credit_id": "5c36e038c3a3685ee9279e20",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3764,
+        "known_for_department": "Acting",
+        "name": "Raúl Gimenez",
+        "original_name": "Raúl Gimenez",
+        "popularity": 0.3201,
+        "profile_path": null,
+        "cast_id": 7,
+        "character": "Simonetti",
+        "credit_id": "5c36e062c3a3685eec27a164",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 78691,
+        "known_for_department": "Acting",
+        "name": "Cristina Donadio",
+        "original_name": "Cristina Donadio",
+        "popularity": 0.3247,
+        "profile_path": "/r0duEvQQBL1LwY7jK8oChG4MIcP.jpg",
+        "cast_id": 8,
+        "character": "Vittoria Pagano",
+        "credit_id": "5c36e076c3a3685efa27a1c0",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2212679,
+        "known_for_department": "Acting",
+        "name": "Gerardo D'Andrea",
+        "original_name": "Gerardo D'Andrea",
+        "popularity": 0.0357,
+        "profile_path": null,
+        "cast_id": 9,
+        "character": "Palumbo",
+        "credit_id": "5c36e083925141531224d130",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 45196,
+        "known_for_department": "Acting",
+        "name": "Ida Di Benedetto",
+        "original_name": "Ida Di Benedetto",
+        "popularity": 0.2314,
+        "profile_path": "/9uIMhLseXL2VIdVme9S9TNk83CL.jpg",
+        "cast_id": 10,
+        "character": "Pupetta Ferrante",
+        "credit_id": "5c36e08ec3a3685eec27a1c3",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1525832,
+        "known_for_department": "Acting",
+        "name": "Patrizio Rispo",
+        "original_name": "Patrizio Rispo",
+        "popularity": 0.1834,
+        "profile_path": "/fFU6sUZysUoyrUCfnV9qUSNoXHu.jpg",
+        "cast_id": 11,
+        "character": "",
+        "credit_id": "5c36e095925141531f24de86",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2212680,
+        "known_for_department": "Acting",
+        "name": "Maria Antonietta Riegel",
+        "original_name": "Maria Antonietta Riegel",
+        "popularity": 0,
+        "profile_path": null,
+        "cast_id": 12,
+        "character": "Vittoria Pagano, as a teenager",
+        "credit_id": "5c36e0a2c3a3685eec27a1f5",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2212681,
+        "known_for_department": "Acting",
+        "name": "Laura Sodano",
+        "original_name": "Laura Sodano",
+        "popularity": 0,
+        "profile_path": null,
+        "cast_id": 13,
+        "character": "Rosa",
+        "credit_id": "5c36e0b1925141532a24db31",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 100424,
+        "known_for_department": "Acting",
+        "name": "Percy Hogan",
+        "original_name": "Percy Hogan",
+        "popularity": 0.2217,
+        "profile_path": "/sDipa6k5eXmBqvx42TX2LLVcwLR.jpg",
+        "cast_id": 14,
+        "character": "American soldier",
+        "credit_id": "5c36e0bd925141531924d6ea",
+        "order": 12
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 45192,
+        "known_for_department": "Directing",
+        "name": "Werner Schroeter",
+        "original_name": "Werner Schroeter",
+        "popularity": 0.3609,
+        "profile_path": "/yrTk3uMtzx0mu9ZyqHA59XiC5bA.jpg",
+        "credit_id": "52fe4c1bc3a368484e1a7887",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1706163,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Anna Graziosi",
+        "original_name": "Anna Graziosi",
+        "popularity": 0.1199,
+        "profile_path": null,
+        "credit_id": "5c36e16b0e0a2631ad545685",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2212679,
+        "known_for_department": "Acting",
+        "name": "Gerardo D'Andrea",
+        "original_name": "Gerardo D'Andrea",
+        "popularity": 0.0357,
+        "profile_path": null,
+        "credit_id": "5c36e18b0e0a2631bc544c68",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2019352,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Sergio Angeloni",
+        "original_name": "Sergio Angeloni",
+        "popularity": 0.0402,
+        "profile_path": null,
+        "credit_id": "5c36e15ec3a3685eec27a2a4",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2212692,
+        "known_for_department": "Production",
+        "name": "Matteo Marino",
+        "original_name": "Matteo Marino",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "5c36e1dac3a3685eef27a3db",
+        "department": "Production",
+        "job": "Production Secretary"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2212687,
+        "known_for_department": "Sound",
+        "name": "Tommaso Quattrini",
+        "original_name": "Tommaso Quattrini",
+        "popularity": 0.0429,
+        "profile_path": null,
+        "credit_id": "5c36e197925141531924d7b9",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 45192,
+        "known_for_department": "Directing",
+        "name": "Werner Schroeter",
+        "original_name": "Werner Schroeter",
+        "popularity": 0.3609,
+        "profile_path": "/yrTk3uMtzx0mu9ZyqHA59XiC5bA.jpg",
+        "credit_id": "5c36e128925141532c24d72c",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 45192,
+        "known_for_department": "Directing",
+        "name": "Werner Schroeter",
+        "original_name": "Werner Schroeter",
+        "popularity": 0.3609,
+        "profile_path": "/yrTk3uMtzx0mu9ZyqHA59XiC5bA.jpg",
+        "credit_id": "5c36e0dd925141531c24d38b",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 18405,
+        "known_for_department": "Acting",
+        "name": "Peter Berling",
+        "original_name": "Peter Berling",
+        "popularity": 0.5017,
+        "profile_path": "/oAlkmJ99mC8KfARMiaSDm4kn9nj.jpg",
+        "credit_id": "5c36e105c3a3685efa27a2c9",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1125862,
+        "known_for_department": "Art",
+        "name": "Franco Calabrese",
+        "original_name": "Franco Calabrese",
+        "popularity": 0.1796,
+        "profile_path": null,
+        "credit_id": "5c36e1410e0a2631ad545669",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": true,
+        "gender": 2,
+        "id": 1464442,
+        "known_for_department": "Camera",
+        "name": "Wolfgang Knigge",
+        "original_name": "Wolfgang Knigge",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "5c36e1a3925141532c24d932",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2212693,
+        "known_for_department": "Directing",
+        "name": "Ines Zamurovic",
+        "original_name": "Ines Zamurovic",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "5c36e1f50e0a2631b55452d5",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1694178,
+        "known_for_department": "Writing",
+        "name": "Wolf Wondratschek",
+        "original_name": "Wolf Wondratschek",
+        "popularity": 0.1061,
+        "profile_path": null,
+        "credit_id": "5c36e0e90e0a2631bc544bc2",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1716699,
+        "known_for_department": "Production",
+        "name": "Michelangelo Ciafré",
+        "original_name": "Michelangelo Ciafré",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "credit_id": "5c36e17e925141531f24df47",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2212688,
+        "known_for_department": "Camera",
+        "name": "Digne Meller-Marcovicz",
+        "original_name": "Digne Meller-Marcovicz",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "5c36e1af0e0a2631b554525b",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 37810,
+        "known_for_department": "Sound",
+        "name": "Roberto Pregadio",
+        "original_name": "Roberto Pregadio",
+        "popularity": 0.1753,
+        "profile_path": "/xxopNoswyQQaSeg31x4FbiMMSZ9.jpg",
+        "credit_id": "5c36e1100e0a2631bf544d21",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 239156,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Alberte Barsacq",
+        "original_name": "Alberte Barsacq",
+        "popularity": 0.1463,
+        "profile_path": null,
+        "credit_id": "5c36e14d0e0a2631b554503a",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2212679,
+        "known_for_department": "Acting",
+        "name": "Gerardo D'Andrea",
+        "original_name": "Gerardo D'Andrea",
+        "popularity": 0.0357,
+        "profile_path": null,
+        "credit_id": "5c36e0f30e0a2631bf544d11",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 20553,
+        "known_for_department": "Camera",
+        "name": "Thomas Mauch",
+        "original_name": "Thomas Mauch",
+        "popularity": 0.1778,
+        "profile_path": null,
+        "credit_id": "5c36e11dc3a3685eef27a21c",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2212690,
+        "known_for_department": "Production",
+        "name": "Angelo Corrieri",
+        "original_name": "Angelo Corrieri",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "5c36e1ca925141531c24d511",
+        "department": "Production",
+        "job": "Production Secretary"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2074208,
+        "known_for_department": "Production",
+        "name": "Roberto Ornaro",
+        "original_name": "Roberto Ornaro",
+        "popularity": 0.2105,
+        "profile_path": null,
+        "credit_id": "5c36e1e9c3a3685efe27a88b",
+        "department": "Production",
+        "job": "Production Accountant"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1488294,
+        "known_for_department": "Editing",
+        "name": "Ursula West",
+        "original_name": "Ursula West",
+        "popularity": 0.1007,
+        "profile_path": null,
+        "credit_id": "5c36e135925141531624dc90",
+        "department": "Editing",
+        "job": "Editor"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "GB",
+        "title": "The Reign of Naples",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "BR",
+        "title": "O Reino de Nápoles",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "FR",
+        "title": "Le règne de Naples",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "GR",
+        "title": "Regno di Napoli",
+        "type": "transliterated ISO-LATIN-1 title"
+      },
+      {
+        "iso_3166_1": "PL",
+        "title": "Neapolitanskie królestwo",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "ES",
+        "title": "El reino de Nápoles",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "DE",
+        "title": "Neapolitanische Geschwister",
+        "type": ""
+      }
+    ]
+  }
+}

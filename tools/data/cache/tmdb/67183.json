@@ -1,0 +1,582 @@
+{
+  "adult": false,
+  "backdrop_path": "/3h7JENuXqM68EWHKyUsKgXKu1KM.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ],
+  "homepage": "",
+  "id": 67183,
+  "imdb_id": "tt0095812",
+  "origin_country": [
+    "IT"
+  ],
+  "original_language": "it",
+  "original_title": "Paganini Horror",
+  "overview": "A female rock band acquires an infamous composition by Niccolò Paganini that was used in satanic rituals. When the band decides to record the song and film a video in Paganini's old mansion, the spirit of the deceased composer is summoned and the band unlocks a portal to Hell.",
+  "popularity": 0.4854,
+  "poster_path": "/jGRfupGOElwgqSSFMdHE4Al6R3p.jpg",
+  "production_companies": [
+    {
+      "id": 13682,
+      "logo_path": null,
+      "name": "Fulvia Film",
+      "origin_country": "IT"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    }
+  ],
+  "release_date": "1989-06-06",
+  "revenue": 0,
+  "runtime": 83,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    },
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    }
+  ],
+  "status": "Released",
+  "tagline": "KILLER MUSIC.",
+  "title": "Paganini Horror",
+  "video": false,
+  "vote_average": 4.365,
+  "vote_count": 63,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 44959,
+        "known_for_department": "Acting",
+        "name": "Daria Nicolodi",
+        "original_name": "Daria Nicolodi",
+        "popularity": 0.8768,
+        "profile_path": "/xxMbsQXzNEBtA8oNmP24aBx2Pfw.jpg",
+        "cast_id": 4,
+        "character": "Sylvia Hackett",
+        "credit_id": "52fe475bc3a368484e0c2b25",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 548193,
+        "known_for_department": "Acting",
+        "name": "Jasmine Maimone",
+        "original_name": "Jasmine Maimone",
+        "popularity": 0.1211,
+        "profile_path": "/kf0j9c84Oo8uQZgf7aSdXskbldv.jpg",
+        "cast_id": 5,
+        "character": "Kate",
+        "credit_id": "52fe475bc3a368484e0c2b29",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 105342,
+        "known_for_department": "Acting",
+        "name": "Pascal Persiano",
+        "original_name": "Pascal Persiano",
+        "popularity": 0.2476,
+        "profile_path": "/kIaJ65txI2f89bW4NrQX8LxZCRK.jpg",
+        "cast_id": 6,
+        "character": "Daniel",
+        "credit_id": "52fe475bc3a368484e0c2b2d",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 548194,
+        "known_for_department": "Acting",
+        "name": "Maria Cristina Mastrangeli",
+        "original_name": "Maria Cristina Mastrangeli",
+        "popularity": 0.0865,
+        "profile_path": "/yqeGXstIt4K3FYvWaiXgBEPTdZF.jpg",
+        "cast_id": 7,
+        "character": "Lavinia",
+        "credit_id": "52fe475bc3a368484e0c2b31",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 548195,
+        "known_for_department": "Acting",
+        "name": "Michel Klippstein",
+        "original_name": "Michel Klippstein",
+        "popularity": 0.0884,
+        "profile_path": null,
+        "cast_id": 8,
+        "character": "Elena",
+        "credit_id": "52fe475bc3a368484e0c2b35",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 101131,
+        "known_for_department": "Acting",
+        "name": "Pietro Genuardi",
+        "original_name": "Pietro Genuardi",
+        "popularity": 0.3117,
+        "profile_path": "/yUfeLnKDnePNsFm2jlx6OKdnFC1.jpg",
+        "cast_id": 9,
+        "character": "Mark Singer",
+        "credit_id": "52fe475bc3a368484e0c2b39",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1483335,
+        "known_for_department": "Acting",
+        "name": "Giada Cozzi",
+        "original_name": "Giada Cozzi",
+        "popularity": 0.0538,
+        "profile_path": null,
+        "cast_id": 10,
+        "character": "Sylvia as a child",
+        "credit_id": "5592f1cdc3a36869d100117b",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1483336,
+        "known_for_department": "Acting",
+        "name": "Luana Ravegnini",
+        "original_name": "Luana Ravegnini",
+        "popularity": 0.1416,
+        "profile_path": null,
+        "cast_id": 11,
+        "character": "Rita",
+        "credit_id": "5592f21dc3a36804f3000f24",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 9221,
+        "known_for_department": "Acting",
+        "name": "Donald Pleasence",
+        "original_name": "Donald Pleasence",
+        "popularity": 1.6822,
+        "profile_path": "/eVJGFCd8ikP6w0XjkuiTbsm65eD.jpg",
+        "cast_id": 12,
+        "character": "Mr. Pickett",
+        "credit_id": "5592f22c925141645a0016d8",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1180675,
+        "known_for_department": "Acting",
+        "name": "Roberto Giannini",
+        "original_name": "Roberto Giannini",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 13,
+        "character": "",
+        "credit_id": "58b4a8dfc3a3685eb100154f",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1766756,
+        "known_for_department": "Acting",
+        "name": "Perla Costantini",
+        "original_name": "Perla Costantini",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 14,
+        "character": "",
+        "credit_id": "58b4a9059251410ada0015bf",
+        "order": 10
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 88164,
+        "known_for_department": "Directing",
+        "name": "Luigi Cozzi",
+        "original_name": "Luigi Cozzi",
+        "popularity": 0.3042,
+        "profile_path": "/81MLlK0zwQuhRkiqKrpskea8yNn.jpg",
+        "credit_id": "52fe475bc3a368484e0c2b15",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 88164,
+        "known_for_department": "Directing",
+        "name": "Luigi Cozzi",
+        "original_name": "Luigi Cozzi",
+        "popularity": 0.3042,
+        "profile_path": "/81MLlK0zwQuhRkiqKrpskea8yNn.jpg",
+        "credit_id": "52fe475bc3a368484e0c2b1b",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 72679,
+        "known_for_department": "Sound",
+        "name": "Vince Tempera",
+        "original_name": "Vince Tempera",
+        "popularity": 0.098,
+        "profile_path": "/iK3OK5l1KfZyIMBMfrPc4cl5WJC.jpg",
+        "credit_id": "58b4a9699251410a80001764",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1334292,
+        "known_for_department": "Sound",
+        "name": "Mauro Lazzaro",
+        "original_name": "Mauro Lazzaro",
+        "popularity": 0.0765,
+        "profile_path": null,
+        "credit_id": "58b4aa7c9251410a880017c0",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1023549,
+        "known_for_department": "Crew",
+        "name": "Paolo Ricci",
+        "original_name": "Paolo Ricci",
+        "popularity": 0.128,
+        "profile_path": null,
+        "credit_id": "58b4aa909251410ada00168c",
+        "department": "Crew",
+        "job": "Special Effects"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 111429,
+        "known_for_department": "Camera",
+        "name": "Franco Lecca",
+        "original_name": "Franco Lecca",
+        "popularity": 0.1048,
+        "profile_path": null,
+        "credit_id": "58b4a9769251410a840016e6",
+        "department": "Crew",
+        "job": "Cinematography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1766759,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Donatella Cazzola",
+        "original_name": "Donatella Cazzola",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "58b4a9be9251410ada001626",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1163409,
+        "known_for_department": "Camera",
+        "name": "Vincenzo Carpineta",
+        "original_name": "Vincenzo Carpineta",
+        "popularity": 0.1646,
+        "profile_path": "/60WzKkzZyOFuZgs7hF30P4LvAEX.jpg",
+        "credit_id": "58b4aab4c3a3685f0b00180a",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1156008,
+        "known_for_department": "Art",
+        "name": "Marina Pinzuti Ansolini",
+        "original_name": "Marina Pinzuti Ansolini",
+        "popularity": 0.1102,
+        "profile_path": null,
+        "credit_id": "58b4a9979251410a8000177f",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 53188,
+        "known_for_department": "Production",
+        "name": "Fabrizio De Angelis",
+        "original_name": "Fabrizio De Angelis",
+        "popularity": 0.3076,
+        "profile_path": "/eC6crqKdJ4gCOqhfrOnrahjbAWJ.jpg",
+        "credit_id": "58b4a959c3a3685f020014c3",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 32310,
+        "known_for_department": "Editing",
+        "name": "Sergio Montanari",
+        "original_name": "Sergio Montanari",
+        "popularity": 0.3158,
+        "profile_path": null,
+        "credit_id": "58b4a9899251410ada001601",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1156008,
+        "known_for_department": "Art",
+        "name": "Marina Pinzuti Ansolini",
+        "original_name": "Marina Pinzuti Ansolini",
+        "popularity": 0.1102,
+        "profile_path": null,
+        "credit_id": "58b4a99f9251410a8800173b",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1711438,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Piero Cucchi",
+        "original_name": "Piero Cucchi",
+        "popularity": 0.0881,
+        "profile_path": null,
+        "credit_id": "58b4aa0bc3a3685f1e0015b7",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 548192,
+        "known_for_department": "Writing",
+        "name": "Raimondo Del Balzo",
+        "original_name": "Raimondo Del Balzo",
+        "popularity": 0.1803,
+        "profile_path": null,
+        "credit_id": "58b4a93bc3a3685f0b001739",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1766763,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Luigi Ciminelli",
+        "original_name": "Luigi Ciminelli",
+        "popularity": 0.1307,
+        "profile_path": null,
+        "credit_id": "58b4a9fdc3a3685edf0015b8",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1766769,
+        "known_for_department": "Editing",
+        "name": "Marilena Cavola",
+        "original_name": "Marilena Cavola",
+        "popularity": 0.0414,
+        "profile_path": null,
+        "credit_id": "58b4aa509251410a900017c0",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 91806,
+        "known_for_department": "Camera",
+        "name": "Angelo Lannutti",
+        "original_name": "Angelo Lannutti",
+        "popularity": 0.0887,
+        "profile_path": null,
+        "credit_id": "58b4aaca9251410a80001860",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 44959,
+        "known_for_department": "Acting",
+        "name": "Daria Nicolodi",
+        "original_name": "Daria Nicolodi",
+        "popularity": 0.8768,
+        "profile_path": "/xxMbsQXzNEBtA8oNmP24aBx2Pfw.jpg",
+        "credit_id": "58b4a92bc3a3685f0b00172b",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1645178,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Franco Casagni",
+        "original_name": "Franco Casagni",
+        "popularity": 0.1041,
+        "profile_path": "/sNzpBdal53vl9s2Jx2aUAh7eoGS.jpg",
+        "credit_id": "58b4a9de9251410ada001644",
+        "department": "Crew",
+        "job": "Makeup Effects"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1645178,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Franco Casagni",
+        "original_name": "Franco Casagni",
+        "popularity": 0.1041,
+        "profile_path": "/sNzpBdal53vl9s2Jx2aUAh7eoGS.jpg",
+        "credit_id": "58b4a9e9c3a3685f1e00159f",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1640218,
+        "known_for_department": "Production",
+        "name": "Giammaria Vismara",
+        "original_name": "Giammaria Vismara",
+        "popularity": 0.0548,
+        "profile_path": null,
+        "credit_id": "58b4aa409251410a94001720",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": true,
+        "gender": 0,
+        "id": 1298942,
+        "known_for_department": "Camera",
+        "name": "Antonio Benetti",
+        "original_name": "Antonio Benetti",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "58b4aaa29251410a80001836",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 68262,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Rosario Prestopino",
+        "original_name": "Rosario Prestopino",
+        "popularity": 0.179,
+        "profile_path": null,
+        "credit_id": "58b4aa1cc3a3685eef0017dd",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Effects Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1766765,
+        "known_for_department": "Production",
+        "name": "Giorgio Padoan",
+        "original_name": "Giorgio Padoan",
+        "popularity": 0.0835,
+        "profile_path": null,
+        "credit_id": "58b4aa30c3a3685edf0015da",
+        "department": "Production",
+        "job": "Production Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1766770,
+        "known_for_department": "Art",
+        "name": "Osvaldo Monaco",
+        "original_name": "Osvaldo Monaco",
+        "popularity": 0.0487,
+        "profile_path": null,
+        "credit_id": "5efbbc465437f500368f10d4",
+        "department": "Art",
+        "job": "Props"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "PT",
+        "title": "Partitura Mortal",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "AR",
+        "title": "Melodía de horror",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "BR",
+        "title": "Paganini Horror",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "DE",
+        "title": "Paganini Horror - Der Blutgeiger von Venedig",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "SU",
+        "title": "Ужас Паганини",
+        "type": ""
+      }
+    ]
+  }
+}

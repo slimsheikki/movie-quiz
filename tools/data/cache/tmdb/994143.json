@@ -1,0 +1,303 @@
+{
+  "adult": false,
+  "backdrop_path": "/tjPpoTWBZOSUudnDyCYAqGcXBAS.jpg",
+  "belongs_to_collection": null,
+  "budget": 15000,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "https://www.skinamarink.com",
+  "id": 994143,
+  "imdb_id": "tt21307994",
+  "origin_country": [
+    "CA"
+  ],
+  "original_language": "en",
+  "original_title": "Skinamarink",
+  "overview": "Two children wake up in the middle of the night to find their father is missing, and all the windows and doors in their home have vanished.",
+  "popularity": 2.0184,
+  "poster_path": "/o942912KFh89SGhqWuKXuT0SXzN.jpg",
+  "production_companies": [
+    {
+      "id": 181859,
+      "logo_path": "/dcbrxzkTs6HGbR20xK2JrmjDLfn.png",
+      "name": "ERO Picture Company",
+      "origin_country": "CA"
+    },
+    {
+      "id": 5196,
+      "logo_path": "/rUTpQWmfKQmBUmrelI4jJXuy67M.png",
+      "name": "BayView Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    }
+  ],
+  "release_date": "2023-01-13",
+  "revenue": 2131183,
+  "runtime": 100,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "In this house...",
+  "title": "Skinamarink",
+  "video": false,
+  "vote_average": 5.354,
+  "vote_count": 376,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3624459,
+        "known_for_department": "Acting",
+        "name": "Lucas Paul",
+        "original_name": "Lucas Paul",
+        "popularity": 0.0901,
+        "profile_path": null,
+        "cast_id": 2,
+        "character": "Kevin",
+        "credit_id": "62d0cffbbd588b004c4bc02b",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3624460,
+        "known_for_department": "Acting",
+        "name": "Dali Rose Tetreault",
+        "original_name": "Dali Rose Tetreault",
+        "popularity": 0.0617,
+        "profile_path": "/dWUDZrgb9mT5os0xHxztgwqujm0.jpg",
+        "cast_id": 3,
+        "character": "Kaylee",
+        "credit_id": "62d0d057bd588b005e23fafd",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3624461,
+        "known_for_department": "Acting",
+        "name": "Ross Paul",
+        "original_name": "Ross Paul",
+        "popularity": 0.066,
+        "profile_path": "/rhltvLppt9LBMvHbfw0hjW4X7BG.jpg",
+        "cast_id": 4,
+        "character": "Dad",
+        "credit_id": "62d0d06ea3e4ba004f948ce7",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3624462,
+        "known_for_department": "Acting",
+        "name": "Jaime Hill",
+        "original_name": "Jaime Hill",
+        "popularity": 0.0744,
+        "profile_path": "/i1Rb3LQ5WZGBSsCUF5sxUOuM0P0.jpg",
+        "cast_id": 5,
+        "character": "Mom",
+        "credit_id": "62d0d08efd4a9600546a1684",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3607164,
+        "known_for_department": "Directing",
+        "name": "Kyle Edward Ball",
+        "original_name": "Kyle Edward Ball",
+        "popularity": 0.2548,
+        "profile_path": "/bNxzuPvb09hlER5eGsnzK5VNvkn.jpg",
+        "cast_id": 16,
+        "character": "Entity (voice) (uncredited)",
+        "credit_id": "654507019d6e3306cabb57e3",
+        "order": 4
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3607164,
+        "known_for_department": "Directing",
+        "name": "Kyle Edward Ball",
+        "original_name": "Kyle Edward Ball",
+        "popularity": 0.2548,
+        "profile_path": "/bNxzuPvb09hlER5eGsnzK5VNvkn.jpg",
+        "credit_id": "62be0cd78b959e140cf85cfd",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2213621,
+        "known_for_department": "Sound",
+        "name": "Joshua Bookhalter",
+        "original_name": "Joshua Bookhalter",
+        "popularity": 0.0388,
+        "profile_path": null,
+        "credit_id": "62d0d0adf056d500b325fcce",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3624463,
+        "known_for_department": "Camera",
+        "name": "Jamie McRae",
+        "original_name": "Jamie McRae",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "62d0d0cf1bf876004fa68f41",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3624464,
+        "known_for_department": "Production",
+        "name": "Edmon Rotea",
+        "original_name": "Edmon Rotea",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "credit_id": "62d0d0ea35811d005430e0af",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3607164,
+        "known_for_department": "Directing",
+        "name": "Kyle Edward Ball",
+        "original_name": "Kyle Edward Ball",
+        "popularity": 0.2548,
+        "profile_path": "/bNxzuPvb09hlER5eGsnzK5VNvkn.jpg",
+        "credit_id": "62f0ee26cee2f6007a8db47f",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2884433,
+        "known_for_department": "Production",
+        "name": "Ava Karvonen",
+        "original_name": "Ava Karvonen",
+        "popularity": 0.0338,
+        "profile_path": "/1RgKOPfqqqBRjxi4V5BkQBqgkxF.jpg",
+        "credit_id": "62f0ee31a1074b00920f8f73",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2725035,
+        "known_for_department": "Production",
+        "name": "Jonathan Barkan",
+        "original_name": "Jonathan Barkan",
+        "popularity": 0.0999,
+        "profile_path": "/wiLywu9ubR6epQ2yWelW5ezbWPj.jpg",
+        "credit_id": "63856ece229ae21572a9a040",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3607164,
+        "known_for_department": "Directing",
+        "name": "Kyle Edward Ball",
+        "original_name": "Kyle Edward Ball",
+        "popularity": 0.2548,
+        "profile_path": "/bNxzuPvb09hlER5eGsnzK5VNvkn.jpg",
+        "credit_id": "63c22ab28efe7300f0a35421",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2591313,
+        "known_for_department": "Production",
+        "name": "Josh Doke",
+        "original_name": "Josh Doke",
+        "popularity": 0.0645,
+        "profile_path": null,
+        "credit_id": "63cd99879a643500ae03bf2e",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1148834,
+        "known_for_department": "Directing",
+        "name": "Dylan Pearce",
+        "original_name": "Dylan Pearce",
+        "popularity": 0.2744,
+        "profile_path": "/p6EmnV4i4fQ0Atr9nl60kz2Fh84.jpg",
+        "credit_id": "63cd99bc6d97e600b74de52d",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2213621,
+        "known_for_department": "Sound",
+        "name": "Joshua Bookhalter",
+        "original_name": "Joshua Bookhalter",
+        "popularity": 0.0388,
+        "profile_path": null,
+        "credit_id": "63ffb3629653f6007c1d59b2",
+        "department": "Crew",
+        "job": "In Memory Of"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "FR",
+        "title": "The House",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "MX",
+        "title": "Skinamarink: El Despertar Del Mal",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "UA",
+        "title": "Скінамарінк",
+        "type": "Nonofficial Title"
+      },
+      {
+        "iso_3166_1": "IR",
+        "title": "اسکینامارینک",
+        "type": ""
+      }
+    ]
+  }
+}

@@ -1,0 +1,459 @@
+{
+  "adult": false,
+  "backdrop_path": "/nO8lpaJLo1UVIXL7eM5ewwudvtY.jpg",
+  "belongs_to_collection": null,
+  "budget": 4800000,
+  "genres": [
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 10836,
+  "imdb_id": "tt0264508",
+  "origin_country": [
+    "ES"
+  ],
+  "original_language": "en",
+  "original_title": "Dagon",
+  "overview": "A boating accident off the coast of Spain sends Paul and his girlfriend Barbara to the decrepit fishing village of Imboca. As night falls, people start to disappear and things not quite human start to appear. Paul is pursued by the entire town. Running for his life, he uncovers Imboca's secret..they worship Dagon, a monstrous god of the sea...and Dagon's unholy offspring are on the loose...",
+  "popularity": 2.8432,
+  "poster_path": "/8S648eMKObi8ERFS7cSYDocxSaZ.jpg",
+  "production_companies": [
+    {
+      "id": 7956,
+      "logo_path": null,
+      "name": "Castelao Productions",
+      "origin_country": "ES"
+    },
+    {
+      "id": 2029,
+      "logo_path": null,
+      "name": "Estudios Picasso",
+      "origin_country": "ES"
+    },
+    {
+      "id": 5085,
+      "logo_path": "/mPuVc7m1Ki7OQQvAYwYfIlEI3vu.png",
+      "name": "TV3",
+      "origin_country": "ES"
+    },
+    {
+      "id": 10050,
+      "logo_path": "/SowPJ8W5Gy6OgyAFyWnv4KjcPo.png",
+      "name": "TVG",
+      "origin_country": "ES"
+    },
+    {
+      "id": 357,
+      "logo_path": null,
+      "name": "Vía Digital",
+      "origin_country": "ES"
+    },
+    {
+      "id": 58958,
+      "logo_path": "/zWB378ArpAomecnYO03FJsLcO7X.png",
+      "name": "Xunta de Galicia",
+      "origin_country": "ES"
+    },
+    {
+      "id": 35559,
+      "logo_path": "/xLqNfq5xXETBKjq3jSSiNqqPiN7.png",
+      "name": "ICEC",
+      "origin_country": "ES"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "ES",
+      "name": "Spain"
+    }
+  ],
+  "release_date": "2001-10-12",
+  "revenue": 0,
+  "runtime": 95,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Galician",
+      "iso_639_1": "gl",
+      "name": "Galego"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "A cursed people... an ancient cult... a nightmare come true.",
+  "title": "Dagon",
+  "video": false,
+  "vote_average": 6.143,
+  "vote_count": 473,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 67050,
+        "known_for_department": "Acting",
+        "name": "Ezra Godden",
+        "original_name": "Ezra Godden",
+        "popularity": 0.2193,
+        "profile_path": "/f1va0oiMnXsPzOXZcTk4fTqIj4A.jpg",
+        "cast_id": 1,
+        "character": "Paul Marsh",
+        "credit_id": "52fe43bf9251416c7501c8bb",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 9768,
+        "known_for_department": "Acting",
+        "name": "Francisco Rabal",
+        "original_name": "Francisco Rabal",
+        "popularity": 0.8959,
+        "profile_path": "/7YlqiXj3waId7fWe6xqRNvV0iOy.jpg",
+        "cast_id": 2,
+        "character": "Ezequiel",
+        "credit_id": "52fe43bf9251416c7501c8bf",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 67051,
+        "known_for_department": "Acting",
+        "name": "Raquel Meroño",
+        "original_name": "Raquel Meroño",
+        "popularity": 0.1799,
+        "profile_path": "/xLrX52Y9AD8oO8G2bdTwnNFjMyv.jpg",
+        "cast_id": 3,
+        "character": "Bárbara",
+        "credit_id": "52fe43bf9251416c7501c8c3",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 67052,
+        "known_for_department": "Acting",
+        "name": "Macarena Gómez",
+        "original_name": "Macarena Gómez",
+        "popularity": 0.5561,
+        "profile_path": "/bv47XMjZUhptKGFKIEoVA8pVsMT.jpg",
+        "cast_id": 4,
+        "character": "Uxía Cambarro",
+        "credit_id": "52fe43bf9251416c7501c8c7",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 58287,
+        "known_for_department": "Acting",
+        "name": "Brendan Price",
+        "original_name": "Brendan Price",
+        "popularity": 0.2617,
+        "profile_path": "/ogNH141Bx5Jcifvtss8nsPhiGfg.jpg",
+        "cast_id": 5,
+        "character": "Howard",
+        "credit_id": "52fe43bf9251416c7501c8cb",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 67053,
+        "known_for_department": "Acting",
+        "name": "Birgit Bofarull",
+        "original_name": "Birgit Bofarull",
+        "popularity": 0.136,
+        "profile_path": "/pSiR8CROW1vmu7iauwzNRVqHx0Z.jpg",
+        "cast_id": 6,
+        "character": "Vicki",
+        "credit_id": "52fe43bf9251416c7501c8cf",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 116068,
+        "known_for_department": "Acting",
+        "name": "Uxía Blanco",
+        "original_name": "Uxía Blanco",
+        "popularity": 0.2776,
+        "profile_path": "/hpfIcqTHUz9EaO2UGGEkkej8tF.jpg",
+        "cast_id": 17,
+        "character": "Ezequiel's Mother",
+        "credit_id": "580f3362925141680f0091ab",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 952143,
+        "known_for_department": "Acting",
+        "name": "Ferran Lahoz",
+        "original_name": "Ferran Lahoz",
+        "popularity": 0.1005,
+        "profile_path": "/xQpyAAASiSkUycCVyeYD2jgFNGx.jpg",
+        "cast_id": 18,
+        "character": "Priest",
+        "credit_id": "580f336f9251416c4e00949c",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 181491,
+        "known_for_department": "Camera",
+        "name": "Joan Minguell",
+        "original_name": "Joan Minguell",
+        "popularity": 0.2115,
+        "profile_path": null,
+        "cast_id": 19,
+        "character": "Xavier Cambarro",
+        "credit_id": "580f337fc3a36859b100ce47",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1062363,
+        "known_for_department": "Acting",
+        "name": "Alfredo Villa",
+        "original_name": "Alfredo Villa",
+        "popularity": 0.1511,
+        "profile_path": "/VI5grPnp7319f1B26LDu4EotzY.jpg",
+        "cast_id": 20,
+        "character": "Captain Orpheus Cambarro",
+        "credit_id": "580f3391c3a3687ac4008d19",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 97688,
+        "known_for_department": "Acting",
+        "name": "José Lifante",
+        "original_name": "José Lifante",
+        "popularity": 0.3303,
+        "profile_path": "/l3sV4lkRIHvQX4c86Pw9h1L7YFK.jpg",
+        "cast_id": 21,
+        "character": "Hotel Receptionist",
+        "credit_id": "580f339cc3a3687b3e008a20",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 42175,
+        "known_for_department": "Directing",
+        "name": "Richard Stanley",
+        "original_name": "Richard Stanley",
+        "popularity": 0.4118,
+        "profile_path": "/vI3tIvvqUdjC1v8uVtIaDnEDWX4.jpg",
+        "cast_id": 22,
+        "character": "Fish Monster (uncredited)",
+        "credit_id": "67a3c573d47bc77cb885998d",
+        "order": 11
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 27991,
+        "known_for_department": "Directing",
+        "name": "Stuart Gordon",
+        "original_name": "Stuart Gordon",
+        "popularity": 0.8096,
+        "profile_path": "/9LZpmQx9pwgFInRbbAFEkyUMGlc.jpg",
+        "credit_id": "52fe43bf9251416c7501c8d5",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 67054,
+        "known_for_department": "Writing",
+        "name": "H.P. Lovecraft",
+        "original_name": "H.P. Lovecraft",
+        "popularity": 0.3493,
+        "profile_path": "/vOGKvnqADcJwRRmVeGdbc7HWK7s.jpg",
+        "credit_id": "52fe43bf9251416c7501c8db",
+        "department": "Writing",
+        "job": "Novel"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 58046,
+        "known_for_department": "Writing",
+        "name": "Dennis Paoli",
+        "original_name": "Dennis Paoli",
+        "popularity": 0.5564,
+        "profile_path": "/c7Xr94R6QSntsi6OFg0RqKdtcnN.jpg",
+        "credit_id": "52fe43bf9251416c7501c8e1",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 37950,
+        "known_for_department": "Production",
+        "name": "Carlos Fernández",
+        "original_name": "Carlos Fernández",
+        "popularity": 0.0888,
+        "profile_path": "/o4mlgkFX8OrYhECGhMlfJO8fANb.jpg",
+        "credit_id": "52fe43bf9251416c7501c8e7",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 17083,
+        "known_for_department": "Production",
+        "name": "Julio Fernández",
+        "original_name": "Julio Fernández",
+        "popularity": 0.1847,
+        "profile_path": "/kPKrqauynMK1ZOjsJJnDeAfNK2K.jpg",
+        "credit_id": "52fe43bf9251416c7501c8ed",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 27992,
+        "known_for_department": "Production",
+        "name": "Brian Yuzna",
+        "original_name": "Brian Yuzna",
+        "popularity": 1.2704,
+        "profile_path": "/uu4cdH7rBYa9GMCor4qz6cWABka.jpg",
+        "credit_id": "52fe43bf9251416c7501c8f3",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 43332,
+        "known_for_department": "Sound",
+        "name": "Carles Cases",
+        "original_name": "Carles Cases",
+        "popularity": 0.0919,
+        "profile_path": null,
+        "credit_id": "52fe43bf9251416c7501c8f9",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 31323,
+        "known_for_department": "Camera",
+        "name": "Carlos Suárez",
+        "original_name": "Carlos Suárez",
+        "popularity": 0.1131,
+        "profile_path": "/c2YqxNtqNIJwZ976Lh2PD2fKRo.jpg",
+        "credit_id": "52fe43bf9251416c7501c8ff",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 67055,
+        "known_for_department": "Editing",
+        "name": "Jaume Vilalta",
+        "original_name": "Jaume Vilalta",
+        "popularity": 0.0338,
+        "profile_path": null,
+        "credit_id": "52fe43bf9251416c7501c905",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 67054,
+        "known_for_department": "Writing",
+        "name": "H.P. Lovecraft",
+        "original_name": "H.P. Lovecraft",
+        "popularity": 0.3493,
+        "profile_path": "/vOGKvnqADcJwRRmVeGdbc7HWK7s.jpg",
+        "credit_id": "52fe43bf9251416c7501c90b",
+        "department": "Writing",
+        "job": "Original Story"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5955249,
+        "known_for_department": "Crew",
+        "name": "Juan Serrano",
+        "original_name": "Juan Serrano",
+        "popularity": 0.1215,
+        "profile_path": "/vdwxKLrd8nsEhLIVUo33FXgtY1t.jpg",
+        "credit_id": "6973ec3947053c12d837bc3c",
+        "department": "Crew",
+        "job": "Special Effects Technician"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "ES",
+        "title": "Dagon: la secta del mar",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "DE",
+        "title": "HP Lovecrafts Dagon",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "DE",
+        "title": "H.P. Lovecraft's Dagon",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "DE",
+        "title": "Dagon",
+        "type": "IMDb"
+      },
+      {
+        "iso_3166_1": "JP",
+        "title": "DAGON -ダゴン-",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "JP",
+        "title": "DAGON ダゴン",
+        "type": ""
+      }
+    ]
+  }
+}

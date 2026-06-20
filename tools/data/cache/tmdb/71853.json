@@ -1,0 +1,587 @@
+{
+  "adult": false,
+  "backdrop_path": "/fTPi0tXFf4BSDDdf7J9pq5V9XyG.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "https://www.troma.com/films/def-by-temptation/",
+  "id": 71853,
+  "imdb_id": "tt0099395",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Def by Temptation",
+  "overview": "An evil succubus is preying on libidinous black men in New York, and all that stands in her way is a minister-in-training, an aspiring actor, and a cop that specializes in cases involving the supernatural.",
+  "popularity": 0.6327,
+  "poster_path": "/cC96OjOeYXmBF6RuePlxA709tkz.jpg",
+  "production_companies": [
+    {
+      "id": 124550,
+      "logo_path": null,
+      "name": "Bonded Filmworks",
+      "origin_country": ""
+    },
+    {
+      "id": 124551,
+      "logo_path": null,
+      "name": "Orpheus Pictures",
+      "origin_country": ""
+    },
+    {
+      "id": 3052,
+      "logo_path": "/kqP7DC8cUCzDSI5SXiJKJKmQg1K.png",
+      "name": "Troma Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1990-03-23",
+  "revenue": 0,
+  "runtime": 95,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "A terrifying tale of vampires and lust!",
+  "title": "Def by Temptation",
+  "video": false,
+  "vote_average": 4.758,
+  "vote_count": 62,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 564063,
+        "known_for_department": "Acting",
+        "name": "James Bond III",
+        "original_name": "James Bond III",
+        "popularity": 0.3052,
+        "profile_path": "/y9ex7Y6TWpdY88LjKrGVT2aF910.jpg",
+        "cast_id": 4,
+        "character": "Joel",
+        "credit_id": "52fe484cc3a368484e0f1c63",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 66554,
+        "known_for_department": "Acting",
+        "name": "Kadeem Hardison",
+        "original_name": "Kadeem Hardison",
+        "popularity": 1.3252,
+        "profile_path": "/swexf3AEacs9Ep2oDcaUyE5XBdj.jpg",
+        "cast_id": 18,
+        "character": "K",
+        "credit_id": "54adbca4c3a3680cac000538",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5502,
+        "known_for_department": "Acting",
+        "name": "Bill Nunn",
+        "original_name": "Bill Nunn",
+        "popularity": 1.2897,
+        "profile_path": "/trxNvS6g5yvwbXzx2LK6JqutE5z.jpg",
+        "cast_id": 17,
+        "character": "Dougy",
+        "credit_id": "52fe484cc3a368484e0f1ca5",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2231,
+        "known_for_department": "Acting",
+        "name": "Samuel L. Jackson",
+        "original_name": "Samuel L. Jackson",
+        "popularity": 5.4508,
+        "profile_path": "/AiAYAqwpM5xmiFrAIeQvUXDCVvo.jpg",
+        "cast_id": 16,
+        "character": "Minister Garth",
+        "credit_id": "52fe484cc3a368484e0f1ca1",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 133586,
+        "known_for_department": "Acting",
+        "name": "Minnie Gentry",
+        "original_name": "Minnie Gentry",
+        "popularity": 0.3563,
+        "profile_path": "/vIvIq0w6KQJ5EP6ZNDTrYEvWGCg.jpg",
+        "cast_id": 24,
+        "character": "Grandma",
+        "credit_id": "5d1d4a9d94d8a831163d4cd9",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 90444,
+        "known_for_department": "Acting",
+        "name": "Rony Clanton",
+        "original_name": "Rony Clanton",
+        "popularity": 0.8163,
+        "profile_path": "/4DoegogQGwcqIQmzoJ6m6e38UMs.jpg",
+        "cast_id": 25,
+        "character": "Married Man",
+        "credit_id": "5d1d4ab994d8a831163d4d20",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2353981,
+        "known_for_department": "Acting",
+        "name": "Stephen Van Cleef",
+        "original_name": "Stephen Van Cleef",
+        "popularity": 0,
+        "profile_path": null,
+        "cast_id": 26,
+        "character": "Jonathan",
+        "credit_id": "5d1d4adba135330011085618",
+        "order": 6
+      },
+      {
+        "adult": true,
+        "gender": 2,
+        "id": 99360,
+        "known_for_department": "Acting",
+        "name": "John Canada Terrell",
+        "original_name": "John Canada Terrell",
+        "popularity": 0,
+        "profile_path": "/mHxeuXRSOsrZO2rlDPgAp4UMLDC.jpg",
+        "cast_id": 27,
+        "character": "Bartender #1",
+        "credit_id": "5d1d4b1955b0c057a06a3ff8",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 82217,
+        "known_for_department": "Acting",
+        "name": "Guy Davis",
+        "original_name": "Guy Davis",
+        "popularity": 0.2452,
+        "profile_path": null,
+        "cast_id": 28,
+        "character": "Bartender #2",
+        "credit_id": "5d1d4b5394d8a8293b3d5458",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 564065,
+        "known_for_department": "Acting",
+        "name": "Cynthia Bond",
+        "original_name": "Cynthia Bond",
+        "popularity": 0.0357,
+        "profile_path": "/b93pE68Qs4cm4n17BjWcB7w8A6U.jpg",
+        "cast_id": 5,
+        "character": "Temptress",
+        "credit_id": "52fe484cc3a368484e0f1c67",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5003030,
+        "known_for_department": "Acting",
+        "name": "Freddie Jackson",
+        "original_name": "Freddie Jackson",
+        "popularity": 0.0382,
+        "profile_path": null,
+        "cast_id": 32,
+        "character": "Self",
+        "credit_id": "670f1bf27a22bf3607f272a1",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5003028,
+        "known_for_department": "Acting",
+        "name": "Najee",
+        "original_name": "Najee",
+        "popularity": 0.0496,
+        "profile_path": null,
+        "cast_id": 31,
+        "character": "Self",
+        "credit_id": "670f1bca01c85c4fd81a2d94",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 69604,
+        "known_for_department": "Acting",
+        "name": "Melba Moore",
+        "original_name": "Melba Moore",
+        "popularity": 0.4883,
+        "profile_path": "/2ezpVkwmbI23Wz8kL7xiu3pdIKO.jpg",
+        "cast_id": 33,
+        "character": "Madam Sonya",
+        "credit_id": "670f1c037a22bf3607f272a7",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2719089,
+        "known_for_department": "Acting",
+        "name": "Z. Wright",
+        "original_name": "Z. Wright",
+        "popularity": 0.0958,
+        "profile_path": null,
+        "cast_id": 34,
+        "character": "Young Joel",
+        "credit_id": "670f1c2701c85c4fd81a2da5",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5003032,
+        "known_for_department": "Acting",
+        "name": "Michael Rivera",
+        "original_name": "Michael Rivera",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 35,
+        "character": "Gay Guy",
+        "credit_id": "670f1c4801c85c4fd81a2de5",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5003033,
+        "known_for_department": "Acting",
+        "name": "Sundra Jean Williams",
+        "original_name": "Sundra Jean Williams",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 36,
+        "character": "Mrs. Garth",
+        "credit_id": "670f1c5d33e1478f766db004",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5003034,
+        "known_for_department": "Acting",
+        "name": "Beth Latty",
+        "original_name": "Beth Latty",
+        "popularity": 0.0168,
+        "profile_path": null,
+        "cast_id": 37,
+        "character": "Lady #2",
+        "credit_id": "670f1c6c01c85c4fd81a2dfc",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5003035,
+        "known_for_department": "Acting",
+        "name": "Angela Stokes",
+        "original_name": "Angela Stokes",
+        "popularity": 0,
+        "profile_path": null,
+        "cast_id": 38,
+        "character": "Lady #3",
+        "credit_id": "670f1c7933e1478f766db028",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5003036,
+        "known_for_department": "Acting",
+        "name": "Lahana Kameha",
+        "original_name": "Lahana Kameha",
+        "popularity": 0.0168,
+        "profile_path": null,
+        "cast_id": 39,
+        "character": "Lady #5",
+        "credit_id": "670f1c8601c85c4fd81a2e28",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5003040,
+        "known_for_department": "Acting",
+        "name": "Ellis Williams",
+        "original_name": "Ellis Williams",
+        "popularity": 0,
+        "profile_path": null,
+        "cast_id": 40,
+        "character": "Demon Limo Driver",
+        "credit_id": "670f1ca833e1478f766db06b",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 39977,
+        "known_for_department": "Acting",
+        "name": "Michael Michele",
+        "original_name": "Michael Michele",
+        "popularity": 1.5351,
+        "profile_path": "/4FGvh3QdJezRyEGDleUNzTVHy2W.jpg",
+        "cast_id": 30,
+        "character": "Lady #6",
+        "credit_id": "645e866def8b3200e35cfd79",
+        "order": 20
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4154306,
+        "known_for_department": "Production",
+        "name": "Robin Harmon",
+        "original_name": "Robin Harmon",
+        "popularity": 0,
+        "profile_path": null,
+        "cast_id": 41,
+        "character": "Lady #4",
+        "credit_id": "670f1cd47a22bf3607f2730b",
+        "order": 21
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5003044,
+        "known_for_department": "Acting",
+        "name": "Starleana Young",
+        "original_name": "Starleana Young",
+        "popularity": 0,
+        "profile_path": null,
+        "cast_id": 42,
+        "character": "Lady #1",
+        "credit_id": "670f1ce401c85c4fd81a2e74",
+        "order": 22
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 564070,
+        "known_for_department": "Production",
+        "name": "Kevin Harewood",
+        "original_name": "Kevin Harewood",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "52fe484cc3a368484e0f1c7f",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 551989,
+        "known_for_department": "Writing",
+        "name": "Nelson George",
+        "original_name": "Nelson George",
+        "popularity": 0.5767,
+        "profile_path": "/xG7lH4OjGi1lTbcJW39SbP1PE08.jpg",
+        "credit_id": "52fe484cc3a368484e0f1c9d",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 564071,
+        "known_for_department": "Production",
+        "name": "Charles Huggins",
+        "original_name": "Charles Huggins",
+        "popularity": 0.0441,
+        "profile_path": null,
+        "credit_id": "52fe484cc3a368484e0f1c85",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 564063,
+        "known_for_department": "Acting",
+        "name": "James Bond III",
+        "original_name": "James Bond III",
+        "popularity": 0.3052,
+        "profile_path": "/y9ex7Y6TWpdY88LjKrGVT2aF910.jpg",
+        "credit_id": "52fe484cc3a368484e0f1c79",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 564073,
+        "known_for_department": "Production",
+        "name": "Kervin Simms",
+        "original_name": "Kervin Simms",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "52fe484cc3a368484e0f1c91",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 564072,
+        "known_for_department": "Production",
+        "name": "Hajna O. Moss",
+        "original_name": "Hajna O. Moss",
+        "popularity": 0.0836,
+        "profile_path": null,
+        "credit_id": "52fe484cc3a368484e0f1c8b",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1720050,
+        "known_for_department": "Costume & Make-Up",
+        "name": "John Michael Reefer",
+        "original_name": "John Michael Reefer",
+        "popularity": 0.0705,
+        "profile_path": null,
+        "credit_id": "6157d61fd2147c008d042d92",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 15521,
+        "known_for_department": "Directing",
+        "name": "Ernest R. Dickerson",
+        "original_name": "Ernest R. Dickerson",
+        "popularity": 1.016,
+        "profile_path": "/iF1jgMI2b8Q2crFPCk5IaGUBdND.jpg",
+        "credit_id": "584a62e992514157fa00ab68",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 564074,
+        "known_for_department": "Sound",
+        "name": "Paul Laurence\t",
+        "original_name": "Paul Laurence\t",
+        "popularity": 0.0505,
+        "profile_path": "/vtHNcb9BeNHh2VpaHBPN5xBFP6v.jpg",
+        "credit_id": "584a62f4c3a368140e01dc1d",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 564063,
+        "known_for_department": "Acting",
+        "name": "James Bond III",
+        "original_name": "James Bond III",
+        "popularity": 0.3052,
+        "profile_path": "/y9ex7Y6TWpdY88LjKrGVT2aF910.jpg",
+        "credit_id": "5b4ea24792514138c800500d",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 564063,
+        "known_for_department": "Acting",
+        "name": "James Bond III",
+        "original_name": "James Bond III",
+        "popularity": 0.3052,
+        "profile_path": "/y9ex7Y6TWpdY88LjKrGVT2aF910.jpg",
+        "credit_id": "5b4ea2320e0a264b7b005620",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 99251,
+        "known_for_department": "Acting",
+        "name": "Pericles Lewnes",
+        "original_name": "Pericles Lewnes",
+        "popularity": 0.1738,
+        "profile_path": "/43OU0nsrlBvIVQou1ZByxgmKXrd.jpg",
+        "credit_id": "686c41626801694f41103abb",
+        "department": "Crew",
+        "job": "Special Effects"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "AU",
+        "title": "James Bond III's Def by Temptation",
+        "type": "Movie"
+      },
+      {
+        "iso_3166_1": "FR",
+        "title": "Succube",
+        "type": "Movie"
+      },
+      {
+        "iso_3166_1": "FI",
+        "title": "Surmansuu",
+        "type": "Movie"
+      },
+      {
+        "iso_3166_1": "ES",
+        "title": "Tentación Diabólica",
+        "type": "Movie"
+      },
+      {
+        "iso_3166_1": "US",
+        "title": "Black Vampires",
+        "type": "Movie"
+      }
+    ]
+  }
+}

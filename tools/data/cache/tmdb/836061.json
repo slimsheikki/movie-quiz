@@ -1,0 +1,156 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ],
+  "homepage": "",
+  "id": 836061,
+  "imdb_id": "tt10728214",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Songs for a Sloth",
+  "overview": "On the verge of a nervous breakdown, Maxwell meets a talking sloth in his dreams and becomes obsessed with saving the animal's habitat in his waking life by returning to his first passion of music.",
+  "popularity": 0.3404,
+  "poster_path": "/gbbSN8LibO791LIbKX95Ueisfih.jpg",
+  "production_companies": [],
+  "production_countries": [],
+  "release_date": "2021-06-15",
+  "revenue": 0,
+  "runtime": 85,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Songs for a Sloth",
+  "video": false,
+  "vote_average": 6,
+  "vote_count": 2,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3111570,
+        "known_for_department": "Acting",
+        "name": "Richard Hollman",
+        "original_name": "Richard Hollman",
+        "popularity": 0.0412,
+        "profile_path": null,
+        "cast_id": 2,
+        "character": "Maxwell",
+        "credit_id": "60b733ea57d378006f7761be",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1473140,
+        "known_for_department": "Acting",
+        "name": "Brian McCarthy",
+        "original_name": "Brian McCarthy",
+        "popularity": 0.3761,
+        "profile_path": "/udVafT4LmV4KsqpjYQRNpnhJ0I9.jpg",
+        "cast_id": 3,
+        "character": "Barney",
+        "credit_id": "60b73400abf8e2002bde0824",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1729333,
+        "known_for_department": "Acting",
+        "name": "Ava Eisenson",
+        "original_name": "Ava Eisenson",
+        "popularity": 0.3852,
+        "profile_path": "/yNqQhaTh9fx1mt7x4rQBnRdnO0g.jpg",
+        "cast_id": 4,
+        "character": "Jenna",
+        "credit_id": "60b7340d18b75100296bcb94",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 58737,
+        "known_for_department": "Acting",
+        "name": "Jack McBrayer",
+        "original_name": "Jack McBrayer",
+        "popularity": 2.026,
+        "profile_path": "/cbr26xDPEiOuYQxggtCPbu5xhDU.jpg",
+        "cast_id": 5,
+        "character": "Sloth",
+        "credit_id": "60b73439abf8e2006fb05380",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 457386,
+        "known_for_department": "Acting",
+        "name": "Arian Moayed",
+        "original_name": "Arian Moayed",
+        "popularity": 1.2571,
+        "profile_path": "/hYBqwt0HelUqgKSd1VDUAyvfDME.jpg",
+        "cast_id": 6,
+        "character": "Lawyer",
+        "credit_id": "616785f381c7be0065e5c9e6",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3111568,
+        "known_for_department": "Directing",
+        "name": "Bradley Hasse",
+        "original_name": "Bradley Hasse",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "cast_id": 7,
+        "character": "Lost Guest",
+        "credit_id": "6167860f9d592c00442549a4",
+        "order": 5
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3111568,
+        "known_for_department": "Directing",
+        "name": "Bradley Hasse",
+        "original_name": "Bradley Hasse",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "60b733ae7cffda006dbb414a",
+        "department": "Directing",
+        "job": "Director"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  }
+}

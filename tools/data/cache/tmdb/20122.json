@@ -1,0 +1,434 @@
+{
+  "adult": false,
+  "backdrop_path": "/m6sHDQ7Hsc2q3Tn5hMbWkTMIXup.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "",
+  "id": 20122,
+  "imdb_id": "tt0095475",
+  "origin_country": [
+    "HU"
+  ],
+  "original_language": "hu",
+  "original_title": "Kárhozat",
+  "overview": "Karrer plods his way through life in quiet desperation. His environment is drab and rainy and muddy. Eaten up with solitude, his hopelessness would be incurable but for the existence of the Titanik Bar and its beautiful, haunting singer. But the lady is married and Karrer is determined to keep her husband away...",
+  "popularity": 0.6248,
+  "poster_path": "/iW1WHmZEk9QTeY4qp7gjaDcCPDS.jpg",
+  "production_companies": [
+    {
+      "id": 28762,
+      "logo_path": null,
+      "name": "Mokép",
+      "origin_country": "HU"
+    },
+    {
+      "id": 3715,
+      "logo_path": null,
+      "name": "Hungarian Film Institute",
+      "origin_country": ""
+    },
+    {
+      "id": 3716,
+      "logo_path": null,
+      "name": "Hungarian Television",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "HU",
+      "name": "Hungary"
+    }
+  ],
+  "release_date": "1988-10-20",
+  "revenue": 0,
+  "runtime": 116,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Hungarian",
+      "iso_639_1": "hu",
+      "name": "Magyar"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Damnation",
+  "video": false,
+  "vote_average": 7.634,
+  "vote_count": 146,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 49673,
+        "known_for_department": "Acting",
+        "name": "Székely B. Miklós",
+        "original_name": "Székely B. Miklós",
+        "popularity": 0.3137,
+        "profile_path": "/82IjLmtqqv6sVf8j6vphi0kxBn7.jpg",
+        "cast_id": 6,
+        "character": "Karrer",
+        "credit_id": "52fe43d7c3a368484e00164d",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 42077,
+        "known_for_department": "Acting",
+        "name": "György Cserhalmi",
+        "original_name": "Cserhalmi György",
+        "popularity": 0.3775,
+        "profile_path": "/lI2Wqx1yIXEpmRlJ8JUw5D49ibg.jpg",
+        "cast_id": 3,
+        "character": "Sebestyén",
+        "credit_id": "52fe43d7c3a368484e001641",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 85639,
+        "known_for_department": "Acting",
+        "name": "Vali Kerekes",
+        "original_name": "Vali Kerekes",
+        "popularity": 0.0431,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "The Singer",
+        "credit_id": "52fe43d7c3a368484e001645",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 85640,
+        "known_for_department": "Acting",
+        "name": "Gyula Pauer",
+        "original_name": "Pauer Gyula",
+        "popularity": 0.1675,
+        "profile_path": "/radfLB93oMbGoYa4jrDYoqqX3kN.jpg",
+        "cast_id": 5,
+        "character": "Willarsky",
+        "credit_id": "52fe43d7c3a368484e001649",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 85641,
+        "known_for_department": "Acting",
+        "name": "Hédi Temessy",
+        "original_name": "Temessy Hédi",
+        "popularity": 0.2507,
+        "profile_path": "/1IuqZA6ar6h7nC2hsfPP3zMWSvA.jpg",
+        "cast_id": 7,
+        "character": "Cloakroom Attendant",
+        "credit_id": "52fe43d7c3a368484e001651",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2500877,
+        "known_for_department": "Crew",
+        "name": "Gábor Balogh",
+        "original_name": "Gábor Balogh",
+        "popularity": 0.123,
+        "profile_path": null,
+        "cast_id": 20,
+        "character": "",
+        "credit_id": "63fe4d0a9653f600db283a75",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3756300,
+        "known_for_department": "Acting",
+        "name": "János Balogh",
+        "original_name": "János Balogh",
+        "popularity": 0.08,
+        "profile_path": null,
+        "cast_id": 21,
+        "character": "",
+        "credit_id": "63fe4d129f1be7008ebd2f44",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3943219,
+        "known_for_department": "Acting",
+        "name": "Péter Breznyik Berg",
+        "original_name": "Péter Breznyik Berg",
+        "popularity": 0.0842,
+        "profile_path": null,
+        "cast_id": 22,
+        "character": "",
+        "credit_id": "63fe4d1bcf62cd009d194020",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3943220,
+        "known_for_department": "Acting",
+        "name": "Imre Chmelik",
+        "original_name": "Imre Chmelik",
+        "popularity": 0.0459,
+        "profile_path": null,
+        "cast_id": 23,
+        "character": "",
+        "credit_id": "63fe4d25cf62cd00811bc196",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1121234,
+        "known_for_department": "Acting",
+        "name": "János Gémes",
+        "original_name": "János Gémes",
+        "popularity": 0.0336,
+        "profile_path": null,
+        "cast_id": 24,
+        "character": "",
+        "credit_id": "63fe4d2c699fb7008f9b3c9c",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1458044,
+        "known_for_department": "Acting",
+        "name": "Ágnes Kamondy",
+        "original_name": "Kamondy Ágnes",
+        "popularity": 0.0496,
+        "profile_path": "/mMMNSQ9eBwHzK3GJ8ZTMwOcLmJp.jpg",
+        "cast_id": 25,
+        "character": "",
+        "credit_id": "63fe4d36c7176d0081880f9a",
+        "order": 10
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 85638,
+        "known_for_department": "Writing",
+        "name": "László Krasznahorkai",
+        "original_name": "Krasznahorkai László",
+        "popularity": 0.2333,
+        "profile_path": "/rjAOiLVgwiB4yq4Mumk3CZn1g6l.jpg",
+        "credit_id": "52fe43d7c3a368484e00163d",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 85637,
+        "known_for_department": "Directing",
+        "name": "Béla Tarr",
+        "original_name": "Tarr Béla",
+        "popularity": 0.626,
+        "profile_path": "/71o40gwwvIeyI52KvIobGqGteXX.jpg",
+        "credit_id": "52fe43d7c3a368484e001657",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 85637,
+        "known_for_department": "Directing",
+        "name": "Béla Tarr",
+        "original_name": "Tarr Béla",
+        "popularity": 0.626,
+        "profile_path": "/71o40gwwvIeyI52KvIobGqGteXX.jpg",
+        "credit_id": "52fe43d7c3a368484e001637",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1853350,
+        "known_for_department": "Camera",
+        "name": "József Mezö",
+        "original_name": "József Mezö",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "63fe4d82c7176d0081880fb4",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1853350,
+        "known_for_department": "Camera",
+        "name": "József Mezö",
+        "original_name": "József Mezö",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "596d136b92514108d0003c64",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1086291,
+        "known_for_department": "Camera",
+        "name": "Gábor Medvigy",
+        "original_name": "Gábor Medvigy",
+        "popularity": 0.1697,
+        "profile_path": null,
+        "credit_id": "596d12639251410a3100387f",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 107858,
+        "known_for_department": "Editing",
+        "name": "Ágnes Hranitzky",
+        "original_name": "Ágnes Hranitzky",
+        "popularity": 0.1253,
+        "profile_path": "/lmuWx37D1sjx0RQR53bbk1Og86G.jpg",
+        "credit_id": "596d12f792514108930039f8",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 85640,
+        "known_for_department": "Acting",
+        "name": "Gyula Pauer",
+        "original_name": "Pauer Gyula",
+        "popularity": 0.1675,
+        "profile_path": "/radfLB93oMbGoYa4jrDYoqqX3kN.jpg",
+        "credit_id": "596d1345c3a36829da003bc4",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 85640,
+        "known_for_department": "Acting",
+        "name": "Gyula Pauer",
+        "original_name": "Pauer Gyula",
+        "popularity": 0.1675,
+        "profile_path": "/radfLB93oMbGoYa4jrDYoqqX3kN.jpg",
+        "credit_id": "596d134d9251410a120038fa",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 224340,
+        "known_for_department": "Sound",
+        "name": "Mihály Víg",
+        "original_name": "Mihály Víg",
+        "popularity": 0.2078,
+        "profile_path": "/71v1NmDSD4i8ZJVNIkbvcwzVMs4.jpg",
+        "credit_id": "596d11fe92514108d0003b3a",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 107858,
+        "known_for_department": "Editing",
+        "name": "Ágnes Hranitzky",
+        "original_name": "Ágnes Hranitzky",
+        "popularity": 0.1253,
+        "profile_path": "/lmuWx37D1sjx0RQR53bbk1Og86G.jpg",
+        "credit_id": "596d13609251410893003a53",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1853349,
+        "known_for_department": "Directing",
+        "name": "János Hollós",
+        "original_name": "János Hollós",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "596d1357c3a3682a5c003918",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1141728,
+        "known_for_department": "Production",
+        "name": "József Marx",
+        "original_name": "József Marx",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "596d11f6c3a36829da003a9b",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1972409,
+        "known_for_department": "Sound",
+        "name": "Tamás Márkus",
+        "original_name": "Tamás Márkus",
+        "popularity": 0.0281,
+        "profile_path": null,
+        "credit_id": "5a765dbb92514105a603ba8a",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1602337,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Edit Basilides",
+        "original_name": "Basilides Edit",
+        "popularity": 0.0655,
+        "profile_path": null,
+        "credit_id": "5a8ffc570e0a26399800ed11",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "US",
+        "title": "Damnation",
+        "type": ""
+      }
+    ]
+  }
+}

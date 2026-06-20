@@ -1,0 +1,626 @@
+{
+  "adult": false,
+  "backdrop_path": "/kyDesXA3VEx74ua1ZGAoYmzvjCc.jpg",
+  "belongs_to_collection": null,
+  "budget": 2300000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 14886,
+  "imdb_id": "tt0070290",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Last Detail",
+  "overview": "Two Navy men are ordered to bring a young offender to prison, but decide to show him one last good time along the way.",
+  "popularity": 1.4585,
+  "poster_path": "/zQoNkO99qfaBjh5aoA0pKau1prp.jpg",
+  "production_companies": [
+    {
+      "id": 2992,
+      "logo_path": null,
+      "name": "Acrobat Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 2993,
+      "logo_path": null,
+      "name": "Bright-Persky Associates",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1973-12-11",
+  "revenue": 10000000,
+  "runtime": 104,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "No *#@!!* Navy’s going to give some poor **!!@* kid eight years in the #@!* brig without me taking him out for the time of his *#@!!* life.",
+  "title": "The Last Detail",
+  "video": false,
+  "vote_average": 7.046,
+  "vote_count": 415,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 514,
+        "known_for_department": "Acting",
+        "name": "Jack Nicholson",
+        "original_name": "Jack Nicholson",
+        "popularity": 2.1966,
+        "profile_path": "/hBHcQIEa6P48HQAlLZkh0eKSSkG.jpg",
+        "cast_id": 1,
+        "character": "Buddusky",
+        "credit_id": "52fe46249251416c7506e9a3",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 77483,
+        "known_for_department": "Acting",
+        "name": "Otis Young",
+        "original_name": "Otis Young",
+        "popularity": 0.2934,
+        "profile_path": "/zZZLKulROmjY28HKlv0Eum70snJ.jpg",
+        "cast_id": 2,
+        "character": "Mulhall",
+        "credit_id": "52fe46249251416c7506e9a7",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1811,
+        "known_for_department": "Acting",
+        "name": "Randy Quaid",
+        "original_name": "Randy Quaid",
+        "popularity": 1.6164,
+        "profile_path": "/rGWvDokcMLIwck10dKIutSoTM9r.jpg",
+        "cast_id": 3,
+        "character": "Meadows",
+        "credit_id": "52fe46249251416c7506e9ab",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 10224,
+        "known_for_department": "Acting",
+        "name": "Clifton James",
+        "original_name": "Clifton James",
+        "popularity": 0.9817,
+        "profile_path": "/4XRoVhgoeQEZdg4BAKCWRkI1UfR.jpg",
+        "cast_id": 4,
+        "character": "M. A. A.",
+        "credit_id": "52fe46249251416c7506e9af",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 10556,
+        "known_for_department": "Acting",
+        "name": "Carol Kane",
+        "original_name": "Carol Kane",
+        "popularity": 2.0447,
+        "profile_path": "/dm3Ci8XuVYZBqqlYtaLgth94VUe.jpg",
+        "cast_id": 5,
+        "character": "Young Whore",
+        "credit_id": "52fe46249251416c7506e9b3",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 21030,
+        "known_for_department": "Acting",
+        "name": "Michael Moriarty",
+        "original_name": "Michael Moriarty",
+        "popularity": 1.2532,
+        "profile_path": "/2EY162LDxpVVG6g10lm70uxkNJp.jpg",
+        "cast_id": 6,
+        "character": "Marine O. D.",
+        "credit_id": "52fe46249251416c7506e9b7",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 77485,
+        "known_for_department": "Acting",
+        "name": "Luana Anders",
+        "original_name": "Luana Anders",
+        "popularity": 0.7954,
+        "profile_path": "/opeNjMejxVUtlHvjO8QW2LLzpVr.jpg",
+        "cast_id": 7,
+        "character": "Donna",
+        "credit_id": "52fe46249251416c7506e9bb",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 42166,
+        "known_for_department": "Acting",
+        "name": "Kathleen Miller",
+        "original_name": "Kathleen Miller",
+        "popularity": 0.1336,
+        "profile_path": "/7l8sELhYIizxIXpHiFVFWlETB1a.jpg",
+        "cast_id": 8,
+        "character": "Annette",
+        "credit_id": "52fe46249251416c7506e9bf",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 44038,
+        "known_for_department": "Acting",
+        "name": "Nancy Allen",
+        "original_name": "Nancy Allen",
+        "popularity": 1.1259,
+        "profile_path": "/lgCqBlGhgxTNINoYeDhxhLUuLf.jpg",
+        "cast_id": 9,
+        "character": "Nancy",
+        "credit_id": "52fe46249251416c7506e9c3",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 77486,
+        "known_for_department": "Acting",
+        "name": "Gerry Salsberg",
+        "original_name": "Gerry Salsberg",
+        "popularity": 0.2218,
+        "profile_path": null,
+        "cast_id": 10,
+        "character": "Henry",
+        "credit_id": "52fe46249251416c7506e9c7",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2189403,
+        "known_for_department": "Acting",
+        "name": "Don McGovern",
+        "original_name": "Don McGovern",
+        "popularity": 0.1651,
+        "profile_path": "/4AlTZ014ZA8RTejR6PkCnlmPSWL.jpg",
+        "cast_id": 28,
+        "character": "Bartender",
+        "credit_id": "5c08353b0e0a2636ce11ffa1",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 93643,
+        "known_for_department": "Acting",
+        "name": "Patricia Hamilton",
+        "original_name": "Patricia Hamilton",
+        "popularity": 0.4274,
+        "profile_path": "/7XpPnfqrSFeQTj750wkpFvcG6g2.jpg",
+        "cast_id": 26,
+        "character": "Madame",
+        "credit_id": "5b63e585c3a3681886052919",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1044,
+        "known_for_department": "Camera",
+        "name": "Michael Chapman",
+        "original_name": "Michael Chapman",
+        "popularity": 0.5036,
+        "profile_path": "/vFFWHlwwIgWoi2NPoVq3uzikCnM.jpg",
+        "cast_id": 29,
+        "character": "Taxi Driver",
+        "credit_id": "5c0835990e0a26360e11a775",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 29472,
+        "known_for_department": "Writing",
+        "name": "Jim Henshaw",
+        "original_name": "Jim Henshaw",
+        "popularity": 0.3859,
+        "profile_path": "/3kAnTUvfAIxkj8okcVxdhhaZ9fP.jpg",
+        "cast_id": 30,
+        "character": "Sweek",
+        "credit_id": "5c0835b0c3a3686476139093",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 46949,
+        "known_for_department": "Acting",
+        "name": "Gilda Radner",
+        "original_name": "Gilda Radner",
+        "popularity": 0.511,
+        "profile_path": "/2d7YlVgZmwGKcBNYDHFSQxMv1hf.jpg",
+        "cast_id": 25,
+        "character": "Nichiren Shoshu Member",
+        "credit_id": "59ced2169251412ef3006be4",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1212317,
+        "known_for_department": "Acting",
+        "name": "Derek McGrath",
+        "original_name": "Derek McGrath",
+        "popularity": 0.9131,
+        "profile_path": "/y1Skje5GY1XwAI3ZksGKQUaXjd1.jpg",
+        "cast_id": 31,
+        "character": "Nichiren Shoshu Member",
+        "credit_id": "5c0835c10e0a2633a6115a05",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 92920,
+        "known_for_department": "Acting",
+        "name": "Jim Horn",
+        "original_name": "Jim Horn",
+        "popularity": 0.0338,
+        "profile_path": null,
+        "cast_id": 32,
+        "character": "Nichiren Shoshu Member",
+        "credit_id": "5c0835f49251417e550b8c43",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2189409,
+        "known_for_department": "Acting",
+        "name": "John Castellano",
+        "original_name": "John Castellano",
+        "popularity": 0.0168,
+        "profile_path": null,
+        "cast_id": 33,
+        "character": "Nichiren Shoshu Member",
+        "credit_id": "5c08360d925141108010de39",
+        "order": 17
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4964,
+        "known_for_department": "Directing",
+        "name": "Hal Ashby",
+        "original_name": "Hal Ashby",
+        "popularity": 0.5642,
+        "profile_path": "/1HyNkJfL7gB50Tn0MWjvV6vfZcV.jpg",
+        "credit_id": "52fe46249251416c7506e9d1",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 11057,
+        "known_for_department": "Writing",
+        "name": "Robert Towne",
+        "original_name": "Robert Towne",
+        "popularity": 0.9051,
+        "profile_path": "/pc1bpO4nljMqvz0P8A9nC6fZa1.jpg",
+        "credit_id": "52fe46249251416c7506e9d7",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 66113,
+        "known_for_department": "Writing",
+        "name": "Darryl Ponicsan",
+        "original_name": "Darryl Ponicsan",
+        "popularity": 0.3317,
+        "profile_path": "/vlOTNdjJj1P9s9oNYgPcfnuE3py.jpg",
+        "credit_id": "52fe46249251416c7506e9dd",
+        "department": "Writing",
+        "job": "Novel"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 77489,
+        "known_for_department": "Writing",
+        "name": "Gerald Ayres",
+        "original_name": "Gerald Ayres",
+        "popularity": 0.1128,
+        "profile_path": null,
+        "credit_id": "52fe46249251416c7506e9e9",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 77491,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Theodore R. Parvin",
+        "original_name": "Theodore R. Parvin",
+        "popularity": 0.0741,
+        "profile_path": null,
+        "credit_id": "52fe46259251416c7506ea0d",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4982,
+        "known_for_department": "Art",
+        "name": "Michael D. Haller",
+        "original_name": "Michael D. Haller",
+        "popularity": 0.2278,
+        "profile_path": null,
+        "credit_id": "52fe46259251416c7506ea07",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 21012,
+        "known_for_department": "Editing",
+        "name": "Robert C. Jones",
+        "original_name": "Robert C. Jones",
+        "popularity": 0.2996,
+        "profile_path": null,
+        "credit_id": "52fe46259251416c7506e9fb",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 77492,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Maureen Sweeney",
+        "original_name": "Maureen Sweeney",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "52fe46259251416c7506ea13",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1263,
+        "known_for_department": "Production",
+        "name": "Lynn Stalmaster",
+        "original_name": "Lynn Stalmaster",
+        "popularity": 0.6304,
+        "profile_path": "/sEV79Z5O7Gyk13C2WqPw5KCuEfA.jpg",
+        "credit_id": "52fe46259251416c7506ea01",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1044,
+        "known_for_department": "Camera",
+        "name": "Michael Chapman",
+        "original_name": "Michael Chapman",
+        "popularity": 0.5036,
+        "profile_path": "/vFFWHlwwIgWoi2NPoVq3uzikCnM.jpg",
+        "credit_id": "569f683fc3a36858dc009506",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 9796,
+        "known_for_department": "Sound",
+        "name": "Johnny Mandel",
+        "original_name": "Johnny Mandel",
+        "popularity": 0.1913,
+        "profile_path": "/35RGpMUi75TzIJsP7svkerQDvA7.jpg",
+        "credit_id": "665f1c9cb4a6ae791f9d7e30",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1630221,
+        "known_for_department": "Directing",
+        "name": "Alan Hopkins",
+        "original_name": "Alan Hopkins",
+        "popularity": 0.2279,
+        "profile_path": null,
+        "credit_id": "64cff7ba303c8500ade4892b",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1576382,
+        "known_for_department": "Sound",
+        "name": "Tom Overton",
+        "original_name": "Tom Overton",
+        "popularity": 0.12,
+        "profile_path": null,
+        "credit_id": "69642702c3e336b703d8c3c8",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3105,
+        "known_for_department": "Sound",
+        "name": "Richard Portman",
+        "original_name": "Richard Portman",
+        "popularity": 0.5553,
+        "profile_path": null,
+        "credit_id": "6964270ec27e7664a0dc47a1",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3179,
+        "known_for_department": "Sound",
+        "name": "George Brand",
+        "original_name": "George Brand",
+        "popularity": 0.1398,
+        "profile_path": null,
+        "credit_id": "6964271b69c576f47ddc4621",
+        "department": "Sound",
+        "job": "Music Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 65351,
+        "known_for_department": "Editing",
+        "name": "Robert Barrere",
+        "original_name": "Robert Barrere",
+        "popularity": 0.0829,
+        "profile_path": null,
+        "credit_id": "69642735f39403b5dbdb1e6d",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3222,
+        "known_for_department": "Production",
+        "name": "Charles Mulvehill",
+        "original_name": "Charles Mulvehill",
+        "popularity": 0.2836,
+        "profile_path": null,
+        "credit_id": "6964276e5a4b701064934557",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1807223,
+        "known_for_department": "Directing",
+        "name": "Bob Forrest",
+        "original_name": "Bob Forrest",
+        "popularity": 0.0866,
+        "profile_path": null,
+        "credit_id": "6964278e578d434f69934490",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1894052,
+        "known_for_department": "Directing",
+        "name": "Wes McAfee",
+        "original_name": "Wes McAfee",
+        "popularity": 0.1118,
+        "profile_path": null,
+        "credit_id": "696427c0578d434f69934493",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1493148,
+        "known_for_department": "Directing",
+        "name": "Gordon Robinson",
+        "original_name": "Gordon Robinson",
+        "popularity": 0.0961,
+        "profile_path": null,
+        "credit_id": "696427e9409cb929e87b1638",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "ES",
+        "title": "El último deber",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "DE",
+        "title": "Das letzte Kommando",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "PT",
+        "title": "O último dever",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "IT",
+        "title": "L'ultima corvè",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "FR",
+        "title": "La dernière corvée",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "BR",
+        "title": "A última missão",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "NL",
+        "title": "Hun Laatste Corvee",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "BG",
+        "title": "Последният детайл",
+        "type": ""
+      }
+    ]
+  }
+}

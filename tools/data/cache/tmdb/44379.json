@@ -1,0 +1,292 @@
+{
+  "adult": false,
+  "backdrop_path": "/yvafnYvrxnwD3MrXcc18sUrkHqU.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "",
+  "id": 44379,
+  "imdb_id": "tt0247380",
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "Les Glaneurs et la Glaneuse",
+  "overview": "Varda focuses her eye on gleaners: those who scour already-reaped fields for the odd potato or turnip. Her investigation leads from forgotten corners of the French countryside to off-hours at the green markets of Paris, following those who insist on finding a use for that which society has cast off, whether out of necessity or activism.",
+  "popularity": 1.2576,
+  "poster_path": "/6IdCTKi4Eu7i897jpe59wIDGCri.jpg",
+  "production_companies": [
+    {
+      "id": 14683,
+      "logo_path": "/oqpU5dX9DlN3YB96NdsNXknJhcl.png",
+      "name": "Ciné-Tamaris",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "2000-07-07",
+  "revenue": 0,
+  "runtime": 82,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Gleaners and I",
+  "video": false,
+  "vote_average": 7.6,
+  "vote_count": 223,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 6817,
+        "known_for_department": "Directing",
+        "name": "Agnès Varda",
+        "original_name": "Agnès Varda",
+        "popularity": 0.863,
+        "profile_path": "/sZol5QAmWvpopzAPbSxhoSc1DOe.jpg",
+        "cast_id": 4,
+        "character": "Self",
+        "credit_id": "52fe4685c3a36847f8103a77",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 147063,
+        "known_for_department": "Acting",
+        "name": "Bodan Litnanski",
+        "original_name": "Bodan Litnanski",
+        "popularity": 0.0509,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "Self",
+        "credit_id": "52fe4685c3a36847f8103a73",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 147064,
+        "known_for_department": "Sound",
+        "name": "François Wertheimer",
+        "original_name": "François Wertheimer",
+        "popularity": 0.1073,
+        "profile_path": "/1G50lrfqKO4tKRIVmjAuTs2Sk2b.jpg",
+        "cast_id": 5,
+        "character": "Self",
+        "credit_id": "52fe4685c3a36847f8103a7b",
+        "order": 2
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 6817,
+        "known_for_department": "Directing",
+        "name": "Agnès Varda",
+        "original_name": "Agnès Varda",
+        "popularity": 0.863,
+        "profile_path": "/sZol5QAmWvpopzAPbSxhoSc1DOe.jpg",
+        "credit_id": "52fe4685c3a36847f8103a6f",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 6817,
+        "known_for_department": "Directing",
+        "name": "Agnès Varda",
+        "original_name": "Agnès Varda",
+        "popularity": 0.863,
+        "profile_path": "/sZol5QAmWvpopzAPbSxhoSc1DOe.jpg",
+        "credit_id": "52fe4685c3a36847f8103a69",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1505714,
+        "known_for_department": "Sound",
+        "name": "Isabelle Olivier",
+        "original_name": "Isabelle Olivier",
+        "popularity": 0.0306,
+        "profile_path": null,
+        "credit_id": "5a7d4e870e0a263e790027ae",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1974856,
+        "known_for_department": "Editing",
+        "name": "Laurent Pineau",
+        "original_name": "Laurent Pineau",
+        "popularity": 0.0261,
+        "profile_path": null,
+        "credit_id": "5a7d4e74c3a368447d00247c",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 6817,
+        "known_for_department": "Directing",
+        "name": "Agnès Varda",
+        "original_name": "Agnès Varda",
+        "popularity": 0.863,
+        "profile_path": "/sZol5QAmWvpopzAPbSxhoSc1DOe.jpg",
+        "credit_id": "5a7d4ee7c3a36844680026dc",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1598833,
+        "known_for_department": "Camera",
+        "name": "Didier Doussin",
+        "original_name": "Didier Doussin",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "5a7d4ea79251415509002440",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 6817,
+        "known_for_department": "Directing",
+        "name": "Agnès Varda",
+        "original_name": "Agnès Varda",
+        "popularity": 0.863,
+        "profile_path": "/sZol5QAmWvpopzAPbSxhoSc1DOe.jpg",
+        "credit_id": "5a7d4e55c3a3684481002400",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1605716,
+        "known_for_department": "Camera",
+        "name": "Pascal Sautelet",
+        "original_name": "Pascal Sautelet",
+        "popularity": 0.0327,
+        "profile_path": null,
+        "credit_id": "5a7d4eda0e0a263e79002808",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1501039,
+        "known_for_department": "Camera",
+        "name": "Stéphane Krausz",
+        "original_name": "Stéphane Krausz",
+        "popularity": 0.093,
+        "profile_path": null,
+        "credit_id": "5a7d4eba9251415501002334",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1345865,
+        "known_for_department": "Editing",
+        "name": "Jean-Baptiste Morin",
+        "original_name": "Jean-Baptiste Morin",
+        "popularity": 0.08,
+        "profile_path": null,
+        "credit_id": "5a7d4e650e0a263e79002787",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1536671,
+        "known_for_department": "Sound",
+        "name": "Joanna Bruzdowicz",
+        "original_name": "Joanna Bruzdowicz",
+        "popularity": 0.1068,
+        "profile_path": null,
+        "credit_id": "5a7d4e990e0a263e85002874",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1974857,
+        "known_for_department": "Camera",
+        "name": "Didier Rouget",
+        "original_name": "Didier Rouget",
+        "popularity": 0.1738,
+        "profile_path": null,
+        "credit_id": "5a7d4ec60e0a263e7c00296b",
+        "department": "Camera",
+        "job": "Director of Photography"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "KR",
+        "title": "이삭 줍는 사람들과 나",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "TW",
+        "title": "艾格妮撿風景",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "UA",
+        "title": "Збирачі і збирачка",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "GB",
+        "title": "The Gleaners and I",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "JP",
+        "title": "Ochibo Hiroi",
+        "type": "transliterated title"
+      },
+      {
+        "iso_3166_1": "UY",
+        "title": "Los hurgadores y yo",
+        "type": "original subtitled version"
+      }
+    ]
+  }
+}

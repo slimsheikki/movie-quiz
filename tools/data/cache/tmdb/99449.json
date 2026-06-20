@@ -1,0 +1,721 @@
+{
+  "adult": false,
+  "backdrop_path": "/alrN6vXAYF8jpufHnfUzUXdIHiQ.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "",
+  "id": 99449,
+  "imdb_id": "tt0067236",
+  "origin_country": [
+    "IT"
+  ],
+  "original_language": "it",
+  "original_title": "L'iguana dalla lingua di fuoco",
+  "overview": "In Dublin, the acid-scarred, razor-slashed corpse of a young woman is discovered in the boot of the Swiss Ambassador's limousine.  The Ambassador, his family and employees all become immediate suspects.  Faced with the problem of diplomatic immunity, the police officer in charge of the case brings in John Norton, an ex-Inspector known for his brutal methods, to carry out an \"unoffical\" investigation.  While Norton develops a relationship with the Ambassdor's attractive daughter, several more gruesome murders occur...",
+  "popularity": 0.4767,
+  "poster_path": "/dA8NnCvQ2yfAyBXp8eqASlGDcGL.jpg",
+  "production_companies": [
+    {
+      "id": 1798,
+      "logo_path": null,
+      "name": "Oceania Film",
+      "origin_country": "IT"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    },
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "release_date": "1971-08-24",
+  "revenue": 0,
+  "runtime": 92,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Iguana with the Tongue of Fire",
+  "video": false,
+  "vote_average": 5.268,
+  "vote_count": 41,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5814,
+        "known_for_department": "Acting",
+        "name": "Luigi Pistilli",
+        "original_name": "Luigi Pistilli",
+        "popularity": 0.9135,
+        "profile_path": "/bH5vmD2CMBHzJyBe0P0bL6iTUNL.jpg",
+        "cast_id": 24,
+        "character": "ex-Inspector John Norton",
+        "credit_id": "5eed97f2bd990c0035fdad59",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 46636,
+        "known_for_department": "Acting",
+        "name": "Dagmar Lassander",
+        "original_name": "Dagmar Lassander",
+        "popularity": 1.0025,
+        "profile_path": "/giX4Fft7yaZ1i5ZYeVtKqGoxuuu.jpg",
+        "cast_id": 25,
+        "character": "Helene Sobieski",
+        "credit_id": "5eed981f9661fc0036637a2c",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 97935,
+        "known_for_department": "Acting",
+        "name": "Anton Diffring",
+        "original_name": "Anton Diffring",
+        "popularity": 0.6338,
+        "profile_path": "/s8F9KMn19frd92s62pxW3lBMTxY.jpg",
+        "cast_id": 26,
+        "character": "Ambassador Sobieski",
+        "credit_id": "5eed98640f1e580034b772bc",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 31719,
+        "known_for_department": "Acting",
+        "name": "Arthur O'Sullivan",
+        "original_name": "Arthur O'Sullivan",
+        "popularity": 0.1767,
+        "profile_path": null,
+        "cast_id": 27,
+        "character": "Inspector Lawrence",
+        "credit_id": "5eed98f1b84cdd003331619a",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 36890,
+        "known_for_department": "Acting",
+        "name": "Werner Pochath",
+        "original_name": "Werner Pochath",
+        "popularity": 0.5513,
+        "profile_path": "/lGT6Cs0v5BdZg93rcjkdGDtADsp.jpg",
+        "cast_id": 28,
+        "character": "Marc Sobieski (as Werner Pochat)",
+        "credit_id": "5eed998c134d58003827b3c0",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 107279,
+        "known_for_department": "Acting",
+        "name": "Dominique Boschero",
+        "original_name": "Dominique Boschero",
+        "popularity": 0.4691,
+        "profile_path": "/kWW2f2CJQNCDk6oj7CCQj5Ti7yD.jpg",
+        "cast_id": 29,
+        "character": "Ambassador Sobieski's mistress",
+        "credit_id": "5eed99e49661fc00355e8542",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 31546,
+        "known_for_department": "Acting",
+        "name": "Renato Romano",
+        "original_name": "Renato Romano",
+        "popularity": 0.3459,
+        "profile_path": "/bq8RQPRY8LBBKxg3GqX7hT8axjr.jpg",
+        "cast_id": 30,
+        "character": "Mandel, the chauffeur",
+        "credit_id": "5eed9a24b0460500340d9f16",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 43239,
+        "known_for_department": "Acting",
+        "name": "Sergio Doria",
+        "original_name": "Sergio Doria",
+        "popularity": 0.1907,
+        "profile_path": null,
+        "cast_id": 31,
+        "character": "Walter",
+        "credit_id": "5eed9a4fc5ada50031d929a8",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2095897,
+        "known_for_department": "Acting",
+        "name": "Ruth Durley",
+        "original_name": "Ruth Durley",
+        "popularity": 0.0404,
+        "profile_path": null,
+        "cast_id": 32,
+        "character": "Norton's mother",
+        "credit_id": "5eed9a750f1e580036b683a5",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 24499,
+        "known_for_department": "Acting",
+        "name": "Valentina Cortese",
+        "original_name": "Valentina Cortese",
+        "popularity": 0.8138,
+        "profile_path": "/zk2upnCba1NBo3ueIKykcYQ1Gzk.jpg",
+        "cast_id": 33,
+        "character": "Madame Sobieski",
+        "credit_id": "5eed9ab0134d58003827b4dc",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 228257,
+        "known_for_department": "Acting",
+        "name": "Emmet Bergin",
+        "original_name": "Emmet Bergin",
+        "popularity": 0.1608,
+        "profile_path": null,
+        "cast_id": 34,
+        "character": "Man in café (uncredited)",
+        "credit_id": "5eed9aceb84cdd00362fb378",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 140230,
+        "known_for_department": "Acting",
+        "name": "Niall Tóibín",
+        "original_name": "Niall Tóibín",
+        "popularity": 0.5033,
+        "profile_path": "/gWIVPjTihFpmCbTqMwEc81dKVsz.jpg",
+        "cast_id": 35,
+        "character": "Doctor (uncredited)",
+        "credit_id": "5eed9b07b04605003609ff91",
+        "order": 11
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2684851,
+        "known_for_department": "Production",
+        "name": "Ennio Nobili",
+        "original_name": "Ennio Nobili",
+        "popularity": 0.0646,
+        "profile_path": null,
+        "credit_id": "5eed9f72c5ada50033dacdc1",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2684852,
+        "known_for_department": "Production",
+        "name": "Giuseppe Chevalier",
+        "original_name": "Giuseppe Chevalier",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "5eed9fffb84cdd00352d709c",
+        "department": "Production",
+        "job": "Production Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2684855,
+        "known_for_department": "Production",
+        "name": "Alfonso Donati",
+        "original_name": "Alfonso Donati",
+        "popularity": 0.053,
+        "profile_path": null,
+        "credit_id": "5eeda098bd990c0037012bde",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2684842,
+        "known_for_department": "Writing",
+        "name": "Günter Ebert",
+        "original_name": "Günter Ebert",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "5eed9bffbd990c0035fdb6a8",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 37197,
+        "known_for_department": "Directing",
+        "name": "Riccardo Freda",
+        "original_name": "Riccardo Freda",
+        "popularity": 0.3591,
+        "profile_path": "/4LpLM4IpQ8UulXFF4btbhEj0LP0.jpg",
+        "credit_id": "5eed9fe0b84cdd00333173f4",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 234116,
+        "known_for_department": "Acting",
+        "name": "Fritz Hammel",
+        "original_name": "Fritz Hammel",
+        "popularity": 0.2309,
+        "profile_path": null,
+        "credit_id": "5eeda0ee0f1e580037ba6671",
+        "department": "Production",
+        "job": "Unit Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 32350,
+        "known_for_department": "Art",
+        "name": "Franco Fumagalli",
+        "original_name": "Franco Fumagalli",
+        "popularity": 0.101,
+        "profile_path": null,
+        "credit_id": "5eeda0c7b0460500350fa83a",
+        "department": "Production",
+        "job": "Unit Manager"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 29501,
+        "known_for_department": "Sound",
+        "name": "Stelvio Cipriani",
+        "original_name": "Stelvio Cipriani",
+        "popularity": 0.1588,
+        "profile_path": "/qtrsEv285HuZnGqHrBpCVLhT71S.jpg",
+        "credit_id": "5eed9fa4b0460500350fa725",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1639049,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Lamberto Marini",
+        "original_name": "Lamberto Marini",
+        "popularity": 0.0568,
+        "profile_path": null,
+        "credit_id": "5eeda07db0460500340da4d9",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 37197,
+        "known_for_department": "Directing",
+        "name": "Riccardo Freda",
+        "original_name": "Riccardo Freda",
+        "popularity": 0.3591,
+        "profile_path": "/4LpLM4IpQ8UulXFF4btbhEj0LP0.jpg",
+        "credit_id": "5eed9b72bd990c0036fe932d",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 31546,
+        "known_for_department": "Acting",
+        "name": "Renato Romano",
+        "original_name": "Renato Romano",
+        "popularity": 0.3459,
+        "profile_path": "/bq8RQPRY8LBBKxg3GqX7hT8axjr.jpg",
+        "credit_id": "5eed9ef7b0460500350f9ee2",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 40532,
+        "known_for_department": "Production",
+        "name": "Robert Dorfmann",
+        "original_name": "Robert Dorfmann",
+        "popularity": 0.1722,
+        "profile_path": "/xggAYmIALeMYjAcWdjtdQ28wWmi.jpg",
+        "credit_id": "5eed9f58b0460500350f9f5c",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1598651,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Nadia Vitali",
+        "original_name": "Nadia Vitali",
+        "popularity": 0.0914,
+        "profile_path": null,
+        "credit_id": "5eeda054b0460500350fa7c7",
+        "department": "Costume & Make-Up",
+        "job": "Costume Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 21228,
+        "known_for_department": "Writing",
+        "name": "Sandro Continenza",
+        "original_name": "Sandro Continenza",
+        "popularity": 0.5032,
+        "profile_path": null,
+        "credit_id": "5eed9bc59661fc00366386d4",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1116368,
+        "known_for_department": "Writing",
+        "name": "André Tranché",
+        "original_name": "André Tranché",
+        "popularity": 0.0742,
+        "profile_path": null,
+        "credit_id": "5eed9f170f1e580037ba6365",
+        "department": "Writing",
+        "job": "Dialogue"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2684850,
+        "known_for_department": "Writing",
+        "name": "Richard Mann",
+        "original_name": "Richard Mann",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "5eed9f31b84cdd00333172b1",
+        "department": "Writing",
+        "job": "Novel"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 49901,
+        "known_for_department": "Camera",
+        "name": "Silvano Ippoliti",
+        "original_name": "Silvano Ippoliti",
+        "popularity": 0.1906,
+        "profile_path": null,
+        "credit_id": "5eed9fc4134d58003827c18f",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2684852,
+        "known_for_department": "Production",
+        "name": "Giuseppe Chevalier",
+        "original_name": "Giuseppe Chevalier",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "5eeda021b0460500350fa7ae",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 37197,
+        "known_for_department": "Directing",
+        "name": "Riccardo Freda",
+        "original_name": "Riccardo Freda",
+        "popularity": 0.3591,
+        "profile_path": "/4LpLM4IpQ8UulXFF4btbhEj0LP0.jpg",
+        "credit_id": "5eed9b9d0f1e580035b8d7f6",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1600994,
+        "known_for_department": "Directing",
+        "name": "Leo Jahn",
+        "original_name": "Leo Jahn",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "5eeda145c5ada50033dad159",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1125594,
+        "known_for_department": "Camera",
+        "name": "Enrico Sasso",
+        "original_name": "Enrico Sasso",
+        "popularity": 0.1097,
+        "profile_path": null,
+        "credit_id": "5eeda369b84cdd00352d79aa",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2338639,
+        "known_for_department": "Camera",
+        "name": "Mario Mazzoni",
+        "original_name": "Mario Mazzoni",
+        "popularity": 0.089,
+        "profile_path": null,
+        "credit_id": "5eeda343134d58003b26bee7",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2330187,
+        "known_for_department": "Camera",
+        "name": "Ennio Marzocchini",
+        "original_name": "Ennio Marzocchini",
+        "popularity": 0.0472,
+        "profile_path": null,
+        "credit_id": "5eeda241b84cdd00333177ad",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1582749,
+        "known_for_department": "Sound",
+        "name": "Aldo De Martino",
+        "original_name": "Aldo De Martino",
+        "popularity": 0.1071,
+        "profile_path": null,
+        "credit_id": "5eeda1f09661fc0036639810",
+        "department": "Sound",
+        "job": "Sound Engineer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1826996,
+        "known_for_department": "Directing",
+        "name": "Vivalda Vigorelli",
+        "original_name": "Vivalda Vigorelli",
+        "popularity": 0.0902,
+        "profile_path": null,
+        "credit_id": "5eeda3c3134d58003827d5ad",
+        "department": "Directing",
+        "job": "Continuity"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1588262,
+        "known_for_department": "Sound",
+        "name": "Nick Alexander",
+        "original_name": "Nick Alexander",
+        "popularity": 0.2036,
+        "profile_path": null,
+        "credit_id": "5eeda1beb0460500340da67f",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 30824,
+        "known_for_department": "Editing",
+        "name": "Bruno Micheli",
+        "original_name": "Bruno Micheli",
+        "popularity": 0.0709,
+        "profile_path": "/27tG4V38hvpEm7k937Qm3zkZm70.jpg",
+        "credit_id": "5eeda387134d58003b26bf32",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      },
+      {
+        "adult": true,
+        "gender": 2,
+        "id": 1130052,
+        "known_for_department": "Camera",
+        "name": "Renato Doria",
+        "original_name": "Renato Doria",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "5eeda21e0f1e580037ba68a3",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2618521,
+        "known_for_department": "Camera",
+        "name": "Leo Massa",
+        "original_name": "Leo Massa",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "5eeda266c5ada50033dae08c",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2319544,
+        "known_for_department": "Production",
+        "name": "Giuseppe Bruno Bossio",
+        "original_name": "Giuseppe Bruno Bossio",
+        "popularity": 0.0798,
+        "profile_path": null,
+        "credit_id": "5eeda3f8b0460500340da89e",
+        "department": "Production",
+        "job": "Production Secretary"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 55137,
+        "known_for_department": "Editing",
+        "name": "Gertrud Petermann",
+        "original_name": "Gertrud Petermann",
+        "popularity": 0.0461,
+        "profile_path": null,
+        "credit_id": "5eeda3a4c5ada50034d6d51e",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "AR",
+        "title": "La iguana de la lengua de fuego",
+        "type": "alternative spelling"
+      },
+      {
+        "iso_3166_1": "CL",
+        "title": "La iguana de la lengua de fuego",
+        "type": "alternative spelling"
+      },
+      {
+        "iso_3166_1": "CO",
+        "title": "La iguana de la lengua de fuego",
+        "type": "alternative spelling"
+      },
+      {
+        "iso_3166_1": "FR",
+        "title": "L' Iguane à la langue de feu",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "DE",
+        "title": "Die Bestie mit dem feurigen Atem",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "GR",
+        "title": "Κυνηγητό μέχρι την κόλαση",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "GR",
+        "title": "Η γλώσσα της φωτιάς",
+        "type": "video title"
+      },
+      {
+        "iso_3166_1": "HK",
+        "title": "Iguana",
+        "type": "English title"
+      },
+      {
+        "iso_3166_1": "MX",
+        "title": "La iguana de la lengua de fuego",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "ES",
+        "title": "La iguana de la lengua de fuego",
+        "type": "alternative spelling"
+      },
+      {
+        "iso_3166_1": "ES",
+        "title": "La lengua de fuego de la iguana",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "TR",
+        "title": "Sapık",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "VE",
+        "title": "La iguana de la lengua de fuego",
+        "type": "alternative spelling"
+      }
+    ]
+  }
+}

@@ -1,0 +1,436 @@
+{
+  "adult": false,
+  "backdrop_path": "/z1jXzL0iAeEKdXy0gA7FLnHOnEC.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 96085,
+  "imdb_id": "tt1930327",
+  "origin_country": [
+    "US",
+    "IE"
+  ],
+  "original_language": "en",
+  "original_title": "Dollhouse",
+  "overview": "Five street teens break into a house in a rich Dublin suburb for a night of partying. But games are twisted into something more emotional and ultimately out of control through a series of surprising revelations.",
+  "popularity": 0.3919,
+  "poster_path": "/y1AtFY5IOk6uyost9vfA4D7c7SR.jpg",
+  "production_companies": [
+    {
+      "id": 51454,
+      "logo_path": null,
+      "name": "The Factory",
+      "origin_country": ""
+    },
+    {
+      "id": 107666,
+      "logo_path": null,
+      "name": "Lightstream Pictures",
+      "origin_country": "IE"
+    },
+    {
+      "id": 1898,
+      "logo_path": "/8ix6SGlJiyuUDxLBtY8E0PY2G7w.png",
+      "name": "Fís Éireann/Screen Ireland",
+      "origin_country": "IE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IE",
+      "name": "Ireland"
+    }
+  ],
+  "release_date": "2012-03-10",
+  "revenue": 0,
+  "runtime": 95,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Six lunatics, one night, one secret, no control",
+  "title": "Dollhouse",
+  "video": false,
+  "vote_average": 4.5,
+  "vote_count": 12,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1007679,
+        "known_for_department": "Acting",
+        "name": "Seána Kerslake",
+        "original_name": "Seána Kerslake",
+        "popularity": 0.3855,
+        "profile_path": "/CGlj8ei2SGqOGId2vbvQRXcYDM.jpg",
+        "cast_id": 2,
+        "character": "Jeannie",
+        "credit_id": "52fe499f9251416c750ce067",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 218984,
+        "known_for_department": "Acting",
+        "name": "Johnny Ward",
+        "original_name": "Johnny Ward",
+        "popularity": 0.1309,
+        "profile_path": "/ddtLrjlnsbXNFqzigb1bsRK1RyF.jpg",
+        "cast_id": 3,
+        "character": "Eanna",
+        "credit_id": "52fe499f9251416c750ce06b",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1576111,
+        "known_for_department": "Acting",
+        "name": "Kate Stanley Brennan",
+        "original_name": "Kate Stanley Brennan",
+        "popularity": 0.0683,
+        "profile_path": "/i5XZPAri2RXWtcGJf08w1Svh7ix.jpg",
+        "cast_id": 4,
+        "character": "Denise",
+        "credit_id": "52fe499f9251416c750ce06f",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1007681,
+        "known_for_department": "Acting",
+        "name": "Shane Curry",
+        "original_name": "Shane Curry",
+        "popularity": 0.0714,
+        "profile_path": "/iQjitFy0Z0K1UoTXoYKcVXQtcAM.jpg",
+        "cast_id": 5,
+        "character": "Shane",
+        "credit_id": "52fe499f9251416c750ce073",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1007682,
+        "known_for_department": "Acting",
+        "name": "Ciaran McCabe",
+        "original_name": "Ciaran McCabe",
+        "popularity": 0.0409,
+        "profile_path": null,
+        "cast_id": 6,
+        "character": "Darren",
+        "credit_id": "52fe499f9251416c750ce077",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1007683,
+        "known_for_department": "Acting",
+        "name": "Jack Reynor",
+        "original_name": "Jack Reynor",
+        "popularity": 2.2884,
+        "profile_path": "/ti7IuuwBP66kntCCp6t38xzOcT4.jpg",
+        "cast_id": 7,
+        "character": "Robbie",
+        "credit_id": "52fe499f9251416c750ce07b",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 158637,
+        "known_for_department": "Acting",
+        "name": "Deirdre O'Kane",
+        "original_name": "Deirdre O'Kane",
+        "popularity": 0.1806,
+        "profile_path": "/8Qy44UrTc6DYaxW3AGO06zaT0w4.jpg",
+        "cast_id": 8,
+        "character": "Mum",
+        "credit_id": "52fe499f9251416c750ce07f",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 42838,
+        "known_for_department": "Acting",
+        "name": "Peter Gowen",
+        "original_name": "Peter Gowen",
+        "popularity": 0.1098,
+        "profile_path": "/2Q2JNk5XhJR7Cdo9LuDfXSt1h70.jpg",
+        "cast_id": 9,
+        "character": "Dad",
+        "credit_id": "52fe499f9251416c750ce083",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1007684,
+        "known_for_department": "Acting",
+        "name": "Conor Neary",
+        "original_name": "Conor Neary",
+        "popularity": 0.0168,
+        "profile_path": null,
+        "cast_id": 10,
+        "character": "Tim",
+        "credit_id": "52fe499f9251416c750ce087",
+        "order": 8
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 41285,
+        "known_for_department": "Directing",
+        "name": "Kirsten Sheridan",
+        "original_name": "Kirsten Sheridan",
+        "popularity": 0.4996,
+        "profile_path": "/tgxwvotewbTyj18Eb2DAH2BkKcE.jpg",
+        "credit_id": "52fe499f9251416c750ce08d",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 41285,
+        "known_for_department": "Directing",
+        "name": "Kirsten Sheridan",
+        "original_name": "Kirsten Sheridan",
+        "popularity": 0.4996,
+        "profile_path": "/tgxwvotewbTyj18Eb2DAH2BkKcE.jpg",
+        "credit_id": "52fe499f9251416c750ce063",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 111699,
+        "known_for_department": "Directing",
+        "name": "Lance Daly",
+        "original_name": "Lance Daly",
+        "popularity": 0.1064,
+        "profile_path": "/lqUliEg6t0QT0Xzt3QhTamAPBZq.jpg",
+        "credit_id": "694107802f81b6fbf25960cd",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1547646,
+        "known_for_department": "Production",
+        "name": "Garrett Kelleher",
+        "original_name": "Garrett Kelleher",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "credit_id": "694107909fa060ac373c5344",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 983674,
+        "known_for_department": "Production",
+        "name": "Macdara Kelleher",
+        "original_name": "Macdara Kelleher",
+        "popularity": 0.278,
+        "profile_path": "/aX67wsbmLvbz0D1qvFyT0jwhmLw.jpg",
+        "credit_id": "694107a13514947536cfec6c",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 45118,
+        "known_for_department": "Production",
+        "name": "Martina Niland",
+        "original_name": "Martina Niland",
+        "popularity": 0.1053,
+        "profile_path": "/v6obMjCaiyyTjGueHupRHp954H6.jpg",
+        "credit_id": "694107ae14ae3551a29c4f47",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 53334,
+        "known_for_department": "Directing",
+        "name": "Jim Sheridan",
+        "original_name": "Jim Sheridan",
+        "popularity": 0.5821,
+        "profile_path": "/aWTmBt44TyUCb0t50avtFsPdTPp.jpg",
+        "credit_id": "694107c158b429564c467df8",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2402990,
+        "known_for_department": "Production",
+        "name": "John Wallace",
+        "original_name": "John Wallace",
+        "popularity": 0.0841,
+        "profile_path": null,
+        "credit_id": "694107d9215ace6b90467e00",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3840266,
+        "known_for_department": "Acting",
+        "name": "Howie B.",
+        "original_name": "Howie B.",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "694107e73514947536cfec72",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1657964,
+        "known_for_department": "Writing",
+        "name": "Colin Downey",
+        "original_name": "Colin Downey",
+        "popularity": 0.048,
+        "profile_path": null,
+        "credit_id": "694107f91b2415eb3dc0195e",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1771319,
+        "known_for_department": "Camera",
+        "name": "Ross McDonnell",
+        "original_name": "Ross McDonnell",
+        "popularity": 0.0629,
+        "profile_path": "/5JvhIpisSnw1a0QTDrBTx2jx6g9.jpg",
+        "credit_id": "69410815701040aec6596051",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 41285,
+        "known_for_department": "Directing",
+        "name": "Kirsten Sheridan",
+        "original_name": "Kirsten Sheridan",
+        "popularity": 0.4996,
+        "profile_path": "/tgxwvotewbTyj18Eb2DAH2BkKcE.jpg",
+        "credit_id": "69410826f125a573f52ca2a7",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 45125,
+        "known_for_department": "Production",
+        "name": "Maureen Hughes",
+        "original_name": "Maureen Hughes",
+        "popularity": 0.2547,
+        "profile_path": null,
+        "credit_id": "694108352fa2dffbf0467dbd",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1320136,
+        "known_for_department": "Production",
+        "name": "Nick McGinley",
+        "original_name": "Nick McGinley",
+        "popularity": 0.0596,
+        "profile_path": "/10IKVHkH7aDaXRnCziYkBcGgREH.jpg",
+        "credit_id": "6941084d58b429564c467e02",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1972536,
+        "known_for_department": "Art",
+        "name": "Emma Lowney",
+        "original_name": "Emma Lowney",
+        "popularity": 0.0993,
+        "profile_path": null,
+        "credit_id": "6941085b1ca1b412b7467da2",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1168764,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Lara Campbell",
+        "original_name": "Lara Campbell",
+        "popularity": 0.0741,
+        "profile_path": null,
+        "credit_id": "6941086c46690fb54df0de76",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1401274,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Liz Byrne",
+        "original_name": "Liz Byrne",
+        "popularity": 0.2108,
+        "profile_path": null,
+        "credit_id": "6941087a2cda1476dd2ca25a",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4010315,
+        "known_for_department": "Sound",
+        "name": "Fionán Higgins",
+        "original_name": "Fionán Higgins",
+        "popularity": 0.0671,
+        "profile_path": null,
+        "credit_id": "6941089616b5334712467e5d",
+        "department": "Sound",
+        "job": "Sound"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  }
+}

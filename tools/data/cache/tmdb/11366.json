@@ -1,0 +1,551 @@
+{
+  "adult": false,
+  "backdrop_path": "/ju66IP5AkqoHthl0T7efb7qosnS.jpg",
+  "belongs_to_collection": null,
+  "budget": 1000000,
+  "genres": [
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "",
+  "id": 11366,
+  "imdb_id": "tt0244870",
+  "origin_country": [
+    "JP"
+  ],
+  "original_language": "ja",
+  "original_title": "うずまき",
+  "overview": "The inhabitants of a small Japanese town become increasingly obsessed with and tormented by spirals.",
+  "popularity": 1.4368,
+  "poster_path": "/dS5ZG1qgjCIZWO1OvJOhbG46PaL.jpg",
+  "production_companies": [
+    {
+      "id": 66411,
+      "logo_path": "/p989zdK2uSIYX1Bs9W38JHVpUvJ.png",
+      "name": "Space Shower TV",
+      "origin_country": "JP"
+    },
+    {
+      "id": 5284,
+      "logo_path": null,
+      "name": "Omega Micott",
+      "origin_country": "JP"
+    },
+    {
+      "id": 9149,
+      "logo_path": "/isLUpud9N56ifftJZ4XvzwBBpoG.png",
+      "name": "Shogakukan",
+      "origin_country": "JP"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    }
+  ],
+  "release_date": "2000-02-11",
+  "revenue": 0,
+  "runtime": 90,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Out of this world.",
+  "title": "Uzumaki",
+  "video": false,
+  "vote_average": 5.894,
+  "vote_count": 263,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 69287,
+        "known_for_department": "Acting",
+        "name": "Eriko Hatsune",
+        "original_name": "初音映莉子",
+        "popularity": 1.57,
+        "profile_path": "/2MxSU1rIKXLVBnQJKVAWy6bzEMe.jpg",
+        "cast_id": 1,
+        "character": "Kirie Goshima",
+        "credit_id": "52fe44319251416c7502c09b",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 69288,
+        "known_for_department": "Acting",
+        "name": "Fhi Fan",
+        "original_name": "Fhi Fan",
+        "popularity": 0.1199,
+        "profile_path": "/rgv64JvKHaTrD5C7wryAla2Rsfq.jpg",
+        "cast_id": 2,
+        "character": "Shuichi Saito",
+        "credit_id": "52fe44319251416c7502c09f",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 58664,
+        "known_for_department": "Acting",
+        "name": "Hinako Saeki",
+        "original_name": "佐伯日菜子",
+        "popularity": 1.0158,
+        "profile_path": "/1BiLProY7KHD6y5SRoZB5SCr4Tk.jpg",
+        "cast_id": 3,
+        "character": "Kyoko Sekino",
+        "credit_id": "52fe44319251416c7502c0a3",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 69289,
+        "known_for_department": "Acting",
+        "name": "Shin Eun-kyung",
+        "original_name": "신은경",
+        "popularity": 1.0172,
+        "profile_path": "/5byW92WgWudOaKHnyevnd4NSy8K.jpg",
+        "cast_id": 4,
+        "character": "Chie Marayama",
+        "credit_id": "52fe44319251416c7502c0a7",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 46623,
+        "known_for_department": "Acting",
+        "name": "Keiko Takahashi",
+        "original_name": "高橋惠子",
+        "popularity": 2.4547,
+        "profile_path": "/ksiS9bcT5gHrT3DN8VSsMnDMqfF.jpg",
+        "cast_id": 10,
+        "character": "Yukie Saito",
+        "credit_id": "52fe44319251416c7502c0c9",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 137029,
+        "known_for_department": "Acting",
+        "name": "Ren Osugi",
+        "original_name": "大杉漣",
+        "popularity": 1.4302,
+        "profile_path": "/49BL0p9gni4ERgnEciMJIXbJZDk.jpg",
+        "cast_id": 11,
+        "character": "Toshio Saito",
+        "credit_id": "52fe44319251416c7502c0cd",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 137028,
+        "known_for_department": "Acting",
+        "name": "Denden",
+        "original_name": "でんでん",
+        "popularity": 1.1787,
+        "profile_path": "/eC7mmWy83TlWJ0RYr4yCWAqycC5.jpg",
+        "cast_id": 12,
+        "character": "Officer Futada",
+        "credit_id": "52fe44319251416c7502c0d1",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 555160,
+        "known_for_department": "Acting",
+        "name": "Masami Horiuchi",
+        "original_name": "堀内正美",
+        "popularity": 0.7319,
+        "profile_path": "/ulceOX7yLCPKzFraqsI0VAyKYPK.jpg",
+        "cast_id": 13,
+        "character": "Reporter Ichiro Tamura",
+        "credit_id": "52fe44319251416c7502c0d5",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 20327,
+        "known_for_department": "Acting",
+        "name": "Tarō Suwa",
+        "original_name": "諏訪太朗",
+        "popularity": 1.463,
+        "profile_path": "/wLbAf2eRaMpGVH4tz0OMvXM2eS3.jpg",
+        "cast_id": 14,
+        "character": "Yasuo Goshima",
+        "credit_id": "52fe44319251416c7502c0d9",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 58609,
+        "known_for_department": "Acting",
+        "name": "Toru Tezuka",
+        "original_name": "手塚とおる",
+        "popularity": 0.9814,
+        "profile_path": "/pTh4Dc2qqdzRLYaWXEUQZp8bScA.jpg",
+        "cast_id": 28,
+        "character": "Yokota Ikuo",
+        "credit_id": "5f47c3e37739410035e7052c",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 91870,
+        "known_for_department": "Acting",
+        "name": "Sadao Abe",
+        "original_name": "阿部サダヲ",
+        "popularity": 1.1685,
+        "profile_path": "/1kafRXtKloIamrHhgsoSfhsbIp9.jpg",
+        "cast_id": 16,
+        "character": "Mitsuru Yamaguchi",
+        "credit_id": "52fe44319251416c7502c0e1",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 20313,
+        "known_for_department": "Acting",
+        "name": "Asumi Miwa",
+        "original_name": "三輪明日美",
+        "popularity": 0.8085,
+        "profile_path": "/gQwPBSNPBFfaW3FaDNmPY2wrMo6.jpg",
+        "cast_id": 17,
+        "character": "Shiho Ishikawa",
+        "credit_id": "52fe44319251416c7502c0e5",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 555162,
+        "known_for_department": "Acting",
+        "name": "Saori Nakane",
+        "original_name": "Saori Nakane",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "cast_id": 18,
+        "character": "Little Kirie",
+        "credit_id": "52fe44319251416c7502c0e9",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 555163,
+        "known_for_department": "Acting",
+        "name": "Yasuki Tanaka",
+        "original_name": "Yasuki Tanaka",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 19,
+        "character": "Little Shuichi",
+        "credit_id": "52fe44319251416c7502c0ed",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 555164,
+        "known_for_department": "Acting",
+        "name": "Yuki Murakami",
+        "original_name": "Yuki Murakami",
+        "popularity": 0.0387,
+        "profile_path": null,
+        "cast_id": 20,
+        "character": "Yukky",
+        "credit_id": "52fe44319251416c7502c0f1",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2895458,
+        "known_for_department": "Acting",
+        "name": "Maki Hamada",
+        "original_name": "Maki Hamada",
+        "popularity": 0.0706,
+        "profile_path": "/nLOWRd6wDR1Wa51LdzGDa0wxu07.jpg",
+        "cast_id": 29,
+        "character": "Macky",
+        "credit_id": "5fd91b210d2f530041b1d39f",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 555165,
+        "known_for_department": "Production",
+        "name": "Tomoo Fukatsu",
+        "original_name": "深津智男",
+        "popularity": 0.3573,
+        "profile_path": null,
+        "cast_id": 22,
+        "character": "Norio Katayama",
+        "credit_id": "52fe44319251416c7502c0f9",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 555166,
+        "known_for_department": "Acting",
+        "name": "Akira Matsuda",
+        "original_name": "松田章",
+        "popularity": 0.1938,
+        "profile_path": null,
+        "cast_id": 23,
+        "character": "Yasuzo Oyama",
+        "credit_id": "52fe44319251416c7502c0fd",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 555167,
+        "known_for_department": "Acting",
+        "name": "Chino Mizuki",
+        "original_name": "Chino Mizuki",
+        "popularity": 0.1038,
+        "profile_path": null,
+        "cast_id": 24,
+        "character": "",
+        "credit_id": "52fe44319251416c7502c101",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 555168,
+        "known_for_department": "Acting",
+        "name": "Takuto Oyama",
+        "original_name": "Takuto Oyama",
+        "popularity": 0,
+        "profile_path": null,
+        "cast_id": 25,
+        "character": "Himself",
+        "credit_id": "52fe44319251416c7502c105",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 132947,
+        "known_for_department": "Acting",
+        "name": "Hassei Takano",
+        "original_name": "高野八誠",
+        "popularity": 0.9968,
+        "profile_path": "/55A94RikDEi6hWrFCg4cPauXtry.jpg",
+        "cast_id": 26,
+        "character": "Kazuki Tsumura",
+        "credit_id": "52fe44319251416c7502c109",
+        "order": 20
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 68991,
+        "known_for_department": "Production",
+        "name": "Mitsuru Kurosawa",
+        "original_name": "黒澤満",
+        "popularity": 0.156,
+        "profile_path": null,
+        "credit_id": "52fe44319251416c7502c0b3",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 69290,
+        "known_for_department": "Directing",
+        "name": "Higuchinsky",
+        "original_name": "Akihiro Higuchi",
+        "popularity": 0.0877,
+        "profile_path": "/6ekINNBaCs3pILyWApSMChVAy5u.jpg",
+        "credit_id": "52fe44319251416c7502c0ad",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 69291,
+        "known_for_department": "Sound",
+        "name": "Tetsuroh Kashibuchi",
+        "original_name": "かしぶち哲郎",
+        "popularity": 0.2296,
+        "profile_path": null,
+        "credit_id": "52fe44319251416c7502c0b9",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 69292,
+        "known_for_department": "Camera",
+        "name": "Gen Kobayashi",
+        "original_name": "小林元",
+        "popularity": 0.2218,
+        "profile_path": null,
+        "credit_id": "52fe44319251416c7502c0bf",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 69293,
+        "known_for_department": "Writing",
+        "name": "Kengo Kaji",
+        "original_name": "梶研吾",
+        "popularity": 0.5282,
+        "profile_path": null,
+        "credit_id": "52fe44319251416c7502c0c5",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 552546,
+        "known_for_department": "Writing",
+        "name": "Junji Ito",
+        "original_name": "伊藤潤二",
+        "popularity": 0.6293,
+        "profile_path": "/A0DSHu2aNknw8PNnUjmaImJuNSZ.jpg",
+        "credit_id": "625c907e9661fc0066c100be",
+        "department": "Writing",
+        "job": "Novel"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 147411,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Tomoo Haraguchi",
+        "original_name": "原口智生",
+        "popularity": 0.4995,
+        "profile_path": null,
+        "credit_id": "65db8a37cabfe40186d1c701",
+        "department": "Visual Effects",
+        "job": "Modeling"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 551554,
+        "known_for_department": "Art",
+        "name": "Yuji Hayashida",
+        "original_name": "林田裕至",
+        "popularity": 0.3327,
+        "profile_path": null,
+        "credit_id": "65db89d145765d0185d2da6c",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3436,
+        "known_for_department": "Sound",
+        "name": "Keiichi Suzuki",
+        "original_name": "鈴木慶一",
+        "popularity": 0.6379,
+        "profile_path": "/jAdi7TdqTghUmegXOGXKmIYdqaL.jpg",
+        "credit_id": "65db89c44c1d9a017d706c23",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 145350,
+        "known_for_department": "Visual Effects",
+        "name": "Issei Oda",
+        "original_name": "小田一生",
+        "popularity": 0.5311,
+        "profile_path": "/o6YlOhTNT7Gtw0oeA8Q8e0fN6Wm.jpg",
+        "credit_id": "65db89e14c1d9a017d706c3e",
+        "department": "Visual Effects",
+        "job": "VFX Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1262010,
+        "known_for_department": "Production",
+        "name": "Akemi Suyama",
+        "original_name": "陶山明美",
+        "popularity": 0.0443,
+        "profile_path": null,
+        "credit_id": "67d018303602026906812012",
+        "department": "Production",
+        "job": "Producer"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "DE",
+        "title": "Uzumaki - Out of this World",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "HK",
+        "title": "Vortex",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "JP",
+        "title": "Uzumaki",
+        "type": "romanization"
+      },
+      {
+        "iso_3166_1": "MX",
+        "title": "Uzumaki Vortex",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "RU",
+        "title": "Спираль",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "US",
+        "title": "Spiral",
+        "type": ""
+      }
+    ]
+  }
+}

@@ -1,0 +1,331 @@
+{
+  "adult": false,
+  "backdrop_path": "/uUMv6QcTHz60WSKlLgy7NZZVDIe.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10770,
+      "name": "TV Movie"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 65092,
+  "imdb_id": "tt0064897",
+  "origin_country": [
+    "SE"
+  ],
+  "original_language": "sv",
+  "original_title": "Riten",
+  "overview": "Called to court on obscenity charges, a theatre troupe are forced to expose their neuroses and inner psychological torments.",
+  "popularity": 0.5555,
+  "poster_path": "/6rlNfkvnDbxtoDpKGxFmbJgWpfE.jpg",
+  "production_companies": [
+    {
+      "id": 7445,
+      "logo_path": null,
+      "name": "Cinematograph AB",
+      "origin_country": "SE"
+    },
+    {
+      "id": 6181,
+      "logo_path": "/gYyww91VI1jdH89xpZgFFc8zN3F.png",
+      "name": "SF Studios",
+      "origin_country": "SE"
+    },
+    {
+      "id": 7447,
+      "logo_path": null,
+      "name": "Personafilm",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "SE",
+      "name": "Sweden"
+    }
+  ],
+  "release_date": "1969-03-25",
+  "revenue": 0,
+  "runtime": 72,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Rite",
+  "video": false,
+  "vote_average": 6.9,
+  "vote_count": 94,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 8742,
+        "known_for_department": "Acting",
+        "name": "Ingrid Thulin",
+        "original_name": "Ingrid Thulin",
+        "popularity": 0.8564,
+        "profile_path": "/jrjkvvWb6Y4lPDPz5xPAzLFTlsh.jpg",
+        "cast_id": 3,
+        "character": "Thea Winkelmann",
+        "credit_id": "52fe46fcc3a368484e0aef3f",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6664,
+        "known_for_department": "Acting",
+        "name": "Anders Ek",
+        "original_name": "Anders Ek",
+        "popularity": 0.1513,
+        "profile_path": "/h3PjEay9gNA6RLOOZTDBavN6fQN.jpg",
+        "cast_id": 4,
+        "character": "Sebastian Fisher",
+        "credit_id": "52fe46fcc3a368484e0aef43",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6649,
+        "known_for_department": "Acting",
+        "name": "Gunnar Björnstrand",
+        "original_name": "Gunnar Björnstrand",
+        "popularity": 0.4621,
+        "profile_path": "/vy5Y0c1ACGCI6d4rVjmTM6HOqNN.jpg",
+        "cast_id": 5,
+        "character": "Hans Winkelmann",
+        "credit_id": "52fe46fdc3a368484e0aef47",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 240400,
+        "known_for_department": "Acting",
+        "name": "Erik Hell",
+        "original_name": "Erik Hell",
+        "popularity": 0.151,
+        "profile_path": "/tKvI2kr7XtgNpAjLiYIg7R0BUvp.jpg",
+        "cast_id": 6,
+        "character": "Judge Dr. Abrahamson",
+        "credit_id": "52fe46fdc3a368484e0aef4b",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6648,
+        "known_for_department": "Directing",
+        "name": "Ingmar Bergman",
+        "original_name": "Ingmar Bergman",
+        "popularity": 1.433,
+        "profile_path": "/nkmOaXNRoioViN9OQf2n9Iu6akA.jpg",
+        "cast_id": 7,
+        "character": "Priest",
+        "credit_id": "52fe46fdc3a368484e0aef4f",
+        "order": 4
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6648,
+        "known_for_department": "Directing",
+        "name": "Ingmar Bergman",
+        "original_name": "Ingmar Bergman",
+        "popularity": 1.433,
+        "profile_path": "/nkmOaXNRoioViN9OQf2n9Iu6akA.jpg",
+        "credit_id": "52fe46fcc3a368484e0aef35",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6648,
+        "known_for_department": "Directing",
+        "name": "Ingmar Bergman",
+        "original_name": "Ingmar Bergman",
+        "popularity": 1.433,
+        "profile_path": "/nkmOaXNRoioViN9OQf2n9Iu6akA.jpg",
+        "credit_id": "52fe46fcc3a368484e0aef3b",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 568612,
+        "known_for_department": "Sound",
+        "name": "Berndt Frithiof",
+        "original_name": "Berndt Frithiof",
+        "popularity": 0.1235,
+        "profile_path": null,
+        "credit_id": "59bee0f3c3a3682feb005233",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 11909,
+        "known_for_department": "Production",
+        "name": "Lars-Owe Carlberg",
+        "original_name": "Lars-Owe Carlberg",
+        "popularity": 0.1694,
+        "profile_path": null,
+        "credit_id": "59bee0a192514146fa005161",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1526483,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Börje Lundh",
+        "original_name": "Börje Lundh",
+        "popularity": 0.1406,
+        "profile_path": "/qCHN3jyaysVF6ITXuPkazPkUEB2.jpg",
+        "credit_id": "59bee0ddc3a36830750056c4",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 11914,
+        "known_for_department": "Sound",
+        "name": "Olle Jakobsson",
+        "original_name": "Olle Jacobsson",
+        "popularity": 0.0873,
+        "profile_path": "/nRWbaqTqItqOqYjBDdmX3tjS6dt.jpg",
+        "credit_id": "59bee0fec3a36830650048ea",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 11905,
+        "known_for_department": "Camera",
+        "name": "Sven Nykvist",
+        "original_name": "Sven Nykvist",
+        "popularity": 0.4381,
+        "profile_path": "/qs8gCA7aTXPfKkGiPdQAqposl5o.jpg",
+        "credit_id": "59bee0b0925141472a00502c",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 11908,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Mago",
+        "original_name": "Mago",
+        "popularity": 0.0704,
+        "profile_path": "/8kpbMrmHCXhb2qyTGez26AbIo0R.jpg",
+        "credit_id": "59bee0d2c3a3682fb80053d8",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1188822,
+        "known_for_department": "Sound",
+        "name": "Nils Skeppstedt",
+        "original_name": "Nils Skeppstedt",
+        "popularity": 0.0602,
+        "profile_path": null,
+        "credit_id": "59bee10ac3a368301f004a77",
+        "department": "Sound",
+        "job": "Sound Effects"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 11910,
+        "known_for_department": "Sound",
+        "name": "Lennart Engholm",
+        "original_name": "Lennart Engholm",
+        "popularity": 0.0387,
+        "profile_path": null,
+        "credit_id": "59bee0eac3a368300e004f90",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 67522,
+        "known_for_department": "Editing",
+        "name": "Siv Lundgren",
+        "original_name": "Siv Lundgren",
+        "popularity": 0.076,
+        "profile_path": null,
+        "credit_id": "59bee0ba9251414720005153",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 11908,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Mago",
+        "original_name": "Mago",
+        "popularity": 0.0704,
+        "profile_path": "/8kpbMrmHCXhb2qyTGez26AbIo0R.jpg",
+        "credit_id": "59bee0c8c3a3682feb005207",
+        "department": "Art",
+        "job": "Production Design"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "JP",
+        "title": "夜の儀式",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "US",
+        "title": "Riten",
+        "type": "Original title"
+      },
+      {
+        "iso_3166_1": "SE",
+        "title": "Riten",
+        "type": "Original title"
+      },
+      {
+        "iso_3166_1": "SU",
+        "title": "Ритуал",
+        "type": "Russian title"
+      },
+      {
+        "iso_3166_1": "US",
+        "title": "The Rite",
+        "type": "World-wide (English title)"
+      }
+    ]
+  }
+}

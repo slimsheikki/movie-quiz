@@ -1,0 +1,203 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 70921,
+  "imdb_id": "tt0072643",
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "Anatomie d'un rapport",
+  "overview": "A woman's feminist awakening drives an intellectual couple to a relationship crisis.",
+  "popularity": 0.0896,
+  "poster_path": "/7PsmtIODGQB0GdJ2oDKrrKWJ2yZ.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "1976-09-29",
+  "revenue": 0,
+  "runtime": 79,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Anatomy of a Relationship",
+  "video": false,
+  "vote_average": 5.286,
+  "vote_count": 14,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 236634,
+        "known_for_department": "Directing",
+        "name": "Luc Moullet",
+        "original_name": "Luc Moullet",
+        "popularity": 0.1213,
+        "profile_path": "/zzZ3ACtgddW0r14ftmydsFq9VE7.jpg",
+        "cast_id": 3,
+        "character": "He",
+        "credit_id": "52fe4819c3a368484e0e9367",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 559887,
+        "known_for_department": "Acting",
+        "name": "Marie-Christine Questerbert",
+        "original_name": "Marie-Christine Questerbert",
+        "popularity": 0.0716,
+        "profile_path": null,
+        "cast_id": 7,
+        "character": "She",
+        "credit_id": "52fe4819c3a368484e0e9377",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 559886,
+        "known_for_department": "Acting",
+        "name": "Viviane Berthommier",
+        "original_name": "Viviane Berthommier",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 6,
+        "character": "The friend",
+        "credit_id": "52fe4819c3a368484e0e9373",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 545567,
+        "known_for_department": "Acting",
+        "name": "Antonietta Pizzorno",
+        "original_name": "Antonietta Pizzorno",
+        "popularity": 0.0725,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "The filmmaker",
+        "credit_id": "52fe4819c3a368484e0e936f",
+        "order": 3
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 236634,
+        "known_for_department": "Directing",
+        "name": "Luc Moullet",
+        "original_name": "Luc Moullet",
+        "popularity": 0.1213,
+        "profile_path": "/zzZ3ACtgddW0r14ftmydsFq9VE7.jpg",
+        "credit_id": "52fe4819c3a368484e0e935d",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 545567,
+        "known_for_department": "Acting",
+        "name": "Antonietta Pizzorno",
+        "original_name": "Antonietta Pizzorno",
+        "popularity": 0.0725,
+        "profile_path": null,
+        "credit_id": "52fe4819c3a368484e0e9363",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 545567,
+        "known_for_department": "Acting",
+        "name": "Antonietta Pizzorno",
+        "original_name": "Antonietta Pizzorno",
+        "popularity": 0.0725,
+        "profile_path": null,
+        "credit_id": "52fe4819c3a368484e0e9383",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 236634,
+        "known_for_department": "Directing",
+        "name": "Luc Moullet",
+        "original_name": "Luc Moullet",
+        "popularity": 0.1213,
+        "profile_path": "/zzZ3ACtgddW0r14ftmydsFq9VE7.jpg",
+        "credit_id": "52fe4819c3a368484e0e937d",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1958997,
+        "known_for_department": "Sound",
+        "name": "Patrick Frédérich",
+        "original_name": "Patrick Frédérich",
+        "popularity": 0.0478,
+        "profile_path": null,
+        "credit_id": "5cb814059251414666f4d4bb",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1969218,
+        "known_for_department": "Editing",
+        "name": "Geneviève Dufour",
+        "original_name": "Geneviève Dufour",
+        "popularity": 0.0928,
+        "profile_path": null,
+        "credit_id": "5cb813f90e0a266b98f0a29e",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1519824,
+        "known_for_department": "Camera",
+        "name": "Michel Fournier",
+        "original_name": "Michel Fournier",
+        "popularity": 0.0594,
+        "profile_path": "/f7JrHxVHDoKGhlIMF2CfBuBhcyC.jpg",
+        "credit_id": "5d4629322d1e403b44c09d5a",
+        "department": "Camera",
+        "job": "Director of Photography"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  }
+}

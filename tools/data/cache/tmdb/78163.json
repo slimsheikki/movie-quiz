@@ -1,0 +1,497 @@
+{
+  "adult": false,
+  "backdrop_path": "/yRrDnpnjptUbgoEDdC3WHUM5JPb.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 78163,
+  "imdb_id": "tt0125434",
+  "origin_country": [
+    "JP"
+  ],
+  "original_language": "ja",
+  "original_title": "ねらわれた学園",
+  "overview": "Mitamura Yuka is a normal, shy high school student. Except for the fact that she has psychic powers. When a new student with similar powers begins to show her skills, creating a force of psychic Nazi student enforcers, Yuka and her friends vow to stop her. But behind it all is a mysterious force that will put Yuka's powers to the ultimate test!",
+  "popularity": 1.1247,
+  "poster_path": "/g3TMkhAy1pTxJ2nTTYiOeFjhu9Q.jpg",
+  "production_companies": [
+    {
+      "id": 2073,
+      "logo_path": "/tWxRSaKmRJNTcmtlXsmn5R4KOSU.png",
+      "name": "KADOKAWA",
+      "origin_country": "JP"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    }
+  ],
+  "release_date": "1981-07-11",
+  "revenue": 0,
+  "runtime": 90,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "School in the Crosshairs",
+  "video": false,
+  "vote_average": 6.4,
+  "vote_count": 26,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 118407,
+        "known_for_department": "Acting",
+        "name": "Hiroko Yakushimaru",
+        "original_name": "薬師丸ひろ子",
+        "popularity": 1.8563,
+        "profile_path": "/gqGHVxX1ZZpExgaNgK4s1toOw8r.jpg",
+        "cast_id": 2,
+        "character": "Yuka Mitamura",
+        "credit_id": "5839e65bc3a36848b2007933",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 235232,
+        "known_for_department": "Acting",
+        "name": "Ryōichi Takayanagi",
+        "original_name": "高柳良一",
+        "popularity": 0.5164,
+        "profile_path": "/sX2i75nhAiTmdWMdbxaR4IVUac3.jpg",
+        "cast_id": 3,
+        "character": "Koji Seki",
+        "credit_id": "5839e661c3a36843ef008717",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 552311,
+        "known_for_department": "Acting",
+        "name": "Masami Hasegawa",
+        "original_name": "Masami Hasegawa",
+        "popularity": 0.2575,
+        "profile_path": null,
+        "cast_id": 18,
+        "character": "Michiru Takamizawa",
+        "credit_id": "5a8d63b7c3a36820ab007b4b",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 565681,
+        "known_for_department": "Directing",
+        "name": "Makoto Tezuka",
+        "original_name": "手塚眞",
+        "popularity": 0.4762,
+        "profile_path": "/2AO9E61rv2uVdsdPrhZtuI9tGzV.jpg",
+        "cast_id": 19,
+        "character": "Masahiko Arikawa",
+        "credit_id": "5a8d63bc0e0a267c7a00823a",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1491483,
+        "known_for_department": "Acting",
+        "name": "Kôichi Yamamoto",
+        "original_name": "山本耕一",
+        "popularity": 0.4433,
+        "profile_path": "/xSQzuWshFAHPcYFILonAmrIlL78.jpg",
+        "cast_id": 20,
+        "character": "Takuya Mitamura",
+        "credit_id": "5a8d63ef9251412a55007e36",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 25465,
+        "known_for_department": "Acting",
+        "name": "Miyoko Akaza",
+        "original_name": "赤座美代子",
+        "popularity": 1.0124,
+        "profile_path": "/g8JuN4jbUWdp6xztNbAF0ouBuDH.jpg",
+        "cast_id": 4,
+        "character": "Keiko Mitamura",
+        "credit_id": "5839e668925141701d00744f",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 227895,
+        "known_for_department": "Acting",
+        "name": "Hajime Hana",
+        "original_name": "ハナ肇",
+        "popularity": 1.6755,
+        "profile_path": "/930SCkbEwXzIm9QAUiSlntJTqKQ.jpg",
+        "cast_id": 6,
+        "character": "Kumakichi",
+        "credit_id": "5839e6769251416f3000733b",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 82868,
+        "known_for_department": "Acting",
+        "name": "Toru Minegishi",
+        "original_name": "峰岸徹",
+        "popularity": 1.3022,
+        "profile_path": "/eIhrG2YPS5kxXZhfQZuBp0Iy8s7.jpg",
+        "cast_id": 21,
+        "character": "Kyogoku",
+        "credit_id": "5a8d6426c3a36820ff007996",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1032682,
+        "known_for_department": "Acting",
+        "name": "Fumi Dan",
+        "original_name": "檀ふみ",
+        "popularity": 1.0493,
+        "profile_path": "/k3ER3dJ1ie8goxubMOdHaaHICTS.jpg",
+        "cast_id": 5,
+        "character": "Nurse",
+        "credit_id": "5839e66fc3a36848b500739a",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1078694,
+        "known_for_department": "Acting",
+        "name": "Chiharu Kuri",
+        "original_name": "久里千春",
+        "popularity": 0.5245,
+        "profile_path": "/qjP8dnWaKLhOrCYnQt7DJvCEfFm.jpg",
+        "cast_id": 24,
+        "character": "Masahiko's Mother",
+        "credit_id": "5ccfc7c99251417be126a47f",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 552599,
+        "known_for_department": "Acting",
+        "name": "Koichi Miura",
+        "original_name": "三浦浩一",
+        "popularity": 0.7354,
+        "profile_path": "/8dUuWI8nhlG5ckrtP9FWOXO6gwB.jpg",
+        "cast_id": 25,
+        "character": "Yamagata",
+        "credit_id": "5ccfc8080e0a26225a00b271",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 77877,
+        "known_for_department": "Acting",
+        "name": "Kaori Mizushima",
+        "original_name": "水島かおり",
+        "popularity": 1.0236,
+        "profile_path": "/AthAtehFpIWDN2PSMgcDhgJSurf.jpg",
+        "cast_id": 26,
+        "character": "Amamiya",
+        "credit_id": "5ccfc8240e0a262d7b00cc08",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1200137,
+        "known_for_department": "Production",
+        "name": "Yusuke Okada",
+        "original_name": "岡田裕介",
+        "popularity": 0.5779,
+        "profile_path": "/dWy3UCa0wRaV1j978mGiDBiBAQQ.jpg",
+        "cast_id": 27,
+        "character": "Suda",
+        "credit_id": "5ccfc84892514104562d41d2",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 106161,
+        "known_for_department": "Acting",
+        "name": "Noriko Sengoku",
+        "original_name": "千石規子",
+        "popularity": 0.6565,
+        "profile_path": "/xmGs4tO59mq4e80r8iXBIjrwzSC.jpg",
+        "cast_id": 28,
+        "character": "Koji's Grandmother",
+        "credit_id": "5ccfc8799251417be126a58d",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1072378,
+        "known_for_department": "Acting",
+        "name": "Hiromitsu Suzuki",
+        "original_name": "鈴木ヒロミツ",
+        "popularity": 0.9192,
+        "profile_path": "/h7M9uXMEAtV7lyLVoxN1edZhOq1.jpg",
+        "cast_id": 29,
+        "character": "Hiroshi",
+        "credit_id": "5ccfc8959251417be126a599",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1503141,
+        "known_for_department": "Acting",
+        "name": "Goro Oishi",
+        "original_name": "大石吾朗",
+        "popularity": 0.53,
+        "profile_path": "/6hLKL7ndZbErbknmgJ4vHgZsB2V.jpg",
+        "cast_id": 36,
+        "character": "Shimizu",
+        "credit_id": "6498bc8762f33500e912f469",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2305932,
+        "known_for_department": "Acting",
+        "name": "Yuji Yasuda",
+        "original_name": "Yuji Yasuda",
+        "popularity": 0.1049,
+        "profile_path": null,
+        "cast_id": 31,
+        "character": "Fukuda",
+        "credit_id": "5ccfc8e09251417cce2b0ada",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1018900,
+        "known_for_department": "Acting",
+        "name": "Nobuyo Oyama",
+        "original_name": "大山のぶ代",
+        "popularity": 1.2464,
+        "profile_path": "/b2NCEjqTtTmEFsFYLaGDbWQ4xAK.jpg",
+        "cast_id": 32,
+        "character": "Housewife",
+        "credit_id": "5ccfc99f9251411024249db6",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1032717,
+        "known_for_department": "Acting",
+        "name": "Shingo Yanagisawa",
+        "original_name": "柳沢慎吾",
+        "popularity": 0.5788,
+        "profile_path": "/yd6hkDqEkXukL9mws4JKbdvRJzh.jpg",
+        "cast_id": 35,
+        "character": "Yanagisawa Ippei",
+        "credit_id": "6498bc4e955c65012428a87a",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5809613,
+        "known_for_department": "Acting",
+        "name": "Katsuhiko Nakagawa",
+        "original_name": "Katsuhiko Nakagawa",
+        "popularity": 0.0379,
+        "profile_path": "/3yZmH4cI386CYn3CJGayZLyy7UJ.jpg",
+        "cast_id": 39,
+        "character": "Tomoda",
+        "credit_id": "69c40ae8abae76938aaabe7c",
+        "order": 19
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 132305,
+        "known_for_department": "Directing",
+        "name": "Nobuhiko Obayashi",
+        "original_name": "大林宣彦",
+        "popularity": 1.1306,
+        "profile_path": "/oLAnlKiIL7txhEvjsBxFoLGu0gp.jpg",
+        "credit_id": "52fe4990c3a368484e131c49",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1615471,
+        "known_for_department": "Sound",
+        "name": "Shouhei Hayashi",
+        "original_name": "林昌平",
+        "popularity": 0.1213,
+        "profile_path": null,
+        "credit_id": "5a8d63230e0a267c7a00809e",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1270421,
+        "known_for_department": "Art",
+        "name": "Kazuo Satsuya",
+        "original_name": "薩谷和夫",
+        "popularity": 0.2035,
+        "profile_path": "/f8svGHVPYChwE0aFyNYxiLFSkAw.jpg",
+        "credit_id": "5a8d6308c3a36820c300879a",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1982451,
+        "known_for_department": "Production",
+        "name": "Minoru Henmi",
+        "original_name": "Minoru Henmi",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "5a8d62c7c3a36820e9007e30",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1791944,
+        "known_for_department": "Production",
+        "name": "Seiji Inaba",
+        "original_name": "稲葉清治",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "5a8d62cec3a36820ff007654",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1198491,
+        "known_for_department": "Camera",
+        "name": "Yoshitaka Sakamoto",
+        "original_name": "阪本善尚",
+        "popularity": 0.1614,
+        "profile_path": null,
+        "credit_id": "5a8d62e7c3a36820e9007e81",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1982477,
+        "known_for_department": "Writing",
+        "name": "Shoko Hamura",
+        "original_name": "Shoko Hamura",
+        "popularity": 0.151,
+        "profile_path": null,
+        "credit_id": "5a8d78b0c3a36820e900a9a7",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1104778,
+        "known_for_department": "Writing",
+        "name": "Taku Mayumura",
+        "original_name": "眉村卓",
+        "popularity": 0.4056,
+        "profile_path": null,
+        "credit_id": "5ccfca209251414f7c29200f",
+        "department": "Writing",
+        "job": "Novel"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1344000,
+        "known_for_department": "Sound",
+        "name": "Masataka Matsutōya",
+        "original_name": "松任谷正隆",
+        "popularity": 0.1952,
+        "profile_path": "/42wg7BlMsaUVja5NhUPa3yi0yEe.jpg",
+        "credit_id": "66e3d76828048d92def94593",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 112251,
+        "known_for_department": "Production",
+        "name": "Haruki Kadokawa",
+        "original_name": "角川春樹",
+        "popularity": 0.6555,
+        "profile_path": "/7uz3nY7CDzEp0AUjiLpkYG5LVFR.jpg",
+        "credit_id": "671783486fb09e394c02a3ee",
+        "department": "Production",
+        "job": "Producer"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "US",
+        "title": "School in the Crosshairs",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "JP",
+        "title": "Nerawareta gakuen",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "TW",
+        "title": "通靈學園大作戰",
+        "type": ""
+      }
+    ]
+  }
+}

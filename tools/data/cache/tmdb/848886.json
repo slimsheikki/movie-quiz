@@ -1,0 +1,413 @@
+{
+  "adult": false,
+  "backdrop_path": "/rJcswoyg0pw9oRJarbGC0sIazR1.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "",
+  "id": 848886,
+  "imdb_id": "tt14905650",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Hellbender",
+  "overview": "A teen and her mother live simply in a home in the woods, spending their time making rock music. A chance encounter with a fellow teen causes her to uncover a connection between her family and witchcraft, which causes a rift with her mother.",
+  "popularity": 0.7305,
+  "poster_path": "/uLDYfeJ9BvrQsC3MBqMUjG4Hgaz.jpg",
+  "production_companies": [
+    {
+      "id": 118533,
+      "logo_path": null,
+      "name": "Wonder Wheel Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 117711,
+      "logo_path": null,
+      "name": "Yellow Veil Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2021-09-28",
+  "revenue": 67474,
+  "runtime": 83,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Growing Up is Hell.",
+  "title": "Hellbender",
+  "video": false,
+  "vote_average": 5.571,
+  "vote_count": 141,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2315652,
+        "known_for_department": "Acting",
+        "name": "Zelda Adams",
+        "original_name": "Zelda Adams",
+        "popularity": 0.3651,
+        "profile_path": "/ydpCoBQPhHJK1rfREdiHhwtcH84.jpg",
+        "cast_id": 4,
+        "character": "Izzy",
+        "credit_id": "60e7b46c43250f00765a2162",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1384575,
+        "known_for_department": "Acting",
+        "name": "Toby Poser",
+        "original_name": "Toby Poser",
+        "popularity": 0.417,
+        "profile_path": "/nNIoExPi5DLehwJCWscNpG3Iuw0.jpg",
+        "cast_id": 6,
+        "character": "Mother",
+        "credit_id": "61155d643a993700714fbc10",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2315662,
+        "known_for_department": "Acting",
+        "name": "Lulu Adams",
+        "original_name": "Lulu Adams",
+        "popularity": 0.1258,
+        "profile_path": "/AiTZcAveUFBG9SfgDwnI5gqTHnW.jpg",
+        "cast_id": 5,
+        "character": "Amber",
+        "credit_id": "60e7b4759979d20025a4ecaa",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1391986,
+        "known_for_department": "Writing",
+        "name": "John Adams",
+        "original_name": "John Adams",
+        "popularity": 0.2237,
+        "profile_path": "/obxsrhjyuXx2c57OFy8KWRTaDor.jpg",
+        "cast_id": 11,
+        "character": "Uncle",
+        "credit_id": "61155e2dcee4810045886060",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3443160,
+        "known_for_department": "Acting",
+        "name": "Rinzin Thonden",
+        "original_name": "Rinzin Thonden",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "cast_id": 19,
+        "character": "AJ",
+        "credit_id": "6218e9fa54f6eb0069557fec",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3443161,
+        "known_for_department": "Acting",
+        "name": "Khenzom",
+        "original_name": "Khenzom",
+        "popularity": 0.0404,
+        "profile_path": "/cMXwRQRb03TWJpvBExCbJz8vAaJ.jpg",
+        "cast_id": 20,
+        "character": "Ingrid",
+        "credit_id": "6218ea1392e55b001b69e6fb",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2322082,
+        "known_for_department": "Acting",
+        "name": "Shawn Wilson",
+        "original_name": "Shawn Wilson",
+        "popularity": 0.059,
+        "profile_path": "/ruSuWIVYljRtB2qv4ug6cL8sNzI.jpg",
+        "cast_id": 21,
+        "character": "Ranger",
+        "credit_id": "6218ea2054f6eb0043922332",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3443164,
+        "known_for_department": "Acting",
+        "name": "Judy Rosen",
+        "original_name": "Judy Rosen",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "cast_id": 22,
+        "character": "Grandmother",
+        "credit_id": "6218ea3ea885870042195f1f",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2179200,
+        "known_for_department": "Acting",
+        "name": "Rob Figueroa",
+        "original_name": "Rob Figueroa",
+        "popularity": 0.2353,
+        "profile_path": "/vNRuVcvRSmUU3lSA6qp18lTu67I.jpg",
+        "cast_id": 23,
+        "character": "Pool Owner",
+        "credit_id": "6218ea4b0e597b001b9eae4f",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3454589,
+        "known_for_department": "Acting",
+        "name": "Tess McKeegan",
+        "original_name": "Tess McKeegan",
+        "popularity": 0.0261,
+        "profile_path": null,
+        "cast_id": 24,
+        "character": "Shop Owner",
+        "credit_id": "622479dcfe077a006e02b066",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3454590,
+        "known_for_department": "Acting",
+        "name": "John Adams Sr.",
+        "original_name": "John Adams Sr.",
+        "popularity": 0.0546,
+        "profile_path": null,
+        "cast_id": 25,
+        "character": "Man in Shop",
+        "credit_id": "622479ef680be8001c7845b4",
+        "order": 10
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2315652,
+        "known_for_department": "Acting",
+        "name": "Zelda Adams",
+        "original_name": "Zelda Adams",
+        "popularity": 0.3651,
+        "profile_path": "/ydpCoBQPhHJK1rfREdiHhwtcH84.jpg",
+        "credit_id": "60e7b42f83ee670074c6a7a3",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1384575,
+        "known_for_department": "Acting",
+        "name": "Toby Poser",
+        "original_name": "Toby Poser",
+        "popularity": 0.417,
+        "profile_path": "/nNIoExPi5DLehwJCWscNpG3Iuw0.jpg",
+        "credit_id": "60e7b446b7d3520046dac1bc",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1391986,
+        "known_for_department": "Writing",
+        "name": "John Adams",
+        "original_name": "John Adams",
+        "popularity": 0.2237,
+        "profile_path": "/obxsrhjyuXx2c57OFy8KWRTaDor.jpg",
+        "credit_id": "60e7b414df2945005ec96bec",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1391986,
+        "known_for_department": "Writing",
+        "name": "John Adams",
+        "original_name": "John Adams",
+        "popularity": 0.2237,
+        "profile_path": "/obxsrhjyuXx2c57OFy8KWRTaDor.jpg",
+        "credit_id": "61155ee4957e6d007341c179",
+        "department": "Crew",
+        "job": "Cinematography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1391986,
+        "known_for_department": "Writing",
+        "name": "John Adams",
+        "original_name": "John Adams",
+        "popularity": 0.2237,
+        "profile_path": "/obxsrhjyuXx2c57OFy8KWRTaDor.jpg",
+        "credit_id": "61155f01cee481002e251262",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1391986,
+        "known_for_department": "Writing",
+        "name": "John Adams",
+        "original_name": "John Adams",
+        "popularity": 0.2237,
+        "profile_path": "/obxsrhjyuXx2c57OFy8KWRTaDor.jpg",
+        "credit_id": "61155dc935c30a007d39d142",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2315652,
+        "known_for_department": "Acting",
+        "name": "Zelda Adams",
+        "original_name": "Zelda Adams",
+        "popularity": 0.3651,
+        "profile_path": "/ydpCoBQPhHJK1rfREdiHhwtcH84.jpg",
+        "credit_id": "61155eef006b0100469ee7bc",
+        "department": "Crew",
+        "job": "Cinematography"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1384575,
+        "known_for_department": "Acting",
+        "name": "Toby Poser",
+        "original_name": "Toby Poser",
+        "popularity": 0.417,
+        "profile_path": "/nNIoExPi5DLehwJCWscNpG3Iuw0.jpg",
+        "credit_id": "61155ec0f1759c004434ed2e",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1384575,
+        "known_for_department": "Acting",
+        "name": "Toby Poser",
+        "original_name": "Toby Poser",
+        "popularity": 0.417,
+        "profile_path": "/nNIoExPi5DLehwJCWscNpG3Iuw0.jpg",
+        "credit_id": "61155f26cee481004588630f",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1391986,
+        "known_for_department": "Writing",
+        "name": "John Adams",
+        "original_name": "John Adams",
+        "popularity": 0.2237,
+        "profile_path": "/obxsrhjyuXx2c57OFy8KWRTaDor.jpg",
+        "credit_id": "61155ed1cee4810045886187",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1384575,
+        "known_for_department": "Acting",
+        "name": "Toby Poser",
+        "original_name": "Toby Poser",
+        "popularity": 0.417,
+        "profile_path": "/nNIoExPi5DLehwJCWscNpG3Iuw0.jpg",
+        "credit_id": "61155de6350398005ce75abb",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2315652,
+        "known_for_department": "Acting",
+        "name": "Zelda Adams",
+        "original_name": "Zelda Adams",
+        "popularity": 0.3651,
+        "profile_path": "/ydpCoBQPhHJK1rfREdiHhwtcH84.jpg",
+        "credit_id": "61155ddca76ac500455ad7d4",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1391986,
+        "known_for_department": "Writing",
+        "name": "John Adams",
+        "original_name": "John Adams",
+        "popularity": 0.2237,
+        "profile_path": "/obxsrhjyuXx2c57OFy8KWRTaDor.jpg",
+        "credit_id": "611d59e86c19ea002d8ea2e8",
+        "department": "Sound",
+        "job": "Sound Designer"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "JP",
+        "title": "ヘルベンダー",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "RU",
+        "title": "Хэллбендер",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "KR",
+        "title": "헬벤더",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "US",
+        "title": "H6LLB6ND6R",
+        "type": "Stylized Screen Title"
+      }
+    ]
+  }
+}

@@ -1,0 +1,769 @@
+{
+  "adult": false,
+  "backdrop_path": "/52GxVlOz7EH7jfXWyhrOknZA15s.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "",
+  "id": 69578,
+  "imdb_id": "tt0072007",
+  "origin_country": [
+    "IT"
+  ],
+  "original_language": "it",
+  "original_title": "La polizia chiede aiuto",
+  "overview": "An unidentified fifteen year-old girl is found hanged after an anonymous tip-off.  The girl, Silvia Polvesi, is soon discovered to have been murdered.  A peeping tom is caught with photos of her having sex with a teenage drop-out but he is later released due to lack of evidence.  The investigation, conducted by Inspector Silvestri and the assistant public prosecutor Vittoria Stori, focuses on the girl's parents.  Conspiracies and horrors pile up, as do the body parts.",
+  "popularity": 0.7791,
+  "poster_path": "/ubaVM4VuJQ0NdghwWj8oVxpWM4i.jpg",
+  "production_companies": [
+    {
+      "id": 15324,
+      "logo_path": null,
+      "name": "Primex Italiana",
+      "origin_country": "IT"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    }
+  ],
+  "release_date": "1974-08-10",
+  "revenue": 2468000,
+  "runtime": 96,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Just another suicide until the police discovered... A bloody bathroom. A maniac with a cleaver. A schoolgirl sex ring.",
+  "title": "What Have They Done to Your Daughters?",
+  "video": false,
+  "vote_average": 7.1,
+  "vote_count": 90,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 94420,
+        "known_for_department": "Acting",
+        "name": "Giovanna Ralli",
+        "original_name": "Giovanna Ralli",
+        "popularity": 0.7118,
+        "profile_path": "/6dvHHF5JoFhQg6vD6rG8vyME4zK.jpg",
+        "cast_id": 30,
+        "character": "Asst. DA Vittoria Stori",
+        "credit_id": "5ea4f3a37390c0001da5c011",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 99194,
+        "known_for_department": "Acting",
+        "name": "Claudio Cassinelli",
+        "original_name": "Claudio Cassinelli",
+        "popularity": 0.4494,
+        "profile_path": "/bjHHBnmnWtUpPe9XhFGZWhD6oz2.jpg",
+        "cast_id": 31,
+        "character": "Insp. Silvestri",
+        "credit_id": "5ea4f3d17390c00020a5b0cc",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 10254,
+        "known_for_department": "Acting",
+        "name": "Mario Adorf",
+        "original_name": "Mario Adorf",
+        "popularity": 1.1466,
+        "profile_path": "/dCusK8NWuHzrI3Abf8nDNfe3DfA.jpg",
+        "cast_id": 32,
+        "character": "Insp. Valentini",
+        "credit_id": "5ea4f408a2d2e9001add7ce0",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 30832,
+        "known_for_department": "Acting",
+        "name": "Franco Fabrizi",
+        "original_name": "Franco Fabrizi",
+        "popularity": 0.61,
+        "profile_path": "/qmMv2fKA999PVHVd6c9BAMczRB0.jpg",
+        "cast_id": 33,
+        "character": "Bruno Paglia",
+        "credit_id": "5ea4f428713ed4002453cd19",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 12497,
+        "known_for_department": "Acting",
+        "name": "Farley Granger",
+        "original_name": "Farley Granger",
+        "popularity": 0.9625,
+        "profile_path": "/4Tqi22qSxBdeWGDAOVvfa8pDX8E.jpg",
+        "cast_id": 34,
+        "character": "Mr. Polvesi",
+        "credit_id": "5ea4f44d66f2d2001e3ed4ac",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 24602,
+        "known_for_department": "Acting",
+        "name": "Marina Berti",
+        "original_name": "Marina Berti",
+        "popularity": 0.5323,
+        "profile_path": "/tz0P08zjrqQd8XnBE966qFmU2Jg.jpg",
+        "cast_id": 35,
+        "character": "Mrs. Polvesi",
+        "credit_id": "5ea4f46d6d1bb2001fa433b0",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 143598,
+        "known_for_department": "Acting",
+        "name": "Paolo Turco",
+        "original_name": "Paolo Turco",
+        "popularity": 0.4587,
+        "profile_path": "/oT40XE7kRBy745KHUfF2a4L0f5b.jpg",
+        "cast_id": 36,
+        "character": "Marcello Tosti",
+        "credit_id": "5ea4f49c66f2d2001a3ee763",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 24604,
+        "known_for_department": "Acting",
+        "name": "Corrado Gaipa",
+        "original_name": "Corrado Gaipa",
+        "popularity": 0.2577,
+        "profile_path": "/zqbItAjdOVmAsAXvXLDPOMARjAm.jpg",
+        "cast_id": 37,
+        "character": "DA",
+        "credit_id": "5ea4f4cb3faba00020469753",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 123967,
+        "known_for_department": "Acting",
+        "name": "Micaela Pignatelli",
+        "original_name": "Micaela Pignatelli",
+        "popularity": 0.23,
+        "profile_path": "/2qWgEFsqJct5eueT9VCPPwBsxN.jpg",
+        "cast_id": 38,
+        "character": "Rosa",
+        "credit_id": "5ea4f50135c30a001dbe6fa8",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 556744,
+        "known_for_department": "Acting",
+        "name": "Ferdinando Murolo",
+        "original_name": "Ferdinando Murolo",
+        "popularity": 0.2691,
+        "profile_path": "/1d4JOO9G0gP9BQghmz7w0lPdByj.jpg",
+        "cast_id": 39,
+        "character": "Sgt. Giardina",
+        "credit_id": "5ea4f54e7390c00020a5b214",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 556745,
+        "known_for_department": "Acting",
+        "name": "Salvatore Puntillo",
+        "original_name": "Salvatore Puntillo",
+        "popularity": 0.1715,
+        "profile_path": "/y9cwz2gXnlQ8xeGlujqqGlpXtqH.jpg",
+        "cast_id": 40,
+        "character": "Napoli",
+        "credit_id": "5ea4f56d7390c0001da5c1cf",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 98783,
+        "known_for_department": "Acting",
+        "name": "Eleonora Morana",
+        "original_name": "Eleonora Morana",
+        "popularity": 0.2242,
+        "profile_path": null,
+        "cast_id": 41,
+        "character": "Polvesi's Housemaid",
+        "credit_id": "5ea4f5c17390c00020a5b269",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 52061,
+        "known_for_department": "Acting",
+        "name": "Sherry Buchanan",
+        "original_name": "Sherry Buchanan",
+        "popularity": 0.5102,
+        "profile_path": "/wzGAR50na3gFhu0V2yd6DeSGPwz.jpg",
+        "cast_id": 42,
+        "character": "Silvia Polvesi",
+        "credit_id": "5ea4f5fca2d2e90018dd9405",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 36019,
+        "known_for_department": "Acting",
+        "name": "Roberta Paladini",
+        "original_name": "Roberta Paladini",
+        "popularity": 0.1319,
+        "profile_path": "/roMHgipY8fUeIcJAANM6yubIJnq.jpg",
+        "cast_id": 43,
+        "character": "Patrizia Valentini",
+        "credit_id": "5ea4f6455a46900025113a30",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 239666,
+        "known_for_department": "Acting",
+        "name": "Luigi Antonio Guerra",
+        "original_name": "Luigi Antonio Guerra",
+        "popularity": 0.3338,
+        "profile_path": "/2MH1gI5p2Zy0YUfjzeyYlexLj6U.jpg",
+        "cast_id": 44,
+        "character": "Reporter",
+        "credit_id": "5ea4f6cfbdc34c002026a79a",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 556746,
+        "known_for_department": "Acting",
+        "name": "Renata Moar",
+        "original_name": "Renata Moar",
+        "popularity": 0.2492,
+        "profile_path": "/mikuqWLXfVuQfiw5tUngWr8jPcI.jpg",
+        "cast_id": 45,
+        "character": "Laura",
+        "credit_id": "5ea4f72eec4552001f3fe590",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 556747,
+        "known_for_department": "Acting",
+        "name": "Adriana Falco",
+        "original_name": "Adriana Falco",
+        "popularity": 0.1033,
+        "profile_path": "/aiczsUlQsuhEjV9ytpGmMwi8cEg.jpg",
+        "cast_id": 46,
+        "character": "Giuliana Bigi",
+        "credit_id": "5ea4f769713ed4001f53d17e",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 556748,
+        "known_for_department": "Acting",
+        "name": "Clara Zovianoff",
+        "original_name": "Clara Zovianoff",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 47,
+        "character": "Mrs. Talenti",
+        "credit_id": "5ea4f79c18b751001f384caf",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 556749,
+        "known_for_department": "Acting",
+        "name": "Leonardo Severini",
+        "original_name": "Leonardo Severini",
+        "popularity": 0.1571,
+        "profile_path": "/ySRTsprkpK2WguJQ4KbhKltSSWi.jpg",
+        "cast_id": 48,
+        "character": "Agt. Russo",
+        "credit_id": "5ea4f7f16d1bb2001fa43658",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 556750,
+        "known_for_department": "Acting",
+        "name": "Lorenzo Piani",
+        "original_name": "Lorenzo Piani",
+        "popularity": 0.2945,
+        "profile_path": "/fdF9wf0TQdWIujCKw2HijEaHJ6E.jpg",
+        "cast_id": 49,
+        "character": "Reporter",
+        "credit_id": "5ea4f82d3faba00020469a16",
+        "order": 19
+      },
+      {
+        "adult": true,
+        "gender": 2,
+        "id": 1616540,
+        "known_for_department": "Acting",
+        "name": "Bruno Alias",
+        "original_name": "Bruno Alias",
+        "popularity": 0,
+        "profile_path": "/gyjdfRyN9Vb6kJdUIOT6MOnm7rC.jpg",
+        "cast_id": 50,
+        "character": "Cop / Reporter (uncredited)",
+        "credit_id": "5ea4f85b5a46900025113bf1",
+        "order": 20
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1071993,
+        "known_for_department": "Acting",
+        "name": "Giancarlo Badessi",
+        "original_name": "Giancarlo Badessi",
+        "popularity": 0.2651,
+        "profile_path": "/inOlc0614kcqILyYBTjrZjZ7J1J.jpg",
+        "cast_id": 51,
+        "character": "Paglia's Lawyer (uncredited)",
+        "credit_id": "5ea4f8b735c30a001dbe72aa",
+        "order": 21
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 592516,
+        "known_for_department": "Acting",
+        "name": "Francesco D'Adda",
+        "original_name": "Francesco D'Adda",
+        "popularity": 0.3025,
+        "profile_path": "/onGohuy8umT8uYASqLrtEy4rZU0.jpg",
+        "cast_id": 52,
+        "character": "Doctor (uncredited)",
+        "credit_id": "5ea4f903ec455200273fe9ab",
+        "order": 22
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 43241,
+        "known_for_department": "Acting",
+        "name": "Attilio Dottesio",
+        "original_name": "Attilio Dottesio",
+        "popularity": 0.2667,
+        "profile_path": "/Qe1u3NCklcxRKaua9JRVVRDEjy.jpg",
+        "cast_id": 53,
+        "character": "Coroner (uncredited)",
+        "credit_id": "5ea4f957ec455200213ffe73",
+        "order": 23
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 239655,
+        "known_for_department": "Acting",
+        "name": "Giuseppe Marrocco",
+        "original_name": "Giuseppe Marrocco",
+        "popularity": 0.2316,
+        "profile_path": "/tM6oJt72UIgOslnkIYTrBr0wLmi.jpg",
+        "cast_id": 54,
+        "character": "Cop (uncredited)",
+        "credit_id": "5ea4f99fdb72c0001fbd11d1",
+        "order": 24
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 132262,
+        "known_for_department": "Acting",
+        "name": "Steffen Zacharias",
+        "original_name": "Steffen Zacharias",
+        "popularity": 0.6289,
+        "profile_path": "/i5RxP1CZgpEK5FnrMksZo9AJKcu.jpg",
+        "cast_id": 55,
+        "character": "Prof. Beltrame (uncredited)",
+        "credit_id": "5ea4f9e67304b50020648bbe",
+        "order": 25
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1606424,
+        "known_for_department": "Acting",
+        "name": "Luciano Zanussi",
+        "original_name": "Luciano Zanussi",
+        "popularity": 0.1416,
+        "profile_path": "/gGeJtSS8qfp7ke50NN8yhswl9S.jpg",
+        "cast_id": 56,
+        "character": "Cop (uncredited)",
+        "credit_id": "5ea4fa1cbdc34c002626a1f3",
+        "order": 26
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 14268,
+        "known_for_department": "Camera",
+        "name": "Massimo Dallamano",
+        "original_name": "Massimo Dallamano",
+        "popularity": 0.2484,
+        "profile_path": "/nCmj8TrzIPa9dUmOALDnlmjiOhV.jpg",
+        "credit_id": "5ea4fa946d1bb20024a424d9",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1580988,
+        "known_for_department": "Directing",
+        "name": "Vanda Tuzzi",
+        "original_name": "Vanda Tuzzi",
+        "popularity": 0.1306,
+        "profile_path": null,
+        "credit_id": "5ea4fe4e713ed4001d53c28c",
+        "department": "Directing",
+        "job": "Continuity"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 67974,
+        "known_for_department": "Editing",
+        "name": "Antonio Siciliano",
+        "original_name": "Antonio Siciliano",
+        "popularity": 0.1179,
+        "profile_path": null,
+        "credit_id": "5ea4fbe566f2d2001a3eee76",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1354624,
+        "known_for_department": "Production",
+        "name": "Paolo Infascelli",
+        "original_name": "Paolo Infascelli",
+        "popularity": 0.1368,
+        "profile_path": null,
+        "credit_id": "5ea4fc35a2d2e90018dd99df",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2615095,
+        "known_for_department": "Editing",
+        "name": "Loredana Cruciani",
+        "original_name": "Loredana Cruciani",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "credit_id": "5ea4fe325a469000251140e1",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 29501,
+        "known_for_department": "Sound",
+        "name": "Stelvio Cipriani",
+        "original_name": "Stelvio Cipriani",
+        "popularity": 0.1588,
+        "profile_path": "/qtrsEv285HuZnGqHrBpCVLhT71S.jpg",
+        "credit_id": "5ea4fb40db72c00026bd215d",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1208454,
+        "known_for_department": "Directing",
+        "name": "Mimmola Girosi",
+        "original_name": "Mimmola Girosi",
+        "popularity": 0.1345,
+        "profile_path": null,
+        "credit_id": "5ea4fcef3faba0001e46b539",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1710493,
+        "known_for_department": "Sound",
+        "name": "Romano Checcacci",
+        "original_name": "Romano Checcacci",
+        "popularity": 0.175,
+        "profile_path": null,
+        "credit_id": "5ea4fd4bbdc34c002026ad03",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 14268,
+        "known_for_department": "Camera",
+        "name": "Massimo Dallamano",
+        "original_name": "Massimo Dallamano",
+        "popularity": 0.2484,
+        "profile_path": "/nCmj8TrzIPa9dUmOALDnlmjiOhV.jpg",
+        "credit_id": "5ea4fab33faba00020469d26",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 41980,
+        "known_for_department": "Writing",
+        "name": "Ettore Sanzò",
+        "original_name": "Ettore Sanzò",
+        "popularity": 0.1804,
+        "profile_path": null,
+        "credit_id": "5ea4faffbdc34c002026aaf0",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 41980,
+        "known_for_department": "Writing",
+        "name": "Ettore Sanzò",
+        "original_name": "Ettore Sanzò",
+        "popularity": 0.1804,
+        "profile_path": null,
+        "credit_id": "5ea4fb1466f2d200243ee4a3",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1311446,
+        "known_for_department": "Camera",
+        "name": "Giovanni Ciarlo",
+        "original_name": "Giovanni Ciarlo",
+        "popularity": 0.0623,
+        "profile_path": null,
+        "credit_id": "5ea4fd9a3faba0002046a13b",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1125863,
+        "known_for_department": "Camera",
+        "name": "Giancarlo Giannesi",
+        "original_name": "Giancarlo Giannesi",
+        "popularity": 0.0387,
+        "profile_path": null,
+        "credit_id": "5ea4fe02ec455200273fee82",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1438865,
+        "known_for_department": "Production",
+        "name": "Enrico Lucherini",
+        "original_name": "Enrico Lucherini",
+        "popularity": 0.1388,
+        "profile_path": "/e2SFV2aZLQZd4uIL7cBULXooMM2.jpg",
+        "credit_id": "5ea4fefe7390c0001da5ca5d",
+        "department": "Crew",
+        "job": "Unit Publicist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2357724,
+        "known_for_department": "Production",
+        "name": "Egidio Valentini",
+        "original_name": "Egidio Valentini",
+        "popularity": 0.1078,
+        "profile_path": null,
+        "credit_id": "5ea4fc87713ed4001d53c004",
+        "department": "Production",
+        "job": "Production Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 102632,
+        "known_for_department": "Art",
+        "name": "Franco Bottari",
+        "original_name": "Franco Bottari",
+        "popularity": 0.1752,
+        "profile_path": null,
+        "credit_id": "5ea4fc0fa2d2e90021dd9448",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1125628,
+        "known_for_department": "Camera",
+        "name": "Walter Civirani",
+        "original_name": "Walter Civirani",
+        "popularity": 0.0409,
+        "profile_path": null,
+        "credit_id": "5ea4fdd818b751002538567a",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1158637,
+        "known_for_department": "Production",
+        "name": "Margherita Autuori",
+        "original_name": "Margherita Autuori",
+        "popularity": 0.0686,
+        "profile_path": "/jgVm9TgXQsvaO0vJ5GeqLxf1V48.jpg",
+        "credit_id": "5ea4fea77304b5002064903b",
+        "department": "Crew",
+        "job": "Unit Publicist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1046375,
+        "known_for_department": "Acting",
+        "name": "Matteo Spinola",
+        "original_name": "Matteo Spinola",
+        "popularity": 0.1484,
+        "profile_path": null,
+        "credit_id": "5efe4260a76ac50036fe6602",
+        "department": "Crew",
+        "job": "Unit Publicist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 91793,
+        "known_for_department": "Camera",
+        "name": "Franco Delli Colli",
+        "original_name": "Franco Delli Colli",
+        "popularity": 0.1243,
+        "profile_path": "/bqqI3jyhalTdDhfWFGzmxpNUpkk.jpg",
+        "credit_id": "5f13d3a565c26c0038be6976",
+        "department": "Camera",
+        "job": "Director of Photography"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "BR",
+        "title": "O Que Eles Fizeram a Suas Filhas?",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "BG",
+        "title": "Полицията търси помощ",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "FR",
+        "title": "La lame infernale",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "GR",
+        "title": "I amesos drasis se synagermo",
+        "type": "transliteration"
+      },
+      {
+        "iso_3166_1": "GR",
+        "title": "O dolofonos me to balda",
+        "type": "reissue title"
+      },
+      {
+        "iso_3166_1": "GR",
+        "title": "Diestramenos ektelestis",
+        "type": "video title"
+      },
+      {
+        "iso_3166_1": "SU",
+        "title": "Полиция просит помощи",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "ES",
+        "title": "Corrupción de menores",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "SE",
+        "title": "SOS special force",
+        "type": "video title"
+      },
+      {
+        "iso_3166_1": "US",
+        "title": "The Coed Murders",
+        "type": "reissue title"
+      },
+      {
+        "iso_3166_1": "DE",
+        "title": "Der Tod trägt schwarzes Leder",
+        "type": ""
+      }
+    ]
+  }
+}

@@ -1,0 +1,793 @@
+{
+  "adult": false,
+  "backdrop_path": "/h4GVpNGSKwwG2mkaJglibuVXNKt.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    }
+  ],
+  "homepage": "",
+  "id": 88266,
+  "imdb_id": "tt0055022",
+  "origin_country": [
+    "IT"
+  ],
+  "original_language": "it",
+  "original_title": "Gli invasori",
+  "overview": "In the 9th Century, two Viking children, separated since their early childhood with one raised by the British and the other by Vikings, meet after nearly 20 years as rivals as war breaks out between Britian and the Vikings for control of England.",
+  "popularity": 0.78,
+  "poster_path": "/meIpKJlicElyzUWj0lWKTNGgvkd.jpg",
+  "production_companies": [
+    {
+      "id": 10563,
+      "logo_path": null,
+      "name": "Critérion Film",
+      "origin_country": "FR"
+    },
+    {
+      "id": 12240,
+      "logo_path": null,
+      "name": "Galatea Film",
+      "origin_country": "IT"
+    },
+    {
+      "id": 8948,
+      "logo_path": null,
+      "name": "Societé Cinématographique Lyre",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    }
+  ],
+  "release_date": "1961-12-07",
+  "revenue": 0,
+  "runtime": 90,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "status": "Released",
+  "tagline": "He lived only for the flesh and the sword!",
+  "title": "Erik the Conqueror",
+  "video": false,
+  "vote_average": 6.394,
+  "vote_count": 47,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 44728,
+        "known_for_department": "Acting",
+        "name": "Cameron Mitchell",
+        "original_name": "Cameron Mitchell",
+        "popularity": 1.3754,
+        "profile_path": "/niLc67b00QIa0oDWp47mXcv319e.jpg",
+        "cast_id": 1001,
+        "character": "Eron",
+        "credit_id": "52fe49ee9251416c910bd8ed",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 38098,
+        "known_for_department": "Acting",
+        "name": "George Ardisson",
+        "original_name": "George Ardisson",
+        "popularity": 0.2486,
+        "profile_path": "/6F84up4lXrYvqXuQknxSth78v0U.jpg",
+        "cast_id": 1004,
+        "character": "Erik, Duke of Helford",
+        "credit_id": "52fe49ee9251416c910bd8f9",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 935970,
+        "known_for_department": "Acting",
+        "name": "Alice Kessler",
+        "original_name": "Alice Kessler",
+        "popularity": 0.2496,
+        "profile_path": "/Ex5VKSs0xJv3YWl6qP1VeEiFnz.jpg",
+        "cast_id": 1002,
+        "character": "Rama",
+        "credit_id": "52fe49ee9251416c910bd8f1",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 935971,
+        "known_for_department": "Acting",
+        "name": "Ellen Kessler",
+        "original_name": "Ellen Kessler",
+        "popularity": 0.3064,
+        "profile_path": "/uyywdqsTIHNwZN5wvsGUfrMgKxk.jpg",
+        "cast_id": 1003,
+        "character": "Daya",
+        "credit_id": "52fe49ee9251416c910bd8f5",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 66753,
+        "known_for_department": "Acting",
+        "name": "Franco Giacobini",
+        "original_name": "Franco Giacobini",
+        "popularity": 0.2614,
+        "profile_path": "/mHUYrm4dSxhzhpmDKQv3v16xKrU.jpg",
+        "cast_id": 1020,
+        "character": "Rustichello",
+        "credit_id": "52fe49ee9251416c910bd923",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 50782,
+        "known_for_department": "Acting",
+        "name": "Raf Baldassarre",
+        "original_name": "Raf Baldassarre",
+        "popularity": 0.5096,
+        "profile_path": "/nIsXAhQKmlmLGUIipS0WHLopO0b.jpg",
+        "cast_id": 1021,
+        "character": "Blak",
+        "credit_id": "52fe49ee9251416c910bd927",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 935976,
+        "known_for_department": "Production",
+        "name": "Enzo Doria",
+        "original_name": "Enzo Doria",
+        "popularity": 0.2146,
+        "profile_path": "/lvtX45EBWvdsT6pIDaqFqY3OIpK.jpg",
+        "cast_id": 1009,
+        "character": "Bennet",
+        "credit_id": "52fe49ee9251416c910bd8fd",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 51741,
+        "known_for_department": "Acting",
+        "name": "Franco Ressel",
+        "original_name": "Franco Ressel",
+        "popularity": 0.385,
+        "profile_path": "/c0Wwk6DyCisS771oq7joIl7E3Ku.jpg",
+        "cast_id": 1017,
+        "character": "King Lotar",
+        "credit_id": "52fe49ee9251416c910bd915",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 50783,
+        "known_for_department": "Acting",
+        "name": "Livia Contardi",
+        "original_name": "Livia Contardi",
+        "popularity": 0.1515,
+        "profile_path": null,
+        "cast_id": 1012,
+        "character": "Hadda",
+        "credit_id": "52fe49ee9251416c910bd905",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 24751,
+        "known_for_department": "Acting",
+        "name": "Françoise Christophe",
+        "original_name": "Françoise Christophe",
+        "popularity": 0.3586,
+        "profile_path": "/9KRHa5fWVs3TCXTVSSi9UJy1yRK.jpg",
+        "cast_id": 1019,
+        "character": "Queen Alice",
+        "credit_id": "52fe49ee9251416c910bd91f",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2568,
+        "known_for_department": "Acting",
+        "name": "Folco Lulli",
+        "original_name": "Folco Lulli",
+        "popularity": 0.5258,
+        "profile_path": "/gfVZNKsHiLB9ihdBluvirsH0Pd7.jpg",
+        "cast_id": 1013,
+        "character": "King Harald",
+        "credit_id": "52fe49ee9251416c910bd909",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 238768,
+        "known_for_department": "Acting",
+        "name": "Jean-Jacques Delbo",
+        "original_name": "Jean-Jacques Delbo",
+        "popularity": 0.1869,
+        "profile_path": "/dqX3NXWfla0mzmgekHQVu2818p7.jpg",
+        "cast_id": 1015,
+        "character": "Olaf",
+        "credit_id": "52fe49ee9251416c910bd90d",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 45036,
+        "known_for_department": "Acting",
+        "name": "Andrea Checchi",
+        "original_name": "Andrea Checchi",
+        "popularity": 0.4259,
+        "profile_path": "/u17146Cldv7L8mjSdNkOx76n01r.jpg",
+        "cast_id": 1016,
+        "character": "Sir Rutford",
+        "credit_id": "52fe49ee9251416c910bd911",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 50786,
+        "known_for_department": "Acting",
+        "name": "Gianni Solaro",
+        "original_name": "Gianni Solaro",
+        "popularity": 0.2227,
+        "profile_path": "/4a2O5ra7oIOkL09iHvSyUkBSzYA.jpg",
+        "cast_id": 1024,
+        "character": "Ranco",
+        "credit_id": "5606fb979251413050002659",
+        "order": 13
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 25826,
+        "known_for_department": "Directing",
+        "name": "Mario Bava",
+        "original_name": "Mario Bava",
+        "popularity": 0.8138,
+        "profile_path": "/vDx5usGSp8Fygmvo4jnepQ4EQRN.jpg",
+        "credit_id": "52fe49ee9251416c910bd91b",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 24851,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Mario Giorsi",
+        "original_name": "Mario Giorsi",
+        "popularity": 0.1818,
+        "profile_path": null,
+        "credit_id": "63d0014f0d2f5301d9a5ce80",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1832803,
+        "known_for_department": "Sound",
+        "name": "Luigi Urbini",
+        "original_name": "Luigi Urbini",
+        "popularity": 0.1002,
+        "profile_path": null,
+        "credit_id": "63d0021991745b00c0155d9a",
+        "department": "Sound",
+        "job": "Conductor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 91794,
+        "known_for_department": "Art",
+        "name": "Giorgio Giovannini",
+        "original_name": "Giorgio Giovannini",
+        "popularity": 0.1635,
+        "profile_path": null,
+        "credit_id": "63d001741b157d00d5498e50",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 137066,
+        "known_for_department": "Directing",
+        "name": "Tonino Ricci",
+        "original_name": "Tonino Ricci",
+        "popularity": 0.3411,
+        "profile_path": "/usF7Om1mPBMZvbUumWNzrxyabxp.jpg",
+        "credit_id": "63d00095cf9ba30080b4c6c8",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 99437,
+        "known_for_department": "Directing",
+        "name": "Franco Prosperi",
+        "original_name": "Franco Prosperi",
+        "popularity": 0.3244,
+        "profile_path": null,
+        "credit_id": "63d0007db6cff1007c8c0044",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 99451,
+        "known_for_department": "Production",
+        "name": "Paolo Mercuri",
+        "original_name": "Paolo Mercuri",
+        "popularity": 0.107,
+        "profile_path": null,
+        "credit_id": "63d00015b6cff1007c8c0024",
+        "department": "Production",
+        "job": "Unit Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1309439,
+        "known_for_department": "Editing",
+        "name": "Lina Caterini",
+        "original_name": "Lina Caterini",
+        "popularity": 0.132,
+        "profile_path": null,
+        "credit_id": "63d00008b6cff100aa0830e6",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2962433,
+        "known_for_department": "Production",
+        "name": "Arturo Padovani",
+        "original_name": "Arturo Padovani",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "63d00048cf9ba30080b4c6ad",
+        "department": "Production",
+        "job": "Production Secretary"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 41637,
+        "known_for_department": "Writing",
+        "name": "Oreste Biancoli",
+        "original_name": "Oreste Biancoli",
+        "popularity": 0.3587,
+        "profile_path": null,
+        "credit_id": "63cfffcc0d2f5301d9a5cdf8",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2352737,
+        "known_for_department": "Sound",
+        "name": "Tonino Cacciottolo",
+        "original_name": "Tonino Cacciottolo",
+        "popularity": 0.1097,
+        "profile_path": null,
+        "credit_id": "63d0011b0d2f5301d1eff749",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 269201,
+        "known_for_department": "Directing",
+        "name": "Piero Pierotti",
+        "original_name": "Piero Pierotti",
+        "popularity": 0.2183,
+        "profile_path": null,
+        "credit_id": "63cfffd5b6cff100b936475a",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2369022,
+        "known_for_department": "Production",
+        "name": "Dante Brini",
+        "original_name": "Dante Brini",
+        "popularity": 0.0829,
+        "profile_path": null,
+        "credit_id": "63d0005a1685da00bef80895",
+        "department": "Production",
+        "job": "Administration"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 101547,
+        "known_for_department": "Art",
+        "name": "Massimo Tavazzi",
+        "original_name": "Massimo Tavazzi",
+        "popularity": 0.1632,
+        "profile_path": null,
+        "credit_id": "63d00102cf9ba3009c49f231",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1876316,
+        "known_for_department": "Sound",
+        "name": "Roberto Mattioli",
+        "original_name": "Roberto Mattioli",
+        "popularity": 0.0648,
+        "profile_path": null,
+        "credit_id": "63d001101685da00bef808ed",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2330156,
+        "known_for_department": "Sound",
+        "name": "Pietro Vesperini",
+        "original_name": "Pietro Vesperini",
+        "popularity": 0.2003,
+        "profile_path": null,
+        "credit_id": "63d0012f0d2f5301e11593de",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3810034,
+        "known_for_department": "Camera",
+        "name": "Giuseppe Berta",
+        "original_name": "Giuseppe Berta",
+        "popularity": 0.0404,
+        "profile_path": null,
+        "credit_id": "63d000d9b6cff100b93647b6",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 99489,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Tina Grani",
+        "original_name": "Tina Grani",
+        "popularity": 0.0545,
+        "profile_path": null,
+        "credit_id": "63d00165b6cff100b93647f5",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 25826,
+        "known_for_department": "Directing",
+        "name": "Mario Bava",
+        "original_name": "Mario Bava",
+        "popularity": 0.8138,
+        "profile_path": "/vDx5usGSp8Fygmvo4jnepQ4EQRN.jpg",
+        "credit_id": "63cfffdc91745b0081076f7f",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1368360,
+        "known_for_department": "Production",
+        "name": "Armando Govoni",
+        "original_name": "Armando Govoni",
+        "popularity": 0.0954,
+        "profile_path": null,
+        "credit_id": "63d00033cf9ba30080b4c69c",
+        "department": "Production",
+        "job": "Unit Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1659253,
+        "known_for_department": "Camera",
+        "name": "Enrico Fontana",
+        "original_name": "Enrico Fontana",
+        "popularity": 0.0667,
+        "profile_path": null,
+        "credit_id": "63d000cc1b157d00d5498e19",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1314147,
+        "known_for_department": "Production",
+        "name": "Lionello Santi",
+        "original_name": "Lionello Santi",
+        "popularity": 0.1397,
+        "profile_path": null,
+        "credit_id": "63d002571b157d0082ddfafb",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1909847,
+        "known_for_department": "Directing",
+        "name": "Anita Borgiotti",
+        "original_name": "Anita Borgiotti",
+        "popularity": 0.0398,
+        "profile_path": null,
+        "credit_id": "63d000ec0d2f53022e460631",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 50788,
+        "known_for_department": "Sound",
+        "name": "Roberto Nicolosi",
+        "original_name": "Roberto Nicolosi",
+        "popularity": 0.1114,
+        "profile_path": null,
+        "credit_id": "5916225892514156f5024b65",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 15132,
+        "known_for_department": "Editing",
+        "name": "Mario Serandrei",
+        "original_name": "Mario Serandrei",
+        "popularity": 0.1936,
+        "profile_path": null,
+        "credit_id": "59162274c3a3683a93022ce1",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 25826,
+        "known_for_department": "Directing",
+        "name": "Mario Bava",
+        "original_name": "Mario Bava",
+        "popularity": 0.8138,
+        "profile_path": "/vDx5usGSp8Fygmvo4jnepQ4EQRN.jpg",
+        "credit_id": "5916224e92514157230246e4",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 41637,
+        "known_for_department": "Writing",
+        "name": "Oreste Biancoli",
+        "original_name": "Oreste Biancoli",
+        "popularity": 0.3587,
+        "profile_path": null,
+        "credit_id": "599f3df2c3a36805f300290b",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1594766,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Euclide Santoli",
+        "original_name": "Euclide Santoli",
+        "popularity": 0.0586,
+        "profile_path": null,
+        "credit_id": "599f3e7cc3a36805d9002860",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1140826,
+        "known_for_department": "Directing",
+        "name": "Giovanni Narzisi",
+        "original_name": "Giovanni Narzisi",
+        "popularity": 0.1259,
+        "profile_path": null,
+        "credit_id": "599f3ee492514145280029aa",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 25826,
+        "known_for_department": "Directing",
+        "name": "Mario Bava",
+        "original_name": "Mario Bava",
+        "popularity": 0.8138,
+        "profile_path": "/vDx5usGSp8Fygmvo4jnepQ4EQRN.jpg",
+        "credit_id": "599f3e1a92514144f90026e8",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1660367,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Mara Rocchetti",
+        "original_name": "Mara Rocchetti",
+        "popularity": 0.1829,
+        "profile_path": null,
+        "credit_id": "599f3e6ac3a36806180024ea",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1626029,
+        "known_for_department": "Sound",
+        "name": "Aldo Zanni",
+        "original_name": "Aldo Zanni",
+        "popularity": 0.0327,
+        "profile_path": null,
+        "credit_id": "599f3f4c92514145130028e7",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 269201,
+        "known_for_department": "Directing",
+        "name": "Piero Pierotti",
+        "original_name": "Piero Pierotti",
+        "popularity": 0.2183,
+        "profile_path": null,
+        "credit_id": "599f3e09c3a36805d90027d8",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 98482,
+        "known_for_department": "Writing",
+        "name": "Massimo De Rita",
+        "original_name": "Massimo De Rita",
+        "popularity": 0.7447,
+        "profile_path": "/1mAe76dI869bN1Eq4j0C7cPb1fL.jpg",
+        "credit_id": "599f3e9992514144f900278d",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 544151,
+        "known_for_department": "Directing",
+        "name": "Leopoldo Savona",
+        "original_name": "Leopoldo Savona",
+        "popularity": 0.1186,
+        "profile_path": null,
+        "credit_id": "599f3eb1c3a36805f30029f2",
+        "department": "Crew",
+        "job": "Choreographer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 98483,
+        "known_for_department": "Camera",
+        "name": "Ubaldo Terzano",
+        "original_name": "Ubaldo Terzano",
+        "popularity": 0.1639,
+        "profile_path": null,
+        "credit_id": "599f3f09c3a368062e002430",
+        "department": "Camera",
+        "job": "Camera Operator"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "IT",
+        "title": "Gil Invasori",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "FR",
+        "title": "La ruée des Vikings",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "GB",
+        "title": "The Invaders",
+        "type": "literal title"
+      },
+      {
+        "iso_3166_1": "DE",
+        "title": "Das Königsmal",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "GB",
+        "title": "Fury of the Vikings",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "RU",
+        "title": "Захватчики",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "RU",
+        "title": "Вторженцы",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "RU",
+        "title": "Эрик-завоеватель",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "BR",
+        "title": "A Vingança dos Vikings",
+        "type": ""
+      }
+    ]
+  }
+}

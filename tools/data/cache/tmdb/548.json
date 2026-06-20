@@ -1,0 +1,667 @@
+{
+  "adult": false,
+  "backdrop_path": "/tDn1dA52bQH9B85vilHeU7C83W1.jpg",
+  "belongs_to_collection": null,
+  "budget": 250000,
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "homepage": "",
+  "id": 548,
+  "imdb_id": "tt0042876",
+  "origin_country": [
+    "JP"
+  ],
+  "original_language": "ja",
+  "original_title": "羅生門",
+  "overview": "Four people recount different versions of the story of a man's murder and the rape of his wife.",
+  "popularity": 5.8706,
+  "poster_path": "/vL7Xw04nFMHwnvXRFCmYYAzMUvY.jpg",
+  "production_companies": [
+    {
+      "id": 880,
+      "logo_path": "/vwhPRAZ4lhUtSuaifk4Au2MIm92.png",
+      "name": "Daiei Film",
+      "origin_country": "JP"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    }
+  ],
+  "release_date": "1950-08-26",
+  "revenue": 117668,
+  "runtime": 88,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The husband, the wife… or the bandit?",
+  "title": "Rashomon",
+  "video": false,
+  "vote_average": 8.035,
+  "vote_count": 2525,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 7450,
+        "known_for_department": "Acting",
+        "name": "Toshirō Mifune",
+        "original_name": "三船敏郎",
+        "popularity": 2.0777,
+        "profile_path": "/3A9PqrtiXHLp8B2JL7m3YvVXrmL.jpg",
+        "cast_id": 5,
+        "character": "Tajômaru",
+        "credit_id": "52fe4250c3a36847f8014887",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 7451,
+        "known_for_department": "Acting",
+        "name": "Machiko Kyō",
+        "original_name": "京マチ子",
+        "popularity": 0.8997,
+        "profile_path": "/24tQVUgGN4s6rp1P9qlnT74RSJI.jpg",
+        "cast_id": 6,
+        "character": "Masako",
+        "credit_id": "52fe4250c3a36847f801488b",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 7453,
+        "known_for_department": "Acting",
+        "name": "Takashi Shimura",
+        "original_name": "志村喬",
+        "popularity": 2.2823,
+        "profile_path": "/ydyAm2vyBbEPZRICIMqqjDm0NM9.jpg",
+        "cast_id": 8,
+        "character": "Woodcutter",
+        "credit_id": "52fe4250c3a36847f8014893",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 7452,
+        "known_for_department": "Acting",
+        "name": "Masayuki Mori",
+        "original_name": "森雅之",
+        "popularity": 1.1352,
+        "profile_path": "/4HZFAdEGIOk7HxJjcdcxfL4k1x3.jpg",
+        "cast_id": 7,
+        "character": "Takehiro",
+        "credit_id": "52fe4250c3a36847f801488f",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 7454,
+        "known_for_department": "Acting",
+        "name": "Minoru Chiaki",
+        "original_name": "千秋実",
+        "popularity": 1.4146,
+        "profile_path": "/9E3efYEg8pxANdfVLqYGiX8zJE8.jpg",
+        "cast_id": 9,
+        "character": "Priest",
+        "credit_id": "52fe4250c3a36847f8014897",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 7455,
+        "known_for_department": "Acting",
+        "name": "Kichijirō Ueda",
+        "original_name": "上田吉二郎",
+        "popularity": 0.7335,
+        "profile_path": "/qjBYqwAobeFnOhpkxNnv36IvCQy.jpg",
+        "cast_id": 10,
+        "character": "Commoner",
+        "credit_id": "52fe4250c3a36847f801489b",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 7456,
+        "known_for_department": "Acting",
+        "name": "Noriko Honma",
+        "original_name": "本間文子",
+        "popularity": 0.5956,
+        "profile_path": "/r0Z6sTGdmRsm3TVJ7wxPD9xfoNC.jpg",
+        "cast_id": 11,
+        "character": "Medium",
+        "credit_id": "52fe4250c3a36847f801489f",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 7457,
+        "known_for_department": "Acting",
+        "name": "Daisuke Katō",
+        "original_name": "加東大介",
+        "popularity": 1.274,
+        "profile_path": "/dTcLO2XWLwp6RiJTpwDjxzbnuSp.jpg",
+        "cast_id": 12,
+        "character": "Policeman",
+        "credit_id": "52fe4250c3a36847f80148a3",
+        "order": 7
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5026,
+        "known_for_department": "Directing",
+        "name": "Akira Kurosawa",
+        "original_name": "黒澤明",
+        "popularity": 2.6745,
+        "profile_path": "/ca8fRqLDfTJTCamLKHp70up23ET.jpg",
+        "credit_id": "52fe4250c3a36847f8014871",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 7448,
+        "known_for_department": "Writing",
+        "name": "Ryūnosuke Akutagawa",
+        "original_name": "芥川龍之介",
+        "popularity": 0.4648,
+        "profile_path": "/axKzvkOaYqldfwggTq3eN6GvYnb.jpg",
+        "credit_id": "52fe4250c3a36847f8014877",
+        "department": "Writing",
+        "job": "Novel"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5026,
+        "known_for_department": "Directing",
+        "name": "Akira Kurosawa",
+        "original_name": "黒澤明",
+        "popularity": 2.6745,
+        "profile_path": "/ca8fRqLDfTJTCamLKHp70up23ET.jpg",
+        "credit_id": "52fe4250c3a36847f801487d",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 7449,
+        "known_for_department": "Writing",
+        "name": "Shinobu Hashimoto",
+        "original_name": "橋本忍",
+        "popularity": 1.7594,
+        "profile_path": "/Aakm6YsthiBZHdkfE7OnqPVyrPl.jpg",
+        "credit_id": "52fe4250c3a36847f8014883",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 7458,
+        "known_for_department": "Production",
+        "name": "Jingo Minoura",
+        "original_name": "Jingo Minoura",
+        "popularity": 0.0281,
+        "profile_path": null,
+        "credit_id": "52fe4250c3a36847f80148a9",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 7459,
+        "known_for_department": "Production",
+        "name": "Masaichi Nagata",
+        "original_name": "永田雅一",
+        "popularity": 0.4158,
+        "profile_path": "/dPuhe47WZSUIu4IzFtrg8olqF9K.jpg",
+        "credit_id": "52fe4250c3a36847f80148af",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 7460,
+        "known_for_department": "Sound",
+        "name": "Fumio Hayasaka",
+        "original_name": "早坂文雄",
+        "popularity": 0.4801,
+        "profile_path": "/A4t45XV0SXKnYzZNkzrjCl4jHUy.jpg",
+        "credit_id": "52fe4250c3a36847f80148b5",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 7461,
+        "known_for_department": "Camera",
+        "name": "Kazuo Miyagawa",
+        "original_name": "宮川一夫",
+        "popularity": 0.3402,
+        "profile_path": "/zOuiKy1s39qfm1eY6HBF6OIFIBu.jpg",
+        "credit_id": "52fe4250c3a36847f80148bb",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5026,
+        "known_for_department": "Directing",
+        "name": "Akira Kurosawa",
+        "original_name": "黒澤明",
+        "popularity": 2.6745,
+        "profile_path": "/ca8fRqLDfTJTCamLKHp70up23ET.jpg",
+        "credit_id": "52fe4250c3a36847f80148c1",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 7462,
+        "known_for_department": "Art",
+        "name": "H. Motsumoto",
+        "original_name": "松本春造",
+        "popularity": 0.0614,
+        "profile_path": null,
+        "credit_id": "61d5f018c15f89009ffbd280",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1513913,
+        "known_for_department": "Art",
+        "name": "Takashi Matsuyama",
+        "original_name": "松山崇",
+        "popularity": 0.4462,
+        "profile_path": null,
+        "credit_id": "61d5f043bb2602001c770098",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3370787,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Uichi Ôhata",
+        "original_name": "Uichi Ôhata",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "61d5f0561b722c5dbb3f9c17",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 239213,
+        "known_for_department": "Directing",
+        "name": "Tai Katō",
+        "original_name": "加藤泰",
+        "popularity": 0.7098,
+        "profile_path": "/esoFwGkSiFu9D5xSUXhUsr7dboC.jpg",
+        "credit_id": "56c2052f92514105da0030ef",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 83199,
+        "known_for_department": "Directing",
+        "name": "Tokuzō Tanaka",
+        "original_name": "田中徳三",
+        "popularity": 0.8353,
+        "profile_path": "/955mUKMcFxKnW9lrSQ4fXx9M0Tc.jpg",
+        "credit_id": "56c2055492514105da0030f6",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1273295,
+        "known_for_department": "Directing",
+        "name": "Mitsuo Wakasugi",
+        "original_name": "若杉光夫",
+        "popularity": 0.5087,
+        "profile_path": null,
+        "credit_id": "56c205eec3a368180600ef24",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1578078,
+        "known_for_department": "Sound",
+        "name": "Tsuchitarō Hayashi",
+        "original_name": "林土太郎",
+        "popularity": 0.1237,
+        "profile_path": null,
+        "credit_id": "56c2065792514158e3000c53",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 554162,
+        "known_for_department": "Camera",
+        "name": "Fujio Morita",
+        "original_name": "森田富士郎",
+        "popularity": 0.2583,
+        "profile_path": "/unnqL260aqg0tnVoIVzXyyLenEF.jpg",
+        "credit_id": "56c207759251410d67002582",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1143488,
+        "known_for_department": "Lighting",
+        "name": "Gengon Nakaoka",
+        "original_name": "中岡源権",
+        "popularity": 0.1637,
+        "profile_path": null,
+        "credit_id": "56c207c592514167b2002793",
+        "department": "Lighting",
+        "job": "Lighting Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 143707,
+        "known_for_department": "Directing",
+        "name": "Teruyo Nogami",
+        "original_name": "野上照代",
+        "popularity": 0.4375,
+        "profile_path": "/yo6YxxkjGhq9n8jG1RJaigY01RL.jpg",
+        "credit_id": "56c208369251415ece001771",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1111737,
+        "known_for_department": "Sound",
+        "name": "Iwao Ōtani",
+        "original_name": "大谷巌",
+        "popularity": 0.2036,
+        "profile_path": null,
+        "credit_id": "56d591c9925141391f003581",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1267600,
+        "known_for_department": "Lighting",
+        "name": "Ken'ichi Okamoto",
+        "original_name": "岡本健一",
+        "popularity": 0.242,
+        "profile_path": null,
+        "credit_id": "699df963d557922abe06649a",
+        "department": "Lighting",
+        "job": "Gaffer"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "BG",
+        "title": "Рашомон",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "HU",
+        "title": "A vihar kapujában",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "NO",
+        "title": "Demonenes port",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "PT",
+        "title": "Às Portas do Inferno",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "VN",
+        "title": "Lã Sinh Môn",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "TR",
+        "title": "Sari Irkin Sehveti",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "ES",
+        "title": "El bosque ensangrentado",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "UA",
+        "title": "Расьомон",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "KR",
+        "title": "라쇼몽",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "GB",
+        "title": "Rashômon",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "LT",
+        "title": "Rašomonas",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "GR",
+        "title": "Ρασομόν",
+        "type": "DVD title"
+      },
+      {
+        "iso_3166_1": "KR",
+        "title": "나생문",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "US",
+        "title": "Rashomon",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "SE",
+        "title": "Rashomon - demonernas port",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "FI",
+        "title": "Rashomon - paholaisen temppeli",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "CN",
+        "title": "罗生门",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "CN",
+        "title": "Luo Sheng Men",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "JP",
+        "title": "羅生門",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "PT",
+        "title": "Rashomon - Às Portas do Inferno",
+        "type": "alternative title"
+      },
+      {
+        "iso_3166_1": "BY",
+        "title": "Расёмо́н",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "RU",
+        "title": "Расёмон",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "AZ",
+        "title": "Raşomon",
+        "type": "Azeri title"
+      },
+      {
+        "iso_3166_1": "DE",
+        "title": "Rashomon – Das Lustwäldchen",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "HR",
+        "title": "Rašomon",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "LV",
+        "title": "Rasomons",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "LT",
+        "title": "Rasiomonas",
+        "type": "alternative title"
+      },
+      {
+        "iso_3166_1": "FI",
+        "title": "Rashomon – paholaisen portti",
+        "type": "alternative title"
+      },
+      {
+        "iso_3166_1": "SE",
+        "title": "Demonernas port",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "CZ",
+        "title": "Rašómon",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "AM",
+        "title": "Ռասյոմոն",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "GE",
+        "title": "რასიომონი",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "IR",
+        "title": "راشومون",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "IL",
+        "title": "רשומון",
+        "type": "Hebrew title"
+      },
+      {
+        "iso_3166_1": "BD",
+        "title": "রাশোমোন",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "IN",
+        "title": "റാഷമോൺ",
+        "type": "Malayalam title"
+      },
+      {
+        "iso_3166_1": "IN",
+        "title": "ராஷோமொன்",
+        "type": "Tamil title"
+      },
+      {
+        "iso_3166_1": "IN",
+        "title": "रशोमोन",
+        "type": "Marathi title"
+      },
+      {
+        "iso_3166_1": "IN",
+        "title": "రషోమాన్",
+        "type": "Tegulu title"
+      },
+      {
+        "iso_3166_1": "IN",
+        "title": "ರಾಶೋಮನ್",
+        "type": "Kannada title"
+      },
+      {
+        "iso_3166_1": "TH",
+        "title": "ราโชมอน",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "FR",
+        "title": "La Porte de la Vie",
+        "type": "literal French title"
+      }
+    ]
+  }
+}

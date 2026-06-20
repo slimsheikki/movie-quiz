@@ -1,0 +1,440 @@
+{
+  "adult": false,
+  "backdrop_path": "/hjKXHB5bF6uR0ME0GShBtrjj7Mn.jpg",
+  "belongs_to_collection": null,
+  "budget": 65000,
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "",
+  "id": 27642,
+  "imdb_id": "tt0060877",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Queen of Blood",
+  "overview": "A spaceship is sent to Mars after an alien distress signal is picked up. They find one survivor, but when a crew member is found drained of blood it's evident they have rescued a bloodsucking monster. Uses footage from Encounter in Space (1963).",
+  "popularity": 0.499,
+  "poster_path": "/A9tKCHTbbWTOxj7AsYPfnz4ybwY.jpg",
+  "production_companies": [
+    {
+      "id": 4698,
+      "logo_path": null,
+      "name": "Cinema West Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 9266,
+      "logo_path": "/lRinQ7scVye5N8qkUIoCB4QXbRh.png",
+      "name": "American International Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1966-03-01",
+  "revenue": 1730000,
+  "runtime": 81,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "NEW HIGHS IN BLOOD CHILLING HORROR!",
+  "title": "Queen of Blood",
+  "video": false,
+  "vote_average": 5.245,
+  "vote_count": 47,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 98516,
+        "known_for_department": "Acting",
+        "name": "Florence Marly",
+        "original_name": "Florence Marly",
+        "popularity": 0.3398,
+        "profile_path": "/uw9yYoVj77wZIZe9zm1qAtKuJvJ.jpg",
+        "cast_id": 11,
+        "character": "Alien Queen",
+        "credit_id": "52fe455cc3a368484e055975",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 8727,
+        "known_for_department": "Acting",
+        "name": "Basil Rathbone",
+        "original_name": "Basil Rathbone",
+        "popularity": 1.1666,
+        "profile_path": "/kwDz2jfV06m2ljpTHfaC509FAmJ.jpg",
+        "cast_id": 8,
+        "character": "Dr. Farraday",
+        "credit_id": "52fe455cc3a368484e055969",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 11163,
+        "known_for_department": "Acting",
+        "name": "John Saxon",
+        "original_name": "John Saxon",
+        "popularity": 1.7252,
+        "profile_path": "/rQh2ddJYtP3x2g1mnlFBQz547FO.jpg",
+        "cast_id": 7,
+        "character": "Allan Brenner",
+        "credit_id": "52fe455cc3a368484e055965",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 34624,
+        "known_for_department": "Acting",
+        "name": "Judi Meredith",
+        "original_name": "Judi Meredith",
+        "popularity": 0.4506,
+        "profile_path": "/eyLmXEFkAQVch6NUtTqTYIWsdGu.jpg",
+        "cast_id": 9,
+        "character": "Laura James",
+        "credit_id": "52fe455cc3a368484e05596d",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2778,
+        "known_for_department": "Acting",
+        "name": "Dennis Hopper",
+        "original_name": "Dennis Hopper",
+        "popularity": 2.3049,
+        "profile_path": "/hfrzsJhkX7Vphe3pVYk8lA9BNfg.jpg",
+        "cast_id": 10,
+        "character": "Paul Grant",
+        "credit_id": "52fe455cc3a368484e055971",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 26149,
+        "known_for_department": "Acting",
+        "name": "Robert Boon",
+        "original_name": "Robert Boon",
+        "popularity": 0.1796,
+        "profile_path": null,
+        "cast_id": 12,
+        "character": "Anders Brockman",
+        "credit_id": "52fe455cc3a368484e055979",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 98517,
+        "known_for_department": "Acting",
+        "name": "Don Eitner",
+        "original_name": "Don Eitner",
+        "popularity": 0.3648,
+        "profile_path": null,
+        "cast_id": 13,
+        "character": "Tony Barrata",
+        "credit_id": "52fe455cc3a368484e05597d",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 8954,
+        "known_for_department": "Acting",
+        "name": "Virgil Frye",
+        "original_name": "Virgil Frye",
+        "popularity": 0.4969,
+        "profile_path": "/ryJZmbNAFOOLREZUZ2XZlr3kP99.jpg",
+        "cast_id": 14,
+        "character": "Control Panel",
+        "credit_id": "52fe455cc3a368484e055981",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 44762,
+        "known_for_department": "Acting",
+        "name": "Forrest J. Ackerman",
+        "original_name": "Forrest J. Ackerman",
+        "popularity": 0.5612,
+        "profile_path": "/b0Sj5Yt71ruCJN4CKUHOppWvHVG.jpg",
+        "cast_id": 15,
+        "character": "Farraday's Aide",
+        "credit_id": "52fe455cc3a368484e055985",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1060266,
+        "known_for_department": "Writing",
+        "name": "Gary Crutcher",
+        "original_name": "Gary Crutcher",
+        "popularity": 0.1855,
+        "profile_path": null,
+        "cast_id": 29,
+        "character": "Spaceship Crew Member",
+        "credit_id": "647f3910aede5900fc2d3e6e",
+        "order": 9
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 44725,
+        "known_for_department": "Directing",
+        "name": "Curtis Harrington",
+        "original_name": "Curtis Harrington",
+        "popularity": 0.3681,
+        "profile_path": "/3my60VLWbu47jMRyVGTfg6QcoK1.jpg",
+        "credit_id": "52fe455cc3a368484e055949",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 102429,
+        "known_for_department": "Production",
+        "name": "Roger Corman",
+        "original_name": "Roger Corman",
+        "popularity": 1.1151,
+        "profile_path": "/m0ApZMol42l8vLV8MLpUSCpyA6n.jpg",
+        "credit_id": "52fe455cc3a368484e05598b",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 98512,
+        "known_for_department": "Production",
+        "name": "George Edwards",
+        "original_name": "George Edwards",
+        "popularity": 0.1797,
+        "profile_path": null,
+        "credit_id": "52fe455cc3a368484e05594f",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 44725,
+        "known_for_department": "Directing",
+        "name": "Curtis Harrington",
+        "original_name": "Curtis Harrington",
+        "popularity": 0.3681,
+        "profile_path": "/3my60VLWbu47jMRyVGTfg6QcoK1.jpg",
+        "credit_id": "52fe455cc3a368484e055943",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 98514,
+        "known_for_department": "Directing",
+        "name": "Stephanie Rothman",
+        "original_name": "Stephanie Rothman",
+        "popularity": 0.1626,
+        "profile_path": "/cD3RQZ7k5dNBhwcjWo8nfXVK1cA.jpg",
+        "credit_id": "52fe455cc3a368484e05595b",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 91999,
+        "known_for_department": "Sound",
+        "name": "Ronald Stein",
+        "original_name": "Ronald Stein",
+        "popularity": 0.1062,
+        "profile_path": null,
+        "credit_id": "52fe455cc3a368484e055955",
+        "department": "Sound",
+        "job": "Music Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 30904,
+        "known_for_department": "Production",
+        "name": "Samuel Z. Arkoff",
+        "original_name": "Samuel Z. Arkoff",
+        "popularity": 0.2896,
+        "profile_path": "/2HduSEowO35hhpZrkCj2sdmxe4R.jpg",
+        "credit_id": "52fe455cc3a368484e055961",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1016873,
+        "known_for_department": "Art",
+        "name": "Al Locatelli",
+        "original_name": "Al Locatelli",
+        "popularity": 0.0844,
+        "profile_path": null,
+        "credit_id": "60cfcfc5c0ae360056001ca5",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1614602,
+        "known_for_department": "Editing",
+        "name": "Leo H. Shreve",
+        "original_name": "Leo H. Shreve",
+        "popularity": 0.0981,
+        "profile_path": null,
+        "credit_id": "60cfcfb8d43f010029875a34",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 70810,
+        "known_for_department": "Camera",
+        "name": "Vilis Lapenieks",
+        "original_name": "Vilis Lapenieks",
+        "popularity": 0.1261,
+        "profile_path": null,
+        "credit_id": "60cfcfab43d9b10057a552e7",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3131269,
+        "known_for_department": "Art",
+        "name": "Leon Smith",
+        "original_name": "Leon Smith",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "60cfcfe2dfe31d002a44315a",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3131275,
+        "known_for_department": "Costume & Make-Up",
+        "name": "George Spier",
+        "original_name": "George Spier",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "60cfd02daf959000291d042f",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 14842,
+        "known_for_department": "Sound",
+        "name": "James Nelson",
+        "original_name": "James Nelson",
+        "popularity": 0.3051,
+        "profile_path": null,
+        "credit_id": "60cfd05a002134003f8650ce",
+        "department": "Sound",
+        "job": "Sound Effects"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3131274,
+        "known_for_department": "Costume & Make-Up",
+        "name": "William Condos",
+        "original_name": "William Condos",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "60cfd01cc2b9df0057eb5530",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3131277,
+        "known_for_department": "Sound",
+        "name": "Harold Garver",
+        "original_name": "Harold Garver",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "60cfd03c6654080057644ac1",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1070097,
+        "known_for_department": "Sound",
+        "name": "Gene Corso",
+        "original_name": "Gene Corso",
+        "popularity": 0.1462,
+        "profile_path": null,
+        "credit_id": "60cfd04ad399e6002a7d13dc",
+        "department": "Sound",
+        "job": "Sound Effects"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 91999,
+        "known_for_department": "Sound",
+        "name": "Ronald Stein",
+        "original_name": "Ronald Stein",
+        "popularity": 0.1062,
+        "profile_path": null,
+        "credit_id": "69c883c53a657d45b611010c",
+        "department": "Sound",
+        "job": "Music"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "US",
+        "title": "Planet of Blood",
+        "type": "alternate"
+      }
+    ]
+  }
+}

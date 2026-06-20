@@ -1,0 +1,591 @@
+{
+  "adult": false,
+  "backdrop_path": "/pK8jgMF9o5SBq7grQzVnpeqib7Y.jpg",
+  "belongs_to_collection": {
+    "id": 721280,
+    "name": "Suicide Club Collection",
+    "poster_path": "/ryPH6Miw3RTz5d4CJHs22uQFBQ1.jpg",
+    "backdrop_path": null
+  },
+  "budget": 250000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 12720,
+  "imdb_id": "tt0312843",
+  "origin_country": [
+    "JP"
+  ],
+  "original_language": "ja",
+  "original_title": "自殺サークル",
+  "overview": "When the bizarre mass suicide of 54 high school girls throwing themselves in front of a subway train appears to instigate a string of suicides around the country, Detective Kuroda strives to find the answer, which isn't as simple as he had hoped.",
+  "popularity": 1.8524,
+  "poster_path": "/oMjWlKHzR9cwhf3oCUy9j57o67O.jpg",
+  "production_companies": [
+    {
+      "id": 1195,
+      "logo_path": null,
+      "name": "Omega Project",
+      "origin_country": "JP"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    }
+  ],
+  "release_date": "2001-10-29",
+  "revenue": 0,
+  "runtime": 99,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Well then, goodbye everybody.",
+  "title": "Suicide Club",
+  "video": false,
+  "vote_average": 6.462,
+  "vote_count": 571,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 68973,
+        "known_for_department": "Acting",
+        "name": "Masatoshi Nagase",
+        "original_name": "永瀬正敏",
+        "popularity": 1.3207,
+        "profile_path": "/i4FjAoP2xPtG82lEGnIkL7mFc6g.jpg",
+        "cast_id": 3,
+        "character": "Detective Shibusawa",
+        "credit_id": "52fe451a9251416c7504be1b",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4994,
+        "known_for_department": "Acting",
+        "name": "Ryo Ishibashi",
+        "original_name": "石橋凌",
+        "popularity": 1.526,
+        "profile_path": "/1q8noUaI5E0ykjLdXRZcn7U79LN.jpg",
+        "cast_id": 1,
+        "character": "Detective Kuroda",
+        "credit_id": "52fe451a9251416c7504be13",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 73675,
+        "known_for_department": "Acting",
+        "name": "Sayako Hagiwara",
+        "original_name": "Sayako Hagiwara",
+        "popularity": 0.1113,
+        "profile_path": "/ciVjtwcDbx23Bfbn91hBczypJHW.jpg",
+        "cast_id": 38,
+        "character": "Mitsuko",
+        "credit_id": "69d2a72a029acbe29b9094de",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 145928,
+        "known_for_department": "Acting",
+        "name": "Mai Hosho",
+        "original_name": "宝生舞",
+        "popularity": 0.675,
+        "profile_path": "/qpTb1srRE0205QjOgqFyJ88j1vP.jpg",
+        "cast_id": 21,
+        "character": "Nurse Atsuko Sawada",
+        "credit_id": "52fe451b9251416c7504be71",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1025312,
+        "known_for_department": "Acting",
+        "name": "Tamao Sato",
+        "original_name": "さとう珠緒",
+        "popularity": 0.8378,
+        "profile_path": "/5eutONhlS27mRf4alEZMnQ6HTxZ.jpg",
+        "cast_id": 22,
+        "character": "Nurse Yôko Kawaguchi",
+        "credit_id": "52fe451b9251416c7504be75",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2038952,
+        "known_for_department": "Acting",
+        "name": "Takashi Nomura",
+        "original_name": "Takashi Nomura",
+        "popularity": 0.1992,
+        "profile_path": "/4Xffihe0wN5E4SdLpImK1EUwELe.jpg",
+        "cast_id": 30,
+        "character": "Security Guard Jiro Suzuki",
+        "credit_id": "5af242420e0a2668af00415c",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2544,
+        "known_for_department": "Acting",
+        "name": "Akaji Maro",
+        "original_name": "麿赤兒",
+        "popularity": 1.075,
+        "profile_path": "/lvgPJd8MeHEyqeR18oo5Gq7u7ED.jpg",
+        "cast_id": 2,
+        "character": "Detective Murata",
+        "credit_id": "52fe451a9251416c7504be17",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 73676,
+        "known_for_department": "Acting",
+        "name": "Hideo Sako",
+        "original_name": "Hideo Sako",
+        "popularity": 0.1838,
+        "profile_path": "/rpPuBesGXzS2MB9VE3uTWMmmDou.jpg",
+        "cast_id": 5,
+        "character": "Detective Hagitani",
+        "credit_id": "52fe451b9251416c7504be23",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 227086,
+        "known_for_department": "Acting",
+        "name": "Nao Nagasawa",
+        "original_name": "長澤奈央",
+        "popularity": 1.3589,
+        "profile_path": "/yjnWr6KxZoiOhs72L11eNUrSVWd.jpg",
+        "cast_id": 20,
+        "character": "Classmate",
+        "credit_id": "52fe451b9251416c7504be6d",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1091279,
+        "known_for_department": "Acting",
+        "name": "ROLLY",
+        "original_name": "ROLLY",
+        "popularity": 0.1308,
+        "profile_path": "/4Wrme3ao7hj7HnSluV9Lildr4Bb.jpg",
+        "cast_id": 23,
+        "character": "Muneo 'Genesis' Suzuki",
+        "credit_id": "52fe451b9251416c7504be79",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 144933,
+        "known_for_department": "Acting",
+        "name": "Masato Tsujioka",
+        "original_name": "辻岡正人",
+        "popularity": 0.3829,
+        "profile_path": "/vhsCAGkNp5kuJIhwrmoBnN2yLSw.jpg",
+        "cast_id": 24,
+        "character": "Genesis' Gang",
+        "credit_id": "52fe451b9251416c7504be7d",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1091284,
+        "known_for_department": "Acting",
+        "name": "Kôsuke Hamamoto",
+        "original_name": "Kôsuke Hamamoto",
+        "popularity": 0.0721,
+        "profile_path": null,
+        "cast_id": 25,
+        "character": "Genesis' Gang",
+        "credit_id": "52fe451b9251416c7504be81",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1091286,
+        "known_for_department": "Acting",
+        "name": "Yoko Kamon",
+        "original_name": "嘉門洋子",
+        "popularity": 1.0467,
+        "profile_path": "/gqGKbU8amjc3OFiCvJ9N7oA1Xsr.jpg",
+        "cast_id": 27,
+        "character": "The Bat / Kiyoko",
+        "credit_id": "52fe451b9251416c7504be89",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1091285,
+        "known_for_department": "Acting",
+        "name": "Kei Nagase",
+        "original_name": "Kei Nagase",
+        "popularity": 0.0429,
+        "profile_path": null,
+        "cast_id": 26,
+        "character": "Genesis' Gang",
+        "credit_id": "52fe451b9251416c7504be85",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1091287,
+        "known_for_department": "Acting",
+        "name": "Maiko Mori",
+        "original_name": "Maiko Mori",
+        "popularity": 0.1371,
+        "profile_path": null,
+        "cast_id": 28,
+        "character": "Kiyoko's Sister",
+        "credit_id": "52fe451b9251416c7504be8d",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1417325,
+        "known_for_department": "Acting",
+        "name": "Suzunosuke Tanaka",
+        "original_name": "鈴之助",
+        "popularity": 1.1564,
+        "profile_path": "/6IjOHn6iBjdWfuZ8Nty7o12UpgS.jpg",
+        "cast_id": 29,
+        "character": "",
+        "credit_id": "54c1db369251412489002e51",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2092720,
+        "known_for_department": "Acting",
+        "name": "Kanako Hiramatsu",
+        "original_name": "平松可奈子",
+        "popularity": 0.0712,
+        "profile_path": "/1FJLtiGc3NSPDXbYhSCUQDjeVbo.jpg",
+        "cast_id": 31,
+        "character": "",
+        "credit_id": "5b5a993c0e0a266998006ce0",
+        "order": 16
+      },
+      {
+        "adult": true,
+        "gender": 1,
+        "id": 209006,
+        "known_for_department": "Acting",
+        "name": "Keiko Suzuki",
+        "original_name": "Keiko Suzuki",
+        "popularity": 0,
+        "profile_path": "/A2rKWZpalWggNAU1jQQdpmR1dir.jpg",
+        "cast_id": 32,
+        "character": "",
+        "credit_id": "5ef94e1e27d9cc0037b3a7e6",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2613944,
+        "known_for_department": "Acting",
+        "name": "Ryuji Kasahara",
+        "original_name": "笠原竜司",
+        "popularity": 0.1643,
+        "profile_path": null,
+        "cast_id": 33,
+        "character": "",
+        "credit_id": "6668f858e71034010fbea3f9",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 80864,
+        "known_for_department": "Acting",
+        "name": "Kimiko Yo",
+        "original_name": "余貴美子",
+        "popularity": 1.7331,
+        "profile_path": "/g1NZGtCzJKpqgdjNbNYaKBPyYRw.jpg",
+        "cast_id": 34,
+        "character": "",
+        "credit_id": "6668f86b282af652f2d0458e",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 135524,
+        "known_for_department": "Acting",
+        "name": "Kenjiro Tsuda",
+        "original_name": "津田健次郎",
+        "popularity": 3.5036,
+        "profile_path": "/yBlT8FzQqZYbDcJlnCEayNQHrzS.jpg",
+        "cast_id": 35,
+        "character": "",
+        "credit_id": "6668f87af37d0694b2ea0633",
+        "order": 20
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1291355,
+        "known_for_department": "Writing",
+        "name": "Mitsuru Kuramoto",
+        "original_name": "Mitsuru Kuramoto",
+        "popularity": 0.1448,
+        "profile_path": null,
+        "cast_id": 36,
+        "character": "",
+        "credit_id": "66c5fa52afa254b816d5d27e",
+        "order": 21
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 73685,
+        "known_for_department": "Editing",
+        "name": "Masahiro Onaga",
+        "original_name": "大永昌弘",
+        "popularity": 0.1687,
+        "profile_path": null,
+        "credit_id": "52fe451b9251416c7504be5d",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 67075,
+        "known_for_department": "Directing",
+        "name": "Sion Sono",
+        "original_name": "園子温",
+        "popularity": 4.4512,
+        "profile_path": "/nuPRCFqZRmw8qYLfoLUxJPtcwjX.jpg",
+        "credit_id": "52fe451b9251416c7504be63",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 73682,
+        "known_for_department": "Production",
+        "name": "Seiji Yoshida",
+        "original_name": "Seiji Yoshida",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "52fe451b9251416c7504be4b",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 73678,
+        "known_for_department": "Production",
+        "name": "Seiya Kawamata",
+        "original_name": "Seiya Kawamata",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "52fe451b9251416c7504be2d",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 73683,
+        "known_for_department": "Sound",
+        "name": "Tomoki Hasegawa",
+        "original_name": "長谷川智樹",
+        "popularity": 0.245,
+        "profile_path": "/1tr7qQ2WE7tZFn2NQgwA5mUQZZ4.jpg",
+        "credit_id": "52fe451b9251416c7504be51",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 67075,
+        "known_for_department": "Directing",
+        "name": "Sion Sono",
+        "original_name": "園子温",
+        "popularity": 4.4512,
+        "profile_path": "/nuPRCFqZRmw8qYLfoLUxJPtcwjX.jpg",
+        "credit_id": "52fe451b9251416c7504be69",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 73679,
+        "known_for_department": "Production",
+        "name": "Atsushi Numata",
+        "original_name": "Atsushi Numata",
+        "popularity": 0.056,
+        "profile_path": null,
+        "credit_id": "52fe451b9251416c7504be33",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 73680,
+        "known_for_department": "Production",
+        "name": "Junichi Tanaka",
+        "original_name": "Junichi Tanaka",
+        "popularity": 0.0239,
+        "profile_path": null,
+        "credit_id": "52fe451b9251416c7504be39",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 67083,
+        "known_for_department": "Production",
+        "name": "Toshiie Tomida",
+        "original_name": "Toshiie Tomida",
+        "popularity": 0.0398,
+        "profile_path": null,
+        "credit_id": "52fe451b9251416c7504be3f",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 73684,
+        "known_for_department": "Camera",
+        "name": "Kazuto Sato",
+        "original_name": "佐藤和豊",
+        "popularity": 0.1482,
+        "profile_path": "/4iQ7uHPSWRZzjwfVIE7yCsVqjR.jpg",
+        "credit_id": "52fe451b9251416c7504be57",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 73681,
+        "known_for_department": "Production",
+        "name": "Toyoyuki Yokohama",
+        "original_name": "横濱豊行",
+        "popularity": 0.4248,
+        "profile_path": null,
+        "credit_id": "52fe451b9251416c7504be45",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2443515,
+        "known_for_department": "Lighting",
+        "name": "Haruo Hara",
+        "original_name": "原春男",
+        "popularity": 0.1802,
+        "profile_path": null,
+        "credit_id": "6797efb00e1e0486d62b5327",
+        "department": "Lighting",
+        "job": "Gaffer"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "US",
+        "title": "Suicide Circle",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "US",
+        "title": "Suicide Club",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "DE",
+        "title": "Suicide Circle",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "JP",
+        "title": "Jisatsu Sâkuru",
+        "type": "romanization"
+      },
+      {
+        "iso_3166_1": "RU",
+        "title": "Клуб самоубийц",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "ES",
+        "title": "Suicide Club",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "ES",
+        "title": "El club del suicidio",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "AR",
+        "title": "El club de los suicidas",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "CN",
+        "title": "循环自杀",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "UA",
+        "title": "Клуб самогубців",
+        "type": ""
+      }
+    ]
+  }
+}

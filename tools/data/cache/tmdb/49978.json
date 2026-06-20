@@ -1,0 +1,336 @@
+{
+  "adult": false,
+  "backdrop_path": "/NV1IxvmfqxrVsHrDcapgULDdeX.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ],
+  "homepage": "https://www.kinolorber.com/film/view/id/3742",
+  "id": 49978,
+  "imdb_id": "tt0096863",
+  "origin_country": [
+    "HU"
+  ],
+  "original_language": "hu",
+  "original_title": "Az én XX. századom",
+  "overview": "A tale of twin girls, Dóra and Lili, who are born in 1880 Budapest at the same moment Thomas Edison presents his electric lightbulb to the world. The sisters are soon orphaned and separated in childhood, and follow different paths: one grows up to be a naïvely idealistic, bomb-toting anarchist, the other a pampered, hedonistic courtesan. Their paths cross once again on the Orient Express on New Year's Eve 1899...",
+  "popularity": 0.355,
+  "poster_path": "/sXdS2zI9cRnZzwyxbjduvxPoj64.jpg",
+  "production_companies": [
+    {
+      "id": 18566,
+      "logo_path": "/pJqBuKw0zgxaAPg12xkq59hnIAr.png",
+      "name": "freihändler filmproduktion",
+      "origin_country": "CH"
+    },
+    {
+      "id": 31947,
+      "logo_path": null,
+      "name": "Hamburger Filmbüro",
+      "origin_country": "DE"
+    },
+    {
+      "id": 51617,
+      "logo_path": null,
+      "name": "Magyar Filmgyártó Vállalat",
+      "origin_country": ""
+    },
+    {
+      "id": 96999,
+      "logo_path": null,
+      "name": "Budapest Stúdió Vállalat",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CU",
+      "name": "Cuba"
+    },
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    },
+    {
+      "iso_3166_1": "HU",
+      "name": "Hungary"
+    }
+  ],
+  "release_date": "1989-09-01",
+  "revenue": 0,
+  "runtime": 102,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Hungarian",
+      "iso_639_1": "hu",
+      "name": "Magyar"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "My Twentieth Century",
+  "video": false,
+  "vote_average": 6.511,
+  "vote_count": 47,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1020809,
+        "known_for_department": "Acting",
+        "name": "Dorota Segda",
+        "original_name": "Dorota Segda",
+        "popularity": 0.1478,
+        "profile_path": "/iAZb60x5zJSl6KA83PFqnrdlIyN.jpg",
+        "cast_id": 2,
+        "character": "Dóra/Lilii/Anya",
+        "credit_id": "53dac6e2c3a36872b100046c",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 14635,
+        "known_for_department": "Acting",
+        "name": "Paulus Manker",
+        "original_name": "Paulus Manker",
+        "popularity": 0.3109,
+        "profile_path": "/1QaR8Ez7CAVGSGCIwTUahkfRhOC.jpg",
+        "cast_id": 4,
+        "character": "Weininger Ottó",
+        "credit_id": "53dac709c3a368729300049f",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 125763,
+        "known_for_department": "Acting",
+        "name": "Péter Andorai",
+        "original_name": "Andorai Péter",
+        "popularity": 0.1722,
+        "profile_path": "/wu7abYOqJGwnB1MB7uiwjcheJhj.jpg",
+        "cast_id": 5,
+        "character": "Thomas Edison",
+        "credit_id": "53dac720c3a36872a600040d",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 125401,
+        "known_for_department": "Acting",
+        "name": "Gábor Máté",
+        "original_name": "Máté Gábor",
+        "popularity": 0.2011,
+        "profile_path": "/6EF2PNZxvNsEvr1qg7q4aYMkVxW.jpg",
+        "cast_id": 6,
+        "character": "K",
+        "credit_id": "53dac72ec3a36872a10004cb",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1348224,
+        "known_for_department": "Sound",
+        "name": "Eszter Kovács",
+        "original_name": "Kovács Eszter",
+        "popularity": 0.0416,
+        "profile_path": null,
+        "cast_id": 8,
+        "character": "Iker",
+        "credit_id": "53dac768c3a36872a6000413",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1090481,
+        "known_for_department": "Acting",
+        "name": "Oleg Yankovskiy",
+        "original_name": "Олег Янковский",
+        "popularity": 0.616,
+        "profile_path": "/4Mw5mEOQKSkpV0zKEGZcfHOYSGL.jpg",
+        "cast_id": 9,
+        "character": "Z",
+        "credit_id": "58c3c550c3a3681ad0001601",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1918487,
+        "known_for_department": "Acting",
+        "name": "Sándor Czvetkó",
+        "original_name": "Sándor Czvetkó",
+        "popularity": 0.0322,
+        "profile_path": null,
+        "cast_id": 10,
+        "character": "Anarchista fiú",
+        "credit_id": "5a004a23925141470505e898",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1918488,
+        "known_for_department": "Acting",
+        "name": "Gyula Kéry",
+        "original_name": "Gyula Kéry",
+        "popularity": 0.0239,
+        "profile_path": null,
+        "cast_id": 11,
+        "character": "ékszerész",
+        "credit_id": "5a004a49c3a368687e0551f1",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1755699,
+        "known_for_department": "Directing",
+        "name": "Andrej Schwartz",
+        "original_name": "Andrej Schwartz",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 12,
+        "character": "Segéd",
+        "credit_id": "5a004a5592514146bd062036",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1354687,
+        "known_for_department": "Acting",
+        "name": "Sándor Téri",
+        "original_name": "Sándor Téri",
+        "popularity": 0.1821,
+        "profile_path": null,
+        "cast_id": 13,
+        "character": "Huszár",
+        "credit_id": "5a004a6292514146f506007b",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1918489,
+        "known_for_department": "Acting",
+        "name": "Endre Koronczi",
+        "original_name": "Endre Koronczi",
+        "popularity": 0.2581,
+        "profile_path": null,
+        "cast_id": 14,
+        "character": "Lift boy",
+        "credit_id": "5a004a6fc3a36868a70555fc",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2604060,
+        "known_for_department": "Directing",
+        "name": "Dániel Ács",
+        "original_name": "Dániel Ács",
+        "popularity": 0.0468,
+        "profile_path": "/8Oi8HHn5TGCupyLdTi6DCTZpFfp.jpg",
+        "cast_id": 19,
+        "character": "",
+        "credit_id": "6803e4d3c5c8035fb089a749",
+        "order": 11
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1059880,
+        "known_for_department": "Directing",
+        "name": "Ildikó Enyedi",
+        "original_name": "Enyedi Ildikó",
+        "popularity": 0.4472,
+        "profile_path": "/1kU6MLhnizfBJuTj4gfz03euz2k.jpg",
+        "credit_id": "52fe47b3c3a36847f8143949",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1059882,
+        "known_for_department": "Camera",
+        "name": "Tibor Máthé",
+        "original_name": "Máthé Tibor",
+        "popularity": 0.0552,
+        "profile_path": null,
+        "credit_id": "5a58b6500e0a2634ed009e69",
+        "department": "Crew",
+        "job": "Cinematography"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1059880,
+        "known_for_department": "Directing",
+        "name": "Ildikó Enyedi",
+        "original_name": "Enyedi Ildikó",
+        "popularity": 0.4472,
+        "profile_path": "/1kU6MLhnizfBJuTj4gfz03euz2k.jpg",
+        "credit_id": "5a58b643c3a3681e6200990d",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 56312,
+        "known_for_department": "Sound",
+        "name": "László Vidovszky",
+        "original_name": "László Vidovszky",
+        "popularity": 0.0639,
+        "profile_path": null,
+        "credit_id": "5a58b660c3a3681e78009f54",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1451065,
+        "known_for_department": "Editing",
+        "name": "Mária Rigó",
+        "original_name": "Mária Rigó",
+        "popularity": 0.0905,
+        "profile_path": null,
+        "credit_id": "5a58b66dc3a3681e98009d8c",
+        "department": "Editing",
+        "job": "Editor"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "US",
+        "title": "My 20th Century",
+        "type": ""
+      }
+    ]
+  }
+}

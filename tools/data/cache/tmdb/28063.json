@@ -1,0 +1,593 @@
+{
+  "adult": false,
+  "backdrop_path": "/8VWhM8zR1Dy38kVrGduqr5I4fcM.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ],
+  "homepage": "",
+  "id": 28063,
+  "imdb_id": "tt0052667",
+  "origin_country": [
+    "IT"
+  ],
+  "original_language": "it",
+  "original_title": "Caltiki il mostro immortale",
+  "overview": "Academic researchers are chased by a nuclear-hot specimen of ancient Mayan blob.",
+  "popularity": 0.5261,
+  "poster_path": "/jS8eyq1MfK84GrkM708UkBE29hm.jpg",
+  "production_companies": [
+    {
+      "id": 1679,
+      "logo_path": null,
+      "name": "Lux Film",
+      "origin_country": "IT"
+    },
+    {
+      "id": 53179,
+      "logo_path": null,
+      "name": "Climax Pictures",
+      "origin_country": ""
+    },
+    {
+      "id": 12240,
+      "logo_path": null,
+      "name": "Galatea Film",
+      "origin_country": "IT"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    }
+  ],
+  "release_date": "1959-08-07",
+  "revenue": 0,
+  "runtime": 76,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Slimy Glob of Doom Engulfs The World!",
+  "title": "Caltiki, the Immortal Monster",
+  "video": false,
+  "vote_average": 5.8,
+  "vote_count": 54,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 99527,
+        "known_for_department": "Acting",
+        "name": "John Merivale",
+        "original_name": "John Merivale",
+        "popularity": 0.1122,
+        "profile_path": "/nVUTbBFIucv1QtwxPLA0LxTDoMs.jpg",
+        "cast_id": 10,
+        "character": "Dr. John Fielding",
+        "credit_id": "52fe4576c3a368484e05ca47",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2329537,
+        "known_for_department": "Acting",
+        "name": "Didi Sullivan",
+        "original_name": "Didi Sullivan",
+        "popularity": 0.0895,
+        "profile_path": "/1SYnuMMV1SKhxSjzE5KeSV3EwRH.jpg",
+        "cast_id": 40,
+        "character": "Ellen Fielding",
+        "credit_id": "628aedb705b5490065464e41",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 80692,
+        "known_for_department": "Acting",
+        "name": "Gérard Herter",
+        "original_name": "Gérard Herter",
+        "popularity": 0.3126,
+        "profile_path": "/904WMrXe4E7Xyv8x54zo2JLQy9n.jpg",
+        "cast_id": 12,
+        "character": "Max Gunther",
+        "credit_id": "52fe4576c3a368484e05ca4f",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 83461,
+        "known_for_department": "Acting",
+        "name": "Daniela Rocca",
+        "original_name": "Daniela Rocca",
+        "popularity": 0.4006,
+        "profile_path": "/vThV4vilYjWLu9Wj5uuqcM4BOXa.jpg",
+        "cast_id": 13,
+        "character": "Linda",
+        "credit_id": "52fe4576c3a368484e05ca53",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 99529,
+        "known_for_department": "Acting",
+        "name": "Vittorio André",
+        "original_name": "Vittorio André",
+        "popularity": 0.1318,
+        "profile_path": "/qIEQrb2oBVJK7pxHllzpr1hE9In.jpg",
+        "cast_id": 14,
+        "character": "Prof. Rodriguez",
+        "credit_id": "52fe4576c3a368484e05ca57",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 39020,
+        "known_for_department": "Acting",
+        "name": "Daniele Vargas",
+        "original_name": "Daniele Vargas",
+        "popularity": 0.4286,
+        "profile_path": "/fb5Qgqt8I4i0tNjAEcEsGemiMwl.jpg",
+        "cast_id": 17,
+        "character": "Bob",
+        "credit_id": "52fe4576c3a368484e05ca63",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 99530,
+        "known_for_department": "Acting",
+        "name": "Nerio Bernardi",
+        "original_name": "Nerio Bernardi",
+        "popularity": 0.4632,
+        "profile_path": "/syfYHY3DeTXSdwGvRb9W9lPwyyJ.jpg",
+        "cast_id": 18,
+        "character": "Police Inspector",
+        "credit_id": "52fe4576c3a368484e05ca67",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 22479,
+        "known_for_department": "Acting",
+        "name": "Giacomo Rossi Stuart",
+        "original_name": "Giacomo Rossi Stuart",
+        "popularity": 0.7487,
+        "profile_path": "/mHy2Yc93UADNPkw2hnThrsnjyLh.jpg",
+        "cast_id": 15,
+        "character": "Prof. Rodriguez's Assistant",
+        "credit_id": "52fe4576c3a368484e05ca5b",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2811485,
+        "known_for_department": "Acting",
+        "name": "Gail Pearl",
+        "original_name": "Gail Pearl",
+        "popularity": 0.0429,
+        "profile_path": "/99Sunzt8uL77aEBcwhg4mAkrVI0.jpg",
+        "cast_id": 31,
+        "character": "Indian Dancer",
+        "credit_id": "5f82c5cafa27f4003bd8741d",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 39432,
+        "known_for_department": "Acting",
+        "name": "Tom Felleghy",
+        "original_name": "Tom Felleghy",
+        "popularity": 0.3121,
+        "profile_path": "/uddfp0a5SEP33FqT5B7oYGHX3cg.jpg",
+        "cast_id": 19,
+        "character": "Astronomo",
+        "credit_id": "52fe4576c3a368484e05ca6b",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 98485,
+        "known_for_department": "Acting",
+        "name": "Arturo Dominici",
+        "original_name": "Arturo Dominici",
+        "popularity": 0.4376,
+        "profile_path": "/pzM2qzKSLad1EHW12Sbwv4Ae1if.jpg",
+        "cast_id": 16,
+        "character": "Nieto",
+        "credit_id": "52fe4576c3a368484e05ca5f",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 25826,
+        "known_for_department": "Directing",
+        "name": "Mario Bava",
+        "original_name": "Mario Bava",
+        "popularity": 0.8138,
+        "profile_path": "/vDx5usGSp8Fygmvo4jnepQ4EQRN.jpg",
+        "cast_id": 32,
+        "character": "Mexican at police station (uncredited)",
+        "credit_id": "5f82c6de2667780036bcc7b8",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 38597,
+        "known_for_department": "Acting",
+        "name": "Renzo Palmer",
+        "original_name": "Renzo Palmer",
+        "popularity": 0.3674,
+        "profile_path": "/i5fcrS6IPiCGRmZquAsDCrdPaL8.jpg",
+        "cast_id": 33,
+        "character": "Narrator (voice)",
+        "credit_id": "5f82c7ca69eb900039bf36a9",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 27842,
+        "known_for_department": "Acting",
+        "name": "Leslie Daniels",
+        "original_name": "Leslie Daniels",
+        "popularity": 0.1386,
+        "profile_path": "/4uWNXxq3846bUtneOcDA08N6qKD.jpg",
+        "cast_id": 21,
+        "character": "Prof. John Fielding (voice)",
+        "credit_id": "5b6ba476925141404f0fce5c",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 103083,
+        "known_for_department": "Acting",
+        "name": "Renato De Carmine",
+        "original_name": "Renato De Carmine",
+        "popularity": 0.1867,
+        "profile_path": "/mCgCcRjvo4CQ94o7SmWLT7cBBgE.jpg",
+        "cast_id": 39,
+        "character": "Prof. John Fielding (voice)",
+        "credit_id": "6220ce7f6f43ec001cb1e4a4",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 238744,
+        "known_for_department": "Acting",
+        "name": "Stefano Sibaldi",
+        "original_name": "Stefano Sibaldi",
+        "popularity": 0.1848,
+        "profile_path": "/13IekqzqVZGhiqJ9FitQ1ICSPmW.jpg",
+        "cast_id": 36,
+        "character": "Max Gunther (voice)",
+        "credit_id": "5f82c8281065d30034d28e35",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1167874,
+        "known_for_department": "Acting",
+        "name": "Michele Malaspina",
+        "original_name": "Michele Malaspina",
+        "popularity": 0.219,
+        "profile_path": null,
+        "cast_id": 35,
+        "character": "Prof. Rodriguez (voice)",
+        "credit_id": "5f82c8186082eb0038e7f067",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1321430,
+        "known_for_department": "Acting",
+        "name": "Rolf Tasna",
+        "original_name": "Rolf Tasna",
+        "popularity": 0.2384,
+        "profile_path": null,
+        "cast_id": 34,
+        "character": "Bob (voice)",
+        "credit_id": "5f82c7fb95c0af00367a0dc5",
+        "order": 17
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 99525,
+        "known_for_department": "Directing",
+        "name": "Sam Schneider",
+        "original_name": "Sam Schneider",
+        "popularity": 0.0416,
+        "profile_path": null,
+        "credit_id": "52fe4576c3a368484e05ca31",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 25826,
+        "known_for_department": "Directing",
+        "name": "Mario Bava",
+        "original_name": "Mario Bava",
+        "popularity": 0.8138,
+        "profile_path": "/vDx5usGSp8Fygmvo4jnepQ4EQRN.jpg",
+        "credit_id": "52fe4576c3a368484e05ca13",
+        "department": "Crew",
+        "job": "Special Effects"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 99450,
+        "known_for_department": "Production",
+        "name": "Salvatore Billitteri",
+        "original_name": "Salvatore Billitteri",
+        "popularity": 0.1289,
+        "profile_path": null,
+        "credit_id": "52fe4576c3a368484e05ca19",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 25826,
+        "known_for_department": "Directing",
+        "name": "Mario Bava",
+        "original_name": "Mario Bava",
+        "popularity": 0.8138,
+        "profile_path": "/vDx5usGSp8Fygmvo4jnepQ4EQRN.jpg",
+        "credit_id": "52fe4576c3a368484e05ca1f",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 99524,
+        "known_for_department": "Writing",
+        "name": "Filippo Sanjust",
+        "original_name": "Filippo Sanjust",
+        "popularity": 0.252,
+        "profile_path": null,
+        "credit_id": "52fe4576c3a368484e05ca25",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 37197,
+        "known_for_department": "Directing",
+        "name": "Riccardo Freda",
+        "original_name": "Riccardo Freda",
+        "popularity": 0.3591,
+        "profile_path": "/4LpLM4IpQ8UulXFF4btbhEj0LP0.jpg",
+        "credit_id": "52fe4576c3a368484e05ca37",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 50788,
+        "known_for_department": "Sound",
+        "name": "Roberto Nicolosi",
+        "original_name": "Roberto Nicolosi",
+        "popularity": 0.1114,
+        "profile_path": null,
+        "credit_id": "52fe4576c3a368484e05ca2b",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 99526,
+        "known_for_department": "Writing",
+        "name": "Bruno Vailati",
+        "original_name": "Bruno Vailati",
+        "popularity": 0.2362,
+        "profile_path": null,
+        "credit_id": "52fe4576c3a368484e05ca43",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 25826,
+        "known_for_department": "Directing",
+        "name": "Mario Bava",
+        "original_name": "Mario Bava",
+        "popularity": 0.8138,
+        "profile_path": "/vDx5usGSp8Fygmvo4jnepQ4EQRN.jpg",
+        "credit_id": "635e96d00c3ec8007e4df9a4",
+        "department": "Directing",
+        "job": "Co-Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 15132,
+        "known_for_department": "Editing",
+        "name": "Mario Serandrei",
+        "original_name": "Mario Serandrei",
+        "popularity": 0.1936,
+        "profile_path": null,
+        "credit_id": "635e971266565a007a30151a",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 132783,
+        "known_for_department": "Sound",
+        "name": "Roman Vlad",
+        "original_name": "Roman Vlad",
+        "popularity": 0.085,
+        "profile_path": "/v77ELzxGSX8iE0EqPySYpRbEG5A.jpg",
+        "credit_id": "56d9b093925141391f00eebb",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1205369,
+        "known_for_department": "Writing",
+        "name": "Odoardo Fiory",
+        "original_name": "Odoardo Fiory",
+        "popularity": 0.27,
+        "profile_path": null,
+        "credit_id": "5ec794168e2e003dd6123ce6",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 29500,
+        "known_for_department": "Sound",
+        "name": "Carlo Rustichelli",
+        "original_name": "Carlo Rustichelli",
+        "popularity": 0.2639,
+        "profile_path": "/uZyH8qIupMgsRErHN7RKuAActno.jpg",
+        "credit_id": "5ec79422ae2811001e3c26ba",
+        "department": "Sound",
+        "job": "Sound Effects"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 98482,
+        "known_for_department": "Writing",
+        "name": "Massimo De Rita",
+        "original_name": "Massimo De Rita",
+        "popularity": 0.7447,
+        "profile_path": "/1mAe76dI869bN1Eq4j0C7cPb1fL.jpg",
+        "credit_id": "5ec7940cae2811001f3d3360",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 99524,
+        "known_for_department": "Writing",
+        "name": "Filippo Sanjust",
+        "original_name": "Filippo Sanjust",
+        "popularity": 0.252,
+        "profile_path": null,
+        "credit_id": "5ec794019979d2002031b649",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 29886,
+        "known_for_department": "Camera",
+        "name": "Antonio Rinaldi",
+        "original_name": "Antonio Rinaldi",
+        "popularity": 0.0932,
+        "profile_path": null,
+        "credit_id": "5ec794380fb17f001c7a980d",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 37197,
+        "known_for_department": "Directing",
+        "name": "Riccardo Freda",
+        "original_name": "Riccardo Freda",
+        "popularity": 0.3591,
+        "profile_path": "/4LpLM4IpQ8UulXFF4btbhEj0LP0.jpg",
+        "credit_id": "5ec7944d0fb17f001c7a981e",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 30997,
+        "known_for_department": "Sound",
+        "name": "Maurice Rosenblum",
+        "original_name": "Maurice Rosenblum",
+        "popularity": 0.0461,
+        "profile_path": null,
+        "credit_id": "5ec7942d140bad001d1aad0a",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1314147,
+        "known_for_department": "Production",
+        "name": "Lionello Santi",
+        "original_name": "Lionello Santi",
+        "popularity": 0.1397,
+        "profile_path": null,
+        "credit_id": "5ec794576c849200212b73d2",
+        "department": "Production",
+        "job": "Executive Producer"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "US",
+        "title": "Caltiki the Undying Monster",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "US",
+        "title": "Caltiki, The Immortal Monster",
+        "type": ""
+      }
+    ]
+  }
+}

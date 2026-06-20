@@ -1,0 +1,731 @@
+{
+  "adult": false,
+  "backdrop_path": "/aLwCAYMGhjx2TgSRvEbLUFg3sJc.jpg",
+  "belongs_to_collection": null,
+  "budget": 420000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "",
+  "id": 25476,
+  "imdb_id": "tt0079871",
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "Scum",
+  "overview": "Carlin is a new reform school inmate with a reputation as a hard case. The authorities encourage gang leader Pongo to humble Carlin, but Carlin overtakes Pongo as Daddy of the ward. The guards institute a reign of terror and neglect, with Carlin emerging as an unlikely leader.",
+  "popularity": 0.9083,
+  "poster_path": "/7jgzCmnF4QwRGbv2ubK9VIOAkJp.jpg",
+  "production_companies": [
+    {
+      "id": 2392,
+      "logo_path": null,
+      "name": "Berwick Street Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 3147,
+      "logo_path": null,
+      "name": "Boyd's Company",
+      "origin_country": ""
+    },
+    {
+      "id": 3148,
+      "logo_path": null,
+      "name": "Kendon Films Ltd.",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "1979-09-12",
+  "revenue": 0,
+  "runtime": 96,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "In Borstal, survival rules!",
+  "title": "Scum",
+  "video": false,
+  "vote_average": 7.1,
+  "vote_count": 214,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5538,
+        "known_for_department": "Acting",
+        "name": "Ray Winstone",
+        "original_name": "Ray Winstone",
+        "popularity": 2.0597,
+        "profile_path": "/eSRgAC98u5hQroeZzDeRf60XE21.jpg",
+        "cast_id": 1,
+        "character": "Carlin",
+        "credit_id": "52fe44cac3a368484e03702b",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 93847,
+        "known_for_department": "Acting",
+        "name": "Mick Ford",
+        "original_name": "Mick Ford",
+        "popularity": 0.4408,
+        "profile_path": "/595XhmvAkkQNLDTtH0mRtFKogGk.jpg",
+        "cast_id": 2,
+        "character": "Archer",
+        "credit_id": "52fe44cac3a368484e03702f",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 93848,
+        "known_for_department": "Acting",
+        "name": "Julian Firth",
+        "original_name": "Julian Firth",
+        "popularity": 1.0403,
+        "profile_path": "/3PrG3eOAXFRvzZm5jLHwYwCs8RT.jpg",
+        "cast_id": 3,
+        "character": "Davis",
+        "credit_id": "52fe44cac3a368484e037033",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1105086,
+        "known_for_department": "Acting",
+        "name": "John Blundell",
+        "original_name": "John Blundell",
+        "popularity": 0.1985,
+        "profile_path": "/4v8vsAEKA4nS66GA5g4nQzZsMZb.jpg",
+        "cast_id": 5,
+        "character": "Banks",
+        "credit_id": "52fe44cac3a368484e03703d",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 65301,
+        "known_for_department": "Acting",
+        "name": "Phil Daniels",
+        "original_name": "Phil Daniels",
+        "popularity": 0.9611,
+        "profile_path": "/6yNFNjo3cWEcuAUrl0CNQnAnQ5M.jpg",
+        "cast_id": 6,
+        "character": "Richards",
+        "credit_id": "52fe44cac3a368484e037041",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 156701,
+        "known_for_department": "Acting",
+        "name": "John Judd",
+        "original_name": "John Judd",
+        "popularity": 0.4061,
+        "profile_path": "/9IfqGWKPCBgTrZgJKYXMUnS7gRm.jpg",
+        "cast_id": 7,
+        "character": "Mr. Sands",
+        "credit_id": "52fe44cac3a368484e037045",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 25532,
+        "known_for_department": "Acting",
+        "name": "Philip Jackson",
+        "original_name": "Philip Jackson",
+        "popularity": 1.5631,
+        "profile_path": "/4eopgmlNbzbdojqXLegHCSTz567.jpg",
+        "cast_id": 8,
+        "character": "Mr Greaves",
+        "credit_id": "52fe44cac3a368484e037049",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 222496,
+        "known_for_department": "Acting",
+        "name": "Peter Howell",
+        "original_name": "Peter Howell",
+        "popularity": 0.3766,
+        "profile_path": "/lDIuGC2AOsVCmpMIzzd1bLFqNB8.jpg",
+        "cast_id": 9,
+        "character": "Governor",
+        "credit_id": "52fe44cac3a368484e03704d",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 216245,
+        "known_for_department": "Acting",
+        "name": "Bill Dean",
+        "original_name": "Bill Dean",
+        "popularity": 0.3781,
+        "profile_path": "/76L4GCxkcxlfslSrdaP0ruStWQ5.jpg",
+        "cast_id": 22,
+        "character": "Mr Duke",
+        "credit_id": "575ae6a1c3a3682d090001ac",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 42568,
+        "known_for_department": "Acting",
+        "name": "John Grillo",
+        "original_name": "John Grillo",
+        "popularity": 0.6703,
+        "profile_path": "/fqCxjtHYSZMHc4p6Ybg3vsp0rIS.jpg",
+        "cast_id": 10,
+        "character": "Mr Goodyear",
+        "credit_id": "52fe44cac3a368484e037051",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 989,
+        "known_for_department": "Acting",
+        "name": "P.H. Moriarty",
+        "original_name": "P.H. Moriarty",
+        "popularity": 0.437,
+        "profile_path": "/k0geInO1w0hWGqN5A2fx0l6K8NM.jpg",
+        "cast_id": 35,
+        "character": "Mr. Hunt",
+        "credit_id": "57b9b9eac3a3684fa7001db6",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 82805,
+        "known_for_department": "Acting",
+        "name": "Ray Burdis",
+        "original_name": "Ray Burdis",
+        "popularity": 0.5338,
+        "profile_path": "/mp3q2lsXkHH0AoZOnoippbV8CJv.jpg",
+        "cast_id": 11,
+        "character": "Eckersley",
+        "credit_id": "52fe44cac3a368484e037055",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1214702,
+        "known_for_department": "Acting",
+        "name": "Alan Igbon",
+        "original_name": "Alan Igbon",
+        "popularity": 0.1657,
+        "profile_path": null,
+        "cast_id": 21,
+        "character": "Meakin",
+        "credit_id": "5671a4f29251415001010115",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1462827,
+        "known_for_department": "Acting",
+        "name": "John Fowler",
+        "original_name": "John Fowler",
+        "popularity": 0.2472,
+        "profile_path": null,
+        "cast_id": 24,
+        "character": "Woods",
+        "credit_id": "575ae6c5c3a3682d270001b1",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 54446,
+        "known_for_department": "Acting",
+        "name": "Jo Kendall",
+        "original_name": "Jo Kendall",
+        "popularity": 0.2742,
+        "profile_path": "/odPS8X7w1cQM5hoo1md0IP1uhrk.jpg",
+        "cast_id": 25,
+        "character": "Matron",
+        "credit_id": "575ae6d59251410b920001b5",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 134696,
+        "known_for_department": "Directing",
+        "name": "Alrick Riley",
+        "original_name": "Alrick Riley",
+        "popularity": 0.6951,
+        "profile_path": "/kD6hgDBHyd2f3XGdXDXh9aoMn2f.jpg",
+        "cast_id": 26,
+        "character": "Angel",
+        "credit_id": "575ae6f4c3a3682d270001b7",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 56552,
+        "known_for_department": "Acting",
+        "name": "Sean Chapman",
+        "original_name": "Sean Chapman",
+        "popularity": 0.5474,
+        "profile_path": "/iAuP9HCstZE71p3Ipl5moe8kxgo.jpg",
+        "cast_id": 27,
+        "character": "James",
+        "credit_id": "575ae7049251410b9d0001c5",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 164601,
+        "known_for_department": "Acting",
+        "name": "Andrew Paul",
+        "original_name": "Andrew Paul",
+        "popularity": 0.4193,
+        "profile_path": "/zhxKm7hvm3LLNULI3IPjtuMdWGT.jpg",
+        "cast_id": 28,
+        "character": "Betts",
+        "credit_id": "575ae716c3a3682d060001b8",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 369804,
+        "known_for_department": "Acting",
+        "name": "Patrick Murray",
+        "original_name": "Patrick Murray",
+        "popularity": 0.3735,
+        "profile_path": "/v7hcKuFVS0jKIivO6J0abObHMv3.jpg",
+        "cast_id": 29,
+        "character": "Dougan",
+        "credit_id": "575ae72ec3a3682d100001bb",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 227342,
+        "known_for_department": "Acting",
+        "name": "Herbert Norville",
+        "original_name": "Herbert Norville",
+        "popularity": 0.3747,
+        "profile_path": "/xfoTFYnv4LYa7JCdbdSJhsAaEIB.jpg",
+        "cast_id": 30,
+        "character": "Toyne",
+        "credit_id": "575ae73fc3a3682d270001c4",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1633495,
+        "known_for_department": "Acting",
+        "name": "George Winter",
+        "original_name": "George Winter",
+        "popularity": 0.1777,
+        "profile_path": null,
+        "cast_id": 31,
+        "character": "Rhodes",
+        "credit_id": "575ae74ac3a3682d0b0001d2",
+        "order": 20
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 199030,
+        "known_for_department": "Acting",
+        "name": "Ray Jewers",
+        "original_name": "Ray Jewers",
+        "popularity": 0.1715,
+        "profile_path": null,
+        "cast_id": 36,
+        "character": "PE Teacher",
+        "credit_id": "5fb6c5187d41aa003f2ca09f",
+        "order": 21
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1211896,
+        "known_for_department": "Acting",
+        "name": "Nigel Humphreys",
+        "original_name": "Nigel Humphreys",
+        "popularity": 0.1845,
+        "profile_path": null,
+        "cast_id": 32,
+        "character": "Taylor",
+        "credit_id": "575ae765c3a3682d0b0001d9",
+        "order": 22
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 59076,
+        "known_for_department": "Acting",
+        "name": "Perry Benson",
+        "original_name": "Perry Benson",
+        "popularity": 0.5371,
+        "profile_path": "/3tK0sIa0vmMXCBzlBWvMmcjYxro.jpg",
+        "cast_id": 33,
+        "character": "Formby",
+        "credit_id": "575ae7709251410b9a0001c4",
+        "order": 23
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 115787,
+        "known_for_department": "Acting",
+        "name": "Danny John-Jules",
+        "original_name": "Danny John-Jules",
+        "popularity": 1.0929,
+        "profile_path": "/bQx3j5tMTohmjoUgnFTn1p9RDHl.jpg",
+        "cast_id": 37,
+        "character": "Baldy's lookout (uncredited)",
+        "credit_id": "5fb6c5416c84920041252e88",
+        "order": 24
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2934442,
+        "known_for_department": "Acting",
+        "name": "Peter Francis",
+        "original_name": "Peter Francis",
+        "popularity": 0.0712,
+        "profile_path": null,
+        "cast_id": 38,
+        "character": "Baldy",
+        "credit_id": "5ffece730ff15a00405b380c",
+        "order": 25
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1636480,
+        "known_for_department": "Acting",
+        "name": "Charles Rayford",
+        "original_name": "Charles Rayford",
+        "popularity": 0.0931,
+        "profile_path": null,
+        "cast_id": 47,
+        "character": "Philpott",
+        "credit_id": "68ca610e98ffd54550e3624b",
+        "order": 26
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 29891,
+        "known_for_department": "Production",
+        "name": "Michael Relph",
+        "original_name": "Michael Relph",
+        "popularity": 0.4494,
+        "profile_path": "/f7CbplUyKLUG8yLcNAMR8vfrAsw.jpg",
+        "credit_id": "52fe44cac3a368484e037077",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 10709,
+        "known_for_department": "Camera",
+        "name": "Phil Meheux",
+        "original_name": "Phil Meheux",
+        "popularity": 0.3219,
+        "profile_path": "/qNpD0JTMvuY5OgenJAYYeKB8exS.jpg",
+        "credit_id": "52fe44cac3a368484e03707d",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 63960,
+        "known_for_department": "Production",
+        "name": "Clive Parsons",
+        "original_name": "Clive Parsons",
+        "popularity": 0.1025,
+        "profile_path": null,
+        "credit_id": "52fe44cac3a368484e03706b",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 82714,
+        "known_for_department": "Directing",
+        "name": "Alan Clarke",
+        "original_name": "Alan Clarke",
+        "popularity": 0.3376,
+        "profile_path": "/x6kTRGX18cgNJXscWkebNYomwPq.jpg",
+        "credit_id": "52fe44cac3a368484e037039",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 217642,
+        "known_for_department": "Writing",
+        "name": "Roy Minton",
+        "original_name": "Roy Minton",
+        "popularity": 0.2232,
+        "profile_path": "/1LJusvuDx0G8yLAcyOX0i17i4F3.jpg",
+        "credit_id": "52fe44cac3a368484e03705f",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 96588,
+        "known_for_department": "Production",
+        "name": "Davina Belling",
+        "original_name": "Davina Belling",
+        "popularity": 0.2368,
+        "profile_path": null,
+        "credit_id": "52fe44cac3a368484e037065",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 79624,
+        "known_for_department": "Directing",
+        "name": "Don Boyd",
+        "original_name": "Don Boyd",
+        "popularity": 0.2026,
+        "profile_path": null,
+        "credit_id": "52fe44cac3a368484e037071",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 23865,
+        "known_for_department": "Editing",
+        "name": "Michael Bradsell",
+        "original_name": "Michael Bradsell",
+        "popularity": 0.1475,
+        "profile_path": null,
+        "credit_id": "52fe44cac3a368484e037083",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1749142,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Debbie Scragg",
+        "original_name": "Debbie Scragg",
+        "popularity": 0.0785,
+        "profile_path": null,
+        "credit_id": "608dac51d8cc4a0058db6c24",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2415879,
+        "known_for_department": "Art",
+        "name": "Mike Porter",
+        "original_name": "Mike Porter",
+        "popularity": 0.0917,
+        "profile_path": null,
+        "credit_id": "608dac43a1a9ba005707da6e",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2415879,
+        "known_for_department": "Art",
+        "name": "Mike Porter",
+        "original_name": "Mike Porter",
+        "popularity": 0.0917,
+        "profile_path": null,
+        "credit_id": "608dac29a1a9ba005707d9ff",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1643453,
+        "known_for_department": "Sound",
+        "name": "Terry Poulton",
+        "original_name": "Terry Poulton",
+        "popularity": 0.1757,
+        "profile_path": null,
+        "credit_id": "608dac8ac5840d005763d684",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1772338,
+        "known_for_department": "Sound",
+        "name": "Tony Message",
+        "original_name": "Tony Message",
+        "popularity": 0.0689,
+        "profile_path": null,
+        "credit_id": "608dac7e07e28100414c8aed",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3075380,
+        "known_for_department": "Sound",
+        "name": "David John",
+        "original_name": "David John",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "608dac6f5b4fed00597bbdf7",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 989050,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Monica Howe",
+        "original_name": "Monica Howe",
+        "popularity": 0.1265,
+        "profile_path": null,
+        "credit_id": "608dacaf07e281002a8b8b38",
+        "department": "Costume & Make-Up",
+        "job": "Wardrobe Master"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1639072,
+        "known_for_department": "Art",
+        "name": "Judith Lang",
+        "original_name": "Judith Lang",
+        "popularity": 0.0496,
+        "profile_path": null,
+        "credit_id": "608dacc1c5840d007796c5a6",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "DE",
+        "title": "Abschaum - Höllenloch der Gewalt!",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "DK",
+        "title": "Terror i ungdomsfængslet",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "ES",
+        "title": "Escoria",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "FI",
+        "title": "Kapina nuorisovankilassa",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "GR",
+        "title": "I vromia",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "HU",
+        "title": "Scum - Söpredék",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "NL",
+        "title": "Schorem",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "PT",
+        "title": "Juventude sem Freio",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "RS",
+        "title": "Ološ",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "SE",
+        "title": "Revolt",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "DE",
+        "title": "Scum - Abschaum",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "DE",
+        "title": "Abschaum - Höllenloch der Gewalt",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "RU",
+        "title": "Отбросы",
+        "type": ""
+      }
+    ]
+  }
+}

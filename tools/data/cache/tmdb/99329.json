@@ -1,0 +1,382 @@
+{
+  "adult": false,
+  "backdrop_path": "/z5ZyAtLhK5eistltd8ibpBp4qSz.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 99329,
+  "imdb_id": "tt0063268",
+  "origin_country": [
+    "FR",
+    "SN"
+  ],
+  "original_language": "wo",
+  "original_title": "Mandabi",
+  "overview": "A money order from a relative in Paris throws the life of a Senegalese family man out of order. He deals with corruption, greed, problematic family members, the locals and the changing from his traditional way of living to a more modern one.",
+  "popularity": 0.2818,
+  "poster_path": "/8L5GJMgWUfyuIwtKSvoa7Ovejk3.jpg",
+  "production_companies": [
+    {
+      "id": 5779,
+      "logo_path": "/tGITNHYaqbnnqM8u5QK6Aw9lnWg.png",
+      "name": "Comptoir Français du Film Production",
+      "origin_country": "FR"
+    },
+    {
+      "id": 68399,
+      "logo_path": null,
+      "name": "Filmi Domirev",
+      "origin_country": "SN"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "SN",
+      "name": "Senegal"
+    },
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "1968-11-27",
+  "revenue": 0,
+  "runtime": 92,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    },
+    {
+      "english_name": "Wolof",
+      "iso_639_1": "wo",
+      "name": "Wolof"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Mandabi",
+  "video": false,
+  "vote_average": 7,
+  "vote_count": 44,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1200619,
+        "known_for_department": "Acting",
+        "name": "Makhouredia Gueye",
+        "original_name": "Makhouredia Gueye",
+        "popularity": 0.0286,
+        "profile_path": "/7gwwakANwSOmIgs2BcB4TV1JECm.jpg",
+        "cast_id": 2,
+        "character": "Ibrahim Dieng",
+        "credit_id": "52fe4a309251416c750e086f",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1331405,
+        "known_for_department": "Acting",
+        "name": "Younousse Sèye",
+        "original_name": "Younouss Seye",
+        "popularity": 0.0261,
+        "profile_path": null,
+        "cast_id": 25,
+        "character": "Méty the First Wife",
+        "credit_id": "6860b586f03c79e6fa7b4aea",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1200620,
+        "known_for_department": "Acting",
+        "name": "Isseu Niang",
+        "original_name": "Isseu Niang",
+        "popularity": 0.1275,
+        "profile_path": "/cG9xkZUheivjaLfkv4QDt2baA9H.jpg",
+        "cast_id": 14,
+        "character": "Aram the Second Wife",
+        "credit_id": "60961c435ed8e9003cd60ca7",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1200621,
+        "known_for_department": "Acting",
+        "name": "Mustapha Ture",
+        "original_name": "Mustapha Ture",
+        "popularity": 0.0214,
+        "profile_path": "/1ARmphcmZSi8cLM4iZKtFoMRW3K.jpg",
+        "cast_id": 4,
+        "character": "M'barka the Shopkeeper",
+        "credit_id": "52fe4a309251416c750e0877",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 146629,
+        "known_for_department": "Acting",
+        "name": "Mouss Diouf",
+        "original_name": "Mouss Diouf",
+        "popularity": 0.246,
+        "profile_path": "/2mhmakEVundv8WAP27ATrCFb0Lp.jpg",
+        "cast_id": 5,
+        "character": "Abdu the Nephew",
+        "credit_id": "52fe4a309251416c750e087b",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1186856,
+        "known_for_department": "Acting",
+        "name": "Christoph Colomb",
+        "original_name": "Christoph Colomb",
+        "popularity": 0,
+        "profile_path": null,
+        "cast_id": 6,
+        "character": "Water Seller",
+        "credit_id": "52fe4a309251416c750e087f",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1710379,
+        "known_for_department": "Acting",
+        "name": "Farba Sarr",
+        "original_name": "Farba Sarr",
+        "popularity": 0.0536,
+        "profile_path": null,
+        "cast_id": 15,
+        "character": "Mbaye Sarr the Business Agent",
+        "credit_id": "60961c5d9a6435003fde3259",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3082851,
+        "known_for_department": "Acting",
+        "name": "Serigne N'Diayes",
+        "original_name": "Serigne N'Diayes",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 16,
+        "character": "Iman",
+        "credit_id": "60961c7ff263ba003b21adcb",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3082852,
+        "known_for_department": "Acting",
+        "name": "Thérèse Bas",
+        "original_name": "Thérèse Bas",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 17,
+        "character": "Dieng's Sister",
+        "credit_id": "60961c8a9bcd0f003d757136",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3082854,
+        "known_for_department": "Acting",
+        "name": "Mamadou Cisoko",
+        "original_name": "Mamadou Cisoko",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 18,
+        "character": "Madiagne Diagne the 2nd Neighbor (uncredited)",
+        "credit_id": "60961ca85ed8e9003ed62eb0",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3082855,
+        "known_for_department": "Acting",
+        "name": "Moudoun Faye",
+        "original_name": "Moudoun Faye",
+        "popularity": 0.0168,
+        "profile_path": null,
+        "cast_id": 19,
+        "character": "Bah the Postman (uncredited)",
+        "credit_id": "60961cb50929f6003adb6945",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 557134,
+        "known_for_department": "Directing",
+        "name": "Ousmane Sembène",
+        "original_name": "Ousmane Sembène",
+        "popularity": 0.1657,
+        "profile_path": "/v5QkPWoui6zLgD8ROo8VfjFum6l.jpg",
+        "cast_id": 20,
+        "character": "Public Writer at the Post Office (uncredited)",
+        "credit_id": "60961cc054508d003c0c48e6",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1712411,
+        "known_for_department": "Acting",
+        "name": "Serigne Sow",
+        "original_name": "Serigne Sow",
+        "popularity": 0.0743,
+        "profile_path": null,
+        "cast_id": 24,
+        "character": "Gorgui Maïssa the 1st Neighbor (uncredited)",
+        "credit_id": "6328866943250f007b7eafd2",
+        "order": 12
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 557134,
+        "known_for_department": "Directing",
+        "name": "Ousmane Sembène",
+        "original_name": "Ousmane Sembène",
+        "popularity": 0.1657,
+        "profile_path": "/v5QkPWoui6zLgD8ROo8VfjFum6l.jpg",
+        "credit_id": "52fe4a309251416c750e086b",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 557134,
+        "known_for_department": "Directing",
+        "name": "Ousmane Sembène",
+        "original_name": "Ousmane Sembène",
+        "popularity": 0.1657,
+        "profile_path": "/v5QkPWoui6zLgD8ROo8VfjFum6l.jpg",
+        "credit_id": "52fe4a309251416c750e0885",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": true,
+        "gender": 0,
+        "id": 1086217,
+        "known_for_department": "Editing",
+        "name": "Gilbert Kikoïne",
+        "original_name": "Gilbert Kikoïne",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "52fe4a309251416c750e0891",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1062685,
+        "known_for_department": "Production",
+        "name": "Robert de Nesle",
+        "original_name": "Robert de Nesle",
+        "popularity": 0.1336,
+        "profile_path": null,
+        "credit_id": "5801a24d9251417ffb00256b",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": true,
+        "gender": 2,
+        "id": 50551,
+        "known_for_department": "Camera",
+        "name": "Paul Soulignac",
+        "original_name": "Paul Soulignac",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "5801a25592514101390023eb",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1694695,
+        "known_for_department": "Editing",
+        "name": "Max Saldinger",
+        "original_name": "Max Saldinger",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "5801a265c3a36831190023b2",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1694696,
+        "known_for_department": "Directing",
+        "name": "Babakar Samb",
+        "original_name": "Babakar Samb",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "5801a285c3a368310d002875",
+        "department": "Directing",
+        "job": "Assistant Director"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "US",
+        "title": "The Money Order",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "DE",
+        "title": "Die Postanweisung",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "KR",
+        "title": "우편환",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "FR",
+        "title": "Le Mandat",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "TW",
+        "title": "匯票",
+        "type": ""
+      }
+    ]
+  }
+}

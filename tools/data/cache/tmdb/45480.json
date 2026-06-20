@@ -1,0 +1,533 @@
+{
+  "adult": false,
+  "backdrop_path": "/pMhQ6kMXXU5vb2iZNcCnToMNm1e.jpg",
+  "belongs_to_collection": {
+    "id": 998574,
+    "name": "Visible Secret Collection",
+    "poster_path": "/3Lh5O9pZKsNBulW9zgrn1JLtG1L.jpg",
+    "backdrop_path": null
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 45480,
+  "imdb_id": "tt0287811",
+  "origin_country": [
+    "HK"
+  ],
+  "original_language": "cn",
+  "original_title": "幽靈人間",
+  "overview": "A man develops a relationship with a woman who has mysterious supernatural abilities.",
+  "popularity": 0.915,
+  "poster_path": "/sUlsM23k8yzwNGWC0NWGzeNz1i4.jpg",
+  "production_companies": [
+    {
+      "id": 113770,
+      "logo_path": null,
+      "name": "Class Limited",
+      "origin_country": ""
+    },
+    {
+      "id": 5552,
+      "logo_path": "/kZB9yp7OoveJ8wdynDcZEDtTbB2.png",
+      "name": "Media Asia Films",
+      "origin_country": "HK"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "HK",
+      "name": "Hong Kong"
+    }
+  ],
+  "release_date": "2001-06-01",
+  "revenue": 1138807,
+  "runtime": 103,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Cantonese",
+      "iso_639_1": "cn",
+      "name": "广州话 / 廣州話"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Visible Secret",
+  "video": false,
+  "vote_average": 6.412,
+  "vote_count": 17,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 87621,
+        "known_for_department": "Acting",
+        "name": "Eason Chan Yik-Shun",
+        "original_name": "陳奕迅",
+        "popularity": 1.9687,
+        "profile_path": "/5YsJineA7klOboJPd2QKrL3Fzmd.jpg",
+        "cast_id": 3,
+        "character": "Peter Lo Wong Chai",
+        "credit_id": "52fe46c4c3a36847f8111141",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 21911,
+        "known_for_department": "Acting",
+        "name": "Shu Qi",
+        "original_name": "舒淇",
+        "popularity": 5.5146,
+        "profile_path": "/jNaUWRClE4aFnguPZKQeVqfugPd.jpg",
+        "cast_id": 4,
+        "character": "June / Wong Siu Kam",
+        "credit_id": "52fe46c4c3a36847f8111145",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 74193,
+        "known_for_department": "Acting",
+        "name": "Sam Lee",
+        "original_name": "李燦森",
+        "popularity": 1.1848,
+        "profile_path": "/8bPqONKhCJkYKGPL0wKhdjR1Shv.jpg",
+        "cast_id": 6,
+        "character": "Simon",
+        "credit_id": "52fe46c4c3a36847f811114d",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 56811,
+        "known_for_department": "Acting",
+        "name": "James Wong Jim",
+        "original_name": "黃霑",
+        "popularity": 2.1288,
+        "profile_path": "/gmZZNrvwFIpo3kB9L51wQircqlH.jpg",
+        "cast_id": 18,
+        "character": "Lo Kit",
+        "credit_id": "5779e986c3a3687a460006c4",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 84205,
+        "known_for_department": "Acting",
+        "name": "Kara Hui Ying-Hung",
+        "original_name": "惠英紅",
+        "popularity": 2.5659,
+        "profile_path": "/usUroq18HASSFlTh9NFfdWqQmwn.jpg",
+        "cast_id": 9,
+        "character": "Mother of June / Little Chung",
+        "credit_id": "52fe46c4c3a36847f8111159",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 123654,
+        "known_for_department": "Acting",
+        "name": "Wayne Lai Yiu-Cheung",
+        "original_name": "黎耀祥",
+        "popularity": 2.1965,
+        "profile_path": "/qm3knPxzkZPgq2SVo1ZTru7MkIM.jpg",
+        "cast_id": 19,
+        "character": "Lo Wan Tat",
+        "credit_id": "5779e9c6c3a3687945000799",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 66717,
+        "known_for_department": "Acting",
+        "name": "Anthony Wong Chau-Sang",
+        "original_name": "黃秋生",
+        "popularity": 2.5631,
+        "profile_path": "/ijV0EFpwgWkRB7VRwKH7BpGkwTQ.jpg",
+        "cast_id": 5,
+        "character": "Wong-Lin",
+        "credit_id": "52fe46c4c3a36847f8111149",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 240168,
+        "known_for_department": "Acting",
+        "name": "Tony Liu Tian-jue",
+        "original_name": "劉永",
+        "popularity": 1.1355,
+        "profile_path": "/cRjmYhu3ARHrXDSc5Z0JhJnusa4.jpg",
+        "cast_id": 20,
+        "character": "Master Tsang",
+        "credit_id": "5779ea01c3a3686f4b000a69",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 118350,
+        "known_for_department": "Acting",
+        "name": "Cheung Tat-Ming",
+        "original_name": "張達明",
+        "popularity": 1.1218,
+        "profile_path": "/mL2pnPlGiXmL2taknHcszkXi85C.jpg",
+        "cast_id": 21,
+        "character": "Taxi Driver",
+        "credit_id": "5779ea0bc3a36878e8000896",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 105421,
+        "known_for_department": "Acting",
+        "name": "Jo Kok Cho-Lam",
+        "original_name": "谷祖琳",
+        "popularity": 1.2344,
+        "profile_path": "/zRecuqiZf8lmPVGO37tDvtCBsh0.jpg",
+        "cast_id": 22,
+        "character": "Girl in Subway",
+        "credit_id": "5779ea17c3a3686f4b000a7a",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 557341,
+        "known_for_department": "Acting",
+        "name": "Perry Chan",
+        "original_name": "Perry Chan",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "cast_id": 23,
+        "character": "Dickie",
+        "credit_id": "5779eae49251410854000bcf",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 119630,
+        "known_for_department": "Acting",
+        "name": "Teresa Lee Fung",
+        "original_name": "李楓",
+        "popularity": 0.6386,
+        "profile_path": "/5fMfq78YP6HIxlVp2zJLRP38Z7w.jpg",
+        "cast_id": 24,
+        "character": "Miss Wong",
+        "credit_id": "5779eb19c3a36879a8000862",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1615894,
+        "known_for_department": "Acting",
+        "name": "Samuel Yau Man-Shing",
+        "original_name": "邱萬城",
+        "popularity": 0.2482,
+        "profile_path": "/zjglJz9BSYsWAYdMleqsAXYFc0L.jpg",
+        "cast_id": 25,
+        "character": "Ah Kow",
+        "credit_id": "5779eb249251410854000bf8",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1639877,
+        "known_for_department": "Acting",
+        "name": "Kelly Mo",
+        "original_name": "毛嘉麗",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "cast_id": 26,
+        "character": "Little June",
+        "credit_id": "5779eb2fc3a3686f4b000b02",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 125658,
+        "known_for_department": "Acting",
+        "name": "Tiffany Lee Lung-Yee",
+        "original_name": "李蘢怡",
+        "popularity": 1.0075,
+        "profile_path": "/h1EvNw03UnfiqxHEr54H6T4O4Y0.jpg",
+        "cast_id": 27,
+        "character": "Carmen",
+        "credit_id": "5779eb39c3a3687a4600079d",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1645039,
+        "known_for_department": "Acting",
+        "name": "Ding Chu-Wai",
+        "original_name": "Ding Chu-Wai",
+        "popularity": 0.0261,
+        "profile_path": null,
+        "cast_id": 28,
+        "character": "Tat's Wife",
+        "credit_id": "5779eb46c3a3686f4b000b10",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1645040,
+        "known_for_department": "Acting",
+        "name": "Fok Lin",
+        "original_name": "Fok Lin",
+        "popularity": 0.051,
+        "profile_path": null,
+        "cast_id": 29,
+        "character": "Aunt San",
+        "credit_id": "5779eb50c3a3686f4b000b1b",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1645041,
+        "known_for_department": "Acting",
+        "name": "Terry Lee Ji-Ming",
+        "original_name": "李子明",
+        "popularity": 0.3077,
+        "profile_path": "/jBMRAt1EMnYiQ0PsFw7pe0Y2WlT.jpg",
+        "cast_id": 30,
+        "character": "Snakehead",
+        "credit_id": "5779eb5c9251411438000788",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1645042,
+        "known_for_department": "Acting",
+        "name": "Lau Ho-Ngai",
+        "original_name": "劉可兒",
+        "popularity": 0.0612,
+        "profile_path": null,
+        "cast_id": 31,
+        "character": "Jake's Girlfriend",
+        "credit_id": "5779eb69c3a3686f4b000b2b",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1645043,
+        "known_for_department": "Acting",
+        "name": "Rashma Maheubani",
+        "original_name": "Rashma Maheubani",
+        "popularity": 0.0261,
+        "profile_path": null,
+        "cast_id": 32,
+        "character": "Sue",
+        "credit_id": "5779eb7fc3a36878e800093b",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 557343,
+        "known_for_department": "Acting",
+        "name": "Fili Ho",
+        "original_name": "Fili Ho",
+        "popularity": 0.0239,
+        "profile_path": null,
+        "cast_id": 33,
+        "character": "Fatso",
+        "credit_id": "5779eb8f925141148e000859",
+        "order": 20
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1645044,
+        "known_for_department": "Acting",
+        "name": "Chung Yiu-Shing",
+        "original_name": "Chung Yiu-Shing",
+        "popularity": 0.0357,
+        "profile_path": null,
+        "cast_id": 34,
+        "character": "Little Chung",
+        "credit_id": "5779ebbec3a36879a80008b9",
+        "order": 21
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1645045,
+        "known_for_department": "Acting",
+        "name": "Lo Yan-Yan",
+        "original_name": "Lo Yan-Yan",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 35,
+        "character": "Cher",
+        "credit_id": "5779ebcac3a3686e8f000bff",
+        "order": 22
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1645046,
+        "known_for_department": "Acting",
+        "name": "Cheung Tsz-Yu",
+        "original_name": "Cheung Tsz-Yu",
+        "popularity": 0,
+        "profile_path": null,
+        "cast_id": 36,
+        "character": "Singing Woman",
+        "credit_id": "5779ebd5c3a36879a80008c5",
+        "order": 23
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 123199,
+        "known_for_department": "Directing",
+        "name": "Ann Hui",
+        "original_name": "許鞍華",
+        "popularity": 1.081,
+        "profile_path": "/zrDylLFlsWckt91FfWRNER05NXy.jpg",
+        "credit_id": "52fe46c4c3a36847f8111137",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 932301,
+        "known_for_department": "Writing",
+        "name": "Abe Kwong Man-Wai",
+        "original_name": "鄺文偉",
+        "popularity": 0.8166,
+        "profile_path": null,
+        "credit_id": "5779ebe9c3a36879a80008cd",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1758851,
+        "known_for_department": "Production",
+        "name": "Petrina Ho",
+        "original_name": "Petrina Ho",
+        "popularity": 0.183,
+        "profile_path": null,
+        "credit_id": "58a59c5d9251413cbd00502a",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1437893,
+        "known_for_department": "Camera",
+        "name": "Jimmy Wong",
+        "original_name": "王金城",
+        "popularity": 0.478,
+        "profile_path": "/nKGUQcgr7jrdBJU2wadySkMyXTw.jpg",
+        "credit_id": "6622a0e978570e017e119875",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1437893,
+        "known_for_department": "Camera",
+        "name": "Jimmy Wong",
+        "original_name": "王金城",
+        "popularity": 0.478,
+        "profile_path": "/nKGUQcgr7jrdBJU2wadySkMyXTw.jpg",
+        "credit_id": "6622a0f6e4c9eb017cf73446",
+        "department": "Camera",
+        "job": "Steadicam Operator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 26731,
+        "known_for_department": "Camera",
+        "name": "Arthur Wong Ngok-Tai",
+        "original_name": "黃岳泰",
+        "popularity": 0.6226,
+        "profile_path": "/lvl5vYoEbkguwaP3uuPdAD90UHa.jpg",
+        "credit_id": "6622a11ce4c9eb017cf7345b",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 63578,
+        "known_for_department": "Sound",
+        "name": "Tommy Wai Kai-Leung",
+        "original_name": "韋啟良",
+        "popularity": 0.2925,
+        "profile_path": "/oT8hGlzVVRkgRMxAeU45X4JxUeG.jpg",
+        "credit_id": "6658628c13505dcecc505d7a",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "CN",
+        "title": "幽灵人间",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "CN",
+        "title": "You ling ren jian",
+        "type": "transliteration"
+      },
+      {
+        "iso_3166_1": "HK",
+        "title": "Jau Ling Jan Gaan",
+        "type": "transliteration"
+      }
+    ]
+  }
+}

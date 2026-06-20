@@ -1,0 +1,480 @@
+{
+  "adult": false,
+  "backdrop_path": "/8Ps87BIAEDu18VFgo5hgw2i5MmM.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10770,
+      "name": "TV Movie"
+    }
+  ],
+  "homepage": "",
+  "id": 122270,
+  "imdb_id": "tt0066150",
+  "origin_country": [
+    "DE"
+  ],
+  "original_language": "de",
+  "original_title": "Die Niklashauser Fart",
+  "overview": "Can a small group of people start a proletarian revolution, asks the \"Black Monk\" in a leather jacket? The medieval shepherd, Hans Boehm, claims to have been called by the Virgin Mary to create a revolt against the church and the landowners. The \"Black Monk\" suggests that he would have more success if he dressed up Johanna and had her appear as the Virgin Mary.",
+  "popularity": 0.4778,
+  "poster_path": "/2cu27IXYvsan1xY1rQW40iwaFoR.jpg",
+  "production_companies": [
+    {
+      "id": 4497,
+      "logo_path": null,
+      "name": "Janus Film und Fernsehen",
+      "origin_country": "DE"
+    },
+    {
+      "id": 46,
+      "logo_path": "/3xFdKHLXPGHEbrAkmsepGE8974Y.png",
+      "name": "WDR",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "release_date": "1970-10-26",
+  "revenue": 0,
+  "runtime": 90,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Niklashausen Journey",
+  "video": false,
+  "vote_average": 5.778,
+  "vote_count": 9,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 38907,
+        "known_for_department": "Acting",
+        "name": "Michael König",
+        "original_name": "Michael König",
+        "popularity": 0.5208,
+        "profile_path": "/5KluoqyD6gALqNusb3Vp2dlj0C4.jpg",
+        "cast_id": 2,
+        "character": "Hans Boehm",
+        "credit_id": "52fe4a7ac3a368484e1559dd",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3734,
+        "known_for_department": "Acting",
+        "name": "Hanna Schygulla",
+        "original_name": "Hanna Schygulla",
+        "popularity": 0.7924,
+        "profile_path": "/hAZVxNCVzYBq3ToWzE01LXK6Oum.jpg",
+        "cast_id": 3,
+        "character": "Johanna",
+        "credit_id": "52fe4a7ac3a368484e1559e1",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2725,
+        "known_for_department": "Directing",
+        "name": "Rainer Werner Fassbinder",
+        "original_name": "Rainer Werner Fassbinder",
+        "popularity": 1.013,
+        "profile_path": "/uZFSBv6Q4ZSwZr8wfLobBCiiC14.jpg",
+        "cast_id": 4,
+        "character": "Schwarzer Mönch",
+        "credit_id": "535d33ed0e0a264fe8004f87",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 20017,
+        "known_for_department": "Acting",
+        "name": "Margit Carstensen",
+        "original_name": "Margit Carstensen",
+        "popularity": 0.6634,
+        "profile_path": "/hSCBZ1eoJpJaDg2pBRWxHmqSeKQ.jpg",
+        "cast_id": 5,
+        "character": "Margarete",
+        "credit_id": "535d33fd0e0a264fd5004f74",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2741,
+        "known_for_department": "Acting",
+        "name": "Walter Sedlmayr",
+        "original_name": "Walter Sedlmayr",
+        "popularity": 0.3899,
+        "profile_path": "/9cESnCVgyYbWnJzLEMkyyqm6G1U.jpg",
+        "cast_id": 6,
+        "character": "Pastor",
+        "credit_id": "535d340a0e0a264fe8004f8a",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 32863,
+        "known_for_department": "Acting",
+        "name": "Günther Kaufmann",
+        "original_name": "Günther Kaufmann",
+        "popularity": 0.4067,
+        "profile_path": "/lRbiLa150KS13aRom2NI78Pd8YC.jpg",
+        "cast_id": 7,
+        "character": "Bauernführer",
+        "credit_id": "535d341c0e0a264fd5004f77",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 21997,
+        "known_for_department": "Acting",
+        "name": "Kurt Raab",
+        "original_name": "Kurt Raab",
+        "popularity": 0.4952,
+        "profile_path": "/k3CjKFY5nT4WIKhC96W1S87j36z.jpg",
+        "cast_id": 8,
+        "character": "Bischof",
+        "credit_id": "535d34290e0a264fe1004e7f",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 45195,
+        "known_for_department": "Acting",
+        "name": "Ingrid Caven",
+        "original_name": "Ingrid Caven",
+        "popularity": 0.5008,
+        "profile_path": "/py0XImGnp27PIWYAMWIyNP78X5K.jpg",
+        "cast_id": 9,
+        "character": "Schreiendes Mädchen",
+        "credit_id": "535d343a0e0a264feb004de0",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3767,
+        "known_for_department": "Sound",
+        "name": "Peer Raben",
+        "original_name": "Peer Raben",
+        "popularity": 0.2397,
+        "profile_path": "/c00b1PFJ39wD4YYwSLwzy4LJOtH.jpg",
+        "cast_id": 10,
+        "character": "Monsignore",
+        "credit_id": "535d34480e0a264fd5004f7a",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 66083,
+        "known_for_department": "Acting",
+        "name": "Franz Maron",
+        "original_name": "Franz Maron",
+        "popularity": 0.1019,
+        "profile_path": null,
+        "cast_id": 20,
+        "character": "",
+        "credit_id": "5fc91f7641aac4004171335c",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2742,
+        "known_for_department": "Acting",
+        "name": "Karl Scheydt",
+        "original_name": "Karl Scheydt",
+        "popularity": 0.1789,
+        "profile_path": "/nAOPQ4CU7LgLuKnSmKdPlOMmdSj.jpg",
+        "cast_id": 21,
+        "character": "",
+        "credit_id": "5fc91f8343999b003b15e59f",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1359055,
+        "known_for_department": "Acting",
+        "name": "Hanna Köhler",
+        "original_name": "Hanna Köhler",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 22,
+        "character": "",
+        "credit_id": "5fc91f9b383df2003f57753d",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 18405,
+        "known_for_department": "Acting",
+        "name": "Peter Berling",
+        "original_name": "Peter Berling",
+        "popularity": 0.6382,
+        "profile_path": "/oAlkmJ99mC8KfARMiaSDm4kn9nj.jpg",
+        "cast_id": 23,
+        "character": "",
+        "credit_id": "5fc91fab43999b003c15a571",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 68116,
+        "known_for_department": "Acting",
+        "name": "Carla Egerer",
+        "original_name": "Carla Egerer",
+        "popularity": 0.1672,
+        "profile_path": null,
+        "cast_id": 24,
+        "character": "",
+        "credit_id": "5fc91fb5719aeb0041c87f55",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 9935,
+        "known_for_department": "Production",
+        "name": "Michael Fengler",
+        "original_name": "Michael Fengler",
+        "popularity": 0.2017,
+        "profile_path": "/zMgq5GqolC0eIIeVYRGu83rnSVE.jpg",
+        "cast_id": 25,
+        "character": "",
+        "credit_id": "5fc91fc1680be80040171daf",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1046782,
+        "known_for_department": "Acting",
+        "name": "Sigi Graue",
+        "original_name": "Sigi Graue",
+        "popularity": 0.1086,
+        "profile_path": null,
+        "cast_id": 26,
+        "character": "",
+        "credit_id": "5fc91fc7b7fbbd003b37eece",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 45197,
+        "known_for_department": "Acting",
+        "name": "Magdalena Montezuma",
+        "original_name": "Magdalena Montezuma",
+        "popularity": 0.3698,
+        "profile_path": null,
+        "cast_id": 27,
+        "character": "",
+        "credit_id": "5fc91fd9719aeb0040c879e5",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 53419,
+        "known_for_department": "Acting",
+        "name": "Elga Sorbas",
+        "original_name": "Elga Sorbas",
+        "popularity": 0.1273,
+        "profile_path": "/mfLBm2Q15GoVER1gnfTEt0l6iWk.jpg",
+        "cast_id": 28,
+        "character": "",
+        "credit_id": "5fc9200166a7c3003e460dcf",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 10622,
+        "known_for_department": "Acting",
+        "name": "Ursula Strätz",
+        "original_name": "Ursula Strätz",
+        "popularity": 0.1023,
+        "profile_path": null,
+        "cast_id": 29,
+        "character": "",
+        "credit_id": "5fc9200db7fbbd003e37f69d",
+        "order": 18
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2725,
+        "known_for_department": "Directing",
+        "name": "Rainer Werner Fassbinder",
+        "original_name": "Rainer Werner Fassbinder",
+        "popularity": 1.013,
+        "profile_path": "/uZFSBv6Q4ZSwZr8wfLobBCiiC14.jpg",
+        "credit_id": "52fe4a7ac3a368484e1559d9",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 9935,
+        "known_for_department": "Production",
+        "name": "Michael Fengler",
+        "original_name": "Michael Fengler",
+        "popularity": 0.2017,
+        "profile_path": "/zMgq5GqolC0eIIeVYRGu83rnSVE.jpg",
+        "credit_id": "5660ba2e92514179040047b3",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 9935,
+        "known_for_department": "Production",
+        "name": "Michael Fengler",
+        "original_name": "Michael Fengler",
+        "popularity": 0.2017,
+        "profile_path": "/zMgq5GqolC0eIIeVYRGu83rnSVE.jpg",
+        "credit_id": "5660ba34925141790a00491f",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2725,
+        "known_for_department": "Directing",
+        "name": "Rainer Werner Fassbinder",
+        "original_name": "Rainer Werner Fassbinder",
+        "popularity": 1.013,
+        "profile_path": "/uZFSBv6Q4ZSwZr8wfLobBCiiC14.jpg",
+        "credit_id": "5660ba3c925141791800461a",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3767,
+        "known_for_department": "Sound",
+        "name": "Peer Raben",
+        "original_name": "Peer Raben",
+        "popularity": 0.2397,
+        "profile_path": "/c00b1PFJ39wD4YYwSLwzy4LJOtH.jpg",
+        "credit_id": "5660ba44c3a36875f4004704",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 10616,
+        "known_for_department": "Camera",
+        "name": "Dietrich Lohmann",
+        "original_name": "Dietrich Lohmann",
+        "popularity": 0.286,
+        "profile_path": null,
+        "credit_id": "5660ba4c925141790a004925",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2737,
+        "known_for_department": "Editing",
+        "name": "Thea Eymèsz",
+        "original_name": "Thea Eymèsz",
+        "popularity": 0.0958,
+        "profile_path": null,
+        "credit_id": "5660ba53925141791800461e",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2725,
+        "known_for_department": "Directing",
+        "name": "Rainer Werner Fassbinder",
+        "original_name": "Rainer Werner Fassbinder",
+        "popularity": 1.013,
+        "profile_path": "/uZFSBv6Q4ZSwZr8wfLobBCiiC14.jpg",
+        "credit_id": "5660ba5a92514179130049eb",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 21997,
+        "known_for_department": "Acting",
+        "name": "Kurt Raab",
+        "original_name": "Kurt Raab",
+        "popularity": 0.4952,
+        "profile_path": "/k3CjKFY5nT4WIKhC96W1S87j36z.jpg",
+        "credit_id": "5660ba62c3a36875e0004fb7",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 23668,
+        "known_for_department": "Acting",
+        "name": "Harry Baer",
+        "original_name": "Harry Baer",
+        "popularity": 0.4276,
+        "profile_path": "/vTuAZ6bZyi7BUs9G1cZLbQR0s7U.jpg",
+        "credit_id": "5660ba6bc3a36875e40044af",
+        "department": "Directing",
+        "job": "Assistant Director"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "FR",
+        "title": "Le Voyage à Niklashausen",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "PT",
+        "title": "A Viagem a Niklashauer",
+        "type": ""
+      }
+    ]
+  }
+}

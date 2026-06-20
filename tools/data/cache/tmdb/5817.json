@@ -1,0 +1,667 @@
+{
+  "adult": false,
+  "backdrop_path": "/xksy5U3DXiMhSMskfdQfzQ3LP1E.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ],
+  "homepage": "",
+  "id": 5817,
+  "imdb_id": "tt0445336",
+  "origin_country": [
+    "SE"
+  ],
+  "original_language": "sv",
+  "original_title": "Du levande",
+  "overview": "In the Swedish city of Lethe, people from different walks of life take part in a series of short, deadpan vignettes that rush past. Some are just seconds long, none longer than a couple of minutes. A young woman remembers a fantasy honeymoon with a rock guitarist. A man awakes from a dream about bomber planes. A businessman boasts about success while being robbed by a pickpocket, and so on. The absurdist collection is accompanied by Dixieland jazz and similar music.",
+  "popularity": 0.7139,
+  "poster_path": "/j4FAPvqjqUvs1YrQi76p6fIDRUB.jpg",
+  "production_companies": [
+    {
+      "id": 5405,
+      "logo_path": null,
+      "name": "Roy Andersson Filmproduktion",
+      "origin_country": "SE"
+    },
+    {
+      "id": 6505,
+      "logo_path": "/tjpzIYXGAh8DXoMIzYtuuUpiqb3.png",
+      "name": "Coproduction Office",
+      "origin_country": "DK"
+    },
+    {
+      "id": 25522,
+      "logo_path": null,
+      "name": "Société Parisienne de Production",
+      "origin_country": "FR"
+    },
+    {
+      "id": 36432,
+      "logo_path": null,
+      "name": "Thermidor Filmproduktion",
+      "origin_country": "DE"
+    },
+    {
+      "id": 7843,
+      "logo_path": "/t0GdV2JfyWFlAKSYYXe0j2Co368.png",
+      "name": "4 1/2",
+      "origin_country": "NO"
+    },
+    {
+      "id": 2999,
+      "logo_path": "/zGSqFee9aDgDuLD6vcs2mcJUem4.png",
+      "name": "SVT",
+      "origin_country": "SE"
+    },
+    {
+      "id": 94,
+      "logo_path": "/huC7HqorvUThGIrENrbcHmQVUA0.png",
+      "name": "ARTE France Cinéma",
+      "origin_country": "FR"
+    },
+    {
+      "id": 2928,
+      "logo_path": null,
+      "name": "stylejam",
+      "origin_country": "JP"
+    },
+    {
+      "id": 46,
+      "logo_path": "/3xFdKHLXPGHEbrAkmsepGE8974Y.png",
+      "name": "WDR",
+      "origin_country": "DE"
+    },
+    {
+      "id": 587,
+      "logo_path": "/6UIpEURdjnmcJPwgTDRzVRuwADr.png",
+      "name": "ARTE",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DK",
+      "name": "Denmark"
+    },
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    },
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    },
+    {
+      "iso_3166_1": "NO",
+      "name": "Norway"
+    },
+    {
+      "iso_3166_1": "SE",
+      "name": "Sweden"
+    }
+  ],
+  "release_date": "2007-09-21",
+  "revenue": 1843810,
+  "runtime": 89,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "You, the Living",
+  "video": false,
+  "vote_average": 7.129,
+  "vote_count": 260,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 45775,
+        "known_for_department": "Acting",
+        "name": "Håkan Angser",
+        "original_name": "Håkan Angser",
+        "popularity": 0.0672,
+        "profile_path": null,
+        "cast_id": 1,
+        "character": "The Psychiatrist",
+        "credit_id": "52fe4424c3a36847f8084911",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 45776,
+        "known_for_department": "Acting",
+        "name": "Eric Bäckman",
+        "original_name": "Eric Bäckman",
+        "popularity": 0.1215,
+        "profile_path": null,
+        "cast_id": 2,
+        "character": "Micke Larsson",
+        "credit_id": "52fe4424c3a36847f8084915",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 45777,
+        "known_for_department": "Acting",
+        "name": "Patrik Anders Edgren",
+        "original_name": "Patrik Anders Edgren",
+        "popularity": 0.0404,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "The Professor",
+        "credit_id": "52fe4424c3a36847f8084919",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 45778,
+        "known_for_department": "Acting",
+        "name": "Björn Englund",
+        "original_name": "Björn Englund",
+        "popularity": 0.1007,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "The Tuba Player",
+        "credit_id": "52fe4424c3a36847f808491d",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 45779,
+        "known_for_department": "Acting",
+        "name": "Lennart Eriksson",
+        "original_name": "Lennart Eriksson",
+        "popularity": 0.0639,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "The Man on the Balcony",
+        "credit_id": "52fe4424c3a36847f8084921",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 45780,
+        "known_for_department": "Acting",
+        "name": "Pär Fredriksson",
+        "original_name": "Pär Fredriksson",
+        "popularity": 0.0441,
+        "profile_path": null,
+        "cast_id": 6,
+        "character": "The Carpet Dealer",
+        "credit_id": "52fe4424c3a36847f8084925",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 45781,
+        "known_for_department": "Acting",
+        "name": "Elisabeth Helander",
+        "original_name": "Elisabeth Helander",
+        "popularity": 0.0633,
+        "profile_path": null,
+        "cast_id": 7,
+        "character": "Mia",
+        "credit_id": "52fe4424c3a36847f8084929",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 45782,
+        "known_for_department": "Acting",
+        "name": "Gunnar Ivarsson",
+        "original_name": "Gunnar Ivarsson",
+        "popularity": 0.0763,
+        "profile_path": null,
+        "cast_id": 8,
+        "character": "The Businessman",
+        "credit_id": "52fe4424c3a36847f808492d",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 45783,
+        "known_for_department": "Acting",
+        "name": "Leif Larsson",
+        "original_name": "Leif Larsson",
+        "popularity": 0.0511,
+        "profile_path": null,
+        "cast_id": 9,
+        "character": "The Carpenter",
+        "credit_id": "52fe4424c3a36847f8084931",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 45784,
+        "known_for_department": "Acting",
+        "name": "Jessika Lundberg",
+        "original_name": "Jessika Lundberg",
+        "popularity": 0.0362,
+        "profile_path": null,
+        "cast_id": 10,
+        "character": "Anna",
+        "credit_id": "52fe4424c3a36847f8084935",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 45785,
+        "known_for_department": "Directing",
+        "name": "Jessica Nilsson",
+        "original_name": "Jessica Nilsson",
+        "popularity": 0,
+        "profile_path": "/xvfHT604399nxX0HJqiPMY6iHns.jpg",
+        "cast_id": 11,
+        "character": "The Teacher",
+        "credit_id": "52fe4424c3a36847f8084939",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 45786,
+        "known_for_department": "Acting",
+        "name": "Jörgen Nohall",
+        "original_name": "Jörgen Nohall",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 12,
+        "character": "Uffe",
+        "credit_id": "52fe4424c3a36847f808493d",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 45787,
+        "known_for_department": "Acting",
+        "name": "Waldemar Nowak",
+        "original_name": "Waldemar Nowak",
+        "popularity": 0.0168,
+        "profile_path": "/qZwosaaVtYpaYS26hVEETQgJkiQ.jpg",
+        "cast_id": 13,
+        "character": "The Pick-pocket",
+        "credit_id": "52fe4424c3a36847f8084941",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 45788,
+        "known_for_department": "Acting",
+        "name": "Olle Olson",
+        "original_name": "Olle Olson",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 14,
+        "character": "The Consultant",
+        "credit_id": "52fe4424c3a36847f8084945",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 45789,
+        "known_for_department": "Acting",
+        "name": "Kemal Sener",
+        "original_name": "Kemal Sener",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 15,
+        "character": "The Barber",
+        "credit_id": "52fe4424c3a36847f8084949",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 45790,
+        "known_for_department": "Acting",
+        "name": "Jan Wikbladh",
+        "original_name": "Jan Wikbladh",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 16,
+        "character": "The Fan",
+        "credit_id": "52fe4424c3a36847f808494d",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1548699,
+        "known_for_department": "Acting",
+        "name": "Göran Holm",
+        "original_name": "Göran Holm",
+        "popularity": 0.1815,
+        "profile_path": "/qUDIl5ZcEp2RP5XINZEqhfwIncj.jpg",
+        "cast_id": 31,
+        "character": "Man at the psychiatrist (uncredited)",
+        "credit_id": "566e0deb925141664f00cb94",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1947072,
+        "known_for_department": "Acting",
+        "name": "Catharina Dahlin",
+        "original_name": "Catharina Dahlin",
+        "popularity": 0.0948,
+        "profile_path": "/vz0pBIQp5zqxUdo2azPs726t1EF.jpg",
+        "cast_id": 32,
+        "character": "",
+        "credit_id": "5bb4f8a10e0a267f0c000aaa",
+        "order": 17
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 45791,
+        "known_for_department": "Directing",
+        "name": "Roy Andersson",
+        "original_name": "Roy Andersson",
+        "popularity": 0.2459,
+        "profile_path": "/sFcrQOIWUM1QArvquG3DmVqw3Eu.jpg",
+        "credit_id": "52fe4424c3a36847f8084953",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 45791,
+        "known_for_department": "Directing",
+        "name": "Roy Andersson",
+        "original_name": "Roy Andersson",
+        "popularity": 0.2459,
+        "profile_path": "/sFcrQOIWUM1QArvquG3DmVqw3Eu.jpg",
+        "credit_id": "52fe4424c3a36847f8084959",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 45792,
+        "known_for_department": "Camera",
+        "name": "Gustav Danielsson",
+        "original_name": "Gustav Danielsson",
+        "popularity": 0.101,
+        "profile_path": "/7DYvGyhmX6OA1pmKgjE0F9NmHLG.jpg",
+        "credit_id": "52fe4424c3a36847f808495f",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 45793,
+        "known_for_department": "Camera",
+        "name": "Fredrik Borg",
+        "original_name": "Fredrik Borg",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "52fe4424c3a36847f8084965",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 45794,
+        "known_for_department": "Camera",
+        "name": "Christian Haag",
+        "original_name": "Christian Haag",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "52fe4424c3a36847f808496b",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 45795,
+        "known_for_department": "Editing",
+        "name": "Anna Märta Waern",
+        "original_name": "Anna Märta Waern",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "52fe4424c3a36847f8084971",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 45796,
+        "known_for_department": "Sound",
+        "name": "Jan Alvermark",
+        "original_name": "Jan Alvermark",
+        "popularity": 0.1198,
+        "profile_path": null,
+        "credit_id": "52fe4424c3a36847f8084977",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 45797,
+        "known_for_department": "Sound",
+        "name": "Robert Sörling",
+        "original_name": "Robert Sörling",
+        "popularity": 0.0698,
+        "profile_path": null,
+        "credit_id": "52fe4424c3a36847f808497d",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 45798,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Sofia Frykstam",
+        "original_name": "Sofia Frykstam",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "52fe4424c3a36847f8084983",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 45795,
+        "known_for_department": "Editing",
+        "name": "Anna Märta Waern",
+        "original_name": "Anna Märta Waern",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "52fe4424c3a36847f8084989",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 45800,
+        "known_for_department": "Production",
+        "name": "Pernilla Sandström",
+        "original_name": "Pernilla Sandström",
+        "popularity": 0.0908,
+        "profile_path": null,
+        "credit_id": "52fe4424c3a36847f8084995",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 18824,
+        "known_for_department": "Production",
+        "name": "Philippe Bober",
+        "original_name": "Philippe Bober",
+        "popularity": 0.1292,
+        "profile_path": "/kOkpmfKWQibXbJ2dh985JqiR4kY.jpg",
+        "credit_id": "52fe4424c3a36847f808499b",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 45801,
+        "known_for_department": "Production",
+        "name": "Tom Winther",
+        "original_name": "Tom Winther",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "credit_id": "52fe4424c3a36847f80849a1",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1899056,
+        "known_for_department": "Sound",
+        "name": "Robert Hefter",
+        "original_name": "Robert Hefter",
+        "popularity": 0.0623,
+        "profile_path": null,
+        "credit_id": "6278141daf3da6004f4d5767",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3541715,
+        "known_for_department": "Sound",
+        "name": "Günter Friedhoff",
+        "original_name": "Günter Friedhoff",
+        "popularity": 0.0839,
+        "profile_path": null,
+        "credit_id": "62781429a843c10051a5a598",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2164250,
+        "known_for_department": "Sound",
+        "name": "Felix Aneer",
+        "original_name": "Felix Aneer",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "62781435af3da60064e45df9",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1541911,
+        "known_for_department": "Editing",
+        "name": "Alexandra Strauss",
+        "original_name": "Alexandra Strauss",
+        "popularity": 0.1066,
+        "profile_path": null,
+        "credit_id": "6278145ffc31d30050a3a82e",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 45799,
+        "known_for_department": "Acting",
+        "name": "Benny Andersson",
+        "original_name": "Benny Andersson",
+        "popularity": 0.3041,
+        "profile_path": "/uOM6cyli5ULhBEkgWbvuA8KZZ5E.jpg",
+        "credit_id": "67d8cefaa7f1f7ac1c85998d",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "ES",
+        "title": "La comedia de la vida",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "DK",
+        "title": "Du levende",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "BR",
+        "title": "Vocês, Os Vivos",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "KR",
+        "title": "유, 더 리빙",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "FR",
+        "title": "Nous, les vivants",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "SE",
+        "title": "Du levande",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "JP",
+        "title": "愛おしき隣人",
+        "type": ""
+      }
+    ]
+  }
+}

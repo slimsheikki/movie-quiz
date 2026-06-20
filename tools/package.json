@@ -1,0 +1,14 @@
+{
+  "name": "movie-quiz-tools",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Offline FILM-GRAB + TMDb acquisition pipeline for Ciné Quiz (not shipped with the game)",
+  "scripts": {
+    "enumerate": "node scrape-filmgrab.js --enumerate-only",
+    "scrape": "node scrape-filmgrab.js",
+    "match": "node match-tmdb.js",
+    "frames": "node download-frames.js",
+    "manifest": "node build-manifest.js",
+    "all": "node run-all.js"
+  }
+}

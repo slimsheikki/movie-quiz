@@ -1,0 +1,843 @@
+{
+  "adult": false,
+  "backdrop_path": "/lHjRpv4QjiZRiFNkB3XGvnwD2p2.jpg",
+  "belongs_to_collection": {
+    "id": 292068,
+    "name": "The Pact Collection",
+    "poster_path": "/lOW30cobRoLwwDNEYKKK4XZBpU0.jpg",
+    "backdrop_path": "/xaDieVQyxBl0ZF5QWRKnLrgwrhQ.jpg"
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 228358,
+  "imdb_id": "tt2924442",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Pact II",
+  "overview": "The sequel is set just weeks after Annie Barlow's deadly confrontation with the Judas Killer. In this elevated sequel, we meet June, a woman whose carefully constructed life is beginning to unravel due to lucid nightmares so awful they disturb her waking life",
+  "popularity": 0.9201,
+  "poster_path": "/fqXXhzXRr0DYsZXbunJ9W6B7nqg.jpg",
+  "production_companies": [
+    {
+      "id": 41046,
+      "logo_path": null,
+      "name": "Preferred Film & TV",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2014-09-05",
+  "revenue": 0,
+  "runtime": 96,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "It's Starting Again...",
+  "title": "The Pact II",
+  "video": false,
+  "vote_average": 4.8,
+  "vote_count": 185,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1046143,
+        "known_for_department": "Acting",
+        "name": "Caity Lotz",
+        "original_name": "Caity Lotz",
+        "popularity": 1.5676,
+        "profile_path": "/nagw4Y9EVjCjw2r9BaXa67KjJsi.jpg",
+        "cast_id": 2,
+        "character": "Annie Barlow",
+        "credit_id": "5408f9120e0a263a10000930",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 236021,
+        "known_for_department": "Acting",
+        "name": "Camilla Luddington",
+        "original_name": "Camilla Luddington",
+        "popularity": 1.1961,
+        "profile_path": "/eKF5lSEdEtOCbsgb5mKjd8vYLck.jpg",
+        "cast_id": 1,
+        "character": "June Abbott",
+        "credit_id": "52fe4ec99251416c75162441",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 159985,
+        "known_for_department": "Acting",
+        "name": "Haley Hudson",
+        "original_name": "Haley Hudson",
+        "popularity": 0.5058,
+        "profile_path": "/yyB5RFaG83XdwqbqFEBptwi9SuG.jpg",
+        "cast_id": 17,
+        "character": "Stevie",
+        "credit_id": "540a3e990e0a262b46000c8a",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 134082,
+        "known_for_department": "Acting",
+        "name": "Amy Pietz",
+        "original_name": "Amy Pietz",
+        "popularity": 0.8778,
+        "profile_path": "/yt9SEBl3gd29YZoDl2qCGOs0mhN.jpg",
+        "cast_id": 20,
+        "character": "Maggie Abbot",
+        "credit_id": "54cb46fd9251416794013127",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 110945,
+        "known_for_department": "Acting",
+        "name": "Scott Michael Foster",
+        "original_name": "Scott Michael Foster",
+        "popularity": 0.853,
+        "profile_path": "/eFn8ixpNNBNFJahkCpBGrfRuiYB.jpg",
+        "cast_id": 16,
+        "character": "Officer Meyer",
+        "credit_id": "540a3e730e0a262b3d000d56",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 52801,
+        "known_for_department": "Acting",
+        "name": "Patrick Fischler",
+        "original_name": "Patrick Fischler",
+        "popularity": 2.6038,
+        "profile_path": "/vVj7GjHL9hOilbKwViXZpnUlbcQ.jpg",
+        "cast_id": 21,
+        "character": "FBI Agent Ballard",
+        "credit_id": "55f5d79d9251413ed9000407",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1052211,
+        "known_for_department": "Acting",
+        "name": "Mark Steger",
+        "original_name": "Mark Steger",
+        "popularity": 0.7014,
+        "profile_path": "/3EeztYq3OfdeHsqjYSwRuNHrvnk.jpg",
+        "cast_id": 22,
+        "character": "Charles Barlow/Judas",
+        "credit_id": "55f5d7ca9251414f6d001ae1",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 81725,
+        "known_for_department": "Acting",
+        "name": "Nicki Micheaux",
+        "original_name": "Nicki Micheaux",
+        "popularity": 0.7882,
+        "profile_path": "/xA92gKGUnnujmUrdjf7o9PLAaZb.jpg",
+        "cast_id": 23,
+        "character": "Lt. Eileen Carver",
+        "credit_id": "55f5d7f492514142f7000424",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 932422,
+        "known_for_department": "Acting",
+        "name": "Suziey Block",
+        "original_name": "Suziey Block",
+        "popularity": 0.2541,
+        "profile_path": "/a6hmTvyW2NubdPPQRSQL3dYCK3V.jpg",
+        "cast_id": 74,
+        "character": "Ellie Ford",
+        "credit_id": "66d619c4294f933dd9021d46",
+        "order": 8
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 932417,
+        "known_for_department": "Writing",
+        "name": "Dallas Richard Hallam",
+        "original_name": "Dallas Richard Hallam",
+        "popularity": 0.0695,
+        "profile_path": null,
+        "credit_id": "5417c7c40e0a26380b001ac9",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 142398,
+        "known_for_department": "Directing",
+        "name": "Patrick Horvath",
+        "original_name": "Patrick Horvath",
+        "popularity": 0.2773,
+        "profile_path": null,
+        "credit_id": "5417c7d3c3a36819a8001b23",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 932417,
+        "known_for_department": "Writing",
+        "name": "Dallas Richard Hallam",
+        "original_name": "Dallas Richard Hallam",
+        "popularity": 0.0695,
+        "profile_path": null,
+        "credit_id": "5698ee91925141253a002919",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 142398,
+        "known_for_department": "Directing",
+        "name": "Patrick Horvath",
+        "original_name": "Patrick Horvath",
+        "popularity": 0.2773,
+        "profile_path": null,
+        "credit_id": "5698eea5c3a368760b002b81",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1563649,
+        "known_for_department": "Sound",
+        "name": "Carl Sondrol",
+        "original_name": "Carl Sondrol",
+        "popularity": 0.0239,
+        "profile_path": null,
+        "credit_id": "5698eec19251412536002b55",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1455850,
+        "known_for_department": "Editing",
+        "name": "Saul Herckis",
+        "original_name": "Saul Herckis",
+        "popularity": 0.0616,
+        "profile_path": null,
+        "credit_id": "5698ef23c3a36875fc00292e",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1072731,
+        "known_for_department": "Production",
+        "name": "Csaba Bereczky",
+        "original_name": "Csaba Bereczky",
+        "popularity": 0.1044,
+        "profile_path": null,
+        "credit_id": "5698f0a8c3a36875fe0030b0",
+        "department": "Production",
+        "job": "Line Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1563653,
+        "known_for_department": "Production",
+        "name": "Juliana Cardarelli",
+        "original_name": "Juliana Cardarelli",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "5698f0bec3a36875fe0030c6",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 56626,
+        "known_for_department": "Production",
+        "name": "Jamie Carmichael",
+        "original_name": "Jamie Carmichael",
+        "popularity": 0.1507,
+        "profile_path": null,
+        "credit_id": "5698f0da9251412536002cc5",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 59657,
+        "known_for_department": "Production",
+        "name": "Ross M. Dinerstein",
+        "original_name": "Ross M. Dinerstein",
+        "popularity": 0.1692,
+        "profile_path": "/ehWP4rgOnrGeSgQ3X9C61f46Bjv.jpg",
+        "credit_id": "5698f0f19251412543002a65",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 929970,
+        "known_for_department": "Production",
+        "name": "Daniel Sollinger",
+        "original_name": "Daniel Sollinger",
+        "popularity": 0.106,
+        "profile_path": null,
+        "credit_id": "5698f103925141253a002aa7",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1563654,
+        "known_for_department": "Production",
+        "name": "Elisha Gruer",
+        "original_name": "Elisha Gruer",
+        "popularity": 0.0256,
+        "profile_path": null,
+        "credit_id": "5698f12d9251412536002d02",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1563657,
+        "known_for_department": "Production",
+        "name": "Michelle Levy",
+        "original_name": "Michelle Levy",
+        "popularity": 0.1251,
+        "profile_path": null,
+        "credit_id": "5698f140c3a36875fe00315c",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1414143,
+        "known_for_department": "Art",
+        "name": "Helen Harwell",
+        "original_name": "Helen Harwell",
+        "popularity": 0.3175,
+        "profile_path": null,
+        "credit_id": "5698f154925141253d002bc8",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1321334,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Molly Grundman-Gerbosi",
+        "original_name": "Molly Grundman-Gerbosi",
+        "popularity": 0.1559,
+        "profile_path": null,
+        "credit_id": "5698f1679251412536002d32",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 175183,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Jason Collins",
+        "original_name": "Jason Collins",
+        "popularity": 0.2699,
+        "profile_path": null,
+        "credit_id": "5698f18e9251412540002b8f",
+        "department": "Crew",
+        "job": "Makeup Effects"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1563659,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Alyssa Fall",
+        "original_name": "Alyssa Fall",
+        "popularity": 0.1244,
+        "profile_path": null,
+        "credit_id": "5698f1a39251412543002ae9",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1304300,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Shelley Rucker",
+        "original_name": "Shelley Rucker",
+        "popularity": 0.1239,
+        "profile_path": null,
+        "credit_id": "5698f1bbc3a3687600002ab0",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Department Head"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1563663,
+        "known_for_department": "Production",
+        "name": "Brett Mlinarich",
+        "original_name": "Brett Mlinarich",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "5698f21bc3a36875fc002b53",
+        "department": "Production",
+        "job": "Unit Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1563668,
+        "known_for_department": "Sound",
+        "name": "Christopher Battaglia",
+        "original_name": "Christopher Battaglia",
+        "popularity": 0.1284,
+        "profile_path": null,
+        "credit_id": "5698f26c9251412543002b6a",
+        "department": "Sound",
+        "job": "Foley"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1563669,
+        "known_for_department": "Sound",
+        "name": "Ada Douglass (fka Adam)",
+        "original_name": "Ada Douglass (fka Adam)",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "5698f2b5c3a36875fa002e78",
+        "department": "Sound",
+        "job": "Sound mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1563670,
+        "known_for_department": "Sound",
+        "name": "Joseph Loera",
+        "original_name": "Joseph Loera",
+        "popularity": 0.0409,
+        "profile_path": null,
+        "credit_id": "5698f2ca9251412540002c79",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1483830,
+        "known_for_department": "Sound",
+        "name": "Chance Pemberton",
+        "original_name": "Chance Pemberton",
+        "popularity": 0.0667,
+        "profile_path": null,
+        "credit_id": "5698f2e4c3a36875fc002be4",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1563671,
+        "known_for_department": "Visual Effects",
+        "name": "Eric Schrecongost",
+        "original_name": "Eric Schrecongost",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "5698f3079251412534002eb7",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1338421,
+        "known_for_department": "Crew",
+        "name": "Sean Christopher",
+        "original_name": "Sean Christopher",
+        "popularity": 0.14,
+        "profile_path": null,
+        "credit_id": "5698f31a925141253d002cf4",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1563672,
+        "known_for_department": "Crew",
+        "name": "James Croak",
+        "original_name": "James Croak",
+        "popularity": 0.1351,
+        "profile_path": "/25OS36zkGrN5ECKHHuswx85OBI4.jpg",
+        "credit_id": "5698f32bc3a3687605002db5",
+        "department": "Crew",
+        "job": "Utility Stunts"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 92507,
+        "known_for_department": "Crew",
+        "name": "T.J. White",
+        "original_name": "T.J. White",
+        "popularity": 0.1474,
+        "profile_path": null,
+        "credit_id": "5698f34e9251412534002ef8",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1407262,
+        "known_for_department": "Lighting",
+        "name": "Oliver Bukowsky",
+        "original_name": "Oliver Bukowsky",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "5698f361c3a36875fc002c66",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1563673,
+        "known_for_department": "Camera",
+        "name": "Michael Chomieniec",
+        "original_name": "Michael Chomieniec",
+        "popularity": 0.131,
+        "profile_path": null,
+        "credit_id": "5698f373c3a3687600002c04",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1563674,
+        "known_for_department": "Lighting",
+        "name": "Walker Forshee",
+        "original_name": "Walker Forshee",
+        "popularity": 0.0544,
+        "profile_path": null,
+        "credit_id": "5698f3b9c3a36875fa002f62",
+        "department": "Lighting",
+        "job": "Best Boy Electric"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1417466,
+        "known_for_department": "Lighting",
+        "name": "Jorge Gómez",
+        "original_name": "Jorge Gómez",
+        "popularity": 0.0478,
+        "profile_path": null,
+        "credit_id": "5698f3e29251412536002f1b",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1563683,
+        "known_for_department": "Camera",
+        "name": "Boyd Hobbs",
+        "original_name": "Boyd Hobbs",
+        "popularity": 0.0605,
+        "profile_path": null,
+        "credit_id": "5698f4049251412546002adb",
+        "department": "Camera",
+        "job": "Steadicam Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1563688,
+        "known_for_department": "Lighting",
+        "name": "Kenneth Marc",
+        "original_name": "Kenneth Marc",
+        "popularity": 0.0311,
+        "profile_path": null,
+        "credit_id": "5698f598c3a3687605003036",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1563689,
+        "known_for_department": "Lighting",
+        "name": "Anthony Roldan",
+        "original_name": "Anthony Roldan",
+        "popularity": 0.1277,
+        "profile_path": null,
+        "credit_id": "5698f5b6c3a368760500305f",
+        "department": "Lighting",
+        "job": "Best Boy Electric"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 74498,
+        "known_for_department": "Acting",
+        "name": "Skoti Collins",
+        "original_name": "Skoti Collins",
+        "popularity": 0.2521,
+        "profile_path": "/D1vO8hkAzY6MUJgoUptx0i2ZQY.jpg",
+        "credit_id": "5698f5cfc3a3687603002c87",
+        "department": "Production",
+        "job": "Casting Associate"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1455850,
+        "known_for_department": "Editing",
+        "name": "Saul Herckis",
+        "original_name": "Saul Herckis",
+        "popularity": 0.0616,
+        "profile_path": null,
+        "credit_id": "5698f5e7c3a3687600002e60",
+        "department": "Crew",
+        "job": "Post Production Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1563690,
+        "known_for_department": "Directing",
+        "name": "Ezequiel Mirol",
+        "original_name": "Ezequiel Mirol",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "5698f5fac3a368760b0031a5",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1563691,
+        "known_for_department": "Editing",
+        "name": "Justin Sostre",
+        "original_name": "Justin Sostre",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "5698f628c3a36876050030d7",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1563692,
+        "known_for_department": "Acting",
+        "name": "Nicholas Thurkettle",
+        "original_name": "Nicholas Thurkettle",
+        "popularity": 0.0811,
+        "profile_path": "/zSgi9u4tn6wIJixDeHKckoVzUoF.jpg",
+        "credit_id": "5698f637c3a3687608002bf3",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 74498,
+        "known_for_department": "Acting",
+        "name": "Skoti Collins",
+        "original_name": "Skoti Collins",
+        "popularity": 0.2521,
+        "profile_path": "/D1vO8hkAzY6MUJgoUptx0i2ZQY.jpg",
+        "credit_id": "5698f6519251412546002d14",
+        "department": "Crew",
+        "job": "Picture Car Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1349972,
+        "known_for_department": "Directing",
+        "name": "Cristina Fanti",
+        "original_name": "Cristina Fanti",
+        "popularity": 0.0357,
+        "profile_path": null,
+        "credit_id": "5698f6909251412543002f31",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1563693,
+        "known_for_department": "Production",
+        "name": "Sanyu Adair Enos",
+        "original_name": "Sanyu Adair Enos",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "5698f6a3c3a36875fe003681",
+        "department": "Production",
+        "job": "Production Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2489849,
+        "known_for_department": "Lighting",
+        "name": "David Thomas Graves",
+        "original_name": "David Thomas Graves",
+        "popularity": 0.0404,
+        "profile_path": null,
+        "credit_id": "66b1d3a7144a2bd1a999a723",
+        "department": "Lighting",
+        "job": "Best Boy Electric"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1477481,
+        "known_for_department": "Production",
+        "name": "Andrew Schwarz",
+        "original_name": "Andrew Schwarz",
+        "popularity": 0.0379,
+        "profile_path": null,
+        "credit_id": "5f653a9084448e00376c62d9",
+        "department": "Production",
+        "job": "Producer's Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1058981,
+        "known_for_department": "Camera",
+        "name": "Carmen Cabana",
+        "original_name": "Carmen Cabana",
+        "popularity": 0.1441,
+        "profile_path": null,
+        "credit_id": "6030550244ea54003e42bfce",
+        "department": "Camera",
+        "job": "Director of Photography"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "US",
+        "title": "The Pact 2",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "US",
+        "title": "The Pact Two",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "DE",
+        "title": "The Pact 2 - Es ist noch nicht vorbei",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "MX",
+        "title": "Pacto Diabólico",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "FR",
+        "title": "The Devil's Pact",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "MX",
+        "title": "El Pacto 2",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "ES",
+        "title": "El Pacto 2",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "US",
+        "title": "El Pacto 2",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "CZ",
+        "title": "Hrůzná minulost 2",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "JP",
+        "title": "ディスコード/ジ・アフター",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "JP",
+        "title": "ディスコード ジ・アフター",
+        "type": ""
+      }
+    ]
+  }
+}

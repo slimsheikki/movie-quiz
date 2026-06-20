@@ -1,0 +1,579 @@
+{
+  "adult": false,
+  "backdrop_path": "/lLvIoN4fHSrmOuK0CvVgkqA6Sa4.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ],
+  "homepage": "",
+  "id": 73920,
+  "imdb_id": "tt0091759",
+  "origin_country": [
+    "SU"
+  ],
+  "original_language": "ru",
+  "original_title": "Письма мертвого человека",
+  "overview": "In a desolate world following the nuclear apocalypse, a scholar helps a small group of adults and children survive in the basement of a former museum of history. In his mind, he writes letters to his only son that will never be read and tries to find shreds of hope in his new reality.",
+  "popularity": 0.9978,
+  "poster_path": "/uPfG3ZnXCdRdxZ88DqMe0UuIwBS.jpg",
+  "production_companies": [
+    {
+      "id": 10845,
+      "logo_path": "/8qh5BEyKYOQ0e81LPbvWHQvyOy5.png",
+      "name": "Lenfilm",
+      "origin_country": "SU"
+    },
+    {
+      "id": 78668,
+      "logo_path": null,
+      "name": "Pervoe Tvorcheskoe Obyedinenie",
+      "origin_country": "SU"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "SU",
+      "name": "Soviet Union"
+    }
+  ],
+  "release_date": "1986-12-12",
+  "revenue": 0,
+  "runtime": 83,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "Pусский"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Remember your humanity and forget the rest.",
+  "title": "Dead Man's Letters",
+  "video": false,
+  "vote_average": 6.9,
+  "vote_count": 129,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1191198,
+        "known_for_department": "Acting",
+        "name": "Rolan Bykov",
+        "original_name": "Ролан Быков",
+        "popularity": 0.722,
+        "profile_path": "/y5glWWySA61CeGk9kWA6CZkMG4J.jpg",
+        "cast_id": 9,
+        "character": "Professor",
+        "credit_id": "52fe48b2c3a368484e106331",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 532285,
+        "known_for_department": "Acting",
+        "name": "Iosif Ryklin",
+        "original_name": "Иосиф Рыклин",
+        "popularity": 0.0602,
+        "profile_path": "/sDhldH0PPkxDl2FwNxc1p48c7rE.jpg",
+        "cast_id": 3,
+        "character": "Humanist",
+        "credit_id": "52fe48b2c3a368484e106325",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 570529,
+        "known_for_department": "Acting",
+        "name": "Aleksandr Sabinin",
+        "original_name": "Александр Сабинин",
+        "popularity": 0.1134,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "",
+        "credit_id": "52fe48b2c3a368484e106329",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 570530,
+        "known_for_department": "Acting",
+        "name": "Nora Gryakalova",
+        "original_name": "Нора Грякалова",
+        "popularity": 0.264,
+        "profile_path": "/lwQ16T6mxxlgerDNFFm4VZFgVku.jpg",
+        "cast_id": 6,
+        "character": "",
+        "credit_id": "52fe48b2c3a368484e10632d",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 301961,
+        "known_for_department": "Acting",
+        "name": "Vadim Lobanov",
+        "original_name": "Вадим Лобанов",
+        "popularity": 0.3563,
+        "profile_path": "/t7wmZaUYfjqFQcgr0h1ettpOzgF.jpg",
+        "cast_id": 14,
+        "character": "",
+        "credit_id": "5b1eb928c3a368088f00dbc5",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1203185,
+        "known_for_department": "Acting",
+        "name": "Viktor Mikhaylov",
+        "original_name": "Виктор Михайлов",
+        "popularity": 0.4325,
+        "profile_path": "/urdAAqX5NO469I709CEukn3FFP.jpg",
+        "cast_id": 15,
+        "character": "",
+        "credit_id": "5c1a00f3c3a368344ecfffa0",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 564677,
+        "known_for_department": "Acting",
+        "name": "Vera Mayorova",
+        "original_name": "Вера Майорова-Земская",
+        "popularity": 0.1588,
+        "profile_path": "/f003UIdXTJeA5D0VczPE5Dlp72H.jpg",
+        "cast_id": 16,
+        "character": "Anna",
+        "credit_id": "5d364d7c6840cc00218e6bba",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 572034,
+        "known_for_department": "Acting",
+        "name": "Svetlana Smirnova",
+        "original_name": "Светлана Смирнова",
+        "popularity": 0.4776,
+        "profile_path": "/9yOyuYWqXtnW89h6UzNw3khhOWy.jpg",
+        "cast_id": 17,
+        "character": "Tereza",
+        "credit_id": "5d364d8dc92c5d0017d74d26",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2158012,
+        "known_for_department": "Acting",
+        "name": "Natalya Vlasova",
+        "original_name": "Наталия Власова",
+        "popularity": 0.0982,
+        "profile_path": "/xt0FUjqJJI72V5d2bbuz7P3Mn2G.jpg",
+        "cast_id": 18,
+        "character": "",
+        "credit_id": "5d364d995cea180019d0f469",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 96513,
+        "known_for_department": "Acting",
+        "name": "Vatslav Dvorzhetsky",
+        "original_name": "Вацлав Дворжецкий",
+        "popularity": 0.2574,
+        "profile_path": "/7iI6rjTdgcF5hDTcTiNRoNhfmli.jpg",
+        "cast_id": 34,
+        "character": "Pastor",
+        "credit_id": "61a4fddb85c0a200216e6fe0",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 929635,
+        "known_for_department": "Acting",
+        "name": "Vyacheslav Vasilyev",
+        "original_name": "Вячеслав Васильев",
+        "popularity": 0.0516,
+        "profile_path": null,
+        "cast_id": 35,
+        "character": "Dosimetrist",
+        "credit_id": "61a4fdfb00508a006672029a",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1198270,
+        "known_for_department": "Acting",
+        "name": "Evgeniy Platokhin",
+        "original_name": "Евгений Платохин",
+        "popularity": 0.1547,
+        "profile_path": "/96OaIBcWcYfB0pqbnUmWuJBXGXl.jpg",
+        "cast_id": 36,
+        "character": "Vrach",
+        "credit_id": "61a4fe0c2495ab0091935485",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2607533,
+        "known_for_department": "Acting",
+        "name": "Mikhail Shteyn",
+        "original_name": "Михаил Штейн",
+        "popularity": 0.0168,
+        "profile_path": null,
+        "cast_id": 37,
+        "character": "",
+        "credit_id": "61a4fe1a00508a00667202b9",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2603664,
+        "known_for_department": "Acting",
+        "name": "Gennady Makoev",
+        "original_name": "Геннадий Макоев",
+        "popularity": 0.0679,
+        "profile_path": "/mwA3jrslcaoI7d5AF1cV0S5bw5n.jpg",
+        "cast_id": 38,
+        "character": "",
+        "credit_id": "61a4fe34869e750068d034cf",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2147382,
+        "known_for_department": "Acting",
+        "name": "Svetlana Kireeva",
+        "original_name": "Светлана Киреева",
+        "popularity": 0.126,
+        "profile_path": "/cAkuv0dxhkDgFtnkv7i3f1sU63C.jpg",
+        "cast_id": 39,
+        "character": "",
+        "credit_id": "61a4fe433dc313002d268606",
+        "order": 14
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 88782,
+        "known_for_department": "Directing",
+        "name": "Konstantin Lopushansky",
+        "original_name": "Константин Лопушанский",
+        "popularity": 0.2103,
+        "profile_path": "/znz4T3wzZP0Ayodh2lSwX4imPa3.jpg",
+        "credit_id": "52fe48b2c3a368484e106321",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3167814,
+        "known_for_department": "Costume & Make-Up",
+        "name": "L. Karaseva",
+        "original_name": "Л. Карасева",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "60f999ffdf857c005ead6112",
+        "department": "Costume & Make-Up",
+        "job": "Costume Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1822548,
+        "known_for_department": "Art",
+        "name": "Zoya Nikashina",
+        "original_name": "Zoya Nikashina",
+        "popularity": 0.0168,
+        "profile_path": null,
+        "credit_id": "60f99989f1759c002eb02a1a",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2655904,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Andzhela Sapunova",
+        "original_name": "Анжела Сапунова",
+        "popularity": 0.0548,
+        "profile_path": null,
+        "credit_id": "60f999c697fdec0045907ef2",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2335242,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Yekaterina Shapkayts",
+        "original_name": "Екатерина Шапкайц",
+        "popularity": 0.0357,
+        "profile_path": null,
+        "credit_id": "60f999d8fd140b007e5e87c9",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3167810,
+        "known_for_department": "Production",
+        "name": "Yuri Golynchik",
+        "original_name": "Yuri Golynchik",
+        "popularity": 0.0239,
+        "profile_path": null,
+        "credit_id": "60f9995ffd140b00293ab540",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3167811,
+        "known_for_department": "Production",
+        "name": "Raisa Proskuryakova",
+        "original_name": "Raisa Proskuryakova",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "60f9997207e28100467b0b82",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3167812,
+        "known_for_department": "Art",
+        "name": "Aleksei Shkele",
+        "original_name": "Алексей Шкеле",
+        "popularity": 0.0505,
+        "profile_path": null,
+        "credit_id": "60f9999edf857c0075c6031f",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2068914,
+        "known_for_department": "Acting",
+        "name": "V. Savelyeva",
+        "original_name": "V. Savelyeva",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "60f999ea97fdec002f58fad6",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 88782,
+        "known_for_department": "Directing",
+        "name": "Konstantin Lopushansky",
+        "original_name": "Константин Лопушанский",
+        "popularity": 0.2103,
+        "profile_path": "/znz4T3wzZP0Ayodh2lSwX4imPa3.jpg",
+        "credit_id": "532da165c3a3685fe2002027",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 150635,
+        "known_for_department": "Writing",
+        "name": "Boris Strugatskiy",
+        "original_name": "Борис Стругацкий",
+        "popularity": 0.3304,
+        "profile_path": "/oXXFL4yQuJaVPklkWlZwiDpCMCo.jpg",
+        "credit_id": "53dbfb48c3a3684336000372",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1268067,
+        "known_for_department": "Writing",
+        "name": "Vyacheslav Rybakov",
+        "original_name": "Vyacheslav Rybakov",
+        "popularity": 0.0495,
+        "profile_path": "/kd1i9wZArYoY2nu7WEY1RhX7s5t.jpg",
+        "credit_id": "53dbfa86c3a3684331000369",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 270361,
+        "known_for_department": "Directing",
+        "name": "Aleksei German",
+        "original_name": "Алексей Герман ст.",
+        "popularity": 0.4712,
+        "profile_path": "/evufNoSmmrfwEaQUUGXpFMfy3Zq.jpg",
+        "credit_id": "61d1891e944a570045b0b8bc",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1960850,
+        "known_for_department": "Camera",
+        "name": "Nikolai Pokoptsev",
+        "original_name": "Николай Покопцев",
+        "popularity": 0.0505,
+        "profile_path": null,
+        "credit_id": "5d364dbe5cea180019d0f4a4",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2368721,
+        "known_for_department": "Sound",
+        "name": "Leonid Gavrichenko",
+        "original_name": "Леонид Гавриченко",
+        "popularity": 0.1211,
+        "profile_path": null,
+        "credit_id": "5d364def5cea180010d0f6f9",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 95174,
+        "known_for_department": "Sound",
+        "name": "Aleksandr Zhurbin",
+        "original_name": "Александр Журбин",
+        "popularity": 0.0537,
+        "profile_path": "/4H31Jg38twjshTHppCHvL6NaRbS.jpg",
+        "credit_id": "5d364dae6840cc00108e69d9",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1806496,
+        "known_for_department": "Art",
+        "name": "Yelena Amshinskaya",
+        "original_name": "Елена Амшинская",
+        "popularity": 0.0714,
+        "profile_path": "/4tTvYQlyTV5hi5JXfcX67Bueq2F.jpg",
+        "credit_id": "5d364dd5c92c5d0017d74d66",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1623870,
+        "known_for_department": "Art",
+        "name": "Viktor Ivanov",
+        "original_name": "Виктор Иванов",
+        "popularity": 0.0634,
+        "profile_path": null,
+        "credit_id": "5d364de45cea180019d0f4e0",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2368720,
+        "known_for_department": "Editing",
+        "name": "T. Poulinoi",
+        "original_name": "T. Poulinoi",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "5d364dc96840cc00298e6c73",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2282054,
+        "known_for_department": "Art",
+        "name": "Yuriy Rotin",
+        "original_name": "Юрий Ротин",
+        "popularity": 0.0281,
+        "profile_path": null,
+        "credit_id": "68cd8bdd6d6b12cb857a3a75",
+        "department": "Art",
+        "job": "Set Decoration"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "RU",
+        "title": "Письма мёртвого человека",
+        "type": "ё"
+      },
+      {
+        "iso_3166_1": "NL",
+        "title": "Brieven van een Dode Man",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "FR",
+        "title": "Les Lettres d'un homme mort",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "US",
+        "title": "Letters from a Dead Man",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "DE",
+        "title": "Briefe eines toten Mannes",
+        "type": "East-German theatrical release"
+      },
+      {
+        "iso_3166_1": "NO",
+        "title": "Brev fra en død mann",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "AZ",
+        "title": "Ölü Adamın Məktubları",
+        "type": ""
+      }
+    ]
+  }
+}

@@ -1,0 +1,324 @@
+{
+  "adult": false,
+  "backdrop_path": "/t3q2uaf4jJ6ZKBFT4qm9dVVs9CV.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "https://www.nikkatsu.com/movie/20920.html",
+  "id": 67096,
+  "imdb_id": "tt0273925",
+  "origin_country": [
+    "JP"
+  ],
+  "original_language": "ja",
+  "original_title": "俺にさわると危ないぜ",
+  "overview": "Daisuke Honda, a war photographer in Vietnam, meets Yuriko Sawanouchi, a stewardess on his plane back to Japan. After drinking with her at a Tokyo bar, he becomes involved in saving Yuriko from assassination by stylish, female ninjas. When trying to rescue Yuriko from kidnappers, Daisuke discovers a group of foreigners are hunting for a WWII-era treasure hidden on an island by Yuriko's father.",
+  "popularity": 0.8606,
+  "poster_path": "/1Ys1sczdtgpQ4xACGSknpAMuoK7.jpg",
+  "production_companies": [
+    {
+      "id": 955,
+      "logo_path": "/5xnXD3PJI1HqOJceSAKZ3fDqO1V.png",
+      "name": "Nikkatsu Corporation",
+      "origin_country": "JP"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    }
+  ],
+  "release_date": "1966-02-12",
+  "revenue": 0,
+  "runtime": 87,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Black Tight Killers",
+  "video": false,
+  "vote_average": 6.9,
+  "vote_count": 14,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 548038,
+        "known_for_department": "Acting",
+        "name": "Akemi Kita",
+        "original_name": "北あけみ",
+        "popularity": 0.8817,
+        "profile_path": "/cf4nRXYjqmKpgySsDo7mHWMAhri.jpg",
+        "cast_id": 8,
+        "character": "Akiko",
+        "credit_id": "52fe4757c3a368484e0c1add",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 548039,
+        "known_for_department": "Acting",
+        "name": "Mieko Nishio",
+        "original_name": "西尾三枝子",
+        "popularity": 0.6398,
+        "profile_path": "/47XXxT28EsLake8V0UfoRdlpXuF.jpg",
+        "cast_id": 9,
+        "character": "Fuyuko",
+        "credit_id": "52fe4757c3a368484e0c1ae1",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 34377,
+        "known_for_department": "Acting",
+        "name": "Bokuzen Hidari",
+        "original_name": "左卜全",
+        "popularity": 0.7881,
+        "profile_path": "/kvISvHgKAAWVPOnDjgVHWOgSOaO.jpg",
+        "cast_id": 10,
+        "character": "Momochi",
+        "credit_id": "52fe4757c3a368484e0c1ae5",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 136874,
+        "known_for_department": "Acting",
+        "name": "Akira Kobayashi",
+        "original_name": "小林旭",
+        "popularity": 1.1426,
+        "profile_path": "/xvKnC3LxhR4feaQxbZjTYnbH9HJ.jpg",
+        "cast_id": 12,
+        "character": "Daisuke Hondo",
+        "credit_id": "52fe4757c3a368484e0c1ae9",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 13252,
+        "known_for_department": "Acting",
+        "name": "Chieko Matsubara",
+        "original_name": "松原智恵子",
+        "popularity": 1.1257,
+        "profile_path": "/iVB0VfIsepdBDLUP3nGrYcHctkR.jpg",
+        "cast_id": 13,
+        "character": "Yoriko Sawanouchi",
+        "credit_id": "52fe4757c3a368484e0c1aed",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 548040,
+        "known_for_department": "Acting",
+        "name": "Hiroshi Nihon'yanagi",
+        "original_name": "二本柳寛",
+        "popularity": 0.7803,
+        "profile_path": "/iHFZliMVkEFlhBIsslhv47gmyXb.jpg",
+        "cast_id": 14,
+        "character": "Okada",
+        "credit_id": "52fe4757c3a368484e0c1af1",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 548041,
+        "known_for_department": "Acting",
+        "name": "Kaku Takashina",
+        "original_name": "高品格",
+        "popularity": 0.8979,
+        "profile_path": "/2ZRMroUFcmF9bH32ex4XR0ImTDx.jpg",
+        "cast_id": 15,
+        "character": "Detective Toyama",
+        "credit_id": "52fe4757c3a368484e0c1af5",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 548042,
+        "known_for_department": "Acting",
+        "name": "Toshizō Kudō",
+        "original_name": "久遠利三",
+        "popularity": 0.4426,
+        "profile_path": null,
+        "cast_id": 16,
+        "character": "",
+        "credit_id": "52fe4757c3a368484e0c1af9",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 86247,
+        "known_for_department": "Acting",
+        "name": "Eiji Gō",
+        "original_name": "郷鍈治",
+        "popularity": 1.058,
+        "profile_path": "/umd4Hs6qojlloZxxHLBhu7cQjiy.jpg",
+        "cast_id": 17,
+        "character": "Sabu",
+        "credit_id": "52fe4757c3a368484e0c1afd",
+        "order": 8
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 82468,
+        "known_for_department": "Sound",
+        "name": "Naozumi Yamamoto",
+        "original_name": "山本直純",
+        "popularity": 0.3934,
+        "profile_path": "/2HWemzpbYdUdQY40RJl6zKVQmMc.jpg",
+        "credit_id": "52fe4757c3a368484e0c1ac7",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 239386,
+        "known_for_department": "Directing",
+        "name": "Yasuharu Hasebe",
+        "original_name": "長谷部安春",
+        "popularity": 0.6136,
+        "profile_path": "/ltHuIIqfzdtg85M3VSjpMeFabKj.jpg",
+        "credit_id": "52fe4757c3a368484e0c1ab5",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 70632,
+        "known_for_department": "Editing",
+        "name": "Akira Suzuki",
+        "original_name": "鈴木晄",
+        "popularity": 0.3979,
+        "profile_path": null,
+        "credit_id": "52fe4757c3a368484e0c1ad3",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 548037,
+        "known_for_department": "Art",
+        "name": "Akiyoshi Satani",
+        "original_name": "佐谷晃能",
+        "popularity": 0.1334,
+        "profile_path": null,
+        "credit_id": "52fe4757c3a368484e0c1ad9",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 82469,
+        "known_for_department": "Camera",
+        "name": "Kazue Nagatsuka",
+        "original_name": "永塚一栄",
+        "popularity": 0.1264,
+        "profile_path": null,
+        "credit_id": "595eab9ec3a36825e8085f67",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2222665,
+        "known_for_department": "Production",
+        "name": "Miyo Akiyama",
+        "original_name": "Miyo Akiyama",
+        "popularity": 0.0563,
+        "profile_path": null,
+        "credit_id": "5e44d32e41465c001ad32d3f",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 21492,
+        "known_for_department": "Writing",
+        "name": "Ryuzo Nakanishi",
+        "original_name": "中西隆三",
+        "popularity": 0.8816,
+        "profile_path": null,
+        "credit_id": "5e44d38441465c0018d2e3d9",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 548036,
+        "known_for_department": "Writing",
+        "name": "Michio Tsuzuki",
+        "original_name": "都筑道夫",
+        "popularity": 0.2984,
+        "profile_path": null,
+        "credit_id": "5e44d3759603310019f47b7b",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 548036,
+        "known_for_department": "Writing",
+        "name": "Michio Tsuzuki",
+        "original_name": "都筑道夫",
+        "popularity": 0.2984,
+        "profile_path": null,
+        "credit_id": "5e44d3699603310015f4b669",
+        "department": "Writing",
+        "job": "Original Story"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "JP",
+        "title": "Ore ni sawaru to abunaize",
+        "type": "transliteration"
+      }
+    ]
+  }
+}

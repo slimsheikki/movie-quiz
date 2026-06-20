@@ -1,0 +1,451 @@
+{
+  "adult": false,
+  "backdrop_path": "/zbnNk0dY8Pj3rlqrT2KDTh6ZQlr.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ],
+  "homepage": "",
+  "id": 55613,
+  "imdb_id": "tt0103926",
+  "origin_country": [
+    "CA",
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Careful",
+  "overview": "The mountain-village passions of a German widow and her sons unfold in the style of a 1920s expressionist movie.",
+  "popularity": 0.4936,
+  "poster_path": "/qolQ7M5hpbBwcvpMpfeSMyU64rs.jpg",
+  "production_companies": [
+    {
+      "id": 6698,
+      "logo_path": null,
+      "name": "CIDO",
+      "origin_country": "CA"
+    },
+    {
+      "id": 6700,
+      "logo_path": null,
+      "name": "The Manitoba Arts Council",
+      "origin_country": ""
+    },
+    {
+      "id": 24726,
+      "logo_path": "/4Ou4PZ9hiEJyICZxk6FfydGIOfb.png",
+      "name": "Canada Council for the Arts",
+      "origin_country": "CA"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    }
+  ],
+  "release_date": "1992-09-30",
+  "revenue": 0,
+  "runtime": 100,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Careful",
+  "video": false,
+  "vote_average": 5.967,
+  "vote_count": 30,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 177950,
+        "known_for_department": "Acting",
+        "name": "Kyle McCulloch",
+        "original_name": "Kyle McCulloch",
+        "popularity": 0.3391,
+        "profile_path": "/4IsIrMR9grp05SzVI5BUiFSsTDi.jpg",
+        "cast_id": 4,
+        "character": "Grigorss",
+        "credit_id": "52fe48d7c3a36847f817c10b",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 222737,
+        "known_for_department": "Acting",
+        "name": "Małgorzata Dobrowolska",
+        "original_name": "Małgorzata Dobrowolska",
+        "popularity": 0.2517,
+        "profile_path": "/v09BP5eFJTmRaKRvhUPN5xS7IlY.jpg",
+        "cast_id": 5,
+        "character": "Zenaida",
+        "credit_id": "52fe48d7c3a36847f817c10f",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 186300,
+        "known_for_department": "Acting",
+        "name": "Sarah Neville",
+        "original_name": "Sarah Neville",
+        "popularity": 0.0683,
+        "profile_path": null,
+        "cast_id": 6,
+        "character": "Klara",
+        "credit_id": "52fe48d7c3a36847f817c113",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1195707,
+        "known_for_department": "Acting",
+        "name": "Brent Neale",
+        "original_name": "Brent Neale",
+        "popularity": 0.1172,
+        "profile_path": "/lAjIopWuih3SNd9Aqv8tXaL0p8f.jpg",
+        "cast_id": 7,
+        "character": "Johann",
+        "credit_id": "5770e8dbc3a3683e91001f4c",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 939275,
+        "known_for_department": "Directing",
+        "name": "Paul Cox",
+        "original_name": "Paul Cox",
+        "popularity": 0.2675,
+        "profile_path": "/wMRDxbIIi42Y54gy6NNV3pQ0aNR.jpg",
+        "cast_id": 8,
+        "character": "Count Knotkers",
+        "credit_id": "5770e9609251412a06002225",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 81238,
+        "known_for_department": "Acting",
+        "name": "Victor Cowie",
+        "original_name": "Victor Cowie",
+        "popularity": 0.1742,
+        "profile_path": null,
+        "cast_id": 9,
+        "character": "Herr Trotta",
+        "credit_id": "5770e980c3a3683e850025a5",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1641989,
+        "known_for_department": "Acting",
+        "name": "Michael O'Sullivan",
+        "original_name": "Michael O'Sullivan",
+        "popularity": 0.086,
+        "profile_path": "/vNEvIWShuqen7i1ZOXdXZdZH8Nm.jpg",
+        "cast_id": 10,
+        "character": "Blind Ghost",
+        "credit_id": "58329662c3a3685ba103a545",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1711872,
+        "known_for_department": "Acting",
+        "name": "Vince Rimmer",
+        "original_name": "Vince Rimmer",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 11,
+        "character": "Franz",
+        "credit_id": "5832968cc3a3685bb0032b0d",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 174577,
+        "known_for_department": "Acting",
+        "name": "Katya Gardner",
+        "original_name": "Katya Gardner",
+        "popularity": 0.1958,
+        "profile_path": "/gbV99iI6lEngupGVGbhTBIz4npO.jpg",
+        "cast_id": 12,
+        "character": "Sigleinde",
+        "credit_id": "583296abc3a3685b9a034aac",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 61185,
+        "known_for_department": "Acting",
+        "name": "Jackie Burroughs",
+        "original_name": "Jackie Burroughs",
+        "popularity": 0.8561,
+        "profile_path": "/qKRtBWQOknpXiHOnvL2nl6AqUFy.jpg",
+        "cast_id": 13,
+        "character": "Frau Teacher",
+        "credit_id": "583296c192514162cf03462b",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 75812,
+        "known_for_department": "Acting",
+        "name": "Ross McMillan",
+        "original_name": "Ross McMillan",
+        "popularity": 0.247,
+        "profile_path": null,
+        "cast_id": 14,
+        "character": "Chief Steward",
+        "credit_id": "583296d1c3a3685ba8034a25",
+        "order": 10
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2967865,
+        "known_for_department": "Production",
+        "name": "Tracy Traeger",
+        "original_name": "Tracy Traeger",
+        "popularity": 0.0519,
+        "profile_path": null,
+        "credit_id": "6088753b55c9260059301d9a",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2967864,
+        "known_for_department": "Production",
+        "name": "Andre Bennett",
+        "original_name": "Andre Bennett",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "6088754c54508d003f925c5b",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 97579,
+        "known_for_department": "Directing",
+        "name": "Guy Maddin",
+        "original_name": "Guy Maddin",
+        "popularity": 0.4662,
+        "profile_path": "/hF15rfnugsLQJfa6R1AvVAX7bEu.jpg",
+        "credit_id": "6088757384448e002a824c75",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 97579,
+        "known_for_department": "Directing",
+        "name": "Guy Maddin",
+        "original_name": "Guy Maddin",
+        "popularity": 0.4662,
+        "profile_path": "/hF15rfnugsLQJfa6R1AvVAX7bEu.jpg",
+        "credit_id": "6088757f2da846002985c2d4",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2575435,
+        "known_for_department": "Acting",
+        "name": "Jeff Solylo",
+        "original_name": "Jeff Solylo",
+        "popularity": 0.0414,
+        "profile_path": null,
+        "credit_id": "608875b2cabfe40029514572",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2575432,
+        "known_for_department": "Acting",
+        "name": "Donna Szöke",
+        "original_name": "Donna Szöke",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "credit_id": "608875c22dda890059028015",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1471018,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Pamela M. Athayde",
+        "original_name": "Pamela M. Athayde",
+        "popularity": 0.1238,
+        "profile_path": null,
+        "credit_id": "608875d4da10f0007976f043",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2575432,
+        "known_for_department": "Acting",
+        "name": "Donna Szöke",
+        "original_name": "Donna Szöke",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "credit_id": "608875ed0c271000579e8ae4",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1701258,
+        "known_for_department": "Sound",
+        "name": "Russ Dyck",
+        "original_name": "Russ Dyck",
+        "popularity": 0.1113,
+        "profile_path": null,
+        "credit_id": "608876000c2710006e1fccf3",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1701258,
+        "known_for_department": "Sound",
+        "name": "Russ Dyck",
+        "original_name": "Russ Dyck",
+        "popularity": 0.1113,
+        "profile_path": null,
+        "credit_id": "6088763466e4690058fe31fc",
+        "department": "Sound",
+        "job": "ADR Recordist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 97579,
+        "known_for_department": "Directing",
+        "name": "Guy Maddin",
+        "original_name": "Guy Maddin",
+        "popularity": 0.4662,
+        "profile_path": "/hF15rfnugsLQJfa6R1AvVAX7bEu.jpg",
+        "credit_id": "52fe48d7c3a36847f817c0fb",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 222730,
+        "known_for_department": "Production",
+        "name": "Greg Klymkiw",
+        "original_name": "Greg Klymkiw",
+        "popularity": 0.1046,
+        "profile_path": null,
+        "credit_id": "52fe48d7c3a36847f817c101",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 145600,
+        "known_for_department": "Writing",
+        "name": "George Toles",
+        "original_name": "George Toles",
+        "popularity": 0.3025,
+        "profile_path": "/j0Pq7IvjE8TmH2MT6MSMRmTRfNg.jpg",
+        "credit_id": "58329831c3a3685b9602e22b",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 97579,
+        "known_for_department": "Directing",
+        "name": "Guy Maddin",
+        "original_name": "Guy Maddin",
+        "popularity": 0.4662,
+        "profile_path": "/hF15rfnugsLQJfa6R1AvVAX7bEu.jpg",
+        "credit_id": "5832983dc3a3685bad031a53",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 97579,
+        "known_for_department": "Directing",
+        "name": "Guy Maddin",
+        "original_name": "Guy Maddin",
+        "popularity": 0.4662,
+        "profile_path": "/hF15rfnugsLQJfa6R1AvVAX7bEu.jpg",
+        "credit_id": "6a1488df768460a1a5476181",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2813269,
+        "known_for_department": "Sound",
+        "name": "John McCulloch",
+        "original_name": "John McCulloch",
+        "popularity": 0.0368,
+        "profile_path": null,
+        "credit_id": "6a1488eca54d2b107a85859a",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  }
+}

@@ -1,0 +1,355 @@
+{
+  "adult": false,
+  "backdrop_path": "/v9qbe0oQQdykkeeEW2m2oaMQAFA.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 47039,
+  "imdb_id": "tt0091871",
+  "origin_country": [
+    "DE"
+  ],
+  "original_language": "de",
+  "original_title": "Der Rosenkönig",
+  "overview": "A mentally unstable woman and her son move to a sprawling mansion in Portugal to grow roses.",
+  "popularity": 0.2732,
+  "poster_path": "/e62pRfOnjrptvkiKGka2H0077dK.jpg",
+  "production_companies": [
+    {
+      "id": 47758,
+      "logo_path": null,
+      "name": "Futra Film",
+      "origin_country": ""
+    },
+    {
+      "id": 47759,
+      "logo_path": null,
+      "name": "Werner Schroeter Filmproduktion",
+      "origin_country": ""
+    },
+    {
+      "id": 47760,
+      "logo_path": null,
+      "name": "Juliane Lorenz Filmproduktion",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    },
+    {
+      "iso_3166_1": "NL",
+      "name": "Netherlands"
+    },
+    {
+      "iso_3166_1": "PT",
+      "name": "Portugal"
+    }
+  ],
+  "release_date": "1986-03-03",
+  "revenue": 0,
+  "runtime": 106,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Arabic",
+      "iso_639_1": "ar",
+      "name": "العربية"
+    },
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    },
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    },
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "If two children kiss before they can speak, one of them will die.",
+  "title": "The Rose King",
+  "video": false,
+  "vote_average": 6.548,
+  "vote_count": 21,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 45197,
+        "known_for_department": "Acting",
+        "name": "Magdalena Montezuma",
+        "original_name": "Magdalena Montezuma",
+        "popularity": 0.3698,
+        "profile_path": null,
+        "cast_id": 2,
+        "character": "Anna, The Mother",
+        "credit_id": "532aa47fc3a3682006001509",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 45199,
+        "known_for_department": "Acting",
+        "name": "Mostefa Djadjam",
+        "original_name": "Mostefa Djadjam",
+        "popularity": 0.1645,
+        "profile_path": "/AnEdIOJCjUpX1dd522y6r1Gwmvs.jpg",
+        "cast_id": 3,
+        "character": "Albert",
+        "credit_id": "532aa491c3a3681ff0001512",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1149778,
+        "known_for_department": "Acting",
+        "name": "Antonio Orlando",
+        "original_name": "Antonio Orlando",
+        "popularity": 0.3312,
+        "profile_path": null,
+        "cast_id": 6,
+        "character": "Fernando, The Friend",
+        "credit_id": "54f61879c3a3683a650008c3",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 145584,
+        "known_for_department": "Acting",
+        "name": "Karina Fallenstein",
+        "original_name": "Karina Fallenstein",
+        "popularity": 0.2133,
+        "profile_path": "/qHuotLz2MxnAD823cAYLIiuiIvh.jpg",
+        "cast_id": 7,
+        "character": "The Woman",
+        "credit_id": "54f6188a92514151c6000391",
+        "order": 3
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 45192,
+        "known_for_department": "Directing",
+        "name": "Werner Schroeter",
+        "original_name": "Werner Schroeter",
+        "popularity": 0.2772,
+        "profile_path": "/yrTk3uMtzx0mu9ZyqHA59XiC5bA.jpg",
+        "credit_id": "52fe471bc3a36847f8123c73",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 45192,
+        "known_for_department": "Directing",
+        "name": "Werner Schroeter",
+        "original_name": "Werner Schroeter",
+        "popularity": 0.2772,
+        "profile_path": "/yrTk3uMtzx0mu9ZyqHA59XiC5bA.jpg",
+        "credit_id": "54f61859c3a3683a690007f9",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 45197,
+        "known_for_department": "Acting",
+        "name": "Magdalena Montezuma",
+        "original_name": "Magdalena Montezuma",
+        "popularity": 0.3698,
+        "profile_path": null,
+        "credit_id": "54f61847c3a3683a690007f4",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 24128,
+        "known_for_department": "Camera",
+        "name": "Wolfgang Pilgrim",
+        "original_name": "Wolfgang Pilgrim",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "598825a3925141059d021d75",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 940810,
+        "known_for_department": "Sound",
+        "name": "Joaquim Pinto",
+        "original_name": "Joaquim Pinto",
+        "popularity": 0.1269,
+        "profile_path": "/bJ8JGf7MV2Qyp13Dzq9ZsaOUerB.jpg",
+        "credit_id": "59882629c3a3683287029d00",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 937208,
+        "known_for_department": "Directing",
+        "name": "Rita Azevedo Gomes",
+        "original_name": "Rita Azevedo Gomes",
+        "popularity": 0.1476,
+        "profile_path": "/8y4GlBNfhQdqyBrqTbJoMmKcUWW.jpg",
+        "credit_id": "598825dac3a368323402fcda",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1315038,
+        "known_for_department": "Production",
+        "name": "Udo Heiland",
+        "original_name": "Udo Heiland",
+        "popularity": 0.0901,
+        "profile_path": null,
+        "credit_id": "59882581c3a3681df0018e98",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1112004,
+        "known_for_department": "Art",
+        "name": "Isabel Branco",
+        "original_name": "Isabel Branco",
+        "popularity": 0.1151,
+        "profile_path": null,
+        "credit_id": "598825d1c3a368371901e3fa",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1281664,
+        "known_for_department": "Sound",
+        "name": "Vasco Pimentel",
+        "original_name": "Vasco Pimentel",
+        "popularity": 0.1808,
+        "profile_path": "/MieWuA9cH8abOfP25G6xQQ4Rdt.jpg",
+        "credit_id": "5988262192514153c801a5ad",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1106593,
+        "known_for_department": "Camera",
+        "name": "Elfi Mikesch",
+        "original_name": "Elfi Mikesch",
+        "popularity": 0.1048,
+        "profile_path": "/7sVAxUTEgrBDZ2WSnWG8tVzz6eK.jpg",
+        "credit_id": "598825919251413d1802b8cc",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1865039,
+        "known_for_department": "Art",
+        "name": "Caritas de Witt",
+        "original_name": "Caritas de Witt",
+        "popularity": 0.05,
+        "profile_path": null,
+        "credit_id": "598825c49251413d1802b910",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5269,
+        "known_for_department": "Directing",
+        "name": "João Canijo",
+        "original_name": "João Canijo",
+        "popularity": 0.2751,
+        "profile_path": "/7Cpx6wkKbVeNNZR0wCatcQnEk4F.jpg",
+        "credit_id": "598826139251413d4a02c860",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5268,
+        "known_for_department": "Production",
+        "name": "Paulo Branco",
+        "original_name": "Paulo Branco",
+        "popularity": 0.2942,
+        "profile_path": "/fts6IfqRE5xZuZB3iN6yeKNzfhd.jpg",
+        "credit_id": "598825719251413d1802b89d",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3770,
+        "known_for_department": "Editing",
+        "name": "Juliane Lorenz",
+        "original_name": "Juliane Lorenz",
+        "popularity": 0.1178,
+        "profile_path": null,
+        "credit_id": "598825b1925141524401bac9",
+        "department": "Editing",
+        "job": "Editor"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  }
+}

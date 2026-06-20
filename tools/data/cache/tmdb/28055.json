@@ -1,0 +1,946 @@
+{
+  "adult": false,
+  "backdrop_path": "/6eW84lUWSJ09OuWTCNOmTY1i2Cm.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "homepage": "",
+  "id": 28055,
+  "imdb_id": "tt0058567",
+  "origin_country": [
+    "IT"
+  ],
+  "original_language": "it",
+  "original_title": "Sei donne per l'assassino",
+  "overview": "Isabella, a young model, is murdered by a mysterious masked figure at a fashion house in Rome. When her diary, which details the house employees' many vices, disappears, the masked killer begins killing off all the models in and around the house to find it.",
+  "popularity": 1.1832,
+  "poster_path": "/zYCQjsdktEvlWTRap836iI5paEL.jpg",
+  "production_companies": [
+    {
+      "id": 12711,
+      "logo_path": null,
+      "name": "Emmepi Cinematografica",
+      "origin_country": "IT"
+    },
+    {
+      "id": 12713,
+      "logo_path": null,
+      "name": "Monachia Film",
+      "origin_country": ""
+    },
+    {
+      "id": 10907,
+      "logo_path": null,
+      "name": "Les Productions Georges de Beauregard",
+      "origin_country": "FR"
+    },
+    {
+      "id": 12730,
+      "logo_path": null,
+      "name": "Top-Film",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    },
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    }
+  ],
+  "release_date": "1964-03-14",
+  "revenue": 0,
+  "runtime": 88,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "status": "Released",
+  "tagline": "A Fashion House of Models… Becomes a Terror House of Blood!",
+  "title": "Blood and Black Lace",
+  "video": false,
+  "vote_average": 7.3,
+  "vote_count": 468,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 44728,
+        "known_for_department": "Acting",
+        "name": "Cameron Mitchell",
+        "original_name": "Cameron Mitchell",
+        "popularity": 1.3754,
+        "profile_path": "/niLc67b00QIa0oDWp47mXcv319e.jpg",
+        "cast_id": 21,
+        "character": "Massimo Morlacchi",
+        "credit_id": "54c6b522c3a36874b000024f",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 69935,
+        "known_for_department": "Acting",
+        "name": "Eva Bartok",
+        "original_name": "Eva Bartok",
+        "popularity": 0.4454,
+        "profile_path": "/q9jRgjoa389E7fYqeSPE4HIKl9j.jpg",
+        "cast_id": 10,
+        "character": "Contessa Cristiana Cuomo",
+        "credit_id": "52fe4576c3a368484e05c831",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 99503,
+        "known_for_department": "Acting",
+        "name": "Thomas Reiner",
+        "original_name": "Thomas Reiner",
+        "popularity": 0.2714,
+        "profile_path": "/331v01xeXzhK6RalqsJZTYpYw99.jpg",
+        "cast_id": 11,
+        "character": "Inspector Silvestri",
+        "credit_id": "52fe4576c3a368484e05c835",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 99505,
+        "known_for_department": "Acting",
+        "name": "Ariana Gorini",
+        "original_name": "Ariana Gorini",
+        "popularity": 0.1363,
+        "profile_path": "/AtUyW2LuZwQuhDlldqQjYsrLqSM.jpg",
+        "cast_id": 12,
+        "character": "Nicole",
+        "credit_id": "52fe4576c3a368484e05c839",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 99443,
+        "known_for_department": "Acting",
+        "name": "Dante DiPaolo",
+        "original_name": "Dante DiPaolo",
+        "popularity": 0.1566,
+        "profile_path": "/zoaq6iJUVxpV7KMLKWiClmJ7gqk.jpg",
+        "cast_id": 13,
+        "character": "Franco Scalo",
+        "credit_id": "52fe4576c3a368484e05c83d",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 99507,
+        "known_for_department": "Acting",
+        "name": "Mary Arden",
+        "original_name": "Mary Arden",
+        "popularity": 0.1967,
+        "profile_path": "/vWCQgM1Aw0JMvXxpcZjgDkHN91U.jpg",
+        "cast_id": 14,
+        "character": "Peggy Peyton",
+        "credit_id": "52fe4576c3a368484e05c841",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 51741,
+        "known_for_department": "Acting",
+        "name": "Franco Ressel",
+        "original_name": "Franco Ressel",
+        "popularity": 0.385,
+        "profile_path": "/c0Wwk6DyCisS771oq7joIl7E3Ku.jpg",
+        "cast_id": 15,
+        "character": "Marchese Riccardo Morelli",
+        "credit_id": "52fe4576c3a368484e05c845",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 99509,
+        "known_for_department": "Acting",
+        "name": "Claude Dantes",
+        "original_name": "Claude Dantes",
+        "popularity": 0.2135,
+        "profile_path": "/XKAWrUTxgUJqnEZdVrdN7hwcwn.jpg",
+        "cast_id": 16,
+        "character": "Tao-Li",
+        "credit_id": "52fe4576c3a368484e05c849",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 30900,
+        "known_for_department": "Acting",
+        "name": "Luciano Pigozzi",
+        "original_name": "Luciano Pigozzi",
+        "popularity": 0.4207,
+        "profile_path": "/5PTtLdknAOIPHinNC1C34oh0sFx.jpg",
+        "cast_id": 17,
+        "character": "Cesare Lazzarini",
+        "credit_id": "52fe4576c3a368484e05c84d",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 44968,
+        "known_for_department": "Acting",
+        "name": "Lea Lander",
+        "original_name": "Lea Lander",
+        "popularity": 0.0739,
+        "profile_path": "/tNqwxFFnLe59dwvdvfCAWFJ1nH1.jpg",
+        "cast_id": 18,
+        "character": "Greta",
+        "credit_id": "52fe4576c3a368484e05c851",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 98494,
+        "known_for_department": "Acting",
+        "name": "Massimo Righi",
+        "original_name": "Massimo Righi",
+        "popularity": 0.2015,
+        "profile_path": "/cxoR8eYBh9p421tpprrm4DQov1n.jpg",
+        "cast_id": 19,
+        "character": "Marco",
+        "credit_id": "52fe4576c3a368484e05c855",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2503533,
+        "known_for_department": "Acting",
+        "name": "Francesca Ungaro",
+        "original_name": "Francesca Ungaro",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 47,
+        "character": "Isabella",
+        "credit_id": "5e1548235907de0014e3d2cd",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 38125,
+        "known_for_department": "Acting",
+        "name": "Giuliano Raffaelli",
+        "original_name": "Giuliano Raffaelli",
+        "popularity": 0.2006,
+        "profile_path": "/gWDpqXI0s6bchLIIAf60YxcKxwx.jpg",
+        "cast_id": 48,
+        "character": "Zanchin",
+        "credit_id": "5e1548346262080012c76df2",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 54941,
+        "known_for_department": "Acting",
+        "name": "Harriet Medin",
+        "original_name": "Harriet Medin",
+        "popularity": 0.4884,
+        "profile_path": "/7CwP8SQey9wzVLE821qCYfa6irr.jpg",
+        "cast_id": 20,
+        "character": "Clarissa",
+        "credit_id": "52fe4576c3a368484e05c859",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2503536,
+        "known_for_department": "Acting",
+        "name": "Mary Carmen",
+        "original_name": "Mary Carmen",
+        "popularity": 0.0239,
+        "profile_path": null,
+        "cast_id": 49,
+        "character": "Model",
+        "credit_id": "5e154876d8af670012c34be4",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 23935,
+        "known_for_department": "Acting",
+        "name": "Heidi Stroh",
+        "original_name": "Heidi Stroh",
+        "popularity": 0.2618,
+        "profile_path": "/xvd3JlgqMQNmSME4vy9wGqpftFE.jpg",
+        "cast_id": 50,
+        "character": "Bleach Blond Model",
+        "credit_id": "5e1548835907de0012e4312b",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 83146,
+        "known_for_department": "Acting",
+        "name": "Enzo Cerusico",
+        "original_name": "Enzo Cerusico",
+        "popularity": 0.4042,
+        "profile_path": "/xE5qTuZoqsErm97EE1etY1EhFLC.jpg",
+        "cast_id": 51,
+        "character": "Gas Station Attendant",
+        "credit_id": "5e1548915907de0014e3d4e5",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2503539,
+        "known_for_department": "Acting",
+        "name": "Nadia Anty",
+        "original_name": "Nadia Anty",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 52,
+        "character": "Model",
+        "credit_id": "5e15489d028f140016d07151",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1072166,
+        "known_for_department": "Acting",
+        "name": "Calisto Calisti",
+        "original_name": "Calisto Calisti",
+        "popularity": 0.4516,
+        "profile_path": "/jluOPhjUdGjFUV8cPPNvU5ilyGq.jpg",
+        "cast_id": 53,
+        "character": "Butler (uncredited)",
+        "credit_id": "5e1548ab6262080014c6f0dc",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3776526,
+        "known_for_department": "Acting",
+        "name": "Romano Moraschini",
+        "original_name": "Romano Moraschini",
+        "popularity": 0.1057,
+        "profile_path": "/aYmuViP3TynBHFTjzghX029En2p.jpg",
+        "cast_id": 60,
+        "character": "Suspect at Police Station (uncredited)",
+        "credit_id": "637326c05a469000aaee0aca",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 100956,
+        "known_for_department": "Acting",
+        "name": "Goffredo Unger",
+        "original_name": "Goffredo Unger",
+        "popularity": 0.2901,
+        "profile_path": "/vs3uzqNuTFM2aeQR2HKIWAD0caD.jpg",
+        "cast_id": 54,
+        "character": "The Masked Killer (uncredited)",
+        "credit_id": "5e1548bfd8af670012c34cfa",
+        "order": 20
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 99489,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Tina Grani",
+        "original_name": "Tina Grani",
+        "popularity": 0.0545,
+        "profile_path": null,
+        "credit_id": "52fe4576c3a368484e05c803",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 98483,
+        "known_for_department": "Camera",
+        "name": "Ubaldo Terzano",
+        "original_name": "Ubaldo Terzano",
+        "popularity": 0.1639,
+        "profile_path": null,
+        "credit_id": "52fe4576c3a368484e05c809",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 29500,
+        "known_for_department": "Sound",
+        "name": "Carlo Rustichelli",
+        "original_name": "Carlo Rustichelli",
+        "popularity": 0.2639,
+        "profile_path": "/uZyH8qIupMgsRErHN7RKuAActno.jpg",
+        "credit_id": "52fe4576c3a368484e05c80f",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 99494,
+        "known_for_department": "Writing",
+        "name": "Giuseppe Barilla",
+        "original_name": "Giuseppe Barilla",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "52fe4576c3a368484e05c81b",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 25826,
+        "known_for_department": "Directing",
+        "name": "Mario Bava",
+        "original_name": "Mario Bava",
+        "popularity": 0.8138,
+        "profile_path": "/vDx5usGSp8Fygmvo4jnepQ4EQRN.jpg",
+        "credit_id": "52fe4576c3a368484e05c821",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 25826,
+        "known_for_department": "Directing",
+        "name": "Mario Bava",
+        "original_name": "Mario Bava",
+        "popularity": 0.8138,
+        "profile_path": "/vDx5usGSp8Fygmvo4jnepQ4EQRN.jpg",
+        "credit_id": "52fe4576c3a368484e05c827",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 15132,
+        "known_for_department": "Editing",
+        "name": "Mario Serandrei",
+        "original_name": "Mario Serandrei",
+        "popularity": 0.1936,
+        "profile_path": null,
+        "credit_id": "52fe4576c3a368484e05c82d",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 51421,
+        "known_for_department": "Writing",
+        "name": "Marcello Fondato",
+        "original_name": "Marcello Fondato",
+        "popularity": 0.3663,
+        "profile_path": "/2qByTqvp3QW5JBoeNJd9sxkWn7p.jpg",
+        "credit_id": "5534d76bc3a3680bdc001c32",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 51421,
+        "known_for_department": "Writing",
+        "name": "Marcello Fondato",
+        "original_name": "Marcello Fondato",
+        "popularity": 0.3663,
+        "profile_path": "/2qByTqvp3QW5JBoeNJd9sxkWn7p.jpg",
+        "credit_id": "5534d77292514140b50052e9",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3786608,
+        "known_for_department": "Production",
+        "name": "Franco Grifeo",
+        "original_name": "Franco Grifeo",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "637324b56bdec3007a43e189",
+        "department": "Production",
+        "job": "Administration"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1531334,
+        "known_for_department": "Sound",
+        "name": "Vittorio Trentino",
+        "original_name": "Vittorio Trentino",
+        "popularity": 0.1586,
+        "profile_path": null,
+        "credit_id": "637324efbf0f6300b4933730",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1346861,
+        "known_for_department": "Directing",
+        "name": "Priscilla Contardi",
+        "original_name": "Priscilla Contardi",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "637325232b1b44009c03aa18",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3786614,
+        "known_for_department": "Production",
+        "name": "Benito Carifi",
+        "original_name": "Benito Carifi",
+        "popularity": 0.0261,
+        "profile_path": null,
+        "credit_id": "6373256221621b00777ebf0f",
+        "department": "Production",
+        "job": "Production Secretary"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 14258,
+        "known_for_department": "Art",
+        "name": "Arrigo Breschi",
+        "original_name": "Arrigo Breschi",
+        "popularity": 0.1198,
+        "profile_path": null,
+        "credit_id": "63732581bf0f6300b4933768",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1826998,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Marisa Laganga",
+        "original_name": "Marisa Laganga",
+        "popularity": 0.0634,
+        "profile_path": null,
+        "credit_id": "59301411925141697500b3b5",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1704202,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Emilio Trani",
+        "original_name": "Emilio Trani",
+        "popularity": 0.135,
+        "profile_path": null,
+        "credit_id": "59301424c3a368476b00a607",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 30893,
+        "known_for_department": "Camera",
+        "name": "Mario Mancini",
+        "original_name": "Mario Mancini",
+        "popularity": 0.0806,
+        "profile_path": null,
+        "credit_id": "59301475c3a36847e300a7b1",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1826999,
+        "known_for_department": "Directing",
+        "name": "Luciana Loschiavo",
+        "original_name": "Luciana Loschiavo",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "59301490c3a368479c00a5a8",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1932320,
+        "known_for_department": "Production",
+        "name": "Alfredo Mirabile",
+        "original_name": "Alfredo Mirabile",
+        "popularity": 0.105,
+        "profile_path": null,
+        "credit_id": "5e0e5fe7fd4f8000155fd22d",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 938562,
+        "known_for_department": "Writing",
+        "name": "Massimo Patrizi",
+        "original_name": "Massimo Patrizi",
+        "popularity": 0.1904,
+        "profile_path": null,
+        "credit_id": "5e0e5ffd6dc6c000184d7b36",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3779,
+        "known_for_department": "Production",
+        "name": "Georges de Beauregard",
+        "original_name": "Georges de Beauregard",
+        "popularity": 0.1475,
+        "profile_path": "/qxl1r2ZzQ3mp34sizMwAVljwTtv.jpg",
+        "credit_id": "5e0e600bfd4f8000155fd283",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1271841,
+        "known_for_department": "Camera",
+        "name": "Georges C. Stilly",
+        "original_name": "Georges C. Stilly",
+        "popularity": 0.0605,
+        "profile_path": null,
+        "credit_id": "5e0e601a68b1ea00157ff82f",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 25826,
+        "known_for_department": "Directing",
+        "name": "Mario Bava",
+        "original_name": "Mario Bava",
+        "popularity": 0.8138,
+        "profile_path": "/vDx5usGSp8Fygmvo4jnepQ4EQRN.jpg",
+        "credit_id": "5e0e60396dc6c000154d3b8e",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2497322,
+        "known_for_department": "Production",
+        "name": "Benito Caripi",
+        "original_name": "Benito Caripi",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "5e0e6061549dda0018a74633",
+        "department": "Production",
+        "job": "Production Secretary"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1368360,
+        "known_for_department": "Production",
+        "name": "Armando Govoni",
+        "original_name": "Armando Govoni",
+        "popularity": 0.0954,
+        "profile_path": null,
+        "credit_id": "5e0e606ffd4f8000155fd38e",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2497323,
+        "known_for_department": "Directing",
+        "name": "Cristina Grieco",
+        "original_name": "Cristina Grieco",
+        "popularity": 0.0441,
+        "profile_path": null,
+        "credit_id": "5e0e60ad6dc6c000154d3c5a",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 14258,
+        "known_for_department": "Art",
+        "name": "Arrigo Breschi",
+        "original_name": "Arrigo Breschi",
+        "popularity": 0.1198,
+        "profile_path": null,
+        "credit_id": "5e0e60be9974ee0015a6e749",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2087954,
+        "known_for_department": "Sound",
+        "name": "Fabio Ancillai",
+        "original_name": "Fabio Ancillai",
+        "popularity": 0.1113,
+        "profile_path": null,
+        "credit_id": "5e0e60dffd4f8000135f3ed1",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1397066,
+        "known_for_department": "Sound",
+        "name": "Italo Cameracanna",
+        "original_name": "Italo Cameracanna",
+        "popularity": 0.2171,
+        "profile_path": null,
+        "credit_id": "5e0e60f9c2f44b00172ff30b",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 29886,
+        "known_for_department": "Camera",
+        "name": "Antonio Rinaldi",
+        "original_name": "Antonio Rinaldi",
+        "popularity": 0.0932,
+        "profile_path": null,
+        "credit_id": "5e0e6115fd4f8000135f3f05",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1309439,
+        "known_for_department": "Editing",
+        "name": "Lina Caterini",
+        "original_name": "Lina Caterini",
+        "popularity": 0.132,
+        "profile_path": null,
+        "credit_id": "5e0e6136549dda0011a74f14",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2503529,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Eleanora Garnett",
+        "original_name": "Eleanora Garnett",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "5e154747028f140013d01eb9",
+        "department": "Costume & Make-Up",
+        "job": "Costumer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2503530,
+        "known_for_department": "Production",
+        "name": "Piero Speziali",
+        "original_name": "Piero Speziali",
+        "popularity": 0.0168,
+        "profile_path": null,
+        "credit_id": "5e15476f5907de0014e3cde5",
+        "department": "Production",
+        "job": "Accountant"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "US",
+        "title": "Fashion House of Death",
+        "type": "working title"
+      },
+      {
+        "iso_3166_1": "US",
+        "title": "Six Women for the Murderer",
+        "type": "Literal Title"
+      },
+      {
+        "iso_3166_1": "HU",
+        "title": "Hat nő és a gyilkos",
+        "type": "TV Title"
+      },
+      {
+        "iso_3166_1": "NL",
+        "title": "Zes Vrouwen voor de Moordenaar",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "FI",
+        "title": "Verta ja mustaa pitsiä",
+        "type": "alternative title"
+      },
+      {
+        "iso_3166_1": "CA",
+        "title": "L'atelier de la mort",
+        "type": "French Title"
+      },
+      {
+        "iso_3166_1": "FI",
+        "title": "Lustmördaren",
+        "type": "Swedish Title"
+      },
+      {
+        "iso_3166_1": "FR",
+        "title": "L'atelier de la peur",
+        "type": "alternative title"
+      },
+      {
+        "iso_3166_1": "FR",
+        "title": "Assasinat dans la Haute Couture",
+        "type": "working title"
+      },
+      {
+        "iso_3166_1": "GR",
+        "title": "6 gynaikes gia to dolofono",
+        "type": "transliteration"
+      },
+      {
+        "iso_3166_1": "GR",
+        "title": "Aima sti mavri dantela",
+        "type": "Reissue Title"
+      },
+      {
+        "iso_3166_1": "GR",
+        "title": "Aima kai mavri dantella",
+        "type": "video title"
+      },
+      {
+        "iso_3166_1": "IT",
+        "title": "Sei donne per l'assassino",
+        "type": "alternative spelling"
+      },
+      {
+        "iso_3166_1": "JP",
+        "title": "Moderu renzoku satsujin!",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "MX",
+        "title": "Seis mujeres para el asesino",
+        "type": "alternative spelling"
+      },
+      {
+        "iso_3166_1": "PT",
+        "title": "Seis Mulheres para um Assassino",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "SU",
+        "title": "Кровь и черные кружева",
+        "type": "Russian Title"
+      },
+      {
+        "iso_3166_1": "SU",
+        "title": "Шесть женщин для убийцы",
+        "type": "Russian Title"
+      },
+      {
+        "iso_3166_1": "ES",
+        "title": "Sis dones per a l'assassi",
+        "type": "Catalan Title"
+      },
+      {
+        "iso_3166_1": "DE",
+        "title": "Blutige Seide",
+        "type": "West Germany Title"
+      },
+      {
+        "iso_3166_1": "YU",
+        "title": "Krv i crna cipka",
+        "type": "Serbian Title"
+      },
+      {
+        "iso_3166_1": "DE",
+        "title": "Der Würger mit der Maske",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "SE",
+        "title": "Blod och svarta spetsar",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "AZ",
+        "title": "Qan və Qara Krujeva",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "TR",
+        "title": "Kan ve Siyah Dantel",
+        "type": ""
+      }
+    ]
+  }
+}

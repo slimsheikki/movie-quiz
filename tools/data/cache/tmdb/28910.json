@@ -1,0 +1,747 @@
+{
+  "adult": false,
+  "backdrop_path": "/m6JQYoijoaLnEjdC6LcdQOxnOsg.jpg",
+  "belongs_to_collection": null,
+  "budget": 305177,
+  "genres": [
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "",
+  "id": 28910,
+  "imdb_id": "tt0026685",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Mark of the Vampire",
+  "overview": "Sir Borotyn, a prominent Prague resident, is discovered murdered in his home, with all indications pointing to a vampire assault. The victim's friend, Baron Otto, and the physician who analyzes the body, are certain that the vampire is the mysterious Count Mora or his daughter. Receiving little help from the law,  Professor Zelen, an expert in the occult, is called in to assist with their investigation.",
+  "popularity": 0.9633,
+  "poster_path": "/A6JN2kIEYwXEHHmqEa86aMKDJj8.jpg",
+  "production_companies": [
+    {
+      "id": 21,
+      "logo_path": "/usUnaYV6hQnlVAXP6r4HwrlLFPG.png",
+      "name": "Metro-Goldwyn-Mayer",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1935-04-26",
+  "revenue": 0,
+  "runtime": 60,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Czech",
+      "iso_639_1": "cs",
+      "name": "Český"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Undead…Yet living on the kisses of youth!",
+  "title": "Mark of the Vampire",
+  "video": false,
+  "vote_average": 6.226,
+  "vote_count": 144,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 17753,
+        "known_for_department": "Acting",
+        "name": "Lionel Barrymore",
+        "original_name": "Lionel Barrymore",
+        "popularity": 0.8936,
+        "profile_path": "/1Tp5aKxF8n6iwTpviwLrxe1krm3.jpg",
+        "cast_id": 3,
+        "character": "Professor Zelin",
+        "credit_id": "52fe45bac3a368484e06b981",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 47678,
+        "known_for_department": "Acting",
+        "name": "Elizabeth Allan",
+        "original_name": "Elizabeth Allan",
+        "popularity": 0.4692,
+        "profile_path": "/7qaJPMTLAvNJSBHseWxMBcalYNH.jpg",
+        "cast_id": 4,
+        "character": "Irena Borotyn",
+        "credit_id": "52fe45bac3a368484e06b985",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1547,
+        "known_for_department": "Acting",
+        "name": "Bela Lugosi",
+        "original_name": "Lugosi Béla",
+        "popularity": 1.106,
+        "profile_path": "/fwimu7WKcaJXIjaDwYQg42GxUxa.jpg",
+        "cast_id": 5,
+        "character": "Count Mora",
+        "credit_id": "52fe45bac3a368484e06b989",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2495,
+        "known_for_department": "Acting",
+        "name": "Lionel Atwill",
+        "original_name": "Lionel Atwill",
+        "popularity": 0.4038,
+        "profile_path": "/2KFwXY3fsMWWyeTFxeU9GNnAIMc.jpg",
+        "cast_id": 6,
+        "character": "Inspector Neumann",
+        "credit_id": "52fe45bac3a368484e06b98d",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 32138,
+        "known_for_department": "Acting",
+        "name": "Jean Hersholt",
+        "original_name": "Jean Hersholt",
+        "popularity": 0.4495,
+        "profile_path": "/aQ7HTIXEmlnwghYvWk5NS8NBI5M.jpg",
+        "cast_id": 7,
+        "character": "Baron Otto",
+        "credit_id": "52fe45bac3a368484e06b991",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 32433,
+        "known_for_department": "Acting",
+        "name": "Henry Wadsworth",
+        "original_name": "Henry Wadsworth",
+        "popularity": 0.233,
+        "profile_path": "/nAleY1hlFTVmnYVAWt7291Zgzki.jpg",
+        "cast_id": 8,
+        "character": "Fedor Vincente",
+        "credit_id": "52fe45bac3a368484e06b995",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 14968,
+        "known_for_department": "Acting",
+        "name": "Donald Meek",
+        "original_name": "Donald Meek",
+        "popularity": 0.4176,
+        "profile_path": "/6TTBTlpHK6QG2i8T596LZbwvmJN.jpg",
+        "cast_id": 10,
+        "character": "Dr. Doskil",
+        "credit_id": "52fe45bac3a368484e06b99d",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 13965,
+        "known_for_department": "Acting",
+        "name": "Jessie Ralph",
+        "original_name": "Jessie Ralph",
+        "popularity": 0.2876,
+        "profile_path": "/gy4W2M3Jpi4kb7NTc6MPHUhHgc0.jpg",
+        "cast_id": 26,
+        "character": "Midwife",
+        "credit_id": "59f4515a9251414d6200dba0",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 132536,
+        "known_for_department": "Acting",
+        "name": "Ivan F. Simpson",
+        "original_name": "Ivan F. Simpson",
+        "popularity": 0.275,
+        "profile_path": "/mCp0eD2J5vrbaHUZTnbYuANkXe.jpg",
+        "cast_id": 27,
+        "character": "Jan",
+        "credit_id": "59f4517f92514179dd00af28",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1388826,
+        "known_for_department": "Acting",
+        "name": "Franklyn Ardell",
+        "original_name": "Franklyn Ardell",
+        "popularity": 0.0878,
+        "profile_path": "/fAZigRjIPeYjDc00zQK3doJSjBG.jpg",
+        "cast_id": 28,
+        "character": "Chauffeur",
+        "credit_id": "59f451999251414d6200dbf0",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 33006,
+        "known_for_department": "Acting",
+        "name": "Leila Bennett",
+        "original_name": "Leila Bennett",
+        "popularity": 0.351,
+        "profile_path": "/lYsPeX5KXEOzaKFMEQpHzU8jn0M.jpg",
+        "cast_id": 29,
+        "character": "Maria",
+        "credit_id": "59f451b69251414d0500e096",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1069732,
+        "known_for_department": "Acting",
+        "name": "June Gittelson",
+        "original_name": "June Gittelson",
+        "popularity": 0.1663,
+        "profile_path": "/qEBU7wv0M1WFTC5Yc80NrVzfPXd.jpg",
+        "cast_id": 30,
+        "character": "Annie",
+        "credit_id": "59f451dec3a368201700d674",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 45230,
+        "known_for_department": "Acting",
+        "name": "Carroll Borland",
+        "original_name": "Carroll Borland",
+        "popularity": 0.044,
+        "profile_path": null,
+        "cast_id": 9,
+        "character": "Luna",
+        "credit_id": "52fe45bac3a368484e06b999",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 29600,
+        "known_for_department": "Acting",
+        "name": "Holmes Herbert",
+        "original_name": "Holmes Herbert",
+        "popularity": 0.3199,
+        "profile_path": "/oCvbtPpsOEdrFLR6be8qkRfOZ3x.jpg",
+        "cast_id": 11,
+        "character": "Sir Karell Borotyn",
+        "credit_id": "52fe45bac3a368484e06b9a1",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 120755,
+        "known_for_department": "Acting",
+        "name": "Michael Visaroff",
+        "original_name": "Michael Visaroff",
+        "popularity": 0.3364,
+        "profile_path": "/gNN1Mk8gzefwgDVkOxLUj5PkHef.jpg",
+        "cast_id": 31,
+        "character": "Innkeeper",
+        "credit_id": "59f452479251414d6200dcc7",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 89727,
+        "known_for_department": "Acting",
+        "name": "Egon Brecher",
+        "original_name": "Egon Brecher",
+        "popularity": 0.1564,
+        "profile_path": "/sNEB6hOJxTUuooPE3YdrKqVQ0C5.jpg",
+        "cast_id": 33,
+        "character": "Coroner (uncredited)",
+        "credit_id": "59f453c5c3a3681fbb00e0a2",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 30262,
+        "known_for_department": "Acting",
+        "name": "Robert Greig",
+        "original_name": "Robert Greig",
+        "popularity": 0.3886,
+        "profile_path": "/4tOqP4ZmUPwM8MdElXPq01sy2u1.jpg",
+        "cast_id": 32,
+        "character": "Fat Man (uncredited)",
+        "credit_id": "59f4539ac3a3681fc900e2fb",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 97999,
+        "known_for_department": "Acting",
+        "name": "John George",
+        "original_name": "John George",
+        "popularity": 0.5319,
+        "profile_path": "/67eRsXH4BISHgoKXpLODrgSn4PN.jpg",
+        "cast_id": 25,
+        "character": "Gypsy (uncredited)",
+        "credit_id": "5945887f9251413fbb0158c0",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1106625,
+        "known_for_department": "Acting",
+        "name": "Louise Emmons",
+        "original_name": "Louise Emmons",
+        "popularity": 0.3733,
+        "profile_path": "/fAwxoUe9voAmcWivc8z647nRGcw.jpg",
+        "cast_id": 34,
+        "character": "Old Gypsy Woman (uncredited)",
+        "credit_id": "59f453e3c3a3681ff100cf1c",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 95631,
+        "known_for_department": "Acting",
+        "name": "Eily Malyon",
+        "original_name": "Eily Malyon",
+        "popularity": 0.375,
+        "profile_path": "/bBaSmUKqLNPMUkFUn1MV5P3CURF.jpg",
+        "cast_id": 38,
+        "character": "",
+        "credit_id": "64f42c8e7d41aa00fe9dfc79",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1371301,
+        "known_for_department": "Acting",
+        "name": "Guy Bellis",
+        "original_name": "Guy Bellis",
+        "popularity": 0.1403,
+        "profile_path": null,
+        "cast_id": 39,
+        "character": "",
+        "credit_id": "64f42ca377d23b010d6d3f14",
+        "order": 20
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1170218,
+        "known_for_department": "Acting",
+        "name": "James Bradbury Jr.",
+        "original_name": "James Bradbury Jr.",
+        "popularity": 0.1732,
+        "profile_path": "/tMUq5bnVES00t27lmfHyI1RYn4r.jpg",
+        "cast_id": 40,
+        "character": "",
+        "credit_id": "64f42cb977d23b01503a369b",
+        "order": 21
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 930502,
+        "known_for_department": "Acting",
+        "name": "Rosemary Glosz",
+        "original_name": "Rosemary Glosz",
+        "popularity": 0.0539,
+        "profile_path": null,
+        "cast_id": 41,
+        "character": "",
+        "credit_id": "64f42cda3d43e000c4a8d80b",
+        "order": 22
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1271204,
+        "known_for_department": "Acting",
+        "name": "Tiny Jones",
+        "original_name": "Tiny Jones",
+        "popularity": 0.3459,
+        "profile_path": null,
+        "cast_id": 42,
+        "character": "",
+        "credit_id": "64f42cfe9e458600e38b64c1",
+        "order": 23
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1985860,
+        "known_for_department": "Acting",
+        "name": "Jane Mercer",
+        "original_name": "Jane Mercer",
+        "popularity": 0.069,
+        "profile_path": "/wWfPtvSwmTnMZW8hWOd1Uarieav.jpg",
+        "cast_id": 43,
+        "character": "",
+        "credit_id": "64f42dc9e0ca7f012eb3e4e7",
+        "order": 24
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 12153,
+        "known_for_department": "Acting",
+        "name": "Torben Meyer",
+        "original_name": "Torben Meyer",
+        "popularity": 0.2518,
+        "profile_path": "/A5TLcObSezrwH2u5FCfi6mY69Z9.jpg",
+        "cast_id": 44,
+        "character": "",
+        "credit_id": "64f42dd4e0ca7f014f6bb48d",
+        "order": 25
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1506374,
+        "known_for_department": "Acting",
+        "name": "Patricia Reel",
+        "original_name": "Patricia Reel",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 45,
+        "character": "",
+        "credit_id": "64f42de19e4586011de67d81",
+        "order": 26
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 985275,
+        "known_for_department": "Acting",
+        "name": "Christian Rub",
+        "original_name": "Christian Rub",
+        "popularity": 0.4448,
+        "profile_path": "/rtoMrNp0Dn1PdxfJGCXybE5HY3u.jpg",
+        "cast_id": 46,
+        "character": "",
+        "credit_id": "64f42df87d41aa00fe9dfd39",
+        "order": 27
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1294687,
+        "known_for_department": "Acting",
+        "name": "Clare Verdera",
+        "original_name": "Clare Verdera",
+        "popularity": 0.1015,
+        "profile_path": null,
+        "cast_id": 47,
+        "character": "",
+        "credit_id": "64f42e047d41aa011b88e79d",
+        "order": 28
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1496,
+        "known_for_department": "Directing",
+        "name": "Tod Browning",
+        "original_name": "Tod Browning",
+        "popularity": 0.6485,
+        "profile_path": "/9iVkFjCS86V1UzcBERvHFjT58RC.jpg",
+        "credit_id": "52fe45bac3a368484e06b977",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 102935,
+        "known_for_department": "Writing",
+        "name": "Guy Endore",
+        "original_name": "Guy Endore",
+        "popularity": 0.1999,
+        "profile_path": null,
+        "credit_id": "52fe45bac3a368484e06b9db",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 102358,
+        "known_for_department": "Writing",
+        "name": "Bernard Schubert",
+        "original_name": "Bernard Schubert",
+        "popularity": 0.3157,
+        "profile_path": null,
+        "credit_id": "52fe45bac3a368484e06b9ab",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1546,
+        "known_for_department": "Writing",
+        "name": "John L. Balderston",
+        "original_name": "John L. Balderston",
+        "popularity": 0.3922,
+        "profile_path": "/jocViNiWTaIhBSvhxCjnSzjJKzI.jpg",
+        "credit_id": "52fe45bac3a368484e06b9b1",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1496,
+        "known_for_department": "Directing",
+        "name": "Tod Browning",
+        "original_name": "Tod Browning",
+        "popularity": 0.6485,
+        "profile_path": "/9iVkFjCS86V1UzcBERvHFjT58RC.jpg",
+        "credit_id": "52fe45bac3a368484e06b97d",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 22599,
+        "known_for_department": "Editing",
+        "name": "Ben Lewis",
+        "original_name": "Ben Lewis",
+        "popularity": 0.2586,
+        "profile_path": null,
+        "credit_id": "52fe45bac3a368484e06b9c3",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 9062,
+        "known_for_department": "Art",
+        "name": "Cedric Gibbons",
+        "original_name": "Cedric Gibbons",
+        "popularity": 0.5738,
+        "profile_path": "/4490hNfDKQPh0pIn8GBSQ0UARMX.jpg",
+        "credit_id": "52fe45bac3a368484e06b9c9",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 102359,
+        "known_for_department": "Production",
+        "name": "E.J. Mannix",
+        "original_name": "E.J. Mannix",
+        "popularity": 0.0714,
+        "profile_path": null,
+        "credit_id": "52fe45bac3a368484e06b9b7",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 14569,
+        "known_for_department": "Camera",
+        "name": "James Wong Howe",
+        "original_name": "James Wong Howe",
+        "popularity": 0.3774,
+        "profile_path": "/7i7dsr3DjFuUXWjDG0Kp467Sovo.jpg",
+        "credit_id": "52fe45bac3a368484e06b9bd",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 13986,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Jack Dawn",
+        "original_name": "Jack Dawn",
+        "popularity": 0.3135,
+        "profile_path": null,
+        "credit_id": "52fe45bac3a368484e06b9cf",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 29801,
+        "known_for_department": "Costume & Make-Up",
+        "name": "William Tuttle",
+        "original_name": "William Tuttle",
+        "popularity": 0.4805,
+        "profile_path": "/rZqVArbsjXxtddh2lm2u21SgBPN.jpg",
+        "credit_id": "52fe45bac3a368484e06b9d5",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 9064,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Adrian",
+        "original_name": "Adrian",
+        "popularity": 0.3792,
+        "profile_path": "/7T9PaMDMuoUOBQzk9QRgdciYjZQ.jpg",
+        "credit_id": "56d4df1e92514157b50087be",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1308039,
+        "known_for_department": "Directing",
+        "name": "Harry Sharrock",
+        "original_name": "Harry Sharrock",
+        "popularity": 0.0564,
+        "profile_path": null,
+        "credit_id": "56d4df11c3a3681e440177b8",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1496,
+        "known_for_department": "Directing",
+        "name": "Tod Browning",
+        "original_name": "Tod Browning",
+        "popularity": 0.6485,
+        "profile_path": "/9iVkFjCS86V1UzcBERvHFjT58RC.jpg",
+        "credit_id": "5bbd57b6925141379002143f",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 29723,
+        "known_for_department": "Writing",
+        "name": "H.S. Kraft",
+        "original_name": "H.S. Kraft",
+        "popularity": 0.0988,
+        "profile_path": null,
+        "credit_id": "5bbd577a0e0a26660c0255fa",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 127777,
+        "known_for_department": "Writing",
+        "name": "Samuel Ornitz",
+        "original_name": "Samuel Ornitz",
+        "popularity": 0.269,
+        "profile_path": null,
+        "credit_id": "5bbd57890e0a266608027c68",
+        "department": "Writing",
+        "job": "Writer"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "BR",
+        "title": "A Marca do Vampiro",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "DE",
+        "title": "Das Zeichen des Vampirs",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "DK",
+        "title": "Vampyrens mærke",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "ES",
+        "title": "La marca del vampiro",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "FR",
+        "title": "La marque du vampire",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "HU",
+        "title": "A vámpír jele",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "IT",
+        "title": "I vampiri di Praga",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "PL",
+        "title": "Znak wampira",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "RU",
+        "title": "Знак вампира",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "US",
+        "title": "The Vampires of Prague",
+        "type": "working title"
+      },
+      {
+        "iso_3166_1": "US",
+        "title": "Vampires of the Night",
+        "type": "working title"
+      },
+      {
+        "iso_3166_1": "JP",
+        "title": "古城の妖鬼",
+        "type": ""
+      }
+    ]
+  }
+}

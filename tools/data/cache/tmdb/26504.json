@@ -1,0 +1,565 @@
+{
+  "adult": false,
+  "backdrop_path": "/tfIDnwv6ibrKIQuKrXqbwGMfjPF.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 26504,
+  "imdb_id": "tt0069343",
+  "origin_country": [
+    "IT"
+  ],
+  "original_language": "it",
+  "original_title": "La tarantola dal ventre nero",
+  "overview": "Inspector Tellini investigates serial crimes where victims are paralyzed while having their bellies ripped open with a sharp knife.",
+  "popularity": 0.8036,
+  "poster_path": "/m3ycrZfaDeTt3ITh9MOmV6fGp7R.jpg",
+  "production_companies": [
+    {
+      "id": 1124,
+      "logo_path": null,
+      "name": "P.A.C.",
+      "origin_country": "FR"
+    },
+    {
+      "id": 16058,
+      "logo_path": null,
+      "name": "Da Ma Produzione",
+      "origin_country": "IT"
+    },
+    {
+      "id": 21,
+      "logo_path": "/usUnaYV6hQnlVAXP6r4HwrlLFPG.png",
+      "name": "Metro-Goldwyn-Mayer",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    }
+  ],
+  "release_date": "1971-08-12",
+  "revenue": 0,
+  "runtime": 98,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "status": "Released",
+  "tagline": "With needles dipped in deadly venom the victims are paralyzed - so they must lie awake and watch themselves die!",
+  "title": "The Black Belly of the Tarantula",
+  "video": false,
+  "vote_average": 6.1,
+  "vote_count": 96,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3753,
+        "known_for_department": "Acting",
+        "name": "Giancarlo Giannini",
+        "original_name": "Giancarlo Giannini",
+        "popularity": 1.5844,
+        "profile_path": "/xsnoThKUjFlhmvXKS4ZqAx1x3zb.jpg",
+        "cast_id": 2,
+        "character": "Inspector Tellini",
+        "credit_id": "52fe4507c3a368484e0444b9",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 9919,
+        "known_for_department": "Acting",
+        "name": "Claudine Auger",
+        "original_name": "Claudine Auger",
+        "popularity": 1.439,
+        "profile_path": "/1KAAUhgfVxdI5g2t0YFCG9ITrvi.jpg",
+        "cast_id": 3,
+        "character": "Laura",
+        "credit_id": "52fe4507c3a368484e0444bd",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 16021,
+        "known_for_department": "Acting",
+        "name": "Barbara Bouchet",
+        "original_name": "Barbara Bouchet",
+        "popularity": 1.7668,
+        "profile_path": "/fVrl3R8UQGFrhfuId7MRqWpnOsA.jpg",
+        "cast_id": 4,
+        "character": "Maria Zani",
+        "credit_id": "52fe4507c3a368484e0444c1",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5684,
+        "known_for_department": "Acting",
+        "name": "Rossella Falk",
+        "original_name": "Rossella Falk",
+        "popularity": 0.4795,
+        "profile_path": "/30pEtkiH2drjkke3nfjjGYhouhN.jpg",
+        "cast_id": 7,
+        "character": "Franca Valentino",
+        "credit_id": "52fe4507c3a368484e0444cf",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 41063,
+        "known_for_department": "Acting",
+        "name": "Silvano Tranquilli",
+        "original_name": "Silvano Tranquilli",
+        "popularity": 0.4174,
+        "profile_path": "/cAkoyGZWkyhAuMrHGwRc0NmZBuk.jpg",
+        "cast_id": 8,
+        "character": "Paolo Zani",
+        "credit_id": "52fe4507c3a368484e0444d3",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 103084,
+        "known_for_department": "Acting",
+        "name": "Annabella Incontrera",
+        "original_name": "Annabella Incontrera",
+        "popularity": 0.4138,
+        "profile_path": "/9U5BO5wJnRvhbSlt1LIqjoZ57gl.jpg",
+        "cast_id": 9,
+        "character": "Mirta Ricci",
+        "credit_id": "52fe4507c3a368484e0444d7",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1076431,
+        "known_for_department": "Acting",
+        "name": "Ezio Marano",
+        "original_name": "Ezio Marano",
+        "popularity": 0.2969,
+        "profile_path": "/5i2kYsADdNOrHsUJq1Rm7kNswvY.jpg",
+        "cast_id": 10,
+        "character": "Masseur",
+        "credit_id": "52fe4507c3a368484e0444db",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 10458,
+        "known_for_department": "Acting",
+        "name": "Barbara Bach",
+        "original_name": "Barbara Bach",
+        "popularity": 0.7443,
+        "profile_path": "/vatmATSQfdi1JFu6g2VImlS7GQb.jpg",
+        "cast_id": 5,
+        "character": "Jenny",
+        "credit_id": "52fe4507c3a368484e0444c5",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 34027,
+        "known_for_department": "Acting",
+        "name": "Stefania Sandrelli",
+        "original_name": "Stefania Sandrelli",
+        "popularity": 1.9108,
+        "profile_path": "/FgC2JtlrNTMs0nCs6C6BADg7lb.jpg",
+        "cast_id": 11,
+        "character": "Anna Tellini",
+        "credit_id": "52fe4507c3a368484e0444df",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 7195,
+        "known_for_department": "Acting",
+        "name": "Giancarlo Prete",
+        "original_name": "Giancarlo Prete",
+        "popularity": 0.2624,
+        "profile_path": "/rZrVyc4VPA3lIryObApgUFjStJC.jpg",
+        "cast_id": 12,
+        "character": "Mario",
+        "credit_id": "52fe4507c3a368484e0444e3",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1358893,
+        "known_for_department": "Acting",
+        "name": "Anna Saia",
+        "original_name": "Anna Saia",
+        "popularity": 0.1633,
+        "profile_path": null,
+        "cast_id": 19,
+        "character": "Maria's friend",
+        "credit_id": "5b6bd577c3a368189711b3be",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 45983,
+        "known_for_department": "Acting",
+        "name": "Nino Vingelli",
+        "original_name": "Nino Vingelli",
+        "popularity": 0.2464,
+        "profile_path": "/2qBKo4pEciTmsV1ntsJ8UUe6WUS.jpg",
+        "cast_id": 21,
+        "character": "Inspector Di Giacomo",
+        "credit_id": "5b6bd5aac3a3681888123b57",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 919804,
+        "known_for_department": "Acting",
+        "name": "Daniele Dublino",
+        "original_name": "Daniele Dublino",
+        "popularity": 0.2412,
+        "profile_path": null,
+        "cast_id": 22,
+        "character": "Entomologist",
+        "credit_id": "5b6bd5b90e0a267eeb135491",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 139132,
+        "known_for_department": "Acting",
+        "name": "Giuseppe Fortis",
+        "original_name": "Giuseppe Fortis",
+        "popularity": 0.1445,
+        "profile_path": "/dIblCI3u59wMytuNNqbmrdhJBsm.jpg",
+        "cast_id": 23,
+        "character": "Psychiatrist",
+        "credit_id": "5b6bd5cd0e0a267ee712ee5c",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 556759,
+        "known_for_department": "Acting",
+        "name": "Guerrino Crivello",
+        "original_name": "Guerrino Crivello",
+        "popularity": 0.1452,
+        "profile_path": "/zj5mAMjNPADAvJhxwOPJp2M6QNY.jpg",
+        "cast_id": 24,
+        "character": "Informer",
+        "credit_id": "5b6bd5da0e0a267ef6125649",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 98774,
+        "known_for_department": "Acting",
+        "name": "Fulvio Mingozzi",
+        "original_name": "Fulvio Mingozzi",
+        "popularity": 0.1652,
+        "profile_path": "/1msbsWykUzBebrcsizUOD7ZN674.jpg",
+        "cast_id": 25,
+        "character": "Surgeon",
+        "credit_id": "5b6bd5e50e0a267eed132a5a",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 287120,
+        "known_for_department": "Acting",
+        "name": "Giorgio Dolfin",
+        "original_name": "Giorgio Dolfin",
+        "popularity": 0.2175,
+        "profile_path": "/A9ucbh2xAp3BpkV2m2vr9TajLl5.jpg",
+        "cast_id": 26,
+        "character": "Policeman",
+        "credit_id": "5b6bd5f5925141406411fc16",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 27390,
+        "known_for_department": "Acting",
+        "name": "Carla Mancini",
+        "original_name": "Carla Mancini",
+        "popularity": 0.4393,
+        "profile_path": "/61VB38l1EyKB6owCrzmcxBGQM3N.jpg",
+        "cast_id": 27,
+        "character": "Client at beauty parlor",
+        "credit_id": "5b6bd604c3a3681899110417",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1446124,
+        "known_for_department": "Acting",
+        "name": "Alfonso Giganti",
+        "original_name": "Alfonso Giganti",
+        "popularity": 0.2182,
+        "profile_path": "/vrM2TSxyCqoVSbg1wdxSi4lslEm.jpg",
+        "cast_id": 28,
+        "character": "Policeman in projection room",
+        "credit_id": "5b6bd614c3a368189d11982f",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 24612,
+        "known_for_department": "Acting",
+        "name": "Eleonora Giorgi",
+        "original_name": "Eleonora Giorgi",
+        "popularity": 0.711,
+        "profile_path": "/n2ReT3f0smW3SER4bGa0CLTIaOM.jpg",
+        "cast_id": 29,
+        "character": "Maid in beauty parlor",
+        "credit_id": "5b6bd6280e0a267ee511c554",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 999779,
+        "known_for_department": "Acting",
+        "name": "Ettore Mattia",
+        "original_name": "Ettore Mattia",
+        "popularity": 0.1373,
+        "profile_path": null,
+        "cast_id": 30,
+        "character": "La catapulta",
+        "credit_id": "5b6bd6320e0a267ef812d523",
+        "order": 20
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 590445,
+        "known_for_department": "Acting",
+        "name": "Eugene Walter",
+        "original_name": "Eugene Walter",
+        "popularity": 0.1407,
+        "profile_path": "/61ZTxAQYElRbgvP9KbKgykv0lmO.jpg",
+        "cast_id": 34,
+        "character": "Ginetto, the waiter (as Walter Eugene)",
+        "credit_id": "605f5e9e1130bd0029a66a23",
+        "order": 21
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1184363,
+        "known_for_department": "Acting",
+        "name": "Giuliana Farnese",
+        "original_name": "Giuliana Farnese",
+        "popularity": 0.0322,
+        "profile_path": "/dDL1KFDn188Sv0SNAzyaUqoe154.jpg",
+        "cast_id": 35,
+        "character": "Mrs. Fluzzi (uncredited)",
+        "credit_id": "6371636ad48cee00dc7350d2",
+        "order": 22
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 38508,
+        "known_for_department": "Production",
+        "name": "Marcello Danon",
+        "original_name": "Marcello Danon",
+        "popularity": 0.1609,
+        "profile_path": null,
+        "credit_id": "52fe4507c3a368484e0444ef",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 100336,
+        "known_for_department": "Directing",
+        "name": "Paolo Cavara",
+        "original_name": "Paolo Cavara",
+        "popularity": 0.1804,
+        "profile_path": null,
+        "credit_id": "52fe4507c3a368484e0444b5",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1174384,
+        "known_for_department": "Writing",
+        "name": "Lucile Laks",
+        "original_name": "Lucile Laks",
+        "popularity": 0.1414,
+        "profile_path": null,
+        "credit_id": "52fe4507c3a368484e0444e9",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 38508,
+        "known_for_department": "Production",
+        "name": "Marcello Danon",
+        "original_name": "Marcello Danon",
+        "popularity": 0.1609,
+        "profile_path": null,
+        "credit_id": "5680a524c3a3682abc007dd1",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1259,
+        "known_for_department": "Sound",
+        "name": "Ennio Morricone",
+        "original_name": "Ennio Morricone",
+        "popularity": 0.7261,
+        "profile_path": "/avjgzi45bdXgC1AtyNsRc5nxtFM.jpg",
+        "credit_id": "5680a531c3a368607500d556",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 33790,
+        "known_for_department": "Editing",
+        "name": "Mario Morra",
+        "original_name": "Mario Morra",
+        "popularity": 0.1805,
+        "profile_path": "/nS9hTUALFrrbOozw2RiFhtAlaje.jpg",
+        "credit_id": "5680a555c3a368607500d55d",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 25822,
+        "known_for_department": "Camera",
+        "name": "Marcello Gatti",
+        "original_name": "Marcello Gatti",
+        "popularity": 0.2742,
+        "profile_path": "/2ngMGQWf7L0Mhqw1tiTFkW8puLL.jpg",
+        "credit_id": "5680a5429251417ddd00f153",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1606272,
+        "known_for_department": "Art",
+        "name": "Luigi Urbani",
+        "original_name": "Luigi Urbani",
+        "popularity": 0.1371,
+        "profile_path": null,
+        "credit_id": "5f370cbac4f55200320f34e0",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2742433,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Fiorella Gaetano",
+        "original_name": "Fiorella Gaetano",
+        "popularity": 0.1015,
+        "profile_path": null,
+        "credit_id": "5f370cc7111da1003567d338",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 29502,
+        "known_for_department": "Art",
+        "name": "Piero Poletto",
+        "original_name": "Piero Poletto",
+        "popularity": 0.1668,
+        "profile_path": null,
+        "credit_id": "5f370c9811c0660037368f25",
+        "department": "Art",
+        "job": "Art Direction"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "US",
+        "title": "Black Belly of the Tarantula",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "MX",
+        "title": "La tarántula del vientre negro",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "DE",
+        "title": "Der schwarze Leib der Tarantel",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "FR",
+        "title": "La tarentule au ventre noir",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "IT",
+        "title": "La tarantola dal ventre nero",
+        "type": ""
+      }
+    ]
+  }
+}

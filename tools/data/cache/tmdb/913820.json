@@ -1,0 +1,483 @@
+{
+  "adult": false,
+  "backdrop_path": "/zRVXLgtpBg2oTGZCYYzIhR6Qzyr.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.almafilms.net/en/peliculas/utama",
+  "id": 913820,
+  "imdb_id": "tt10984580",
+  "origin_country": [
+    "BO",
+    "UY",
+    "FR"
+  ],
+  "original_language": "es",
+  "original_title": "Utama",
+  "overview": "In the Bolivian altiplano, Virginio and Sisa, an elderly Quechua couple who have lived a quiet life for years, face an impossible dilemma during an unusually long drought: resist or be defeated by the hostile environment and the relentless passage of time.",
+  "popularity": 0.6344,
+  "poster_path": "/AqqIIXR3f47PxOGYBFYOwAzBTWU.jpg",
+  "production_companies": [
+    {
+      "id": 139200,
+      "logo_path": "/uBEUenCPiM6dYv10ca7DDG58UYZ.png",
+      "name": "LaMayor Cine",
+      "origin_country": "UY"
+    },
+    {
+      "id": 180556,
+      "logo_path": "/49P9WE1W65I2BQPRHU7pFxlCvgR.png",
+      "name": "Alpha Violet Production",
+      "origin_country": "FR"
+    },
+    {
+      "id": 180558,
+      "logo_path": "/pXePoCvX5Xji7P91LmzXQmUurhY.png",
+      "name": "Alma Films",
+      "origin_country": "BO"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "BO",
+      "name": "Bolivia"
+    },
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "UY",
+      "name": "Uruguay"
+    }
+  ],
+  "release_date": "2022-05-11",
+  "revenue": 52793,
+  "runtime": 88,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Quechua",
+      "iso_639_1": "qu",
+      "name": ""
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Time has gotten tired",
+  "title": "Utama",
+  "video": false,
+  "vote_average": 7.246,
+  "vote_count": 63,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3390001,
+        "known_for_department": "Acting",
+        "name": "José Calcina",
+        "original_name": "José Calcina",
+        "popularity": 0.0362,
+        "profile_path": null,
+        "cast_id": 9,
+        "character": "Virginio",
+        "credit_id": "61e89537b513a8004403b7b4",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3390003,
+        "known_for_department": "Acting",
+        "name": "Luisa Quispe",
+        "original_name": "Luisa Quispe",
+        "popularity": 0.1179,
+        "profile_path": null,
+        "cast_id": 10,
+        "character": "Sisa",
+        "credit_id": "61e8953bbc865700953ba019",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3390004,
+        "known_for_department": "Acting",
+        "name": "Santos Choque",
+        "original_name": "Santos Choque",
+        "popularity": 0.07,
+        "profile_path": null,
+        "cast_id": 11,
+        "character": "Clever",
+        "credit_id": "61e89542d04d1a001b8dd9cd",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3905469,
+        "known_for_department": "Acting",
+        "name": "Félix Ticona",
+        "original_name": "Félix Ticona",
+        "popularity": 0.0704,
+        "profile_path": null,
+        "cast_id": 25,
+        "character": "Estanis",
+        "credit_id": "63de6ca4cd204600c30a9264",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3905470,
+        "known_for_department": "Acting",
+        "name": "Placide Ali",
+        "original_name": "Placide Ali",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 26,
+        "character": "Eugenia",
+        "credit_id": "63de6cb3373ac20085d7a212",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3905472,
+        "known_for_department": "Acting",
+        "name": "Candelaria Quispe",
+        "original_name": "Candelaria Quispe",
+        "popularity": 0.0239,
+        "profile_path": null,
+        "cast_id": 27,
+        "character": "Elena",
+        "credit_id": "63de6cc9ce5d8200aa7a110a",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3905473,
+        "known_for_department": "Acting",
+        "name": "René Calcina",
+        "original_name": "René Calcina",
+        "popularity": 0.0193,
+        "profile_path": null,
+        "cast_id": 28,
+        "character": "Mototarista",
+        "credit_id": "63de6cdacd204600e20e5213",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3108675,
+        "known_for_department": "Art",
+        "name": "René Pérez",
+        "original_name": "René Pérez",
+        "popularity": 0.0684,
+        "profile_path": null,
+        "cast_id": 29,
+        "character": "Callawaya",
+        "credit_id": "63de6cedce5d82008e08a471",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3905474,
+        "known_for_department": "Acting",
+        "name": "Jorge Yucra Nogales",
+        "original_name": "Jorge Yucra Nogales",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 30,
+        "character": "Doctor",
+        "credit_id": "63de6cfd373ac2007f014125",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3905475,
+        "known_for_department": "Acting",
+        "name": "Juan Carlos Calcina",
+        "original_name": "Juan Carlos Calcina",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 31,
+        "character": "Conductor Camión",
+        "credit_id": "63de6d13ddd52d008483099a",
+        "order": 9
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2511748,
+        "known_for_department": "Sound",
+        "name": "Federico Moreira",
+        "original_name": "Federico Moreira",
+        "popularity": 0.0943,
+        "profile_path": null,
+        "credit_id": "62fa0f3b1cac8c00860e0b3a",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2511748,
+        "known_for_department": "Sound",
+        "name": "Federico Moreira",
+        "original_name": "Federico Moreira",
+        "popularity": 0.0943,
+        "profile_path": null,
+        "credit_id": "62fa0f751cac8c007f2f99ce",
+        "department": "Sound",
+        "job": "Sound Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1617355,
+        "known_for_department": "Sound",
+        "name": "Cergio Prudencio",
+        "original_name": "Cergio Prudencio",
+        "popularity": 0.0168,
+        "profile_path": null,
+        "credit_id": "62fa0fbc1cac8c00860e0b62",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1404937,
+        "known_for_department": "Sound",
+        "name": "Fabián Oliver",
+        "original_name": "Fabián Oliver",
+        "popularity": 0.086,
+        "profile_path": null,
+        "credit_id": "62fa0fd5258823007f60c7e0",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2453182,
+        "known_for_department": "Production",
+        "name": "Álvaro Manzano Zambrana",
+        "original_name": "Álvaro Manzano Zambrana",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "62fa104ca313b8007cf453bc",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3664741,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Claudia Catacora",
+        "original_name": "Claudia Catacora",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "62fa41f3175051007c598c74",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3664743,
+        "known_for_department": "Directing",
+        "name": "Manix Villegas",
+        "original_name": "Manix Villegas",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "62fa42176e938a007f649a3f",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1372187,
+        "known_for_department": "Directing",
+        "name": "Marcos Loayza",
+        "original_name": "Marcos Loayza",
+        "popularity": 0.0586,
+        "profile_path": null,
+        "credit_id": "62fa4243a313b80084e77868",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3664746,
+        "known_for_department": "Lighting",
+        "name": "Fernando Calvete",
+        "original_name": "Fernando Calvete",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "62fa42631750510084a3bc74",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1617416,
+        "known_for_department": "Lighting",
+        "name": "Claudio Durán",
+        "original_name": "Claudio Durán",
+        "popularity": 0.0218,
+        "profile_path": null,
+        "credit_id": "62fa427b7eb5f2007bcd208e",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3664748,
+        "known_for_department": "Production",
+        "name": "Daniel Maydana",
+        "original_name": "Daniel Maydana",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "62fa42961dbc88008451a937",
+        "department": "Production",
+        "job": "Production Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3389996,
+        "known_for_department": "Production",
+        "name": "Jean-Baptiste Bailly-Maitre",
+        "original_name": "Jean-Baptiste Bailly-Maitre",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "62fa42b7e267de007b7007ce",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1372187,
+        "known_for_department": "Directing",
+        "name": "Marcos Loayza",
+        "original_name": "Marcos Loayza",
+        "popularity": 0.0586,
+        "profile_path": null,
+        "credit_id": "632948002d3721007cf7c3e8",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3342366,
+        "known_for_department": "Directing",
+        "name": "Alejandro Loayza Grisi",
+        "original_name": "Alejandro Loayza Grisi",
+        "popularity": 0.0579,
+        "profile_path": "/pX0XNLbZkKFY6ByUud6j2Q2XxQk.jpg",
+        "credit_id": "61b2ce3c2d1e400097deb875",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3342366,
+        "known_for_department": "Directing",
+        "name": "Alejandro Loayza Grisi",
+        "original_name": "Alejandro Loayza Grisi",
+        "popularity": 0.0579,
+        "profile_path": "/pX0XNLbZkKFY6ByUud6j2Q2XxQk.jpg",
+        "credit_id": "61e894ebfdf8b70043d9002e",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3389997,
+        "known_for_department": "Production",
+        "name": "Santiago Loayza Grisi",
+        "original_name": "Santiago Loayza Grisi",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "61e894fabc8657001be0b2b3",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1112961,
+        "known_for_department": "Camera",
+        "name": "Bárbara Álvarez",
+        "original_name": "Bárbara Álvarez",
+        "popularity": 0.1163,
+        "profile_path": "/kxqvKwFrnDHl3mOzNqwrKR3vLHu.jpg",
+        "credit_id": "61e8951bd04d1a001b8dd973",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 950048,
+        "known_for_department": "Editing",
+        "name": "Fernando Epstein",
+        "original_name": "Fernando Epstein",
+        "popularity": 0.1195,
+        "profile_path": "/nEtcmPDWkAvMRWxSIPpRASHa4cV.jpg",
+        "credit_id": "61e895213a993700ea79fc9b",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3390000,
+        "known_for_department": "Art",
+        "name": "Valeria Wilde",
+        "original_name": "Valeria Wilde",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "61e8952941eee100d1d8d9f0",
+        "department": "Art",
+        "job": "Art Direction"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "US",
+        "title": "Our Home",
+        "type": "festival title"
+      }
+    ]
+  }
+}

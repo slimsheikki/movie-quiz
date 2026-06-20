@@ -1,0 +1,469 @@
+{
+  "adult": false,
+  "backdrop_path": "/yQDWlXBCECuRASzegi3LfPx8riX.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 30014,
+  "imdb_id": "tt0042579",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "House by the River",
+  "overview": "Wealthy writer Stephen Byrne tries to seduce the family maid, but when she resists, he kills her. Long jealous of his brother John, Stephen does his best to pin the blame for the murder on his sibling. Also affected by Stephen's arrogant dementia is his long-suffering wife Marjorie.",
+  "popularity": 0.5997,
+  "poster_path": "/a3p8tk8rCvMD7Hp2kUXkXrY59vP.jpg",
+  "production_companies": [
+    {
+      "id": 1432,
+      "logo_path": "/zs4mfF6YPM4QCwQ7Dyy2ob7HzS.png",
+      "name": "Republic Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 4934,
+      "logo_path": null,
+      "name": "Fidelity Pictures Corporation",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1950-03-23",
+  "revenue": 0,
+  "runtime": 88,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "WOMEN SPOKE OF HER with Scorn...MEN THOUGHT OF HER with Longing!",
+  "title": "House by the River",
+  "video": false,
+  "vote_average": 6.8,
+  "vote_count": 114,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 39799,
+        "known_for_department": "Acting",
+        "name": "Louis Hayward",
+        "original_name": "Louis Hayward",
+        "popularity": 0.69,
+        "profile_path": "/axAGaUwAsFSwxaKFkY88U0swZtg.jpg",
+        "cast_id": 8,
+        "character": "Stephen Byrne",
+        "credit_id": "52fe43f39251416c91000153",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2021,
+        "known_for_department": "Acting",
+        "name": "Jane Wyatt",
+        "original_name": "Jane Wyatt",
+        "popularity": 0.8631,
+        "profile_path": "/y623a9SfqOFtTawBG9TuESniqzf.jpg",
+        "cast_id": 9,
+        "character": "Marjorie Byrne",
+        "credit_id": "52fe43f39251416c91000157",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 105505,
+        "known_for_department": "Acting",
+        "name": "Lee Bowman",
+        "original_name": "Lee Bowman",
+        "popularity": 0.5762,
+        "profile_path": "/tGHg7HLfnjtpLhYFZJSUSbTS2s2.jpg",
+        "cast_id": 10,
+        "character": "John Byrne",
+        "credit_id": "52fe43f39251416c9100015b",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 105506,
+        "known_for_department": "Acting",
+        "name": "Dorothy Patrick",
+        "original_name": "Dorothy Patrick",
+        "popularity": 0.3593,
+        "profile_path": "/r2igJjHgHLk8H8fMMgHM5HE4oJ6.jpg",
+        "cast_id": 11,
+        "character": "Emily Gaunt",
+        "credit_id": "52fe43f39251416c9100015f",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 19784,
+        "known_for_department": "Acting",
+        "name": "Ann Shoemaker",
+        "original_name": "Ann Shoemaker",
+        "popularity": 0.5504,
+        "profile_path": "/uTLEwVsYjfziWFaIVzXI1cyQt1B.jpg",
+        "cast_id": 12,
+        "character": "Mrs. Ambrose - Stephen's houseeper",
+        "credit_id": "52fe43f39251416c91000163",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 34472,
+        "known_for_department": "Acting",
+        "name": "Jody Gilbert",
+        "original_name": "Jody Gilbert",
+        "popularity": 0.3147,
+        "profile_path": "/yTQZtVyftOKdacRsvAWhE4OQR2y.jpg",
+        "cast_id": 13,
+        "character": "Flora Bantam - John's housekeeper",
+        "credit_id": "52fe43f39251416c91000167",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 34749,
+        "known_for_department": "Acting",
+        "name": "Sarah Padden",
+        "original_name": "Sarah Padden",
+        "popularity": 0.4982,
+        "profile_path": "/63eGkQj5twYEyhZvzd7HthHEA0U.jpg",
+        "cast_id": 14,
+        "character": "Mrs. Beach - Stephen's elderly cook",
+        "credit_id": "52fe43f39251416c9100016b",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 7074,
+        "known_for_department": "Acting",
+        "name": "Peter Brocco",
+        "original_name": "Peter Brocco",
+        "popularity": 0.9545,
+        "profile_path": "/aZhOvx1UiUoxGqzNbTHvzMJCAgN.jpg",
+        "cast_id": 15,
+        "character": "Harry - coroner chairing inquest",
+        "credit_id": "52fe43f39251416c9100016f",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 96137,
+        "known_for_department": "Acting",
+        "name": "Howland Chamberlain",
+        "original_name": "Howland Chamberlain",
+        "popularity": 0.339,
+        "profile_path": "/ceIpblKuZ0jGPLZv1MkZK3qVv31.jpg",
+        "cast_id": 16,
+        "character": "D.A.-prosecutor at inquest",
+        "credit_id": "52fe43f39251416c91000173",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 105507,
+        "known_for_department": "Acting",
+        "name": "Leslie Kimmell",
+        "original_name": "Leslie Kimmell",
+        "popularity": 0.0297,
+        "profile_path": null,
+        "cast_id": 17,
+        "character": "Mr. Gaunt",
+        "credit_id": "52fe43f39251416c91000177",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 103909,
+        "known_for_department": "Acting",
+        "name": "Effie Laird",
+        "original_name": "Effie Laird",
+        "popularity": 0.1286,
+        "profile_path": null,
+        "cast_id": 18,
+        "character": "Mrs. Gaunt",
+        "credit_id": "52fe43f39251416c9100017b",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 34279,
+        "known_for_department": "Acting",
+        "name": "Will Wright",
+        "original_name": "Will Wright",
+        "popularity": 1.1203,
+        "profile_path": "/sv7ays7e47x6KEw4VFPhfxofazD.jpg",
+        "cast_id": 19,
+        "character": "Inspector Sarten",
+        "credit_id": "52fe43f39251416c9100017f",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 7210,
+        "known_for_department": "Acting",
+        "name": "Kathleen Freeman",
+        "original_name": "Kathleen Freeman",
+        "popularity": 1.5499,
+        "profile_path": "/pAlKHL8sshImJPCN45iQ5PGuURZ.jpg",
+        "cast_id": 20,
+        "character": "Effie Ferguson - Party Guest",
+        "credit_id": "52fe43f39251416c91000183",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 105508,
+        "known_for_department": "Acting",
+        "name": "Margaret Seddon",
+        "original_name": "Margaret Seddon",
+        "popularity": 0.2514,
+        "profile_path": "/w7kN7GewHnIUm8ypxhMDrwsCs0M.jpg",
+        "cast_id": 21,
+        "character": "Mrs. Whittaker - Party Guest",
+        "credit_id": "52fe43f39251416c91000187",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 78778,
+        "known_for_department": "Acting",
+        "name": "Alex Gerry",
+        "original_name": "Alex Gerry",
+        "popularity": 0.4857,
+        "profile_path": "/4QZ2dhwYxtXZ8iEtcCPQUiAKJYs.jpg",
+        "cast_id": 22,
+        "character": "Miller, bookseller",
+        "credit_id": "52fe43f39251416c9100018b",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 941239,
+        "known_for_department": "Acting",
+        "name": "Carl Switzer",
+        "original_name": "Carl Switzer",
+        "popularity": 0.4217,
+        "profile_path": "/vCkSMW92oos0CtHGXJiMk8fl8c0.jpg",
+        "cast_id": 25,
+        "character": "Walter Herbert, office boy",
+        "credit_id": "532a58cf9251410836000aba",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1730266,
+        "known_for_department": "Acting",
+        "name": "George Taylor",
+        "original_name": "George Taylor",
+        "popularity": 0.044,
+        "profile_path": null,
+        "cast_id": 26,
+        "character": "Coroner's Court Clerk",
+        "credit_id": "5b4e43109251417d2705aff1",
+        "order": 16
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 68,
+        "known_for_department": "Directing",
+        "name": "Fritz Lang",
+        "original_name": "Fritz Lang",
+        "popularity": 0.9637,
+        "profile_path": "/9dz4PmFzlSyexldWrOXBLLpkBqB.jpg",
+        "credit_id": "52fe43f39251416c9100012b",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 7649,
+        "known_for_department": "Editing",
+        "name": "Arthur Hilton",
+        "original_name": "Arthur Hilton",
+        "popularity": 0.3737,
+        "profile_path": null,
+        "credit_id": "52fe43f39251416c9100014f",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 105504,
+        "known_for_department": "Writing",
+        "name": "A.P. Herbert",
+        "original_name": "A.P. Herbert",
+        "popularity": 0.0607,
+        "profile_path": null,
+        "credit_id": "52fe43f39251416c91000137",
+        "department": "Writing",
+        "job": "Novel"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 101496,
+        "known_for_department": "Production",
+        "name": "Howard Welsch",
+        "original_name": "Howard Welsch",
+        "popularity": 0.1058,
+        "profile_path": null,
+        "credit_id": "52fe43f39251416c9100013d",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 89804,
+        "known_for_department": "Sound",
+        "name": "George Antheil",
+        "original_name": "George Antheil",
+        "popularity": 0.0505,
+        "profile_path": "/p4RW0vBv8YSqapGvWbpk3I48VUV.jpg",
+        "credit_id": "52fe43f39251416c91000143",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 89218,
+        "known_for_department": "Camera",
+        "name": "Edward Cronjager",
+        "original_name": "Edward Cronjager",
+        "popularity": 0.1086,
+        "profile_path": "/paUAUYecUdy43sTVJQhhOd2NpD1.jpg",
+        "credit_id": "52fe43f39251416c91000149",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 105017,
+        "known_for_department": "Writing",
+        "name": "Mel Dinelli",
+        "original_name": "Mel Dinelli",
+        "popularity": 0.2689,
+        "profile_path": null,
+        "credit_id": "52fe43f39251416c91000131",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 874,
+        "known_for_department": "Art",
+        "name": "Boris Leven",
+        "original_name": "Boris Leven",
+        "popularity": 0.1411,
+        "profile_path": "/rXpErfaKzGG27xhPf2Sn1iw5cSu.jpg",
+        "credit_id": "5d673c3ca9b9a40010f44df0",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 137742,
+        "known_for_department": "Sound",
+        "name": "Howard Wilson",
+        "original_name": "Howard Wilson",
+        "popularity": 0.1973,
+        "profile_path": null,
+        "credit_id": "5d673c676743fa0013d5dad8",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1096275,
+        "known_for_department": "Sound",
+        "name": "Dick Tyler Sr.",
+        "original_name": "Dick Tyler Sr.",
+        "popularity": 0.1428,
+        "profile_path": null,
+        "credit_id": "5d673c5aaaf8970010fa2363",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 960362,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Adele Palmer",
+        "original_name": "Adele Palmer",
+        "popularity": 0.2066,
+        "profile_path": null,
+        "credit_id": "5d673c49a9b9a40013f44c11",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "DE",
+        "title": "Das Todeshaus am Fluss",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "DE",
+        "title": "Die Villa am Ufer",
+        "type": "DVD-Titel"
+      }
+    ]
+  }
+}

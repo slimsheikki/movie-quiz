@@ -1,0 +1,468 @@
+{
+  "adult": false,
+  "backdrop_path": "/2F5VRSmiPQgPA6MMLdn8tpXwHzG.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 23606,
+  "imdb_id": "tt0103704",
+  "origin_country": [
+    "JP"
+  ],
+  "original_language": "ja",
+  "original_title": "あの夏、いちばん静かな海。",
+  "overview": "A deaf garbage collector happens upon a broken and discarded surfboard. The discovery plants in him dreams of becoming a surf champion. Encouraged by his also deaf girlfriend, he persists against all odds.",
+  "popularity": 1.5508,
+  "poster_path": "/uSwYQjd48iXVU8KHSSV9V6QYvBd.jpg",
+  "production_companies": [
+    {
+      "id": 78667,
+      "logo_path": null,
+      "name": "Totsu",
+      "origin_country": ""
+    },
+    {
+      "id": 567,
+      "logo_path": "/6Vfm1fYBTeHNxPvgDZsxTv9BcXu.png",
+      "name": "Office Kitano",
+      "origin_country": "JP"
+    },
+    {
+      "id": 882,
+      "logo_path": "/fRSWWjquvzcHjACbtF53utZFIll.png",
+      "name": "TOHO",
+      "origin_country": "JP"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    }
+  ],
+  "release_date": "1991-10-19",
+  "revenue": 0,
+  "runtime": 101,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "A Scene at the Sea",
+  "video": false,
+  "vote_average": 7.435,
+  "vote_count": 217,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4988,
+        "known_for_department": "Acting",
+        "name": "Claude Maki",
+        "original_name": "真木蔵人",
+        "popularity": 1.3143,
+        "profile_path": "/6maIeILZPP69khXWZgCpHOzPgzW.jpg",
+        "cast_id": 21,
+        "character": "Shigeru",
+        "credit_id": "58eb37e5c3a36872f6082571",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 90346,
+        "known_for_department": "Acting",
+        "name": "Hiroko Oshima",
+        "original_name": "大島弘子",
+        "popularity": 1.0196,
+        "profile_path": "/vy6SJmUfwGYsPQFHEJmn3dhbYRo.jpg",
+        "cast_id": 2,
+        "character": "Takako",
+        "credit_id": "52fe446fc3a368484e022f75",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 90347,
+        "known_for_department": "Acting",
+        "name": "Sabu Kawahara",
+        "original_name": "河原さぶ",
+        "popularity": 0.7711,
+        "profile_path": "/i0TISI21zPJ3X5gYJ9orfll1rfB.jpg",
+        "cast_id": 3,
+        "character": "Takoh",
+        "credit_id": "52fe446fc3a368484e022f79",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 90348,
+        "known_for_department": "Acting",
+        "name": "Toshizo Fujiwara",
+        "original_name": "Toshizo Fujiwara",
+        "popularity": 0.2736,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "Nakajima",
+        "credit_id": "52fe446fc3a368484e022f7d",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4990,
+        "known_for_department": "Acting",
+        "name": "Susumu Terajima",
+        "original_name": "寺島進",
+        "popularity": 1.5994,
+        "profile_path": "/ls7hOjfFjOOTow7x0IP4GhcCeJf.jpg",
+        "cast_id": 8,
+        "character": "Light Truck Man",
+        "credit_id": "52fe446fc3a368484e022f91",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 554236,
+        "known_for_department": "Acting",
+        "name": "Katsuya Koiso",
+        "original_name": "Katsuya Koiso",
+        "popularity": 0.1247,
+        "profile_path": null,
+        "cast_id": 9,
+        "character": "Soccer Boy",
+        "credit_id": "52fe446fc3a368484e022f95",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 554237,
+        "known_for_department": "Acting",
+        "name": "Toshio Matsui",
+        "original_name": "Toshio Matsui",
+        "popularity": 0.0606,
+        "profile_path": null,
+        "cast_id": 10,
+        "character": "Soccer Boy's Friend",
+        "credit_id": "52fe446fc3a368484e022f99",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 554238,
+        "known_for_department": "Acting",
+        "name": "Yasukazu Ishitani",
+        "original_name": "Yasukazu Ishitani",
+        "popularity": 0.0361,
+        "profile_path": null,
+        "cast_id": 11,
+        "character": "Fellow Surfer",
+        "credit_id": "52fe446fc3a368484e022f9d",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 554240,
+        "known_for_department": "Acting",
+        "name": "Tsuyoshi Ohwada",
+        "original_name": "Tsuyoshi Ohwada",
+        "popularity": 0.0362,
+        "profile_path": null,
+        "cast_id": 13,
+        "character": "Fellow Surfer",
+        "credit_id": "52fe446fc3a368484e022fa5",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 554241,
+        "known_for_department": "Acting",
+        "name": "Tatsuya Sugimoto",
+        "original_name": "Tatsuya Sugimoto",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 14,
+        "character": "Fellow Surfer",
+        "credit_id": "52fe446fc3a368484e022fa9",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 554244,
+        "known_for_department": "Acting",
+        "name": "Kengakusha Akiyama",
+        "original_name": "Kengakusha Akiyama",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "cast_id": 18,
+        "character": "Fellow Surfer",
+        "credit_id": "52fe446fc3a368484e022fb5",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 554239,
+        "known_for_department": "Acting",
+        "name": "Naomi Kubota",
+        "original_name": "Naomi Kubota",
+        "popularity": 0,
+        "profile_path": null,
+        "cast_id": 12,
+        "character": "Orange Woman",
+        "credit_id": "52fe446fc3a368484e022fa1",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 554242,
+        "known_for_department": "Acting",
+        "name": "Meijin Serizawa",
+        "original_name": "Meijin Serizawa",
+        "popularity": 0.0888,
+        "profile_path": null,
+        "cast_id": 15,
+        "character": "Shigeru's Boss",
+        "credit_id": "52fe446fc3a368484e022fad",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 20335,
+        "known_for_department": "Acting",
+        "name": "Tetsu Watanabe",
+        "original_name": "渡辺哲",
+        "popularity": 1.4146,
+        "profile_path": "/mSJhWZjmPKlNE1hIOcF8tCNYxVD.jpg",
+        "cast_id": 16,
+        "character": "Exercises Man",
+        "credit_id": "52fe446fc3a368484e022fb1",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 554245,
+        "known_for_department": "Acting",
+        "name": "Keiko Kagimoto",
+        "original_name": "鍵本景子",
+        "popularity": 0.1365,
+        "profile_path": "/11kWHIL0sJyAztdTkYff1FQWkrl.jpg",
+        "cast_id": 19,
+        "character": "Surf Shop Clerk",
+        "credit_id": "52fe446fc3a368484e022fb9",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 118701,
+        "known_for_department": "Acting",
+        "name": "Ryosei Tayama",
+        "original_name": "田山涼成",
+        "popularity": 1.07,
+        "profile_path": "/rrQPfdWrrGyHeXTp7uRFRDe8laW.jpg",
+        "cast_id": 30,
+        "character": "Police Officer",
+        "credit_id": "63aaf81ebe4b360082810a84",
+        "order": 15
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3317,
+        "known_for_department": "Directing",
+        "name": "Takeshi Kitano",
+        "original_name": "ビートたけし",
+        "popularity": 1.548,
+        "profile_path": "/6pnXXkCx8wkCHvOrcWjaY58KA7k.jpg",
+        "credit_id": "52fe446fc3a368484e022f83",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 636,
+        "known_for_department": "Sound",
+        "name": "Joe Hisaishi",
+        "original_name": "久石譲",
+        "popularity": 1.0178,
+        "profile_path": "/xmDT8LoDPIyV4f7Q2yPwETSey6k.jpg",
+        "credit_id": "578517f4925141045a002670",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 13246,
+        "known_for_department": "Production",
+        "name": "Takio Yoshida",
+        "original_name": "吉田多喜男",
+        "popularity": 0.202,
+        "profile_path": null,
+        "credit_id": "59bee40fc3a368300e0052fe",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 544325,
+        "known_for_department": "Production",
+        "name": "Masayuki Mori",
+        "original_name": "森昌行",
+        "popularity": 0.276,
+        "profile_path": "/uwif2vWWAnKm2Fc3N7jgOygjKUV.jpg",
+        "credit_id": "59bee41a9251414756005851",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4998,
+        "known_for_department": "Camera",
+        "name": "Katsumi Yanagijima",
+        "original_name": "柳島克己",
+        "popularity": 0.4344,
+        "profile_path": "/uZS5hCD2Ji89gUDaODuFN4T4gDn.jpg",
+        "credit_id": "59bee42f9251414720005545",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3317,
+        "known_for_department": "Directing",
+        "name": "Takeshi Kitano",
+        "original_name": "ビートたけし",
+        "popularity": 1.548,
+        "profile_path": "/6pnXXkCx8wkCHvOrcWjaY58KA7k.jpg",
+        "credit_id": "59bee439c3a3682fb80057f2",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1432474,
+        "known_for_department": "Art",
+        "name": "Osamu Sasaki",
+        "original_name": "佐々木修",
+        "popularity": 0.1178,
+        "profile_path": null,
+        "credit_id": "59bee448c3a3683075005ace",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1889987,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Mikiko Hayama",
+        "original_name": "Mikiko Hayama",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "credit_id": "59bee4559251414756005887",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3317,
+        "known_for_department": "Directing",
+        "name": "Takeshi Kitano",
+        "original_name": "ビートたけし",
+        "popularity": 1.548,
+        "profile_path": "/6pnXXkCx8wkCHvOrcWjaY58KA7k.jpg",
+        "credit_id": "5bcb5f2a0e0a2627be00051e",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 13248,
+        "known_for_department": "Sound",
+        "name": "Senji Horiuchi",
+        "original_name": "堀内戦治",
+        "popularity": 0.1326,
+        "profile_path": null,
+        "credit_id": "69a5a107f14f77a66ba7a4aa",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "JP",
+        "title": "Ano Natsu, Ichiban Shizukana Umi",
+        "type": "romaji"
+      },
+      {
+        "iso_3166_1": "ES",
+        "title": "Escenas en el mar",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "KR",
+        "title": "그 여름 가장 조용한 바다",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "DE",
+        "title": "Das Meer war ruhig",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "TW",
+        "title": "那年夏天，寧靜的海",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "UA",
+        "title": "Того літа, найспокійніше море",
+        "type": ""
+      }
+    ]
+  }
+}

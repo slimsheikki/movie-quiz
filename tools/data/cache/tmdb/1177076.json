@@ -1,0 +1,494 @@
+{
+  "adult": false,
+  "backdrop_path": "/hhasT04VfnWd4CwINHcDrHs4bTN.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "https://www.fxnetworks.com/shows/spermworld",
+  "id": 1177076,
+  "imdb_id": "tt30835128",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "SPERMWORLD",
+  "overview": "Three men enter the new wild west of baby making, online forums where sperm donors connect with hopeful parents, but find themselves exchanging more than just genetic material.",
+  "popularity": 0.735,
+  "poster_path": "/2KMLMNPcAMccaUbTDQxryqbvvYW.jpg",
+  "production_companies": [
+    {
+      "id": 80862,
+      "logo_path": null,
+      "name": "Edgeline Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 32686,
+      "logo_path": "/6sDPxaKC0rGfxeWueXsYXu5YlDU.png",
+      "name": "The New York Times",
+      "origin_country": "US"
+    },
+    {
+      "id": 215699,
+      "logo_path": "/7Qqs6Jw4Z9e3uwtOh9QF9ydpVy9.png",
+      "name": "To Be Formed",
+      "origin_country": "US"
+    },
+    {
+      "id": 15990,
+      "logo_path": "/5cT4zwHA66uNAr2p3CcBDLddXu2.png",
+      "name": "FX Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2024-02-29",
+  "revenue": 0,
+  "runtime": 85,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Hebrew",
+      "iso_639_1": "he",
+      "name": "עִבְרִית"
+    }
+  ],
+  "status": "Released",
+  "tagline": "There's a black market for everything.",
+  "title": "SPERMWORLD",
+  "video": false,
+  "vote_average": 6.857,
+  "vote_count": 14,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4590738,
+        "known_for_department": "Acting",
+        "name": "Steve Walker",
+        "original_name": "Steve Walker",
+        "popularity": 0.0538,
+        "profile_path": null,
+        "cast_id": 31,
+        "character": "Self",
+        "credit_id": "65f21730fbe36f0185efc137",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4590741,
+        "known_for_department": "Acting",
+        "name": "Tyree Kelly",
+        "original_name": "Tyree Kelly",
+        "popularity": 0.0707,
+        "profile_path": null,
+        "cast_id": 32,
+        "character": "Self",
+        "credit_id": "65f2173afbe36f0162ee7e9b",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4590742,
+        "known_for_department": "Acting",
+        "name": "Rachel Stanley",
+        "original_name": "Rachel Stanley",
+        "popularity": 0.051,
+        "profile_path": null,
+        "cast_id": 33,
+        "character": "Self",
+        "credit_id": "65f2174899259c01485ca68f",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4590746,
+        "known_for_department": "Acting",
+        "name": "Atasha Peña Clay",
+        "original_name": "Atasha Peña Clay",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 34,
+        "character": "Self",
+        "credit_id": "65f21759fbe36f0185efc173",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3950759,
+        "known_for_department": "Acting",
+        "name": "Ari Nagel",
+        "original_name": "Ari Nagel",
+        "popularity": 0.0555,
+        "profile_path": "/vIDRcXsRVt6umGdfx45SY3xX8lq.jpg",
+        "cast_id": 35,
+        "character": "Self",
+        "credit_id": "65f2176b470ead01629caee7",
+        "order": 4
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1405665,
+        "known_for_department": "Directing",
+        "name": "Lance Oppenheim",
+        "original_name": "Lance Oppenheim",
+        "popularity": 0.2938,
+        "profile_path": "/h12zgCaZ24imkZlw0nry9T9mjGD.jpg",
+        "credit_id": "64ffe8f8e0ca7f014f703b27",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1476750,
+        "known_for_department": "Editing",
+        "name": "Daniel Garber",
+        "original_name": "Daniel Garber",
+        "popularity": 0.0991,
+        "profile_path": "/wFFWGnjEp1wDSEQo43tnzwaOFGS.jpg",
+        "credit_id": "64ffe903db4ed610363ec743",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1700545,
+        "known_for_department": "Production",
+        "name": "Kathleen Lingo",
+        "original_name": "Kathleen Lingo",
+        "popularity": 0.1344,
+        "profile_path": null,
+        "credit_id": "65a8234cb513a800c959aa17",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1850317,
+        "known_for_department": "Production",
+        "name": "Lauren Belfer",
+        "original_name": "Lauren Belfer",
+        "popularity": 0.0832,
+        "profile_path": null,
+        "credit_id": "65a8237305b54900c5a83a04",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1561683,
+        "known_for_department": "Production",
+        "name": "Elyse Steinberg",
+        "original_name": "Elyse Steinberg",
+        "popularity": 0.1214,
+        "profile_path": null,
+        "credit_id": "65a823575b95080129bf3e5b",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2585987,
+        "known_for_department": "Production",
+        "name": "Christian Vazquez",
+        "original_name": "Christian Vazquez",
+        "popularity": 0.0648,
+        "profile_path": null,
+        "credit_id": "65a82380532acb012c290c72",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1561682,
+        "known_for_department": "Production",
+        "name": "Josh Kriegman",
+        "original_name": "Josh Kriegman",
+        "popularity": 0.1636,
+        "profile_path": null,
+        "credit_id": "65a823621bf8760123c9c796",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1268363,
+        "known_for_department": "Editing",
+        "name": "Eli Despres",
+        "original_name": "Eli Despres",
+        "popularity": 0.1993,
+        "profile_path": null,
+        "credit_id": "65a8236b532acb0129290c2b",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4488028,
+        "known_for_department": "Production",
+        "name": "Sophie Kissinger",
+        "original_name": "Sophie Kissinger",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "65a9947fb0cd200130178a17",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3944768,
+        "known_for_department": "Crew",
+        "name": "Emily Yue",
+        "original_name": "Emily Yue",
+        "popularity": 0.0261,
+        "profile_path": null,
+        "credit_id": "65cd8f5eefcea9017caa2933",
+        "department": "Editing",
+        "job": "Co-Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2370456,
+        "known_for_department": "Editing",
+        "name": "Damien van der Cruyssen",
+        "original_name": "Damien van der Cruyssen",
+        "popularity": 0.2006,
+        "profile_path": null,
+        "credit_id": "65cd8f6fb046050183da5167",
+        "department": "Editing",
+        "job": "Colorist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 40141,
+        "known_for_department": "Sound",
+        "name": "Paul Hsu",
+        "original_name": "Paul Hsu",
+        "popularity": 0.3418,
+        "profile_path": null,
+        "credit_id": "65cd8f783123450147b9f631",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2153081,
+        "known_for_department": "Sound",
+        "name": "Jack Sobo",
+        "original_name": "Jack Sobo",
+        "popularity": 0.2032,
+        "profile_path": null,
+        "credit_id": "65cd900b99259c01862572cf",
+        "department": "Sound",
+        "job": "Additional Sound Re-Recordist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2561843,
+        "known_for_department": "Sound",
+        "name": "Ryan Hope",
+        "original_name": "Ryan Hope",
+        "popularity": 0.1498,
+        "profile_path": "/q0HuxdJTyZX7xyYYdiL92uE4hl2.jpg",
+        "credit_id": "65cd8f8ed7dcd2017c1e73b1",
+        "department": "Sound",
+        "job": "Music Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1405665,
+        "known_for_department": "Directing",
+        "name": "Lance Oppenheim",
+        "original_name": "Lance Oppenheim",
+        "popularity": 0.2938,
+        "profile_path": "/h12zgCaZ24imkZlw0nry9T9mjGD.jpg",
+        "credit_id": "65cd8f57d7dcd201491dde1f",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1615328,
+        "known_for_department": "Camera",
+        "name": "Nate Hurtsellers",
+        "original_name": "Nate Hurtsellers",
+        "popularity": 0.1054,
+        "profile_path": "/tf6TuX5ppZf7ko8MAzDSI2Yh0yr.jpg",
+        "credit_id": "65cd900013a38801649e4c6b",
+        "department": "Camera",
+        "job": "Additional Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2544922,
+        "known_for_department": "Editing",
+        "name": "Max Allman",
+        "original_name": "Max Allman",
+        "popularity": 0.1261,
+        "profile_path": null,
+        "credit_id": "65cd8fcc13a388014a9e1ef9",
+        "department": "Editing",
+        "job": "Consulting Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4078561,
+        "known_for_department": "Production",
+        "name": "Alana Hauser",
+        "original_name": "Alana Hauser",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "65cd8feba3b5e601622bc6c9",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2594560,
+        "known_for_department": "Sound",
+        "name": "Richard Carlos",
+        "original_name": "Richard Carlos",
+        "popularity": 0.0879,
+        "profile_path": null,
+        "credit_id": "65cd8f8087f3f2017bf49903",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4537088,
+        "known_for_department": "Production",
+        "name": "David Malmborg",
+        "original_name": "David Malmborg",
+        "popularity": 0.0239,
+        "profile_path": null,
+        "credit_id": "65cd8fd83123450162ba33c7",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1476750,
+        "known_for_department": "Editing",
+        "name": "Daniel Garber",
+        "original_name": "Daniel Garber",
+        "popularity": 0.0991,
+        "profile_path": "/wFFWGnjEp1wDSEQo43tnzwaOFGS.jpg",
+        "credit_id": "65e49bd71ad93b018608047c",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1966583,
+        "known_for_department": "Sound",
+        "name": "Ari Balouzian",
+        "original_name": "Ari Balouzian",
+        "popularity": 0.2175,
+        "profile_path": "/jtuiVE9M1D8ALzLltv1tfCKJfMt.jpg",
+        "credit_id": "65e25107976a230186e2beae",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1426834,
+        "known_for_department": "Camera",
+        "name": "David Bolen",
+        "original_name": "David Bolen",
+        "popularity": 0.1627,
+        "profile_path": null,
+        "credit_id": "65e2510ca806730184abd969",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1405665,
+        "known_for_department": "Directing",
+        "name": "Lance Oppenheim",
+        "original_name": "Lance Oppenheim",
+        "popularity": 0.2938,
+        "profile_path": "/h12zgCaZ24imkZlw0nry9T9mjGD.jpg",
+        "credit_id": "65f217242fdec60170214449",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1476750,
+        "known_for_department": "Editing",
+        "name": "Daniel Garber",
+        "original_name": "Daniel Garber",
+        "popularity": 0.0991,
+        "profile_path": "/wFFWGnjEp1wDSEQo43tnzwaOFGS.jpg",
+        "credit_id": "65f2171be9da69017c5e80a1",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1760490,
+        "known_for_department": "Art",
+        "name": "Teddy Blanks",
+        "original_name": "Teddy Blanks",
+        "popularity": 0.3816,
+        "profile_path": "/pFASyCvqKSU0EOqPrg2P4DIP1fG.jpg",
+        "credit_id": "66e73e5f3768a73f8d9188e2",
+        "department": "Art",
+        "job": "Title Designer"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  }
+}

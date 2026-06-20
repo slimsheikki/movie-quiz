@@ -1,0 +1,431 @@
+{
+  "adult": false,
+  "backdrop_path": "/poCmeIQA2xL7GnGq9PMwUcJ4AgI.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 16373,
+  "imdb_id": "tt0037415",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Uninvited",
+  "overview": "A pair of siblings from London [Ray Milland and Ruth Hussey] purchase a surprisingly affordable, lonely cliff-top house in Cornwall, England. Only to discover that it actually carries a ghostly price, and soon they’re caught up in a bizarre romantic triangle from beyond the grave. Rich in atmosphere, The Uninvited, directed by Lewis Allen, was groundbreaking for the seriousness with which it treated the supernatural, haunted house genre, and it remains an elegant and eerie experience, featuring a classic score by Victor Young. A tragic family past, a mysteriously locked room, cold chills, bumps in the night - this gothic Hollywood classic has it all.",
+  "popularity": 1.0679,
+  "poster_path": "/uwp5ahLmWliRyX3mPoLHU7BKhf5.jpg",
+  "production_companies": [
+    {
+      "id": 4,
+      "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
+      "name": "Paramount Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1944-02-24",
+  "revenue": 0,
+  "runtime": 99,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The Story of a Love That is Out of This World!",
+  "title": "The Uninvited",
+  "video": false,
+  "vote_average": 6.9,
+  "vote_count": 228,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 7124,
+        "known_for_department": "Acting",
+        "name": "Ray Milland",
+        "original_name": "Ray Milland",
+        "popularity": 1.5815,
+        "profile_path": "/nqZGSLa9jS92hYlmkacFXxYwB2Y.jpg",
+        "cast_id": 9,
+        "character": "Roderick Fitzgerald",
+        "credit_id": "52fe46cc9251416c75083ee1",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 14683,
+        "known_for_department": "Acting",
+        "name": "Ruth Hussey",
+        "original_name": "Ruth Hussey",
+        "popularity": 0.6791,
+        "profile_path": "/dycKG8ajqQ1IPhzUJR10khvkd9Y.jpg",
+        "cast_id": 10,
+        "character": "Pamela Fitzgerald",
+        "credit_id": "52fe46cc9251416c75083ee5",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 80469,
+        "known_for_department": "Acting",
+        "name": "Gail Russell",
+        "original_name": "Gail Russell",
+        "popularity": 0.5134,
+        "profile_path": "/2272UOKSn42EmJJR6iw6XxynBoN.jpg",
+        "cast_id": 16,
+        "character": "Stella Meredith",
+        "credit_id": "52fe46cc9251416c75083efd",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 8841,
+        "known_for_department": "Acting",
+        "name": "Donald Crisp",
+        "original_name": "Donald Crisp",
+        "popularity": 0.7822,
+        "profile_path": "/MEPq09iLEwJVrxw1T97qOILhk6.jpg",
+        "cast_id": 11,
+        "character": "Commander Beech",
+        "credit_id": "52fe46cc9251416c75083ee9",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6933,
+        "known_for_department": "Acting",
+        "name": "Alan Napier",
+        "original_name": "Alan Napier",
+        "popularity": 1.3176,
+        "profile_path": "/90TwBLqH94JqWeVBXqkkYR2wsp2.jpg",
+        "cast_id": 15,
+        "character": "Dr. Scott",
+        "credit_id": "52fe46cc9251416c75083ef9",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 80467,
+        "known_for_department": "Acting",
+        "name": "Cornelia Otis Skinner",
+        "original_name": "Cornelia Otis Skinner",
+        "popularity": 0.1593,
+        "profile_path": "/wOYRIFNIUhDJ1Q1rFNEMnhInuU.jpg",
+        "cast_id": 12,
+        "character": "Miss Holloway",
+        "credit_id": "52fe46cc9251416c75083eed",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 74622,
+        "known_for_department": "Acting",
+        "name": "Barbara Everest",
+        "original_name": "Barbara Everest",
+        "popularity": 0.1891,
+        "profile_path": "/yiYsLZQqkjZUxu4pgPUZyfRlE1J.jpg",
+        "cast_id": 14,
+        "character": "Lizzie Flynn",
+        "credit_id": "52fe46cc9251416c75083ef5",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 80468,
+        "known_for_department": "Acting",
+        "name": "Dorothy Stickney",
+        "original_name": "Dorothy Stickney",
+        "popularity": 0.4361,
+        "profile_path": "/f30zMMgSKUU1g2FGGY0vGu1dPka.jpg",
+        "cast_id": 13,
+        "character": "Miss Bird",
+        "credit_id": "52fe46cc9251416c75083ef1",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 39802,
+        "known_for_department": "Acting",
+        "name": "Queenie Leonard",
+        "original_name": "Queenie Leonard",
+        "popularity": 0.4641,
+        "profile_path": "/8kmlIjijBXjk0J1jdjhABwMbl2K.jpg",
+        "cast_id": 24,
+        "character": "Mrs. Taylor",
+        "credit_id": "52fe46cd9251416c75083f2b",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 120441,
+        "known_for_department": "Acting",
+        "name": "Rita Page",
+        "original_name": "Rita Page",
+        "popularity": 0.2046,
+        "profile_path": "/wNiaoeypKTjXZExV1BA2Ehbfn2M.jpg",
+        "cast_id": 25,
+        "character": "Annie",
+        "credit_id": "52fe46cd9251416c75083f2f",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 29600,
+        "known_for_department": "Acting",
+        "name": "Holmes Herbert",
+        "original_name": "Holmes Herbert",
+        "popularity": 0.3199,
+        "profile_path": "/oCvbtPpsOEdrFLR6be8qkRfOZ3x.jpg",
+        "cast_id": 26,
+        "character": "Charlie Jessup",
+        "credit_id": "52fe46cd9251416c75083f33",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 120173,
+        "known_for_department": "Acting",
+        "name": "Moyna MacGill",
+        "original_name": "Moyna MacGill",
+        "popularity": 0.2654,
+        "profile_path": "/901qnjJDf94O9ICZ5Gd8YOIOTRm.jpg",
+        "cast_id": 28,
+        "character": "Miss Coatsworthy",
+        "credit_id": "57439b4ac3a368695b0004e0",
+        "order": 11
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 80466,
+        "known_for_department": "Writing",
+        "name": "Dorothy Macardle",
+        "original_name": "Dorothy Macardle",
+        "popularity": 0.0809,
+        "profile_path": null,
+        "credit_id": "52fe46cc9251416c75083ebf",
+        "department": "Writing",
+        "job": "Novel"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 65536,
+        "known_for_department": "Writing",
+        "name": "Dodie Smith",
+        "original_name": "Dodie Smith",
+        "popularity": 0.5486,
+        "profile_path": "/kmmQJ2suB15UDp2yYx2s5lBzs9g.jpg",
+        "credit_id": "52fe46cc9251416c75083ec5",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 38227,
+        "known_for_department": "Writing",
+        "name": "Frank Partos",
+        "original_name": "Frank Partos",
+        "popularity": 0.2557,
+        "profile_path": null,
+        "credit_id": "52fe46cc9251416c75083ecb",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 8617,
+        "known_for_department": "Writing",
+        "name": "Charles Brackett",
+        "original_name": "Charles Brackett",
+        "popularity": 0.5339,
+        "profile_path": "/iIRQ5sTZTMgTTuMKlmetxO53tVS.jpg",
+        "credit_id": "52fe46cc9251416c75083ed1",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 14972,
+        "known_for_department": "Production",
+        "name": "Buddy G. DeSylva",
+        "original_name": "Buddy G. DeSylva",
+        "popularity": 0.167,
+        "profile_path": null,
+        "credit_id": "52fe46cc9251416c75083ed7",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3148,
+        "known_for_department": "Camera",
+        "name": "Charles Lang",
+        "original_name": "Charles Lang",
+        "popularity": 0.3302,
+        "profile_path": "/gSPlvM65CY8WITIugbO2PyKMDaU.jpg",
+        "credit_id": "52fe46cc9251416c75083edd",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 26026,
+        "known_for_department": "Sound",
+        "name": "Victor Young",
+        "original_name": "Victor Young",
+        "popularity": 0.2911,
+        "profile_path": "/rYm79GqgpAC83jx5jmhSdkJ8aFH.jpg",
+        "credit_id": "52fe46cc9251416c75083f03",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3159,
+        "known_for_department": "Editing",
+        "name": "Doane Harrison",
+        "original_name": "Doane Harrison",
+        "popularity": 0.1399,
+        "profile_path": null,
+        "credit_id": "52fe46cc9251416c75083f09",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 8622,
+        "known_for_department": "Art",
+        "name": "Hans Dreier",
+        "original_name": "Hans Dreier",
+        "popularity": 0.2592,
+        "profile_path": null,
+        "credit_id": "52fe46cc9251416c75083f0f",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 127200,
+        "known_for_department": "Art",
+        "name": "Ernst Fegté",
+        "original_name": "Ernst Fegté",
+        "popularity": 0.2433,
+        "profile_path": null,
+        "credit_id": "52fe46cc9251416c75083f15",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1025729,
+        "known_for_department": "Art",
+        "name": "Stephen Seymour",
+        "original_name": "Stephen Seymour",
+        "popularity": 0.0462,
+        "profile_path": null,
+        "credit_id": "52fe46cc9251416c75083f1b",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4350,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Edith Head",
+        "original_name": "Edith Head",
+        "popularity": 0.5535,
+        "profile_path": "/l6LmpdKnU67FaoNBLi8VRRoO6wX.jpg",
+        "credit_id": "52fe46cd9251416c75083f21",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 7689,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Wally Westmore",
+        "original_name": "Wally Westmore",
+        "popularity": 0.3527,
+        "profile_path": "/udXfZgyri6PGGZoj5flmjbF6nHm.jpg",
+        "credit_id": "52fe46cd9251416c75083f27",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 93975,
+        "known_for_department": "Directing",
+        "name": "Lewis Allen",
+        "original_name": "Lewis Allen",
+        "popularity": 0.4403,
+        "profile_path": "/7Gg3zxSv8ykJpEGLyIfZDRyMn9r.jpg",
+        "credit_id": "5529195f9251410346000f31",
+        "department": "Directing",
+        "job": "Director"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "FR",
+        "title": "Vu sur la falaise",
+        "type": ""
+      }
+    ]
+  }
+}

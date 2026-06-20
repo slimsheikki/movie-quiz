@@ -1,0 +1,702 @@
+{
+  "adult": false,
+  "backdrop_path": "/dg476doHgjMPIvWSYKPjhhttSgW.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 781453,
+  "imdb_id": "tt13142240",
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "Les Amours d’Anaïs",
+  "overview": "A young woman struggling to stay on top of everything in her life meets a married publisher and begins an affair with him.",
+  "popularity": 0.684,
+  "poster_path": "/jfxWrUtZVvjFQRhaIB6ibBxLMbo.jpg",
+  "production_companies": [
+    {
+      "id": 12389,
+      "logo_path": "/6yilbEvoHtPcTb4LwAueAq091iT.png",
+      "name": "Les Films Pelléas",
+      "origin_country": "FR"
+    },
+    {
+      "id": 15219,
+      "logo_path": null,
+      "name": "Année Zéro",
+      "origin_country": "FR"
+    },
+    {
+      "id": 94,
+      "logo_path": "/huC7HqorvUThGIrENrbcHmQVUA0.png",
+      "name": "ARTE France Cinéma",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "2021-09-15",
+  "revenue": 41356,
+  "runtime": 98,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Lose yourself in love.",
+  "title": "Anaïs in Love",
+  "video": false,
+  "vote_average": 6.2,
+  "vote_count": 162,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 123989,
+        "known_for_department": "Acting",
+        "name": "Anaïs Demoustier",
+        "original_name": "Anaïs Demoustier",
+        "popularity": 1.0076,
+        "profile_path": "/kObYOu3UYkNcQGg1gnl4xitwhNc.jpg",
+        "cast_id": 1,
+        "character": "Anaïs",
+        "credit_id": "5fedb7aee004a600402a2442",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5077,
+        "known_for_department": "Acting",
+        "name": "Valeria Bruni Tedeschi",
+        "original_name": "Valeria Bruni Tedeschi",
+        "popularity": 0.7836,
+        "profile_path": "/ioMCjkUWngWjS0nXWYLqvBsm4mI.jpg",
+        "cast_id": 2,
+        "character": "Émilie",
+        "credit_id": "5fedb7b9abdafc0040ee24b7",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6020,
+        "known_for_department": "Acting",
+        "name": "Denis Podalydès",
+        "original_name": "Denis Podalydès",
+        "popularity": 0.6612,
+        "profile_path": "/uKEvUFBjdkDuNQgDoEVwFw1TvSa.jpg",
+        "cast_id": 3,
+        "character": "Daniel",
+        "credit_id": "5fedb7c521c4ca003f5725a1",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 146212,
+        "known_for_department": "Acting",
+        "name": "Grégoire Oestermann",
+        "original_name": "Grégoire Oestermann",
+        "popularity": 0.2984,
+        "profile_path": "/gBDwBSDnd4EwOB9SzenZwDarJIy.jpg",
+        "cast_id": 5,
+        "character": "Christian Jouannet",
+        "credit_id": "60ad2f9dc2b9df006c354e73",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 56285,
+        "known_for_department": "Acting",
+        "name": "Bruno Todeschini",
+        "original_name": "Bruno Todeschini",
+        "popularity": 0.3439,
+        "profile_path": "/gDyctO2bjftYvS1nEnIu8i5KKxu.jpg",
+        "cast_id": 6,
+        "character": "François (le père d'Anaïs)",
+        "credit_id": "60d20464a27502005fd02dce",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 33160,
+        "known_for_department": "Acting",
+        "name": "Anne Canovas",
+        "original_name": "Anne Canovas",
+        "popularity": 0.4563,
+        "profile_path": "/tL0wIXdxMKMqyc4NXzQmVGzFWyS.jpg",
+        "cast_id": 7,
+        "character": "La mère d'Anaïs",
+        "credit_id": "60d2046895c0af0075deb6f9",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1622993,
+        "known_for_department": "Acting",
+        "name": "Christophe Montenez",
+        "original_name": "Christophe Montenez",
+        "popularity": 0.2794,
+        "profile_path": "/zmeyQ1BBgzOOJNPaEnmtmQh9a98.jpg",
+        "cast_id": 8,
+        "character": "Raoul",
+        "credit_id": "60d20471957e6d005d367464",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1905517,
+        "known_for_department": "Acting",
+        "name": "Xavier Guelfi",
+        "original_name": "Xavier Guelfi",
+        "popularity": 0.1818,
+        "profile_path": "/zDhbYyUJLAlfdJ07FbzkgfAoo8v.jpg",
+        "cast_id": 9,
+        "character": "Balthazar",
+        "credit_id": "60d20484c9dbf9005c0c2e50",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1608090,
+        "known_for_department": "Acting",
+        "name": "Jean-Charles Clichet",
+        "original_name": "Jean-Charles Clichet",
+        "popularity": 0.2739,
+        "profile_path": "/qEQewXh6NkMTpT4ZlOSPbLVee7S.jpg",
+        "cast_id": 10,
+        "character": "Yoann",
+        "credit_id": "60d20488a27502005fd02e7f",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 286453,
+        "known_for_department": "Acting",
+        "name": "Annie Mercier",
+        "original_name": "Annie Mercier",
+        "popularity": 0.2736,
+        "profile_path": "/7U0E5nkjNGJn5nUEihyetSVmWmX.jpg",
+        "cast_id": 12,
+        "character": "Odile",
+        "credit_id": "6139c6ae65686e0061632d15",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3227802,
+        "known_for_department": "Acting",
+        "name": "Sabrina Delarue",
+        "original_name": "Sabrina Delarue",
+        "popularity": 0.0168,
+        "profile_path": "/rs5uSGV4lZ271Glzawuzpt2PcAR.jpg",
+        "cast_id": 13,
+        "character": "Catherine",
+        "credit_id": "6139c6bf678259002c2e701b",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3229190,
+        "known_for_department": "Acting",
+        "name": "Cédric Le Roy",
+        "original_name": "Cédric Le Roy",
+        "popularity": 0.0264,
+        "profile_path": "/ix7O6LxCATDGGdfCBaL3ryLeE5e.jpg",
+        "cast_id": 15,
+        "character": "L'homme de 40 ans",
+        "credit_id": "613b351f5800c40089d08124",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3229191,
+        "known_for_department": "Acting",
+        "name": "Grégory Servant",
+        "original_name": "Grégory Servant",
+        "popularity": 0.0143,
+        "profile_path": "/xshr9VemLa1jvv3BEVkr4caKoKq.jpg",
+        "cast_id": 16,
+        "character": "Axel",
+        "credit_id": "613b35286af9dd0027b36440",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1175822,
+        "known_for_department": "Acting",
+        "name": "Marie-Armelle Deguy",
+        "original_name": "Marie-Armelle Deguy",
+        "popularity": 0.1213,
+        "profile_path": "/8PoWaJolzz5jdjBt8ylaV8DeH8r.jpg",
+        "cast_id": 34,
+        "character": "La propriétaire",
+        "credit_id": "62725f41162bc317ab023b75",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3535993,
+        "known_for_department": "Acting",
+        "name": "Seong-Young Kim",
+        "original_name": "Seong-Young Kim",
+        "popularity": 0.0071,
+        "profile_path": "/5LbdXl8Zm6oiXDfQb7MLLK4CV4z.jpg",
+        "cast_id": 35,
+        "character": "Le touriste coréen",
+        "credit_id": "62725f6e5800c4009cdab063",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3535994,
+        "known_for_department": "Acting",
+        "name": "Estelle Cheon",
+        "original_name": "Estelle Cheon",
+        "popularity": 0.0662,
+        "profile_path": "/zOPjC6VUkA1WondiNtpQ7neYLVy.jpg",
+        "cast_id": 36,
+        "character": "La touriste coréenne",
+        "credit_id": "62725f8a162bc317ab023c4e",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3535995,
+        "known_for_department": "Acting",
+        "name": "Patrick Perreaux",
+        "original_name": "Patrick Perreaux",
+        "popularity": 0.0362,
+        "profile_path": "/o1qzjLw5VEgP7XJ60fnAfHBkNQM.jpg",
+        "cast_id": 37,
+        "character": "Georges",
+        "credit_id": "62725fa5c56d2d357d46e1b7",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3535996,
+        "known_for_department": "Acting",
+        "name": "Eric Hervè",
+        "original_name": "Eric Hervè",
+        "popularity": 0.0239,
+        "profile_path": "/889mUs0QqSd1oSI9dLXbqV1EJlC.jpg",
+        "cast_id": 38,
+        "character": "Le vétérinaire",
+        "credit_id": "62725fd2a313b812cc5a4e9c",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3535997,
+        "known_for_department": "Acting",
+        "name": "Christèle Guery",
+        "original_name": "Christèle Guery",
+        "popularity": 0.0143,
+        "profile_path": "/tNNS02hh9UKVCJSR1ORPKWZ2GAS.jpg",
+        "cast_id": 39,
+        "character": "La cliente de la librairie",
+        "credit_id": "62725ff406f9840066b6f953",
+        "order": 18
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1784936,
+        "known_for_department": "Directing",
+        "name": "Charline Bourgeois-Tacquet",
+        "original_name": "Charline Bourgeois-Tacquet",
+        "popularity": 0.1395,
+        "profile_path": "/qimB6IHfhAZdI1cGGODyWPIjIck.jpg",
+        "credit_id": "6139c636be55b7002de9fad5",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 9245,
+        "known_for_department": "Sound",
+        "name": "Nicola Piovani",
+        "original_name": "Nicola Piovani",
+        "popularity": 0.2037,
+        "profile_path": "/56tRfEIn4RBPhjJ7JOGCOtTZApU.jpg",
+        "credit_id": "6139c6e35800c40089cdaae9",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1619058,
+        "known_for_department": "Camera",
+        "name": "Noé Bach",
+        "original_name": "Noé Bach",
+        "popularity": 0.133,
+        "profile_path": null,
+        "credit_id": "61473c1e2dffd8002b94dbfb",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 560045,
+        "known_for_department": "Editing",
+        "name": "Chantal Hymans",
+        "original_name": "Chantal Hymans",
+        "popularity": 0.1285,
+        "profile_path": null,
+        "credit_id": "61473c2cefd3c200638c28f0",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1432012,
+        "known_for_department": "Art",
+        "name": "Pascale Consigny",
+        "original_name": "Pascale Consigny",
+        "popularity": 0.0933,
+        "profile_path": null,
+        "credit_id": "61473c33efd3c20043a57662",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2275981,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Albane Cousinard",
+        "original_name": "Albane Cousinard",
+        "popularity": 0.0918,
+        "profile_path": null,
+        "credit_id": "61473c3a511d090043e5401e",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2159878,
+        "known_for_department": "Production",
+        "name": "Igor Auzepy",
+        "original_name": "Igor Auzepy",
+        "popularity": 0.0409,
+        "profile_path": null,
+        "credit_id": "61473c442b531d008d86cdbc",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1451497,
+        "known_for_department": "Production",
+        "name": "Olivier Père",
+        "original_name": "Olivier Père",
+        "popularity": 0.2732,
+        "profile_path": "/w3e88Dn1Usb6fNKNElkVfJBybla.jpg",
+        "credit_id": "61473c4cb5bc210044fdce93",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1186795,
+        "known_for_department": "Production",
+        "name": "Stéphane Demoustier",
+        "original_name": "Stéphane Demoustier",
+        "popularity": 0.2615,
+        "profile_path": "/oZy4I1RoX6LQ2XjP59z4szOztOk.jpg",
+        "credit_id": "61473c6022df2e0046d9975b",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1001671,
+        "known_for_department": "Production",
+        "name": "Philippe Martin",
+        "original_name": "Philippe Martin",
+        "popularity": 0.2505,
+        "profile_path": "/fT9EPKCe0aK0ouZSJmZxT2hf2JH.jpg",
+        "credit_id": "61473cd7a6ddcb0062138930",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1001672,
+        "known_for_department": "Production",
+        "name": "David Thion",
+        "original_name": "David Thion",
+        "popularity": 0.2221,
+        "profile_path": "/zNkVJbqbecKC0G9ytdviGgAqLI4.jpg",
+        "credit_id": "61473ce05e1200008dad7b6b",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1520240,
+        "known_for_department": "Sound",
+        "name": "François Méreu",
+        "original_name": "François Méreu",
+        "popularity": 0.1172,
+        "profile_path": null,
+        "credit_id": "61473ce82b531d008d86cf08",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3239759,
+        "known_for_department": "Sound",
+        "name": "Colin Prum",
+        "original_name": "Colin Prum",
+        "popularity": 0.0239,
+        "profile_path": null,
+        "credit_id": "61473ceee55937004318ce90",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1934086,
+        "known_for_department": "Sound",
+        "name": "Mathieu Villien",
+        "original_name": "Mathieu Villien",
+        "popularity": 0.0496,
+        "profile_path": null,
+        "credit_id": "61473cfda6ddcb002c05d49b",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2164087,
+        "known_for_department": "Sound",
+        "name": "Romain Anklewicz",
+        "original_name": "Romain Anklewicz",
+        "popularity": 0.1056,
+        "profile_path": null,
+        "credit_id": "61473d05a6ddcb0043aeb437",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2393369,
+        "known_for_department": "Directing",
+        "name": "Caroline Steff",
+        "original_name": "Caroline Steff",
+        "popularity": 0.0289,
+        "profile_path": null,
+        "credit_id": "61473d1985da12008ca7971d",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1793901,
+        "known_for_department": "Sound",
+        "name": "Vincent Verdoux",
+        "original_name": "Vincent Verdoux",
+        "popularity": 0.1157,
+        "profile_path": "/c6xHwsJIYlWcX0ebXaBz2nV6Ie7.jpg",
+        "credit_id": "61d2105a22f5d70069eeae4f",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1784936,
+        "known_for_department": "Directing",
+        "name": "Charline Bourgeois-Tacquet",
+        "original_name": "Charline Bourgeois-Tacquet",
+        "popularity": 0.1395,
+        "profile_path": "/qimB6IHfhAZdI1cGGODyWPIjIck.jpg",
+        "credit_id": "5fedb7dce004a6004229d9eb",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2244483,
+        "known_for_department": "Sound",
+        "name": "Maxime Roy",
+        "original_name": "Maxime Roy",
+        "popularity": 0.1178,
+        "profile_path": null,
+        "credit_id": "690e17e4a896a8bb22a0bc9e",
+        "department": "Sound",
+        "job": "Foley Recordist"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "RU",
+        "title": "Влюбленности Анаис",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "AU",
+        "title": "Anaïs in Love",
+        "type": "festival title"
+      },
+      {
+        "iso_3166_1": "BG",
+        "title": "Любовите на Анаис",
+        "type": "(Bulgarian title)"
+      },
+      {
+        "iso_3166_1": "FR",
+        "title": "Les amours d'Anaïs",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "DE",
+        "title": "Der Sommer mit Anaïs",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "IT",
+        "title": "Gli amori di Anaïs",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "NL",
+        "title": "Les amours d’Anaïs",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "PL",
+        "title": "Zakochana Anais",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "SG",
+        "title": "Anaïs in Love",
+        "type": "(English title)"
+      },
+      {
+        "iso_3166_1": "ES",
+        "title": "Los amores de Anaïs",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "ES",
+        "title": "Els amors de l’Anaïs",
+        "type": "(Catalan title) (alternative title)"
+      },
+      {
+        "iso_3166_1": "CH",
+        "title": "Les amours d’Anaïs",
+        "type": "(English title)"
+      },
+      {
+        "iso_3166_1": "TR",
+        "title": "Anais Aşık",
+        "type": "(Turkish title) (alternative title)"
+      },
+      {
+        "iso_3166_1": "US",
+        "title": "Anaïs in Love",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "GB",
+        "title": "Anaïs in Love",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "UY",
+        "title": "Los amores de Anaïs",
+        "type": "(original subtitled version)"
+      },
+      {
+        "iso_3166_1": "CN",
+        "title": "阿娜伊斯的爱恋",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "CN",
+        "title": "安娜诗快跑",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "CN",
+        "title": "阿娜伊斯的爱情生活",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "CN",
+        "title": "爱·难按捺",
+        "type": ""
+      }
+    ]
+  }
+}

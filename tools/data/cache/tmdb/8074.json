@@ -1,0 +1,661 @@
+{
+  "adult": false,
+  "backdrop_path": "/6aurEdQ8fs4zevG4m46Lbhoc9Cu.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 8074,
+  "imdb_id": "tt0060304",
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "2 ou 3 choses que je sais d'elle",
+  "overview": "As the city of Paris and the French people grow in consumer culture, a housewife living in a high-rise apartment with her husband and two children takes to prostitution to help pay the bills.",
+  "popularity": 0.6743,
+  "poster_path": "/w1LO1SIrpA4GCjK3ysANr7F3eAN.jpg",
+  "production_companies": [
+    {
+      "id": 6116,
+      "logo_path": "/yCu2D15iD7lcYsBWqXjU65U9nkH.png",
+      "name": "Argos films",
+      "origin_country": "FR"
+    },
+    {
+      "id": 14679,
+      "logo_path": null,
+      "name": "Anouchka Films",
+      "origin_country": "FR"
+    },
+    {
+      "id": 53,
+      "logo_path": "/3cWJikm9MdWCMKdatuk8gDTa5xy.png",
+      "name": "Les Films du Carrosse",
+      "origin_country": "FR"
+    },
+    {
+      "id": 14680,
+      "logo_path": null,
+      "name": "Parc Film",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "1967-03-17",
+  "revenue": 0,
+  "runtime": 87,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "GODARD ON PROSTITUTION IN MODERN LIFE",
+  "title": "2 or 3 Things I Know About Her",
+  "video": false,
+  "vote_average": 6.2,
+  "vote_count": 218,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 14813,
+        "known_for_department": "Acting",
+        "name": "Marina Vlady",
+        "original_name": "Marina Vlady",
+        "popularity": 1.0765,
+        "profile_path": "/zb6pWsjtLsr5BHRlkKAVpu28ShW.jpg",
+        "cast_id": 5,
+        "character": "Juliette Jeanson",
+        "credit_id": "52fe4491c3a36847f809d787",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3776,
+        "known_for_department": "Directing",
+        "name": "Jean-Luc Godard",
+        "original_name": "Jean-Luc Godard",
+        "popularity": 1.2224,
+        "profile_path": "/zP5EDY5MstfkdBmPXNCj8Y6v5KR.jpg",
+        "cast_id": 30,
+        "character": "Narrator (voice)",
+        "credit_id": "5f9f83802ceb530036572e76",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 24475,
+        "known_for_department": "Acting",
+        "name": "Anny Duperey",
+        "original_name": "Anny Duperey",
+        "popularity": 0.5222,
+        "profile_path": "/rW4rTInhpfg79M2KexCcQAKcPbb.jpg",
+        "cast_id": 6,
+        "character": "Marianne",
+        "credit_id": "52fe4491c3a36847f809d78b",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 53912,
+        "known_for_department": "Acting",
+        "name": "Roger Montsoret",
+        "original_name": "Roger Montsoret",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 7,
+        "character": "Robert Jeanson",
+        "credit_id": "52fe4491c3a36847f809d78f",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 37775,
+        "known_for_department": "Production",
+        "name": "Raoul Lévy",
+        "original_name": "Raoul Lévy",
+        "popularity": 0.2732,
+        "profile_path": "/psp7TIK6uj9ZGwCasNlYaGJ7ewZ.jpg",
+        "cast_id": 8,
+        "character": "John Bogus, the American",
+        "credit_id": "52fe4491c3a36847f809d793",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 53913,
+        "known_for_department": "Acting",
+        "name": "Jean Narboni",
+        "original_name": "Jean Narboni",
+        "popularity": 0.0858,
+        "profile_path": "/mTWFv4R56v0wp7tZlfBikxIIHI8.jpg",
+        "cast_id": 9,
+        "character": "Roger",
+        "credit_id": "52fe4491c3a36847f809d797",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 24399,
+        "known_for_department": "Acting",
+        "name": "Yves Beneyton",
+        "original_name": "Yves Beneyton",
+        "popularity": 0.5421,
+        "profile_path": "/7qpJyP4UAajDE42dmfMtqfNU1Q3.jpg",
+        "cast_id": 24,
+        "character": "Young Man",
+        "credit_id": "5f9f82a003bf840037d44854",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 18228,
+        "known_for_department": "Acting",
+        "name": "Juliet Berto",
+        "original_name": "Juliet Berto",
+        "popularity": 0.334,
+        "profile_path": "/8V15SItRZvoTRDdivqAHS8YIrVu.jpg",
+        "cast_id": 13,
+        "character": "Girl Talking to Robert",
+        "credit_id": "5692c8889251416557000418",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2840081,
+        "known_for_department": "Acting",
+        "name": "Helena Bielicic",
+        "original_name": "Helena Bielicic",
+        "popularity": 0.0363,
+        "profile_path": null,
+        "cast_id": 25,
+        "character": "Girl in Bath",
+        "credit_id": "5f9f82c77314a1003636e42a",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 132235,
+        "known_for_department": "Acting",
+        "name": "Christophe Bourseiller",
+        "original_name": "Christophe Bourseiller",
+        "popularity": 0.2017,
+        "profile_path": "/3cD3iC6b8Fu9DeHbwBaQv8Gddg1.jpg",
+        "cast_id": 23,
+        "character": "Christophe Jeanson",
+        "credit_id": "5c71c7439251415edfb1991d",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2840082,
+        "known_for_department": "Acting",
+        "name": "Marie Bourseiller",
+        "original_name": "Marie Bourseiller",
+        "popularity": 0,
+        "profile_path": null,
+        "cast_id": 26,
+        "character": "Solange Jeanson",
+        "credit_id": "5f9f82f92790bf0039475749",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 17591,
+        "known_for_department": "Writing",
+        "name": "Marie Cardinal",
+        "original_name": "Marie Cardinal",
+        "popularity": 0.1477,
+        "profile_path": "/kBK6XA5ATItqObLGa1VvQaxTS4Y.jpg",
+        "cast_id": 27,
+        "character": "",
+        "credit_id": "5f9f83191511aa0039ab0dcb",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2840083,
+        "known_for_department": "Acting",
+        "name": "Robert Chevassu",
+        "original_name": "Robert Chevassu",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 28,
+        "character": "Meter Reader",
+        "credit_id": "5f9f8330344a8e00339e0c74",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 53911,
+        "known_for_department": "Acting",
+        "name": "Joseph Gehrard",
+        "original_name": "Joseph Gehrard",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "Monsieur Gehrard",
+        "credit_id": "52fe4491c3a36847f809d783",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 18232,
+        "known_for_department": "Acting",
+        "name": "Blandine Jeanson",
+        "original_name": "Blandine Jeanson",
+        "popularity": 0.0717,
+        "profile_path": null,
+        "cast_id": 29,
+        "character": "Girl",
+        "credit_id": "5f9f835c0cb3350039607ea6",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2840084,
+        "known_for_department": "Acting",
+        "name": "Benjamin Jules-Rosette",
+        "original_name": "Benjamin Jules-Rosette",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "cast_id": 31,
+        "character": "Man in Basement",
+        "credit_id": "5f9f83980cb335003860992c",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2234421,
+        "known_for_department": "Acting",
+        "name": "Jean-Pierre Laverne",
+        "original_name": "Jean-Pierre Laverne",
+        "popularity": 0.0994,
+        "profile_path": null,
+        "cast_id": 32,
+        "character": "Author",
+        "credit_id": "5f9f83ab5f2db10037282a26",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1037255,
+        "known_for_department": "Directing",
+        "name": "Jean-Patrick Lebel",
+        "original_name": "Jean-Patrick Lebel",
+        "popularity": 0.1061,
+        "profile_path": null,
+        "cast_id": 33,
+        "character": "Pécuchet",
+        "credit_id": "5f9f83c1344a8e00359eaef4",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2840086,
+        "known_for_department": "Acting",
+        "name": "Anna Manga",
+        "original_name": "Anna Manga",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 34,
+        "character": "Woman in Basement",
+        "credit_id": "5f9f83f69ee0ef003983b119",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 18209,
+        "known_for_department": "Directing",
+        "name": "Claude Miller",
+        "original_name": "Claude Miller",
+        "popularity": 0.3728,
+        "profile_path": "/c9h4B4kFWgU4Jf2ciUzoDVD4IOU.jpg",
+        "cast_id": 35,
+        "character": "Bouvard",
+        "credit_id": "5f9f8419f04d010037a4610e",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1462138,
+        "known_for_department": "Acting",
+        "name": "Helen Scott",
+        "original_name": "Helen Scott",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 39,
+        "character": "Woman Playing Pinball",
+        "credit_id": "65d6d884ffd44d01872c2222",
+        "order": 20
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4550652,
+        "known_for_department": "Acting",
+        "name": "Hélène Scott",
+        "original_name": "Hélène Scott",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 40,
+        "character": "Girl Playing Pinball",
+        "credit_id": "65d6d8f0db154f0131a02b9f",
+        "order": 21
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2304,
+        "known_for_department": "Production",
+        "name": "Anatole Dauman",
+        "original_name": "Anatole Dauman",
+        "popularity": 0.1268,
+        "profile_path": "/6OMlQTVM3D2lKiVt6eccx7JIMCP.jpg",
+        "credit_id": "52fe4491c3a36847f809d77f",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3776,
+        "known_for_department": "Directing",
+        "name": "Jean-Luc Godard",
+        "original_name": "Jean-Luc Godard",
+        "popularity": 1.2224,
+        "profile_path": "/zP5EDY5MstfkdBmPXNCj8Y6v5KR.jpg",
+        "credit_id": "52fe4491c3a36847f809d79d",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3776,
+        "known_for_department": "Directing",
+        "name": "Jean-Luc Godard",
+        "original_name": "Jean-Luc Godard",
+        "popularity": 1.2224,
+        "profile_path": "/zP5EDY5MstfkdBmPXNCj8Y6v5KR.jpg",
+        "credit_id": "52fe4491c3a36847f809d7a3",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4330682,
+        "known_for_department": "Crew",
+        "name": "Philippe Senné",
+        "original_name": "Philippe Senné",
+        "popularity": 0.0404,
+        "profile_path": null,
+        "credit_id": "65d6d682e6d3cc017bc1d1bf",
+        "department": "Production",
+        "job": "Production Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 18209,
+        "known_for_department": "Directing",
+        "name": "Claude Miller",
+        "original_name": "Claude Miller",
+        "popularity": 0.3728,
+        "profile_path": "/c9h4B4kFWgU4Jf2ciUzoDVD4IOU.jpg",
+        "credit_id": "65d6d643c5c1ef01648b3261",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 37775,
+        "known_for_department": "Production",
+        "name": "Raoul Lévy",
+        "original_name": "Raoul Lévy",
+        "popularity": 0.2732,
+        "profile_path": "/psp7TIK6uj9ZGwCasNlYaGJ7ewZ.jpg",
+        "credit_id": "59da67f992514125050449bc",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3540,
+        "known_for_department": "Camera",
+        "name": "Raoul Coutard",
+        "original_name": "Raoul Coutard",
+        "popularity": 0.1932,
+        "profile_path": "/fEwMCINuiSOu4f3CzHG3UL0BNIc.jpg",
+        "credit_id": "59da68009251412514047e18",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1902548,
+        "known_for_department": "Directing",
+        "name": "Isabelle Pons",
+        "original_name": "Isabelle Pons",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "59da681ec3a36861ec045ef2",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 28097,
+        "known_for_department": "Editing",
+        "name": "Françoise Collin",
+        "original_name": "Françoise Collin",
+        "popularity": 0.0855,
+        "profile_path": null,
+        "credit_id": "59da6806c3a36862270430ba",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 36522,
+        "known_for_department": "Editing",
+        "name": "Chantal Delattre",
+        "original_name": "Chantal Delattre",
+        "popularity": 0.0352,
+        "profile_path": null,
+        "credit_id": "59da680e925141252c044e02",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 25059,
+        "known_for_department": "Directing",
+        "name": "Charles L. Bitsch",
+        "original_name": "Charles L. Bitsch",
+        "popularity": 0.1598,
+        "profile_path": null,
+        "credit_id": "59da686e92514124c904690b",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 18214,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Gitt Magrini",
+        "original_name": "Gitt Magrini",
+        "popularity": 0.3457,
+        "profile_path": "/lc4U97Wo6mt2Kihcq08E6VXVqNF.jpg",
+        "credit_id": "59da68159251412514047e37",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3528,
+        "known_for_department": "Sound",
+        "name": "René Levert",
+        "original_name": "René Levert",
+        "popularity": 0.1826,
+        "profile_path": null,
+        "credit_id": "5b0bc0c79251411ea000e7f2",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 9959,
+        "known_for_department": "Sound",
+        "name": "Antoine Bonfanti",
+        "original_name": "Antoine Bonfanti",
+        "popularity": 0.1246,
+        "profile_path": "/mrRqvA3Cl5fmfKmF9O7ETLGIpu8.jpg",
+        "credit_id": "5b0bc0d60e0a260dcd012df3",
+        "department": "Sound",
+        "job": "Sound"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "DE",
+        "title": "2 oder 3 Dinge, die ich von ihr weiß",
+        "type": "West Germany Title"
+      },
+      {
+        "iso_3166_1": "FR",
+        "title": "Deux ou trois choses que je sais d'elle",
+        "type": "alternative spelling"
+      },
+      {
+        "iso_3166_1": "GB",
+        "title": "Two or Three Things I Know About Her...",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "KR",
+        "title": "그녀에 대해 알고 있는 두세 가지 것들",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "PL",
+        "title": "2 lub 3 rzeczy, które o niej wiem...",
+        "type": "alternative title"
+      },
+      {
+        "iso_3166_1": "AR",
+        "title": "2 o 3 cosas que yo sé de ella",
+        "type": "alternative spelling"
+      },
+      {
+        "iso_3166_1": "MX",
+        "title": "Dos o tres cosas que yo sé de ella",
+        "type": "alternative spelling"
+      },
+      {
+        "iso_3166_1": "HK",
+        "title": "我所知道她的二三事",
+        "type": "Mandarin Title"
+      },
+      {
+        "iso_3166_1": "JP",
+        "title": "Kanojo ni tsuite Watashi ga Shitteiru 2, 3 no Kotogara",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "NL",
+        "title": "Twee of drie dingen die ik van haar weet",
+        "type": "alternative transliteration"
+      },
+      {
+        "iso_3166_1": "PT",
+        "title": "Duas ou Três Coisas Sobre Ela...",
+        "type": "DVD Title"
+      },
+      {
+        "iso_3166_1": "SU",
+        "title": "Две или три вещи, которые я знаю о ней",
+        "type": "Russian Title"
+      },
+      {
+        "iso_3166_1": "ES",
+        "title": "Dues o tres coses que sé d'ella",
+        "type": "Catalan Title"
+      },
+      {
+        "iso_3166_1": "UY",
+        "title": "Dos o tres cosas que sé de ella",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "NO",
+        "title": "To, tre ting jeg vet om henne",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "UA",
+        "title": "Дві або три речі, котрі я знаю про неї",
+        "type": ""
+      }
+    ]
+  }
+}

@@ -1,0 +1,455 @@
+{
+  "adult": false,
+  "backdrop_path": "/5Sb2Oy1YyvXGfvohrBZjWIQphYP.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ],
+  "homepage": "",
+  "id": 16203,
+  "imdb_id": "tt0072195",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Space Is the Place",
+  "overview": "Sun Ra and his Solar Myth Arkestra return to Earth after several years in space. Ra proclaims himself \"the alter-destiny\", meets with inner-city youths and battles with the devil himself to save the black race.",
+  "popularity": 0.253,
+  "poster_path": "/5yPhG0iBQpBObowErVrZLPZzTq.jpg",
+  "production_companies": [
+    {
+      "id": 54446,
+      "logo_path": null,
+      "name": "North American Star System",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1974-11-01",
+  "revenue": 0,
+  "runtime": 81,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Space Is the Place",
+  "video": false,
+  "vote_average": 5.8,
+  "vote_count": 47,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 79981,
+        "known_for_department": "Acting",
+        "name": "Sun Ra",
+        "original_name": "Sun Ra",
+        "popularity": 0.1139,
+        "profile_path": "/vTlK4L2jOBvk8rGMos1dnXW8D7A.jpg",
+        "cast_id": 2,
+        "character": "Himself",
+        "credit_id": "52fe46b59251416c75080eb9",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 79982,
+        "known_for_department": "Acting",
+        "name": "Raymond Johnson",
+        "original_name": "Raymond Johnson",
+        "popularity": 0.0861,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "The Overseer",
+        "credit_id": "52fe46b59251416c75080ebd",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 161455,
+        "known_for_department": "Acting",
+        "name": "Christopher Brooks",
+        "original_name": "Christopher Brooks",
+        "popularity": 0.1864,
+        "profile_path": null,
+        "cast_id": 6,
+        "character": "Jimmy Fey",
+        "credit_id": "5976beb7c3a36821db020b5a",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1640405,
+        "known_for_department": "Acting",
+        "name": "Marshall Allen",
+        "original_name": "Marshall Allen",
+        "popularity": 0.0505,
+        "profile_path": "/vxhsfY9V3H9ul7TcjzxaKrSAgaK.jpg",
+        "cast_id": 7,
+        "character": "Arkestra member",
+        "credit_id": "5a14ec5892514178bf005021",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2111906,
+        "known_for_department": "Acting",
+        "name": "June Tyson",
+        "original_name": "June Tyson",
+        "popularity": 0.0368,
+        "profile_path": null,
+        "cast_id": 13,
+        "character": "Arkestra member",
+        "credit_id": "5b7b61dfc3a368197900163f",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2112542,
+        "known_for_department": "Acting",
+        "name": "Walter Burns",
+        "original_name": "Walter Burns",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "cast_id": 16,
+        "character": "Agent #1",
+        "credit_id": "5b7ca40dc3a368590d001e71",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 160947,
+        "known_for_department": "Acting",
+        "name": "Morgan Upton",
+        "original_name": "Morgan Upton",
+        "popularity": 0.3205,
+        "profile_path": "/n8fCBnBSFoPSGxOT4FN2kn5wmtz.jpg",
+        "cast_id": 17,
+        "character": "Agent #2",
+        "credit_id": "5b7ca4220e0a263bd5001834",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2113104,
+        "known_for_department": "Acting",
+        "name": "La Shaa Stallings",
+        "original_name": "La Shaa Stallings",
+        "popularity": 0.042,
+        "profile_path": null,
+        "cast_id": 18,
+        "character": "Bertha",
+        "credit_id": "5b7dc3b00e0a2615bd0053d5",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2113809,
+        "known_for_department": "Acting",
+        "name": "Barbara Deloney",
+        "original_name": "Barbara Deloney",
+        "popularity": 0.0297,
+        "profile_path": null,
+        "cast_id": 20,
+        "character": "Candy",
+        "credit_id": "5b7f21ee9251416c840000fa",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2113810,
+        "known_for_department": "Acting",
+        "name": "Erika Leder",
+        "original_name": "Erika Leder",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 21,
+        "character": "Tania",
+        "credit_id": "5b7f22019251416c8400011d",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2114998,
+        "known_for_department": "Acting",
+        "name": "Eloe Omoe",
+        "original_name": "Eloe Omoe",
+        "popularity": 0.0256,
+        "profile_path": null,
+        "cast_id": 22,
+        "character": "Arkestra Member",
+        "credit_id": "5b818d8792514159d7015283",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2115000,
+        "known_for_department": "Acting",
+        "name": "Danny Davis",
+        "original_name": "Danny Davis",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 23,
+        "character": "Arkestra Member",
+        "credit_id": "5b818da20e0a26459c012980",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2115001,
+        "known_for_department": "Acting",
+        "name": "Danny Thompson",
+        "original_name": "Danny Thompson",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 24,
+        "character": "Arkestra Member",
+        "credit_id": "5b818e50c3a368655b013f0b",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1927610,
+        "known_for_department": "Acting",
+        "name": "John Gilmore",
+        "original_name": "John Gilmore",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "cast_id": 25,
+        "character": "Arkestra Member",
+        "credit_id": "5b81977c0e0a2645960137ab",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2115701,
+        "known_for_department": "Acting",
+        "name": "Kwame Hadi",
+        "original_name": "Kwame Hadi",
+        "popularity": 0,
+        "profile_path": null,
+        "cast_id": 26,
+        "character": "Arkestra Member",
+        "credit_id": "5b82e87b92514159ea0287dd",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2115702,
+        "known_for_department": "Acting",
+        "name": "Tommy Hunter",
+        "original_name": "Tommy Hunter",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "cast_id": 27,
+        "character": "Arkestra Member",
+        "credit_id": "5b82e890c3a368655302923b",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2115703,
+        "known_for_department": "Acting",
+        "name": "Larry Northington",
+        "original_name": "Larry Northington",
+        "popularity": 0,
+        "profile_path": null,
+        "cast_id": 28,
+        "character": "Arkestra Member",
+        "credit_id": "5b82e8adc3a368655b02a54c",
+        "order": 16
+      },
+      {
+        "adult": true,
+        "gender": 2,
+        "id": 106422,
+        "known_for_department": "Acting",
+        "name": "Jack Baker",
+        "original_name": "Jack Baker",
+        "popularity": 0,
+        "profile_path": "/vb0eW3OUURGkcsGJsbFND3czS09.jpg",
+        "cast_id": 29,
+        "character": "Bubbles",
+        "credit_id": "62146417470ead001c6a115f",
+        "order": 17
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 79980,
+        "known_for_department": "Directing",
+        "name": "John Coney",
+        "original_name": "John Coney",
+        "popularity": 0.0766,
+        "profile_path": null,
+        "credit_id": "52fe46b59251416c75080eb5",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 79981,
+        "known_for_department": "Acting",
+        "name": "Sun Ra",
+        "original_name": "Sun Ra",
+        "popularity": 0.1139,
+        "profile_path": "/vTlK4L2jOBvk8rGMos1dnXW8D7A.jpg",
+        "credit_id": "5976bde092514106a8037694",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1857591,
+        "known_for_department": "Writing",
+        "name": "Joshua Smith",
+        "original_name": "Joshua Smith",
+        "popularity": 0.0445,
+        "profile_path": null,
+        "credit_id": "5976be96c3a3685ded03f495",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2106604,
+        "known_for_department": "Crew",
+        "name": "Seth Hill",
+        "original_name": "Seth Hill",
+        "popularity": 0.0327,
+        "profile_path": null,
+        "credit_id": "5b71e9e20e0a267ef619aac4",
+        "department": "Crew",
+        "job": "Cinematography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1744220,
+        "known_for_department": "Production",
+        "name": "Jim Newman",
+        "original_name": "Jim Newman",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "5b71e979c3a36818941e4d26",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 79981,
+        "known_for_department": "Acting",
+        "name": "Sun Ra",
+        "original_name": "Sun Ra",
+        "popularity": 0.1139,
+        "profile_path": "/vTlK4L2jOBvk8rGMos1dnXW8D7A.jpg",
+        "credit_id": "5b720e4292514103410a03a0",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1125677,
+        "known_for_department": "Editing",
+        "name": "Barbara Pokras",
+        "original_name": "Barbara Pokras",
+        "popularity": 0.1189,
+        "profile_path": null,
+        "credit_id": "5b78f6ea0e0a26473a01f031",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2110620,
+        "known_for_department": "Art",
+        "name": "Whit Mather",
+        "original_name": "Whit Mather",
+        "popularity": 0.0412,
+        "profile_path": null,
+        "credit_id": "5b78f725925141294901f1a6",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2111926,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Jill Percival",
+        "original_name": "Jill Percival",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "5b7b681d0e0a267c7d002473",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2111931,
+        "known_for_department": "Costume & Make-Up",
+        "name": "William S. Jones",
+        "original_name": "William S. Jones",
+        "popularity": 0.0261,
+        "profile_path": null,
+        "credit_id": "5b7b68fd0e0a267c7d0025f3",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "US",
+        "title": "Sun Ra & His Intergalactic Arkestra: Space Is the Place",
+        "type": ""
+      }
+    ]
+  }
+}

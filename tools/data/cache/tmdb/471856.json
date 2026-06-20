@@ -1,0 +1,713 @@
+{
+  "adult": false,
+  "backdrop_path": "/96FSuNGiuHAJnDsxlVExafH6LZy.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 471856,
+  "imdb_id": "tt7250056",
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "Doubles vies",
+  "overview": "Alain, a successful Parisian publisher struggling to adapt to the digital revolution, has major doubts about the new manuscript of Léonard, one of his long-time authors — another work of auto-fiction recycling his love affair with a minor celebrity. Selena, Alain’s wife, a famous stage actress, is of the opposite opinion.",
+  "popularity": 1.101,
+  "poster_path": "/mlic9fFnAsJcS5xIFyVhMtYCVU5.jpg",
+  "production_companies": [
+    {
+      "id": 51696,
+      "logo_path": "/1HeS0gYnwi2AVtfGvSBaCqlXMuS.png",
+      "name": "CG Cinéma",
+      "origin_country": "FR"
+    },
+    {
+      "id": 79343,
+      "logo_path": null,
+      "name": "Vortex Sutra",
+      "origin_country": "FR"
+    },
+    {
+      "id": 94,
+      "logo_path": "/huC7HqorvUThGIrENrbcHmQVUA0.png",
+      "name": "ARTE France Cinéma",
+      "origin_country": "FR"
+    },
+    {
+      "id": 108769,
+      "logo_path": "/riBQBny2Z3la03Wy8I27Ahn2spC.png",
+      "name": "Playtime",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "2018-10-11",
+  "revenue": 0,
+  "runtime": 107,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Non-Fiction",
+  "video": false,
+  "vote_average": 5.442,
+  "vote_count": 252,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 19866,
+        "known_for_department": "Acting",
+        "name": "Guillaume Canet",
+        "original_name": "Guillaume Canet",
+        "popularity": 1.1421,
+        "profile_path": "/yxerAhXValEezb1EuV9XWc9L8KC.jpg",
+        "cast_id": 2,
+        "character": "Alain",
+        "credit_id": "59c39d45c3a36814030128a8",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1137,
+        "known_for_department": "Acting",
+        "name": "Juliette Binoche",
+        "original_name": "Juliette Binoche",
+        "popularity": 1.874,
+        "profile_path": "/htdZZIroEyJaeHQAUTqokNfkPgl.jpg",
+        "cast_id": 0,
+        "character": "Selena",
+        "credit_id": "599aae18c3a368693400bf28",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 992623,
+        "known_for_department": "Acting",
+        "name": "Vincent Macaigne",
+        "original_name": "Vincent Macaigne",
+        "popularity": 0.292,
+        "profile_path": "/6Z4JmAauiallW2lXTOuSAiHdHGf.jpg",
+        "cast_id": 5,
+        "character": "Léonard",
+        "credit_id": "59c39d61c3a36814430125fd",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 91355,
+        "known_for_department": "Acting",
+        "name": "Christa Théret",
+        "original_name": "Christa Théret",
+        "popularity": 0.5147,
+        "profile_path": "/3ZY1dR3KwGZioqrWGWeuxZgr3Y0.jpg",
+        "cast_id": 3,
+        "character": "Laure",
+        "credit_id": "59c39d4e9251415b28012194",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1596218,
+        "known_for_department": "Acting",
+        "name": "Nora Hamzawi",
+        "original_name": "Nora Hamzawi",
+        "popularity": 0.2205,
+        "profile_path": null,
+        "cast_id": 7,
+        "character": "Valérie",
+        "credit_id": "59cd17b892514139a0016bc9",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 16923,
+        "known_for_department": "Acting",
+        "name": "Pascal Greggory",
+        "original_name": "Pascal Greggory",
+        "popularity": 0.792,
+        "profile_path": "/1J3QISHIZg6C1xkhvshtX2lEiDG.jpg",
+        "cast_id": 4,
+        "character": "Marc-Antoine",
+        "credit_id": "59c39d579251415b770127f0",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1066144,
+        "known_for_department": "Acting",
+        "name": "Laurent Poitrenaux",
+        "original_name": "Laurent Poitrenaux",
+        "popularity": 0.3369,
+        "profile_path": "/6yfD3nolyHqWhnxFBV2unNeF2KD.jpg",
+        "cast_id": 8,
+        "character": "Author, at Alain",
+        "credit_id": "5b8c1050c3a3685206039d45",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1330967,
+        "known_for_department": "Acting",
+        "name": "Sigrid Bouaziz",
+        "original_name": "Sigrid Bouaziz",
+        "popularity": 0.4314,
+        "profile_path": "/h7MPoCDefNWM6GmKizs1WAneAMf.jpg",
+        "cast_id": 9,
+        "character": "Editor",
+        "credit_id": "5b8c1066925141518703656c",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 23387,
+        "known_for_department": "Acting",
+        "name": "Lionel Dray",
+        "original_name": "Lionel Dray",
+        "popularity": 0.1986,
+        "profile_path": "/g9a8jRijWvciFWcng8dYexbkcmM.jpg",
+        "cast_id": 10,
+        "character": "Editor",
+        "credit_id": "5b8c1074c3a368520c0376b8",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1267831,
+        "known_for_department": "Acting",
+        "name": "Nicolas Bouchaud",
+        "original_name": "Nicolas Bouchaud",
+        "popularity": 0.0705,
+        "profile_path": "/ayDptpbPNmugtPFppolnE9Fo6S9.jpg",
+        "cast_id": 11,
+        "character": "David",
+        "credit_id": "5b8c1088c3a368520f036aa6",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1795152,
+        "known_for_department": "Acting",
+        "name": "Antoine Reinartz",
+        "original_name": "Antoine Reinartz",
+        "popularity": 0.3695,
+        "profile_path": "/OHGtRqIim2cEHOYKPlbgNOV6Cb.jpg",
+        "cast_id": 12,
+        "character": "Bookseller in Arles",
+        "credit_id": "5b8c10a40e0a261d7a034d84",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4287,
+        "known_for_department": "Acting",
+        "name": "Aurélia Petit",
+        "original_name": "Aurélia Petit",
+        "popularity": 0.4116,
+        "profile_path": "/s42zuQHecWuexXyO4GwbenumMxF.jpg",
+        "cast_id": 13,
+        "character": "Guest of Marc-Antoine",
+        "credit_id": "5b8c10c00e0a261d7c037004",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 550418,
+        "known_for_department": "Directing",
+        "name": "Thierry de Peretti",
+        "original_name": "Thierry de Peretti",
+        "popularity": 0.2756,
+        "profile_path": "/w3ERYv9QXHHQRjVU8PEPYWTNJGt.jpg",
+        "cast_id": 14,
+        "character": "Guest of Marc-Antoine",
+        "credit_id": "5b8c10d6925141518e02d3eb",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1785402,
+        "known_for_department": "Acting",
+        "name": "Violaine Gillibert",
+        "original_name": "Violaine Gillibert",
+        "popularity": 0.1776,
+        "profile_path": "/jleveUZ7V7oFyCGSwejNVDG4oxK.jpg",
+        "cast_id": 15,
+        "character": "Paloma, Marc-Antoine's friend",
+        "credit_id": "5b8c10ef925141519703337c",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1139100,
+        "known_for_department": "Acting",
+        "name": "Jean-Luc Vincent",
+        "original_name": "Jean-Luc Vincent",
+        "popularity": 0.0856,
+        "profile_path": "/pmVI6ztpLLstIXrNVBLC13W5Q0H.jpg",
+        "cast_id": 16,
+        "character": "Author of Marécage",
+        "credit_id": "5b8c110b92514151830314b6",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 49279,
+        "known_for_department": "Acting",
+        "name": "Laëtitia Spigarelli",
+        "original_name": "Laëtitia Spigarelli",
+        "popularity": 0.1291,
+        "profile_path": "/xe1aUplohFhg3xWtbn9I7TqWRFP.jpg",
+        "cast_id": 17,
+        "character": "Amélia",
+        "credit_id": "5b8c11220e0a261d6e037722",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2120338,
+        "known_for_department": "Acting",
+        "name": "Stéphane Roger",
+        "original_name": "Stéphane Roger",
+        "popularity": 0.0621,
+        "profile_path": null,
+        "cast_id": 18,
+        "character": "Selena's Agent",
+        "credit_id": "5b8c11490e0a261d77039211",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2120339,
+        "known_for_department": "Acting",
+        "name": "David Blot",
+        "original_name": "David Blot",
+        "popularity": 0.0732,
+        "profile_path": "/xNWPOyTKjpOlf5BPuSEfsGeAlHA.jpg",
+        "cast_id": 19,
+        "character": "Radio Host",
+        "credit_id": "5b8c11660e0a261d6b036e4a",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1144728,
+        "known_for_department": "Acting",
+        "name": "Jeanne Candel",
+        "original_name": "Jeanne Candel",
+        "popularity": 0.0457,
+        "profile_path": "/7RUdMhnl7hQc67dpSTQEyQNbBRT.jpg",
+        "cast_id": 20,
+        "character": "Press Officer",
+        "credit_id": "5b8c117dc3a3685200035dc0",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 82183,
+        "known_for_department": "Acting",
+        "name": "Olivia Ross",
+        "original_name": "Olivia Ross",
+        "popularity": 0.5574,
+        "profile_path": "/5CSTFYU5WrhTqhN9ewN6NWDxOcc.jpg",
+        "cast_id": 21,
+        "character": "Laura's Friend",
+        "credit_id": "5b8c118d0e0a261d7a034e3e",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1871413,
+        "known_for_department": "Acting",
+        "name": "Jean-François Auguste",
+        "original_name": "Jean-François Auguste",
+        "popularity": 0.0387,
+        "profile_path": "/gxHCIwVzwMK2nog4OpaO9okGd9J.jpg",
+        "cast_id": 30,
+        "character": "Bookseller",
+        "credit_id": "5e9442152cde980014c57d49",
+        "order": 20
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 21678,
+        "known_for_department": "Directing",
+        "name": "Olivier Assayas",
+        "original_name": "Olivier Assayas",
+        "popularity": 0.9054,
+        "profile_path": "/yNhxilJd1QPGf1snqLtesAD7Z6M.jpg",
+        "credit_id": "599aae259251414a06013ada",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 21678,
+        "known_for_department": "Directing",
+        "name": "Olivier Assayas",
+        "original_name": "Olivier Assayas",
+        "popularity": 0.9054,
+        "profile_path": "/yNhxilJd1QPGf1snqLtesAD7Z6M.jpg",
+        "credit_id": "59c39d7d9251415b240121fd",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 54318,
+        "known_for_department": "Production",
+        "name": "Charles Gillibert",
+        "original_name": "Charles Gillibert",
+        "popularity": 0.1595,
+        "profile_path": "/gss7U39JPmEC6eRl0EiiKIilSYs.jpg",
+        "credit_id": "5c81a703c3a3684e9bd6cd8a",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4404,
+        "known_for_department": "Camera",
+        "name": "Yorick Le Saux",
+        "original_name": "Yorick Le Saux",
+        "popularity": 0.1612,
+        "profile_path": "/sy9xX2FCJB9yzjW8FJSCvBMY4Ya.jpg",
+        "credit_id": "5c81a71fc3a3684e89d70d46",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 7702,
+        "known_for_department": "Art",
+        "name": "François-Renaud Labarthe",
+        "original_name": "François-Renaud Labarthe",
+        "popularity": 0.2139,
+        "profile_path": "/rTF2ncwza2X3hU21F3FNalFCCBX.jpg",
+        "credit_id": "5c81a87fc3a3684e95d71b7f",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 23399,
+        "known_for_department": "Editing",
+        "name": "Simon Jacquet",
+        "original_name": "Simon Jacquet",
+        "popularity": 0.1547,
+        "profile_path": "/ghab9Dut0DmrXdmvIu4vEZbpgfr.jpg",
+        "credit_id": "5c81a7bbc3a3684e9bd6ce4e",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 108058,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Bernard Floch",
+        "original_name": "Bernard Floch",
+        "popularity": 0.1447,
+        "profile_path": null,
+        "credit_id": "5e13cba65907de0017e16b93",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Department Head"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 131997,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Jürgen Doering",
+        "original_name": "Jürgen Doering",
+        "popularity": 0.0952,
+        "profile_path": null,
+        "credit_id": "5e13cb9d6262080014c41408",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4406,
+        "known_for_department": "Production",
+        "name": "Antoinette Boulat",
+        "original_name": "Antoinette Boulat",
+        "popularity": 0.2908,
+        "profile_path": "/slJ0blbdjbRt7oVqaY88IwgPMtP.jpg",
+        "credit_id": "5e13cb8d6262080014c413e0",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1423728,
+        "known_for_department": "Production",
+        "name": "Sylvie Barthet",
+        "original_name": "Sylvie Barthet",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "5e13cb775907de0017e16af1",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2027801,
+        "known_for_department": "Directing",
+        "name": "Aaron Dormer",
+        "original_name": "Aaron Dormer",
+        "popularity": 0.0243,
+        "profile_path": null,
+        "credit_id": "5e9442ab2cde980014c57dd9",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 142357,
+        "known_for_department": "Directing",
+        "name": "Dominique Delany",
+        "original_name": "Dominique Delany",
+        "popularity": 0.1435,
+        "profile_path": null,
+        "credit_id": "5e94428dccb15f001570a095",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1815665,
+        "known_for_department": "Directing",
+        "name": "Julie Grumbach",
+        "original_name": "Julie Grumbach",
+        "popularity": 0.0962,
+        "profile_path": null,
+        "credit_id": "5e9442bcccb15f001570a0e6",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2502006,
+        "known_for_department": "Crew",
+        "name": "Sara Helmlinger",
+        "original_name": "Sara Helmlinger",
+        "popularity": 0.0728,
+        "profile_path": null,
+        "credit_id": "5e9442e58e87020016cdd8a8",
+        "department": "Visual Effects",
+        "job": "Special Effects Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1873079,
+        "known_for_department": "Directing",
+        "name": "Hugo Le Gourrierec",
+        "original_name": "Hugo Le Gourrierec",
+        "popularity": 0.0662,
+        "profile_path": null,
+        "credit_id": "5e9442cd875d1a001245ae12",
+        "department": "Directing",
+        "job": "Third Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1619155,
+        "known_for_department": "Directing",
+        "name": "Christelle Meaux",
+        "original_name": "Christelle Meaux",
+        "popularity": 0.1122,
+        "profile_path": null,
+        "credit_id": "6783b700b9094c7dfebb0359",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1260243,
+        "known_for_department": "Acting",
+        "name": "Lý Nhã Kỳ",
+        "original_name": "Ly Nha Ky",
+        "popularity": 0.0596,
+        "profile_path": null,
+        "credit_id": "680f0227ba241d8aea80e42f",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1451497,
+        "known_for_department": "Production",
+        "name": "Olivier Père",
+        "original_name": "Olivier Père",
+        "popularity": 0.2732,
+        "profile_path": "/w3e88Dn1Usb6fNKNElkVfJBybla.jpg",
+        "credit_id": "680f025aa90acaf6eeeabde3",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 32463,
+        "known_for_department": "Production",
+        "name": "Rémi Burah",
+        "original_name": "Rémi Burah",
+        "popularity": 0.1307,
+        "profile_path": null,
+        "credit_id": "680f026871dedcb8aceb245a",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 19620,
+        "known_for_department": "Sound",
+        "name": "Nicolas Cantin",
+        "original_name": "Nicolas Cantin",
+        "popularity": 0.1397,
+        "profile_path": null,
+        "credit_id": "680f02b75a9b78d272814266",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1632379,
+        "known_for_department": "Sound",
+        "name": "Daniel Sobrino",
+        "original_name": "Daniel Sobrino",
+        "popularity": 0.1598,
+        "profile_path": "/1oKycsjnNcPHG8zScPYzDBToRGL.jpg",
+        "credit_id": "680f02c04603571ead0f7f4b",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1815673,
+        "known_for_department": "Sound",
+        "name": "Aude Baudasse",
+        "original_name": "Aude Baudasse",
+        "popularity": 0.1314,
+        "profile_path": null,
+        "credit_id": "680f02c971dedcb8aceb2476",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6086177,
+        "known_for_department": "Production",
+        "name": "Daniel Sampedro Palerm",
+        "original_name": "Daniel Sampedro Palerm",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "credit_id": "69be9bcd05e0a881ce4301ad",
+        "department": "Production",
+        "job": "Location Manager"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "FR",
+        "title": "E-book",
+        "type": "working title"
+      },
+      {
+        "iso_3166_1": "KR",
+        "title": "논픽션",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "IT",
+        "title": "IL GIOCO DELLE COPPIE",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "NO",
+        "title": "Mellom linjene",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "BR",
+        "title": "Vidas Duplas",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "RU",
+        "title": "Двойные жизни",
+        "type": ""
+      }
+    ]
+  }
+}

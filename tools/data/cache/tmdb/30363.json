@@ -1,0 +1,794 @@
+{
+  "adult": false,
+  "backdrop_path": "/cqwdCT3KiToWHIkhxMCKu6gqJrC.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 30363,
+  "imdb_id": "tt0084725",
+  "origin_country": [
+    "US",
+    "GB",
+    "NL",
+    "ES",
+    "DE",
+    "FR",
+    "PT"
+  ],
+  "original_language": "de",
+  "original_title": "Der Stand der Dinge",
+  "overview": "On location in Portugal, a film crew runs out of film while making their own version of Roger Corman's The Day the World Ended (1956). The producer is nowhere to be found and director Munro attempts to find him in hopes of being able to finish the film.",
+  "popularity": 0.599,
+  "poster_path": "/gHFOZph5GuFcDKe3Xgmrcc2sYwP.jpg",
+  "production_companies": [
+    {
+      "id": 1448,
+      "logo_path": null,
+      "name": "Pro-ject Filmproduktion",
+      "origin_country": "DE"
+    },
+    {
+      "id": 4606,
+      "logo_path": "/otZHbf1HmzLRQsZFSqJXkf8EHz7.png",
+      "name": "ZDF",
+      "origin_country": "DE"
+    },
+    {
+      "id": 11895,
+      "logo_path": "/fyClZg7M7KshU3VcTuQEnOyomFs.png",
+      "name": "Artificial Eye",
+      "origin_country": "GB"
+    },
+    {
+      "id": 23722,
+      "logo_path": null,
+      "name": "V.O. Filmes",
+      "origin_country": "PT"
+    },
+    {
+      "id": 27992,
+      "logo_path": null,
+      "name": "Wim Wenders Productions",
+      "origin_country": "DE"
+    },
+    {
+      "id": 77946,
+      "logo_path": null,
+      "name": "Gray City",
+      "origin_country": "US"
+    },
+    {
+      "id": 77947,
+      "logo_path": null,
+      "name": "Pari Films",
+      "origin_country": ""
+    },
+    {
+      "id": 77948,
+      "logo_path": null,
+      "name": "Musidora Films",
+      "origin_country": ""
+    },
+    {
+      "id": 77949,
+      "logo_path": null,
+      "name": "Film International",
+      "origin_country": ""
+    },
+    {
+      "id": 45,
+      "logo_path": "/tUkNOAjyTt9D56DUeQfmmAFvwYQ.png",
+      "name": "Road Movies",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "PT",
+      "name": "Portugal"
+    },
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "ES",
+      "name": "Spain"
+    },
+    {
+      "iso_3166_1": "NL",
+      "name": "Netherlands"
+    }
+  ],
+  "release_date": "1982-03-22",
+  "revenue": 0,
+  "runtime": 121,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    },
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "They didn't want to kill him. They just wanted a story.",
+  "title": "The State of Things",
+  "video": false,
+  "vote_average": 6.41,
+  "vote_count": 83,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 140054,
+        "known_for_department": "Acting",
+        "name": "Isabelle Weingarten",
+        "original_name": "Isabelle Weingarten",
+        "popularity": 0.1738,
+        "profile_path": "/1jujkctcnKK52UimTLHDVZGgEa4.jpg",
+        "cast_id": 4,
+        "character": "Anna",
+        "credit_id": "52fe44119251416c91003d7b",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 140055,
+        "known_for_department": "Acting",
+        "name": "Rebecca Pauly",
+        "original_name": "Rebecca Pauly",
+        "popularity": 0.29,
+        "profile_path": "/aGgPZaquqWNNlofOCB5V6RRTrBL.jpg",
+        "cast_id": 5,
+        "character": "Joan",
+        "credit_id": "52fe44119251416c91003d7f",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 140056,
+        "known_for_department": "Acting",
+        "name": "Jeffrey Kime",
+        "original_name": "Jeffrey Kime",
+        "popularity": 0.142,
+        "profile_path": null,
+        "cast_id": 6,
+        "character": "Mark",
+        "credit_id": "52fe44119251416c91003d83",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 134514,
+        "known_for_department": "Acting",
+        "name": "Geoffrey Carey",
+        "original_name": "Geoffrey Carey",
+        "popularity": 0.243,
+        "profile_path": "/yLeeD8yH06bVaFVIREo22Y1DSTm.jpg",
+        "cast_id": 7,
+        "character": "Robert",
+        "credit_id": "52fe44119251416c91003d87",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 140057,
+        "known_for_department": "Acting",
+        "name": "Camila Mora-Scheihing",
+        "original_name": "Camila Mora-Scheihing",
+        "popularity": 0.1826,
+        "profile_path": null,
+        "cast_id": 8,
+        "character": "Julia",
+        "credit_id": "52fe44119251416c91003d8b",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 140058,
+        "known_for_department": "Acting",
+        "name": "Alexandra Auder",
+        "original_name": "Alexandra Auder",
+        "popularity": 0.0519,
+        "profile_path": "/oa7lv3JKRLhygU7PBbQePo67ysV.jpg",
+        "cast_id": 9,
+        "character": "Jane",
+        "credit_id": "52fe44119251416c91003d8f",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5274,
+        "known_for_department": "Acting",
+        "name": "Patrick Bauchau",
+        "original_name": "Patrick Bauchau",
+        "popularity": 0.9525,
+        "profile_path": "/kdrFAJJFdfQaYUETTHQw77gim9O.jpg",
+        "cast_id": 10,
+        "character": "Friedrich Munro",
+        "credit_id": "52fe44119251416c91003d93",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 140059,
+        "known_for_department": "Acting",
+        "name": "Paul Getty Jr.",
+        "original_name": "Paul Getty Jr.",
+        "popularity": 0.0738,
+        "profile_path": null,
+        "cast_id": 11,
+        "character": "Dennis",
+        "credit_id": "52fe44119251416c91003d97",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 54754,
+        "known_for_department": "Acting",
+        "name": "Viva",
+        "original_name": "Viva",
+        "popularity": 0.4612,
+        "profile_path": "/as8RgWBNvRKF6nTEd1ZcDVius7M.jpg",
+        "cast_id": 12,
+        "character": "Kate",
+        "credit_id": "52fe44119251416c91003d9b",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 26959,
+        "known_for_department": "Directing",
+        "name": "Samuel Fuller",
+        "original_name": "Samuel Fuller",
+        "popularity": 0.7715,
+        "profile_path": "/11kfnmIhc44ea1uFk74FQIEBgDz.jpg",
+        "cast_id": 13,
+        "character": "Joe",
+        "credit_id": "52fe44119251416c91003d9f",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 140062,
+        "known_for_department": "Acting",
+        "name": "Artur Semedo",
+        "original_name": "Artur Semedo",
+        "popularity": 0.2645,
+        "profile_path": "/kwtNdRZcC4TxPNRUpC7GO2SsBba.jpg",
+        "cast_id": 14,
+        "character": "Production Manager",
+        "credit_id": "52fe44119251416c91003da3",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 140063,
+        "known_for_department": "Acting",
+        "name": "Francisco Baião",
+        "original_name": "Francisco Baião",
+        "popularity": 0.1175,
+        "profile_path": null,
+        "cast_id": 15,
+        "character": "Soundman",
+        "credit_id": "52fe44119251416c91003da7",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 106157,
+        "known_for_department": "Directing",
+        "name": "Robert Kramer",
+        "original_name": "Robert Kramer",
+        "popularity": 0.2581,
+        "profile_path": "/tSbaZNs37qLaVic7m4IDZZBz558.jpg",
+        "cast_id": 16,
+        "character": "Camera Operator",
+        "credit_id": "52fe44119251416c91003dab",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 922,
+        "known_for_department": "Acting",
+        "name": "Allen Garfield",
+        "original_name": "Allen Garfield",
+        "popularity": 0.9273,
+        "profile_path": "/v4S64Kcmgg7THvrFElzAeJiscy6.jpg",
+        "cast_id": 17,
+        "character": "Gordon",
+        "credit_id": "52fe44119251416c91003daf",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 102429,
+        "known_for_department": "Production",
+        "name": "Roger Corman",
+        "original_name": "Roger Corman",
+        "popularity": 1.1151,
+        "profile_path": "/m0ApZMol42l8vLV8MLpUSCpyA6n.jpg",
+        "cast_id": 18,
+        "character": "The Lawyer",
+        "credit_id": "52fe44119251416c91003db3",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1414674,
+        "known_for_department": "Acting",
+        "name": "Gisela Getty",
+        "original_name": "Gisela Getty",
+        "popularity": 0.1773,
+        "profile_path": "/rYkWyx8BsgjhlReVN0itIChuWop.jpg",
+        "cast_id": 42,
+        "character": "Secretary",
+        "credit_id": "646621ee33a3760101f9ac8a",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 44616,
+        "known_for_department": "Acting",
+        "name": "Monty Bane",
+        "original_name": "Monty Bane",
+        "popularity": 0.1631,
+        "profile_path": "/xxr0Dck6DwgOH2eaynLySsSmq7p.jpg",
+        "cast_id": 43,
+        "character": "Herbert",
+        "credit_id": "64662208006b010126f4b635",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 65137,
+        "known_for_department": "Acting",
+        "name": "Janet Graham",
+        "original_name": "Janet Graham",
+        "popularity": 0.1401,
+        "profile_path": null,
+        "cast_id": 44,
+        "character": "Karen",
+        "credit_id": "6466221f33a3760158d87b20",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1346594,
+        "known_for_department": "Production",
+        "name": "Judy Mooradian",
+        "original_name": "Judy Mooradian",
+        "popularity": 0.047,
+        "profile_path": null,
+        "cast_id": 45,
+        "character": "Waitress",
+        "credit_id": "64662229c3514c013a547491",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1079282,
+        "known_for_department": "Acting",
+        "name": "Adelaide João",
+        "original_name": "Adelaide João",
+        "popularity": 0.14,
+        "profile_path": "/Aq5tZjccPUbYU2nT5yspiXk0Eyy.jpg",
+        "cast_id": 37,
+        "character": "Bar Patron (uncredited)",
+        "credit_id": "5aa15976c3a368506b00a074",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2303,
+        "known_for_department": "Directing",
+        "name": "Wim Wenders",
+        "original_name": "Wim Wenders",
+        "popularity": 1.1846,
+        "profile_path": "/7Y4mkVstQxhegwlOwAsGRfZfHXC.jpg",
+        "cast_id": 38,
+        "character": "Tram Passenger (uncredited)",
+        "credit_id": "5aa15983c3a368506300926f",
+        "order": 20
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2303,
+        "known_for_department": "Directing",
+        "name": "Wim Wenders",
+        "original_name": "Wim Wenders",
+        "popularity": 1.1846,
+        "profile_path": "/7Y4mkVstQxhegwlOwAsGRfZfHXC.jpg",
+        "credit_id": "52fe44119251416c91003d6b",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 106157,
+        "known_for_department": "Directing",
+        "name": "Robert Kramer",
+        "original_name": "Robert Kramer",
+        "popularity": 0.2581,
+        "profile_path": "/tSbaZNs37qLaVic7m4IDZZBz558.jpg",
+        "credit_id": "52fe44119251416c91003d71",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 106158,
+        "known_for_department": "Writing",
+        "name": "Josh Wallace",
+        "original_name": "Josh Wallace",
+        "popularity": 0.0434,
+        "profile_path": null,
+        "credit_id": "52fe44119251416c91003d77",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2308,
+        "known_for_department": "Sound",
+        "name": "Jürgen Knieper",
+        "original_name": "Jürgen Knieper",
+        "popularity": 0.1464,
+        "profile_path": null,
+        "credit_id": "575af9769251412a010000e4",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 9884,
+        "known_for_department": "Production",
+        "name": "Chris Sievernich",
+        "original_name": "Chris Sievernich",
+        "popularity": 0.1617,
+        "profile_path": "/6ooUl8VseHvDnvvs6puNTXgPvBv.jpg",
+        "credit_id": "575af97e9251412a3300011b",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 28752,
+        "known_for_department": "Production",
+        "name": "Pierre Cottrell",
+        "original_name": "Pierre Cottrell",
+        "popularity": 0.1524,
+        "profile_path": null,
+        "credit_id": "575af986c3a36860f7000025",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5268,
+        "known_for_department": "Production",
+        "name": "Paulo Branco",
+        "original_name": "Paulo Branco",
+        "popularity": 0.2942,
+        "profile_path": "/fts6IfqRE5xZuZB3iN6yeKNzfhd.jpg",
+        "credit_id": "575af98dc3a36853bb00013e",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2307,
+        "known_for_department": "Camera",
+        "name": "Henri Alekan",
+        "original_name": "Henri Alekan",
+        "popularity": 0.1796,
+        "profile_path": "/rL2bZDa889sNXZOxfPwieE9ZzBb.jpg",
+        "credit_id": "575af99492514126fa00016a",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 17765,
+        "known_for_department": "Camera",
+        "name": "Fred Murphy",
+        "original_name": "Fred Murphy",
+        "popularity": 0.332,
+        "profile_path": null,
+        "credit_id": "575af99bc3a36860f7000029",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 67044,
+        "known_for_department": "Camera",
+        "name": "Martin Schäfer",
+        "original_name": "Martin Schäfer",
+        "popularity": 0.0744,
+        "profile_path": null,
+        "credit_id": "575af9a6c3a368547c000155",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 499852,
+        "known_for_department": "Editing",
+        "name": "Jon Neuburger",
+        "original_name": "Jon Neuburger",
+        "popularity": 0.1162,
+        "profile_path": null,
+        "credit_id": "575af9ae92514126fa000170",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2309,
+        "known_for_department": "Editing",
+        "name": "Peter Przygodda",
+        "original_name": "Peter Przygodda",
+        "popularity": 0.2535,
+        "profile_path": null,
+        "credit_id": "575af9b59251412a010000eb",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 57985,
+        "known_for_department": "Editing",
+        "name": "Barbara von Weitershausen",
+        "original_name": "Barbara von Weitershausen",
+        "popularity": 0.1251,
+        "profile_path": null,
+        "credit_id": "575af9bcc3a36851c3000187",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1633538,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Maria Gonzaga",
+        "original_name": "Maria Gonzaga",
+        "popularity": 0.0565,
+        "profile_path": null,
+        "credit_id": "575af9e6c3a3685403000168",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1186069,
+        "known_for_department": "Production",
+        "name": "António Gonçalo",
+        "original_name": "António Gonçalo",
+        "popularity": 0.0379,
+        "profile_path": null,
+        "credit_id": "575af9ef925141270a00016a",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1633540,
+        "known_for_department": "Directing",
+        "name": "Greg Gears",
+        "original_name": "Greg Gears",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "575af9f9c3a368547c00015f",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5270,
+        "known_for_department": "Art",
+        "name": "Zé Branco",
+        "original_name": "Zé Branco",
+        "popularity": 0.1296,
+        "profile_path": null,
+        "credit_id": "575afa18c3a36851de00017b",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4533775,
+        "known_for_department": "Directing",
+        "name": "Carlos Santana",
+        "original_name": "Carlos Santana",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "65caf64ffd140b0164d7dde6",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1633538,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Maria Gonzaga",
+        "original_name": "Maria Gonzaga",
+        "popularity": 0.0565,
+        "profile_path": null,
+        "credit_id": "65caf66212970c0162c5a415",
+        "department": "Costume & Make-Up",
+        "job": "Costume Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2303,
+        "known_for_department": "Directing",
+        "name": "Wim Wenders",
+        "original_name": "Wim Wenders",
+        "popularity": 1.1846,
+        "profile_path": "/7Y4mkVstQxhegwlOwAsGRfZfHXC.jpg",
+        "credit_id": "645a48203fe16000e328e51c",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2303,
+        "known_for_department": "Directing",
+        "name": "Wim Wenders",
+        "original_name": "Wim Wenders",
+        "popularity": 1.1846,
+        "profile_path": "/7Y4mkVstQxhegwlOwAsGRfZfHXC.jpg",
+        "credit_id": "5aa1595a0e0a2644e7009e93",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5269,
+        "known_for_department": "Directing",
+        "name": "João Canijo",
+        "original_name": "João Canijo",
+        "popularity": 0.2751,
+        "profile_path": "/7Cpx6wkKbVeNNZR0wCatcQnEk4F.jpg",
+        "credit_id": "5aa159b8c3a368507e008ed5",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 9890,
+        "known_for_department": "Sound",
+        "name": "Jean-Paul Mugel",
+        "original_name": "Jean-Paul Mugel",
+        "popularity": 0.2461,
+        "profile_path": "/4MPwCouuem4PjQjKytI1WMYcp0Q.jpg",
+        "credit_id": "5aa159c7c3a368506700a4cc",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4429,
+        "known_for_department": "Directing",
+        "name": "Jim Jarmusch",
+        "original_name": "Jim Jarmusch",
+        "popularity": 1.2282,
+        "profile_path": "/iMpIrvhoO9SZWhiDkSzaUt9Yd4N.jpg",
+        "credit_id": "67cf750586fea60ab81dd046",
+        "department": "Sound",
+        "job": "Music"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "US",
+        "title": "The State of Things",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "FR",
+        "title": "L'Etat des Choses",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "KR",
+        "title": "사물의 상태",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "PT",
+        "title": "O Estado das Coisas",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "JP",
+        "title": "ことの次第",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "NO",
+        "title": "Tingenes tilstand",
+        "type": ""
+      }
+    ]
+  }
+}

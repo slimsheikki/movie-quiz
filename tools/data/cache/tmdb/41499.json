@@ -1,0 +1,455 @@
+{
+  "adult": false,
+  "backdrop_path": "/ijiKTBq83oSWg1FpouegVqlut65.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 41499,
+  "imdb_id": "tt1355623",
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "Barbe Bleue",
+  "overview": "Anne reads her younger sister, Marie-Catherine, the story of Bluebeard. In 17th-century France, another set of sisters — also named Anne and Marie-Catherine — are left impoverished by their father's death. Marie-Catherine dreams of marrying into money, and soon falls for wealthy divorcé Bluebeard. Grateful for the chance at a life of comfort, Marie-Catherine marries Bluebeard — in spite of rumors that he has made a hobby of murdering his wives.",
+  "popularity": 0.5699,
+  "poster_path": "/d2AvtBdNGXvKvDKlix9dTMKi4M5.jpg",
+  "production_companies": [
+    {
+      "id": 324,
+      "logo_path": null,
+      "name": "Flach Film",
+      "origin_country": "FR"
+    },
+    {
+      "id": 243,
+      "logo_path": null,
+      "name": "CB Films",
+      "origin_country": "FR"
+    },
+    {
+      "id": 201,
+      "logo_path": "/6UIpEURdjnmcJPwgTDRzVRuwADr.png",
+      "name": "ARTE",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "2010-03-26",
+  "revenue": 0,
+  "runtime": 80,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Bluebeard",
+  "video": false,
+  "vote_average": 5.6,
+  "vote_count": 34,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 126725,
+        "known_for_department": "Acting",
+        "name": "Dominique Thomas",
+        "original_name": "Dominique Thomas",
+        "popularity": 0.1703,
+        "profile_path": "/vDNPlkDFaSErd78p4SIq04RKHwA.jpg",
+        "cast_id": 4,
+        "character": "Barbe Bleue / Bluebeard",
+        "credit_id": "52fe45cec3a36847f80db7c9",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 126726,
+        "known_for_department": "Acting",
+        "name": "Lola Créton",
+        "original_name": "Lola Créton",
+        "popularity": 0.4235,
+        "profile_path": "/nD1MS6GZe32kR6JhmXtYghD0P0u.jpg",
+        "cast_id": 5,
+        "character": "Marie-Catherine",
+        "credit_id": "52fe45cec3a36847f80db7cd",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 26404,
+        "known_for_department": "Directing",
+        "name": "Daphné Baiwir",
+        "original_name": "Daphné Baiwir",
+        "popularity": 0.1849,
+        "profile_path": "/uQKFzl3I7MDiKlpSe44TwxP7tNN.jpg",
+        "cast_id": 6,
+        "character": "Anne",
+        "credit_id": "52fe45cec3a36847f80db7d1",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 126727,
+        "known_for_department": "Acting",
+        "name": "Marilou Lopes-Benites",
+        "original_name": "Marilou Lopes-Benites",
+        "popularity": 0.0486,
+        "profile_path": null,
+        "cast_id": 7,
+        "character": "Catherine",
+        "credit_id": "52fe45cec3a36847f80db7d5",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 126728,
+        "known_for_department": "Acting",
+        "name": "Lola Giovannetti",
+        "original_name": "Lola Giovannetti",
+        "popularity": 0.0762,
+        "profile_path": null,
+        "cast_id": 8,
+        "character": "Marie-Anne",
+        "credit_id": "52fe45cec3a36847f80db7d9",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 54294,
+        "known_for_department": "Acting",
+        "name": "Farida Khelfa",
+        "original_name": "Farida Khelfa",
+        "popularity": 0.2688,
+        "profile_path": "/yjFu9RV2GCD9RbWIZNizn92NJjY.jpg",
+        "cast_id": 9,
+        "character": "La mère supérieure",
+        "credit_id": "52fe45cec3a36847f80db7dd",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 126729,
+        "known_for_department": "Acting",
+        "name": "Isabelle Lapouge",
+        "original_name": "Isabelle Lapouge",
+        "popularity": 0.0671,
+        "profile_path": null,
+        "cast_id": 10,
+        "character": "La mère",
+        "credit_id": "52fe45cec3a36847f80db7e1",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 126730,
+        "known_for_department": "Acting",
+        "name": "Suzanne Foulquier",
+        "original_name": "Suzanne Foulquier",
+        "popularity": 0.0453,
+        "profile_path": null,
+        "cast_id": 11,
+        "character": "Soeur Barbe",
+        "credit_id": "52fe45cec3a36847f80db7e5",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 126731,
+        "known_for_department": "Acting",
+        "name": "Laure Lapeyre",
+        "original_name": "Laure Lapeyre",
+        "popularity": 0.0656,
+        "profile_path": "/tgveBvaFweYc4PBYlbsktO6qxwJ.jpg",
+        "cast_id": 12,
+        "character": "Ida",
+        "credit_id": "52fe45cec3a36847f80db7e9",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3499803,
+        "known_for_department": "Acting",
+        "name": "Adrien Ledoux",
+        "original_name": "Adrien Ledoux",
+        "popularity": 0.0168,
+        "profile_path": null,
+        "cast_id": 15,
+        "character": "",
+        "credit_id": "64c0f53edf86a801446bfc03",
+        "order": 9
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 6295,
+        "known_for_department": "Directing",
+        "name": "Catherine Breillat",
+        "original_name": "Catherine Breillat",
+        "popularity": 0.6517,
+        "profile_path": "/wIJr8XJc7QjTCydM810YCWEK2oD.jpg",
+        "credit_id": "52fe45cec3a36847f80db7b9",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 44217,
+        "known_for_department": "Writing",
+        "name": "Charles Perrault",
+        "original_name": "Charles Perrault",
+        "popularity": 0.6349,
+        "profile_path": "/g6VJMr7d54DMjpAZsfbpUjYxQ0U.jpg",
+        "credit_id": "6453cacad8f44e0dae962fc4",
+        "department": "Writing",
+        "job": "Original Story"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 6295,
+        "known_for_department": "Directing",
+        "name": "Catherine Breillat",
+        "original_name": "Catherine Breillat",
+        "popularity": 0.6517,
+        "profile_path": "/wIJr8XJc7QjTCydM810YCWEK2oD.jpg",
+        "credit_id": "6453cab4d8f44e0dae962fb8",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1303318,
+        "known_for_department": "Production",
+        "name": "Sylvette Frydman",
+        "original_name": "Sylvette Frydman",
+        "popularity": 0.0721,
+        "profile_path": null,
+        "credit_id": "6717378b5e9d6f5d0d48eb11",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 7695,
+        "known_for_department": "Production",
+        "name": "Jean-François Lepetit",
+        "original_name": "Jean-François Lepetit",
+        "popularity": 0.1424,
+        "profile_path": "/ol5wKO7Tn26XgvjVgXjWrlm0LHj.jpg",
+        "credit_id": "67173796a77af1dbbaf8a7b1",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1409543,
+        "known_for_department": "Sound",
+        "name": "Stéphane Brunclair",
+        "original_name": "Stéphane Brunclair",
+        "popularity": 0.0641,
+        "profile_path": null,
+        "credit_id": "671737ac2b9f34249aea0037",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 52026,
+        "known_for_department": "Camera",
+        "name": "Vilko Filač",
+        "original_name": "Vilko Filač",
+        "popularity": 0.0808,
+        "profile_path": null,
+        "credit_id": "671737bdee419d70db2d1eda",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 7701,
+        "known_for_department": "Editing",
+        "name": "Pascale Chavance",
+        "original_name": "Pascale Chavance",
+        "popularity": 0.1116,
+        "profile_path": null,
+        "credit_id": "671737c9a77af1dbbaf8a7c1",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1551410,
+        "known_for_department": "Production",
+        "name": "Colomba Falcucci",
+        "original_name": "Colomba Falcucci",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "credit_id": "671737d55e9d6f5d0d48eb3a",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2888646,
+        "known_for_department": "Writing",
+        "name": "Michael Weil",
+        "original_name": "Michael Weil",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "671737f8a77af1dbbaf8a7d2",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2630855,
+        "known_for_department": "Art",
+        "name": "Olivier Jacquet",
+        "original_name": "Olivier Jacquet",
+        "popularity": 0.0168,
+        "profile_path": null,
+        "credit_id": "6717386d2b9f34249aea0085",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1321897,
+        "known_for_department": "Art",
+        "name": "Marie-Laure Valla",
+        "original_name": "Marie-Laure Valla",
+        "popularity": 0.0954,
+        "profile_path": null,
+        "credit_id": "6717387a7dc7c6f27d511559",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1007316,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Rose-Marie Melka",
+        "original_name": "Rose-Marie Melka",
+        "popularity": 0.0193,
+        "profile_path": null,
+        "credit_id": "6717388ba77af1dbbaf8a82d",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1764784,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Claire Monatte",
+        "original_name": "Claire Monatte",
+        "popularity": 0.0557,
+        "profile_path": null,
+        "credit_id": "6717389fa77af1dbbaf8a837",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5014720,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Daniele Duval",
+        "original_name": "Daniele Duval",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "671738ac6fb09e394c0296d1",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1125198,
+        "known_for_department": "Sound",
+        "name": "Yves Osmu",
+        "original_name": "Yves Osmu",
+        "popularity": 0.0973,
+        "profile_path": null,
+        "credit_id": "671738bc6fb09e394c0296df",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1957991,
+        "known_for_department": "Sound",
+        "name": "Éric Bonnard",
+        "original_name": "Éric Bonnard",
+        "popularity": 0.1921,
+        "profile_path": null,
+        "credit_id": "671738ca2b9f34249aea00b4",
+        "department": "Sound",
+        "job": "Sound"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "US",
+        "title": "Bluebeard",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "UA",
+        "title": "Синя борода",
+        "type": ""
+      }
+    ]
+  }
+}

@@ -1,0 +1,673 @@
+{
+  "adult": false,
+  "backdrop_path": "/4vbL72K9uVaMLhnvmdg1So7kqex.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ],
+  "homepage": "",
+  "id": 4495,
+  "imdb_id": "tt0070040",
+  "origin_country": [
+    "ES"
+  ],
+  "original_language": "es",
+  "original_title": "El espíritu de la colmena",
+  "overview": "In 1940, in the immediate aftermath of the Spanish Civil War, a young girl living on the Castilian plain is haunted after attending a screening of James Whale's 1931 film Frankenstein and hearing from her sister that the monster is not dead, instead existing as a spirit inhabiting a nearby barn.",
+  "popularity": 1.0936,
+  "poster_path": "/o6pUTkoCh4r6EA2dHNFKA40OmH2.jpg",
+  "production_companies": [
+    {
+      "id": 12009,
+      "logo_path": null,
+      "name": "Elías Querejeta PC",
+      "origin_country": "ES"
+    },
+    {
+      "id": 157588,
+      "logo_path": null,
+      "name": "Jacel Desposito",
+      "origin_country": "ES"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "ES",
+      "name": "Spain"
+    }
+  ],
+  "release_date": "1973-10-08",
+  "revenue": 0,
+  "runtime": 98,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Spirit of the Beehive",
+  "video": false,
+  "vote_average": 7.641,
+  "vote_count": 397,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 24976,
+        "known_for_department": "Acting",
+        "name": "Ana Torrent",
+        "original_name": "Ana Torrent",
+        "popularity": 0.5009,
+        "profile_path": "/ozgJiY7MswNsvmGkKtYt9qZJUuu.jpg",
+        "cast_id": 12,
+        "character": "Ana",
+        "credit_id": "52fe43c6c3a36847f806ead7",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 965,
+        "known_for_department": "Acting",
+        "name": "Fernando Fernán Gómez",
+        "original_name": "Fernando Fernán Gómez",
+        "popularity": 0.5049,
+        "profile_path": "/2itwZtBNlvA4B6tmFmNbQN9qvmu.jpg",
+        "cast_id": 10,
+        "character": "Fernando",
+        "credit_id": "52fe43c6c3a36847f806eacf",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 37839,
+        "known_for_department": "Acting",
+        "name": "Teresa Gimpera",
+        "original_name": "Teresa Gimpera",
+        "popularity": 0.3215,
+        "profile_path": "/4GyMWHQ3wLagY1Pp0wI3o56iKlU.jpg",
+        "cast_id": 11,
+        "character": "Teresa",
+        "credit_id": "52fe43c6c3a36847f806ead3",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 37840,
+        "known_for_department": "Acting",
+        "name": "Isabel Tellería",
+        "original_name": "Isabel Tellería",
+        "popularity": 0.0518,
+        "profile_path": null,
+        "cast_id": 13,
+        "character": "Isabel",
+        "credit_id": "52fe43c6c3a36847f806eadb",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 37841,
+        "known_for_department": "Acting",
+        "name": "Laly Soldevila",
+        "original_name": "Laly Soldevila",
+        "popularity": 0.3449,
+        "profile_path": "/iZXX1vLPSWOmSxu60KTdXEu5wPl.jpg",
+        "cast_id": 14,
+        "character": "Doña Lucía",
+        "credit_id": "52fe43c6c3a36847f806eadf",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 37842,
+        "known_for_department": "Acting",
+        "name": "Miguel Picazo",
+        "original_name": "Miguel Picazo",
+        "popularity": 0.1977,
+        "profile_path": "/3cnMncz91UyL8wvLenVQpIeRgMM.jpg",
+        "cast_id": 15,
+        "character": "Médico",
+        "credit_id": "52fe43c6c3a36847f806eae3",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 37843,
+        "known_for_department": "Acting",
+        "name": "José Villasante",
+        "original_name": "José Villasante",
+        "popularity": 0.0779,
+        "profile_path": "/76r6Lp4kHv9EZ4dRKT0c4OBbWa3.jpg",
+        "cast_id": 16,
+        "character": "Frankenstein",
+        "credit_id": "52fe43c6c3a36847f806eae7",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 37844,
+        "known_for_department": "Acting",
+        "name": "Juan Margallo",
+        "original_name": "Juan Margallo",
+        "popularity": 0.1467,
+        "profile_path": "/7OcsXFeAdCnWT6Zm5Zgkn6EpXtr.jpg",
+        "cast_id": 17,
+        "character": "Fugitivo",
+        "credit_id": "52fe43c6c3a36847f806eaeb",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1472206,
+        "known_for_department": "Acting",
+        "name": "Estanis González",
+        "original_name": "Estanis González",
+        "popularity": 0.2261,
+        "profile_path": "/1YE2SFAoS4dwXMc2CMO5Q5ZW4E5.jpg",
+        "cast_id": 26,
+        "character": "Guardia civil",
+        "credit_id": "63dfbcb8373ac2007f01cabd",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 231945,
+        "known_for_department": "Acting",
+        "name": "Ketty de la Cámara",
+        "original_name": "Ketty de la Cámara",
+        "popularity": 0.0647,
+        "profile_path": null,
+        "cast_id": 27,
+        "character": "Milagros, la criada",
+        "credit_id": "63dfbcd1373ac200cafdbe89",
+        "order": 9
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 37838,
+        "known_for_department": "Writing",
+        "name": "Ángel Fernández Santos",
+        "original_name": "Ángel Fernández Santos",
+        "popularity": 0.165,
+        "profile_path": null,
+        "credit_id": "52fe43c6c3a36847f806eacb",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 37833,
+        "known_for_department": "Directing",
+        "name": "Víctor Erice",
+        "original_name": "Víctor Erice",
+        "popularity": 0.2696,
+        "profile_path": "/c1iNbHXNIN2qW0kRPCAaeMN4MnZ.jpg",
+        "credit_id": "52fe43c6c3a36847f806eaa1",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 13833,
+        "known_for_department": "Production",
+        "name": "Elías Querejeta",
+        "original_name": "Elías Querejeta",
+        "popularity": 0.1358,
+        "profile_path": "/lDnLqabKaVCQC24EIPdts0TlzMb.jpg",
+        "credit_id": "52fe43c6c3a36847f806eac5",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 37613,
+        "known_for_department": "Directing",
+        "name": "Jaime Chávarri",
+        "original_name": "Jaime Chávarri",
+        "popularity": 0.0798,
+        "profile_path": "/7W1ax4s7l31seVqSndufvcdjulS.jpg",
+        "credit_id": "52fe43c6c3a36847f806eab9",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 32212,
+        "known_for_department": "Editing",
+        "name": "Pablo G. del Amo",
+        "original_name": "Pablo G. del Amo",
+        "popularity": 0.0398,
+        "profile_path": "/tkygQV2ybve0GLCEefoxSJp7P9n.jpg",
+        "credit_id": "52fe43c6c3a36847f806eaf1",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 37836,
+        "known_for_department": "Camera",
+        "name": "Luis Cuadrado",
+        "original_name": "Luis Cuadrado",
+        "popularity": 0.1181,
+        "profile_path": "/hSaJ9EOwzylBQjUkhHmp8dLSc6F.jpg",
+        "credit_id": "52fe43c6c3a36847f806eab3",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 37835,
+        "known_for_department": "Sound",
+        "name": "Luis de Pablo",
+        "original_name": "Luis de Pablo",
+        "popularity": 0.11,
+        "profile_path": null,
+        "credit_id": "52fe43c6c3a36847f806eaad",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 117412,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Ramón de Diego",
+        "original_name": "Ramón de Diego",
+        "popularity": 0.1396,
+        "profile_path": null,
+        "credit_id": "60f594ac7b7b4d007354f202",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 25281,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Peris",
+        "original_name": "Peris",
+        "popularity": 0.0839,
+        "profile_path": null,
+        "credit_id": "60f5949f33a5330046e7a8de",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1970026,
+        "known_for_department": "Sound",
+        "name": "Jean-Michel Sire",
+        "original_name": "Jean-Michel Sire",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "60f5951d4c2592007e75070a",
+        "department": "Sound",
+        "job": "Sound Effects"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1544003,
+        "known_for_department": "Sound",
+        "name": "Luis Castro",
+        "original_name": "Luis Castro",
+        "popularity": 0.1235,
+        "profile_path": null,
+        "credit_id": "60f594bbb84cdd0045b2644c",
+        "department": "Sound",
+        "job": "Sound Effects"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 24976,
+        "known_for_department": "Acting",
+        "name": "Ana Torrent",
+        "original_name": "Ana Torrent",
+        "popularity": 0.5009,
+        "profile_path": "/ozgJiY7MswNsvmGkKtYt9qZJUuu.jpg",
+        "credit_id": "687bf20e90d9bd73978a451e",
+        "department": "Art",
+        "job": "Title Illustration"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 37840,
+        "known_for_department": "Acting",
+        "name": "Isabel Tellería",
+        "original_name": "Isabel Tellería",
+        "popularity": 0.0518,
+        "profile_path": null,
+        "credit_id": "687bf2261bc0fd1b57d9890c",
+        "department": "Art",
+        "job": "Title Illustration"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1740813,
+        "known_for_department": "Art",
+        "name": "Pablo Núñez",
+        "original_name": "Pablo Núñez",
+        "popularity": 0.0861,
+        "profile_path": "/uU5Kryy8TSXIyVJw56tbpT1zfVZ.jpg",
+        "credit_id": "6933f38a618942474224365c",
+        "department": "Visual Effects",
+        "job": "Visual Effects"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 37833,
+        "known_for_department": "Directing",
+        "name": "Víctor Erice",
+        "original_name": "Víctor Erice",
+        "popularity": 0.2696,
+        "profile_path": "/c1iNbHXNIN2qW0kRPCAaeMN4MnZ.jpg",
+        "credit_id": "695b8249e95e2f3bcd7c8731",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 31345,
+        "known_for_department": "Art",
+        "name": "Adolfo Cofiño",
+        "original_name": "Adolfo Cofiño",
+        "popularity": 0.0414,
+        "profile_path": null,
+        "credit_id": "695b8270b9d59305f2cbffd4",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1540388,
+        "known_for_department": "Production",
+        "name": "Primitivo Álvaro",
+        "original_name": "Primitivo Álvaro",
+        "popularity": 0.0851,
+        "profile_path": null,
+        "credit_id": "695b8290cfb9f33b757c87a5",
+        "department": "Production",
+        "job": "Unit Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2003154,
+        "known_for_department": "Directing",
+        "name": "José Luis Ruiz Marcos",
+        "original_name": "José Luis Ruiz Marcos",
+        "popularity": 0.0475,
+        "profile_path": null,
+        "credit_id": "695b82edb88d1e71144ae69d",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 37736,
+        "known_for_department": "Camera",
+        "name": "Teo Escamilla",
+        "original_name": "Teo Escamilla",
+        "popularity": 0.1558,
+        "profile_path": "/veGkvrzPDpz9ibadUAF7jWcN5nt.jpg",
+        "credit_id": "695b83016961dc7f6cd7a26a",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3480444,
+        "known_for_department": "Production",
+        "name": "Pedro Esteban Samu Adam",
+        "original_name": "Pedro Esteban Samu Adam",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "695b83181c9f0e5010c37507",
+        "department": "Production",
+        "job": "Key Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1460059,
+        "known_for_department": "Sound",
+        "name": "Luis Rodríguez",
+        "original_name": "Luis Rodríguez",
+        "popularity": 0.0382,
+        "profile_path": null,
+        "credit_id": "695b833a67730dfe967c849e",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1606174,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Ángel Luis de Diego",
+        "original_name": "Ángel Luis de Diego",
+        "popularity": 0.0526,
+        "profile_path": null,
+        "credit_id": "695b836c6ff6cb07287c867b",
+        "department": "Costume & Make-Up",
+        "job": "Assistant Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 413,
+        "known_for_department": "Editing",
+        "name": "José Salcedo",
+        "original_name": "José Salcedo",
+        "popularity": 0.0866,
+        "profile_path": "/tmBfYmBsvKHIQ9j8B3B5rOYzjQZ.jpg",
+        "credit_id": "695b837bc55614c75ecc994c",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1819743,
+        "known_for_department": "Camera",
+        "name": "Santiago Zuazo",
+        "original_name": "Santiago Zuazo",
+        "popularity": 0.0665,
+        "profile_path": null,
+        "credit_id": "695b838c80c3c0ef73cc9a04",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2436082,
+        "known_for_department": "Art",
+        "name": "Fernando Hermoso",
+        "original_name": "Fernando Hermoso",
+        "popularity": 0.0256,
+        "profile_path": null,
+        "credit_id": "695b839f59ff3c1c5f3befaa",
+        "department": "Art",
+        "job": "Property Master"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 37834,
+        "known_for_department": "Writing",
+        "name": "Francisco J. Querejeta",
+        "original_name": "Francisco J. Querejeta",
+        "popularity": 0.0338,
+        "profile_path": null,
+        "credit_id": "695b83d0f79bd0c6b6750c52",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1698511,
+        "known_for_department": "Camera",
+        "name": "Laureano López",
+        "original_name": "Laureano López",
+        "popularity": 0.0559,
+        "profile_path": null,
+        "credit_id": "695b83e04e361e972a4ade06",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2168706,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Angelines Castro",
+        "original_name": "Angelines Castro",
+        "popularity": 0.0663,
+        "profile_path": null,
+        "credit_id": "695b83efc30c9e664ecc9abb",
+        "department": "Costume & Make-Up",
+        "job": "Seamstress"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 104130,
+        "known_for_department": "Directing",
+        "name": "Paco Lucio",
+        "original_name": "Paco Lucio",
+        "popularity": 0.0816,
+        "profile_path": null,
+        "credit_id": "695b841808f7423875e437f8",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 37557,
+        "known_for_department": "Editing",
+        "name": "Juan Ignacio San Mateo",
+        "original_name": "Juan Ignacio San Mateo",
+        "popularity": 0.1287,
+        "profile_path": null,
+        "credit_id": "695b850f198abab033d7cc99",
+        "department": "Editing",
+        "job": "Additional Editing"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1544003,
+        "known_for_department": "Sound",
+        "name": "Luis Castro",
+        "original_name": "Luis Castro",
+        "popularity": 0.1235,
+        "profile_path": null,
+        "credit_id": "695b85275a6a0d3da8cbd45f",
+        "department": "Sound",
+        "job": "Foley"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2967568,
+        "known_for_department": "Camera",
+        "name": "José M. de Nicolás",
+        "original_name": "José M. de Nicolás",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "695b85401389b535ba7c86ea",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1740813,
+        "known_for_department": "Art",
+        "name": "Pablo Núñez",
+        "original_name": "Pablo Núñez",
+        "popularity": 0.0861,
+        "profile_path": "/uU5Kryy8TSXIyVJw56tbpT1zfVZ.jpg",
+        "credit_id": "695b8563336bf1077ed79228",
+        "department": "Art",
+        "job": "Title Designer"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "US",
+        "title": "The Spirit of the Beehive",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "ES",
+        "title": "El espíritu de la colmena",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "FI",
+        "title": "Mehiläispesän henki",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "TW",
+        "title": "蜂巢幽灵",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "FR",
+        "title": "L'Esprit de la ruche",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "KR",
+        "title": "벌집의 정령",
+        "type": ""
+      }
+    ]
+  }
+}

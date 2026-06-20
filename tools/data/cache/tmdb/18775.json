@@ -1,0 +1,894 @@
+{
+  "adult": false,
+  "backdrop_path": "/UJZePu7YMnmj4B6d7ilmXMI0c5.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ],
+  "homepage": "",
+  "id": 18775,
+  "imdb_id": "tt0075931",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Demon Seed",
+  "overview": "A scientist creates Proteus, an organic supercomputer with artificial intelligence which becomes obsessed with human beings, and in particular the creator's wife.",
+  "popularity": 2.147,
+  "poster_path": "/8rAbL1cI5TYB1RmXsPPHnLwnDsi.jpg",
+  "production_companies": [
+    {
+      "id": 21,
+      "logo_path": "/usUnaYV6hQnlVAXP6r4HwrlLFPG.png",
+      "name": "Metro-Goldwyn-Mayer",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1977-04-07",
+  "revenue": 0,
+  "runtime": 94,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Julie Christie carries the \"Demon Seed.\" Fear for her.",
+  "title": "Demon Seed",
+  "video": false,
+  "vote_average": 5.887,
+  "vote_count": 266,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1666,
+        "known_for_department": "Acting",
+        "name": "Julie Christie",
+        "original_name": "Julie Christie",
+        "popularity": 1.6713,
+        "profile_path": "/o4yCBrDoUGSFGG02A1yMBRE36SF.jpg",
+        "cast_id": 1,
+        "character": "Susan Harris",
+        "credit_id": "52fe47999251416c7509f285",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6839,
+        "known_for_department": "Acting",
+        "name": "Fritz Weaver",
+        "original_name": "Fritz Weaver",
+        "popularity": 0.9593,
+        "profile_path": "/gjudPIeWyMJaxDvkRgx0HoTf2zG.jpg",
+        "cast_id": 2,
+        "character": "Alex Harris",
+        "credit_id": "52fe47999251416c7509f289",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 26283,
+        "known_for_department": "Acting",
+        "name": "Gerrit Graham",
+        "original_name": "Gerrit Graham",
+        "popularity": 0.7951,
+        "profile_path": "/itz1a5P3RxCt8BySFbMxKCQ5yeZ.jpg",
+        "cast_id": 3,
+        "character": "Walter Gabler",
+        "credit_id": "52fe47999251416c7509f28d",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 85988,
+        "known_for_department": "Acting",
+        "name": "Berry Kroeger",
+        "original_name": "Berry Kroeger",
+        "popularity": 0.6556,
+        "profile_path": "/egarsq9nJe61ligHIhOsrCSnd9d.jpg",
+        "cast_id": 4,
+        "character": "Petrosian",
+        "credit_id": "52fe47999251416c7509f291",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 86633,
+        "known_for_department": "Acting",
+        "name": "Lisa Lu",
+        "original_name": "Lisa Lu",
+        "popularity": 1.1161,
+        "profile_path": "/8z1ZyQ8eRPpBU5wgSnmeajYPaXT.jpg",
+        "cast_id": 5,
+        "character": "Soong Yen",
+        "credit_id": "52fe47999251416c7509f295",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 82750,
+        "known_for_department": "Acting",
+        "name": "Larry J. Blake",
+        "original_name": "Larry J. Blake",
+        "popularity": 0.6034,
+        "profile_path": "/b4dfz0xLUHJJJEPmAmAI2jrzXBj.jpg",
+        "cast_id": 15,
+        "character": "Cameron",
+        "credit_id": "52fe47999251416c7509f2c9",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 53552,
+        "known_for_department": "Acting",
+        "name": "John O'Leary",
+        "original_name": "John O'Leary",
+        "popularity": 0.5776,
+        "profile_path": null,
+        "cast_id": 16,
+        "character": "Royce",
+        "credit_id": "52fe47999251416c7509f2cd",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 127536,
+        "known_for_department": "Acting",
+        "name": "Alfred Dennis",
+        "original_name": "Alfred Dennis",
+        "popularity": 0.4302,
+        "profile_path": "/m1pu0VnayenM9N6Beun0LS413X.jpg",
+        "cast_id": 17,
+        "character": "Mokri",
+        "credit_id": "52fe47999251416c7509f2d1",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 49939,
+        "known_for_department": "Acting",
+        "name": "Davis Roberts",
+        "original_name": "Davis Roberts",
+        "popularity": 0.4872,
+        "profile_path": "/xYCcqDUEEK8dygv21W36AI0FYDI.jpg",
+        "cast_id": 18,
+        "character": "Warner",
+        "credit_id": "52fe47999251416c7509f2d5",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 182726,
+        "known_for_department": "Acting",
+        "name": "Patricia Wilson",
+        "original_name": "Patricia Wilson",
+        "popularity": 0.2308,
+        "profile_path": "/24Miw8aWubOBV6obL1LPbt7qAJB.jpg",
+        "cast_id": 27,
+        "character": "Mrs. Talbert",
+        "credit_id": "5b0b275cc3a3684b2f010595",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2051480,
+        "known_for_department": "Acting",
+        "name": "Dana Laurita",
+        "original_name": "Dana Laurita",
+        "popularity": 0.1313,
+        "profile_path": null,
+        "cast_id": 28,
+        "character": "Amy",
+        "credit_id": "5b0b27709251411e0800c724",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 166120,
+        "known_for_department": "Acting",
+        "name": "Michelle Stacy",
+        "original_name": "Michelle Stacy",
+        "popularity": 0.7274,
+        "profile_path": "/9C46LewFGCokeMpl0dJhMNaaIsm.jpg",
+        "cast_id": 29,
+        "character": "Marlene",
+        "credit_id": "5b0b277b0e0a260e0f00ce07",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 33853,
+        "known_for_department": "Acting",
+        "name": "Felix Silla",
+        "original_name": "Felix Silla",
+        "popularity": 0.8732,
+        "profile_path": "/bfbGYUWNSNShe582wfKNBNEB313.jpg",
+        "cast_id": 30,
+        "character": "Baby",
+        "credit_id": "5b0b27829251411e9500cbcc",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4282469,
+        "known_for_department": "Acting",
+        "name": "Tiffany Potter",
+        "original_name": "Tiffany Potter",
+        "popularity": 0.0621,
+        "profile_path": null,
+        "cast_id": 33,
+        "character": "Baby",
+        "credit_id": "650bae5eb5bc2100c9ea3b7f",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1918545,
+        "known_for_department": "Acting",
+        "name": "E. Hampton Beagle",
+        "original_name": "E. Hampton Beagle",
+        "popularity": 0.0663,
+        "profile_path": null,
+        "cast_id": 34,
+        "character": "Night Operator",
+        "credit_id": "650bae8751a64e013d9ad8da",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4282472,
+        "known_for_department": "Acting",
+        "name": "Michael Glass",
+        "original_name": "Michael Glass",
+        "popularity": 0,
+        "profile_path": null,
+        "cast_id": 35,
+        "character": "Technician",
+        "credit_id": "650bae9af9253200c9496ff8",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1421260,
+        "known_for_department": "Acting",
+        "name": "Barbara O. Jones",
+        "original_name": "Barbara O. Jones",
+        "popularity": 0.2371,
+        "profile_path": "/AvtppBsnqfnsUBwJ2pVgvf7l0xa.jpg",
+        "cast_id": 36,
+        "character": "Technician",
+        "credit_id": "650baeab3d7454013879ce24",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4282473,
+        "known_for_department": "Acting",
+        "name": "Monica MacLean",
+        "original_name": "Monica MacLean",
+        "popularity": 0,
+        "profile_path": null,
+        "cast_id": 37,
+        "character": "Joan Kemp",
+        "credit_id": "650baec344ea5401001180a4",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 68382,
+        "known_for_department": "Acting",
+        "name": "Peter Elbling",
+        "original_name": "Peter Elbling",
+        "popularity": 0.3612,
+        "profile_path": "/6Jp1O7pq4nWDaiPr2hNk9LcvaJ.jpg",
+        "cast_id": 38,
+        "character": "Scientist",
+        "credit_id": "650baed4b5bc21010bd237c4",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4282475,
+        "known_for_department": "Acting",
+        "name": "Georgie Paul",
+        "original_name": "Georgie Paul",
+        "popularity": 0.0261,
+        "profile_path": null,
+        "cast_id": 39,
+        "character": "Housekeeper",
+        "credit_id": "650baee8d9403500e19d8475",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 14060,
+        "known_for_department": "Acting",
+        "name": "Robert Vaughn",
+        "original_name": "Robert Vaughn",
+        "popularity": 2.4964,
+        "profile_path": "/mYaQ9Qv2oC014lwMaXb76A5UL1n.jpg",
+        "cast_id": 40,
+        "character": "Proteus IV (voice) (uncredited)",
+        "credit_id": "650baf09f92532012cc8ca47",
+        "order": 20
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 95462,
+        "known_for_department": "Writing",
+        "name": "Donald Cammell",
+        "original_name": "Donald Cammell",
+        "popularity": 0.16,
+        "profile_path": "/xIaAVsujonfsstCsYMXu9KCgbRg.jpg",
+        "credit_id": "52fe47999251416c7509f29b",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2783,
+        "known_for_department": "Editing",
+        "name": "Frank Mazzola",
+        "original_name": "Frank Mazzola",
+        "popularity": 0.3983,
+        "profile_path": null,
+        "credit_id": "52fe47999251416c7509f2c5",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 7769,
+        "known_for_department": "Sound",
+        "name": "Jerry Fielding",
+        "original_name": "Jerry Fielding",
+        "popularity": 0.3498,
+        "profile_path": "/q1ZHlRwFcqEgl4AnkhXi9vIGB34.jpg",
+        "credit_id": "52fe47999251416c7509f2b9",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 29923,
+        "known_for_department": "Writing",
+        "name": "Dean R. Koontz",
+        "original_name": "Dean R. Koontz",
+        "popularity": 0.4384,
+        "profile_path": "/bZAZ4HOMeJemBkc1q4EZKGLU1ZU.jpg",
+        "credit_id": "52fe47999251416c7509f2a1",
+        "department": "Writing",
+        "job": "Novel"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 27240,
+        "known_for_department": "Production",
+        "name": "Herb Jaffe",
+        "original_name": "Herb Jaffe",
+        "popularity": 0.2199,
+        "profile_path": null,
+        "credit_id": "52fe47999251416c7509f2b3",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 118446,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Don L. Cash",
+        "original_name": "Don L. Cash",
+        "popularity": 0.1191,
+        "profile_path": null,
+        "credit_id": "650baf2b3d745400c4a13204",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 26985,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Lee Harman",
+        "original_name": "Lee Harman",
+        "popularity": 0.1995,
+        "profile_path": null,
+        "credit_id": "650baf3db5bc21014e90aca0",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1418825,
+        "known_for_department": "Sound",
+        "name": "William L. McCaughey",
+        "original_name": "William L. McCaughey",
+        "popularity": 0.1211,
+        "profile_path": null,
+        "credit_id": "650baf803d745400e1236915",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1116464,
+        "known_for_department": "Directing",
+        "name": "Jordan Belson",
+        "original_name": "Jordan Belson",
+        "popularity": 0.1641,
+        "profile_path": null,
+        "credit_id": "650bb00b51a64e011efc8b43",
+        "department": "Visual Effects",
+        "job": "Visual Effects"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2479504,
+        "known_for_department": "Directing",
+        "name": "Alan Brimfeld",
+        "original_name": "Alan Brimfeld",
+        "popularity": 0.153,
+        "profile_path": null,
+        "credit_id": "650baf514da3d400c9dc8f41",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 83067,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Dione Taylor",
+        "original_name": "Dione Taylor",
+        "popularity": 0.2643,
+        "profile_path": null,
+        "credit_id": "650baf45f9253200ade04d87",
+        "department": "Costume & Make-Up",
+        "job": "Hairdresser"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3162899,
+        "known_for_department": "Crew",
+        "name": "Terry W. King",
+        "original_name": "Terry W. King",
+        "popularity": 0.0382,
+        "profile_path": null,
+        "credit_id": "650bafaff9253200c94970b5",
+        "department": "Crew",
+        "job": "Special Effects"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4282488,
+        "known_for_department": "Visual Effects",
+        "name": "Domenic Iaia",
+        "original_name": "Domenic Iaia",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "650bb030f9253200c9497105",
+        "department": "Visual Effects",
+        "job": "Visual Effects"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 24313,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Frank Griffin",
+        "original_name": "Frank Griffin",
+        "popularity": 0.2974,
+        "profile_path": null,
+        "credit_id": "650baf33f92532014d2ac7f9",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4282486,
+        "known_for_department": "Visual Effects",
+        "name": "Richard L. Froman",
+        "original_name": "Richard L. Froman",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "credit_id": "650bb0142c6b7b00c4fdac5e",
+        "department": "Visual Effects",
+        "job": "Visual Effects"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2083199,
+        "known_for_department": "Crew",
+        "name": "Julie Ann Johnson",
+        "original_name": "Julie Ann Johnson",
+        "popularity": 0.1822,
+        "profile_path": "/ClQUd2EXAOva0QqoPGYsmsr403.jpg",
+        "credit_id": "650bafcfb5bc21014e90acdc",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3164540,
+        "known_for_department": "Visual Effects",
+        "name": "Bo Gehring",
+        "original_name": "Bo Gehring",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "650bb01d2c6b7b00ac6ed25e",
+        "department": "Visual Effects",
+        "job": "Visual Effects"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 8889,
+        "known_for_department": "Sound",
+        "name": "Jerry Jost",
+        "original_name": "Jerry Jost",
+        "popularity": 0.2333,
+        "profile_path": null,
+        "credit_id": "650baf7844ea5400c6319a19",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4282485,
+        "known_for_department": "Visual Effects",
+        "name": "Grant Bassett",
+        "original_name": "Grant Bassett",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "650bafffdd83fa011dab4e6f",
+        "department": "Visual Effects",
+        "job": "Visual Effects"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4282487,
+        "known_for_department": "Visual Effects",
+        "name": "Ron Hays",
+        "original_name": "Ron Hays",
+        "popularity": 0.0589,
+        "profile_path": null,
+        "credit_id": "650bb026d94035011b0a4f73",
+        "department": "Visual Effects",
+        "job": "Visual Effects"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 72559,
+        "known_for_department": "Production",
+        "name": "Edward Teets",
+        "original_name": "Edward Teets",
+        "popularity": 0.1274,
+        "profile_path": null,
+        "credit_id": "650baf5a44ea54013b7ed6c0",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4282483,
+        "known_for_department": "Crew",
+        "name": "Tom Fisher",
+        "original_name": "Tom Fisher",
+        "popularity": 0.0389,
+        "profile_path": null,
+        "credit_id": "650bafa82c6b7b00e1224a11",
+        "department": "Crew",
+        "job": "Special Effects"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3997318,
+        "known_for_department": "Crew",
+        "name": "Glen Robinson",
+        "original_name": "Glen Robinson",
+        "popularity": 0.072,
+        "profile_path": null,
+        "credit_id": "650bafbd44ea54013b7ed6ea",
+        "department": "Crew",
+        "job": "Special Effects"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3143492,
+        "known_for_department": "Crew",
+        "name": "James F. Liles",
+        "original_name": "James F. Liles",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "650bb0382c6b7b00ac6ed271",
+        "department": "Visual Effects",
+        "job": "Visual Effects"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1370948,
+        "known_for_department": "Sound",
+        "name": "John Riordan",
+        "original_name": "John Riordan",
+        "popularity": 0.0786,
+        "profile_path": null,
+        "credit_id": "650baf8a44ea54011d01a7e2",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2287,
+        "known_for_department": "Camera",
+        "name": "Bill Butler",
+        "original_name": "Bill Butler",
+        "popularity": 0.6104,
+        "profile_path": "/kiEZlHSzWCTrzpAjc4XjFFVBPkF.jpg",
+        "credit_id": "53807ba8c3a36805a1004d88",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 127535,
+        "known_for_department": "Writing",
+        "name": "Roger O. Hirson",
+        "original_name": "Roger O. Hirson",
+        "popularity": 0.1851,
+        "profile_path": null,
+        "credit_id": "56f986eb92514168d500171e",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 10009,
+        "known_for_department": "Art",
+        "name": "Edward C. Carfagno",
+        "original_name": "Edward C. Carfagno",
+        "popularity": 0.3366,
+        "profile_path": null,
+        "credit_id": "56f9872a9251414c32003ae2",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 8426,
+        "known_for_department": "Production",
+        "name": "Jennifer Shull",
+        "original_name": "Jennifer Shull",
+        "popularity": 0.2312,
+        "profile_path": null,
+        "credit_id": "56f98718c3a36816e800a7bd",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1027800,
+        "known_for_department": "Art",
+        "name": "Barbara Krieger",
+        "original_name": "Barbara Krieger",
+        "popularity": 0.1055,
+        "profile_path": null,
+        "credit_id": "56f98736c3a3686a5e00bd28",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 56961,
+        "known_for_department": "Writing",
+        "name": "Robert Jaffe",
+        "original_name": "Robert Jaffe",
+        "popularity": 0.2605,
+        "profile_path": "/unKePtceIPD7ql31GqU9JtWryIu.jpg",
+        "credit_id": "56f986dcc3a3686a5900acb9",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2093,
+        "known_for_department": "Production",
+        "name": "Steven-Charles Jaffe",
+        "original_name": "Steven-Charles Jaffe",
+        "popularity": 0.1752,
+        "profile_path": "/vdm8yKZgeO524l34C31zKu26Pfs.jpg",
+        "credit_id": "56f98704c3a3686a6100a9e5",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2185345,
+        "known_for_department": "Crew",
+        "name": "Regina Gruss",
+        "original_name": "Regina Gruss",
+        "popularity": 0.1368,
+        "profile_path": null,
+        "credit_id": "5bffdcf5c3a3686370062479",
+        "department": "Production",
+        "job": "Publicist"
+      },
+      {
+        "adult": true,
+        "gender": 2,
+        "id": 1339965,
+        "known_for_department": "Visual Effects",
+        "name": "Ron Hays",
+        "original_name": "Ron Hays",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "5fadb5121d3143003e9a740f",
+        "department": "Visual Effects",
+        "job": "Visual Effects"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "IT",
+        "title": "Generazione Proteus",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "FR",
+        "title": "Génération Proteus",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "US",
+        "title": "Proteus Generation",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "AR",
+        "title": "La generación de Proteo",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "BR",
+        "title": "Geração Proteus",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "DK",
+        "title": "Djævelens sæd",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "ES",
+        "title": "Engendro mecánico",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "GR",
+        "title": "I epanastasi ton robot",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "HU",
+        "title": "A komputer gyermeke",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "MX",
+        "title": "La generación de Proteo",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "NO",
+        "title": "I datamaskinens makt",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "PL",
+        "title": "Diabelskie nasienie",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "PT",
+        "title": "A semente do demónio",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "SE",
+        "title": "Datademonen",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "SI",
+        "title": "Demonsko seme",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "RU",
+        "title": "Потомство демона",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "PL",
+        "title": "Pokolenie Demona",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "JP",
+        "title": "デモン・シード",
+        "type": ""
+      }
+    ]
+  }
+}

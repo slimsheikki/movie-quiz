@@ -1,0 +1,552 @@
+{
+  "adult": false,
+  "backdrop_path": "/udEbtrxgQmP5rBtcWQRjQaWpL4w.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 103689,
+  "imdb_id": "tt1754367",
+  "origin_country": [
+    "MX"
+  ],
+  "original_language": "es",
+  "original_title": "Post Tenebras Lux",
+  "overview": "Juan and his urban family live in the Mexican countryside, where they enjoy and suffer a world apart. And nobody knows if these two worlds are complimentary or if they strive to eliminate one another.",
+  "popularity": 0.4515,
+  "poster_path": "/isyc1Hk0L3neLoeWhP7Zktj7ftD.jpg",
+  "production_companies": [
+    {
+      "id": 864,
+      "logo_path": null,
+      "name": "No Dream Cinema",
+      "origin_country": "MX"
+    },
+    {
+      "id": 863,
+      "logo_path": null,
+      "name": "Mantarraya Producciones",
+      "origin_country": "MX"
+    },
+    {
+      "id": 22623,
+      "logo_path": null,
+      "name": "Ticoman",
+      "origin_country": "MX"
+    },
+    {
+      "id": 5125,
+      "logo_path": "/t3oWTsVukmEzrZzvfr37XRBibo5.png",
+      "name": "Le Pacte",
+      "origin_country": "FR"
+    },
+    {
+      "id": 94,
+      "logo_path": "/huC7HqorvUThGIrENrbcHmQVUA0.png",
+      "name": "ARTE France Cinéma",
+      "origin_country": "FR"
+    },
+    {
+      "id": 9980,
+      "logo_path": "/tvtK88MhdxjOZN3zSeyrkP8iWd1.png",
+      "name": "Fondo para la Producción Cinematográfica de Calidad",
+      "origin_country": "MX"
+    },
+    {
+      "id": 7306,
+      "logo_path": "/iqCkzLmACmrws2tHO2USRLkJqXY.png",
+      "name": "The Match Factory",
+      "origin_country": "DE"
+    },
+    {
+      "id": 24845,
+      "logo_path": "/tc9Q8e1Rn68ySgVqQDyVXTPzY08.png",
+      "name": "Topkapi Films",
+      "origin_country": "NL"
+    },
+    {
+      "id": 230377,
+      "logo_path": null,
+      "name": "Servicios Andrómeda Films",
+      "origin_country": "MX"
+    },
+    {
+      "id": 299,
+      "logo_path": "/elssmtHcogGtF8Gxokh9phZvLKi.png",
+      "name": "Instituto Mexicano de Cinematografía",
+      "origin_country": "MX"
+    },
+    {
+      "id": 4508,
+      "logo_path": "/sUq2S2ndKxp1B2NjbMJbSNlPI8V.png",
+      "name": "Nederlands Fonds voor de Film",
+      "origin_country": "NL"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    },
+    {
+      "iso_3166_1": "MX",
+      "name": "Mexico"
+    },
+    {
+      "iso_3166_1": "NL",
+      "name": "Netherlands"
+    }
+  ],
+  "release_date": "2012-11-22",
+  "revenue": 276580,
+  "runtime": 115,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Light after darkness",
+  "title": "Post Tenebras Lux",
+  "video": false,
+  "vote_average": 6.1,
+  "vote_count": 134,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1034604,
+        "known_for_department": "Acting",
+        "name": "Adolfo Jimenez Castro",
+        "original_name": "Adolfo Jimenez Castro",
+        "popularity": 0.0327,
+        "profile_path": "/9OMBLw8BCXHr1YXcf8qLU7zHJBs.jpg",
+        "cast_id": 4,
+        "character": "Juan",
+        "credit_id": "52fe4a24c3a36847f81bc4db",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1375242,
+        "known_for_department": "Acting",
+        "name": "Nathalia Acevedo",
+        "original_name": "Nathalia Acevedo",
+        "popularity": 0.1091,
+        "profile_path": "/sslAtosvuwkpWHmWGZjjrcJQWHV.jpg",
+        "cast_id": 10,
+        "character": "Natalia",
+        "credit_id": "592ee571c3a368613500eef5",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1034606,
+        "known_for_department": "Acting",
+        "name": "Willebaldo Torres",
+        "original_name": "Willebaldo Torres",
+        "popularity": 0.0357,
+        "profile_path": null,
+        "cast_id": 6,
+        "character": "Siete",
+        "credit_id": "52fe4a24c3a36847f81bc4e3",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1034607,
+        "known_for_department": "Acting",
+        "name": "Rut Reygadas",
+        "original_name": "Rut Reygadas",
+        "popularity": 0.0465,
+        "profile_path": null,
+        "cast_id": 7,
+        "character": "Rut",
+        "credit_id": "52fe4a24c3a36847f81bc4e7",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1034609,
+        "known_for_department": "Acting",
+        "name": "Eleazar Reygadas",
+        "original_name": "Eleazar Reygadas",
+        "popularity": 0.0602,
+        "profile_path": null,
+        "cast_id": 8,
+        "character": "Eleazar",
+        "credit_id": "52fe4a24c3a36847f81bc4eb",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2438640,
+        "known_for_department": "Acting",
+        "name": "Suemi Valderrama",
+        "original_name": "Suemi Valderrama",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 22,
+        "character": "Samantha",
+        "credit_id": "5daf5a4bb5bc2100187338ba",
+        "order": 5
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 20660,
+        "known_for_department": "Directing",
+        "name": "Carlos Reygadas",
+        "original_name": "Carlos Reygadas",
+        "popularity": 0.1914,
+        "profile_path": "/gpNZi1L95uaabAZG4Kftjl7dD7A.jpg",
+        "credit_id": "52fe4a24c3a36847f81bc4f1",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 20660,
+        "known_for_department": "Directing",
+        "name": "Carlos Reygadas",
+        "original_name": "Carlos Reygadas",
+        "popularity": 0.1914,
+        "profile_path": "/gpNZi1L95uaabAZG4Kftjl7dD7A.jpg",
+        "credit_id": "52fe4a24c3a36847f81bc4cb",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 27715,
+        "known_for_department": "Production",
+        "name": "Jean Labadie",
+        "original_name": "Jean Labadie",
+        "popularity": 0.0769,
+        "profile_path": "/fYl6B8h9SHRuQNXi8ayGi9aWaYG.jpg",
+        "credit_id": "52fe4a24c3a36847f81bc4d1",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1724210,
+        "known_for_department": "Visual Effects",
+        "name": "Juanma Nogales",
+        "original_name": "Juanma Nogales",
+        "popularity": 0.0646,
+        "profile_path": "/b1IsqL6o0tnPHqGInuhsX60hYJv.jpg",
+        "credit_id": "60f5ad334c25921a35a8fa7f",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2922313,
+        "known_for_department": "Sound",
+        "name": "Sergio Díaz",
+        "original_name": "Sergio Díaz",
+        "popularity": 0.0493,
+        "profile_path": "/q4Fekm29Ggo808tLscNOelZYpOG.jpg",
+        "credit_id": "60f5ad07f90b1900746d0084",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3163757,
+        "known_for_department": "Visual Effects",
+        "name": "Rodrigo Echevarría",
+        "original_name": "Rodrigo Echevarría",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "60f5ad194c25921a80e1d8c6",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1277673,
+        "known_for_department": "Sound",
+        "name": "Jaime Baksht",
+        "original_name": "Jaime Baksht",
+        "popularity": 0.1806,
+        "profile_path": null,
+        "credit_id": "60f5accb5545ca0044bcb487",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 20716,
+        "known_for_department": "Art",
+        "name": "Nohemi Gonzalez",
+        "original_name": "Nohemi Gonzalez",
+        "popularity": 0.1333,
+        "profile_path": null,
+        "credit_id": "60f5ac86e72fe80046d84081",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3163758,
+        "known_for_department": "Visual Effects",
+        "name": "Salvador Juarez",
+        "original_name": "Salvador Juarez",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "60f5ad258258fc002d8ecba8",
+        "department": "Visual Effects",
+        "job": "Visual Effects Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1724208,
+        "known_for_department": "Visual Effects",
+        "name": "Ana Rubio",
+        "original_name": "Ana Rubio",
+        "popularity": 0.065,
+        "profile_path": "/3lyZRMk2BfHxbDFmGHyIublIBU5.jpg",
+        "credit_id": "60f5ad42c439c000465a3d34",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3163755,
+        "known_for_department": "Art",
+        "name": "Hector Iruegas",
+        "original_name": "Hector Iruegas",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "60f5acbcf90b19005dd24258",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3163756,
+        "known_for_department": "Sound",
+        "name": "Gilles Laurent",
+        "original_name": "Gilles Laurent",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "60f5acf6209f18005cd92045",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 20715,
+        "known_for_department": "Camera",
+        "name": "Alexis Zabé",
+        "original_name": "Alexis Zabé",
+        "popularity": 0.0571,
+        "profile_path": "/xrZBvEo8sME4TOO2xAkM1SHygiF.jpg",
+        "credit_id": "660b3e53e039f1017ce55581",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1827463,
+        "known_for_department": "Directing",
+        "name": "Daniel Graham",
+        "original_name": "Daniel Graham",
+        "popularity": 0.1066,
+        "profile_path": null,
+        "credit_id": "5931b7f9c3a3684fb000132f",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1827467,
+        "known_for_department": "Art",
+        "name": "Gerardo Tagle",
+        "original_name": "Gerardo Tagle",
+        "popularity": 0.0505,
+        "profile_path": null,
+        "credit_id": "5931b8fdc3a3684f010015e8",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 20716,
+        "known_for_department": "Art",
+        "name": "Nohemi Gonzalez",
+        "original_name": "Nohemi Gonzalez",
+        "popularity": 0.1333,
+        "profile_path": null,
+        "credit_id": "5931b90e92514110dc0014ba",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 32463,
+        "known_for_department": "Production",
+        "name": "Rémi Burah",
+        "original_name": "Rémi Burah",
+        "popularity": 0.1307,
+        "profile_path": null,
+        "credit_id": "5931b7d092514110ab00137e",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 228521,
+        "known_for_department": "Production",
+        "name": "Arnold Heslenfeld",
+        "original_name": "Arnold Heslenfeld",
+        "popularity": 0.1641,
+        "profile_path": null,
+        "credit_id": "5931b82a92514110dc001430",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2335,
+        "known_for_department": "Production",
+        "name": "Michael Weber",
+        "original_name": "Michael Weber",
+        "popularity": 0.188,
+        "profile_path": "/2m7qZvkzj7eb56U72TM9IxFrYd2.jpg",
+        "credit_id": "5931b8ae92514110c6001461",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1827464,
+        "known_for_department": "Production",
+        "name": "Fiorella Moretti",
+        "original_name": "Fiorella Moretti",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "5931b85792514110dc00144a",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 43709,
+        "known_for_department": "Production",
+        "name": "Frans van Gestel",
+        "original_name": "Frans van Gestel",
+        "popularity": 0.1119,
+        "profile_path": "/eGJsstfj5DaNW3iWUOYBEyEB4Hu.jpg",
+        "credit_id": "5931b882c3a3684f0100158a",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 20660,
+        "known_for_department": "Directing",
+        "name": "Carlos Reygadas",
+        "original_name": "Carlos Reygadas",
+        "popularity": 0.1914,
+        "profile_path": "/gpNZi1L95uaabAZG4Kftjl7dD7A.jpg",
+        "credit_id": "5931b86992514110bd0012b4",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 50559,
+        "known_for_department": "Directing",
+        "name": "Natalia López",
+        "original_name": "Natalia López",
+        "popularity": 0.274,
+        "profile_path": "/u9EGiHKG1g0KCUBMhJgy75Fo2KA.jpg",
+        "credit_id": "5931b8d092514110b600148f",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 20714,
+        "known_for_department": "Production",
+        "name": "Jaime Romandia",
+        "original_name": "Jaime Romandía",
+        "popularity": 0.0662,
+        "profile_path": null,
+        "credit_id": "6640916047791f5df516cf7a",
+        "department": "Production",
+        "job": "Producer"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "US",
+        "title": "Light After Darkness",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "KR",
+        "title": "어둠 뒤에 빛이 있으라",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "MX",
+        "title": "Después de las tinieblas la luz",
+        "type": "Alternative title/translated title"
+      },
+      {
+        "iso_3166_1": "ES",
+        "title": "La luz después de la oscuridad",
+        "type": ""
+      }
+    ]
+  }
+}

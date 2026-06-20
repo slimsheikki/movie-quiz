@@ -1,0 +1,385 @@
+{
+  "adult": false,
+  "backdrop_path": "/10fwnbvtPHEslBnsiXMISDkdPFF.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 7736,
+  "imdb_id": "tt0064536",
+  "origin_country": [
+    "DE"
+  ],
+  "original_language": "de",
+  "original_title": "Katzelmacher",
+  "overview": "A group of young slackers spend most of their time hanging out in front of a Munich apartment building. When a Greek immigrant named Jorgos moves in, however, their aimless lives are shaken up. Soon, new tensions arise both within the group and with Jorgos.",
+  "popularity": 0.6996,
+  "poster_path": "/r3DoaIqMng1rhjen5gN3iiHB2fA.jpg",
+  "production_companies": [
+    {
+      "id": 2277,
+      "logo_path": null,
+      "name": "Antiteater-X-Film",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "release_date": "1969-11-22",
+  "revenue": 0,
+  "runtime": 90,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Katzelmacher",
+  "video": false,
+  "vote_average": 6.445,
+  "vote_count": 55,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3734,
+        "known_for_department": "Acting",
+        "name": "Hanna Schygulla",
+        "original_name": "Hanna Schygulla",
+        "popularity": 0.7924,
+        "profile_path": "/hAZVxNCVzYBq3ToWzE01LXK6Oum.jpg",
+        "cast_id": 4,
+        "character": "Marie",
+        "credit_id": "52fe4484c3a36847f809ab45",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2725,
+        "known_for_department": "Directing",
+        "name": "Rainer Werner Fassbinder",
+        "original_name": "Rainer Werner Fassbinder",
+        "popularity": 1.013,
+        "profile_path": "/uZFSBv6Q4ZSwZr8wfLobBCiiC14.jpg",
+        "cast_id": 5,
+        "character": "Jorgos",
+        "credit_id": "52fe4484c3a36847f809ab49",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 48187,
+        "known_for_department": "Acting",
+        "name": "Hans Hirschmüller",
+        "original_name": "Hans Hirschmüller",
+        "popularity": 0.2265,
+        "profile_path": "/3YP2QWcAOlXZhLY8wfkLLFY8Hve.jpg",
+        "cast_id": 6,
+        "character": "Erich",
+        "credit_id": "52fe4484c3a36847f809ab4d",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 53418,
+        "known_for_department": "Acting",
+        "name": "Lilith Ungerer",
+        "original_name": "Lilith Ungerer",
+        "popularity": 0.1788,
+        "profile_path": "/xVecPY6Xp5rj7G3WtZ5NLV7syhq.jpg",
+        "cast_id": 7,
+        "character": "Helga",
+        "credit_id": "52fe4484c3a36847f809ab51",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 37108,
+        "known_for_department": "Acting",
+        "name": "Rudolf Waldemar Brem",
+        "original_name": "Rudolf Waldemar Brem",
+        "popularity": 0.2974,
+        "profile_path": "/mAv9u3jHrGhHvaTEN4pNbxHimqm.jpg",
+        "cast_id": 8,
+        "character": "Paul",
+        "credit_id": "52fe4484c3a36847f809ab55",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 53419,
+        "known_for_department": "Acting",
+        "name": "Elga Sorbas",
+        "original_name": "Elga Sorbas",
+        "popularity": 0.1273,
+        "profile_path": "/mfLBm2Q15GoVER1gnfTEt0l6iWk.jpg",
+        "cast_id": 9,
+        "character": "Rosy",
+        "credit_id": "52fe4484c3a36847f809ab59",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 23668,
+        "known_for_department": "Acting",
+        "name": "Harry Baer",
+        "original_name": "Harry Baer",
+        "popularity": 0.4276,
+        "profile_path": "/vTuAZ6bZyi7BUs9G1cZLbQR0s7U.jpg",
+        "cast_id": 10,
+        "character": "Franz",
+        "credit_id": "52fe4484c3a36847f809ab5d",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2729,
+        "known_for_department": "Acting",
+        "name": "Irm Hermann",
+        "original_name": "Irm Hermann",
+        "popularity": 0.4895,
+        "profile_path": "/4NzeDGGAqq0Aw8QpqTuOAu7DkeN.jpg",
+        "cast_id": 11,
+        "character": "Elisabeth",
+        "credit_id": "52fe4484c3a36847f809ab61",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 53420,
+        "known_for_department": "Acting",
+        "name": "Peter Moland",
+        "original_name": "Peter Moland",
+        "popularity": 0.1773,
+        "profile_path": null,
+        "cast_id": 12,
+        "character": "Peter",
+        "credit_id": "52fe4484c3a36847f809ab65",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2733,
+        "known_for_department": "Acting",
+        "name": "Doris Mattes",
+        "original_name": "Doris Mattes",
+        "popularity": 0.1417,
+        "profile_path": "/iR8BaWABNQqgkxXPljBmTVY2wZ8.jpg",
+        "cast_id": 14,
+        "character": "Gunda",
+        "credit_id": "52fe4484c3a36847f809ab69",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 26330,
+        "known_for_department": "Acting",
+        "name": "Katrin Schaake",
+        "original_name": "Katrin Schaake",
+        "popularity": 0.3432,
+        "profile_path": "/soh4FzVHmnYSQnGjeID9QXAxrjq.jpg",
+        "cast_id": 15,
+        "character": "Frau mit Cabrio",
+        "credit_id": "52fe4484c3a36847f809ab6d",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1809789,
+        "known_for_department": "Acting",
+        "name": "Hannes Gromball",
+        "original_name": "Hannes Gromball",
+        "popularity": 0.0982,
+        "profile_path": null,
+        "cast_id": 24,
+        "character": "Klaus",
+        "credit_id": "65c6f1b6d7107e00e7ef19a3",
+        "order": 11
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2725,
+        "known_for_department": "Directing",
+        "name": "Rainer Werner Fassbinder",
+        "original_name": "Rainer Werner Fassbinder",
+        "popularity": 1.013,
+        "profile_path": "/uZFSBv6Q4ZSwZr8wfLobBCiiC14.jpg",
+        "credit_id": "52fe4484c3a36847f809ab35",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2725,
+        "known_for_department": "Directing",
+        "name": "Rainer Werner Fassbinder",
+        "original_name": "Rainer Werner Fassbinder",
+        "popularity": 1.013,
+        "profile_path": "/uZFSBv6Q4ZSwZr8wfLobBCiiC14.jpg",
+        "credit_id": "52fe4484c3a36847f809ab3b",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2725,
+        "known_for_department": "Directing",
+        "name": "Rainer Werner Fassbinder",
+        "original_name": "Rainer Werner Fassbinder",
+        "popularity": 1.013,
+        "profile_path": "/uZFSBv6Q4ZSwZr8wfLobBCiiC14.jpg",
+        "credit_id": "52fe4484c3a36847f809ab41",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2725,
+        "known_for_department": "Directing",
+        "name": "Rainer Werner Fassbinder",
+        "original_name": "Rainer Werner Fassbinder",
+        "popularity": 1.013,
+        "profile_path": "/uZFSBv6Q4ZSwZr8wfLobBCiiC14.jpg",
+        "credit_id": "52fe4484c3a36847f809ab73",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3767,
+        "known_for_department": "Sound",
+        "name": "Peer Raben",
+        "original_name": "Peer Raben",
+        "popularity": 0.2397,
+        "profile_path": "/c00b1PFJ39wD4YYwSLwzy4LJOtH.jpg",
+        "credit_id": "52fe4484c3a36847f809ab79",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2725,
+        "known_for_department": "Directing",
+        "name": "Rainer Werner Fassbinder",
+        "original_name": "Rainer Werner Fassbinder",
+        "popularity": 1.013,
+        "profile_path": "/uZFSBv6Q4ZSwZr8wfLobBCiiC14.jpg",
+        "credit_id": "52fe4484c3a36847f809ab7f",
+        "department": "Writing",
+        "job": "Theatre Play"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3767,
+        "known_for_department": "Sound",
+        "name": "Peer Raben",
+        "original_name": "Peer Raben",
+        "popularity": 0.2397,
+        "profile_path": "/c00b1PFJ39wD4YYwSLwzy4LJOtH.jpg",
+        "credit_id": "5660ab6f925141790a004662",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 10616,
+        "known_for_department": "Camera",
+        "name": "Dietrich Lohmann",
+        "original_name": "Dietrich Lohmann",
+        "popularity": 0.286,
+        "profile_path": null,
+        "credit_id": "5660abaec3a36875e4004212",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 9935,
+        "known_for_department": "Production",
+        "name": "Michael Fengler",
+        "original_name": "Michael Fengler",
+        "popularity": 0.2017,
+        "profile_path": "/zMgq5GqolC0eIIeVYRGu83rnSVE.jpg",
+        "credit_id": "5660abb99251417913004718",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1358881,
+        "known_for_department": "Camera",
+        "name": "Herbert Paetzold",
+        "original_name": "Herbert Paetzold",
+        "popularity": 0.1,
+        "profile_path": null,
+        "credit_id": "65ce5ba0b046050183db52e8",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1103709,
+        "known_for_department": "Sound",
+        "name": "Gottfried Hüngsberg",
+        "original_name": "Gottfried Hüngsberg",
+        "popularity": 0.0912,
+        "profile_path": null,
+        "credit_id": "5d5329d5d8e2255aee2f08c7",
+        "department": "Sound",
+        "job": "Sound Designer"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "FR",
+        "title": "Le Bouc",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "UA",
+        "title": "Заводчик",
+        "type": ""
+      }
+    ]
+  }
+}

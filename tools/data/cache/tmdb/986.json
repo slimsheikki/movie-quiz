@@ -1,0 +1,755 @@
+{
+  "adult": false,
+  "backdrop_path": "/83aNchGigrkj6uDiknje6OwY6sl.jpg",
+  "belongs_to_collection": null,
+  "budget": 800000,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    },
+    {
+      "id": 10752,
+      "name": "War"
+    }
+  ],
+  "homepage": "http://www.janusfilms.com/chimes/",
+  "id": 986,
+  "imdb_id": "tt0059012",
+  "origin_country": [
+    "FR",
+    "ES",
+    "CH"
+  ],
+  "original_language": "en",
+  "original_title": "Campanadas a medianoche",
+  "overview": "Henry IV usurps the English throne, sets in motion the factious War of the Roses and now faces a rebellion led by Northumberland scion Hotspur. Henry's heir, Prince Hal, is a ne'er-do-well carouser who drinks and causes mischief with his low-class friends, especially his rotund father figure, John Falstaff. To redeem his title, Hal may have to choose between allegiance to his real father and loyalty to his friend.",
+  "popularity": 2.1427,
+  "poster_path": "/5Fjxyz3u2Zdco4WeuC3wQ6O5tYQ.jpg",
+  "production_companies": [
+    {
+      "id": 627,
+      "logo_path": null,
+      "name": "Internacional Films Espagnol",
+      "origin_country": ""
+    },
+    {
+      "id": 628,
+      "logo_path": null,
+      "name": "Alpine Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 629,
+      "logo_path": null,
+      "name": "Peppercorn-Wormser Inc",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "ES",
+      "name": "Spain"
+    },
+    {
+      "iso_3166_1": "CH",
+      "name": "Switzerland"
+    },
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "1965-12-22",
+  "revenue": 0,
+  "runtime": 115,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    },
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Released",
+  "tagline": "A Distinguished Company Breathes Life Into Shakespeare’s Lusty Age of FALSTAFF",
+  "title": "Chimes at Midnight",
+  "video": false,
+  "vote_average": 7.2,
+  "vote_count": 243,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 40,
+        "known_for_department": "Directing",
+        "name": "Orson Welles",
+        "original_name": "Orson Welles",
+        "popularity": 1.734,
+        "profile_path": "/e9lGmqQq3EsHeUQgQLByo275hcc.jpg",
+        "cast_id": 14,
+        "character": "Falstaff",
+        "credit_id": "52fe4296c3a36847f802a691",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 14819,
+        "known_for_department": "Acting",
+        "name": "Keith Baxter",
+        "original_name": "Keith Baxter",
+        "popularity": 0.1894,
+        "profile_path": "/ozze4gvX1KHMqv5rqFxX8h2HFsC.jpg",
+        "cast_id": 24,
+        "character": "Prince Hal",
+        "credit_id": "52fe4296c3a36847f802a6b9",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 11857,
+        "known_for_department": "Acting",
+        "name": "John Gielgud",
+        "original_name": "John Gielgud",
+        "popularity": 1.2171,
+        "profile_path": "/rSyG2ypOnMVOuGtDJMYt5VV1bMr.jpg",
+        "cast_id": 17,
+        "character": "Henry IV",
+        "credit_id": "52fe4296c3a36847f802a69d",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 14812,
+        "known_for_department": "Acting",
+        "name": "Jeanne Moreau",
+        "original_name": "Jeanne Moreau",
+        "popularity": 1.1569,
+        "profile_path": "/lsIlRbcStJev5n1mypIeUUYKWuy.jpg",
+        "cast_id": 15,
+        "character": "Doll Tearsheet",
+        "credit_id": "52fe4296c3a36847f802a695",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 11127,
+        "known_for_department": "Acting",
+        "name": "Margaret Rutherford",
+        "original_name": "Margaret Rutherford",
+        "popularity": 0.5403,
+        "profile_path": "/zZM981QxW0bkNxBvYRGECLUDpVu.jpg",
+        "cast_id": 16,
+        "character": "Mistress Quickly",
+        "credit_id": "52fe4296c3a36847f802a699",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 14813,
+        "known_for_department": "Acting",
+        "name": "Marina Vlady",
+        "original_name": "Marina Vlady",
+        "popularity": 1.0765,
+        "profile_path": "/zb6pWsjtLsr5BHRlkKAVpu28ShW.jpg",
+        "cast_id": 18,
+        "character": "Kate Percy",
+        "credit_id": "52fe4296c3a36847f802a6a1",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 14814,
+        "known_for_department": "Acting",
+        "name": "Walter Chiari",
+        "original_name": "Walter Chiari",
+        "popularity": 0.5351,
+        "profile_path": "/aRxI3J9SxBefqXkgcSay5XaU9G5.jpg",
+        "cast_id": 19,
+        "character": "Mr. Silence",
+        "credit_id": "52fe4296c3a36847f802a6a5",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 14815,
+        "known_for_department": "Acting",
+        "name": "Michael Aldridge",
+        "original_name": "Michael Aldridge",
+        "popularity": 0.5499,
+        "profile_path": "/2qd9sF9MKhrNXDlwoHGWYn7i3gr.jpg",
+        "cast_id": 20,
+        "character": "Pistol",
+        "credit_id": "52fe4296c3a36847f802a6a9",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 14816,
+        "known_for_department": "Acting",
+        "name": "Tony Beckley",
+        "original_name": "Tony Beckley",
+        "popularity": 0.5626,
+        "profile_path": "/zLeTD8i1gSzCx2bHqfGm8L794SB.jpg",
+        "cast_id": 21,
+        "character": "Ned Poins",
+        "credit_id": "52fe4296c3a36847f802a6ad",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 14817,
+        "known_for_department": "Acting",
+        "name": "Jeremy Rowe",
+        "original_name": "Jeremy Rowe",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "cast_id": 22,
+        "character": "Prince John",
+        "credit_id": "52fe4296c3a36847f802a6b1",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 14818,
+        "known_for_department": "Acting",
+        "name": "Norman Rodway",
+        "original_name": "Norman Rodway",
+        "popularity": 0.4603,
+        "profile_path": "/91ICCwFg4Q8kF4ALdWkUz3FY8AV.jpg",
+        "cast_id": 23,
+        "character": "Henry 'Hotspur' Percy",
+        "credit_id": "52fe4296c3a36847f802a6b5",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 14820,
+        "known_for_department": "Acting",
+        "name": "Alan Webb",
+        "original_name": "Alan Webb",
+        "popularity": 0.4719,
+        "profile_path": "/pHSXwlgnXV5Lh9Cbs1pUlDDt2if.jpg",
+        "cast_id": 25,
+        "character": "Justice Shallow",
+        "credit_id": "52fe4296c3a36847f802a6bd",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 14821,
+        "known_for_department": "Acting",
+        "name": "Fernando Rey",
+        "original_name": "Fernando Rey",
+        "popularity": 1.0783,
+        "profile_path": "/wBm61E3RVGaD6XShiPgBu5tEKn0.jpg",
+        "cast_id": 26,
+        "character": "Worcester",
+        "credit_id": "52fe4296c3a36847f802a6c1",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 14822,
+        "known_for_department": "Acting",
+        "name": "José Nieto",
+        "original_name": "José Nieto",
+        "popularity": 0.4379,
+        "profile_path": "/pJl21sDDdPMitmdVuYhKrX9m8C9.jpg",
+        "cast_id": 27,
+        "character": "Northumberland",
+        "credit_id": "52fe4296c3a36847f802a6c5",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 14823,
+        "known_for_department": "Acting",
+        "name": "Andrew Faulds",
+        "original_name": "Andrew Faulds",
+        "popularity": 0.3955,
+        "profile_path": "/kQdTOUeLDxivFcmhJXJ6hv43f3k.jpg",
+        "cast_id": 28,
+        "character": "Westmoreland",
+        "credit_id": "52fe4296c3a36847f802a6c9",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1650599,
+        "known_for_department": "Acting",
+        "name": "Luis de Tejada",
+        "original_name": "Luis de Tejada",
+        "popularity": 0.1833,
+        "profile_path": null,
+        "cast_id": 30,
+        "character": "",
+        "credit_id": "578940aa9251413f6a0006ed",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 153112,
+        "known_for_department": "Acting",
+        "name": "Patrick Bedford",
+        "original_name": "Patrick Bedford",
+        "popularity": 0.1362,
+        "profile_path": "/m88KmFhm27HCeoDctxc6HirxX9G.jpg",
+        "cast_id": 31,
+        "character": "Bardolph (as Paddy Bedford)",
+        "credit_id": "57cd9584c3a3680a1700065f",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 12689,
+        "known_for_department": "Acting",
+        "name": "Ralph Richardson",
+        "original_name": "Ralph Richardson",
+        "popularity": 0.8802,
+        "profile_path": "/rPGUnz38kKtFfYmmEqVAjqZPA10.jpg",
+        "cast_id": 32,
+        "character": "Narrator (voice)",
+        "credit_id": "57cd9599c3a3680a56000683",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 83739,
+        "known_for_department": "Acting",
+        "name": "Ingrid Pitt",
+        "original_name": "Ingrid Pitt",
+        "popularity": 0.625,
+        "profile_path": "/ebACAZrdo5e0H78hWpje4Lkpwea.jpg",
+        "cast_id": 33,
+        "character": "(uncredited)",
+        "credit_id": "57cd95a5925141752d000660",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1817340,
+        "known_for_department": "Acting",
+        "name": "Beatrice Welles",
+        "original_name": "Beatrice Welles",
+        "popularity": 0.0439,
+        "profile_path": "/gMQPYwtHQo07xjbfKdPtGJm2IRB.jpg",
+        "cast_id": 35,
+        "character": "Falstaff's Page",
+        "credit_id": "5e4c480e2866fa00129c75e9",
+        "order": 19
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 14804,
+        "known_for_department": "Production",
+        "name": "Ángel Escolano",
+        "original_name": "Ángel Escolano",
+        "popularity": 0.0789,
+        "profile_path": null,
+        "credit_id": "52fe4296c3a36847f802a65d",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 14808,
+        "known_for_department": "Camera",
+        "name": "Edmond Richard",
+        "original_name": "Edmond Richard",
+        "popularity": 0.1329,
+        "profile_path": "/cxjUdJeoPtcH0nyTE0v0SA0Uh7u.jpg",
+        "credit_id": "52fe4296c3a36847f802a67b",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 40,
+        "known_for_department": "Directing",
+        "name": "Orson Welles",
+        "original_name": "Orson Welles",
+        "popularity": 1.734,
+        "profile_path": "/e9lGmqQq3EsHeUQgQLByo275hcc.jpg",
+        "credit_id": "52fe4296c3a36847f802a645",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 14810,
+        "known_for_department": "Art",
+        "name": "José Antonio de la Guerra",
+        "original_name": "José Antonio de la Guerra",
+        "popularity": 0.0748,
+        "profile_path": null,
+        "credit_id": "52fe4296c3a36847f802a687",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 40,
+        "known_for_department": "Directing",
+        "name": "Orson Welles",
+        "original_name": "Orson Welles",
+        "popularity": 1.734,
+        "profile_path": "/e9lGmqQq3EsHeUQgQLByo275hcc.jpg",
+        "credit_id": "52fe4296c3a36847f802a64b",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6210,
+        "known_for_department": "Writing",
+        "name": "William Shakespeare",
+        "original_name": "William Shakespeare",
+        "popularity": 0.9768,
+        "profile_path": "/60ZqefTZIgfGtklgihIjXmi4ClH.jpg",
+        "credit_id": "52fe4296c3a36847f802a651",
+        "department": "Writing",
+        "job": "Theatre Play"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 14805,
+        "known_for_department": "Production",
+        "name": "Emiliano Piedra",
+        "original_name": "Emiliano Piedra",
+        "popularity": 0.1081,
+        "profile_path": null,
+        "credit_id": "52fe4296c3a36847f802a663",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 14806,
+        "known_for_department": "Production",
+        "name": "Alessandro Tasca",
+        "original_name": "Alessandro Tasca",
+        "popularity": 0.092,
+        "profile_path": null,
+        "credit_id": "52fe4296c3a36847f802a66f",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 14803,
+        "known_for_department": "Writing",
+        "name": "Raphael Holinshed",
+        "original_name": "Raphael Holinshed",
+        "popularity": 0.0563,
+        "profile_path": null,
+        "credit_id": "52fe4296c3a36847f802a657",
+        "department": "Writing",
+        "job": "Novel"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 9863,
+        "known_for_department": "Production",
+        "name": "Harry Saltzman",
+        "original_name": "Harry Saltzman",
+        "popularity": 0.1553,
+        "profile_path": "/z4GxGVtKaoyMc48VXEcpxk8oRAk.jpg",
+        "credit_id": "52fe4296c3a36847f802a669",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 14809,
+        "known_for_department": "Editing",
+        "name": "Elena Jaumandreu",
+        "original_name": "Elena Jaumandreu",
+        "popularity": 0.0338,
+        "profile_path": null,
+        "credit_id": "52fe4296c3a36847f802a681",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 14807,
+        "known_for_department": "Sound",
+        "name": "Angelo Francesco Lavagnino",
+        "original_name": "Angelo Francesco Lavagnino",
+        "popularity": 0.0905,
+        "profile_path": "/uzS1Ny79a2sbIR7d3R9WnFhhbfU.jpg",
+        "credit_id": "52fe4296c3a36847f802a675",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 14811,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Francisco Puyol",
+        "original_name": "Francisco Puyol",
+        "popularity": 0.0836,
+        "profile_path": null,
+        "credit_id": "52fe4296c3a36847f802a68d",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": true,
+        "gender": 2,
+        "id": 30956,
+        "known_for_department": "Directing",
+        "name": "Jesús Franco",
+        "original_name": "Jesús Franco",
+        "popularity": 0,
+        "profile_path": "/sVhaKFvmqD80EbWLTu7sGMbGDt0.jpg",
+        "credit_id": "64ede7cc06f98400eb61772d",
+        "department": "Directing",
+        "job": "Second Unit Director"
+      },
+      {
+        "adult": true,
+        "gender": 2,
+        "id": 30956,
+        "known_for_department": "Directing",
+        "name": "Jesús Franco",
+        "original_name": "Jesús Franco",
+        "popularity": 0,
+        "profile_path": "/sVhaKFvmqD80EbWLTu7sGMbGDt0.jpg",
+        "credit_id": "5564c065c3a36851cf0050ab",
+        "department": "Crew",
+        "job": "Second Unit"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 37499,
+        "known_for_department": "Production",
+        "name": "Gustavo Quintana",
+        "original_name": "Gustavo Quintana",
+        "popularity": 0.0832,
+        "profile_path": null,
+        "credit_id": "649c25e177c01f00ae8f58d0",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 14136,
+        "known_for_department": "Production",
+        "name": "Frederick Muller",
+        "original_name": "Frederick Muller",
+        "popularity": 0.171,
+        "profile_path": null,
+        "credit_id": "649c25c9963864010041642f",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1366052,
+        "known_for_department": "Sound",
+        "name": "Carlo Franci",
+        "original_name": "Carlo Franci",
+        "popularity": 0.0536,
+        "profile_path": null,
+        "credit_id": "649c26d8c3926601060b4f0d",
+        "department": "Sound",
+        "job": "Conductor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 98746,
+        "known_for_department": "Camera",
+        "name": "Alejandro Ulloa",
+        "original_name": "Alejandro Ulloa",
+        "popularity": 0.1577,
+        "profile_path": null,
+        "credit_id": "649c266b963864013a32d93b",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4135450,
+        "known_for_department": "Directing",
+        "name": "Tony Fuentes",
+        "original_name": "Tony Fuentes",
+        "popularity": 0.0362,
+        "profile_path": null,
+        "credit_id": "649c261877c01f012dc4c4bf",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1759423,
+        "known_for_department": "Camera",
+        "name": "Adolphe Charlet",
+        "original_name": "Adolphe Charlet",
+        "popularity": 0.0729,
+        "profile_path": null,
+        "credit_id": "649c2659b1f68d013be78d8b",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1188117,
+        "known_for_department": "Editing",
+        "name": "Peter Parasheles",
+        "original_name": "Peter Parasheles",
+        "popularity": 0.1592,
+        "profile_path": null,
+        "credit_id": "649c26c5b1f68d013be78de2",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 14810,
+        "known_for_department": "Art",
+        "name": "José Antonio de la Guerra",
+        "original_name": "José Antonio de la Guerra",
+        "popularity": 0.0748,
+        "profile_path": null,
+        "credit_id": "649c263bc392660125bfa7d5",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 40,
+        "known_for_department": "Directing",
+        "name": "Orson Welles",
+        "original_name": "Orson Welles",
+        "popularity": 1.734,
+        "profile_path": "/e9lGmqQq3EsHeUQgQLByo275hcc.jpg",
+        "credit_id": "5fc5803fd35dea003ec4ae0a",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "ES",
+        "title": "Campanadas a medianoche",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "GB",
+        "title": "Falstaff - Chimes at Midnight",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "PT",
+        "title": "As Badaladas da Meia-Noite",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "AR",
+        "title": "Falstaff - Campanadas de medianoche",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "BR",
+        "title": "Falstaff - O Toque da Meia Noite",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "GR",
+        "title": "Falstaff - Oi kabanes tou mesonyktiou",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "GR",
+        "title": "Oi kabanes tou mesonyktiou",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "GR",
+        "title": "Φάλσταφ",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "KR",
+        "title": "한밤의 차임벨",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "KR",
+        "title": "심야의 종소리",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "BR",
+        "title": "Falstaff, o Toque da Meia Noite",
+        "type": ""
+      }
+    ]
+  }
+}

@@ -1,0 +1,417 @@
+{
+  "adult": false,
+  "backdrop_path": "/aKlObNiMgEzwljUiVox7wZHVDnQ.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "https://www.screenireland.ie/directory/view/8932/rose-plays-julie",
+  "id": 589820,
+  "imdb_id": "tt8917170",
+  "origin_country": [
+    "IE"
+  ],
+  "original_language": "en",
+  "original_title": "Rose Plays Julie",
+  "overview": "A story of a young woman searching for her biological mother. Set against a backdrop of misogyny, revenge, and longing, Rose undertakes a journey that leads her to revelations that are both devastating and dangerous.",
+  "popularity": 0.5606,
+  "poster_path": "/sUCZFHWi4l8weOLUKt2yHnylhAM.jpg",
+  "production_companies": [
+    {
+      "id": 80998,
+      "logo_path": null,
+      "name": "Desperate Optimists Productions",
+      "origin_country": "IE"
+    },
+    {
+      "id": 11571,
+      "logo_path": "/n9qAZ1tqsVq1OW29dL0waFW4pV8.png",
+      "name": "Samson Films",
+      "origin_country": "IE"
+    },
+    {
+      "id": 148894,
+      "logo_path": "/5an0hahm40POymfNsytcxyqr6lG.png",
+      "name": "Splice Post",
+      "origin_country": "GB"
+    },
+    {
+      "id": 1898,
+      "logo_path": "/8ix6SGlJiyuUDxLBtY8E0PY2G7w.png",
+      "name": "Fís Éireann/Screen Ireland",
+      "origin_country": "IE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IE",
+      "name": "Ireland"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "2021-03-19",
+  "revenue": 0,
+  "runtime": 100,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Rose Plays Julie",
+  "video": false,
+  "vote_average": 5.814,
+  "vote_count": 43,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1429007,
+        "known_for_department": "Acting",
+        "name": "Ann Skelly",
+        "original_name": "Ann Skelly",
+        "popularity": 0.8489,
+        "profile_path": "/3GGcZVnhdAeJskoKZJg44CAIy6X.jpg",
+        "cast_id": 5,
+        "character": "Rose",
+        "credit_id": "5c93d047c3a36861a5e441d5",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 107734,
+        "known_for_department": "Acting",
+        "name": "Orla Brady",
+        "original_name": "Orla Brady",
+        "popularity": 1.4757,
+        "profile_path": "/wjo8xposTE0HenFopy6KELCWoD0.jpg",
+        "cast_id": 6,
+        "character": "Ellen",
+        "credit_id": "5c93d0549251412b6078e4ea",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 49735,
+        "known_for_department": "Acting",
+        "name": "Aidan Gillen",
+        "original_name": "Aidan Gillen",
+        "popularity": 4.2273,
+        "profile_path": "/fWWRgyJEGjOPcx43CaFiUCWMBLo.jpg",
+        "cast_id": 7,
+        "character": "Peter",
+        "credit_id": "5c93d0659251412b5878e50d",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1563626,
+        "known_for_department": "Acting",
+        "name": "Annabell Rickerby",
+        "original_name": "Annabell Rickerby",
+        "popularity": 0.1555,
+        "profile_path": null,
+        "cast_id": 8,
+        "character": "Molly",
+        "credit_id": "5c93d0970e0a261048e91b62",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 232941,
+        "known_for_department": "Acting",
+        "name": "Catherine Walker",
+        "original_name": "Catherine Walker",
+        "popularity": 0.5345,
+        "profile_path": "/sWPaelbeMW1Z7ZGnXCsaRpJevW6.jpg",
+        "cast_id": 9,
+        "character": "Teresa",
+        "credit_id": "5c93d0ac9251412b4e78e04e",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 211621,
+        "known_for_department": "Acting",
+        "name": "Joanne Crawford",
+        "original_name": "Joanne Crawford",
+        "popularity": 0.6603,
+        "profile_path": "/qTbAW8kwFIM21d8Z4smemubqo3z.jpg",
+        "cast_id": 10,
+        "character": "Valerie",
+        "credit_id": "5c93d0bc0e0a261042e915e0",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1792952,
+        "known_for_department": "Acting",
+        "name": "Alan Howley",
+        "original_name": "Alan Howley",
+        "popularity": 0.0895,
+        "profile_path": "/9JHPHXuCycmA4u6hlWmN5rf0Lhj.jpg",
+        "cast_id": 11,
+        "character": "Dr Langan",
+        "credit_id": "5c93d0dc0e0a261045e916cb",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2270402,
+        "known_for_department": "Acting",
+        "name": "Sadie Soverall",
+        "original_name": "Sadie Soverall",
+        "popularity": 1.9059,
+        "profile_path": "/42Px418cE5HMWhio5qBRk4K8XHO.jpg",
+        "cast_id": 12,
+        "character": "Eva",
+        "credit_id": "5c93d0f79251412b6478d35f",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1467585,
+        "known_for_department": "Acting",
+        "name": "Lochlann Ó Mearáin",
+        "original_name": "Lochlann Ó Mearáin",
+        "popularity": 0.4832,
+        "profile_path": "/g4ZaAlhmjuB3ix3URKkSDB4OhdP.jpg",
+        "cast_id": 13,
+        "character": "Farmhand",
+        "credit_id": "5c93d1169251412b4e78e1a6",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2385575,
+        "known_for_department": "Acting",
+        "name": "Jack McEvoy",
+        "original_name": "Jack McEvoy",
+        "popularity": 0.2374,
+        "profile_path": "/pmE0tQiPxQT5yI6DZlnnjd8m8nB.jpg",
+        "cast_id": 15,
+        "character": "Young Man",
+        "credit_id": "5e90bc1cfdc1460011486e11",
+        "order": 9
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 143865,
+        "known_for_department": "Camera",
+        "name": "Tom Comerford",
+        "original_name": "Tom Comerford",
+        "popularity": 0.1596,
+        "profile_path": null,
+        "credit_id": "62f4d87e880c92007f189092",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 937431,
+        "known_for_department": "Directing",
+        "name": "Christine Molloy",
+        "original_name": "Christine Molloy",
+        "popularity": 0.0863,
+        "profile_path": "/8T7qzvyS3KdDj8P3XBtsT1tHKQn.jpg",
+        "credit_id": "5c93cfa29251412b5178e393",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 937431,
+        "known_for_department": "Directing",
+        "name": "Christine Molloy",
+        "original_name": "Christine Molloy",
+        "popularity": 0.0863,
+        "profile_path": "/8T7qzvyS3KdDj8P3XBtsT1tHKQn.jpg",
+        "credit_id": "5c93d001c3a3685899e42b89",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 937430,
+        "known_for_department": "Directing",
+        "name": "Joe Lawlor",
+        "original_name": "Joe Lawlor",
+        "popularity": 0.1115,
+        "profile_path": "/m33z5Dn1Lyy1d9JbZjdrQ5PrdUT.jpg",
+        "credit_id": "5c93cf960e0a261045e911d1",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 937430,
+        "known_for_department": "Directing",
+        "name": "Joe Lawlor",
+        "original_name": "Joe Lawlor",
+        "popularity": 0.1115,
+        "profile_path": "/m33z5Dn1Lyy1d9JbZjdrQ5PrdUT.jpg",
+        "credit_id": "5c93cfae0e0a261053e93aea",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 40817,
+        "known_for_department": "Sound",
+        "name": "Adam Daniel",
+        "original_name": "Adam Daniel",
+        "popularity": 0.2242,
+        "profile_path": null,
+        "credit_id": "5e35d47e98f1f1001403a88d",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1972536,
+        "known_for_department": "Art",
+        "name": "Emma Lowney",
+        "original_name": "Emma Lowney",
+        "popularity": 0.0993,
+        "profile_path": null,
+        "credit_id": "5f40d542c175b2003663c5e8",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2412573,
+        "known_for_department": "Production",
+        "name": "David Collins",
+        "original_name": "David Collins",
+        "popularity": 0.0505,
+        "profile_path": null,
+        "credit_id": "5f40d486028f1400335b8a1e",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1761155,
+        "known_for_department": "Editing",
+        "name": "Duncan Western",
+        "original_name": "Duncan Western",
+        "popularity": 0.053,
+        "profile_path": null,
+        "credit_id": "5f40d4c047721500335d2f03",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 937431,
+        "known_for_department": "Directing",
+        "name": "Christine Molloy",
+        "original_name": "Christine Molloy",
+        "popularity": 0.0863,
+        "profile_path": "/8T7qzvyS3KdDj8P3XBtsT1tHKQn.jpg",
+        "credit_id": "5f40d4393bd26e00368103e7",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 937430,
+        "known_for_department": "Directing",
+        "name": "Joe Lawlor",
+        "original_name": "Joe Lawlor",
+        "popularity": 0.1115,
+        "profile_path": "/m33z5Dn1Lyy1d9JbZjdrQ5PrdUT.jpg",
+        "credit_id": "5f40d446028f1400325eb661",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 937431,
+        "known_for_department": "Directing",
+        "name": "Christine Molloy",
+        "original_name": "Christine Molloy",
+        "popularity": 0.0863,
+        "profile_path": "/8T7qzvyS3KdDj8P3XBtsT1tHKQn.jpg",
+        "credit_id": "5f40d44e19ab590035238e0a",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 63357,
+        "known_for_department": "Sound",
+        "name": "Stephen McKeon",
+        "original_name": "Stephen McKeon",
+        "popularity": 0.244,
+        "profile_path": "/brRqLMgIQdYfl9PlXUfgysZ45Pa.jpg",
+        "credit_id": "5f40d50519ab590035238eba",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1469158,
+        "known_for_department": "Art",
+        "name": "Mark Kelly",
+        "original_name": "Mark Kelly",
+        "popularity": 0.1054,
+        "profile_path": null,
+        "credit_id": "5f40d55b47721500335d3002",
+        "department": "Art",
+        "job": "Art Direction"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "FR",
+        "title": "Faces cachées",
+        "type": ""
+      }
+    ]
+  }
+}

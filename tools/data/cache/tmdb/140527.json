@@ -1,0 +1,293 @@
+{
+  "adult": false,
+  "backdrop_path": "/hvrPh1FkTb89WJMMTxtZFOC4kL.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10402,
+      "name": "Music"
+    },
+    {
+      "id": 10770,
+      "name": "TV Movie"
+    },
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "",
+  "id": 140527,
+  "imdb_id": "tt0109909",
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "Glitterbug",
+  "overview": "A collage of Derek Jarman's super 8 footage spanning over 20 years.",
+  "popularity": 0.226,
+  "poster_path": "/pdPcdHxUhj5Mga1hbBJOVkPTJQ2.jpg",
+  "production_companies": [
+    {
+      "id": 78057,
+      "logo_path": null,
+      "name": "Dangerous To Know",
+      "origin_country": "GB"
+    },
+    {
+      "id": 27903,
+      "logo_path": null,
+      "name": "Basilisk Communications",
+      "origin_country": "GB"
+    },
+    {
+      "id": 3324,
+      "logo_path": "/dqT3yOTlfJRmtvk52Ccd1O6dZ0A.png",
+      "name": "BBC",
+      "origin_country": "GB"
+    },
+    {
+      "id": 78058,
+      "logo_path": null,
+      "name": "Opal Records",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "1994-03-05",
+  "revenue": 0,
+  "runtime": 55,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Glitterbug",
+  "video": false,
+  "vote_average": 6,
+  "vote_count": 14,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6471,
+        "known_for_department": "Writing",
+        "name": "William S. Burroughs",
+        "original_name": "William S. Burroughs",
+        "popularity": 0.5047,
+        "profile_path": "/wLNshQmdpMMVcSY1tKglZgfLNrQ.jpg",
+        "cast_id": 10,
+        "character": "Self",
+        "credit_id": "52fe4a939251416c750e6cab",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 86290,
+        "known_for_department": "Directing",
+        "name": "Derek Jarman",
+        "original_name": "Derek Jarman",
+        "popularity": 0.4298,
+        "profile_path": "/vozzl6a3kqNJhWo7AheLMp81xVn.jpg",
+        "cast_id": 6,
+        "character": "Self",
+        "credit_id": "52fe4a939251416c750e6c9b",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3063,
+        "known_for_department": "Acting",
+        "name": "Tilda Swinton",
+        "original_name": "Tilda Swinton",
+        "popularity": 3.4215,
+        "profile_path": "/dzjT4LKgs7eOma84GsPy78DsGNH.jpg",
+        "cast_id": 7,
+        "character": "Self",
+        "credit_id": "52fe4a939251416c750e6c9f",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 3,
+        "id": 550261,
+        "known_for_department": "Acting",
+        "name": "Genesis P-Orridge",
+        "original_name": "Genesis P-Orridge",
+        "popularity": 0.2339,
+        "profile_path": "/1vKDBXiZ5PURSVhSzMXMaHVgHuL.jpg",
+        "cast_id": 8,
+        "character": "Self",
+        "credit_id": "52fe4a939251416c750e6ca3",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 40898,
+        "known_for_department": "Acting",
+        "name": "Michael Clark",
+        "original_name": "Michael Clark",
+        "popularity": 0.1297,
+        "profile_path": null,
+        "cast_id": 11,
+        "character": "Self",
+        "credit_id": "56f512dd9251412eb4000324",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 126534,
+        "known_for_department": "Acting",
+        "name": "Toyah Willcox",
+        "original_name": "Toyah Willcox",
+        "popularity": 0.4979,
+        "profile_path": "/wdLr9QLbXebAxYkZSuYwv4nrVUn.jpg",
+        "cast_id": 16,
+        "character": "Self",
+        "credit_id": "575e86a9925141703f0013eb",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 45042,
+        "known_for_department": "Acting",
+        "name": "Adam Ant",
+        "original_name": "Adam Ant",
+        "popularity": 0.4477,
+        "profile_path": "/fdyag8RwDIROpbWCREXCFG68uHq.jpg",
+        "cast_id": 17,
+        "character": "Self",
+        "credit_id": "575e86c492514130a800098b",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1634955,
+        "known_for_department": "Acting",
+        "name": "Duggie Fields",
+        "original_name": "Duggie Fields",
+        "popularity": 0.1029,
+        "profile_path": null,
+        "cast_id": 18,
+        "character": "Self",
+        "credit_id": "575e86c7c3a3681f9f000d3e",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1359506,
+        "known_for_department": "Acting",
+        "name": "Andrew Logan",
+        "original_name": "Andrew Logan",
+        "popularity": 0.105,
+        "profile_path": null,
+        "cast_id": 19,
+        "character": "Self",
+        "credit_id": "575e86ca925141703a001355",
+        "order": 8
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1112873,
+        "known_for_department": "Editing",
+        "name": "Andy Crabb",
+        "original_name": "Andy Crabb",
+        "popularity": 0.0964,
+        "profile_path": null,
+        "credit_id": "52fe4a939251416c750e6c97",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 86290,
+        "known_for_department": "Directing",
+        "name": "Derek Jarman",
+        "original_name": "Derek Jarman",
+        "popularity": 0.4298,
+        "profile_path": "/vozzl6a3kqNJhWo7AheLMp81xVn.jpg",
+        "credit_id": "52fe4a939251416c750e6c91",
+        "department": "Crew",
+        "job": "Cinematography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 86290,
+        "known_for_department": "Directing",
+        "name": "Derek Jarman",
+        "original_name": "Derek Jarman",
+        "popularity": 0.4298,
+        "profile_path": "/vozzl6a3kqNJhWo7AheLMp81xVn.jpg",
+        "credit_id": "52fe4a939251416c750e6c7f",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 37317,
+        "known_for_department": "Sound",
+        "name": "Brian Eno",
+        "original_name": "Brian Eno",
+        "popularity": 0.2711,
+        "profile_path": "/ewVL60UWZxKyT0FpCh8lfowkkhL.jpg",
+        "credit_id": "52fe4a939251416c750e6c8b",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1605817,
+        "known_for_department": "Production",
+        "name": "James Mackay",
+        "original_name": "James Mackay",
+        "popularity": 0.0641,
+        "profile_path": "/nLE7UEttR9cYinJqda8S1o7M9lL.jpg",
+        "credit_id": "570fd4aa9251416d95000853",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": true,
+        "gender": 0,
+        "id": 1343895,
+        "known_for_department": "Directing",
+        "name": "David Lewis",
+        "original_name": "David Lewis",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "6480023dd2b20900ca1ca33b",
+        "department": "Directing",
+        "job": "Assistant Director"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  }
+}

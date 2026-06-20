@@ -1,0 +1,608 @@
+{
+  "adult": false,
+  "backdrop_path": "/gHG1OogmvDJldyi1tjqncjoblKV.jpg",
+  "belongs_to_collection": null,
+  "budget": 2300000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "",
+  "id": 37557,
+  "imdb_id": "tt0115012",
+  "origin_country": [
+    "CN"
+  ],
+  "original_language": "zh",
+  "original_title": "摇啊摇，摇到外婆桥",
+  "overview": "Shanghai, China, 1930. When young Shuisheng arrives from the countryside, his uncle Liushu puts him at the service of Bijou, the mistress of Laoda, supreme boss of the Tang Triad, constantly threatened by his enemies, both those he knows and those lurking in the shadows.",
+  "popularity": 1.5289,
+  "poster_path": "/tzG1UxUSfPACREjgBrsPDRUvneH.jpg",
+  "production_companies": [
+    {
+      "id": 4507,
+      "logo_path": null,
+      "name": "Alpha Films",
+      "origin_country": ""
+    },
+    {
+      "id": 16366,
+      "logo_path": "/llLC13cdNDmJbq0E0PG8fraWsLp.png",
+      "name": "La Sept Cinéma",
+      "origin_country": "FR"
+    },
+    {
+      "id": 581,
+      "logo_path": "/pzJLNyKypqwAgLR4OjmaxA5WEjm.png",
+      "name": "UGC",
+      "origin_country": "FR"
+    },
+    {
+      "id": 111276,
+      "logo_path": null,
+      "name": "Shanghai Film Studios",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CN",
+      "name": "China"
+    },
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "1995-09-14",
+  "revenue": 0,
+  "runtime": 108,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "普通话"
+    }
+  ],
+  "status": "Released",
+  "tagline": "In 1930, Shanghai violence was not the problem. It was the solution.",
+  "title": "Shanghai Triad",
+  "video": false,
+  "vote_average": 6.759,
+  "vote_count": 112,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 643,
+        "known_for_department": "Acting",
+        "name": "Gong Li",
+        "original_name": "巩俐",
+        "popularity": 2.6154,
+        "profile_path": "/m3q1rIEdZmOnUVC0MSo1FcIGvp9.jpg",
+        "cast_id": 2,
+        "character": "Bijou / Xiao Jinbao",
+        "credit_id": "52fe46559251416c910511c3",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 146097,
+        "known_for_department": "Acting",
+        "name": "Li Baotian",
+        "original_name": "Li Baotian",
+        "popularity": 0.4507,
+        "profile_path": "/6keF5EjALw5G9KuUYJKRFS71mO4.jpg",
+        "cast_id": 9,
+        "character": "Boss Tang Laoda",
+        "credit_id": "52fe46559251416c910511d9",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 150152,
+        "known_for_department": "Acting",
+        "name": "Sun Chun",
+        "original_name": "孫淳",
+        "popularity": 0.726,
+        "profile_path": "/3a9s6XlvOjWmGAzcdqcfXAakFBe.jpg",
+        "cast_id": 12,
+        "character": "Song Laoer",
+        "credit_id": "52fe46559251416c910511e5",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 143358,
+        "known_for_department": "Acting",
+        "name": "Li Xuejian",
+        "original_name": "李雪健",
+        "popularity": 1.4134,
+        "profile_path": "/22QFJKWJPNj3O3A6PdRKJc0qeKK.jpg",
+        "cast_id": 11,
+        "character": "Uncle Liushu",
+        "credit_id": "52fe46559251416c910511e1",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2163711,
+        "known_for_department": "Acting",
+        "name": "Liu Jiang",
+        "original_name": "Liu Jiang",
+        "popularity": 0.3867,
+        "profile_path": "/dgCEfMPd3wEi5B9PqskVGQP3CLW.jpg",
+        "cast_id": 32,
+        "character": "Fat Yu",
+        "credit_id": "5d6b5fab549dda7e327e0d69",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 150153,
+        "known_for_department": "Acting",
+        "name": "Fu Biao",
+        "original_name": "Fu Biao",
+        "popularity": 0.6834,
+        "profile_path": "/p9sGTllbgzRQuZ8soogp81jRCNL.jpg",
+        "cast_id": 13,
+        "character": "Laosan",
+        "credit_id": "52fe46559251416c910511e9",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1362557,
+        "known_for_department": "Acting",
+        "name": "Chen Shu",
+        "original_name": "Chen Shu",
+        "popularity": 0.2176,
+        "profile_path": "/sNW7cLiG5WOXqs3mMLsPbEMr9Iv.jpg",
+        "cast_id": 26,
+        "character": "Shiye",
+        "credit_id": "5b320e489251413cb500a8d0",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 150151,
+        "known_for_department": "Acting",
+        "name": "Wang Xiaoxiao",
+        "original_name": "Wang Xiaoxiao",
+        "popularity": 0.0795,
+        "profile_path": null,
+        "cast_id": 10,
+        "character": "Shuisheng",
+        "credit_id": "52fe46559251416c910511dd",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2400837,
+        "known_for_department": "Acting",
+        "name": "Jiang Baoying",
+        "original_name": "Jiang Baoying",
+        "popularity": 0.2096,
+        "profile_path": "/7E1BmMzaCqKRiXdLuiaH8i5rA8N.jpg",
+        "cast_id": 31,
+        "character": "Cuihua",
+        "credit_id": "5d6b5dda65686e3e7987dd53",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 998500,
+        "known_for_department": "Acting",
+        "name": "Ngai Tsang-Siu",
+        "original_name": "倪增兆",
+        "popularity": 0.0561,
+        "profile_path": null,
+        "cast_id": 45,
+        "character": "",
+        "credit_id": "6695b0ddbf067e0df004b215",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1428370,
+        "known_for_department": "Acting",
+        "name": "Yang Qianqian",
+        "original_name": "Yang Qianqian",
+        "popularity": 0.0239,
+        "profile_path": null,
+        "cast_id": 47,
+        "character": "A Jiao",
+        "credit_id": "69eadea2ab25fda2266b0d1b",
+        "order": 10
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 607,
+        "known_for_department": "Directing",
+        "name": "Zhang Yimou",
+        "original_name": "张艺谋",
+        "popularity": 1.7257,
+        "profile_path": "/uU5vECl94jDQYjiRk4eOpVRMEi9.jpg",
+        "credit_id": "52fe46559251416c910511c9",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 146104,
+        "known_for_department": "Writing",
+        "name": "Li Xiao",
+        "original_name": "李晓",
+        "popularity": 0.2658,
+        "profile_path": null,
+        "credit_id": "52fe46559251416c910511d5",
+        "department": "Writing",
+        "job": "Novel"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 72204,
+        "known_for_department": "Camera",
+        "name": "Lü Yue",
+        "original_name": "吕乐",
+        "popularity": 0.6224,
+        "profile_path": "/qeBsS9YrdrFxQZ6y2DndLuN563c.jpg",
+        "credit_id": "58961384c3a368089f00ccd6",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4884295,
+        "known_for_department": "Production",
+        "name": "Wang Wei",
+        "original_name": "王薇",
+        "popularity": 0.1654,
+        "profile_path": null,
+        "credit_id": "661ed472d18fb90164ca50a5",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 54288,
+        "known_for_department": "Production",
+        "name": "Yves Marmion",
+        "original_name": "Yves Marmion",
+        "popularity": 0.1309,
+        "profile_path": "/lU8tawOoMN6ouguAQky4t1d3Sly.jpg",
+        "credit_id": "5adcfec90e0a26144502740c",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 20474,
+        "known_for_department": "Production",
+        "name": "Jean-Louis Piel",
+        "original_name": "Jean-Louis Piel",
+        "popularity": 0.0502,
+        "profile_path": "/3k9YyHUam9ijpsiyK96DuzcdWZb.jpg",
+        "credit_id": "5adcfed30e0a26143c02966f",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1175637,
+        "known_for_department": "Directing",
+        "name": "Wu Yigong",
+        "original_name": "Wu Yigong",
+        "popularity": 0.1805,
+        "profile_path": "/kOPDsSVqPpd8fOESYZg18fCxPhv.jpg",
+        "credit_id": "5adcfedd0e0a26143c02967a",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 64997,
+        "known_for_department": "Editing",
+        "name": "Du Yuan",
+        "original_name": "杜媛",
+        "popularity": 0.3848,
+        "profile_path": null,
+        "credit_id": "5adcfef5c3a36862ef02b9e3",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 551534,
+        "known_for_department": "Art",
+        "name": "Cao Juiping",
+        "original_name": "Cao Juiping",
+        "popularity": 0.1796,
+        "profile_path": null,
+        "credit_id": "5adcff0d0e0a2614390297e6",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2028035,
+        "known_for_department": "Art",
+        "name": "Xin Minghuang",
+        "original_name": "Xin Minghuang",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "5adcff15c3a36862bd0276cc",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2028036,
+        "known_for_department": "Art",
+        "name": "Ma Yongming",
+        "original_name": "Ma Yongming",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "credit_id": "5adcff1d0e0a26143202b6d3",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4143301,
+        "known_for_department": "Acting",
+        "name": "Wang Min",
+        "original_name": "Wang Min",
+        "popularity": 0.1718,
+        "profile_path": null,
+        "credit_id": "64a206e44a52f8010716214f",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2723705,
+        "known_for_department": "Production",
+        "name": "Zhang Jianmin",
+        "original_name": "Zhang Jianmin",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "66cd3a072273cf60f69f5e7a",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2331874,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Mi Zide",
+        "original_name": "Mi Zide",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "5cfac0a0c3a3680b4e263a25",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2331875,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Yu Yang",
+        "original_name": "Yu Yang",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "5cfac0e9c3a3680b4e263a85",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 146103,
+        "known_for_department": "Writing",
+        "name": "Bi Feiyu",
+        "original_name": "Bi Feiyu",
+        "popularity": 0.1343,
+        "profile_path": "/880RktWtrj5lKtfIt26lhEgHuw3.jpg",
+        "credit_id": "5d6b668f65686e5b9b87c27d",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2232855,
+        "known_for_department": "Production",
+        "name": "Zhu Yongde",
+        "original_name": "Zhu Yongde",
+        "popularity": 0.1167,
+        "profile_path": null,
+        "credit_id": "5d6b67720e4fc80013d90c70",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2028034,
+        "known_for_department": "Sound",
+        "name": "Guangtian Zhang",
+        "original_name": "Guangtian Zhang",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "5d6b68fd65686e5b9b87c581",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1969422,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Anne Brault",
+        "original_name": "Anne Brault",
+        "popularity": 0.0759,
+        "profile_path": null,
+        "credit_id": "5d6b69a70e4fc85515d8c86e",
+        "department": "Costume & Make-Up",
+        "job": "Costume Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1445966,
+        "known_for_department": "Sound",
+        "name": "Tao Jing",
+        "original_name": "陶经",
+        "popularity": 0.2223,
+        "profile_path": null,
+        "credit_id": "5d6b6b6865686e5b9b87c7ec",
+        "department": "Sound",
+        "job": "Sound Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1649923,
+        "known_for_department": "Art",
+        "name": "Tong Huamiao",
+        "original_name": "Tong Huamiao",
+        "popularity": 0.107,
+        "profile_path": null,
+        "credit_id": "5d6b6d0565686e3e7987ee79",
+        "department": "Costume & Make-Up",
+        "job": "Costume Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2400892,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Cai Xiaoling",
+        "original_name": "Cai Xiaoling",
+        "popularity": 0.0545,
+        "profile_path": null,
+        "credit_id": "5d6b6d34549dda7e327e1d05",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1188947,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Li Quan",
+        "original_name": "Li Quan",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "5d6b6d6065686e3c12878243",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "BR",
+        "title": "Operação Xangai",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "RU",
+        "title": "Шанхайская триада",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "CN",
+        "title": "Yáo ā yáo, yáo dào wàipóqiáo",
+        "type": "Chinese title (pinyin)"
+      },
+      {
+        "iso_3166_1": "PL",
+        "title": "Szanghajska triada",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "CN",
+        "title": "Shake, Shake to Grandma's Bridge",
+        "type": "Literal English title"
+      },
+      {
+        "iso_3166_1": "AR",
+        "title": "La reina de Shanghai",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "SE",
+        "title": "Shanghai Triaden",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "GB",
+        "title": "Shanghai Triad",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "ES",
+        "title": "La joya de Shanghai",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "CN",
+        "title": "Yao a yao, yao dao wai po qiao",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "NO",
+        "title": "Shanghaitriaden",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "HK",
+        "title": "搖啊搖，搖到外婆橋",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "CN",
+        "title": "Yao a Yao Yao Dao Wai Pe Qiao",
+        "type": ""
+      }
+    ]
+  }
+}

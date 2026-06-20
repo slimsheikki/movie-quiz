@@ -1,0 +1,345 @@
+{
+  "adult": false,
+  "backdrop_path": "/ooQhMzxHQ5o9q4lHMj0wI5Uqqn3.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 135380,
+  "imdb_id": "tt0056854",
+  "origin_country": [
+    "SE"
+  ],
+  "original_language": "sv",
+  "original_title": "Barnvagnen",
+  "overview": "A tale of a young woman, Britt, who has two flings, but finds herself with difficult decisions when she finds herself pregnant.",
+  "popularity": 0.2214,
+  "poster_path": "/rG2b1lylsyKzVrO4e7KAAOeul7Z.jpg",
+  "production_companies": [
+    {
+      "id": 1763,
+      "logo_path": "/mpT9ipd8lt4qMYzdnV8SN7VJdnA.png",
+      "name": "Europa Film",
+      "origin_country": "SE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "SE",
+      "name": "Sweden"
+    }
+  ],
+  "release_date": "1963-03-18",
+  "revenue": 0,
+  "runtime": 95,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    }
+  ],
+  "status": "Released",
+  "tagline": "A film about modern Swedish youth!",
+  "title": "The Baby Carriage",
+  "video": false,
+  "vote_average": 6.84,
+  "vote_count": 25,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1102245,
+        "known_for_department": "Acting",
+        "name": "Inger Taube",
+        "original_name": "Inger Taube",
+        "popularity": 0.1212,
+        "profile_path": "/bJMElTyy8LciNt4ZDVzkZ47GnEv.jpg",
+        "cast_id": 2,
+        "character": "Britt Larsson",
+        "credit_id": "52fe4bf6c3a368484e1a0497",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 549526,
+        "known_for_department": "Acting",
+        "name": "Thommy Berggren",
+        "original_name": "Thommy Berggren",
+        "popularity": 0.3568,
+        "profile_path": "/8CiRLqoxEb89HZqiENDRSwKM3BV.jpg",
+        "cast_id": 3,
+        "character": "Björn",
+        "credit_id": "52fe4bf6c3a368484e1a049b",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 69981,
+        "known_for_department": "Acting",
+        "name": "Lars Passgård",
+        "original_name": "Lars Passgård",
+        "popularity": 0.1619,
+        "profile_path": "/hhotDr0uvj6aTvSAQGYlE3iUiaQ.jpg",
+        "cast_id": 5,
+        "character": "Robban",
+        "credit_id": "52fe667bc3a36818fc00de3a",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 58306,
+        "known_for_department": "Acting",
+        "name": "Ulla Akselson",
+        "original_name": "Ulla Akselson",
+        "popularity": 0.1358,
+        "profile_path": null,
+        "cast_id": 6,
+        "character": "Britt's Mother",
+        "credit_id": "57cf2374c3a3684f26002aa5",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1075152,
+        "known_for_department": "Acting",
+        "name": "Gunnar Öhlund",
+        "original_name": "Gunnar Öhlund",
+        "popularity": 0.0818,
+        "profile_path": null,
+        "cast_id": 7,
+        "character": "Britt's Father",
+        "credit_id": "57cf238292514134aa0028f7",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1375583,
+        "known_for_department": "Acting",
+        "name": "Stig Torstensson",
+        "original_name": "Stig Torstensson",
+        "popularity": 0.2462,
+        "profile_path": null,
+        "cast_id": 8,
+        "character": "Kurt",
+        "credit_id": "57cf238fc3a3684f14002734",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 563466,
+        "known_for_department": "Acting",
+        "name": "Lena Brundin",
+        "original_name": "Lena Brundin",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 9,
+        "character": "Britt's Workmate",
+        "credit_id": "5c06bbeac3a36863700ef226",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 117663,
+        "known_for_department": "Acting",
+        "name": "Marianne Hedengrahn",
+        "original_name": "Marianne Hedengrahn",
+        "popularity": 0.1525,
+        "profile_path": null,
+        "cast_id": 10,
+        "character": "",
+        "credit_id": "5c06bbf7c3a36863700ef23e",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1914121,
+        "known_for_department": "Acting",
+        "name": "Ulla Rodhe",
+        "original_name": "Ulla Rodhe",
+        "popularity": 0.0789,
+        "profile_path": null,
+        "cast_id": 11,
+        "character": "",
+        "credit_id": "5c06bc0ac3a36863700ef25a",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 352580,
+        "known_for_department": "Acting",
+        "name": "Bill Jonsson",
+        "original_name": "Bill Jonsson",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 12,
+        "character": "Britt's Kid Brother",
+        "credit_id": "5c06bc2a92514113290dc904",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2188529,
+        "known_for_department": "Acting",
+        "name": "Nina Widerberg",
+        "original_name": "Nina Widerberg",
+        "popularity": 0.168,
+        "profile_path": null,
+        "cast_id": 13,
+        "character": "Nina - Neighbour's Daughter",
+        "credit_id": "5c06bc4492514111160ceab7",
+        "order": 10
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 96934,
+        "known_for_department": "Directing",
+        "name": "Bo Widerberg",
+        "original_name": "Bo Widerberg",
+        "popularity": 0.3588,
+        "profile_path": "/dSANpK9IB24lWHDm8v4Irs36amI.jpg",
+        "credit_id": "52fe4bf6c3a368484e1a0493",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 96934,
+        "known_for_department": "Directing",
+        "name": "Bo Widerberg",
+        "original_name": "Bo Widerberg",
+        "popularity": 0.3588,
+        "profile_path": "/dSANpK9IB24lWHDm8v4Irs36amI.jpg",
+        "credit_id": "52fe4bf6c3a368484e1a04a1",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 71355,
+        "known_for_department": "Sound",
+        "name": "Jan Johansson",
+        "original_name": "Jan Johansson",
+        "popularity": 0.0726,
+        "profile_path": "/2DVkNG7LFnNUtIcHOuD0KJsCAlz.jpg",
+        "credit_id": "5c06bc5f0e0a26486609b95d",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 27014,
+        "known_for_department": "Directing",
+        "name": "Jan Troell",
+        "original_name": "Jan Troell",
+        "popularity": 0.3365,
+        "profile_path": "/97PdhzeptEiQ7wyG566D5BwsMM2.jpg",
+        "credit_id": "5c06bc6bc3a36869ae0e458d",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 48570,
+        "known_for_department": "Editing",
+        "name": "Wic Kjellin",
+        "original_name": "Wic Kjellin",
+        "popularity": 0.0642,
+        "profile_path": "/qiy3J5525rlyoZLWUOv0eYas1Zn.jpg",
+        "credit_id": "5c06bc770e0a2636ce0f02b2",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2188530,
+        "known_for_department": "Art",
+        "name": "Gunnar Frieberg",
+        "original_name": "Gunnar Frieberg",
+        "popularity": 0.0297,
+        "profile_path": null,
+        "credit_id": "5c06bc83c3a36865bc0ee7f7",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2188532,
+        "known_for_department": "Sound",
+        "name": "Gert Palmcrantz",
+        "original_name": "Gert Palmcrantz",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "5c06bc8f0e0a2636ce0f02d1",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2188533,
+        "known_for_department": "Sound",
+        "name": "Sven Rydh",
+        "original_name": "Sven Rydh",
+        "popularity": 0.0193,
+        "profile_path": null,
+        "credit_id": "5c06bc9a0e0a265b280f36dc",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3868,
+        "known_for_department": "Production",
+        "name": "Waldemar Bergendahl",
+        "original_name": "Waldemar Bergendahl",
+        "popularity": 0.1176,
+        "profile_path": "/3XZmmIA5tufwRLGQZzBcGUlLnzE.jpg",
+        "credit_id": "5c06bca80e0a26486a0aa8d2",
+        "department": "Production",
+        "job": "Location Manager"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "GB",
+        "title": "The Pram",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "DK",
+        "title": "Barnevognen",
+        "type": ""
+      }
+    ]
+  }
+}

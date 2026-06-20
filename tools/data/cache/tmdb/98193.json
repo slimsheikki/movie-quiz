@@ -1,0 +1,573 @@
+{
+  "adult": false,
+  "backdrop_path": "/2lqj0xTaA4XKPxgFX18jER3bgUy.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 98193,
+  "imdb_id": "tt0063198",
+  "origin_country": [
+    "JP"
+  ],
+  "original_language": "ja",
+  "original_title": "絞死刑",
+  "overview": "A Korean man is sentenced to death in Japan but somehow survives his execution, sending the authorities into a panic about what to do next.",
+  "popularity": 1.192,
+  "poster_path": "/tszrnBe8XACsDxLJjt1rKfFHfHi.jpg",
+  "production_companies": [
+    {
+      "id": 9181,
+      "logo_path": "/hObQEBMY8Es6ajSlVeBEIdqbuSK.png",
+      "name": "Art Theatre Guild",
+      "origin_country": "JP"
+    },
+    {
+      "id": 9182,
+      "logo_path": null,
+      "name": "Sozosha",
+      "origin_country": "JP"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    }
+  ],
+  "release_date": "1968-02-02",
+  "revenue": 0,
+  "runtime": 118,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Death by Hanging",
+  "video": false,
+  "vote_average": 7.441,
+  "vote_count": 111,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1016195,
+        "known_for_department": "Acting",
+        "name": "Yun Yun-Do",
+        "original_name": "尹隆道",
+        "popularity": 0.0805,
+        "profile_path": "/ymueynpawzIHnrtCcX02hNdTyGr.jpg",
+        "cast_id": 10,
+        "character": "R",
+        "credit_id": "52fe4a049251416c750daf15",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 33730,
+        "known_for_department": "Acting",
+        "name": "Kei Satō",
+        "original_name": "佐藤慶",
+        "popularity": 1.3738,
+        "profile_path": "/xyb1DI4HViq1aEvc3pgJV5Xw2Sn.jpg",
+        "cast_id": 2,
+        "character": "Prison warden",
+        "credit_id": "52fe4a049251416c750daef5",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 224662,
+        "known_for_department": "Acting",
+        "name": "Fumio Watanabe",
+        "original_name": "渡辺文雄",
+        "popularity": 1.0127,
+        "profile_path": "/gOrIxCeaEIMRPA0TzmEPKgqodob.jpg",
+        "cast_id": 3,
+        "character": "Education Officer",
+        "credit_id": "52fe4a049251416c750daef9",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 548020,
+        "known_for_department": "Writing",
+        "name": "Toshirō Ishidō",
+        "original_name": "石堂淑朗",
+        "popularity": 0.8169,
+        "profile_path": "/jPMNkJhevPRXUl7hOsbZvW54b1y.jpg",
+        "cast_id": 4,
+        "character": "Priest",
+        "credit_id": "52fe4a049251416c750daefd",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 134812,
+        "known_for_department": "Directing",
+        "name": "Masao Adachi",
+        "original_name": "足立正生",
+        "popularity": 1.0227,
+        "profile_path": "/zKVZDV6EJhAVeYoAXIbnAsjAPMc.jpg",
+        "cast_id": 5,
+        "character": "Chief of Guards",
+        "credit_id": "52fe4a049251416c750daf01",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 138748,
+        "known_for_department": "Acting",
+        "name": "Rokkō Toura",
+        "original_name": "戸浦六宏",
+        "popularity": 0.785,
+        "profile_path": "/ucHF4SWobpjSKj2qkLZgkXPdM08.jpg",
+        "cast_id": 6,
+        "character": "Doctor",
+        "credit_id": "52fe4a049251416c750daf05",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 133603,
+        "known_for_department": "Acting",
+        "name": "Hōsei Komatsu",
+        "original_name": "小松方正",
+        "popularity": 0.987,
+        "profile_path": "/uedJcfEwUnk73UWxi7UBZbLCuT3.jpg",
+        "cast_id": 7,
+        "character": "District attorney",
+        "credit_id": "52fe4a049251416c750daf09",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1016194,
+        "known_for_department": "Acting",
+        "name": "Masao Matsuda",
+        "original_name": "松田政男",
+        "popularity": 0.2754,
+        "profile_path": null,
+        "cast_id": 8,
+        "character": "Secretary of the D.A.",
+        "credit_id": "52fe4a049251416c750daf0d",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 552315,
+        "known_for_department": "Acting",
+        "name": "Akiko Koyama",
+        "original_name": "小山明子",
+        "popularity": 0.865,
+        "profile_path": "/q8iwkok7FA2dbdes0m1pspIu0W.jpg",
+        "cast_id": 9,
+        "character": "Woman",
+        "credit_id": "52fe4a049251416c750daf11",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 46230,
+        "known_for_department": "Directing",
+        "name": "Nagisa Ōshima",
+        "original_name": "大島渚",
+        "popularity": 1.0704,
+        "profile_path": "/7G4g7V3z5ultk05MaRWE0RvOLtW.jpg",
+        "cast_id": 27,
+        "character": "Narrator (voice)",
+        "credit_id": "61ed1ba2e48860006dba84e9",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2500414,
+        "known_for_department": "Directing",
+        "name": "Takashi Ueno",
+        "original_name": "Takashi Ueno",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 28,
+        "character": "Guard",
+        "credit_id": "61ed1bf8e4886000d53f2bbb",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3077284,
+        "known_for_department": "Directing",
+        "name": "Shizuo Satô",
+        "original_name": "佐藤静夫",
+        "popularity": 0.1029,
+        "profile_path": null,
+        "cast_id": 29,
+        "character": "Guard",
+        "credit_id": "61ed1c0ae4886000428e7e43",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 140620,
+        "known_for_department": "Acting",
+        "name": "Keiko Sakurai",
+        "original_name": "桜井啓子",
+        "popularity": 0.2298,
+        "profile_path": null,
+        "cast_id": 26,
+        "character": "",
+        "credit_id": "602aa8589a9e20003c349d55",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4130064,
+        "known_for_department": "Acting",
+        "name": "Takao Usui",
+        "original_name": "Takao Usui",
+        "popularity": 0,
+        "profile_path": null,
+        "cast_id": 34,
+        "character": "",
+        "credit_id": "64980da56f43ec00e27df294",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4130065,
+        "known_for_department": "Acting",
+        "name": "Daiji Ozeki",
+        "original_name": "Daiji Ozeki",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 35,
+        "character": "",
+        "credit_id": "64980dad955c65012428679e",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4130066,
+        "known_for_department": "Acting",
+        "name": "Masayuki Hoshi",
+        "original_name": "Masayuki Hoshi",
+        "popularity": 0,
+        "profile_path": null,
+        "cast_id": 36,
+        "character": "",
+        "credit_id": "64980db3eb79c2011c524023",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4130067,
+        "known_for_department": "Acting",
+        "name": "Akiko Terayima",
+        "original_name": "Akiko Terayima",
+        "popularity": 0,
+        "profile_path": null,
+        "cast_id": 37,
+        "character": "",
+        "credit_id": "64980dcdb3440900ffec8112",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4130068,
+        "known_for_department": "Acting",
+        "name": "Yuki Osaka",
+        "original_name": "Yuki Osaka",
+        "popularity": 0.0671,
+        "profile_path": null,
+        "cast_id": 38,
+        "character": "",
+        "credit_id": "64980dde62f33500ca43a7af",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4130069,
+        "known_for_department": "Acting",
+        "name": "Kurumi Suzuki",
+        "original_name": "Kurumi Suzuki",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 39,
+        "character": "",
+        "credit_id": "64980df062f33500ad00d377",
+        "order": 18
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 46230,
+        "known_for_department": "Directing",
+        "name": "Nagisa Ōshima",
+        "original_name": "大島渚",
+        "popularity": 1.0704,
+        "profile_path": "/7G4g7V3z5ultk05MaRWE0RvOLtW.jpg",
+        "credit_id": "52fe4a049251416c750daef1",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 140624,
+        "known_for_department": "Writing",
+        "name": "Tsutomu Tamura",
+        "original_name": "田村孟",
+        "popularity": 0.7456,
+        "profile_path": "/dVUARDIHt69dlcbpJNOr31WBf5A.jpg",
+        "credit_id": "6339db2eab1bc70097f3e646",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1429885,
+        "known_for_department": "Writing",
+        "name": "Michinori Fukao",
+        "original_name": "Michinori Fukao",
+        "popularity": 0.1808,
+        "profile_path": null,
+        "credit_id": "6339dab74f33ad0085acdf61",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 140623,
+        "known_for_department": "Writing",
+        "name": "Mamoru Sasaki",
+        "original_name": "佐々木守",
+        "popularity": 0.8556,
+        "profile_path": "/iAIj22CJEIJDzH2pa84YVSFZjSA.jpg",
+        "credit_id": "6339daa74cbe12007c39ac06",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 46230,
+        "known_for_department": "Directing",
+        "name": "Nagisa Ōshima",
+        "original_name": "大島渚",
+        "popularity": 1.0704,
+        "profile_path": "/7G4g7V3z5ultk05MaRWE0RvOLtW.jpg",
+        "credit_id": "6339db0d87f3f20082870d7c",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 552639,
+        "known_for_department": "Art",
+        "name": "Shigemasa Toda",
+        "original_name": "戸田重昌",
+        "popularity": 0.1681,
+        "profile_path": null,
+        "credit_id": "569d27979251415e6d0036ba",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1034270,
+        "known_for_department": "Sound",
+        "name": "Hikaru Hayashi",
+        "original_name": "林光",
+        "popularity": 0.2601,
+        "profile_path": "/wCMXUIe1skenWCFRVET6FmxglhU.jpg",
+        "credit_id": "569d27809251415e5e003966",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1093431,
+        "known_for_department": "Production",
+        "name": "Takuji Yamaguchi",
+        "original_name": "Takuji Yamaguchi",
+        "popularity": 0.0538,
+        "profile_path": null,
+        "credit_id": "569d276e9251415e70003adb",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1093432,
+        "known_for_department": "Camera",
+        "name": "Yasuhiro Yoshioka",
+        "original_name": "吉岡康弘",
+        "popularity": 0.0929,
+        "profile_path": null,
+        "credit_id": "569d27879251415e70003adf",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 550945,
+        "known_for_department": "Sound",
+        "name": "Hideo Nishizaki",
+        "original_name": "西崎英雄",
+        "popularity": 0.4633,
+        "profile_path": null,
+        "credit_id": "569d27a99251415e67003b0a",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1136957,
+        "known_for_department": "Writing",
+        "name": "Kiyoshi Ogasawara",
+        "original_name": "Kiyoshi Ogasawara",
+        "popularity": 0.1093,
+        "profile_path": null,
+        "credit_id": "569d27a0c3a36858c8003894",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1565271,
+        "known_for_department": "Editing",
+        "name": "Sueko Shiraishi",
+        "original_name": "Sueko Shiraishi",
+        "popularity": 0.0404,
+        "profile_path": null,
+        "credit_id": "569d278fc3a36858dc003995",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1093414,
+        "known_for_department": "Production",
+        "name": "Masayuki Nakajima",
+        "original_name": "Masayuki Nakajima",
+        "popularity": 0.103,
+        "profile_path": null,
+        "credit_id": "569d2766c3a36858c800388c",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 46230,
+        "known_for_department": "Directing",
+        "name": "Nagisa Ōshima",
+        "original_name": "大島渚",
+        "popularity": 1.0704,
+        "profile_path": "/7G4g7V3z5ultk05MaRWE0RvOLtW.jpg",
+        "credit_id": "579c2064c3a368551c0039eb",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 46238,
+        "known_for_department": "Editing",
+        "name": "Keiichi Uraoka",
+        "original_name": "浦岡敬一",
+        "popularity": 0.5124,
+        "profile_path": "/cHFfTHYTQtUyv6VRzqBlj0TvROG.jpg",
+        "credit_id": "64980e25eb79c200e29f1501",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2493118,
+        "known_for_department": "Sound",
+        "name": "Akira Suzuki",
+        "original_name": "Akira Suzuki",
+        "popularity": 0.1059,
+        "profile_path": null,
+        "credit_id": "64980e3aeb79c2011c52405a",
+        "department": "Sound",
+        "job": "Sound"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "JP",
+        "title": "Kôshikei",
+        "type": "Romaji"
+      },
+      {
+        "iso_3166_1": "KR",
+        "title": "교사형",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "IT",
+        "title": "L'impiccagione",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "NO",
+        "title": "Døden ved hengning",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "JP",
+        "title": "Kōshikei",
+        "type": "Romaji"
+      }
+    ]
+  }
+}

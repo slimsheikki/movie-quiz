@@ -1,0 +1,542 @@
+{
+  "adult": false,
+  "backdrop_path": "/euAyS2Z9VXf0A8F2IOC2SOLZNdA.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ],
+  "homepage": "",
+  "id": 315868,
+  "imdb_id": "tt4035268",
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "Cosmos",
+  "overview": "Two young men seek the solitude of the country; their peace is disturbed when a set of random occurrences suggest to their susceptible minds a pattern with sinister meanings.",
+  "popularity": 0.4345,
+  "poster_path": "/wquuj8Xlum4rUXCahVWbYSHpdzN.jpg",
+  "production_companies": [
+    {
+      "id": 44106,
+      "logo_path": "/v4Wwng5Bgmp5HqgYIJXJLpChS7k.png",
+      "name": "Leopardo Filmes",
+      "origin_country": "PT"
+    },
+    {
+      "id": 3061,
+      "logo_path": "/gseYJDkfTwGKG6qHbAa4SY9w1UV.png",
+      "name": "Alfama Films",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "PT",
+      "name": "Portugal"
+    },
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "2015-12-03",
+  "revenue": 0,
+  "runtime": 102,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    },
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Cosmos",
+  "video": false,
+  "vote_average": 6.489,
+  "vote_count": 93,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1315962,
+        "known_for_department": "Acting",
+        "name": "Jonathan Genet",
+        "original_name": "Jonathan Genet",
+        "popularity": 0.1696,
+        "profile_path": "/ifxWgciSAbip2JpSUuUmUCa7781.jpg",
+        "cast_id": 7,
+        "character": "Witold",
+        "credit_id": "54ab19fb9251415679002551",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 96928,
+        "known_for_department": "Acting",
+        "name": "Johan Libéreau",
+        "original_name": "Johan Libéreau",
+        "popularity": 0.3986,
+        "profile_path": "/jeOXSVv3C1a99J2GFbwJXU9NWeW.jpg",
+        "cast_id": 3,
+        "character": "Fuchs",
+        "credit_id": "54ab19bc9251415679002549",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 20851,
+        "known_for_department": "Acting",
+        "name": "Sabine Azéma",
+        "original_name": "Sabine Azéma",
+        "popularity": 0.6126,
+        "profile_path": "/cd8c3KFsABdkwkC2DsiknU8hT1z.jpg",
+        "cast_id": 0,
+        "character": "Madame Woytis",
+        "credit_id": "54ab1990925141564600263d",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 35527,
+        "known_for_department": "Acting",
+        "name": "Jean-François Balmer",
+        "original_name": "Jean-François Balmer",
+        "popularity": 0.6158,
+        "profile_path": "/5CLhlqqDJMjTx8t9ZkAyNwRBzQR.jpg",
+        "cast_id": 5,
+        "character": "Leon",
+        "credit_id": "54ab19d69251417e06004935",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1033632,
+        "known_for_department": "Acting",
+        "name": "Victoria Guerra",
+        "original_name": "Victoria Guerra",
+        "popularity": 0.5009,
+        "profile_path": "/2baLSCRfyT4b9z9DcBqwVvHI1XF.jpg",
+        "cast_id": 1,
+        "character": "Lena",
+        "credit_id": "54ab199c9251415679002546",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 133130,
+        "known_for_department": "Acting",
+        "name": "Andy Gillet",
+        "original_name": "Andy Gillet",
+        "popularity": 0.1645,
+        "profile_path": "/mdCSaBBzT3uh5pCZGaSO5AD8f2j.jpg",
+        "cast_id": 4,
+        "character": "Lucien",
+        "credit_id": "54ab19c7925141480b0006cf",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2087111,
+        "known_for_department": "Acting",
+        "name": "Clémentine Pons",
+        "original_name": "Clémentine Pons",
+        "popularity": 0.0818,
+        "profile_path": "/hwHSPRsaxy5CsnWRMB6M7sXSuEY.jpg",
+        "cast_id": 26,
+        "character": "Catherette / Ginette",
+        "credit_id": "5b4f94a8c3a3683055017cbe",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 107920,
+        "known_for_department": "Acting",
+        "name": "Ricardo Pereira",
+        "original_name": "Ricardo Pereira",
+        "popularity": 0.3388,
+        "profile_path": "/ka35HapmYDkf1GSzmcDcl3YWEQa.jpg",
+        "cast_id": 2,
+        "character": "Tolo",
+        "credit_id": "54ab19af9251414d63007918",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1864842,
+        "known_for_department": "Acting",
+        "name": "António Simão",
+        "original_name": "António Simão",
+        "popularity": 0.1471,
+        "profile_path": "/2YJmDcHjppTfxqArgJS2JFXdgsq.jpg",
+        "cast_id": 27,
+        "character": "Curé",
+        "credit_id": "608b370867e0f7006fb3f603",
+        "order": 8
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 572597,
+        "known_for_department": "Sound",
+        "name": "Thomas Robert",
+        "original_name": "Thomas Robert",
+        "popularity": 0.1003,
+        "profile_path": null,
+        "credit_id": "609c574e5541fa007962003a",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 9890,
+        "known_for_department": "Sound",
+        "name": "Jean-Paul Mugel",
+        "original_name": "Jean-Paul Mugel",
+        "popularity": 0.2461,
+        "profile_path": "/4MPwCouuem4PjQjKytI1WMYcp0Q.jpg",
+        "credit_id": "609c573e8dbc33006e32e87a",
+        "department": "Sound",
+        "job": "Sound Engineer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1582947,
+        "known_for_department": "Art",
+        "name": "Paula Szabo",
+        "original_name": "Paula Szabo",
+        "popularity": 0.0917,
+        "profile_path": null,
+        "credit_id": "609c57785b370d0058728c3c",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1367653,
+        "known_for_department": "Visual Effects",
+        "name": "Stéphane Bidault",
+        "original_name": "Stéphane Bidault",
+        "popularity": 0.1034,
+        "profile_path": "/px9quywoR8rIMOu7QlTS3STz6VD.jpg",
+        "credit_id": "609c57922a210c0029f9f235",
+        "department": "Visual Effects",
+        "job": "Visual Effects Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1532789,
+        "known_for_department": "Visual Effects",
+        "name": "Ludivine Ducrocq",
+        "original_name": "Ludivine Ducrocq",
+        "popularity": 0.0886,
+        "profile_path": null,
+        "credit_id": "609c57a6126ec3002aee5dc5",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1410594,
+        "known_for_department": "Sound",
+        "name": "Nicolas d'Halluin",
+        "original_name": "Nicolas d'Halluin",
+        "popularity": 0.0614,
+        "profile_path": null,
+        "credit_id": "609c5728963864005b795aac",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1254060,
+        "known_for_department": "Visual Effects",
+        "name": "Matthias Weber",
+        "original_name": "Matthias Weber",
+        "popularity": 0.0744,
+        "profile_path": null,
+        "credit_id": "609c57b9244182007948a3ca",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 32082,
+        "known_for_department": "Directing",
+        "name": "Andrzej Żuławski",
+        "original_name": "Andrzej Żuławski",
+        "popularity": 0.7037,
+        "profile_path": "/A9OzmL6AJmqGfqEyGo1pvG3o8Fo.jpg",
+        "credit_id": "54ab1a70c3a3682352002652",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 32082,
+        "known_for_department": "Directing",
+        "name": "Andrzej Żuławski",
+        "original_name": "Andrzej Żuławski",
+        "popularity": 0.7037,
+        "profile_path": "/A9OzmL6AJmqGfqEyGo1pvG3o8Fo.jpg",
+        "credit_id": "54ab1a60c3a3680c21008337",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 54334,
+        "known_for_department": "Directing",
+        "name": "Carlo da Fonseca Parsotam",
+        "original_name": "Carlo da Fonseca Parsotam",
+        "popularity": 0.0338,
+        "profile_path": null,
+        "credit_id": "56cf7f15c3a3681e3e003ff4",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 41025,
+        "known_for_department": "Production",
+        "name": "Sarah Teper",
+        "original_name": "Sarah Teper",
+        "popularity": 0.224,
+        "profile_path": "/crU739Smvmce2qsM4PplXaiQXTO.jpg",
+        "credit_id": "56cf7ea6c3a3681e440044b7",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1582949,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Cristina Trigo",
+        "original_name": "Cristina Trigo",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "56cf7eccc3a3681e3e003fed",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2802,
+        "known_for_department": "Sound",
+        "name": "Andrzej Korzyński",
+        "original_name": "Andrzej Korzyński",
+        "popularity": 0.1451,
+        "profile_path": "/dyWkD8F21NuQMQWB8nmHag5wc5Z.jpg",
+        "credit_id": "56cf7e93925141799e000f8f",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 935687,
+        "known_for_department": "Production",
+        "name": "Ana Pinhão Moura",
+        "original_name": "Ana Pinhão Moura",
+        "popularity": 0.0495,
+        "profile_path": null,
+        "credit_id": "56cf7f0cc3a3681e36003904",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1058555,
+        "known_for_department": "Camera",
+        "name": "André Szankowski",
+        "original_name": "André Szankowski",
+        "popularity": 0.0647,
+        "profile_path": "/m7jk3eMv4h850bwfRzhpa8hyeKQ.jpg",
+        "credit_id": "56cf7e789251413e68003a8a",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1582947,
+        "known_for_department": "Art",
+        "name": "Paula Szabo",
+        "original_name": "Paula Szabo",
+        "popularity": 0.0917,
+        "profile_path": null,
+        "credit_id": "56cf7eaf9251413e59003925",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5268,
+        "known_for_department": "Production",
+        "name": "Paulo Branco",
+        "original_name": "Paulo Branco",
+        "popularity": 0.2942,
+        "profile_path": "/fts6IfqRE5xZuZB3iN6yeKNzfhd.jpg",
+        "credit_id": "56cf7e8bc3a3681e4a00375c",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1100334,
+        "known_for_department": "Editing",
+        "name": "Julia Grégory",
+        "original_name": "Julia Grégory",
+        "popularity": 0.2058,
+        "profile_path": null,
+        "credit_id": "56cf7e9ec3a3681e440044b4",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": true,
+        "gender": 2,
+        "id": 1409554,
+        "known_for_department": "Writing",
+        "name": "Witold Gombrowicz",
+        "original_name": "Witold Gombrowicz",
+        "popularity": 0,
+        "profile_path": "/pKlZYY4HG3LLHvpS5bwrZaEStAN.jpg",
+        "credit_id": "56cf7e839251413e62003a7c",
+        "department": "Writing",
+        "job": "Novel"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1582948,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Mariana Mattos",
+        "original_name": "Mariana Mattos",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "56cf7eb9c3a3681e360038f4",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1582952,
+        "known_for_department": "Production",
+        "name": "Raoul Peruzzi",
+        "original_name": "Raoul Peruzzi",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "56cf7f04c3a3681e390036da",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1367201,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Íris Peleira",
+        "original_name": "Íris Peleira",
+        "popularity": 0.0379,
+        "profile_path": null,
+        "credit_id": "56cf7ec1c3a3681e4a003763",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1977546,
+        "known_for_department": "Lighting",
+        "name": "Rodrigo Dray",
+        "original_name": "Rodrigo Dray",
+        "popularity": 0.0661,
+        "profile_path": null,
+        "credit_id": "66f9b636140fbf6a1a5f891f",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2247741,
+        "known_for_department": "Camera",
+        "name": "Helena Marina",
+        "original_name": "Helena Marina",
+        "popularity": 0.0742,
+        "profile_path": null,
+        "credit_id": "67f81cfbd3ab7d7a8bad6517",
+        "department": "Camera",
+        "job": "Second Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5436085,
+        "known_for_department": "Writing",
+        "name": "Witold Gombrowicz",
+        "original_name": "Witold Gombrowicz",
+        "popularity": 0.0143,
+        "profile_path": "/pKlZYY4HG3LLHvpS5bwrZaEStAN.jpg",
+        "credit_id": "6a3198762782be5b314682f8",
+        "department": "Writing",
+        "job": "Novel"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  }
+}

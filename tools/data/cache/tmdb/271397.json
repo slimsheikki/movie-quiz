@@ -1,0 +1,382 @@
+{
+  "adult": false,
+  "backdrop_path": "/pp6RHy8glYVte8DrSkaTyDDFHVs.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "",
+  "id": 271397,
+  "imdb_id": "tt1745787",
+  "origin_country": [
+    "UA"
+  ],
+  "original_language": "uk",
+  "original_title": "Плем'я",
+  "overview": "Deaf-mute Sergey enters a specialized boarding school for the deaf. In navigating through the school's hierarchy, he encounters a corrupt underbelly of criminality, known as The Tribe. By participating in several robberies, he gets propelled higher into the organization, when he meets one of the Chief’s concubines Anya, and unwittingly breaks all the unwritten rules of the group.\"",
+  "popularity": 0.8196,
+  "poster_path": "/itZcDkDN4HQ15f6HbriABjlIwoF.jpg",
+  "production_companies": [
+    {
+      "id": 61459,
+      "logo_path": null,
+      "name": "Garmata Film Production",
+      "origin_country": "UA"
+    },
+    {
+      "id": 61460,
+      "logo_path": "/3yPCkEWvnabeiF8l3sjUBHlRq0j.png",
+      "name": "Ukrainian State Film Agency",
+      "origin_country": "UA"
+    },
+    {
+      "id": 13413,
+      "logo_path": "/eUVeNogxsgzL78KU5ugDvea2Cet.png",
+      "name": "Hubert Bals Fund",
+      "origin_country": "NL"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "UA",
+      "name": "Ukraine"
+    }
+  ],
+  "release_date": "2014-09-11",
+  "revenue": 215034,
+  "runtime": 132,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Love and hate need no translation.",
+  "title": "The Tribe",
+  "video": false,
+  "vote_average": 6.676,
+  "vote_count": 318,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1324044,
+        "known_for_department": "Acting",
+        "name": "Hryhoriy Fesenko",
+        "original_name": "Hryhoriy Fesenko",
+        "popularity": 0.055,
+        "profile_path": "/2cer30c2f8RqCvRY6TDqB3q6vC3.jpg",
+        "cast_id": 1,
+        "character": "Sergei",
+        "credit_id": "5381c98ec3a3680595006b51",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1324045,
+        "known_for_department": "Acting",
+        "name": "Yana Novikova",
+        "original_name": "Yana Novikova",
+        "popularity": 0.2121,
+        "profile_path": "/rXmMOMc8xPT0TdP1CkiZT60ULKy.jpg",
+        "cast_id": 2,
+        "character": "Anya",
+        "credit_id": "5381c9adc3a3680598006b79",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1324046,
+        "known_for_department": "Acting",
+        "name": "Rosa Babiy",
+        "original_name": "Rosa Babiy",
+        "popularity": 0.0505,
+        "profile_path": "/SkBDCgUu613953jnmolLL0mchh.jpg",
+        "cast_id": 3,
+        "character": "Svetka",
+        "credit_id": "5381c9b6c3a3680598006b7e",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1324047,
+        "known_for_department": "Acting",
+        "name": "Oleksandr Dsiadevych",
+        "original_name": "Oleksandr Dsiadevych",
+        "popularity": 0.0805,
+        "profile_path": "/8zCa8qOOwvmj9o8tcyCtisugWH2.jpg",
+        "cast_id": 4,
+        "character": "Gera",
+        "credit_id": "5381c9c0c3a368059e006c05",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 560342,
+        "known_for_department": "Acting",
+        "name": "Oleksandr Osadchyi",
+        "original_name": "Oleksandr Osadchyi",
+        "popularity": 0.0629,
+        "profile_path": "/lfjlz2zSCIhl5ZRcWKHLPJ6d9xS.jpg",
+        "cast_id": 7,
+        "character": "'King'",
+        "credit_id": "5381c9e2c3a368737d001e77",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1324049,
+        "known_for_department": "Acting",
+        "name": "Ivan Tishko",
+        "original_name": "Ivan Tishko",
+        "popularity": 0.0752,
+        "profile_path": "/fKf4PFCZ5hKfkzxHHgjIKq7XWRM.jpg",
+        "cast_id": 6,
+        "character": "Makar",
+        "credit_id": "5381c9d9c3a36805a8006709",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1324050,
+        "known_for_department": "Acting",
+        "name": "Alexandr Sidelnikov",
+        "original_name": "Alexandr Sidelnikov",
+        "popularity": 0.0761,
+        "profile_path": "/n19N6z7jzxKLKgre1UXGC23EZrd.jpg",
+        "cast_id": 8,
+        "character": "'Shnyr' (Flunky)",
+        "credit_id": "5381c9ebc3a36805a8006710",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1324051,
+        "known_for_department": "Acting",
+        "name": "Alexander Panivan",
+        "original_name": "Alexander Panivan",
+        "popularity": 0.0456,
+        "profile_path": null,
+        "cast_id": 19,
+        "character": "Woodwork Teacher",
+        "credit_id": "6117b87e3103250046e5fc10",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1500928,
+        "known_for_department": "Acting",
+        "name": "Kyryl Koshyk",
+        "original_name": "Kyryl Koshyk",
+        "popularity": 0.0621,
+        "profile_path": null,
+        "cast_id": 20,
+        "character": "Sponsor",
+        "credit_id": "6117b8c1ec370c00450a1aae",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1324048,
+        "known_for_department": "Acting",
+        "name": "Yaroslav Biletskiy",
+        "original_name": "Yaroslav Biletskiy",
+        "popularity": 0.0322,
+        "profile_path": "/scDMWRrRHp12uOV6uwIfWixzNno.jpg",
+        "cast_id": 21,
+        "character": "",
+        "credit_id": "6117b92fec370c005cad7c44",
+        "order": 9
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2596824,
+        "known_for_department": "Production",
+        "name": "Oleksandra Kostina",
+        "original_name": "Oleksandra Kostina",
+        "popularity": 0.0474,
+        "profile_path": "/ixvDgpiUjtXQVTIaT19HBprA0j8.jpg",
+        "credit_id": "610019987304b5007e2d0df1",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1267351,
+        "known_for_department": "Directing",
+        "name": "Myroslav Slaboshpytskyi",
+        "original_name": "Myroslav Slaboshpytskyi",
+        "popularity": 0.1354,
+        "profile_path": "/7mxZAuGAEx18FJmMv35duU0VoCF.jpg",
+        "credit_id": "537efe440e0a2624bd0041df",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1267351,
+        "known_for_department": "Directing",
+        "name": "Myroslav Slaboshpytskyi",
+        "original_name": "Myroslav Slaboshpytskyi",
+        "popularity": 0.1354,
+        "profile_path": "/7mxZAuGAEx18FJmMv35duU0VoCF.jpg",
+        "credit_id": "5381ca0dc3a3680595006b63",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1500926,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Olena Hres",
+        "original_name": "Olena Hres",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "55def38f92514147180019b4",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1263056,
+        "known_for_department": "Directing",
+        "name": "Valentyn Vasyanovych",
+        "original_name": "Валентин Васянович",
+        "popularity": 0.1839,
+        "profile_path": "/dJk5toxhPgiZDQhdCbbraLBx8L0.jpg",
+        "credit_id": "55def32bc3a3686e91001c3c",
+        "department": "Crew",
+        "job": "Cinematography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1263056,
+        "known_for_department": "Directing",
+        "name": "Valentyn Vasyanovych",
+        "original_name": "Валентин Васянович",
+        "popularity": 0.1839,
+        "profile_path": "/dJk5toxhPgiZDQhdCbbraLBx8L0.jpg",
+        "credit_id": "55def33bc3a3686e82001c67",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1500927,
+        "known_for_department": "Sound",
+        "name": "Serhii Stepanskyi",
+        "original_name": "Сергій Степанський",
+        "popularity": 0.0621,
+        "profile_path": "/bCMcyN2SxAPf2UofkTM8ZGsLrIl.jpg",
+        "credit_id": "55def3afc3a3686e7b001c4d",
+        "department": "Sound",
+        "job": "Sound Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2395703,
+        "known_for_department": "Art",
+        "name": "Vladlen Odudenko",
+        "original_name": "Владлен Одуденко",
+        "popularity": 0.0954,
+        "profile_path": "/mlFSFEFbs0p2Nwq5p7hwRpkepIa.jpg",
+        "credit_id": "5fa95c89ffc9de003c8dfe20",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1263056,
+        "known_for_department": "Directing",
+        "name": "Valentyn Vasyanovych",
+        "original_name": "Валентин Васянович",
+        "popularity": 0.1839,
+        "profile_path": "/dJk5toxhPgiZDQhdCbbraLBx8L0.jpg",
+        "credit_id": "67ef06742f7d437027992370",
+        "department": "Camera",
+        "job": "Director of Photography"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "UA",
+        "title": "Plemya",
+        "type": "Translitirated"
+      },
+      {
+        "iso_3166_1": "PL",
+        "title": "Plemię",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "CZ",
+        "title": "Kmen",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "SK",
+        "title": "Kmeň",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "GR",
+        "title": "The Tribe",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "NO",
+        "title": "Stammen",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "PT",
+        "title": "A Tribo",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "FI",
+        "title": "Heimo",
+        "type": "promotional title"
+      },
+      {
+        "iso_3166_1": "BR",
+        "title": "A Gangue",
+        "type": ""
+      }
+    ]
+  }
+}

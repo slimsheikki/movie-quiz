@@ -1,0 +1,738 @@
+{
+  "adult": false,
+  "backdrop_path": "/i3fdtDIpJ9uDsZcZHWoyWADb9DA.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 64624,
+  "imdb_id": "tt0064888",
+  "origin_country": [
+    "ES"
+  ],
+  "original_language": "es",
+  "original_title": "La residencia",
+  "overview": "Southern France, 19th century. Teresa, a young girl, arrives at an isolated female boarding school that is tyrannically mastered by Mrs. Fourneau, the strict headmistress, whose protective shadow haunts Luis, her weak son.",
+  "popularity": 0.6123,
+  "poster_path": "/a6rUOhmr14mXx7pDRJskFv2GpH2.jpg",
+  "production_companies": [
+    {
+      "id": 15265,
+      "logo_path": null,
+      "name": "Anabel Films",
+      "origin_country": "ES"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "ES",
+      "name": "Spain"
+    }
+  ],
+  "release_date": "1969-12-01",
+  "revenue": 0,
+  "runtime": 100,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "One by one they will die!",
+  "title": "The House That Screamed",
+  "video": false,
+  "vote_average": 6.52,
+  "vote_count": 125,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 27932,
+        "known_for_department": "Acting",
+        "name": "Lilli Palmer",
+        "original_name": "Lilli Palmer",
+        "popularity": 0.837,
+        "profile_path": "/n34gwTvKpvHF1r8KMrjtxMdK0N7.jpg",
+        "cast_id": 3,
+        "character": "Mrs. Fourneau",
+        "credit_id": "52fe46e1c3a368484e0a8e29",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 50625,
+        "known_for_department": "Acting",
+        "name": "Cristina Galbó",
+        "original_name": "Cristina Galbó",
+        "popularity": 0.4204,
+        "profile_path": "/fKxk2fMt1IpJJTPME4gsvX6KtdZ.jpg",
+        "cast_id": 4,
+        "character": "Teresa",
+        "credit_id": "52fe46e1c3a368484e0a8e2d",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 32061,
+        "known_for_department": "Acting",
+        "name": "John Moulder-Brown",
+        "original_name": "John Moulder-Brown",
+        "popularity": 0.691,
+        "profile_path": "/3EYxMlhsQc6MRCGgilF75H6iMo5.jpg",
+        "cast_id": 5,
+        "character": "Luis",
+        "credit_id": "52fe46e1c3a368484e0a8e31",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 146796,
+        "known_for_department": "Acting",
+        "name": "Maribel Martín",
+        "original_name": "Maribel Martín",
+        "popularity": 0.3492,
+        "profile_path": "/v77D2FK602PORtEh2IqOhjaI0HD.jpg",
+        "cast_id": 8,
+        "character": "Isabel",
+        "credit_id": "546d03c3925141305d0021e3",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 239467,
+        "known_for_department": "Acting",
+        "name": "Mary Maude",
+        "original_name": "Mary Maude",
+        "popularity": 0.2875,
+        "profile_path": "/kMLuaAOJtams34Yca0wchhjNAgf.jpg",
+        "cast_id": 6,
+        "character": "Irene",
+        "credit_id": "52fe46e1c3a368484e0a8e35",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 239468,
+        "known_for_department": "Acting",
+        "name": "Cándida Losada",
+        "original_name": "Cándida Losada",
+        "popularity": 0.1985,
+        "profile_path": "/oElgWPEsXUTWo4s5VUZA75jESKI.jpg",
+        "cast_id": 7,
+        "character": "Ms. Desprez",
+        "credit_id": "52fe46e1c3a368484e0a8e39",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1170613,
+        "known_for_department": "Acting",
+        "name": "Pauline Challoner",
+        "original_name": "Pauline Challoner",
+        "popularity": 0.102,
+        "profile_path": "/562Pu9t8J91IENmYvC549tqNF62.jpg",
+        "cast_id": 9,
+        "character": "Catalina",
+        "credit_id": "546d1593c3a368097d002466",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 544572,
+        "known_for_department": "Acting",
+        "name": "Tomás Blanco",
+        "original_name": "Tomás Blanco",
+        "popularity": 0.331,
+        "profile_path": "/oXITtURcZk9PpmwPOGA42Cx28zD.jpg",
+        "cast_id": 10,
+        "character": "Pedro Baldié",
+        "credit_id": "546d159dc3a36809700025b9",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 32830,
+        "known_for_department": "Acting",
+        "name": "Víctor Israel",
+        "original_name": "Víctor Israel",
+        "popularity": 0.3571,
+        "profile_path": "/5nB8fAvrUPUQP3J6NwPiDrOLZ9n.jpg",
+        "cast_id": 11,
+        "character": "Brechard",
+        "credit_id": "546d15a6c3a36809700025bc",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1387090,
+        "known_for_department": "Acting",
+        "name": "Teresa Hurtado",
+        "original_name": "Teresa Hurtado",
+        "popularity": 0.0722,
+        "profile_path": "/5uO7lE8u5CwRcy7Jp04713PWJKy.jpg",
+        "cast_id": 12,
+        "character": "Andrea",
+        "credit_id": "546d15eb925141304c002556",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1387091,
+        "known_for_department": "Acting",
+        "name": "María José Valero",
+        "original_name": "María José Valero",
+        "popularity": 0.045,
+        "profile_path": "/ptwdoTcP1cQVbcBwCDKi3lovVhK.jpg",
+        "cast_id": 13,
+        "character": "Elena",
+        "credit_id": "546d15fcc3a36809760024bb",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1387092,
+        "known_for_department": "Acting",
+        "name": "Conchita Paredes",
+        "original_name": "Conchita Paredes",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 14,
+        "character": "Susana",
+        "credit_id": "546d1614c3a368096b0022cd",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1701557,
+        "known_for_department": "Acting",
+        "name": "Ana María Pol",
+        "original_name": "Ana María Pol",
+        "popularity": 0.0168,
+        "profile_path": null,
+        "cast_id": 38,
+        "character": "Claudia",
+        "credit_id": "5d027e92c3a368489e1f25dd",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1697090,
+        "known_for_department": "Acting",
+        "name": "Mari Carmen Duque",
+        "original_name": "Mari Carmen Duque",
+        "popularity": 0.061,
+        "profile_path": null,
+        "cast_id": 39,
+        "character": "Julia",
+        "credit_id": "5d027ead0e0a26134ac9faaa",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1387093,
+        "known_for_department": "Acting",
+        "name": "Paloma Pagés",
+        "original_name": "Paloma Pagés",
+        "popularity": 0.0398,
+        "profile_path": null,
+        "cast_id": 15,
+        "character": "Cecilia",
+        "credit_id": "546d162cc3a36809800023b0",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 100704,
+        "known_for_department": "Acting",
+        "name": "Sofía Casares",
+        "original_name": "Sofía Casares",
+        "popularity": 0.0883,
+        "profile_path": null,
+        "cast_id": 40,
+        "character": "Margarita",
+        "credit_id": "5d027ec792514117b4b9707f",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1387094,
+        "known_for_department": "Acting",
+        "name": "Blanca Sendino",
+        "original_name": "Blanca Sendino",
+        "popularity": 0.1143,
+        "profile_path": null,
+        "cast_id": 16,
+        "character": "Cook",
+        "credit_id": "546d164292514130510021b0",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2123875,
+        "known_for_department": "Acting",
+        "name": "Clovis Dave",
+        "original_name": "Clovis Dave",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "cast_id": 33,
+        "character": "Enrique",
+        "credit_id": "5b934e520e0a261975002402",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 72888,
+        "known_for_department": "Acting",
+        "name": "Frank Braña",
+        "original_name": "Frank Braña",
+        "popularity": 0.5295,
+        "profile_path": "/cVl6735BB319Xm8q2N39upkN177.jpg",
+        "cast_id": 42,
+        "character": "",
+        "credit_id": "5d027ee59251412a52b8af6c",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2337187,
+        "known_for_department": "Acting",
+        "name": "Gloria Blanco",
+        "original_name": "Gloria Blanco",
+        "popularity": 0.0168,
+        "profile_path": "/ejlJ8OwwWRbtT2I1AlyckZDsRwO.jpg",
+        "cast_id": 43,
+        "character": "Regina",
+        "credit_id": "5d027eefc3a3687b571e2d81",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1629004,
+        "known_for_department": "Acting",
+        "name": "Juana Azorín",
+        "original_name": "Juana Azorín",
+        "popularity": 0.2043,
+        "profile_path": null,
+        "cast_id": 44,
+        "character": "Lucía",
+        "credit_id": "5d027efa9251412a52b8af76",
+        "order": 20
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1102448,
+        "known_for_department": "Acting",
+        "name": "Elisa Méndez",
+        "original_name": "Elisa Méndez",
+        "popularity": 0.156,
+        "profile_path": null,
+        "cast_id": 45,
+        "character": "María",
+        "credit_id": "5d027f060e0a26134ac9fb02",
+        "order": 21
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 100718,
+        "known_for_department": "Acting",
+        "name": "María Elena Arpón",
+        "original_name": "María Elena Arpón",
+        "popularity": 0.1422,
+        "profile_path": "/vlpOCIUczRjqixhtRKVm81sMvFG.jpg",
+        "cast_id": 46,
+        "character": "Alumna",
+        "credit_id": "5d027f11c3a36818f41f3dec",
+        "order": 22
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1761788,
+        "known_for_department": "Acting",
+        "name": "Maria Gustafsson",
+        "original_name": "Maria Gustafsson",
+        "popularity": 0.0599,
+        "profile_path": "/Ab189crouAjJ9txsYWffijYQAGf.jpg",
+        "cast_id": 32,
+        "character": "Ingrid",
+        "credit_id": "597fb737c3a36810b60000b6",
+        "order": 23
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 133004,
+        "known_for_department": "Writing",
+        "name": "Chicho Ibáñez Serrador",
+        "original_name": "Chicho Ibáñez Serrador",
+        "popularity": 0.2633,
+        "profile_path": "/qinTKbheCdx4vR0ouaPwqarWbdd.jpg",
+        "credit_id": "52fe46e1c3a368484e0a8e1f",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 592681,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Carmen Martín",
+        "original_name": "Carmen Martín",
+        "popularity": 0.0327,
+        "profile_path": null,
+        "credit_id": "59763e52c3a3680d2b017e8f",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 71523,
+        "known_for_department": "Sound",
+        "name": "Waldo de los Ríos",
+        "original_name": "Waldo de los Ríos",
+        "popularity": 0.1382,
+        "profile_path": "/x0mOCRpNScM5CndMSgYvt4VgE5R.jpg",
+        "credit_id": "59763e02c3a3685da4033e0f",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 133004,
+        "known_for_department": "Writing",
+        "name": "Chicho Ibáñez Serrador",
+        "original_name": "Chicho Ibáñez Serrador",
+        "popularity": 0.2633,
+        "profile_path": "/qinTKbheCdx4vR0ouaPwqarWbdd.jpg",
+        "credit_id": "59763df1c3a36821db01592a",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 976017,
+        "known_for_department": "Art",
+        "name": "Ramiro Gómez",
+        "original_name": "Ramiro Gómez",
+        "popularity": 0.0921,
+        "profile_path": null,
+        "credit_id": "59763e1792514147a3015f8e",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1650834,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Carmen Sánchez",
+        "original_name": "Carmen Sánchez",
+        "popularity": 0.0924,
+        "profile_path": null,
+        "credit_id": "59763ead92514106e202a20b",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1032791,
+        "known_for_department": "Editing",
+        "name": "Mercedes Alonso",
+        "original_name": "Mercedes Alonso",
+        "popularity": 0.1152,
+        "profile_path": null,
+        "credit_id": "59763dd6c3a368221c0135fd",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1701592,
+        "known_for_department": "Art",
+        "name": "Juan Gracia",
+        "original_name": "Juan Gracia",
+        "popularity": 0.1565,
+        "profile_path": null,
+        "credit_id": "5e1bdcccd5dbc20013f2f754",
+        "department": "Art",
+        "job": "Property Master"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1506928,
+        "known_for_department": "Sound",
+        "name": "Enrique Molinero",
+        "original_name": "Enrique Molinero",
+        "popularity": 0.0928,
+        "profile_path": "/rTA9FymZV6FFR73xjmRuGEqkvry.jpg",
+        "credit_id": "5e1bdd9dd5dbc20013f2f910",
+        "department": "Sound",
+        "job": "Sound Engineer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1847361,
+        "known_for_department": "Editing",
+        "name": "John Beaton",
+        "original_name": "John Beaton",
+        "popularity": 0.0553,
+        "profile_path": null,
+        "credit_id": "5e1bde3ad5dbc20017f2d634",
+        "department": "Crew",
+        "job": "Special Effects"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1544003,
+        "known_for_department": "Sound",
+        "name": "Luis Castro",
+        "original_name": "Luis Castro",
+        "popularity": 0.1235,
+        "profile_path": null,
+        "credit_id": "5e1bddb9d5dbc20015f2d090",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 97689,
+        "known_for_department": "Writing",
+        "name": "Juan Tébar",
+        "original_name": "Juan Tébar",
+        "popularity": 0.1862,
+        "profile_path": null,
+        "credit_id": "5e1bdee06a300b00135d6895",
+        "department": "Writing",
+        "job": "Short Story"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 100332,
+        "known_for_department": "Camera",
+        "name": "Manuel Berenguer",
+        "original_name": "Manuel Berenguer",
+        "popularity": 0.1078,
+        "profile_path": null,
+        "credit_id": "5e1bdf2dd5dbc20017f2d90b",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 240100,
+        "known_for_department": "Directing",
+        "name": "Mahnahén Velasco",
+        "original_name": "Mahnahén Velasco",
+        "popularity": 0.1457,
+        "profile_path": null,
+        "credit_id": "5e1bdb6de194b00012b6ead7",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1698983,
+        "known_for_department": "Camera",
+        "name": "Antonio Luengo",
+        "original_name": "Antonio Luengo",
+        "popularity": 0.0644,
+        "profile_path": null,
+        "credit_id": "5e1bdb836a300b00135d5c97",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1070174,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Julián Ruiz",
+        "original_name": "Julián Ruiz",
+        "popularity": 0.0297,
+        "profile_path": null,
+        "credit_id": "5e1bdd4a6a300b00135d6384",
+        "department": "Costume & Make-Up",
+        "job": "Key Hair Stylist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 78172,
+        "known_for_department": "Editing",
+        "name": "Don Deacon",
+        "original_name": "Don Deacon",
+        "popularity": 0.0431,
+        "profile_path": null,
+        "credit_id": "5e1bdddbd5dbc20015f2d0a9",
+        "department": "Crew",
+        "job": "Special Effects"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2248403,
+        "known_for_department": "Production",
+        "name": "Manuel Pérez",
+        "original_name": "Manuel Pérez",
+        "popularity": 0.091,
+        "profile_path": null,
+        "credit_id": "5e1bdf10d5dbc20017f2d8c5",
+        "department": "Production",
+        "job": "Production Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1435553,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Víctor María Cortezo",
+        "original_name": "Víctor María Cortezo",
+        "popularity": 0.0571,
+        "profile_path": null,
+        "credit_id": "5e1bde60d5dbc20013f2fa9c",
+        "department": "Costume & Make-Up",
+        "job": "Costume Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2508537,
+        "known_for_department": "Crew",
+        "name": "Wilfred Thompson",
+        "original_name": "Wilfred Thompson",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "5e1bddf9d5dbc20017f2d58f",
+        "department": "Crew",
+        "job": "Special Effects"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "US",
+        "title": "The Finishing School",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "ES",
+        "title": "The Boarding School",
+        "type": "World-wide English title"
+      },
+      {
+        "iso_3166_1": "US",
+        "title": "House of Evil",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "RU",
+        "title": "Дом, который кричит",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "SE",
+        "title": "Fruktans skrik",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "PT",
+        "title": "Internato de Raparigas",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "NO",
+        "title": "Der skrekken bor",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "BR",
+        "title": "Internato Derradeiro",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "BR",
+        "title": "A Casa dos Desejos",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "BE",
+        "title": "Het Gruwelpensionaat",
+        "type": "Flemish title"
+      },
+      {
+        "iso_3166_1": "BE",
+        "title": "Horreur au pensionnat",
+        "type": "French title"
+      },
+      {
+        "iso_3166_1": "DE",
+        "title": "Das Versteck - Angst und Mord im Mädcheninternat",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "ES",
+        "title": "A Casa dos Desejos",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "IT",
+        "title": "Gli Orrori del Liceo Femminile",
+        "type": ""
+      }
+    ]
+  }
+}

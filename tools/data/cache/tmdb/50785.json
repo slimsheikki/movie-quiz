@@ -1,0 +1,372 @@
+{
+  "adult": false,
+  "backdrop_path": "/q53o3eyUorC2WTbdepCiuc2XSix.jpg",
+  "belongs_to_collection": null,
+  "budget": 180000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "https://www.cinematheque.qc.ca/fr/cinema/le-petit-soldat/",
+  "id": 50785,
+  "imdb_id": "tt0054177",
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "Le Petit Soldat",
+  "overview": "Despite his lack of political convictions, photojournalist Bruno Forestier is roped into a paramilitary group waging a shadow war in Geneva against the Algerian independence movement.",
+  "popularity": 0.5212,
+  "poster_path": "/pzKFKVZHeGhJQYWZN6qO3GXUApU.jpg",
+  "production_companies": [
+    {
+      "id": 10907,
+      "logo_path": null,
+      "name": "Les Productions Georges de Beauregard",
+      "origin_country": "FR"
+    },
+    {
+      "id": 16670,
+      "logo_path": null,
+      "name": "SNC",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "1963-01-25",
+  "revenue": 0,
+  "runtime": 87,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Le Petit Soldat",
+  "video": false,
+  "vote_average": 6.9,
+  "vote_count": 184,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 24365,
+        "known_for_department": "Acting",
+        "name": "Michel Subor",
+        "original_name": "Michel Subor",
+        "popularity": 0.437,
+        "profile_path": "/39BWTW7cuolYB7yeGYVhnlmsVtB.jpg",
+        "cast_id": 2,
+        "character": "Bruno Forestier",
+        "credit_id": "52fe47d6c3a36847f814af79",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 18197,
+        "known_for_department": "Acting",
+        "name": "Anna Karina",
+        "original_name": "Anna Karina",
+        "popularity": 0.9236,
+        "profile_path": "/oSYtIsMpV8sZD6opNrOnWsspR0D.jpg",
+        "cast_id": 3,
+        "character": "Veronica Dreyer",
+        "credit_id": "52fe47d6c3a36847f814af7d",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3832,
+        "known_for_department": "Acting",
+        "name": "Henri-Jacques Huet",
+        "original_name": "Henri-Jacques Huet",
+        "popularity": 0.2566,
+        "profile_path": "/79xy417RrUaRcfHPxcqT9H7IQ5n.jpg",
+        "cast_id": 5,
+        "character": "Jacques",
+        "credit_id": "52fe47d6c3a36847f814af81",
+        "order": 2
+      },
+      {
+        "adult": true,
+        "gender": 2,
+        "id": 146521,
+        "known_for_department": "Acting",
+        "name": "Paul Beauvais",
+        "original_name": "Paul Beauvais",
+        "popularity": 0,
+        "profile_path": null,
+        "cast_id": 6,
+        "character": "Paul",
+        "credit_id": "52fe47d6c3a36847f814af85",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 38899,
+        "known_for_department": "Acting",
+        "name": "László Szabó",
+        "original_name": "László Szabó",
+        "popularity": 0.1898,
+        "profile_path": "/5kGcihh33EjWxZWQCCMywvKrbpC.jpg",
+        "cast_id": 7,
+        "character": "Laszlo",
+        "credit_id": "52fe47d6c3a36847f814af89",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3779,
+        "known_for_department": "Production",
+        "name": "Georges de Beauregard",
+        "original_name": "Georges de Beauregard",
+        "popularity": 0.1475,
+        "profile_path": "/qxl1r2ZzQ3mp34sizMwAVljwTtv.jpg",
+        "cast_id": 10,
+        "character": "Activist Leader (uncredited)",
+        "credit_id": "542123590e0a265d19000d8f",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2588861,
+        "known_for_department": "Acting",
+        "name": "Gilbert Edard",
+        "original_name": "Gilbert Edard",
+        "popularity": 0.0551,
+        "profile_path": null,
+        "cast_id": 24,
+        "character": "(uncredited)",
+        "credit_id": "63d4a362c15b5500d08860d0",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3776,
+        "known_for_department": "Directing",
+        "name": "Jean-Luc Godard",
+        "original_name": "Jean-Luc Godard",
+        "popularity": 1.2224,
+        "profile_path": "/zP5EDY5MstfkdBmPXNCj8Y6v5KR.jpg",
+        "cast_id": 11,
+        "character": "Man at Railway Station (uncredited)",
+        "credit_id": "542123830e0a265d22000d3c",
+        "order": 7
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3776,
+        "known_for_department": "Directing",
+        "name": "Jean-Luc Godard",
+        "original_name": "Jean-Luc Godard",
+        "popularity": 1.2224,
+        "profile_path": "/zP5EDY5MstfkdBmPXNCj8Y6v5KR.jpg",
+        "credit_id": "52fe47d6c3a36847f814af95",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3776,
+        "known_for_department": "Directing",
+        "name": "Jean-Luc Godard",
+        "original_name": "Jean-Luc Godard",
+        "popularity": 1.2224,
+        "profile_path": "/zP5EDY5MstfkdBmPXNCj8Y6v5KR.jpg",
+        "credit_id": "52fe47d6c3a36847f814af8f",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1117362,
+        "known_for_department": "Camera",
+        "name": "Michel Latouche",
+        "original_name": "Michel Latouche",
+        "popularity": 0.0734,
+        "profile_path": null,
+        "credit_id": "63d4a31222df2e0084398747",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3583,
+        "known_for_department": "Writing",
+        "name": "Suzanne Schiffman",
+        "original_name": "Suzanne Schiffman",
+        "popularity": 0.2029,
+        "profile_path": "/l3hKqjRlKopffuyPXW4csZtHmWT.jpg",
+        "credit_id": "63d4a32712b10e00851b47c0",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2492824,
+        "known_for_department": "Directing",
+        "name": "Francis Cognany",
+        "original_name": "Francis Cognany",
+        "popularity": 0.1209,
+        "profile_path": null,
+        "credit_id": "63d4a2e420e6a5009d227cb3",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3571,
+        "known_for_department": "Sound",
+        "name": "Jacques Maumont",
+        "original_name": "Jacques Maumont",
+        "popularity": 0.1436,
+        "profile_path": null,
+        "credit_id": "63d4a2fcc15b5500d088609b",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1180610,
+        "known_for_department": "Directing",
+        "name": "Nadine Trintignant",
+        "original_name": "Nadine Trintignant",
+        "popularity": 0.3734,
+        "profile_path": "/miK6h3RNy6DNjUxGiWJo9gK2ghH.jpg",
+        "credit_id": "59946329c3a3686f2f00401f",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3779,
+        "known_for_department": "Production",
+        "name": "Georges de Beauregard",
+        "original_name": "Georges de Beauregard",
+        "popularity": 0.1475,
+        "profile_path": "/qxl1r2ZzQ3mp34sizMwAVljwTtv.jpg",
+        "credit_id": "599462eac3a3686f4b003e88",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3526,
+        "known_for_department": "Editing",
+        "name": "Agnès Guillemot",
+        "original_name": "Agnès Guillemot",
+        "popularity": 0.07,
+        "profile_path": null,
+        "credit_id": "5994630f92514153ff01ace3",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3540,
+        "known_for_department": "Camera",
+        "name": "Raoul Coutard",
+        "original_name": "Raoul Coutard",
+        "popularity": 0.1932,
+        "profile_path": "/fEwMCINuiSOu4f3CzHG3UL0BNIc.jpg",
+        "credit_id": "5994630292514153ff01acd1",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3839,
+        "known_for_department": "Editing",
+        "name": "Lila Herman",
+        "original_name": "Lila Herman",
+        "popularity": 0.4374,
+        "profile_path": null,
+        "credit_id": "59946318c3a3686fdf0041a6",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1397968,
+        "known_for_department": "Sound",
+        "name": "Maurice Le Roux",
+        "original_name": "Maurice Le Roux",
+        "popularity": 0.0482,
+        "profile_path": null,
+        "credit_id": "5b82b2d5c3a3686563024f9e",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "XC",
+        "title": "Vojácek",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "FI",
+        "title": "Pikku sotilas",
+        "type": "TV Title"
+      },
+      {
+        "iso_3166_1": "PT",
+        "title": "O Soldado das Sombras",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "SU",
+        "title": "Маленький солдат",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "US",
+        "title": "The Little Soldier",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "RU",
+        "title": "Маленький солдат",
+        "type": ""
+      }
+    ]
+  }
+}

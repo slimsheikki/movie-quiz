@@ -1,0 +1,316 @@
+{
+  "adult": false,
+  "backdrop_path": "/l6fpqy9DepyNklYCyXY8tNASYhv.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 59048,
+  "imdb_id": "tt0063366",
+  "origin_country": [
+    "IT"
+  ],
+  "original_language": "it",
+  "original_title": "Nostra signora dei turchi",
+  "overview": "To the protagonist, an intellectual so feverish that he seems pathologically unrecoverable, a confused memory resurfaces of a massacre carried out by the Turks in Otranto. Immersing himself in one of the victims, in the unconscious desire to eviscerate himself, a woman appears to him, Margherita, who, in the guise of Santa Maria d'Otranto, treats him with compassionate love. In the hallucinating succession of memories intertwined with historical events, the protagonist finds himself in contact with his environment, his land, his country.",
+  "popularity": 0.2594,
+  "poster_path": "/tLbbIF1Dpsu8B3tE0jvOXzruLG5.jpg",
+  "production_companies": [
+    {
+      "id": 99788,
+      "logo_path": null,
+      "name": "Patara",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    }
+  ],
+  "release_date": "1968-09-03",
+  "revenue": 0,
+  "runtime": 124,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Being a saint means losing control",
+  "title": "Our Lady of the Turks",
+  "video": false,
+  "vote_average": 6.5,
+  "vote_count": 32,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 78539,
+        "known_for_department": "Acting",
+        "name": "Carmelo Bene",
+        "original_name": "Carmelo Bene",
+        "popularity": 0.1978,
+        "profile_path": "/zfRlQNX7DhcxwoSMCxwwWmPOzsF.jpg",
+        "cast_id": 2,
+        "character": "The Protagonist",
+        "credit_id": "52fe497ec3a36847f819d1c5",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 78540,
+        "known_for_department": "Acting",
+        "name": "Lydia Mancinelli",
+        "original_name": "Lydia Mancinelli",
+        "popularity": 0.1329,
+        "profile_path": "/gk5rd9WJzcVOabUDoLUuRGKlGZA.jpg",
+        "cast_id": 3,
+        "character": "Saint Margareth",
+        "credit_id": "52fe497fc3a36847f819d1c9",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1962368,
+        "known_for_department": "Acting",
+        "name": "Salvatore Siniscalchi",
+        "original_name": "Salvatore Siniscalchi",
+        "popularity": 0.0451,
+        "profile_path": null,
+        "cast_id": 16,
+        "character": "The Publisher",
+        "credit_id": "5a600ede0e0a2650ea00ea31",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1962369,
+        "known_for_department": "Acting",
+        "name": "Anita Masini",
+        "original_name": "Anita Masini",
+        "popularity": 0,
+        "profile_path": null,
+        "cast_id": 17,
+        "character": "Holy Mary / The Woman",
+        "credit_id": "5a600eebc3a36877b300f094",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1962371,
+        "known_for_department": "Acting",
+        "name": "Ornella Ferrari",
+        "original_name": "Ornella Ferrari",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 18,
+        "character": "The Maidservant",
+        "credit_id": "5a600efbc3a368786b00dc88",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1962373,
+        "known_for_department": "Acting",
+        "name": "Vincenzo Musso",
+        "original_name": "Vincenzo Musso",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 19,
+        "character": "Man Running in the Street",
+        "credit_id": "5a600f080e0a2650a300e57b",
+        "order": 5
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 78539,
+        "known_for_department": "Acting",
+        "name": "Carmelo Bene",
+        "original_name": "Carmelo Bene",
+        "popularity": 0.1978,
+        "profile_path": "/zfRlQNX7DhcxwoSMCxwwWmPOzsF.jpg",
+        "credit_id": "52fe497ec3a36847f819d1c1",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 240902,
+        "known_for_department": "Camera",
+        "name": "Mario Masini",
+        "original_name": "Mario Masini",
+        "popularity": 0.0701,
+        "profile_path": "/ipSoYgsoTW579YC36DiB8wWkmVV.jpg",
+        "credit_id": "5a600e2e0e0a2650ea00e983",
+        "department": "Crew",
+        "job": "Cinematography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1962366,
+        "known_for_department": "Sound",
+        "name": "Franco Jasiello",
+        "original_name": "Franco Jasiello",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "5a600e9c92514159fb00df4e",
+        "department": "Sound",
+        "job": "Music Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1397066,
+        "known_for_department": "Sound",
+        "name": "Italo Cameracanna",
+        "original_name": "Italo Cameracanna",
+        "popularity": 0.2171,
+        "profile_path": null,
+        "credit_id": "5a600e62c3a368781c00c6d2",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 78539,
+        "known_for_department": "Acting",
+        "name": "Carmelo Bene",
+        "original_name": "Carmelo Bene",
+        "popularity": 0.1978,
+        "profile_path": "/zfRlQNX7DhcxwoSMCxwwWmPOzsF.jpg",
+        "credit_id": "5a600e0cc3a368776600d9c5",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1354580,
+        "known_for_department": "Production",
+        "name": "Giorgio Patara",
+        "original_name": "Giorgio Patara",
+        "popularity": 0.0593,
+        "profile_path": null,
+        "credit_id": "5a600e24c3a368776600d9e2",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1397066,
+        "known_for_department": "Sound",
+        "name": "Italo Cameracanna",
+        "original_name": "Italo Cameracanna",
+        "popularity": 0.2171,
+        "profile_path": null,
+        "credit_id": "5a600e560e0a26504700e90b",
+        "department": "Sound",
+        "job": "Foley"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 78539,
+        "known_for_department": "Acting",
+        "name": "Carmelo Bene",
+        "original_name": "Carmelo Bene",
+        "popularity": 0.1978,
+        "profile_path": "/zfRlQNX7DhcxwoSMCxwwWmPOzsF.jpg",
+        "credit_id": "5a600dffc3a36877cc00def3",
+        "department": "Writing",
+        "job": "Novel"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1709512,
+        "known_for_department": "Sound",
+        "name": "Renato Marinelli",
+        "original_name": "Renato Marinelli",
+        "popularity": 0.1922,
+        "profile_path": null,
+        "credit_id": "5a600e6d0e0a26504700e91f",
+        "department": "Crew",
+        "job": "Special Effects"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 78539,
+        "known_for_department": "Acting",
+        "name": "Carmelo Bene",
+        "original_name": "Carmelo Bene",
+        "popularity": 0.1978,
+        "profile_path": "/zfRlQNX7DhcxwoSMCxwwWmPOzsF.jpg",
+        "credit_id": "5a600e199251415a5800d2dd",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 78539,
+        "known_for_department": "Acting",
+        "name": "Carmelo Bene",
+        "original_name": "Carmelo Bene",
+        "popularity": 0.1978,
+        "profile_path": "/zfRlQNX7DhcxwoSMCxwwWmPOzsF.jpg",
+        "credit_id": "5a600e7d0e0a2650fe00e6f3",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1385155,
+        "known_for_department": "Editing",
+        "name": "Mauro Contini",
+        "original_name": "Mauro Contini",
+        "popularity": 0.0311,
+        "profile_path": null,
+        "credit_id": "5a600e370e0a26504700e8ef",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 78539,
+        "known_for_department": "Acting",
+        "name": "Carmelo Bene",
+        "original_name": "Carmelo Bene",
+        "popularity": 0.1978,
+        "profile_path": "/zfRlQNX7DhcxwoSMCxwwWmPOzsF.jpg",
+        "credit_id": "5a600e450e0a2650fe00e6ab",
+        "department": "Art",
+        "job": "Production Design"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  }
+}

@@ -1,0 +1,606 @@
+{
+  "adult": false,
+  "backdrop_path": "/tK41nyg0bbAf9GEWfdMODXKo98l.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 29030,
+  "imdb_id": "tt0059821",
+  "origin_country": [
+    "US",
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "The Tomb of Ligeia",
+  "overview": "Verden Fell is shattered after the death of his lovely wife. But, after an unexpected encounter with Lady Rowena Trevanion, Fell soon finds himself married again. Nevertheless, his late wife's spirit seems to hang over the dilapidated abbey that Fell shares with his new bride. Lady Rowena senses that something is amiss and, when she investigates, makes a horrifying discovery -- learning that Fell's dead wife is closer than she ever imagined possible.",
+  "popularity": 0.5486,
+  "poster_path": "/j8gc33Q97xorBvnMUQLXs9Yla0H.jpg",
+  "production_companies": [
+    {
+      "id": 13862,
+      "logo_path": null,
+      "name": "Alta Vista Film Production",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1964-11-01",
+  "revenue": 0,
+  "runtime": 81,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Even on her wedding night she must share the man she loved with the \"female thing\" that lived in the Tomb of the Cat!",
+  "title": "The Tomb of Ligeia",
+  "video": false,
+  "vote_average": 6.34,
+  "vote_count": 181,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1905,
+        "known_for_department": "Acting",
+        "name": "Vincent Price",
+        "original_name": "Vincent Price",
+        "popularity": 1.8857,
+        "profile_path": "/7JIv7U5kwveryP7hrPYgHlKea4d.jpg",
+        "cast_id": 7,
+        "character": "Verden Fell",
+        "credit_id": "52fe45c2c3a368484e06d5cf",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 66610,
+        "known_for_department": "Acting",
+        "name": "Elizabeth Shepherd",
+        "original_name": "Elizabeth Shepherd",
+        "popularity": 0.5868,
+        "profile_path": "/3PdsbzGJ2zokEhSOgNl8dO74Uja.jpg",
+        "cast_id": 8,
+        "character": "Lady Rowena Trevanion / Lady Ligeia",
+        "credit_id": "52fe45c2c3a368484e06d5d3",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 101512,
+        "known_for_department": "Acting",
+        "name": "John Westbrook",
+        "original_name": "John Westbrook",
+        "popularity": 0.2003,
+        "profile_path": "/bbklKcfuwhxT7pTxzeTaUag5Nst.jpg",
+        "cast_id": 9,
+        "character": "Christopher Gough",
+        "credit_id": "52fe45c2c3a368484e06d5d7",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 101529,
+        "known_for_department": "Acting",
+        "name": "Derek Francis",
+        "original_name": "Derek Francis",
+        "popularity": 0.4063,
+        "profile_path": "/eE02sSKBJ5kgkS3f2tdtXoUpB68.jpg",
+        "cast_id": 10,
+        "character": "Lord Trevanion",
+        "credit_id": "52fe45c2c3a368484e06d5db",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 29308,
+        "known_for_department": "Acting",
+        "name": "Oliver Johnston",
+        "original_name": "Oliver Johnston",
+        "popularity": 0.2909,
+        "profile_path": "/pfVdF7LIkbdGii7U9RR5gpjbEP2.jpg",
+        "cast_id": 11,
+        "character": "Kenrick",
+        "credit_id": "52fe45c2c3a368484e06d5df",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 47000,
+        "known_for_department": "Acting",
+        "name": "Richard Vernon",
+        "original_name": "Richard Vernon",
+        "popularity": 0.8636,
+        "profile_path": "/uSFGSsK4MZgL7G0YRinZeSQYRxY.jpg",
+        "cast_id": 12,
+        "character": "Dr. Vivian",
+        "credit_id": "52fe45c2c3a368484e06d5e3",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 92042,
+        "known_for_department": "Acting",
+        "name": "Frank Thornton",
+        "original_name": "Frank Thornton",
+        "popularity": 0.4984,
+        "profile_path": "/1B52SFlRkTQsgAw6MFbzsF1Kd2i.jpg",
+        "cast_id": 26,
+        "character": "Peperel",
+        "credit_id": "5f7c71823429ff0038b977a4",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 104302,
+        "known_for_department": "Acting",
+        "name": "Ronald Adam",
+        "original_name": "Ronald Adam",
+        "popularity": 0.4461,
+        "profile_path": "/l3C23sDp7wqZtRdaJzwGb2RhDJS.jpg",
+        "cast_id": 27,
+        "character": "Minister at Graveside",
+        "credit_id": "5f7c71a3fdfc9f0035adf387",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 140416,
+        "known_for_department": "Acting",
+        "name": "Denis Gilmore",
+        "original_name": "Denis Gilmore",
+        "popularity": 0.2558,
+        "profile_path": null,
+        "cast_id": 28,
+        "character": "Livery Boy",
+        "credit_id": "5f7c71b90e597b0035b11123",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1613400,
+        "known_for_department": "Acting",
+        "name": "Penelope Lee",
+        "original_name": "Penelope Lee",
+        "popularity": 0.1948,
+        "profile_path": null,
+        "cast_id": 29,
+        "character": "Lady Rowena's Maidservant",
+        "credit_id": "5f7c71e0d861af00387aa6dc",
+        "order": 9
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 11057,
+        "known_for_department": "Writing",
+        "name": "Robert Towne",
+        "original_name": "Robert Towne",
+        "popularity": 0.9051,
+        "profile_path": "/pc1bpO4nljMqvz0P8A9nC6fZa1.jpg",
+        "credit_id": "52fe45c2c3a368484e06d5b9",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 102609,
+        "known_for_department": "Production",
+        "name": "Pat Green",
+        "original_name": "Pat Green",
+        "popularity": 0.0457,
+        "profile_path": null,
+        "credit_id": "52fe45c2c3a368484e06d5cb",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 30138,
+        "known_for_department": "Camera",
+        "name": "Arthur Grant",
+        "original_name": "Arthur Grant",
+        "popularity": 0.26,
+        "profile_path": null,
+        "credit_id": "52fe45c2c3a368484e06d5bf",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 31291,
+        "known_for_department": "Sound",
+        "name": "Kenneth V. Jones",
+        "original_name": "Kenneth V. Jones",
+        "popularity": 0.0945,
+        "profile_path": null,
+        "credit_id": "52fe45c2c3a368484e06d5c5",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 102429,
+        "known_for_department": "Production",
+        "name": "Roger Corman",
+        "original_name": "Roger Corman",
+        "popularity": 1.1151,
+        "profile_path": "/m0ApZMol42l8vLV8MLpUSCpyA6n.jpg",
+        "credit_id": "52fe45c2c3a368484e06d5ad",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 48415,
+        "known_for_department": "Writing",
+        "name": "Edgar Allan Poe",
+        "original_name": "Edgar Allan Poe",
+        "popularity": 0.3289,
+        "profile_path": "/AlgddAgqBWRZUNHtX2Rue60HSIg.jpg",
+        "credit_id": "652add580cb33516fec7b5ba",
+        "department": "Writing",
+        "job": "Short Story"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1588226,
+        "known_for_department": "Sound",
+        "name": "Les Wiggins",
+        "original_name": "Les Wiggins",
+        "popularity": 0.18,
+        "profile_path": null,
+        "credit_id": "56e29882c3a3686ff9002396",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 30761,
+        "known_for_department": "Camera",
+        "name": "Moray Grant",
+        "original_name": "Moray Grant",
+        "popularity": 0.1723,
+        "profile_path": null,
+        "credit_id": "56e2981bc3a3686ff20023cf",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 30702,
+        "known_for_department": "Editing",
+        "name": "Alfred Cox",
+        "original_name": "Alfred Cox",
+        "popularity": 0.0457,
+        "profile_path": null,
+        "credit_id": "56e297f392514143cc000684",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1588862,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Pearl Orton",
+        "original_name": "Pearl Orton",
+        "popularity": 0.0594,
+        "profile_path": null,
+        "credit_id": "56e2989892514143cc0006a5",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1588861,
+        "known_for_department": "Sound",
+        "name": "Don Ranasinghe",
+        "original_name": "Don Ranasinghe",
+        "popularity": 0.044,
+        "profile_path": null,
+        "credit_id": "56e29871925141026100212d",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1276585,
+        "known_for_department": "Costume & Make-Up",
+        "name": "George Blackler",
+        "original_name": "George Blackler",
+        "popularity": 0.173,
+        "profile_path": null,
+        "credit_id": "56e298ab9251410261002140",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1588528,
+        "known_for_department": "Art",
+        "name": "Colin Southcott",
+        "original_name": "Colin Southcott",
+        "popularity": 0.0398,
+        "profile_path": null,
+        "credit_id": "56e29807c3a368700b0022e6",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2202101,
+        "known_for_department": "Sound",
+        "name": "Ken Ritchie",
+        "original_name": "Ken Ritchie",
+        "popularity": 0.1217,
+        "profile_path": null,
+        "credit_id": "5c3353fe9251416e4573586d",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2231114,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Mary Gibson",
+        "original_name": "Mary Gibson",
+        "popularity": 0.1206,
+        "profile_path": null,
+        "credit_id": "5c5a5647925141337fb796db",
+        "department": "Costume & Make-Up",
+        "job": "Wardrobe Master"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 108814,
+        "known_for_department": "Sound",
+        "name": "Bert Ross",
+        "original_name": "Bert Ross",
+        "popularity": 0.0971,
+        "profile_path": null,
+        "credit_id": "5ccd85f49251417cce274a82",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1556556,
+        "known_for_department": "Sound",
+        "name": "John Aldred",
+        "original_name": "John Aldred",
+        "popularity": 0.2124,
+        "profile_path": null,
+        "credit_id": "5ccd85e7c3a36836c1dd9cc9",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 102429,
+        "known_for_department": "Production",
+        "name": "Roger Corman",
+        "original_name": "Roger Corman",
+        "popularity": 1.1151,
+        "profile_path": "/m0ApZMol42l8vLV8MLpUSCpyA6n.jpg",
+        "credit_id": "5ff117d70c4c160040a3aac1",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1179041,
+        "known_for_department": "Crew",
+        "name": "Ted Samuels",
+        "original_name": "Ted Samuels",
+        "popularity": 0.0648,
+        "profile_path": null,
+        "credit_id": "5ff1184121118f003f240c70",
+        "department": "Crew",
+        "job": "Special Effects"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 30904,
+        "known_for_department": "Production",
+        "name": "Samuel Z. Arkoff",
+        "original_name": "Samuel Z. Arkoff",
+        "popularity": 0.2896,
+        "profile_path": "/2HduSEowO35hhpZrkCj2sdmxe4R.jpg",
+        "credit_id": "5ff117ac4f5801003feaa85e",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 14894,
+        "known_for_department": "Writing",
+        "name": "Paul Mayersberg",
+        "original_name": "Paul Mayersberg",
+        "popularity": 0.3596,
+        "profile_path": null,
+        "credit_id": "5ff11808bd990c003e73878c",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2359721,
+        "known_for_department": "Visual Effects",
+        "name": "Doug Ferris",
+        "original_name": "Doug Ferris",
+        "popularity": 0.1252,
+        "profile_path": null,
+        "credit_id": "5ff11827b540020044e97111",
+        "department": "Visual Effects",
+        "job": "Matte Painter"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1588528,
+        "known_for_department": "Art",
+        "name": "Colin Southcott",
+        "original_name": "Colin Southcott",
+        "popularity": 0.0398,
+        "profile_path": null,
+        "credit_id": "5ff1176c371097003dfb7b5a",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 28236,
+        "known_for_department": "Art",
+        "name": "Daniel Haller",
+        "original_name": "Daniel Haller",
+        "popularity": 0.5712,
+        "profile_path": "/8vC5szvbyNTGsog7q4pXLc3i8w2.jpg",
+        "credit_id": "5ff1178687a27a003f648e58",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 949674,
+        "known_for_department": "Production",
+        "name": "David Deutsch",
+        "original_name": "David Deutsch",
+        "popularity": 0.1137,
+        "profile_path": null,
+        "credit_id": "5ff117c44f5801003eeaa19c",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 51730,
+        "known_for_department": "Production",
+        "name": "James H. Nicholson",
+        "original_name": "James H. Nicholson",
+        "popularity": 0.2423,
+        "profile_path": null,
+        "credit_id": "5ff117e9ecc7e80040572d18",
+        "department": "Production",
+        "job": "Executive Producer"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "DE",
+        "title": "Das Grab des Grauens",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "BR",
+        "title": "Túmulo Sinistro",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "BR",
+        "title": "A Tumba de Ligeia",
+        "type": "Cable TV Title"
+      },
+      {
+        "iso_3166_1": "RU",
+        "title": "Гробница Лигейи",
+        "type": "Soviet Union"
+      },
+      {
+        "iso_3166_1": "US",
+        "title": "Tomb of the Cat",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "US",
+        "title": "Last Tomb of Ligeia",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "GB",
+        "title": "Edgar Allan Poe's The Tomb of Ligeia",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "IT",
+        "title": "La Tomba di Ligeia",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "ES",
+        "title": "Tombe de Ligeia",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "GR",
+        "title": "Ο Τάφος με τα 7 Μυστικά",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "JP",
+        "title": "黒猫の棲む館",
+        "type": ""
+      }
+    ]
+  }
+}

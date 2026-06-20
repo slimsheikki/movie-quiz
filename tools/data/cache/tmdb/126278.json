@@ -1,0 +1,396 @@
+{
+  "adult": false,
+  "backdrop_path": "/8dSbJfSUTIFLSRCPMelKrumasdo.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "",
+  "id": 126278,
+  "imdb_id": "tt0066517",
+  "origin_country": [
+    "ES"
+  ],
+  "original_language": "en",
+  "original_title": "Cuadecuc, vampir",
+  "overview": "An atmospheric essay, which is an alternative version of Count Dracula, a film directed by Jess Franco in 1970; a ghostly narration between fiction and reality.",
+  "popularity": 0.5373,
+  "poster_path": "/cDy9lPcqJCblNgceoaz2fnG0qDp.jpg",
+  "production_companies": [
+    {
+      "id": 37802,
+      "logo_path": "/qcYcBGZFIzRR3rvXkYSU4xDlftZ.png",
+      "name": "Films 59",
+      "origin_country": "ES"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "ES",
+      "name": "Spain"
+    }
+  ],
+  "release_date": "1972-05-05",
+  "revenue": 0,
+  "runtime": 67,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Vampir Cuadecuc",
+  "video": false,
+  "vote_average": 6.154,
+  "vote_count": 39,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 113,
+        "known_for_department": "Acting",
+        "name": "Christopher Lee",
+        "original_name": "Christopher Lee",
+        "popularity": 2.3204,
+        "profile_path": "/dA26fBr3t7mKqjn3OYW6kbD1LXM.jpg",
+        "cast_id": 2,
+        "character": "Self",
+        "credit_id": "52fe4adbc3a368484e16aa89",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 14503,
+        "known_for_department": "Acting",
+        "name": "Herbert Lom",
+        "original_name": "Herbert Lom",
+        "popularity": 1.1064,
+        "profile_path": "/1sqfpn8EzsCgQdwmB8NP4bLWYlP.jpg",
+        "cast_id": 3,
+        "character": "Self",
+        "credit_id": "52fe4adbc3a368484e16aa8d",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 44409,
+        "known_for_department": "Acting",
+        "name": "Soledad Miranda",
+        "original_name": "Soledad Miranda",
+        "popularity": 0.7682,
+        "profile_path": "/lPFIk58YBqqeqxJPagMjOG1yXqL.jpg",
+        "cast_id": 4,
+        "character": "Self",
+        "credit_id": "52fe4adbc3a368484e16aa91",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 8927,
+        "known_for_department": "Acting",
+        "name": "Jack Taylor",
+        "original_name": "Jack Taylor",
+        "popularity": 0.6754,
+        "profile_path": "/nbRfoBvYvV3WHx9NBgUsg2sNj6h.jpg",
+        "cast_id": 5,
+        "character": "Self",
+        "credit_id": "557ec882c3a36821b0001de7",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 32129,
+        "known_for_department": "Acting",
+        "name": "Maria Rohm",
+        "original_name": "Maria Rohm",
+        "popularity": 0.4875,
+        "profile_path": "/2Adg5zWLkeWdrC4t3sQ48dF9nwo.jpg",
+        "cast_id": 23,
+        "character": "Self",
+        "credit_id": "635673b85f4b73007b867882",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 44358,
+        "known_for_department": "Acting",
+        "name": "Fred Williams",
+        "original_name": "Fred Williams",
+        "popularity": 0.4112,
+        "profile_path": "/dBvZnvcgzyvjoh2i6bpIR7KuBzC.jpg",
+        "cast_id": 24,
+        "character": "Self",
+        "credit_id": "635673d443cd54007f77d0ee",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 101549,
+        "known_for_department": "Acting",
+        "name": "Paul Müller",
+        "original_name": "Paul Müller",
+        "popularity": 0.4652,
+        "profile_path": "/sOtKH3ouYaWH6EzNdfxNqCT6zUY.jpg",
+        "cast_id": 25,
+        "character": "Self",
+        "credit_id": "635673dfc9dbf9007f034e5c",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 35261,
+        "known_for_department": "Acting",
+        "name": "Jeannine Mestre",
+        "original_name": "Jeannine Mestre",
+        "popularity": 0.2364,
+        "profile_path": null,
+        "cast_id": 26,
+        "character": "Self",
+        "credit_id": "635673e9d18fb9007ab3c728",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 97662,
+        "known_for_department": "Acting",
+        "name": "Emma Cohen",
+        "original_name": "Emma Cohen",
+        "popularity": 0.5012,
+        "profile_path": "/p3nH6jMb4CmYBhwp6zeR8zvgAva.jpg",
+        "cast_id": 27,
+        "character": "Self",
+        "credit_id": "635673fda06efe007a65995e",
+        "order": 8
+      },
+      {
+        "adult": true,
+        "gender": 2,
+        "id": 30956,
+        "known_for_department": "Directing",
+        "name": "Jesús Franco",
+        "original_name": "Jesús Franco",
+        "popularity": 0,
+        "profile_path": "/sVhaKFvmqD80EbWLTu7sGMbGDt0.jpg",
+        "cast_id": 28,
+        "character": "Self",
+        "credit_id": "6356740a43250f007ab6fbcb",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 97727,
+        "known_for_department": "Acting",
+        "name": "Colette Giacobine",
+        "original_name": "Colette Giacobine",
+        "popularity": 0.7284,
+        "profile_path": "/w3M3CqSTiDc6YNFul6COZ0ReKyY.jpg",
+        "cast_id": 30,
+        "character": "Self / Greta, Housekeeper (uncredited)",
+        "credit_id": "641b6f68d75bd600d784881d",
+        "order": 10
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1459714,
+        "known_for_department": "Acting",
+        "name": "Joan Enric Lahosa",
+        "original_name": "Joan Enric Lahosa",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "60889fec2dda89007a43d1c1",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 100729,
+        "known_for_department": "Writing",
+        "name": "Anne Settimó",
+        "original_name": "Anne Settimó",
+        "popularity": 0.0727,
+        "profile_path": null,
+        "credit_id": "6088a007da10f000582daa19",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 37497,
+        "known_for_department": "Directing",
+        "name": "Pere Portabella",
+        "original_name": "Pere Portabella",
+        "popularity": 0.1474,
+        "profile_path": "/vS6B7Ug4RaZjYEWm7PX645Y7n84.jpg",
+        "credit_id": "52fe4adbc3a368484e16aa85",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1107459,
+        "known_for_department": "Sound",
+        "name": "Carles Santos",
+        "original_name": "Carles Santos",
+        "popularity": 0.1074,
+        "profile_path": "/jlvm1SWHywuYf0lHYNnx88SfpH2.jpg",
+        "credit_id": "6356687443250f00825a2ce3",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1308003,
+        "known_for_department": "Directing",
+        "name": "Pere Joan Ventura",
+        "original_name": "Pere Joan Ventura",
+        "popularity": 0.0996,
+        "profile_path": null,
+        "credit_id": "641b6ee7d75bd600d78487fe",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 37497,
+        "known_for_department": "Directing",
+        "name": "Pere Portabella",
+        "original_name": "Pere Portabella",
+        "popularity": 0.1474,
+        "profile_path": "/vS6B7Ug4RaZjYEWm7PX645Y7n84.jpg",
+        "credit_id": "599f14a0c3a3683f2500180e",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1107473,
+        "known_for_department": "Writing",
+        "name": "Joan Brossa",
+        "original_name": "Joan Brossa",
+        "popularity": 0.0968,
+        "profile_path": null,
+        "credit_id": "599f14a9c3a3683ef9001aa0",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1107474,
+        "known_for_department": "Crew",
+        "name": "Manuel Esteban Marquilles",
+        "original_name": "Manuel Esteban Marquilles",
+        "popularity": 0.0684,
+        "profile_path": null,
+        "credit_id": "599f14bfc3a3683f60001a4e",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1876238,
+        "known_for_department": "Editing",
+        "name": "Miguel Bonastre",
+        "original_name": "Miguel Bonastre",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "599f14cd9251410e62001a41",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1329433,
+        "known_for_department": "Sound",
+        "name": "Jordi Sangenís",
+        "original_name": "Jordi Sangenís",
+        "popularity": 0.0994,
+        "profile_path": null,
+        "credit_id": "599f14d89251410e120019e4",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 37497,
+        "known_for_department": "Directing",
+        "name": "Pere Portabella",
+        "original_name": "Pere Portabella",
+        "popularity": 0.1474,
+        "profile_path": "/vS6B7Ug4RaZjYEWm7PX645Y7n84.jpg",
+        "credit_id": "5c4cd6b89251410e0a5ad901",
+        "department": "Production",
+        "job": "Producer"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "ES",
+        "title": "Vampir",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "CA",
+        "title": "Vampir Cuadecuc",
+        "type": "English Title"
+      },
+      {
+        "iso_3166_1": "FR",
+        "title": "Cuadecuc",
+        "type": "DVD Title"
+      },
+      {
+        "iso_3166_1": "SU",
+        "title": "Неотснятая плёнка, вампир",
+        "type": "Russian Title"
+      },
+      {
+        "iso_3166_1": "ES",
+        "title": "Vampir Cuadecuc",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "GB",
+        "title": "Vampir-Cuadecuc",
+        "type": ""
+      }
+    ]
+  }
+}

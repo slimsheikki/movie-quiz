@@ -1,0 +1,763 @@
+{
+  "adult": false,
+  "backdrop_path": "/gZwQip2KQRDNZZOEDe0Yi25tW9Z.jpg",
+  "belongs_to_collection": null,
+  "budget": 220000,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    }
+  ],
+  "homepage": "",
+  "id": 57283,
+  "imdb_id": "tt0013257",
+  "origin_country": [
+    "DK",
+    "SE"
+  ],
+  "original_language": "sv",
+  "original_title": "Häxan",
+  "overview": "Grave robbing, torture, possessed nuns, and a satanic Sabbath: Benjamin Christensen's legendary film uses a series of dramatic vignettes to explore the scientific hypothesis that the witches of the Middle Ages suffered the same hysteria as turn-of-the-century psychiatric patients. But the film itself is far from serious-- instead it's a witches' brew of the scary, gross, and darkly humorous.",
+  "popularity": 1.5197,
+  "poster_path": "/3LtaPLlwlA5HX2FjqAb8lsaBI8P.jpg",
+  "production_companies": [
+    {
+      "id": 78552,
+      "logo_path": null,
+      "name": "Aljosha Production Company",
+      "origin_country": ""
+    },
+    {
+      "id": 6181,
+      "logo_path": "/gYyww91VI1jdH89xpZgFFc8zN3F.png",
+      "name": "SF Studios",
+      "origin_country": "SE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "SE",
+      "name": "Sweden"
+    }
+  ],
+  "release_date": "1922-09-18",
+  "revenue": 0,
+  "runtime": 105,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "status": "Released",
+  "tagline": "But isn’t superstition still rampant among us?",
+  "title": "Häxan",
+  "video": false,
+  "vote_average": 7.628,
+  "vote_count": 436,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 89674,
+        "known_for_department": "Directing",
+        "name": "Benjamin Christensen",
+        "original_name": "Benjamin Christensen",
+        "popularity": 0.2493,
+        "profile_path": "/uUDlLoJQo9HSai9ldDM3WVZW2r5.jpg",
+        "cast_id": 9,
+        "character": "Devil",
+        "credit_id": "547f23b2c3a368396f0017ef",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1040932,
+        "known_for_department": "Acting",
+        "name": "Ella La Cour",
+        "original_name": "Ella La Cour",
+        "popularity": 0.095,
+        "profile_path": "/rvyMVB7vA6e2vN1gU35A1eAxf3O.jpg",
+        "cast_id": 25,
+        "character": "Karna / Sorceress",
+        "credit_id": "59d3d2b89251414b70002de7",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1501721,
+        "known_for_department": "Acting",
+        "name": "Emmy Schønfeld",
+        "original_name": "Emmy Schønfeld",
+        "popularity": 0.0505,
+        "profile_path": null,
+        "cast_id": 23,
+        "character": "Karna's Assistant",
+        "credit_id": "59d3d2969251414b7f002ed4",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1086979,
+        "known_for_department": "Acting",
+        "name": "Kate Fabian",
+        "original_name": "Kate Fabian",
+        "popularity": 0.2315,
+        "profile_path": "/8IKm3r8AL6s5MEw8muzPLiU2INJ.jpg",
+        "cast_id": 16,
+        "character": "Old Maid",
+        "credit_id": "59d3d21c9251414b45002bba",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 89678,
+        "known_for_department": "Acting",
+        "name": "Oscar Stribolt",
+        "original_name": "Oscar Stribolt",
+        "popularity": 0.0755,
+        "profile_path": "/nlyxzdKiuX2SJqSluRDC0J74H0b.jpg",
+        "cast_id": 3,
+        "character": "Fat Monk",
+        "credit_id": "52fe492cc3a36847f818ceef",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2451851,
+        "known_for_department": "Acting",
+        "name": "Wilhelmine Henriksen",
+        "original_name": "Wilhelmine Henriksen",
+        "popularity": 0.1512,
+        "profile_path": null,
+        "cast_id": 47,
+        "character": "Apelone / A Poor Old Woman",
+        "credit_id": "624a232a05f9cf004e0d56de",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1899191,
+        "known_for_department": "Acting",
+        "name": "Elisabeth Christensen",
+        "original_name": "Elisabeth Christensen",
+        "popularity": 0.1116,
+        "profile_path": null,
+        "cast_id": 26,
+        "character": "Anna's Mother",
+        "credit_id": "59d3d2cac3a368453f002c89",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 222682,
+        "known_for_department": "Acting",
+        "name": "Astrid Holm",
+        "original_name": "Astrid Holm",
+        "popularity": 0.2043,
+        "profile_path": "/jR12TBYyknEzvUNYqdHCfS9kSXw.jpg",
+        "cast_id": 18,
+        "character": "Anna",
+        "credit_id": "59d3d2429251414ba5002e7e",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1470221,
+        "known_for_department": "Acting",
+        "name": "Karen Winther",
+        "original_name": "Karen Winther",
+        "popularity": 0.0913,
+        "profile_path": "/emJjwvl5m0wrrA85RBGxXWoj5By.jpg",
+        "cast_id": 46,
+        "character": "Anna's Sister",
+        "credit_id": "5dc46bd28e2ba6001490df49",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 89675,
+        "known_for_department": "Acting",
+        "name": "Maren Pedersen",
+        "original_name": "Maren Pedersen",
+        "popularity": 0.0281,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "Maria the Weaver / A Witch",
+        "credit_id": "52fe492cc3a36847f818cef3",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3491906,
+        "known_for_department": "Acting",
+        "name": "Johannes Andersen",
+        "original_name": "Johannes Andersen",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "cast_id": 48,
+        "character": "Pater Henrik / Witch Judge",
+        "credit_id": "624a2a4808cf8700631307b1",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 89677,
+        "known_for_department": "Acting",
+        "name": "Elith Pio",
+        "original_name": "Elith Pio",
+        "popularity": 0.1545,
+        "profile_path": "/uRns9P8BrjGyb3CI8Sbclp8aWWc.jpg",
+        "cast_id": 2,
+        "character": "Johannes / Witch Judge",
+        "credit_id": "52fe492cc3a36847f818ceeb",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1268655,
+        "known_for_department": "Acting",
+        "name": "Aage Hertel",
+        "original_name": "Aage Hertel",
+        "popularity": 0.0932,
+        "profile_path": "/x04ElBzmql7rAFzMpP2zJi7bYcT.jpg",
+        "cast_id": 21,
+        "character": "Witch Judge",
+        "credit_id": "59d3d26dc3a3684528002c52",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 85001,
+        "known_for_department": "Acting",
+        "name": "Ib Schønberg",
+        "original_name": "Ib Schønberg",
+        "popularity": 0.156,
+        "profile_path": "/5w2hCFgALPcuCMSXKmxY9xvkPHz.jpg",
+        "cast_id": 22,
+        "character": "Witch Judge",
+        "credit_id": "59d3d2829251414b70002db6",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1899192,
+        "known_for_department": "Acting",
+        "name": "Holst Jørgensen",
+        "original_name": "Holst Jørgensen",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 31,
+        "character": "Peter Titta",
+        "credit_id": "59d3d30d9251414b5c002f9f",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 89676,
+        "known_for_department": "Acting",
+        "name": "Clara Pontoppidan",
+        "original_name": "Clara Pontoppidan",
+        "popularity": 0.1106,
+        "profile_path": "/k5yBFjxpOQCtTKG3UF9pkOKBEF.jpg",
+        "cast_id": 5,
+        "character": "Sister Cecilia / Nun",
+        "credit_id": "52fe492cc3a36847f818cef7",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1899187,
+        "known_for_department": "Acting",
+        "name": "Else Vermehren",
+        "original_name": "Else Vermehren",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "cast_id": 17,
+        "character": "Flagellating Nun",
+        "credit_id": "59d3d2289251414b5c002eac",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 117937,
+        "known_for_department": "Directing",
+        "name": "Alice O'Fredericks",
+        "original_name": "Alice O'Fredericks",
+        "popularity": 0.2221,
+        "profile_path": "/80Cgitu2Ikr8cJOI69Y7W4qoKpO.jpg",
+        "cast_id": 28,
+        "character": "Nun",
+        "credit_id": "59d3d2e3c3a3684572002a63",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1263277,
+        "known_for_department": "Acting",
+        "name": "Gerda Madsen",
+        "original_name": "Gerda Madsen",
+        "popularity": 0.1184,
+        "profile_path": "/mckrrRPysWCK5KhmTL0WlcGVDzV.jpg",
+        "cast_id": 20,
+        "character": "Nun",
+        "credit_id": "59d3d261c3a3684550002dfc",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1086978,
+        "known_for_department": "Acting",
+        "name": "Karina Bell",
+        "original_name": "Karina Bell",
+        "popularity": 0.057,
+        "profile_path": "/5MKUUMTSmocpZ1qegN7q4PsxJrt.jpg",
+        "cast_id": 34,
+        "character": "Nun",
+        "credit_id": "59d3d338c3a368451b002970",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 599669,
+        "known_for_department": "Acting",
+        "name": "Tora Teje",
+        "original_name": "Tora Teje",
+        "popularity": 0.0868,
+        "profile_path": "/tTTwDxGBkWike9y4CKZjrxO8kDj.jpg",
+        "cast_id": 8,
+        "character": "Modern Hysteric and Kleptomaniac",
+        "credit_id": "547f2390c3a36839650015b3",
+        "order": 20
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 579016,
+        "known_for_department": "Acting",
+        "name": "Poul Reumert",
+        "original_name": "Poul Reumert",
+        "popularity": 0.0856,
+        "profile_path": "/Ag87moMaPp8EGsoiwkfVeD4G5mS.jpg",
+        "cast_id": 14,
+        "character": "Jeweler",
+        "credit_id": "59d3d2049251414ba5002e35",
+        "order": 21
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1272527,
+        "known_for_department": "Acting",
+        "name": "H.C. Nielsen",
+        "original_name": "H.C. Nielsen",
+        "popularity": 0.0409,
+        "profile_path": null,
+        "cast_id": 32,
+        "character": "Jeweler's Assistant",
+        "credit_id": "59d3d31dc3a3684528002d0f",
+        "order": 22
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1170361,
+        "known_for_department": "Acting",
+        "name": "Albrecht Schmidt",
+        "original_name": "Albrecht Schmidt",
+        "popularity": 0.0261,
+        "profile_path": "/vb5nSlwqNOvvPv0daqXgRzD2ndf.jpg",
+        "cast_id": 33,
+        "character": "Psychiatrist",
+        "credit_id": "59d3d3299251414b7f002f75",
+        "order": 23
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1105403,
+        "known_for_department": "Acting",
+        "name": "Knud Rassow",
+        "original_name": "Knud Rassow",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 29,
+        "character": "Anatomist",
+        "credit_id": "59d3d2f29251414b7f002f43",
+        "order": 24
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1272617,
+        "known_for_department": "Acting",
+        "name": "Ellen Rassow",
+        "original_name": "Ellen Rassow",
+        "popularity": 0.0379,
+        "profile_path": "/AexYx188pZuWe3Ekak25B5Rysnu.jpg",
+        "cast_id": 30,
+        "character": "Maid",
+        "credit_id": "59d3d300c3a3684594002e91",
+        "order": 25
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1268516,
+        "known_for_department": "Acting",
+        "name": "Frederik Christensen",
+        "original_name": "Frederik Christensen",
+        "popularity": 0.0614,
+        "profile_path": "/w8sp1HLa2uYc26tnuIOQlNOiR9q.jpg",
+        "cast_id": 24,
+        "character": "Citizen",
+        "credit_id": "59d3d2a3c3a3684594002e14",
+        "order": 26
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1268659,
+        "known_for_department": "Acting",
+        "name": "Henry Seemann",
+        "original_name": "Henry Seemann",
+        "popularity": 0.1352,
+        "profile_path": "/3tpFxXkIKtAfJzt0byPqY99llhI.jpg",
+        "cast_id": 27,
+        "character": "Citizen",
+        "credit_id": "59d3d2d79251414b70002e00",
+        "order": 27
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1129187,
+        "known_for_department": "Acting",
+        "name": "Karen Caspersen",
+        "original_name": "Karen Caspersen",
+        "popularity": 0.0327,
+        "profile_path": "/4m1HzGKa9FlXjG5dHBbflEZBwE.jpg",
+        "cast_id": 49,
+        "character": "Unidentified",
+        "credit_id": "624a2c94d9f4a60063652acd",
+        "order": 28
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1268228,
+        "known_for_department": "Acting",
+        "name": "Holger Pedersen",
+        "original_name": "Holger Pedersen",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 50,
+        "character": "Unidentified",
+        "credit_id": "624a2d0d283ed9006327598f",
+        "order": 29
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3491969,
+        "known_for_department": "Acting",
+        "name": "John Andersen",
+        "original_name": "John Andersen",
+        "popularity": 0.0261,
+        "profile_path": null,
+        "cast_id": 51,
+        "character": "Chief Inquisitor",
+        "credit_id": "624a37114bfa540095ac82f5",
+        "order": 30
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 89674,
+        "known_for_department": "Directing",
+        "name": "Benjamin Christensen",
+        "original_name": "Benjamin Christensen",
+        "popularity": 0.2493,
+        "profile_path": "/uUDlLoJQo9HSai9ldDM3WVZW2r5.jpg",
+        "credit_id": "52fe492cc3a36847f818cee7",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1268490,
+        "known_for_department": "Camera",
+        "name": "Johan Ankerstjerne",
+        "original_name": "Johan Ankerstjerne",
+        "popularity": 0.1076,
+        "profile_path": null,
+        "credit_id": "547f22dbc3a368395c00189c",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 89674,
+        "known_for_department": "Directing",
+        "name": "Benjamin Christensen",
+        "original_name": "Benjamin Christensen",
+        "popularity": 0.2493,
+        "profile_path": "/uUDlLoJQo9HSai9ldDM3WVZW2r5.jpg",
+        "credit_id": "547f2231c3a368396f0017c1",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1341311,
+        "known_for_department": "Editing",
+        "name": "Edla Hansen",
+        "original_name": "Edla Hansen",
+        "popularity": 0.0327,
+        "profile_path": null,
+        "credit_id": "576f6dfdc3a3684733003e46",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1641442,
+        "known_for_department": "Art",
+        "name": "Richard Louw",
+        "original_name": "Richard Louw",
+        "popularity": 0.0327,
+        "profile_path": null,
+        "credit_id": "576f6e0892514118d100309f",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1641442,
+        "known_for_department": "Art",
+        "name": "Richard Louw",
+        "original_name": "Richard Louw",
+        "popularity": 0.0327,
+        "profile_path": null,
+        "credit_id": "576f6e0f925141285500580c",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1624134,
+        "known_for_department": "Art",
+        "name": "Helge Norél",
+        "original_name": "Helge Norél",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "59d3d4219251414b5c0030c2",
+        "department": "Art",
+        "job": "Art Department Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1543792,
+        "known_for_department": "Art",
+        "name": "Lise Mathiesen",
+        "original_name": "Lise Mathiesen",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "59d3d410c3a3684572002b5c",
+        "department": "Art",
+        "job": "Art Department Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2522,
+        "known_for_department": "Sound",
+        "name": "Ludwig van Beethoven",
+        "original_name": "Ludwig van Beethoven",
+        "popularity": 0.4324,
+        "profile_path": "/bSyMM4Y7qWLKMvDuynPJ3mn3Pup.jpg",
+        "credit_id": "5a8a8c399251410a1f070e6a",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1981286,
+        "known_for_department": "Sound",
+        "name": "Launy Grøndahl",
+        "original_name": "Launy Grøndahl",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "5a8a8c73c3a36862070712b6",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "US",
+        "title": "The Witches",
+        "type": "Informal Title"
+      },
+      {
+        "iso_3166_1": "BR",
+        "title": "Häxan - A Feitiçaria Através dos Tempos",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "DE",
+        "title": "Die Hexe",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "DK",
+        "title": "Heksen",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "ES",
+        "title": "La brujería a través de los tiempos",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "FI",
+        "title": "Noita",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "FR",
+        "title": "La sorcellerie à travers les ages",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "HU",
+        "title": "Boszorkányok",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "IT",
+        "title": "La stregoneria attraverso i secoli",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "PL",
+        "title": "Czarownice",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "PT",
+        "title": "A Feitiçaria Através dos Tempos",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "GB",
+        "title": "Häxan: Witchcraft Through the Ages",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "SU",
+        "title": "Ведьмы",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "RO",
+        "title": "Vrăjitoria de-a lungul veacurilor",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "GR",
+        "title": "Η Μαγεία Μέσα από τους Αιώνες",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "DE",
+        "title": "Hexen",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "KR",
+        "title": "헥산: 마녀들",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "ES",
+        "title": "Häxan. La brujería a través de los tiempos",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "ES",
+        "title": "Häxan: La brujería a través de los tiempos",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "GB",
+        "title": "Witchcaft Through the Ages",
+        "type": "alternative title"
+      },
+      {
+        "iso_3166_1": "CZ",
+        "title": "Häxan: Čarodějnictví v průběhu věků",
+        "type": "Edisonline title"
+      },
+      {
+        "iso_3166_1": "US",
+        "title": "Haxan",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "JP",
+        "title": "魔女",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "EE",
+        "title": "Nõid",
+        "type": "Alternative title"
+      }
+    ]
+  }
+}

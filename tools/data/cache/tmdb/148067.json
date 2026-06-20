@@ -1,0 +1,176 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ],
+  "homepage": "",
+  "id": 148067,
+  "imdb_id": "tt0896550",
+  "origin_country": [
+    "JP"
+  ],
+  "original_language": "ja",
+  "original_title": "マルドロオルの歌",
+  "overview": "A “reading film” of delirious image and text, Les chants de Maldoror takes its title and inspiration from Comte de Lautréamont’s 1869 proto-Surrealist poetic novel which, for instance, describes beauty as the chance encounter of a sewing machine and an umbrella on an operating table. In the novel’s six cantos, a young misanthrope indulges in depraved and destructive acts. Unexpected encounters abound, with turtles and birds joining Terayama’s regular cast of snails and dogs to wander over books and bare torsos. Feverish video processing posterizes, inverts and overlays images that are further colored by sound—pushing the limits of his literary adaptation. Terayama wrote that the only tombstone he wanted was his words, but, as Les chants de Maldoror demonstrates, words need not be confined to carved monuments or bound hardcopies.",
+  "popularity": 0.2964,
+  "poster_path": "/aZ9haOAeUYSQfi1EqOcAeN4Tl0g.jpg",
+  "production_companies": [
+    {
+      "id": 12797,
+      "logo_path": null,
+      "name": "Jinriki Hikoki Sha",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    }
+  ],
+  "release_date": "1978-02-02",
+  "revenue": 0,
+  "runtime": 30,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Les chants de Maldoror",
+  "video": false,
+  "vote_average": 6.4,
+  "vote_count": 8,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 137516,
+        "known_for_department": "Acting",
+        "name": "Keiko Niitaka",
+        "original_name": "新高恵子",
+        "popularity": 0.5933,
+        "profile_path": "/3IJfppa52tcKAQJfPrkBdyPENnL.jpg",
+        "cast_id": 2,
+        "character": "",
+        "credit_id": "52fe4bbe9251416c7510c9fb",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1127064,
+        "known_for_department": "Acting",
+        "name": "Susumu Oono",
+        "original_name": "Susumu Oono",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "",
+        "credit_id": "52fe4bbe9251416c7510c9ff",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1127065,
+        "known_for_department": "Acting",
+        "name": "Yoko Ran",
+        "original_name": "Yoko Ran",
+        "popularity": 0.1028,
+        "profile_path": "/k6aQEzoJuJJ7monji2S5GqAUiLq.jpg",
+        "cast_id": 4,
+        "character": "",
+        "credit_id": "52fe4bbe9251416c7510ca03",
+        "order": 2
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 137495,
+        "known_for_department": "Directing",
+        "name": "Shūji Terayama",
+        "original_name": "寺山修司",
+        "popularity": 0.8098,
+        "profile_path": "/n2zFgMKGmniENJIDijCA4koXRcj.jpg",
+        "credit_id": "52fe4bbe9251416c7510c9f7",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1686904,
+        "known_for_department": "Writing",
+        "name": "Comte de Lautréamont",
+        "original_name": "Comte de Lautréamont",
+        "popularity": 0.0614,
+        "profile_path": null,
+        "credit_id": "57ee65d6c3a3682a65003b7d",
+        "department": "Writing",
+        "job": "Novel"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 137495,
+        "known_for_department": "Directing",
+        "name": "Shūji Terayama",
+        "original_name": "寺山修司",
+        "popularity": 0.8098,
+        "profile_path": "/n2zFgMKGmniENJIDijCA4koXRcj.jpg",
+        "credit_id": "57ee65edc3a3684d9a0055c4",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1200245,
+        "known_for_department": "Sound",
+        "name": "Akio Suzuki",
+        "original_name": "Akio Suzuki",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "57ee6626c3a3682aa10042b4",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 17550,
+        "known_for_department": "Camera",
+        "name": "Tatsuo Suzuki",
+        "original_name": "鈴木達夫",
+        "popularity": 0.1789,
+        "profile_path": "/1Cpzp20MdjIoDzslu7hjvDHRMje.jpg",
+        "credit_id": "5c6870670e0a262be69528cf",
+        "department": "Camera",
+        "job": "Director of Photography"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "JP",
+        "title": "Marudororu no uta",
+        "type": ""
+      }
+    ]
+  }
+}

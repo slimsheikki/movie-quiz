@@ -1,0 +1,687 @@
+{
+  "adult": false,
+  "backdrop_path": "/pDu79URb96QRt3fqgGKnP5pVKXO.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 47408,
+  "imdb_id": "tt0423034",
+  "origin_country": [
+    "JP"
+  ],
+  "original_language": "ja",
+  "original_title": "乱歩地獄",
+  "overview": "An anthology film consisting of four segments based on literary works by Edogawa Ranpo.",
+  "popularity": 1.5085,
+  "poster_path": "/xktqY1aq0944nlcAcXcQt38XOpn.jpg",
+  "production_companies": [
+    {
+      "id": 8568,
+      "logo_path": null,
+      "name": "Albatros Filmproduktion",
+      "origin_country": "DE"
+    },
+    {
+      "id": 5071,
+      "logo_path": "/zLaVXa4mmUNdvo1HbA7c9POfCoI.png",
+      "name": "Culture Publishers",
+      "origin_country": "JP"
+    },
+    {
+      "id": 3362,
+      "logo_path": "/mGMVj7tbY41dNXK00X58CQpxbPs.png",
+      "name": "Geneon Entertainment",
+      "origin_country": "JP"
+    },
+    {
+      "id": 2073,
+      "logo_path": "/tWxRSaKmRJNTcmtlXsmn5R4KOSU.png",
+      "name": "KADOKAWA",
+      "origin_country": "JP"
+    },
+    {
+      "id": 7414,
+      "logo_path": null,
+      "name": "Micott & Basara K.K.",
+      "origin_country": "JP"
+    },
+    {
+      "id": 51919,
+      "logo_path": "/ma8dCuKY8rEw9t4z4k7b3bmWZcQ.png",
+      "name": "New Select",
+      "origin_country": "JP"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    }
+  ],
+  "release_date": "2005-05-11",
+  "revenue": 0,
+  "runtime": 134,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    }
+  ],
+  "status": "Released",
+  "tagline": "4 chilling tales into the mind of madness.",
+  "title": "Rampo Noir",
+  "video": false,
+  "vote_average": 5.743,
+  "vote_count": 35,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 13275,
+        "known_for_department": "Acting",
+        "name": "Tadanobu Asano",
+        "original_name": "浅野忠信",
+        "popularity": 3.0258,
+        "profile_path": "/3CBpfGRcPq1jEeYr51TiOiNbZzT.jpg",
+        "cast_id": 1,
+        "character": "Man / Kogoro Akechi / Masaki / Fuyo's Lover",
+        "credit_id": "52fe4731c3a36847f81285ab",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 104523,
+        "known_for_department": "Acting",
+        "name": "Hiroki Narimiya",
+        "original_name": "成宮寛貴",
+        "popularity": 1.0885,
+        "profile_path": "/vSQJ51HUdoeEDCW5J18BD8VwzMM.jpg",
+        "cast_id": 16,
+        "character": "Toru (segment \"Mirror Hell\")",
+        "credit_id": "54bc493f92514148b00065a5",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 72932,
+        "known_for_department": "Acting",
+        "name": "Ryuhei Matsuda",
+        "original_name": "松田龍平",
+        "popularity": 1.6406,
+        "profile_path": "/tG3wMOri6LdDV0ccnP0nNNF5TM4.jpg",
+        "cast_id": 14,
+        "character": "Tarô Hirai (segment \"Caterpillar\")",
+        "credit_id": "54bc490f9251413635003c8f",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 43665,
+        "known_for_department": "Acting",
+        "name": "Yukiko Okamoto",
+        "original_name": "岡元夕紀子",
+        "popularity": 0.7305,
+        "profile_path": "/oSyHoId8GSAy8LgmJeQ82hqXKjW.jpg",
+        "cast_id": 17,
+        "character": "Tokiko Sunaga (segment \"Caterpillar\")",
+        "credit_id": "54bc4957c3a368389c002859",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 58604,
+        "known_for_department": "Acting",
+        "name": "Nao Omori",
+        "original_name": "大森南朋",
+        "popularity": 1.2394,
+        "profile_path": "/5cydxO4jcAEt7K1u4ops71EhCdj.jpg",
+        "cast_id": 18,
+        "character": "First Lieutenant Sunaga (segment \"Caterpillar\")",
+        "credit_id": "54bc4960c3a3681da0000006",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 65511,
+        "known_for_department": "Acting",
+        "name": "Minori Terada",
+        "original_name": "寺田農",
+        "popularity": 2.5744,
+        "profile_path": "/sMgy1Gn24zHOyy82ksabfZHaWcv.jpg",
+        "cast_id": 20,
+        "character": "Inspector Namikoshi (segment \"Mirror Hell\")",
+        "credit_id": "54bc4975c3a3684046004349",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1053775,
+        "known_for_department": "Acting",
+        "name": "Yumi Yoshiyuki",
+        "original_name": "吉行由実",
+        "popularity": 3.4768,
+        "profile_path": "/zSQoqg39mF0x6kZScAdyHbPlniQ.jpg",
+        "cast_id": 22,
+        "character": "Sayoko (segment \"Mirror Hell\")",
+        "credit_id": "54bc499392514148b00065b9",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 13257,
+        "known_for_department": "Acting",
+        "name": "Yuko Daike",
+        "original_name": "大家由祐子",
+        "popularity": 0.8453,
+        "profile_path": "/oGHhUuP56hVLLERAyXBECLZ4KAW.jpg",
+        "cast_id": 7,
+        "character": "Harumi (segment \"Mirror Hell\")",
+        "credit_id": "52fe4732c3a36847f81285cd",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1475720,
+        "known_for_department": "Acting",
+        "name": "Harumi Ogawa",
+        "original_name": "小川はるみ",
+        "popularity": 0.3027,
+        "profile_path": null,
+        "cast_id": 44,
+        "character": "Azusa (segment \"Mirror Hell\")",
+        "credit_id": "634cc2ba9e458600811ad87e",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 66592,
+        "known_for_department": "Acting",
+        "name": "Tamaki Ogawa",
+        "original_name": "緒川たまき",
+        "popularity": 0.5886,
+        "profile_path": "/jjaK8GzmRsvQZ4vmkuyG1RF8NGQ.jpg",
+        "cast_id": 24,
+        "character": "Fuyu Kinoshita (segment \"Crawling Bugs\")",
+        "credit_id": "55e1b0159251416c0300250f",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 990589,
+        "known_for_department": "Acting",
+        "name": "Hiromasa Taguchi",
+        "original_name": "田口浩正",
+        "popularity": 0.966,
+        "profile_path": "/9SAcXJadKYMWs99ifDx8EoIJmN8.jpg",
+        "cast_id": 19,
+        "character": "Dermatologist (segment \"Crawling Bugs\")",
+        "credit_id": "54bc496ac3a3686c6b00adfe",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 587655,
+        "known_for_department": "Acting",
+        "name": "Tomoya Nakamura",
+        "original_name": "中村倫也",
+        "popularity": 1.4955,
+        "profile_path": "/rBDbzWAYVRNpWIbheY82zPgPdAa.jpg",
+        "cast_id": 15,
+        "character": "Kobayashi (segment \"Mirror Hell\")",
+        "credit_id": "54bc49339251416eae00243e",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 25652,
+        "known_for_department": "Acting",
+        "name": "Hanae Kan",
+        "original_name": "韓英恵",
+        "popularity": 0.7713,
+        "profile_path": "/bay4NNzHAp9QRmYIIUJDBaOrSsV.jpg",
+        "cast_id": 8,
+        "character": "Kobayashi (segment \"Caterpillar\")",
+        "credit_id": "52fe4732c3a36847f81285d1",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 130654,
+        "known_for_department": "Acting",
+        "name": "Mikako Ichikawa",
+        "original_name": "市川実日子",
+        "popularity": 1.7852,
+        "profile_path": "/w6NoHlcq3OrNqb3Dh0bT1c7fej9.jpg",
+        "cast_id": 13,
+        "character": "Fumiyo Akechi (segment \"Mirror Hell\")",
+        "credit_id": "54bc48fdc3a368389c002850",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 239489,
+        "known_for_department": "Acting",
+        "name": "Kaiji Moriyama",
+        "original_name": "森山開次",
+        "popularity": 0.2078,
+        "profile_path": null,
+        "cast_id": 9,
+        "character": "(segment \"Mars Canal\")",
+        "credit_id": "52fe4732c3a36847f81285d5",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4990,
+        "known_for_department": "Acting",
+        "name": "Susumu Terajima",
+        "original_name": "寺島進",
+        "popularity": 1.5994,
+        "profile_path": "/ls7hOjfFjOOTow7x0IP4GhcCeJf.jpg",
+        "cast_id": 21,
+        "character": "(segment \"Mirror Hell\")",
+        "credit_id": "54bc497d9251413635003c9b",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1056614,
+        "known_for_department": "Acting",
+        "name": "Chisako Hara",
+        "original_name": "原知佐子",
+        "popularity": 0.7792,
+        "profile_path": "/u3GTSkPGvzDDBSPUKzLSfwAfsPG.jpg",
+        "cast_id": 11,
+        "character": "(segment \"Mirror Hell\")",
+        "credit_id": "54bc48d2c3a3686c61008d3f",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 555160,
+        "known_for_department": "Acting",
+        "name": "Masami Horiuchi",
+        "original_name": "堀内正美",
+        "popularity": 0.6745,
+        "profile_path": "/ulceOX7yLCPKzFraqsI0VAyKYPK.jpg",
+        "cast_id": 12,
+        "character": "(segment \"Mirror Hell\")",
+        "credit_id": "54bc48f492514148f0006891",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 20327,
+        "known_for_department": "Acting",
+        "name": "Tarō Suwa",
+        "original_name": "諏訪太朗",
+        "popularity": 1.3831,
+        "profile_path": "/wLbAf2eRaMpGVH4tz0OMvXM2eS3.jpg",
+        "cast_id": 46,
+        "character": "Temple Priest (segment \"Mirror Hell\")",
+        "credit_id": "6426f8c1a3e4ba0095f251cd",
+        "order": 18
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 138862,
+        "known_for_department": "Production",
+        "name": "Dai Miyazaki",
+        "original_name": "Dai Miyazaki",
+        "popularity": 0.1892,
+        "profile_path": null,
+        "credit_id": "52fe4731c3a36847f81285b1",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 138864,
+        "known_for_department": "Writing",
+        "name": "Atsushi Kaneko",
+        "original_name": "カネコアツシ",
+        "popularity": 0.2271,
+        "profile_path": "/2mcgWVdsuABame6rS9uKtw9vLV4.jpg",
+        "credit_id": "52fe4732c3a36847f81285bd",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 138863,
+        "known_for_department": "Directing",
+        "name": "Akio Jissoji",
+        "original_name": "実相寺昭雄",
+        "popularity": 0.9293,
+        "profile_path": "/hal0tL2jqCSe3NviAPdAMYmXjsF.jpg",
+        "credit_id": "52fe4732c3a36847f81285b7",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 138865,
+        "known_for_department": "Directing",
+        "name": "Hisayasu Satō",
+        "original_name": "佐藤寿保",
+        "popularity": 1.0403,
+        "profile_path": "/n5MXbo3M6mKKvBUAyf5SSKMxjQb.jpg",
+        "credit_id": "52fe4732c3a36847f81285c3",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 138866,
+        "known_for_department": "Directing",
+        "name": "Suguru Takeuchi",
+        "original_name": "Suguru Takeuchi",
+        "popularity": 0.1649,
+        "profile_path": null,
+        "credit_id": "52fe4732c3a36847f81285c9",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 138866,
+        "known_for_department": "Directing",
+        "name": "Suguru Takeuchi",
+        "original_name": "Suguru Takeuchi",
+        "popularity": 0.1649,
+        "profile_path": null,
+        "credit_id": "61ebd3663faba0011196235c",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 553117,
+        "known_for_department": "Camera",
+        "name": "Masao Nakabori",
+        "original_name": "中堀正夫",
+        "popularity": 0.1475,
+        "profile_path": null,
+        "credit_id": "61ebd4009ca75900fca2d333",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1024323,
+        "known_for_department": "Writing",
+        "name": "Shirō Yumeno",
+        "original_name": "夢野史郎",
+        "popularity": 1.3594,
+        "profile_path": null,
+        "credit_id": "61ebd139ea37e00043585885",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 138866,
+        "known_for_department": "Directing",
+        "name": "Suguru Takeuchi",
+        "original_name": "Suguru Takeuchi",
+        "popularity": 0.1649,
+        "profile_path": null,
+        "credit_id": "61ebd133d75bd600c92756bd",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 138864,
+        "known_for_department": "Writing",
+        "name": "Atsushi Kaneko",
+        "original_name": "カネコアツシ",
+        "popularity": 0.2271,
+        "profile_path": "/2mcgWVdsuABame6rS9uKtw9vLV4.jpg",
+        "credit_id": "61ebd12331644b0094154ce8",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2562487,
+        "known_for_department": "Directing",
+        "name": "Akihiro Onodera",
+        "original_name": "小野寺昭洋",
+        "popularity": 0.0945,
+        "profile_path": null,
+        "credit_id": "61ebd342d75bd6006a688b06",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 559819,
+        "known_for_department": "Writing",
+        "name": "Akio Satsukawa",
+        "original_name": "薩川昭夫",
+        "popularity": 0.7694,
+        "profile_path": null,
+        "credit_id": "61ebd12be48860001efca622",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 72401,
+        "known_for_department": "Writing",
+        "name": "Rampo Edogawa",
+        "original_name": "江戸川乱歩",
+        "popularity": 0.532,
+        "profile_path": "/psyoxlZ9QhCdiL4QE3sPIuhG7xv.jpg",
+        "credit_id": "61ebd115713ea6006ad783b3",
+        "department": "Writing",
+        "job": "Original Story"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1931557,
+        "known_for_department": "Lighting",
+        "name": "Kenji Ushiba",
+        "original_name": "Kenji Ushiba",
+        "popularity": 0.1472,
+        "profile_path": null,
+        "credit_id": "61ebd4151ad93b009ab3bbfe",
+        "department": "Lighting",
+        "job": "Lighting Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 124125,
+        "known_for_department": "Camera",
+        "name": "Akiko Ashizawa",
+        "original_name": "芦澤明子",
+        "popularity": 0.3222,
+        "profile_path": "/vkjOtb338YxkjMJKXyey721LtbY.jpg",
+        "credit_id": "61ebd465c669ad00ce9bfa73",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 895706,
+        "known_for_department": "Directing",
+        "name": "Shinji Imaoka",
+        "original_name": "今岡信治",
+        "popularity": 1.2386,
+        "profile_path": "/ow9N7WCjy1kX2BVZM81a2xfWLVy.jpg",
+        "credit_id": "61ebd48cc669ad007bcc08be",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 135383,
+        "known_for_department": "Camera",
+        "name": "Hideo Yamamoto",
+        "original_name": "山本英夫",
+        "popularity": 0.3952,
+        "profile_path": null,
+        "credit_id": "61ebd4a8ce5d8200c893fc83",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 145350,
+        "known_for_department": "Visual Effects",
+        "name": "Issei Oda",
+        "original_name": "小田一生",
+        "popularity": 0.6019,
+        "profile_path": "/o6YlOhTNT7Gtw0oeA8Q8e0fN6Wm.jpg",
+        "credit_id": "61ebd4d2e48860006db88ffb",
+        "department": "Visual Effects",
+        "job": "VFX Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 132802,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Michiko Kitamura",
+        "original_name": "北村道子",
+        "popularity": 0.2121,
+        "profile_path": "/7deTGeTpweaifistN91rsVtDiO8.jpg",
+        "credit_id": "6414b4ca6a2227010c4af9f0",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 48053,
+        "known_for_department": "Sound",
+        "name": "Jules Massenet",
+        "original_name": "Jules Massenet",
+        "popularity": 0.0357,
+        "profile_path": "/fMB6VUi0gIcQEu3WBoP7G8rQMCD.jpg",
+        "credit_id": "6427522a9cc67b05796b02a9",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1707538,
+        "known_for_department": "Directing",
+        "name": "Ryoji Ikeda",
+        "original_name": "Ryoji Ikeda",
+        "popularity": 0.1006,
+        "profile_path": "/mxFltlzrKBYPh5P7Cf67QPpq3ot.jpg",
+        "credit_id": "642751f78a88b2011302223e",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1316840,
+        "known_for_department": "Sound",
+        "name": "Yoshihide Otomo",
+        "original_name": "大友良英",
+        "popularity": 0.5294,
+        "profile_path": "/eUUUsrlRIKvXIaeqBe4S6vZpbxv.jpg",
+        "credit_id": "642751dee2ff3200775d2ab9",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5780513,
+        "known_for_department": "Lighting",
+        "name": "Akira Otsubo",
+        "original_name": "Akira Otsubo",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "69014132df9aaf1cf1a63a7c",
+        "department": "Lighting",
+        "job": "Lighting Director"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "US",
+        "title": "Ranpo Noir",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "JP",
+        "title": "Ranpo jigoku",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "UA",
+        "title": "Пекло Рампо",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "UA",
+        "title": "Rampo Noir",
+        "type": ""
+      }
+    ]
+  }
+}

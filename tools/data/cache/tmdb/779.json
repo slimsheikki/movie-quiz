@@ -1,0 +1,531 @@
+{
+  "adult": false,
+  "backdrop_path": "/rg3hBiQbDet8uNQkgfbpk7306p8.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "homepage": "",
+  "id": 779,
+  "imdb_id": "tt0023649",
+  "origin_country": [
+    "DE"
+  ],
+  "original_language": "de",
+  "original_title": "Vampyr - Der Traum des Allan Grey",
+  "overview": "Allan Gray, a young man fascinated by the supernatural, goes to a small village where he feels a sinister force descending upon him. There, Allan meets an old man who asks him to protect his two daughters, for one of them has been bitten by a vampire.",
+  "popularity": 1.5173,
+  "poster_path": "/yt3JS5JSoZseSohYkhs6FLU9B0O.jpg",
+  "production_companies": [
+    {
+      "id": 7448,
+      "logo_path": null,
+      "name": "Tobis Filmkunst",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "release_date": "1932-05-06",
+  "revenue": 19,
+  "runtime": 74,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    },
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The strange adventure of Allan Gray.",
+  "title": "Vampyr",
+  "video": false,
+  "vote_average": 7.253,
+  "vote_count": 592,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 11583,
+        "known_for_department": "Production",
+        "name": "Nicolas de Gunzburg",
+        "original_name": "Nicolas de Gunzburg",
+        "popularity": 0.1332,
+        "profile_path": "/vahtRODVaWpn0dgOAiYOH5xh95C.jpg",
+        "cast_id": 12,
+        "character": "Allan Grey",
+        "credit_id": "52fe4275c3a36847f80203cb",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 11586,
+        "known_for_department": "Acting",
+        "name": "Maurice Schutz",
+        "original_name": "Maurice Schutz",
+        "popularity": 0.2466,
+        "profile_path": "/94drhs4q0P1oTM6kkGT00vDTlw8.jpg",
+        "cast_id": 15,
+        "character": "The Lord of the Manor",
+        "credit_id": "52fe4275c3a36847f80203d7",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 11588,
+        "known_for_department": "Acting",
+        "name": "Rena Mandel",
+        "original_name": "Rena Mandel",
+        "popularity": 0.1162,
+        "profile_path": "/e67uwRFL8KGX3ZZJNqHUEl0Rgoe.jpg",
+        "cast_id": 17,
+        "character": "Giséle",
+        "credit_id": "52fe4275c3a36847f80203df",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 11587,
+        "known_for_department": "Acting",
+        "name": "Sybille Schmitz",
+        "original_name": "Sybille Schmitz",
+        "popularity": 0.3234,
+        "profile_path": "/uqr2IoyNIUWdeYtoFRWI5M5SYiV.jpg",
+        "cast_id": 16,
+        "character": "Léone",
+        "credit_id": "52fe4275c3a36847f80203db",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 11585,
+        "known_for_department": "Acting",
+        "name": "Jan Hieronimko",
+        "original_name": "Jan Hieronimko",
+        "popularity": 0.0546,
+        "profile_path": "/3A7syGJyFgx4mWHy9J95AgxUE68.jpg",
+        "cast_id": 14,
+        "character": "The Village Doctor",
+        "credit_id": "52fe4275c3a36847f80203d3",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 11584,
+        "known_for_department": "Acting",
+        "name": "Henriette Gérard",
+        "original_name": "Henriette Gérard",
+        "popularity": 0.05,
+        "profile_path": "/jGtxYwf8W99ggQ3i4638G3nowBS.jpg",
+        "cast_id": 13,
+        "character": "The Old Woman from the Cemetery",
+        "credit_id": "52fe4275c3a36847f80203cf",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 992686,
+        "known_for_department": "Acting",
+        "name": "Albert Bras",
+        "original_name": "Albert Bras",
+        "popularity": 0.087,
+        "profile_path": "/5iVpbnkusu6oSrX3tCbCGZ1cLn3.jpg",
+        "cast_id": 20,
+        "character": "The Old Servant",
+        "credit_id": "5b31c18e0e0a26401400a41e",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2072573,
+        "known_for_department": "Acting",
+        "name": "N. Babanini",
+        "original_name": "N. Babanini",
+        "popularity": 0.0382,
+        "profile_path": null,
+        "cast_id": 21,
+        "character": "The Old Servant's Wife",
+        "credit_id": "5b31c1b0c3a3685320008c5e",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2072574,
+        "known_for_department": "Acting",
+        "name": "Jane Mora",
+        "original_name": "Jane Mora",
+        "popularity": 0.0409,
+        "profile_path": null,
+        "cast_id": 22,
+        "character": "The Nurse",
+        "credit_id": "5b31c1ca0e0a26400d00924d",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2072575,
+        "known_for_department": "Acting",
+        "name": "Georges Boidin",
+        "original_name": "Georges Boidin",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 23,
+        "character": "Limping Man",
+        "credit_id": "5b31c1e9c3a368533200821b",
+        "order": 9
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 11572,
+        "known_for_department": "Directing",
+        "name": "Carl Theodor Dreyer",
+        "original_name": "Carl Theodor Dreyer",
+        "popularity": 0.3825,
+        "profile_path": "/l4g1K4ai3HgAIg0267O5ppnknVX.jpg",
+        "credit_id": "52fe4275c3a36847f802038b",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 11573,
+        "known_for_department": "Writing",
+        "name": "Sheridan Le Fanu",
+        "original_name": "Sheridan Le Fanu",
+        "popularity": 0.3347,
+        "profile_path": "/bjvU12t8Qlk60OU82Lw1TbKlBW8.jpg",
+        "credit_id": "52fe4275c3a36847f8020391",
+        "department": "Writing",
+        "job": "Novel"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 11574,
+        "known_for_department": "Directing",
+        "name": "Christen Jul",
+        "original_name": "Christen Jul",
+        "popularity": 0.084,
+        "profile_path": null,
+        "credit_id": "52fe4275c3a36847f8020397",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 11575,
+        "known_for_department": "Sound",
+        "name": "Wolfgang Zeller",
+        "original_name": "Wolfgang Zeller",
+        "popularity": 0.0955,
+        "profile_path": "/yhYEkNHEM6oWINSNiQ4gN49oJ99.jpg",
+        "credit_id": "52fe4275c3a36847f802039d",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 11593,
+        "known_for_department": "Camera",
+        "name": "Rudolph Maté",
+        "original_name": "Rudolph Maté",
+        "popularity": 0.4998,
+        "profile_path": "/pq0x1cUNdapjIvmnipOiWQxABb1.jpg",
+        "credit_id": "52fe4275c3a36847f80203a3",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 11577,
+        "known_for_department": "Camera",
+        "name": "Louis Née",
+        "original_name": "Louis Née",
+        "popularity": 0.1716,
+        "profile_path": null,
+        "credit_id": "52fe4275c3a36847f80203a9",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 11579,
+        "known_for_department": "Art",
+        "name": "Hermann Warm",
+        "original_name": "Hermann Warm",
+        "popularity": 0.1526,
+        "profile_path": null,
+        "credit_id": "52fe4275c3a36847f80203b5",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 11580,
+        "known_for_department": "Art",
+        "name": "César Silvagni",
+        "original_name": "César Silvagni",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "52fe4275c3a36847f80203bb",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 11581,
+        "known_for_department": "Sound",
+        "name": "Hans Bittman",
+        "original_name": "Hans Bittman",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "52fe4275c3a36847f80203c1",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 11582,
+        "known_for_department": "Crew",
+        "name": "Henri Armand",
+        "original_name": "Henri Armand",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "52fe4275c3a36847f80203c7",
+        "department": "Crew",
+        "job": "Special Effects"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 11583,
+        "known_for_department": "Production",
+        "name": "Nicolas de Gunzburg",
+        "original_name": "Nicolas de Gunzburg",
+        "popularity": 0.1332,
+        "profile_path": "/vahtRODVaWpn0dgOAiYOH5xh95C.jpg",
+        "credit_id": "52fe4275c3a36847f80203e5",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 11572,
+        "known_for_department": "Directing",
+        "name": "Carl Theodor Dreyer",
+        "original_name": "Carl Theodor Dreyer",
+        "popularity": 0.3825,
+        "profile_path": "/l4g1K4ai3HgAIg0267O5ppnknVX.jpg",
+        "credit_id": "52fe4275c3a36847f80203eb",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1899160,
+        "known_for_department": "Directing",
+        "name": "Ralph Christian Holm",
+        "original_name": "Ralph Christian Holm",
+        "popularity": 0.0453,
+        "profile_path": null,
+        "credit_id": "60569aff223a8b0029771057",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3018318,
+        "known_for_department": "Directing",
+        "name": "Éliane Tayar",
+        "original_name": "Éliane Tayar",
+        "popularity": 0.0357,
+        "profile_path": null,
+        "credit_id": "60569b0beec4f3003e873bf9",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 11572,
+        "known_for_department": "Directing",
+        "name": "Carl Theodor Dreyer",
+        "original_name": "Carl Theodor Dreyer",
+        "popularity": 0.3825,
+        "profile_path": "/l4g1K4ai3HgAIg0267O5ppnknVX.jpg",
+        "credit_id": "5b31c2379251413cab007b1b",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 11578,
+        "known_for_department": "Editing",
+        "name": "Paul Falkenberg",
+        "original_name": "Paul Falkenberg",
+        "popularity": 0.1043,
+        "profile_path": "/kKY27lmRzBo7rHeNH85O2QVa6Hl.jpg",
+        "credit_id": "5b31c2810e0a26401400a4a8",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1907354,
+        "known_for_department": "Editing",
+        "name": "Tonka Taldy",
+        "original_name": "Tonka Taldy",
+        "popularity": 0.0414,
+        "profile_path": null,
+        "credit_id": "5b31c2e5c3a368532200a44c",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2492563,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Preben Birck",
+        "original_name": "Preben Birck",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "64bdf4cbb865eb00ff4d6eca",
+        "department": "Directing",
+        "job": "Assistant Director"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "US",
+        "title": "Castle of Doom",
+        "type": "Dubbed version"
+      },
+      {
+        "iso_3166_1": "US",
+        "title": "Not Against the Flesh",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "US",
+        "title": "The Vampire",
+        "type": "Copyright title"
+      },
+      {
+        "iso_3166_1": "ES",
+        "title": "Vampyr, la bruja vampiro",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "KR",
+        "title": "뱀파이어",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "SU",
+        "title": "Вампир: Сон Алена Грея",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "RO",
+        "title": "Vampirul",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "PL",
+        "title": "Wampir",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "JP",
+        "title": "吸血鬼",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "GR",
+        "title": "Βαμπίρ",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "FR",
+        "title": "Vampyr, ou l'étrange aventure de David Gray",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "BR",
+        "title": "O Vampiro",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "PT",
+        "title": "Vampiro",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "IT",
+        "title": "Vampyr - Il vampiro",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "US",
+        "title": "The Strange Adventure of David Gray",
+        "type": ""
+      }
+    ]
+  }
+}

@@ -1,0 +1,744 @@
+{
+  "adult": false,
+  "backdrop_path": "/kKsy8sCjfOtfHPBT2i8z13bIRij.jpg",
+  "belongs_to_collection": null,
+  "budget": 120000,
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 8073,
+  "imdb_id": "tt0057869",
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "Bande à part",
+  "overview": "Cinephile slackers Franz and Arthur spend their days mimicking the antiheroes of Hollywood noirs and Westerns while pursuing the lovely Odile. The misfit trio upends convention at every turn, be it through choreographed dances in cafés or frolicsome romps through the Louvre. Eventually, their romantic view of outlaws pushes them to plan their own heist, but their inexperience may send them out in a blaze of glory -- which could be just what they want.",
+  "popularity": 1.1451,
+  "poster_path": "/9oqyj79xmcypxLajJdefOtrYx64.jpg",
+  "production_companies": [
+    {
+      "id": 2325,
+      "logo_path": null,
+      "name": "Orsay Films",
+      "origin_country": "FR"
+    },
+    {
+      "id": 14679,
+      "logo_path": null,
+      "name": "Anouchka Films",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "1964-08-05",
+  "revenue": 182857,
+  "runtime": 97,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "A Who-Dunit, Who's Got-It, Where-Is-It-Now Wild One From That \"Breathless\" director Jean-Luc Godard!",
+  "title": "Band of Outsiders",
+  "video": false,
+  "vote_average": 7.5,
+  "vote_count": 612,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 18197,
+        "known_for_department": "Acting",
+        "name": "Anna Karina",
+        "original_name": "Anna Karina",
+        "popularity": 0.9236,
+        "profile_path": "/oSYtIsMpV8sZD6opNrOnWsspR0D.jpg",
+        "cast_id": 3,
+        "character": "Odile",
+        "credit_id": "52fe4491c3a36847f809d721",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1958,
+        "known_for_department": "Acting",
+        "name": "Claude Brasseur",
+        "original_name": "Claude Brasseur",
+        "popularity": 0.6982,
+        "profile_path": "/mqSCOvJ7ySpLLxbbgsrRLr58VO6.jpg",
+        "cast_id": 6,
+        "character": "Arthur",
+        "credit_id": "52fe4491c3a36847f809d731",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 17578,
+        "known_for_department": "Acting",
+        "name": "Sami Frey",
+        "original_name": "Sami Frey",
+        "popularity": 0.7351,
+        "profile_path": "/1iHrqvqmkztd8qADAVSJqYB7k9v.jpg",
+        "cast_id": 7,
+        "character": "Franz",
+        "credit_id": "52fe4491c3a36847f809d735",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3579,
+        "known_for_department": "Acting",
+        "name": "Danièle Girard",
+        "original_name": "Danièle Girard",
+        "popularity": 0.2296,
+        "profile_path": "/pPsSJw2vC0vrWZS2ll22iJrNZ6K.jpg",
+        "cast_id": 12,
+        "character": "English Teacher",
+        "credit_id": "52fe4491c3a36847f809d751",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 582273,
+        "known_for_department": "Acting",
+        "name": "Louisa Colpeyn",
+        "original_name": "Louisa Colpeyn",
+        "popularity": 0.2537,
+        "profile_path": "/4kDUsb6ikROLUKphqqG95llhpqy.jpg",
+        "cast_id": 13,
+        "character": "Madame Victoria",
+        "credit_id": "52fe4491c3a36847f809d755",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 295250,
+        "known_for_department": "Acting",
+        "name": "Chantal Darget",
+        "original_name": "Chantal Darget",
+        "popularity": 0.1591,
+        "profile_path": "/6IW6JeLdU6SrPCRGvslC7WCNfxe.jpg",
+        "cast_id": 14,
+        "character": "Arthur's Aunt",
+        "credit_id": "52fe4491c3a36847f809d759",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 23701,
+        "known_for_department": "Acting",
+        "name": "Georges Staquet",
+        "original_name": "Georges Staquet",
+        "popularity": 0.1669,
+        "profile_path": "/8NahGv4LYwPKCydu9jubxKEql5k.jpg",
+        "cast_id": 15,
+        "character": "Legionary",
+        "credit_id": "52fe4491c3a36847f809d75d",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 272877,
+        "known_for_department": "Acting",
+        "name": "Ernest Menzer",
+        "original_name": "Ernest Menzer",
+        "popularity": 0.0609,
+        "profile_path": "/sN2PV6fGkQ23cBPG0jzytDdDue0.jpg",
+        "cast_id": 16,
+        "character": "Arthur's Uncle",
+        "credit_id": "52fe4491c3a36847f809d761",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 582274,
+        "known_for_department": "Acting",
+        "name": "Jean-Claude Rémoleux",
+        "original_name": "Jean-Claude Rémoleux",
+        "popularity": 0.1628,
+        "profile_path": "/7q969M9xEP18hWjnx7fbNqRQ3DC.jpg",
+        "cast_id": 17,
+        "character": "The Alcoholic Student",
+        "credit_id": "52fe4491c3a36847f809d765",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 38903,
+        "known_for_department": "Acting",
+        "name": "Michel Delahaye",
+        "original_name": "Michel Delahaye",
+        "popularity": 0.122,
+        "profile_path": "/dsKEh9hH1EbcYHOC6c2u1QOySxC.jpg",
+        "cast_id": 20,
+        "character": "The Doorman",
+        "credit_id": "620032f000508a0067df1c11",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1362245,
+        "known_for_department": "Acting",
+        "name": "Louis Jojot",
+        "original_name": "Louis Jojot",
+        "popularity": 0.0811,
+        "profile_path": null,
+        "cast_id": 21,
+        "character": "",
+        "credit_id": "62003310d37197001c021d05",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1030475,
+        "known_for_department": "Writing",
+        "name": "Claude Makovski",
+        "original_name": "Claude Makovski",
+        "popularity": 0.1315,
+        "profile_path": "/5EsIRAorEneqaIOHzc88UPdLF9y.jpg",
+        "cast_id": 22,
+        "character": "Pupil",
+        "credit_id": "620033484b9bae0043bf43e1",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3415799,
+        "known_for_department": "Acting",
+        "name": "Michèle Seghers",
+        "original_name": "Michèle Seghers",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 23,
+        "character": "Student in English Class",
+        "credit_id": "620033605a5ed00042e79660",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3776,
+        "known_for_department": "Directing",
+        "name": "Jean-Luc Godard",
+        "original_name": "Jean-Luc Godard",
+        "popularity": 1.2224,
+        "profile_path": "/zP5EDY5MstfkdBmPXNCj8Y6v5KR.jpg",
+        "cast_id": 24,
+        "character": "Narrator (voice) (uncredited)",
+        "credit_id": "620033815a5ed000d16901ea",
+        "order": 13
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3776,
+        "known_for_department": "Directing",
+        "name": "Jean-Luc Godard",
+        "original_name": "Jean-Luc Godard",
+        "popularity": 1.2224,
+        "profile_path": "/zP5EDY5MstfkdBmPXNCj8Y6v5KR.jpg",
+        "credit_id": "52fe4491c3a36847f809d71d",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 53793,
+        "known_for_department": "Writing",
+        "name": "Dolores Hitchens",
+        "original_name": "Dolores Hitchens",
+        "popularity": 0.0541,
+        "profile_path": null,
+        "credit_id": "52fe4491c3a36847f809d727",
+        "department": "Writing",
+        "job": "Novel"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 10934,
+        "known_for_department": "Sound",
+        "name": "Michel Legrand",
+        "original_name": "Michel Legrand",
+        "popularity": 0.3029,
+        "profile_path": "/nkhKfgrBjWZ7BVuI8dZztkX7bcV.jpg",
+        "credit_id": "52fe4491c3a36847f809d73b",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3540,
+        "known_for_department": "Camera",
+        "name": "Raoul Coutard",
+        "original_name": "Raoul Coutard",
+        "popularity": 0.1932,
+        "profile_path": "/fEwMCINuiSOu4f3CzHG3UL0BNIc.jpg",
+        "credit_id": "52fe4491c3a36847f809d741",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3526,
+        "known_for_department": "Editing",
+        "name": "Agnès Guillemot",
+        "original_name": "Agnès Guillemot",
+        "popularity": 0.07,
+        "profile_path": null,
+        "credit_id": "52fe4491c3a36847f809d747",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3776,
+        "known_for_department": "Directing",
+        "name": "Jean-Luc Godard",
+        "original_name": "Jean-Luc Godard",
+        "popularity": 1.2224,
+        "profile_path": "/zP5EDY5MstfkdBmPXNCj8Y6v5KR.jpg",
+        "credit_id": "52fe4491c3a36847f809d74d",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 9959,
+        "known_for_department": "Sound",
+        "name": "Antoine Bonfanti",
+        "original_name": "Antoine Bonfanti",
+        "popularity": 0.1246,
+        "profile_path": "/mrRqvA3Cl5fmfKmF9O7ETLGIpu8.jpg",
+        "credit_id": "618314a90d417e0069850cd0",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3528,
+        "known_for_department": "Sound",
+        "name": "René Levert",
+        "original_name": "René Levert",
+        "popularity": 0.1826,
+        "profile_path": null,
+        "credit_id": "618314c4a097dc0065078747",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4460040,
+        "known_for_department": "Editing",
+        "name": "Dahlia Ezove",
+        "original_name": "Dahlia Ezove",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "6593989a028f1477bbc5fcbd",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1433966,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Janou Pottier",
+        "original_name": "Janou Pottier",
+        "popularity": 0.0811,
+        "profile_path": null,
+        "credit_id": "659398c1d5191f02410f509d",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1052402,
+        "known_for_department": "Production",
+        "name": "Philippe Dussart",
+        "original_name": "Philippe Dussart",
+        "popularity": 0.052,
+        "profile_path": null,
+        "credit_id": "659398da51a64e0271f556e8",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4460041,
+        "known_for_department": "Production",
+        "name": "Ritta Sarf",
+        "original_name": "Ritta Sarf",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "659398e6028f1476eac69ec6",
+        "department": "Production",
+        "job": "Unit Manager"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1145371,
+        "known_for_department": "Production",
+        "name": "Maurice Urbain",
+        "original_name": "Maurice Urbain",
+        "popularity": 0.0798,
+        "profile_path": null,
+        "credit_id": "659398f31cac8c63ec0c5e7e",
+        "department": "Production",
+        "job": "Unit Manager"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1608859,
+        "known_for_department": "Directing",
+        "name": "Hélène Kalougine",
+        "original_name": "Hélène Kalougine",
+        "popularity": 0.0168,
+        "profile_path": null,
+        "credit_id": "6593990951a64e020af58217",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1052527,
+        "known_for_department": "Directing",
+        "name": "Jean-Paul Savignac",
+        "original_name": "Jean-Paul Savignac",
+        "popularity": 0.0645,
+        "profile_path": null,
+        "credit_id": "659399451dcb776c2c457f26",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2406358,
+        "known_for_department": "Sound",
+        "name": "Robert Cambourakis",
+        "original_name": "Robert Cambourakis",
+        "popularity": 0.0982,
+        "profile_path": "/vWj3w4jMdDxKDseNSVzizmqWiOm.jpg",
+        "credit_id": "659399ad028f1477bbc5fcec",
+        "department": "Sound",
+        "job": "Sound Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2545975,
+        "known_for_department": "Sound",
+        "name": "Jean Philippe",
+        "original_name": "Jean Philippe",
+        "popularity": 0.0168,
+        "profile_path": null,
+        "credit_id": "659399c1fc31d37352469fe4",
+        "department": "Sound",
+        "job": "Sound Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 545588,
+        "known_for_department": "Lighting",
+        "name": "Fernand Coquet",
+        "original_name": "Fernand Coquet",
+        "popularity": 0.1149,
+        "profile_path": null,
+        "credit_id": "659399d81cac8c64410c5164",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4460042,
+        "known_for_department": "Lighting",
+        "name": "Pierre Coquet",
+        "original_name": "Pierre Coquet",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "659399e2d5191f02a20f497f",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4460044,
+        "known_for_department": "Camera",
+        "name": "JeanClaude Duran",
+        "original_name": "JeanClaude Duran",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "65939a35ce4ddc6ed57d9959",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1654584,
+        "known_for_department": "Camera",
+        "name": "Bernard Largemains",
+        "original_name": "Bernard Largemains",
+        "popularity": 0.1152,
+        "profile_path": null,
+        "credit_id": "65939a49ce4ddc6f837d5ed0",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1492959,
+        "known_for_department": "Camera",
+        "name": "Georges Liron",
+        "original_name": "Georges Liron",
+        "popularity": 0.1605,
+        "profile_path": null,
+        "credit_id": "65939a5efc31d370ec46dce6",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1347915,
+        "known_for_department": "Writing",
+        "name": "Marilù Parolini",
+        "original_name": "Marilù Parolini",
+        "popularity": 0.2356,
+        "profile_path": null,
+        "credit_id": "65939a754f9a99738e78897e",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1364382,
+        "known_for_department": "Camera",
+        "name": "Théo Robichet",
+        "original_name": "Théo Robichet",
+        "popularity": 0.0655,
+        "profile_path": null,
+        "credit_id": "65939a906aa8e06153eca12c",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4460045,
+        "known_for_department": "Camera",
+        "name": "Roger Schleich",
+        "original_name": "Roger Schleich",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "65939aa3a58902717f971aac",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1654573,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Christiane Fageol",
+        "original_name": "Christiane Fageol",
+        "popularity": 0.061,
+        "profile_path": null,
+        "credit_id": "65939ab2ebb99d5e6d9f95af",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3583,
+        "known_for_department": "Writing",
+        "name": "Suzanne Schiffman",
+        "original_name": "Suzanne Schiffman",
+        "popularity": 0.2029,
+        "profile_path": "/l3hKqjRlKopffuyPXW4csZtHmWT.jpg",
+        "credit_id": "65939ac9e640d67fa7d6614a",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3404954,
+        "known_for_department": "Production",
+        "name": "Patricia Finaly",
+        "original_name": "Patricia Finaly",
+        "popularity": 0.0338,
+        "profile_path": null,
+        "credit_id": "65939ae81cac8c64410c51d4",
+        "department": "Crew",
+        "job": "Production Office Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2496445,
+        "known_for_department": "Production",
+        "name": "Jeanne Marie Olivier",
+        "original_name": "Jeanne Marie Olivier",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "65939b0051a64e02e2f5294c",
+        "department": "Crew",
+        "job": "Production Office Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 28097,
+        "known_for_department": "Editing",
+        "name": "Françoise Collin",
+        "original_name": "Françoise Collin",
+        "popularity": 0.0855,
+        "profile_path": null,
+        "credit_id": "620033aa55b0c00041922577",
+        "department": "Editing",
+        "job": "Editor"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "KR",
+        "title": "국외자들",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "AR",
+        "title": "Asalto frustrado",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "KR",
+        "title": "외부인들",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "BR",
+        "title": "O Bando à Parte",
+        "type": "Cable TV Title"
+      },
+      {
+        "iso_3166_1": "FI",
+        "title": "Bande à part - Laittomat",
+        "type": "DVD Title"
+      },
+      {
+        "iso_3166_1": "FI",
+        "title": "De laglösa",
+        "type": "Swedish Title"
+      },
+      {
+        "iso_3166_1": "GR",
+        "title": "Δε γουστάρω την παρέα σας",
+        "type": "Reissue Title"
+      },
+      {
+        "iso_3166_1": "HK",
+        "title": "不法之徒",
+        "type": "Mandarin, Festival Title"
+      },
+      {
+        "iso_3166_1": "JP",
+        "title": "Hanarebanareni",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "NO",
+        "title": "Outsider-banden",
+        "type": "alternative spelling"
+      },
+      {
+        "iso_3166_1": "PE",
+        "title": "Iban por lana",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "SU",
+        "title": "Банда аутсайдеров",
+        "type": "Russian Title"
+      },
+      {
+        "iso_3166_1": "ES",
+        "title": "Banda a part",
+        "type": "Catalan Title"
+      },
+      {
+        "iso_3166_1": "UA",
+        "title": "Банда аутсайдерів",
+        "type": "New Title"
+      },
+      {
+        "iso_3166_1": "GB",
+        "title": "The Outsiders",
+        "type": "promotional title"
+      }
+    ]
+  }
+}

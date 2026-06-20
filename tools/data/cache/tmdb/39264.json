@@ -1,0 +1,997 @@
+{
+  "adult": false,
+  "backdrop_path": "/5KPRH4vvVVsAC5y0d0g5qNw6AT3.jpg",
+  "belongs_to_collection": {
+    "id": 374509,
+    "name": "Godzilla (Showa) Collection",
+    "poster_path": "/scvwS6k8gIW8w24UcmePQqVL10l.jpg",
+    "backdrop_path": "/a20d9jnAidiWXoN4EjYdbW54OZ3.jpg"
+  },
+  "budget": 760000,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ],
+  "homepage": "",
+  "id": 39264,
+  "imdb_id": "tt0070122",
+  "origin_country": [
+    "JP"
+  ],
+  "original_language": "ja",
+  "original_title": "ゴジラ対メガロ",
+  "overview": "Inventor Goro Ibuki creates a humanoid robot named Jet Jaguar. It is soon seized by an undersea race of people called the Seatopians. Using Jet Jaguar as a guide, the Seatopians send Megalon as vengeance for the nuclear tests that have devastated their society.",
+  "popularity": 1.5405,
+  "poster_path": "/au8CGZeCjgoxHe33gZWO0DDvndL.jpg",
+  "production_companies": [
+    {
+      "id": 882,
+      "logo_path": "/fRSWWjquvzcHjACbtF53utZFIll.png",
+      "name": "TOHO",
+      "origin_country": "JP"
+    },
+    {
+      "id": 70472,
+      "logo_path": null,
+      "name": "Toho Eizo Bijutsu",
+      "origin_country": "JP"
+    },
+    {
+      "id": 104646,
+      "logo_path": "/sDwSLDMrl3KnM3RbRb6dhhzYBO1.png",
+      "name": "Tokyo Laboratory",
+      "origin_country": "JP"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    }
+  ],
+  "release_date": "1973-03-17",
+  "revenue": 20000000,
+  "runtime": 82,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Dreaded Megalon from the undersea kingdom! A miraculous deathblow from the wound-ridden Godzilla!",
+  "title": "Godzilla vs. Megalon",
+  "video": false,
+  "vote_average": 6.2,
+  "vote_count": 239,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 82876,
+        "known_for_department": "Acting",
+        "name": "Katsuhiko Sasaki",
+        "original_name": "佐々木勝彦",
+        "popularity": 0.9166,
+        "profile_path": "/aPFY9rwl4L08iUs5PONAHkbmLjl.jpg",
+        "cast_id": 8,
+        "character": "Inventor Goro Ibuki",
+        "credit_id": "52fe47099251416c910681af",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 553299,
+        "known_for_department": "Acting",
+        "name": "Yutaka Hayashi",
+        "original_name": "林ゆたか",
+        "popularity": 0.8443,
+        "profile_path": "/hInro2is6B1n6GE7dqO4EAoQMFt.jpg",
+        "cast_id": 10,
+        "character": "Hiroshi Jinkawa",
+        "credit_id": "52fe47099251416c910681b7",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 110314,
+        "known_for_department": "Acting",
+        "name": "Hiroyuki Kawase",
+        "original_name": "Hiroyuki Kawase",
+        "popularity": 0.1565,
+        "profile_path": "/7zDN1gyOZCSBOY3jkI5ri0odSa.jpg",
+        "cast_id": 9,
+        "character": "Rokuro 'Roku-chan' Ibuki",
+        "credit_id": "52fe47099251416c910681b3",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1120649,
+        "known_for_department": "Acting",
+        "name": "Kanta Mori",
+        "original_name": "森幹太",
+        "popularity": 0.2735,
+        "profile_path": null,
+        "cast_id": 17,
+        "character": "Japan Special Defense Forces Chief",
+        "credit_id": "52fe47099251416c910681d3",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 939964,
+        "known_for_department": "Acting",
+        "name": "Kotaro Tomita",
+        "original_name": "富田浩太郎",
+        "popularity": 0.4272,
+        "profile_path": "/ieSAVTBDtugQf5JygncdgETODmY.jpg",
+        "cast_id": 12,
+        "character": "Lead Seatopian Agent",
+        "credit_id": "52fe47099251416c910681bf",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1120645,
+        "known_for_department": "Acting",
+        "name": "Ulf Otsuki",
+        "original_name": "大月ウルフ",
+        "popularity": 0.281,
+        "profile_path": null,
+        "cast_id": 13,
+        "character": "Seatopian Agent",
+        "credit_id": "52fe47099251416c910681c3",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1120647,
+        "known_for_department": "Acting",
+        "name": "Sakyo Mikami",
+        "original_name": "三上左京",
+        "popularity": 0.1507,
+        "profile_path": null,
+        "cast_id": 15,
+        "character": "Truck Driver's Assistant",
+        "credit_id": "52fe47099251416c910681cb",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1120648,
+        "known_for_department": "Acting",
+        "name": "Fumiyo Ikeda",
+        "original_name": "Fumiyo Ikeda",
+        "popularity": 0.1349,
+        "profile_path": null,
+        "cast_id": 16,
+        "character": "Man from Unit 1",
+        "credit_id": "52fe47099251416c910681cf",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 141088,
+        "known_for_department": "Acting",
+        "name": "Robert Dunham",
+        "original_name": "Robert Dunham",
+        "popularity": 0.2986,
+        "profile_path": "/z0sdf5idZaqNi8jx3dLMIDOuGVj.jpg",
+        "cast_id": 11,
+        "character": "Emperor Antonio of Seatopia",
+        "credit_id": "52fe47099251416c910681bb",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1120646,
+        "known_for_department": "Writing",
+        "name": "Gentaro Nakajima",
+        "original_name": "Gentaro Nakajima",
+        "popularity": 0.1058,
+        "profile_path": null,
+        "cast_id": 14,
+        "character": "Truck Driver",
+        "credit_id": "52fe47099251416c910681c7",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1486084,
+        "known_for_department": "Acting",
+        "name": "Ralph Jesser",
+        "original_name": "Ralph Jesser",
+        "popularity": 0.0416,
+        "profile_path": null,
+        "cast_id": 18,
+        "character": "Antonio's Aide (Radio Operator in White)",
+        "credit_id": "55b2ef369251411e18011038",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1490147,
+        "known_for_department": "Acting",
+        "name": "Shinji Takagi",
+        "original_name": "Shinji Takagi",
+        "popularity": 0.0404,
+        "profile_path": null,
+        "cast_id": 20,
+        "character": "Godzilla",
+        "credit_id": "55b2efa1c3a3682ff9010134",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1490149,
+        "known_for_department": "Acting",
+        "name": "Hideto Odachi",
+        "original_name": "伊達 秀人",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 21,
+        "character": "Megalon",
+        "credit_id": "55b2efc9c3a368246c00b1a9",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1490150,
+        "known_for_department": "Acting",
+        "name": "Tsugutoshi Komada",
+        "original_name": "駒田 次利",
+        "popularity": 0.0379,
+        "profile_path": null,
+        "cast_id": 22,
+        "character": "Jet Jaguar",
+        "credit_id": "55b2efeb9251411e0f011427",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5050097,
+        "known_for_department": "Acting",
+        "name": "Masachika Mori",
+        "original_name": "Masachika Mori",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 58,
+        "character": "Jet Jaguar",
+        "credit_id": "67301c6ec31a5dcbb214a3de",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 82879,
+        "known_for_department": "Acting",
+        "name": "Kenpachirō Satsuma",
+        "original_name": "薩摩剣八郎",
+        "popularity": 0.4411,
+        "profile_path": "/70luTBAlEi1TNjsgGuV4o5Wx67f.jpg",
+        "cast_id": 23,
+        "character": "Gigan (as Kengo Nakayama)",
+        "credit_id": "55b2eff59251411e140117c2",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 616,
+        "known_for_department": "Acting",
+        "name": "Gorō Naya",
+        "original_name": "納谷悟朗",
+        "popularity": 1.4885,
+        "profile_path": "/v5R3cjPEVeLRPWlZPziYP8ooV5w.jpg",
+        "cast_id": 59,
+        "character": "Emperor Atonio of Seatopia (voice)",
+        "credit_id": "67301cea1770b0351de39995",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1481137,
+        "known_for_department": "Acting",
+        "name": "Eisuke Nakanishi",
+        "original_name": "中西英介",
+        "popularity": 0.2537,
+        "profile_path": null,
+        "cast_id": 19,
+        "character": "Narrator",
+        "credit_id": "55b2ef4ec3a3682ff9010126",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 235722,
+        "known_for_department": "Acting",
+        "name": "Haruo Nakajima",
+        "original_name": "中島春雄",
+        "popularity": 0.6708,
+        "profile_path": "/yZYuoFGAMjRIAen3ThTk2Hi0LvI.jpg",
+        "cast_id": 60,
+        "character": "Godzilla (archive footage) (uncredited)",
+        "credit_id": "67301d57b8d71b75d6dba96e",
+        "order": 18
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 123386,
+        "known_for_department": "Camera",
+        "name": "Yuzuru Aizawa",
+        "original_name": "逢沢譲",
+        "popularity": 0.2175,
+        "profile_path": null,
+        "credit_id": "52fe47099251416c9106819f",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 30561,
+        "known_for_department": "Directing",
+        "name": "Jun Fukuda",
+        "original_name": "福田純",
+        "popularity": 0.8511,
+        "profile_path": "/3ZVBiyMohlAi76EPkFZXjpkf4ju.jpg",
+        "credit_id": "52fe47099251416c91068187",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 33131,
+        "known_for_department": "Editing",
+        "name": "Michiko Ikeda",
+        "original_name": "池田美千子",
+        "popularity": 0.1181,
+        "profile_path": null,
+        "credit_id": "52fe47099251416c910681a5",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 18604,
+        "known_for_department": "Production",
+        "name": "Tomoyuki Tanaka",
+        "original_name": "田中友幸",
+        "popularity": 0.5116,
+        "profile_path": "/fceS19GAexPnmtVQJHG9VxaVHGZ.jpg",
+        "credit_id": "52fe47099251416c91068193",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1542937,
+        "known_for_department": "Sound",
+        "name": "Riichirō Manabe",
+        "original_name": "眞鍋理一郎",
+        "popularity": 0.2736,
+        "profile_path": "/h1979gRyAa8lSVALDFV4HS5rNpZ.jpg",
+        "credit_id": "5717313fc3a3686c83000699",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1561110,
+        "known_for_department": "Art",
+        "name": "Yoshifumi Honda",
+        "original_name": "Yoshifumi Honda",
+        "popularity": 0.1213,
+        "profile_path": null,
+        "credit_id": "594075ee9251414afb0157bd",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 30561,
+        "known_for_department": "Directing",
+        "name": "Jun Fukuda",
+        "original_name": "福田純",
+        "popularity": 0.8511,
+        "profile_path": "/3ZVBiyMohlAi76EPkFZXjpkf4ju.jpg",
+        "credit_id": "663ee71ccea4ab53fe477a39",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3338278,
+        "known_for_department": "Sound",
+        "name": "Masato Shimon",
+        "original_name": "Masato Shimon",
+        "popularity": 0.1044,
+        "profile_path": null,
+        "credit_id": "663ee9137079d0078a08c45c",
+        "department": "Sound",
+        "job": "Vocals"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4706836,
+        "known_for_department": "Sound",
+        "name": "Eishiro Hayashi",
+        "original_name": "Eishiro Hayashi",
+        "popularity": 0.0168,
+        "profile_path": null,
+        "credit_id": "663ee82e6b0d4dd318120367",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4458598,
+        "known_for_department": "Lighting",
+        "name": "Masakuni Morimoto",
+        "original_name": "Masakuni Morimoto",
+        "popularity": 0.0549,
+        "profile_path": null,
+        "credit_id": "663ee8645eb963123908bfc6",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4458563,
+        "known_for_department": "Crew",
+        "name": "Toshiro Aoki",
+        "original_name": "青木 利郎",
+        "popularity": 0.1952,
+        "profile_path": "/ftyO09oza1DOgzQLGoiPTedjuwC.jpg",
+        "credit_id": "663eea49f301db1209b5be2e",
+        "department": "Crew",
+        "job": "Visual Effects Art Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 18611,
+        "known_for_department": "Writing",
+        "name": "Shinichi Sekizawa",
+        "original_name": "関沢新一",
+        "popularity": 0.925,
+        "profile_path": "/n1z2Ff60RwYBJ9RsakvSBUVmU1H.jpg",
+        "credit_id": "663ee8cb9d7385eb30259613",
+        "department": "Writing",
+        "job": "Lyricist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1561111,
+        "known_for_department": "Production",
+        "name": "Keisuke Shinoda",
+        "original_name": "Keisuke Shinodo",
+        "popularity": 0.0327,
+        "profile_path": null,
+        "credit_id": "663ee9bb63916aea449acfbc",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4458583,
+        "known_for_department": "Visual Effects",
+        "name": "Takeshi Miyanishi",
+        "original_name": "Takeshi Miyanishi",
+        "popularity": 0.1258,
+        "profile_path": "/jL6MvJau1ldS39CgSzrwQidGKjc.jpg",
+        "credit_id": "663eeb1f85fd188feb120675",
+        "department": "Visual Effects",
+        "job": "Visual Effects"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4706858,
+        "known_for_department": "Visual Effects",
+        "name": "Kazunobu Sanpei",
+        "original_name": "Kazunobu Sanpei",
+        "popularity": 0.0633,
+        "profile_path": null,
+        "credit_id": "663eec6ad875ec20c0d917a8",
+        "department": "Visual Effects",
+        "job": "Visual Effects Compositor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1019856,
+        "known_for_department": "Visual Effects",
+        "name": "Teruyoshi Nakano",
+        "original_name": "中野昭慶",
+        "popularity": 0.4311,
+        "profile_path": "/I9EOJXi9ixs5qew669R144FF2G.jpg",
+        "credit_id": "663ee9e5c9a4c10fa1dbe018",
+        "department": "Crew",
+        "job": "Special Effects"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4458591,
+        "known_for_department": "Crew",
+        "name": "Shoji Ogawa",
+        "original_name": "Shoji Ogawa",
+        "popularity": 0.0591,
+        "profile_path": null,
+        "credit_id": "663eeb64d2eb8e0fa0a3c3e7",
+        "department": "Crew",
+        "job": "Special Effects"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1019856,
+        "known_for_department": "Visual Effects",
+        "name": "Teruyoshi Nakano",
+        "original_name": "中野昭慶",
+        "popularity": 0.4311,
+        "profile_path": "/I9EOJXi9ixs5qew669R144FF2G.jpg",
+        "credit_id": "663ee9f1a2d1b29e72b490ae",
+        "department": "Visual Effects",
+        "job": "Visual Effects Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 18611,
+        "known_for_department": "Writing",
+        "name": "Shinichi Sekizawa",
+        "original_name": "関沢新一",
+        "popularity": 0.925,
+        "profile_path": "/n1z2Ff60RwYBJ9RsakvSBUVmU1H.jpg",
+        "credit_id": "66e8b190a194ec95e24f6a43",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 30464,
+        "known_for_department": "Writing",
+        "name": "Takeshi Kimura",
+        "original_name": "木村 武",
+        "popularity": 1.0186,
+        "profile_path": "/avmtXZAGgiZmAXPkKPCvUZKJ8tY.jpg",
+        "credit_id": "66e8b19da194ec95e24f6a54",
+        "department": "Writing",
+        "job": "Original Story"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1969623,
+        "known_for_department": "Directing",
+        "name": "Tsunesaburo Nishikawa",
+        "original_name": "西川 常三郎",
+        "popularity": 0.1804,
+        "profile_path": null,
+        "credit_id": "671979cf5d0de89042d8d2f4",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2076780,
+        "known_for_department": "Visual Effects",
+        "name": "Eiichi Asada",
+        "original_name": "浅田 英一",
+        "popularity": 0.341,
+        "profile_path": "/4pfRoRtPygFKNiNOUcKGiFYB18C.jpg",
+        "credit_id": "671979e45be9e8759da6d0fb",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4860477,
+        "known_for_department": "Crew",
+        "name": "Tadaaki Watanabe",
+        "original_name": "Tadaaki Watanabe",
+        "popularity": 0.072,
+        "profile_path": "/i614ZT0ataVgJOIiihpNMvJXAxD.jpg",
+        "credit_id": "67197c604be15469e70d73ac",
+        "department": "Crew",
+        "job": "Special Effects"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4860478,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Nobuyuki Yasumaru",
+        "original_name": "安丸信行",
+        "popularity": 0.164,
+        "profile_path": "/9Ch7xRn5EKoZDbd1rfchEdKI4oT.jpg",
+        "credit_id": "67197d97e833d92ef05fc70a",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4860478,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Nobuyuki Yasumaru",
+        "original_name": "安丸信行",
+        "popularity": 0.164,
+        "profile_path": "/9Ch7xRn5EKoZDbd1rfchEdKI4oT.jpg",
+        "credit_id": "67197dac4be15469e70d743b",
+        "department": "Visual Effects",
+        "job": "Modeling"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5018191,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Tomoki Kobayashi",
+        "original_name": "小林知己",
+        "popularity": 0.2399,
+        "profile_path": "/wAp906LBUInxKVozGYn2PAcHbml.jpg",
+        "credit_id": "67197e0ee833d92ef05fc746",
+        "department": "Costume & Make-Up",
+        "job": "Assistant Costume Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5018191,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Tomoki Kobayashi",
+        "original_name": "小林知己",
+        "popularity": 0.2399,
+        "profile_path": "/wAp906LBUInxKVozGYn2PAcHbml.jpg",
+        "credit_id": "67197e1f4be15469e70d7451",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5018191,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Tomoki Kobayashi",
+        "original_name": "小林知己",
+        "popularity": 0.2399,
+        "profile_path": "/wAp906LBUInxKVozGYn2PAcHbml.jpg",
+        "credit_id": "67197e2d427c5c19f025afcb",
+        "department": "Visual Effects",
+        "job": "Modeling"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4458566,
+        "known_for_department": "Visual Effects",
+        "name": "Motoyoshi Tomioka",
+        "original_name": "富岡 素敬",
+        "popularity": 0.1289,
+        "profile_path": "/qwrOqi7Y4ZCb2EFAtTisSYHHby1.jpg",
+        "credit_id": "6719857c427c5c19f025b253",
+        "department": "Visual Effects",
+        "job": "VFX Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4458566,
+        "known_for_department": "Visual Effects",
+        "name": "Motoyoshi Tomioka",
+        "original_name": "富岡 素敬",
+        "popularity": 0.1289,
+        "profile_path": "/qwrOqi7Y4ZCb2EFAtTisSYHHby1.jpg",
+        "credit_id": "67198596b3d5cbb842f3cfb5",
+        "department": "Crew",
+        "job": "Special Effects"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4706858,
+        "known_for_department": "Visual Effects",
+        "name": "Kazunobu Sanpei",
+        "original_name": "Kazunobu Sanpei",
+        "popularity": 0.0633,
+        "profile_path": null,
+        "credit_id": "67198945fefd1e0510ffdd81",
+        "department": "Visual Effects",
+        "job": "Visual Effects"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1019856,
+        "known_for_department": "Visual Effects",
+        "name": "Teruyoshi Nakano",
+        "original_name": "中野昭慶",
+        "popularity": 0.4311,
+        "profile_path": "/I9EOJXi9ixs5qew669R144FF2G.jpg",
+        "credit_id": "671b2023a4ac8a432c5c28d2",
+        "department": "Visual Effects",
+        "job": "Visual Effects"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2416350,
+        "known_for_department": "Directing",
+        "name": "Shizuo Nakajima",
+        "original_name": "Shizuo Nakajima",
+        "popularity": 0.0759,
+        "profile_path": "/qDOikU8sLXSngyr1O9h1o2HUhyj.jpg",
+        "credit_id": "6730206b11b6cc0571f64510",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3672462,
+        "known_for_department": "Crew",
+        "name": "Yoshio Tabuchi",
+        "original_name": "Yoshio Tabuchi",
+        "popularity": 0.0861,
+        "profile_path": null,
+        "credit_id": "68408b03de2de4b11b7bb9c7",
+        "department": "Directing",
+        "job": "Assistant Director"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "US",
+        "title": "Godzilla Vs. Megalon",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "DE",
+        "title": "Godzilla vs. Megaro",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "IT",
+        "title": "Godzilla contro Megalon - Ai confini della realtà",
+        "type": "Italian home video title"
+      },
+      {
+        "iso_3166_1": "JP",
+        "title": "Gojira tai Megaro",
+        "type": "romanization"
+      },
+      {
+        "iso_3166_1": "ES",
+        "title": "Gorgo y Superman se citan en Tokio",
+        "type": "Cire Films Spanish theatrical release title"
+      },
+      {
+        "iso_3166_1": "ES",
+        "title": "Godzilla contra Megalon",
+        "type": "Spanish DVD title"
+      },
+      {
+        "iso_3166_1": "GR",
+        "title": "Ιπτάμενος Υπεράνθρωπος",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "GR",
+        "title": "Godzilla: Ιπτάμενος Υπεράνθρωπος",
+        "type": "DVD title"
+      },
+      {
+        "iso_3166_1": "FR",
+        "title": "Godzilla 1980",
+        "type": "Le Hollywood Boulevard/René Chateau French theatrical release title"
+      },
+      {
+        "iso_3166_1": "US",
+        "title": "Godzilla 13 - Godzilla vs. Megalon",
+        "type": "(by Toho Chronology)"
+      },
+      {
+        "iso_3166_1": "MX",
+        "title": "Godzilla contra Megalon",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "IT",
+        "title": "At the Borders of Reality",
+        "type": "Indipendenti Regionali/AVO Film Italian theatrical release title, translated"
+      },
+      {
+        "iso_3166_1": "IT",
+        "title": "Ai confini della realtà",
+        "type": "Indipendenti Regionali/AVO Film Italian theatrical release title"
+      },
+      {
+        "iso_3166_1": "IT",
+        "title": "Godzilla Against Megalon - At the Borders of Reality",
+        "type": "Italian home video title, translated"
+      },
+      {
+        "iso_3166_1": "ES",
+        "title": "Gorgo and Superman Meet in Tokyo",
+        "type": "Cire Films Spanish theatrical release title, translated"
+      },
+      {
+        "iso_3166_1": "MX",
+        "title": "Planetary Titans",
+        "type": "Apolo Films S.L. Mexican theatrical release title, translated"
+      },
+      {
+        "iso_3166_1": "MX",
+        "title": "Titanes planetarios",
+        "type": "Apolo Films S.L. Mexican theatrical release title"
+      },
+      {
+        "iso_3166_1": "JP",
+        "title": "Godzilla vs. The Megalon Brothers: The Undersea Kingdom's Annihilation Strategy",
+        "type": "Early draft title, translated"
+      },
+      {
+        "iso_3166_1": "JP",
+        "title": "Godzilla vs. Megalon: The Undersea Kingdom's Annihilation Strategy",
+        "type": "Second early draft title, translated"
+      },
+      {
+        "iso_3166_1": "JP",
+        "title": "Insect Monster Megalon vs. Godzilla: The Undersea Kingdom's Annihilation Strategy",
+        "type": "Third early draft title, translated"
+      },
+      {
+        "iso_3166_1": "JP",
+        "title": "Gojira tai Megaro Kyōdai Kaitei Ōkoku Zenmetsu Sakusen",
+        "type": "Early draft title, romanized"
+      },
+      {
+        "iso_3166_1": "JP",
+        "title": "Gojira tai Megaro Kaitei Ōkoku Zenmetsu Sakusen",
+        "type": "Second early draft title, romanized"
+      },
+      {
+        "iso_3166_1": "JP",
+        "title": "Konchū Kaijū Megaro tai Gojira Kaitei Ōkoku Zenmetsu Sakusen",
+        "type": "Third early draft title, romanized"
+      },
+      {
+        "iso_3166_1": "JP",
+        "title": "ゴジラ対メガロ兄弟 海底王国全滅作戦",
+        "type": "Early draft title"
+      },
+      {
+        "iso_3166_1": "JP",
+        "title": "ゴジラ対メガロ 海底王国全滅作戦",
+        "type": "Second early draft title"
+      },
+      {
+        "iso_3166_1": "JP",
+        "title": "昆虫怪獣メガロ対ゴジラ 海底王国全滅作戦",
+        "type": "Third early draft title"
+      },
+      {
+        "iso_3166_1": "TR",
+        "title": "Dünyayı Titreten Canavar",
+        "type": "Hikmet Tozman Film Turkish theatrical release title"
+      },
+      {
+        "iso_3166_1": "TR",
+        "title": "The Beast That Shakes the World",
+        "type": "Hikmet Tozman Film Turkish theatrical release title, translated"
+      },
+      {
+        "iso_3166_1": "DE",
+        "title": "King Kong — Dämonen aus dem Weltall",
+        "type": "Constantin Film West German theatrical release title"
+      },
+      {
+        "iso_3166_1": "DE",
+        "title": "King Kong: Demons from Outer Space",
+        "type": "Constantin Film West German theatrical release title, translated"
+      },
+      {
+        "iso_3166_1": "HK",
+        "title": "Prince of the Sun",
+        "type": "translated"
+      },
+      {
+        "iso_3166_1": "HK",
+        "title": "太陽王子",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "IL",
+        "title": "Superman in Space",
+        "type": "translated"
+      },
+      {
+        "iso_3166_1": "IL",
+        "title": "סופרמן בחלל",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "GR",
+        "title": "The Flying Superman vs. Monsters",
+        "type": "translated"
+      },
+      {
+        "iso_3166_1": "BR",
+        "title": "Monstros De Outros Espaços",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "DE",
+        "title": "Godzilla vs. Megalon Daemonen aus dem Weltall",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "FR",
+        "title": "Godzilla contre Megalon",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "US",
+        "title": "GVMN",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "DE",
+        "title": "Godzilla gegen Megalon",
+        "type": ""
+      }
+    ]
+  }
+}

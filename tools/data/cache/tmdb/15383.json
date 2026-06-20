@@ -1,0 +1,822 @@
+{
+  "adult": false,
+  "backdrop_path": "/csCSd8gftDRax0tiuo4VZJ9UaOo.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10752,
+      "name": "War"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    }
+  ],
+  "homepage": "",
+  "id": 15383,
+  "imdb_id": "tt0064040",
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "L'Armée des ombres",
+  "overview": "Betrayed by an informant, Philippe Gerbier finds himself trapped in a torturous Nazi prison camp. Though Gerbier escapes to rejoin the Resistance in occupied Marseilles, France, and exacts his revenge on the informant, he must continue a quiet, seemingly endless battle against the Nazis in an atmosphere of tension, paranoia and distrust.",
+  "popularity": 1.4882,
+  "poster_path": "/aqNZWM9bspt8zaDvVRIRiWxRVJ7.jpg",
+  "production_companies": [
+    {
+      "id": 144,
+      "logo_path": null,
+      "name": "Fono Roma",
+      "origin_country": "IT"
+    },
+    {
+      "id": 1398,
+      "logo_path": null,
+      "name": "Les Films Corona",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    }
+  ],
+  "release_date": "1969-09-10",
+  "revenue": 906133,
+  "runtime": 145,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    },
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Betrayal. Loyalty. Collaboration. Resistance.",
+  "title": "Army of Shadows",
+  "video": false,
+  "vote_average": 7.892,
+  "vote_count": 752,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 15397,
+        "known_for_department": "Acting",
+        "name": "Lino Ventura",
+        "original_name": "Lino Ventura",
+        "popularity": 0.9038,
+        "profile_path": "/curER6hJxl7c41FXmgmJHBip3uS.jpg",
+        "cast_id": 2,
+        "character": "Philippe Gerbier",
+        "credit_id": "52fe46549251416c75074e2f",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 12267,
+        "known_for_department": "Acting",
+        "name": "Paul Meurisse",
+        "original_name": "Paul Meurisse",
+        "popularity": 0.374,
+        "profile_path": "/i9YSdeQDiMGoN12aZwsPIwh0tjs.jpg",
+        "cast_id": 3,
+        "character": "Luc Jardie",
+        "credit_id": "52fe46549251416c75074e33",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 19162,
+        "known_for_department": "Acting",
+        "name": "Jean-Pierre Cassel",
+        "original_name": "Jean-Pierre Cassel",
+        "popularity": 0.9816,
+        "profile_path": "/mXCkJdqzbnh0Kv30K4OtXbO0gTw.jpg",
+        "cast_id": 4,
+        "character": "Jean-François Jardie",
+        "credit_id": "52fe46549251416c75074e37",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 12266,
+        "known_for_department": "Acting",
+        "name": "Simone Signoret",
+        "original_name": "Simone Signoret",
+        "popularity": 1.0481,
+        "profile_path": "/vRI2Vt3HX911uDrVK170waQsL8b.jpg",
+        "cast_id": 5,
+        "character": "Mathilde",
+        "credit_id": "52fe46549251416c75074e3b",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 36018,
+        "known_for_department": "Acting",
+        "name": "Claude Mann",
+        "original_name": "Claude Mann",
+        "popularity": 0.3744,
+        "profile_path": "/2yGCIr1QgGdKX6yO2b7VdAWlvWy.jpg",
+        "cast_id": 8,
+        "character": "Claude Ullman / Le Masque",
+        "credit_id": "52fe46549251416c75074e47",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 35003,
+        "known_for_department": "Acting",
+        "name": "Paul Crauchet",
+        "original_name": "Paul Crauchet",
+        "popularity": 0.3837,
+        "profile_path": "/u81GXkNPdidguIT0biR9vjjBd4X.jpg",
+        "cast_id": 6,
+        "character": "Félix Lepercq",
+        "credit_id": "52fe46549251416c75074e3f",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 44509,
+        "known_for_department": "Acting",
+        "name": "Christian Barbier",
+        "original_name": "Christian Barbier",
+        "popularity": 0.268,
+        "profile_path": "/mepucB05UmYpyLaZrC4BCd2ExwK.jpg",
+        "cast_id": 7,
+        "character": "Guillaume Vermesch / Le Bison",
+        "credit_id": "52fe46549251416c75074e43",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1482978,
+        "known_for_department": "Acting",
+        "name": "Alain Dekok",
+        "original_name": "Alain Dekok",
+        "popularity": 0.1459,
+        "profile_path": "/t6pjb4X8GxV6eR9T4SRfn6tLrHo.jpg",
+        "cast_id": 11,
+        "character": "Legrain",
+        "credit_id": "52fe46549251416c75074e53",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 39349,
+        "known_for_department": "Acting",
+        "name": "Alain Libolt",
+        "original_name": "Alain Libolt",
+        "popularity": 0.2933,
+        "profile_path": "/e1tWOgNk2W5JhucO30vthXIQKeR.jpg",
+        "cast_id": 9,
+        "character": "Paul Dounat",
+        "credit_id": "52fe46549251416c75074e4b",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 124236,
+        "known_for_department": "Acting",
+        "name": "Jean-Marie Robain",
+        "original_name": "Jean-Marie Robain",
+        "popularity": 0.219,
+        "profile_path": "/wIQyu1bXIBglPmu4OW2JHYQanUo.jpg",
+        "cast_id": 32,
+        "character": "Baron de La Ferté-Talloires",
+        "credit_id": "5c8b548a0e0a267d08c4fc84",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 39184,
+        "known_for_department": "Acting",
+        "name": "Albert Michel",
+        "original_name": "Albert Michel",
+        "popularity": 0.2269,
+        "profile_path": "/nlPIQCXMlTuNzrrVq9Py0dUKHTd.jpg",
+        "cast_id": 33,
+        "character": "Gendarme",
+        "credit_id": "5c8b54ae925141058ec1c54b",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 142935,
+        "known_for_department": "Acting",
+        "name": "Georges Sellier",
+        "original_name": "Georges Sellier",
+        "popularity": 0.1815,
+        "profile_path": "/iWYzinq4HgKu8GSmLsRbNk6gP0A.jpg",
+        "cast_id": 35,
+        "character": "Colonel Jarret du Plessis",
+        "credit_id": "5c8b54c50e0a260cb1c52871",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 145103,
+        "known_for_department": "Acting",
+        "name": "Marco Perrin",
+        "original_name": "Marco Perrin",
+        "popularity": 0.3238,
+        "profile_path": "/2E2rpy6EYSrAT33ZfCEzWpMHkGl.jpg",
+        "cast_id": 36,
+        "character": "Octave Bonnafous",
+        "credit_id": "5c8b54cf9251414e8bc3a601",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 39097,
+        "known_for_department": "Acting",
+        "name": "Hubert de Lapparent",
+        "original_name": "Hubert de Lapparent",
+        "popularity": 0.143,
+        "profile_path": "/pb7OeVa7PuU0RE68uMCtzYWht6z.jpg",
+        "cast_id": 37,
+        "character": "Aubert",
+        "credit_id": "5c8b54dcc3a36864650f56cd",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 24778,
+        "known_for_department": "Acting",
+        "name": "Jeanne Pérez",
+        "original_name": "Jeanne Pérez",
+        "popularity": 0.1684,
+        "profile_path": "/tZgwWja4ohoAq7R6z9s9khdur8h.jpg",
+        "cast_id": 44,
+        "character": "Marie",
+        "credit_id": "5e9f713801757f001cd09325",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 24907,
+        "known_for_department": "Acting",
+        "name": "Alain Mottet",
+        "original_name": "Alain Mottet",
+        "popularity": 0.2388,
+        "profile_path": "/fpUA7PrGzrOYoh0sFNJHicud2EU.jpg",
+        "cast_id": 10,
+        "character": "Le Commandant du Camp",
+        "credit_id": "52fe46549251416c75074e4f",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 222667,
+        "known_for_department": "Acting",
+        "name": "Denis Sadier",
+        "original_name": "Denis Sadier",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 34,
+        "character": "Docteur de la Prison de la Gestapo",
+        "credit_id": "5c8b54ba0e0a26042bc60e1c",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 15137,
+        "known_for_department": "Acting",
+        "name": "Serge Reggiani",
+        "original_name": "Serge Reggiani",
+        "popularity": 0.4733,
+        "profile_path": "/xCivGxOHeQJnDzXaPX43JOQfpG6.jpg",
+        "cast_id": 12,
+        "character": "Le barbier",
+        "credit_id": "52fe46549251416c75074e57",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1421545,
+        "known_for_department": "Acting",
+        "name": "Colin Mann",
+        "original_name": "Colin Mann",
+        "popularity": 0.0733,
+        "profile_path": null,
+        "cast_id": 38,
+        "character": "Dispatcher",
+        "credit_id": "5c8b54e8c3a368645d0f1cb9",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1609459,
+        "known_for_department": "Acting",
+        "name": "Anthony Stuart",
+        "original_name": "Anthony Stuart",
+        "popularity": 0.1668,
+        "profile_path": null,
+        "cast_id": 39,
+        "character": "Royal Air Force Major",
+        "credit_id": "5c8b54f6c3a368644f0f318f",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 135624,
+        "known_for_department": "Acting",
+        "name": "Gérard-Antoine Huart",
+        "original_name": "Gérard-Antoine Huart",
+        "popularity": 0.1667,
+        "profile_path": null,
+        "cast_id": 40,
+        "character": "Prisonnier",
+        "credit_id": "5c8b550c9251414e8bc3a662",
+        "order": 20
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 54393,
+        "known_for_department": "Acting",
+        "name": "Percival Russel",
+        "original_name": "Percival Russel",
+        "popularity": 0.1081,
+        "profile_path": null,
+        "cast_id": 42,
+        "character": "Soldat allemand",
+        "credit_id": "5e9f6ed8c1606a001d86adf0",
+        "order": 21
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1376923,
+        "known_for_department": "Acting",
+        "name": "Michel Dacquin",
+        "original_name": "Michel Dacquin",
+        "popularity": 0.1541,
+        "profile_path": "/e1uZcK3Jgc1uOJfg3tQ0K67Wyht.jpg",
+        "cast_id": 43,
+        "character": "Un condamné",
+        "credit_id": "5e9f6fc207faa2001af9972a",
+        "order": 22
+      },
+      {
+        "adult": true,
+        "gender": 2,
+        "id": 225648,
+        "known_for_department": "Acting",
+        "name": "Jacques Marbeuf",
+        "original_name": "Jacques Marbeuf",
+        "popularity": 0,
+        "profile_path": "/jV4wWT3LKYjNjiVW6I7KjTHdIEk.jpg",
+        "cast_id": 41,
+        "character": "Officier allemand",
+        "credit_id": "5c8b5522c3a36864550f3756",
+        "order": 23
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 579437,
+        "known_for_department": "Acting",
+        "name": "Marcel Bernier",
+        "original_name": "Marcel Bernier",
+        "popularity": 0.1574,
+        "profile_path": "/doPfKEWweUo2EJoHR6qje5gQhf5.jpg",
+        "cast_id": 46,
+        "character": "Customs Adjutant",
+        "credit_id": "5e9f755ec1606a001d86b2b1",
+        "order": 24
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1100818,
+        "known_for_department": "Acting",
+        "name": "Gaston Meunier",
+        "original_name": "Gaston Meunier",
+        "popularity": 0.0935,
+        "profile_path": null,
+        "cast_id": 47,
+        "character": "Contrôleur des bagages",
+        "credit_id": "5e9f75ca01757f0024d0a401",
+        "order": 25
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1664786,
+        "known_for_department": "Acting",
+        "name": "Pierre Vaudier",
+        "original_name": "Pierre Vaudier",
+        "popularity": 0.051,
+        "profile_path": "/e6dNbOalTmHSQrEbwk6nspv8FRg.jpg",
+        "cast_id": 45,
+        "character": "",
+        "credit_id": "5e9f73d207faa20020f9a75d",
+        "order": 26
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 43814,
+        "known_for_department": "Acting",
+        "name": "Nathalie Delon",
+        "original_name": "Nathalie Delon",
+        "popularity": 0.5675,
+        "profile_path": "/oEdNxKieZufHnH8VmPIzm6QaRNC.jpg",
+        "cast_id": 23,
+        "character": "L'ami de Jean-François (non-crédité)",
+        "credit_id": "5b52745b0e0a262324003827",
+        "order": 27
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 112760,
+        "known_for_department": "Acting",
+        "name": "Jacques Léonard",
+        "original_name": "Jacques Léonard",
+        "popularity": 0.1124,
+        "profile_path": "/31N8dOn5b1cToXTy5KQewuMeZ1r.jpg",
+        "cast_id": 48,
+        "character": "Prisonnier du camp d'internement  (non-crédité)",
+        "credit_id": "5f43c8296eecee00345709d6",
+        "order": 28
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3831,
+        "known_for_department": "Directing",
+        "name": "Jean-Pierre Melville",
+        "original_name": "Jean-Pierre Melville",
+        "popularity": 0.6749,
+        "profile_path": "/2Xu99MNnzqL5gwKzsidQQatGTb3.jpg",
+        "credit_id": "52fe46549251416c75074e75",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 32097,
+        "known_for_department": "Camera",
+        "name": "Walter Wottitz",
+        "original_name": "Walter Wottitz",
+        "popularity": 0.0823,
+        "profile_path": null,
+        "credit_id": "52fe46549251416c75074e81",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 32072,
+        "known_for_department": "Production",
+        "name": "Jacques Dorfmann",
+        "original_name": "Jacques Dorfmann",
+        "popularity": 0.2872,
+        "profile_path": "/uCh03PjxlwvwPnmN90gncQ6659H.jpg",
+        "credit_id": "52fe46549251416c75074e63",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 9748,
+        "known_for_department": "Writing",
+        "name": "Joseph Kessel",
+        "original_name": "Joseph Kessel",
+        "popularity": 0.281,
+        "profile_path": "/gd8AkNHCfdzxcaajpSksX8onI2l.jpg",
+        "credit_id": "52fe46549251416c75074e5d",
+        "department": "Writing",
+        "job": "Novel"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 16403,
+        "known_for_department": "Editing",
+        "name": "Françoise Bonnot",
+        "original_name": "Françoise Bonnot",
+        "popularity": 0.2111,
+        "profile_path": "/cgN78TFLpn4OfR83GjhExAP2IX9.jpg",
+        "credit_id": "52fe46549251416c75074e6f",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3831,
+        "known_for_department": "Directing",
+        "name": "Jean-Pierre Melville",
+        "original_name": "Jean-Pierre Melville",
+        "popularity": 0.6749,
+        "profile_path": "/2Xu99MNnzqL5gwKzsidQQatGTb3.jpg",
+        "credit_id": "52fe46549251416c75074e2b",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 17556,
+        "known_for_department": "Camera",
+        "name": "Pierre Lhomme",
+        "original_name": "Pierre Lhomme",
+        "popularity": 0.1734,
+        "profile_path": "/5ucStq5YyMjSkbpChO200WOm6Oi.jpg",
+        "credit_id": "52fe46549251416c75074e7b",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 39338,
+        "known_for_department": "Sound",
+        "name": "Éric Demarsan",
+        "original_name": "Éric Demarsan",
+        "popularity": 0.0573,
+        "profile_path": null,
+        "credit_id": "52fe46549251416c75074e69",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1492958,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Maud Begon",
+        "original_name": "Maud Begon",
+        "popularity": 0.07,
+        "profile_path": null,
+        "credit_id": "5b52749c9251411f840032d8",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1347942,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Colette Baudot",
+        "original_name": "Colette Baudot",
+        "popularity": 0.0745,
+        "profile_path": null,
+        "credit_id": "5b5274929251411f820030f4",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 11199,
+        "known_for_department": "Art",
+        "name": "Théobald Meurisse",
+        "original_name": "Théobald Meurisse",
+        "popularity": 0.1388,
+        "profile_path": null,
+        "credit_id": "5b527487c3a3680b66003a19",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 11199,
+        "known_for_department": "Art",
+        "name": "Théobald Meurisse",
+        "original_name": "Théobald Meurisse",
+        "popularity": 0.1388,
+        "profile_path": null,
+        "credit_id": "5b527480c3a3680b610033d7",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 26356,
+        "known_for_department": "Sound",
+        "name": "Jean Nény",
+        "original_name": "Jean Nény",
+        "popularity": 0.1234,
+        "profile_path": null,
+        "credit_id": "5b5274ba9251411f8800330d",
+        "department": "Sound",
+        "job": "Sound Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1451461,
+        "known_for_department": "Sound",
+        "name": "Alex Pront",
+        "original_name": "Alex Pront",
+        "popularity": 0.1803,
+        "profile_path": null,
+        "credit_id": "5b5274c4c3a3680b59003efd",
+        "department": "Sound",
+        "job": "Sound Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1317194,
+        "known_for_department": "Sound",
+        "name": "Jacques Carrère",
+        "original_name": "Jacques Carrère",
+        "popularity": 0.2399,
+        "profile_path": null,
+        "credit_id": "5b5274b0c3a3680b66003a36",
+        "department": "Sound",
+        "job": "Sound Director"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "US",
+        "title": "Army of Shadows",
+        "type": "translation"
+      },
+      {
+        "iso_3166_1": "RU",
+        "title": "Армия теней",
+        "type": "translation"
+      },
+      {
+        "iso_3166_1": "FR",
+        "title": "L'armée des ombres",
+        "type": "Original"
+      },
+      {
+        "iso_3166_1": "CN",
+        "title": "地下纵队",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "BR",
+        "title": "O Exército das Sombras",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "CN",
+        "title": "影子军队",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "CN",
+        "title": "影子军团",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "KR",
+        "title": "그림자 군단",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "NL",
+        "title": "Een Leger Vecht in de Schaduw",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "IT",
+        "title": "L'armata degli eroi",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "AR",
+        "title": "El ejército de las sombras",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "BG",
+        "title": "Армия от сенки",
+        "type": "Bulgarian title"
+      },
+      {
+        "iso_3166_1": "FI",
+        "title": "Maanalainen armeija",
+        "type": "video title"
+      },
+      {
+        "iso_3166_1": "FI",
+        "title": "Okända hjältar",
+        "type": "Swedish title"
+      },
+      {
+        "iso_3166_1": "GR",
+        "title": "I megali stratia ton afanon iroon",
+        "type": "transliteration"
+      },
+      {
+        "iso_3166_1": "JP",
+        "title": "Kage no guntai",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "JP",
+        "title": "影の軍隊",
+        "type": "Japanese title"
+      },
+      {
+        "iso_3166_1": "LT",
+        "title": "Šešeliu armija",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "NL",
+        "title": "De schimmen",
+        "type": "alternative transliteration"
+      },
+      {
+        "iso_3166_1": "NO",
+        "title": "Skyggenes armé",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "RO",
+        "title": "Armata umbrelor",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "RS",
+        "title": "Armija senki",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "TW",
+        "title": "影子軍隊",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "GB",
+        "title": "The Army in the Shadows",
+        "type": "alternative title"
+      },
+      {
+        "iso_3166_1": "US",
+        "title": "The Army of Shadows",
+        "type": ""
+      }
+    ]
+  }
+}

@@ -1,0 +1,562 @@
+{
+  "adult": false,
+  "backdrop_path": "/hYvfaCccyazxhcBwEpPmQoDAEL0.jpg",
+  "belongs_to_collection": {
+    "id": 123720,
+    "name": "Frankenstein (Hammer) Collection",
+    "poster_path": "/Wvpg2lWyGtYMpglu5B5RzQ3KAg.jpg",
+    "backdrop_path": "/6k7NzhLLHTmz8JOHLhhCBjEoZNn.jpg"
+  },
+  "budget": 176000,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ],
+  "homepage": "",
+  "id": 3145,
+  "imdb_id": "tt0065851",
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "The Horror of Frankenstein",
+  "overview": "Brilliant but arrogant scientist Victor Frankenstein builds a man from spare body parts, only for the monster to come alive and wreak havoc.",
+  "popularity": 0.6611,
+  "poster_path": "/8lFv0ABZqINbHijXjCc41AmrRlm.jpg",
+  "production_companies": [
+    {
+      "id": 1314,
+      "logo_path": "/gQBluDqe6dc2ZdzfJbabEHoSGoG.png",
+      "name": "Hammer Film Productions",
+      "origin_country": "GB"
+    },
+    {
+      "id": 538,
+      "logo_path": "/oGpxL5lFf8VpWsAQ6tut0on25LW.png",
+      "name": "EMI Films",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "1970-11-08",
+  "revenue": 0,
+  "runtime": 95,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The dead shall rise again!",
+  "title": "The Horror of Frankenstein",
+  "video": false,
+  "vote_average": 5.869,
+  "vote_count": 88,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 101533,
+        "known_for_department": "Acting",
+        "name": "Ralph Bates",
+        "original_name": "Ralph Bates",
+        "popularity": 0.4369,
+        "profile_path": "/9H7QrcyGE0HBYAFTYg2phJ13C74.jpg",
+        "cast_id": 20,
+        "character": "Victor Frankenstein",
+        "credit_id": "52fe438ac3a36847f805bf73",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 30765,
+        "known_for_department": "Acting",
+        "name": "Kate O'Mara",
+        "original_name": "Kate O'Mara",
+        "popularity": 0.6718,
+        "profile_path": "/fLHUID9NGMN3H0W3PWRfqgL7goD.jpg",
+        "cast_id": 13,
+        "character": "Alys",
+        "credit_id": "52fe438ac3a36847f805bf5b",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 30140,
+        "known_for_department": "Acting",
+        "name": "Veronica Carlson",
+        "original_name": "Veronica Carlson",
+        "popularity": 0.5031,
+        "profile_path": "/gSwJTqutHRgqDFqBkchSktMw5A1.jpg",
+        "cast_id": 14,
+        "character": "Elizabeth Heiss",
+        "credit_id": "52fe438ac3a36847f805bf5f",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 8223,
+        "known_for_department": "Acting",
+        "name": "Jon Finch",
+        "original_name": "Jon Finch",
+        "popularity": 0.6163,
+        "profile_path": "/byUzcX9wGtPxRY4vWhd1OuCMQk2.jpg",
+        "cast_id": 21,
+        "character": "Lt. Henry Becker",
+        "credit_id": "52fe438ac3a36847f805bf77",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 30766,
+        "known_for_department": "Acting",
+        "name": "Dennis Price",
+        "original_name": "Dennis Price",
+        "popularity": 0.6037,
+        "profile_path": "/ax3BdKRYdmbGtY8a6RBj8bxk6Qd.jpg",
+        "cast_id": 15,
+        "character": "The Graverobber",
+        "credit_id": "52fe438ac3a36847f805bf63",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 30768,
+        "known_for_department": "Acting",
+        "name": "Graham James",
+        "original_name": "Graham James",
+        "popularity": 0.0986,
+        "profile_path": null,
+        "cast_id": 18,
+        "character": "Kassner",
+        "credit_id": "52fe438ac3a36847f805bf6b",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 12819,
+        "known_for_department": "Acting",
+        "name": "Bernard Archard",
+        "original_name": "Bernard Archard",
+        "popularity": 0.5376,
+        "profile_path": "/uYyVX6spVpi4CppDj0rphNJPEpq.jpg",
+        "cast_id": 17,
+        "character": "Prof. Heiss",
+        "credit_id": "52fe438ac3a36847f805bf67",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 30769,
+        "known_for_department": "Acting",
+        "name": "James Hayter",
+        "original_name": "James Hayter",
+        "popularity": 0.3277,
+        "profile_path": "/oyWVJYiOinNqg2L6it8aYstWYan.jpg",
+        "cast_id": 19,
+        "character": "Bailiff",
+        "credit_id": "52fe438ac3a36847f805bf6f",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 563068,
+        "known_for_department": "Acting",
+        "name": "Joan Rice",
+        "original_name": "Joan Rice",
+        "popularity": 0.2696,
+        "profile_path": "/ryuo3qyUzp9WFTveXKFkUGu8Mko.jpg",
+        "cast_id": 22,
+        "character": "Graverobber's wife",
+        "credit_id": "52fe438ac3a36847f805bf7b",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1091263,
+        "known_for_department": "Acting",
+        "name": "Stephen Turner",
+        "original_name": "Stephen Turner",
+        "popularity": 0.0418,
+        "profile_path": null,
+        "cast_id": 23,
+        "character": "Stephan",
+        "credit_id": "52fe438ac3a36847f805bf7f",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 189298,
+        "known_for_department": "Acting",
+        "name": "Neil Wilson",
+        "original_name": "Neil Wilson",
+        "popularity": 0.4048,
+        "profile_path": "/tA9tvz7wtDy2RbyaiurWUdAyDg.jpg",
+        "cast_id": 25,
+        "character": "Schoolmaster (uncredited)",
+        "credit_id": "5fa4accc90fca3003e87458b",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 33109,
+        "known_for_department": "Acting",
+        "name": "James Cossins",
+        "original_name": "James Cossins",
+        "popularity": 0.4037,
+        "profile_path": "/i0xmXmli13odEyslR85JhlkQ7wI.jpg",
+        "cast_id": 26,
+        "character": "Dean",
+        "credit_id": "5fa4acd98c7b0f003e74cbdf",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2845158,
+        "known_for_department": "Acting",
+        "name": "Glenys O'Brien",
+        "original_name": "Glenys O'Brien",
+        "popularity": 0.0667,
+        "profile_path": null,
+        "cast_id": 27,
+        "character": "Maggie",
+        "credit_id": "5fa4ace7d11e0e0041915261",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 129034,
+        "known_for_department": "Acting",
+        "name": "Geoffrey Lumsden",
+        "original_name": "Geoffrey Lumsden",
+        "popularity": 0.2095,
+        "profile_path": "/s8IoSAUQQSr1pnB9GvTWbEDExf2.jpg",
+        "cast_id": 28,
+        "character": "Instructor (uncredited)",
+        "credit_id": "5fa4acf6700bf7003e543468",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1325883,
+        "known_for_department": "Acting",
+        "name": "Chris Lethbridge-Baker",
+        "original_name": "Chris Lethbridge-Baker",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 29,
+        "character": "Priest (uncredited)",
+        "credit_id": "5fa4ad09c68b69003f9f9f56",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1214098,
+        "known_for_department": "Acting",
+        "name": "Terry Duggan",
+        "original_name": "Terry Duggan",
+        "popularity": 0.1707,
+        "profile_path": null,
+        "cast_id": 30,
+        "character": "First Bandit (uncredited)",
+        "credit_id": "5fa4ad1c880c920042e4ce43",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 139690,
+        "known_for_department": "Acting",
+        "name": "George Belbin",
+        "original_name": "George Belbin",
+        "popularity": 0.1273,
+        "profile_path": "/kdgmEaxUX2t9eIPdr4ogSqbZ0AL.jpg",
+        "cast_id": 31,
+        "character": "Baron Frankenstein (uncredited)",
+        "credit_id": "5fa4ade15aadc4003f7fecaf",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2332571,
+        "known_for_department": "Acting",
+        "name": "Hal Jeayes",
+        "original_name": "Hal Jeayes",
+        "popularity": 0.1176,
+        "profile_path": null,
+        "cast_id": 32,
+        "character": "Woodsman (uncredited)",
+        "credit_id": "5fa4adf091f0ea004069eb88",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2845159,
+        "known_for_department": "Acting",
+        "name": "Carol Jeayes",
+        "original_name": "Carol Jeayes",
+        "popularity": 0.0261,
+        "profile_path": null,
+        "cast_id": 33,
+        "character": "Woodsman's Daughter (uncredited)",
+        "credit_id": "5fa4ae0a6c1e040040bc9464",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1620397,
+        "known_for_department": "Acting",
+        "name": "Michael Goldie",
+        "original_name": "Michael Goldie",
+        "popularity": 0.2742,
+        "profile_path": null,
+        "cast_id": 34,
+        "character": "Workman (uncredited)",
+        "credit_id": "5fa4ae1b91f0ea003e6a1d3b",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 24342,
+        "known_for_department": "Acting",
+        "name": "David Prowse",
+        "original_name": "David Prowse",
+        "popularity": 0.6079,
+        "profile_path": "/nPFKENjKHuklJ8i54mZroNAgKaI.jpg",
+        "cast_id": 24,
+        "character": "The Monster",
+        "credit_id": "54cc726ec3a3687f82000d29",
+        "order": 20
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 30762,
+        "known_for_department": "Editing",
+        "name": "Chris Barnes",
+        "original_name": "Chris Barnes",
+        "popularity": 0.1164,
+        "profile_path": null,
+        "credit_id": "52fe438ac3a36847f805bf45",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 28970,
+        "known_for_department": "Writing",
+        "name": "Mary Shelley",
+        "original_name": "Mary Shelley",
+        "popularity": 0.7673,
+        "profile_path": "/rcTyPNOKNFmZi61FVdAivtBroXt.jpg",
+        "credit_id": "52fe438ac3a36847f805bf27",
+        "department": "Writing",
+        "job": "Characters"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 30761,
+        "known_for_department": "Camera",
+        "name": "Moray Grant",
+        "original_name": "Moray Grant",
+        "popularity": 0.1723,
+        "profile_path": null,
+        "credit_id": "52fe438ac3a36847f805bf3f",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 30700,
+        "known_for_department": "Writing",
+        "name": "Jimmy Sangster",
+        "original_name": "Jimmy Sangster",
+        "popularity": 0.7635,
+        "profile_path": "/oDLQFovGVoTMyVjjTDKOAdvJYFr.jpg",
+        "credit_id": "52fe438ac3a36847f805bf1b",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 30700,
+        "known_for_department": "Writing",
+        "name": "Jimmy Sangster",
+        "original_name": "Jimmy Sangster",
+        "popularity": 0.7635,
+        "profile_path": "/oDLQFovGVoTMyVjjTDKOAdvJYFr.jpg",
+        "credit_id": "52fe438ac3a36847f805bf2d",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 30700,
+        "known_for_department": "Writing",
+        "name": "Jimmy Sangster",
+        "original_name": "Jimmy Sangster",
+        "popularity": 0.7635,
+        "profile_path": "/oDLQFovGVoTMyVjjTDKOAdvJYFr.jpg",
+        "credit_id": "52fe438ac3a36847f805bf33",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 30759,
+        "known_for_department": "Acting",
+        "name": "Jeremy Burnham",
+        "original_name": "Jeremy Burnham",
+        "popularity": 0.3562,
+        "profile_path": null,
+        "credit_id": "52fe438ac3a36847f805bf21",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 30760,
+        "known_for_department": "Sound",
+        "name": "Malcolm Williamson",
+        "original_name": "Malcolm Williamson",
+        "popularity": 0.0995,
+        "profile_path": null,
+        "credit_id": "5fa4ae505aadc40041800d22",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1056753,
+        "known_for_department": "Production",
+        "name": "Tom Sachs",
+        "original_name": "Tom Sachs",
+        "popularity": 0.0807,
+        "profile_path": null,
+        "credit_id": "5fa4aeec34e152003f74908f",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 30574,
+        "known_for_department": "Art",
+        "name": "Scott MacGregor",
+        "original_name": "Scott MacGregor",
+        "popularity": 0.163,
+        "profile_path": null,
+        "credit_id": "5fa4ae7f8c7b0f00417510c0",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 10407,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Tom Smith",
+        "original_name": "Tom Smith",
+        "popularity": 0.1516,
+        "profile_path": null,
+        "credit_id": "5fa4aea91b7294003e8e4ed6",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1588242,
+        "known_for_department": "Sound",
+        "name": "Philip Martell",
+        "original_name": "Philip Martell",
+        "popularity": 0.0982,
+        "profile_path": null,
+        "credit_id": "5fa4af0d90fca30040875ada",
+        "department": "Sound",
+        "job": "Music Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 30763,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Pearl Tipaldi",
+        "original_name": "Pearl Tipaldi",
+        "popularity": 0.0866,
+        "profile_path": null,
+        "credit_id": "5fa4aed134e152004074ca40",
+        "department": "Costume & Make-Up",
+        "job": "Hair Supervisor"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "US",
+        "title": "Horror of Frankenstein",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "DE",
+        "title": "Der Greul von Frankenstein",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "ES",
+        "title": "El horror de Frankenstein",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "SE",
+        "title": "Frankensteins skräck",
+        "type": "swedish"
+      }
+    ]
+  }
+}

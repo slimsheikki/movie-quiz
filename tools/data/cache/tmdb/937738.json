@@ -1,0 +1,567 @@
+{
+  "adult": false,
+  "backdrop_path": "/f0Q4fn6pI9ySiv5iAOdZBWRlzAP.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "https://www.totem-films.com/films/animalia/",
+  "id": 937738,
+  "imdb_id": "tt17006040",
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "Animalia",
+  "overview": "Itto, a young woman from a modest rural background, is slowly adapting to the Moroccan privileged codes of her husband’s family. But when supernatural events put the country in a state of emergency, Itto finds herself separated from her husband and new family. Alone, pregnant and looking for her way back, she finds emancipation.",
+  "popularity": 0.2536,
+  "poster_path": "/fNp7Kd6EsrGDMIWKvj5CYKTUlna.jpg",
+  "production_companies": [
+    {
+      "id": 168402,
+      "logo_path": "/vxiyN7mGrqP9ndnyd0ti1q341VP.png",
+      "name": "Wrong Films",
+      "origin_country": "FR"
+    },
+    {
+      "id": 101932,
+      "logo_path": "/4rIkZawmATzcjB5vOLzUap7XdB1.png",
+      "name": "Srab Films",
+      "origin_country": "FR"
+    },
+    {
+      "id": 169751,
+      "logo_path": "/DcLe8ylRmh7w6wW52xPnHGH5kQ.png",
+      "name": "Jiango Films",
+      "origin_country": "MA"
+    },
+    {
+      "id": 58063,
+      "logo_path": "/aqQLFayQe8uBuvlqtUoovGqCsBk.png",
+      "name": "Dounia Productions",
+      "origin_country": "MA"
+    },
+    {
+      "id": 94,
+      "logo_path": "/huC7HqorvUThGIrENrbcHmQVUA0.png",
+      "name": "ARTE France Cinéma",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "MA",
+      "name": "Morocco"
+    }
+  ],
+  "release_date": "2023-08-09",
+  "revenue": 0,
+  "runtime": 91,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    },
+    {
+      "english_name": "Arabic",
+      "iso_639_1": "ar",
+      "name": "العربية"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The end has come.",
+  "title": "Animalia",
+  "video": false,
+  "vote_average": 6,
+  "vote_count": 34,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3423100,
+        "known_for_department": "Acting",
+        "name": "Oumaïma Barid",
+        "original_name": "Oumaïma Barid",
+        "popularity": 0.0505,
+        "profile_path": "/ifBs7AqlHnUX5SCWVCLwRVzwwqa.jpg",
+        "cast_id": 3,
+        "character": "Itto",
+        "credit_id": "6207860a1cac8c00b77c1666",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 146358,
+        "known_for_department": "Acting",
+        "name": "Mehdi Dehbi",
+        "original_name": "Mehdi Dehbi",
+        "popularity": 0.3361,
+        "profile_path": "/38VUxFJXs0W4hfxu99UKgAngTUn.jpg",
+        "cast_id": 4,
+        "character": "Amine",
+        "credit_id": "6207861401432500b6c4b01b",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2541623,
+        "known_for_department": "Acting",
+        "name": "Fouad Oughaou",
+        "original_name": "Fouad Oughaou",
+        "popularity": 0.0379,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "Fouad",
+        "credit_id": "6207861e1d78f23c5a0f5ed6",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3423102,
+        "known_for_department": "Acting",
+        "name": "Souad Khouyi",
+        "original_name": "Souad Khouyi",
+        "popularity": 0.1162,
+        "profile_path": null,
+        "cast_id": 6,
+        "character": "Hajar",
+        "credit_id": "620786291d78f23c5a0f5f0c",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4199530,
+        "known_for_department": "Acting",
+        "name": "Mohamed Lahbib",
+        "original_name": "Mohamed Lahbib",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 36,
+        "character": "The Teenager",
+        "credit_id": "64ceca28303c8500ade4003f",
+        "order": 4
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3788714,
+        "known_for_department": "Production",
+        "name": "Jaouad Chajai",
+        "original_name": "Jaouad Chajai",
+        "popularity": 0.0538,
+        "profile_path": null,
+        "credit_id": "6374e2bf7a1bd6007f0bb4ee",
+        "department": "Production",
+        "job": "Location Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2500612,
+        "known_for_department": "Sound",
+        "name": "Abdouh Oussama",
+        "original_name": "Abdouh Oussama",
+        "popularity": 0.0709,
+        "profile_path": null,
+        "credit_id": "6374e237c995ee009b6d90b2",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3495929,
+        "known_for_department": "Directing",
+        "name": "Théo Richard",
+        "original_name": "Théo Richard",
+        "popularity": 0.0698,
+        "profile_path": null,
+        "credit_id": "6374e1d2e6d3cc00d54892a8",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3788710,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Hind Borja",
+        "original_name": "Hind Borja",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "6374e29a229ae200bc262a94",
+        "department": "Costume & Make-Up",
+        "job": "Set Costumer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1520240,
+        "known_for_department": "Sound",
+        "name": "François Méreu",
+        "original_name": "François Méreu",
+        "popularity": 0.0935,
+        "profile_path": null,
+        "credit_id": "6374e22ec995ee00d55a3661",
+        "department": "Sound",
+        "job": "Dialogue Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1796052,
+        "known_for_department": "Directing",
+        "name": "Hamza Boumalki",
+        "original_name": "Hamza Boumalki",
+        "popularity": 0.0995,
+        "profile_path": null,
+        "credit_id": "6374e2b67a1bd600cd0e52b2",
+        "department": "Art",
+        "job": "Location Scout"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2243467,
+        "known_for_department": "Directing",
+        "name": "Margot Seban",
+        "original_name": "Margot Seban",
+        "popularity": 0.1526,
+        "profile_path": null,
+        "credit_id": "6374e2e057d37800abb565a8",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2493403,
+        "known_for_department": "Editing",
+        "name": "Christophe Bousquet",
+        "original_name": "Christophe Bousquet",
+        "popularity": 0.1376,
+        "profile_path": null,
+        "credit_id": "6374e2abd7dcd20098cb748a",
+        "department": "Editing",
+        "job": "Colorist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3487578,
+        "known_for_department": "Production",
+        "name": "Louise Krieger",
+        "original_name": "Louise Krieger",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "6374e1bd57d37800e9c91245",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3577512,
+        "known_for_department": "Visual Effects",
+        "name": "Esteban Perrin",
+        "original_name": "Esteban Perrin",
+        "popularity": 0.0306,
+        "profile_path": null,
+        "credit_id": "6374e27bc995ee00ad67eb59",
+        "department": "Visual Effects",
+        "job": "Visual Effects"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3788709,
+        "known_for_department": "Camera",
+        "name": "Fatima Zahra Sabili",
+        "original_name": "Fatima Zahra Sabili",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "6374e291d7dcd200cd365d33",
+        "department": "Camera",
+        "job": "Second Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3788708,
+        "known_for_department": "Directing",
+        "name": "Kevin Soirat",
+        "original_name": "Kevin Soirat",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "6374e21957d378008e9768e1",
+        "department": "Directing",
+        "job": "Second Unit First Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2146756,
+        "known_for_department": "Sound",
+        "name": "Mariette Mathieu-Goudier",
+        "original_name": "Mariette Mathieu-Goudier",
+        "popularity": 0.0778,
+        "profile_path": "/lhNYZfGnu6d5xdlqSmXKOTAl3l8.jpg",
+        "credit_id": "6374e22457d378008e9768e9",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1796052,
+        "known_for_department": "Directing",
+        "name": "Hamza Boumalki",
+        "original_name": "Hamza Boumalki",
+        "popularity": 0.0995,
+        "profile_path": null,
+        "credit_id": "6374e1c7e6d3cc008287a335",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1576519,
+        "known_for_department": "Sound",
+        "name": "Sébastien Savine",
+        "original_name": "Sébastien Savine",
+        "popularity": 0.053,
+        "profile_path": null,
+        "credit_id": "6374e241d7dcd200aafd5159",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2260551,
+        "known_for_department": "Camera",
+        "name": "Arnaud Gervet",
+        "original_name": "Arnaud Gervet",
+        "popularity": 0.069,
+        "profile_path": null,
+        "credit_id": "6374e287c995ee00d55a367d",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2404716,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Ghislaine Nejjar",
+        "original_name": "Ghislaine Nejjar",
+        "popularity": 0.0787,
+        "profile_path": null,
+        "credit_id": "6374e1b357d37800c8c675bf",
+        "department": "Costume & Make-Up",
+        "job": "Key Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2224888,
+        "known_for_department": "Directing",
+        "name": "Sofia Alaoui",
+        "original_name": "Sofia Alaoui",
+        "popularity": 0.0664,
+        "profile_path": "/mTfG31BUIPdHnqXegfxfcqqOc8s.jpg",
+        "credit_id": "620785f3ce5d8200907347b7",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2224888,
+        "known_for_department": "Directing",
+        "name": "Sofia Alaoui",
+        "original_name": "Sofia Alaoui",
+        "popularity": 0.0664,
+        "profile_path": "/mTfG31BUIPdHnqXegfxfcqqOc8s.jpg",
+        "credit_id": "620785edce5d8267d2a2de6c",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2773510,
+        "known_for_department": "Production",
+        "name": "Thomas Carillon",
+        "original_name": "Thomas Carillon",
+        "popularity": 0.0457,
+        "profile_path": null,
+        "credit_id": "62078646297338008bea51c9",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1758217,
+        "known_for_department": "Writing",
+        "name": "Héloïse Pelloquet",
+        "original_name": "Héloïse Pelloquet",
+        "popularity": 0.0946,
+        "profile_path": null,
+        "credit_id": "63d45955325a51008faa38c5",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3248781,
+        "known_for_department": "Art",
+        "name": "Hafid Amly",
+        "original_name": "Hafid Amly",
+        "popularity": 0.0661,
+        "profile_path": null,
+        "credit_id": "63d459abc072a200bb19951c",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1619058,
+        "known_for_department": "Camera",
+        "name": "Noé Bach",
+        "original_name": "Noé Bach",
+        "popularity": 0.1464,
+        "profile_path": null,
+        "credit_id": "63d459968566d20083d3fdaf",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1422252,
+        "known_for_department": "Sound",
+        "name": "Amine Bouhafa",
+        "original_name": "Amine Bouhafa",
+        "popularity": 0.223,
+        "profile_path": "/21hvlXxVdEByncaIANqlmcbwFII.jpg",
+        "credit_id": "63d45961325a5100b3afa21c",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2920351,
+        "known_for_department": "Production",
+        "name": "Margaux Lorier",
+        "original_name": "Margaux Lorier",
+        "popularity": 0.056,
+        "profile_path": null,
+        "credit_id": "63d4598ac072a20079665091",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1576519,
+        "known_for_department": "Sound",
+        "name": "Sébastien Savine",
+        "original_name": "Sébastien Savine",
+        "popularity": 0.053,
+        "profile_path": null,
+        "credit_id": "63d459b0bf09d100e62b2052",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1725368,
+        "known_for_department": "Production",
+        "name": "Toufik Ayadi",
+        "original_name": "Toufik Ayadi",
+        "popularity": 0.1871,
+        "profile_path": "/vMPcpBoFXWZFibxWz2N8op5aw3S.jpg",
+        "credit_id": "63d45985cb5c8e007c406cf7",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1725367,
+        "known_for_department": "Production",
+        "name": "Christophe Barral",
+        "original_name": "Christophe Barral",
+        "popularity": 0.2675,
+        "profile_path": "/kjLtECxkUWyYTP6QuBcCvK8DQpL.jpg",
+        "credit_id": "63d45981325a51008152753f",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3788711,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Lydie Collin",
+        "original_name": "Lydie Collin",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "63d459c2c072a2007966509f",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "MA",
+        "title": "Oum",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "FR",
+        "title": "Parmi nous",
+        "type": "Working title"
+      },
+      {
+        "iso_3166_1": "MA",
+        "title": "Parmi nous",
+        "type": "Original script title"
+      }
+    ]
+  }
+}

@@ -1,0 +1,491 @@
+{
+  "adult": false,
+  "backdrop_path": "/5f2NnHhhvQgE6mHwNCPnoVQwiVv.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 56693,
+  "imdb_id": "tt0062893",
+  "origin_country": [
+    "IT"
+  ],
+  "original_language": "it",
+  "original_title": "Dillinger è morto",
+  "overview": "A man decides to cook for himself and finds a revolver (which may have belonged to John Dillinger) hidden in his kitchen.",
+  "popularity": 0.6363,
+  "poster_path": "/4JykpUFcI2j0Vo2UCYazUmIN1Rh.jpg",
+  "production_companies": [
+    {
+      "id": 26288,
+      "logo_path": null,
+      "name": "Pegaso Cinematografica",
+      "origin_country": "IT"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    }
+  ],
+  "release_date": "1969-01-24",
+  "revenue": 0,
+  "runtime": 95,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Dillinger Is Dead",
+  "video": false,
+  "vote_average": 7.1,
+  "vote_count": 143,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3784,
+        "known_for_department": "Acting",
+        "name": "Michel Piccoli",
+        "original_name": "Michel Piccoli",
+        "popularity": 1.0629,
+        "profile_path": "/6yZaIIeMfYgQtcdNo4dubL2N5YT.jpg",
+        "cast_id": 2,
+        "character": "Glauco",
+        "credit_id": "52fe490dc3a36847f8186ef7",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 53768,
+        "known_for_department": "Acting",
+        "name": "Anita Pallenberg",
+        "original_name": "Anita Pallenberg",
+        "popularity": 0.3896,
+        "profile_path": "/aqkEA95ks1RdqzUkjJBVplXNKPv.jpg",
+        "cast_id": 3,
+        "character": "Ginette - La moglie di Glauco",
+        "credit_id": "52fe490dc3a36847f8186efb",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1043966,
+        "known_for_department": "Acting",
+        "name": "Gino Lavagetto",
+        "original_name": "Gino Lavagetto",
+        "popularity": 0.1077,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "Marinaio",
+        "credit_id": "52fe490dc3a36847f8186eff",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1094813,
+        "known_for_department": "Acting",
+        "name": "Mario Jannilli",
+        "original_name": "Mario Jannilli",
+        "popularity": 0.0579,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "Capitano",
+        "credit_id": "52fe490dc3a36847f8186f03",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 6014,
+        "known_for_department": "Acting",
+        "name": "Annie Girardot",
+        "original_name": "Annie Girardot",
+        "popularity": 0.7774,
+        "profile_path": "/b5duc4Nvz1xc4ue7XFaqcEoPvBR.jpg",
+        "cast_id": 6,
+        "character": "Sabine - la cameriera",
+        "credit_id": "52fe490dc3a36847f8186f07",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 41118,
+        "known_for_department": "Acting",
+        "name": "Carole André",
+        "original_name": "Carole André",
+        "popularity": 0.594,
+        "profile_path": "/9yCawFw4oMByBBslPdkw42bnz4q.jpg",
+        "cast_id": 8,
+        "character": "Proprietaria del battello",
+        "credit_id": "5b5cf836925141523101c99a",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1093219,
+        "known_for_department": "Acting",
+        "name": "Adriano Aprà",
+        "original_name": "Adriano Aprà",
+        "popularity": 0.1845,
+        "profile_path": "/pQHVez81yQSeZaHGSfvufjyI3kk.jpg",
+        "cast_id": 9,
+        "character": "Cinema critic",
+        "credit_id": "5b5cf842c3a368422c01abef",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2094620,
+        "known_for_department": "Acting",
+        "name": "Carla Petrillo",
+        "original_name": "Carla Petrillo",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 10,
+        "character": "",
+        "credit_id": "5b5cf84e925141523101c9ad",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1082853,
+        "known_for_department": "Acting",
+        "name": "Gerard Malanga",
+        "original_name": "Gerard Malanga",
+        "popularity": 0.3231,
+        "profile_path": null,
+        "cast_id": 26,
+        "character": "Young man in film (uncredited)",
+        "credit_id": "620e4f0f6840cc001c334712",
+        "order": 8
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 34264,
+        "known_for_department": "Directing",
+        "name": "Marco Ferreri",
+        "original_name": "Marco Ferreri",
+        "popularity": 0.4293,
+        "profile_path": "/afP3Hk6ys05jqh33q8nrmkELpZz.jpg",
+        "credit_id": "52fe490dc3a36847f8186ef3",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 34264,
+        "known_for_department": "Directing",
+        "name": "Marco Ferreri",
+        "original_name": "Marco Ferreri",
+        "popularity": 0.4293,
+        "profile_path": "/afP3Hk6ys05jqh33q8nrmkELpZz.jpg",
+        "credit_id": "644d6c086beaea04d12b5080",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3327268,
+        "known_for_department": "Directing",
+        "name": "Arturo Caravati",
+        "original_name": "Arturo Caravati",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "644d6c21abdafc04f78d3491",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1606278,
+        "known_for_department": "Production",
+        "name": "Sergio Giussani",
+        "original_name": "Sergio Giussani",
+        "popularity": 0.1455,
+        "profile_path": null,
+        "credit_id": "644d6c3aabdafc02fb8d3494",
+        "department": "Production",
+        "job": "Production Secretary"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2335549,
+        "known_for_department": "Camera",
+        "name": "Giorgio Urbinelli",
+        "original_name": "Giorgio Urbinelli",
+        "popularity": 0.0749,
+        "profile_path": null,
+        "credit_id": "644d6c4e2811a10700519135",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1683549,
+        "known_for_department": "Editing",
+        "name": "Giuliana Trippa",
+        "original_name": "Giuliana Trippa",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "644d6c7eabdafc02fb8d34a4",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1354912,
+        "known_for_department": "Art",
+        "name": "Luciana Vedovelli",
+        "original_name": "Luciana Vedovelli",
+        "popularity": 0.2209,
+        "profile_path": null,
+        "credit_id": "644d6cd9f3b49a0507afb361",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2094621,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Rossano Caporicci",
+        "original_name": "Rossano Caporicci",
+        "popularity": 0.0646,
+        "profile_path": null,
+        "credit_id": "644d6cfc6beaea05252b50e7",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1625904,
+        "known_for_department": "Sound",
+        "name": "Carlo Diotallevi",
+        "original_name": "Carlo Diotallevi",
+        "popularity": 0.0457,
+        "profile_path": null,
+        "credit_id": "644d6d12f3b49a04ddafb3a5",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1354910,
+        "known_for_department": "Production",
+        "name": "Roberto Giussani",
+        "original_name": "Roberto Giussani",
+        "popularity": 0.1295,
+        "profile_path": null,
+        "credit_id": "644d6d506beaea04fb2b4fda",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 548636,
+        "known_for_department": "Sound",
+        "name": "Teo Usuelli",
+        "original_name": "Teo Usuelli",
+        "popularity": 0.1154,
+        "profile_path": null,
+        "credit_id": "644d6d72ca83540487e26628",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1625598,
+        "known_for_department": "Sound",
+        "name": "Adriano Taloni",
+        "original_name": "Adriano Taloni",
+        "popularity": 0.1511,
+        "profile_path": null,
+        "credit_id": "644d6dc36beaea05252b5111",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1424859,
+        "known_for_department": "Crew",
+        "name": "Aldo Frollini",
+        "original_name": "Aldo Frollini",
+        "popularity": 0.0416,
+        "profile_path": null,
+        "credit_id": "644d6de04d23dd050f92b8ff",
+        "department": "Crew",
+        "job": "Special Effects"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3163635,
+        "known_for_department": "Crew",
+        "name": "Silvio Braconi",
+        "original_name": "Silvio Braconi",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "credit_id": "644d6e16d4d5090524f91bae",
+        "department": "Crew",
+        "job": "Special Effects"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1763222,
+        "known_for_department": "Visual Effects",
+        "name": "Joseph Nathanson",
+        "original_name": "Joseph Nathanson",
+        "popularity": 0.1531,
+        "profile_path": null,
+        "credit_id": "644d6e3bd4d50904faf91c88",
+        "department": "Visual Effects",
+        "job": "Visual Effects"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1052170,
+        "known_for_department": "Writing",
+        "name": "Sergio Bazzini",
+        "original_name": "Sergio Bazzini",
+        "popularity": 0.193,
+        "profile_path": null,
+        "credit_id": "5b5cf860c3a368422a01c0ba",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 34264,
+        "known_for_department": "Directing",
+        "name": "Marco Ferreri",
+        "original_name": "Marco Ferreri",
+        "popularity": 0.4293,
+        "profile_path": "/afP3Hk6ys05jqh33q8nrmkELpZz.jpg",
+        "credit_id": "5b5cf869c3a368422f02127b",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1857535,
+        "known_for_department": "Production",
+        "name": "Ever Haggiag",
+        "original_name": "Ever Haggiag",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "5b5cf876925141521a01ef0c",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1857536,
+        "known_for_department": "Production",
+        "name": "Alfred Levy",
+        "original_name": "Alfred Levy",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "5b5cf880c3a368422a01c0cf",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 63947,
+        "known_for_department": "Camera",
+        "name": "Mario Vulpiani",
+        "original_name": "Mario Vulpiani",
+        "popularity": 0.1308,
+        "profile_path": null,
+        "credit_id": "5b5cf896c3a368421e0227c1",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1748879,
+        "known_for_department": "Editing",
+        "name": "Mirella Mercio",
+        "original_name": "Mirella Mercio",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "5b5cf8a20e0a262e9f01df45",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 95220,
+        "known_for_department": "Art",
+        "name": "Nicola Tamburo",
+        "original_name": "Nicola Tamburo",
+        "popularity": 0.1549,
+        "profile_path": null,
+        "credit_id": "5b5cf8adc3a368422401e114",
+        "department": "Art",
+        "job": "Production Design"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "ES",
+        "title": "Dillinger ha muerto",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "FR",
+        "title": "Dillinger est mort",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "RU",
+        "title": "Диллинджер мёртв",
+        "type": ""
+      }
+    ]
+  }
+}

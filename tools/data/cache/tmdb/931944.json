@@ -1,0 +1,582 @@
+{
+  "adult": false,
+  "backdrop_path": "/9oD95lebaaSNQHnLTLjjfITaCg7.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "",
+  "id": 931944,
+  "imdb_id": "tt29141112",
+  "origin_country": [
+    "AT",
+    "DE"
+  ],
+  "original_language": "de",
+  "original_title": "Des Teufels Bad",
+  "overview": "In 1750 Austria, a deeply religious woman named Agnes has just married her beloved, but her mind and heart soon grow heavy as her life becomes a long list of chores and expectations. Day after day, she is increasingly trapped in a murky and lonely path leading to evil thoughts, until the possibility of committing a shocking act of violence seems like the only way out of her inner prison.",
+  "popularity": 1.6784,
+  "poster_path": "/txVfrmwFOKB5qczM0ENYSqKMnSv.jpg",
+  "production_companies": [
+    {
+      "id": 25523,
+      "logo_path": "/hVnHNJUHSxaTpQdWPzC8B5CRvns.png",
+      "name": "Ulrich Seidl Filmproduktion",
+      "origin_country": "AT"
+    },
+    {
+      "id": 23406,
+      "logo_path": "/tqIQbCdoa2yfPv05wG8mT9EM0gB.png",
+      "name": "Heimatfilm",
+      "origin_country": "DE"
+    },
+    {
+      "id": 122,
+      "logo_path": "/pbRxJ8oia1MypvLbukeamObtYr2.png",
+      "name": "Coop99 Filmproduktion",
+      "origin_country": "AT"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "AT",
+      "name": "Austria"
+    },
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "release_date": "2024-03-08",
+  "revenue": 0,
+  "runtime": 121,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Devil's Bath",
+  "video": false,
+  "vote_average": 6.599,
+  "vote_count": 167,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1325205,
+        "known_for_department": "Acting",
+        "name": "Anja Plaschg",
+        "original_name": "Anja Plaschg",
+        "popularity": 0.2436,
+        "profile_path": "/3iSnU8v3U44pP36naUYDP3BrFCW.jpg",
+        "cast_id": 5,
+        "character": "Agnes",
+        "credit_id": "63b3e202c56d2d00f3106fb0",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 40525,
+        "known_for_department": "Acting",
+        "name": "Maria Hofstätter",
+        "original_name": "Maria Hofstätter",
+        "popularity": 0.4384,
+        "profile_path": "/vTZrok9eKbeq9vIlN7zNocfHSJw.jpg",
+        "cast_id": 2,
+        "character": "Mother-in-law Gänglin",
+        "credit_id": "61f40bf6c3926600ffa705a8",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3120551,
+        "known_for_department": "Acting",
+        "name": "David Scheid",
+        "original_name": "David Scheid",
+        "popularity": 0.1059,
+        "profile_path": "/moM5LzfYwcE9opIAMmXMYJN3sME.jpg",
+        "cast_id": 6,
+        "character": "Wolf",
+        "credit_id": "643f5945b0ba7e04cf12ea54",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 40523,
+        "known_for_department": "Acting",
+        "name": "Natalija Baranova",
+        "original_name": "Natalya Baranova",
+        "popularity": 0.1982,
+        "profile_path": "/fT07CIQSoALREgox0gB6eqTOnDI.jpg",
+        "cast_id": 18,
+        "character": "Ewa Schikin",
+        "credit_id": "65d914ce3520e8014ad62353",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2897770,
+        "known_for_department": "Acting",
+        "name": "Lukas Walcher",
+        "original_name": "Lukas Walcher",
+        "popularity": 0.1523,
+        "profile_path": "/tSz6SH0qGFx9PhfLxS7O3SXt9xA.jpg",
+        "cast_id": 26,
+        "character": "Lukas",
+        "credit_id": "65de3d7cc92c5d017c4893fc",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4561483,
+        "known_for_department": "Acting",
+        "name": "Agnes Lampl",
+        "original_name": "Agnes Lampl",
+        "popularity": 0.0297,
+        "profile_path": null,
+        "cast_id": 27,
+        "character": "",
+        "credit_id": "65de3e39903c520163bd181f",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4561484,
+        "known_for_department": "Acting",
+        "name": "Camilla Schilien",
+        "original_name": "Camilla Schilien",
+        "popularity": 0.0357,
+        "profile_path": null,
+        "cast_id": 28,
+        "character": "",
+        "credit_id": "65de3e489ae613018675ca58",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2102345,
+        "known_for_department": "Directing",
+        "name": "Lorenz Tröbinger",
+        "original_name": "Lorenz Tröbinger",
+        "popularity": 0.0732,
+        "profile_path": "/pJXoKS9eKmwqbkF5xinpgRjXeB2.jpg",
+        "cast_id": 29,
+        "character": "",
+        "credit_id": "65de3f0424b3330185b7d9ce",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4561486,
+        "known_for_department": "Acting",
+        "name": "Reinhold Felsinger",
+        "original_name": "Reinhold Felsinger",
+        "popularity": 0.0558,
+        "profile_path": null,
+        "cast_id": 30,
+        "character": "",
+        "credit_id": "65de3f2caede59018798eeca",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4561487,
+        "known_for_department": "Acting",
+        "name": "Elias Schützenhofer",
+        "original_name": "Elias Schützenhofer",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 31,
+        "character": "Michael",
+        "credit_id": "65de3f42e267de017cc46024",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4561506,
+        "known_for_department": "Acting",
+        "name": "Elmar Kurz",
+        "original_name": "Elmar Kurz",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 32,
+        "character": "Deathsman",
+        "credit_id": "65de413ec92c5d017c4895de",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3024505,
+        "known_for_department": "Acting",
+        "name": "Tim Valerian Alberti",
+        "original_name": "Tim Valerian Alberti",
+        "popularity": 0.0368,
+        "profile_path": "/67kYsYIZoVUwqnsIKGDLk2I20Qf.jpg",
+        "cast_id": 17,
+        "character": "Spectator",
+        "credit_id": "65b6f47f312345017bdaa466",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4561479,
+        "known_for_department": "Acting",
+        "name": "Elisabeth Gobbers",
+        "original_name": "Elisabeth Gobbers",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "cast_id": 25,
+        "character": "Spectator",
+        "credit_id": "65de3d67aede59016498edf7",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4561555,
+        "known_for_department": "Acting",
+        "name": "Annemarie Schwarzenberger",
+        "original_name": "Annemarie Schwarzenberger",
+        "popularity": 0,
+        "profile_path": null,
+        "cast_id": 33,
+        "character": "",
+        "credit_id": "65de44e5c92c5d0163477cce",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4561557,
+        "known_for_department": "Acting",
+        "name": "Franziska Holzer",
+        "original_name": "Franziska Holzer",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 34,
+        "character": "",
+        "credit_id": "65de44f524b3330185b7dbf8",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3847202,
+        "known_for_department": "Camera",
+        "name": "Judith Hasleder",
+        "original_name": "Judith Hasleder",
+        "popularity": 0,
+        "profile_path": null,
+        "cast_id": 35,
+        "character": "",
+        "credit_id": "65de4632903c520130bb4f96",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4561571,
+        "known_for_department": "Acting",
+        "name": "Fredi Hader",
+        "original_name": "Fredi Hader",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "cast_id": 36,
+        "character": "Churl",
+        "credit_id": "65de46469ae613018675ce9d",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4561573,
+        "known_for_department": "Acting",
+        "name": "Thomas Haslinger",
+        "original_name": "Thomas Haslinger",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 37,
+        "character": "",
+        "credit_id": "65de465beea34d017db2d450",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 56702,
+        "known_for_department": "Acting",
+        "name": "Claudia Martini",
+        "original_name": "Claudia Martini",
+        "popularity": 0.2526,
+        "profile_path": "/4qMAfjykvPdk6jwi25P68jnM82m.jpg",
+        "cast_id": 38,
+        "character": "Mother",
+        "credit_id": "6671f02d2fb8bba296166ffe",
+        "order": 18
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1347619,
+        "known_for_department": "Directing",
+        "name": "Severin Fiala",
+        "original_name": "Severin Fiala",
+        "popularity": 0.2242,
+        "profile_path": "/bggZwvIGePHoS5C5dkcZrS14He1.jpg",
+        "credit_id": "61f40c09cedac400dff60525",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 40509,
+        "known_for_department": "Directing",
+        "name": "Veronika Franz",
+        "original_name": "Veronika Franz",
+        "popularity": 0.462,
+        "profile_path": "/xheCMLPimcMkT9bgMcxP7wIepnr.jpg",
+        "credit_id": "61f40c0115794a0069138704",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1325205,
+        "known_for_department": "Acting",
+        "name": "Anja Plaschg",
+        "original_name": "Anja Plaschg",
+        "popularity": 0.2436,
+        "profile_path": "/3iSnU8v3U44pP36naUYDP3BrFCW.jpg",
+        "credit_id": "65b6f3f25e14e5017bad3c14",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 7584,
+        "known_for_department": "Production",
+        "name": "Bettina Brokemper",
+        "original_name": "Bettina Brokemper",
+        "popularity": 0.2195,
+        "profile_path": "/mbbgSzzQ5KlYmlDNNrjgR3ekngX.jpg",
+        "credit_id": "65b6f0fd5e14e50147aceaed",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2040889,
+        "known_for_department": "Production",
+        "name": "Georg Aschauer",
+        "original_name": "Georg Aschauer",
+        "popularity": 0.1091,
+        "profile_path": null,
+        "credit_id": "65b6f021a284eb01630a5275",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 40506,
+        "known_for_department": "Directing",
+        "name": "Ulrich Seidl",
+        "original_name": "Ulrich Seidl",
+        "popularity": 0.3128,
+        "profile_path": "/jvZeADVhGC5PytZlRmWqfEtls8f.jpg",
+        "credit_id": "65b6f0d6312345017bda8c4e",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 564797,
+        "known_for_department": "Editing",
+        "name": "Michael Palm",
+        "original_name": "Michael Palm",
+        "popularity": 0.1854,
+        "profile_path": "/C4xAof0LLUfbsF0Q5cM86F4gUD.jpg",
+        "credit_id": "65b6f10ba0b69000e3cdb09b",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 28620,
+        "known_for_department": "Camera",
+        "name": "Martin Gschlacht",
+        "original_name": "Martin Gschlacht",
+        "popularity": 0.2053,
+        "profile_path": null,
+        "credit_id": "65b6f113d55c3d017cf9c43d",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1723250,
+        "known_for_department": "Directing",
+        "name": "Henri Steinmetz",
+        "original_name": "Henri Steinmetz",
+        "popularity": 0.0412,
+        "profile_path": null,
+        "credit_id": "65d915b7223e2001864e2eb7",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2801892,
+        "known_for_department": "Crew",
+        "name": "Cornelia Dworak",
+        "original_name": "Cornelia Dworak",
+        "popularity": 0.1444,
+        "profile_path": null,
+        "credit_id": "65d915cd42f19f01861a0938",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 36405,
+        "known_for_department": "Sound",
+        "name": "Matz Müller",
+        "original_name": "Matz Müller",
+        "popularity": 0.1764,
+        "profile_path": null,
+        "credit_id": "65d91646a3e4ba018453766e",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 55305,
+        "known_for_department": "Sound",
+        "name": "Andreas Hildebrandt",
+        "original_name": "Andreas Hildebrandt",
+        "popularity": 0.1769,
+        "profile_path": null,
+        "credit_id": "65d9161cfc5f060185caa8fb",
+        "department": "Sound",
+        "job": "Dialogue Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3458544,
+        "known_for_department": "Acting",
+        "name": "Alessio Maximilian Schroder",
+        "original_name": "Alessio Maximilian Schroder",
+        "popularity": 0.0362,
+        "profile_path": null,
+        "credit_id": "65d915e5a3e4ba01635351f7",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 40509,
+        "known_for_department": "Directing",
+        "name": "Veronika Franz",
+        "original_name": "Veronika Franz",
+        "popularity": 0.462,
+        "profile_path": "/xheCMLPimcMkT9bgMcxP7wIepnr.jpg",
+        "credit_id": "643f59a4eb093205191e0381",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1347619,
+        "known_for_department": "Directing",
+        "name": "Severin Fiala",
+        "original_name": "Severin Fiala",
+        "popularity": 0.2242,
+        "profile_path": "/bggZwvIGePHoS5C5dkcZrS14He1.jpg",
+        "credit_id": "643f59b6956658053201bd3f",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1169610,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Tanja Hausner",
+        "original_name": "Tanja Hausner",
+        "popularity": 0.1091,
+        "profile_path": "/3YdkZ287dWmwPRdqWXpGoQq5BrG.jpg",
+        "credit_id": "697a3cb3b433f286d112f618",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "RU",
+        "title": "Одержимая",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "UA",
+        "title": "Лазня Диявола",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "MX",
+        "title": "El baño del diablo",
+        "type": ""
+      }
+    ]
+  }
+}

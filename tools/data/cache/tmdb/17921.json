@@ -1,0 +1,735 @@
+{
+  "adult": false,
+  "backdrop_path": "/zDSOkE121D7Ig08cKZH6fojCw3S.jpg",
+  "belongs_to_collection": null,
+  "budget": 200000,
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ],
+  "homepage": "",
+  "id": 17921,
+  "imdb_id": "tt0059792",
+  "origin_country": [
+    "IT",
+    "ES"
+  ],
+  "original_language": "it",
+  "original_title": "Terrore nello spazio",
+  "overview": "After landing on a mysterious planet, a team of astronauts begin to turn on each other, swayed by the uncertain influence of the planet and its strange inhabitants.",
+  "popularity": 0.8705,
+  "poster_path": "/bPpfT4r9HtHcri0eIknqpewoewM.jpg",
+  "production_companies": [
+    {
+      "id": 1429,
+      "logo_path": "/n1GvY0KLgk3gcEPO07L7nXncB3i.png",
+      "name": "Italian International Film",
+      "origin_country": "IT"
+    },
+    {
+      "id": 10544,
+      "logo_path": null,
+      "name": "Castilla Cooperativa Cinematográfica",
+      "origin_country": "IT"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    },
+    {
+      "iso_3166_1": "ES",
+      "name": "Spain"
+    }
+  ],
+  "release_date": "1965-09-15",
+  "revenue": 1035156,
+  "runtime": 88,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "status": "Released",
+  "tagline": "This was the day the universe trembled before the demon forces of the killer planet!",
+  "title": "Planet of the Vampires",
+  "video": false,
+  "vote_average": 6.4,
+  "vote_count": 257,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 40433,
+        "known_for_department": "Acting",
+        "name": "Barry Sullivan",
+        "original_name": "Barry Sullivan",
+        "popularity": 1.3946,
+        "profile_path": "/71pEfOnI9YbMyBSni6grc6yJLCZ.jpg",
+        "cast_id": 2,
+        "character": "Captain Mark Markary",
+        "credit_id": "52fe47539251416c75095531",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 39157,
+        "known_for_department": "Acting",
+        "name": "Norma Bengell",
+        "original_name": "Norma Bengell",
+        "popularity": 0.3604,
+        "profile_path": "/bZfE2pQ5y2bxHVR8rnV6KOSNGpM.jpg",
+        "cast_id": 3,
+        "character": "Sanya",
+        "credit_id": "52fe47539251416c75095535",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 98487,
+        "known_for_department": "Acting",
+        "name": "Ángel Aranda",
+        "original_name": "Ángel Aranda",
+        "popularity": 0.2533,
+        "profile_path": "/6G0XdMMgw2e2dQVG0fWKDhhPPvk.jpg",
+        "cast_id": 4,
+        "character": "Wess",
+        "credit_id": "52fe47539251416c75095539",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 98488,
+        "known_for_department": "Acting",
+        "name": "Evi Marandi",
+        "original_name": "Evi Marandi",
+        "popularity": 0.1885,
+        "profile_path": "/qMiy3K080irrjlA4djCAR59JMzh.jpg",
+        "cast_id": 5,
+        "character": "Tiona",
+        "credit_id": "52fe47539251416c7509553d",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 98489,
+        "known_for_department": "Acting",
+        "name": "Stelio Candelli",
+        "original_name": "Stelio Candelli",
+        "popularity": 0.351,
+        "profile_path": "/mFcxr61GIXIvS1U20x80yMIak90.jpg",
+        "cast_id": 6,
+        "character": "Brad / Mud",
+        "credit_id": "52fe47539251416c75095541",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 98490,
+        "known_for_department": "Acting",
+        "name": "Franco Andrei",
+        "original_name": "Franco Andrei",
+        "popularity": 0.111,
+        "profile_path": "/xWjQwLV1c037UJhvSf1PyP3St2t.jpg",
+        "cast_id": 7,
+        "character": "Bert / Garr",
+        "credit_id": "52fe47539251416c75095545",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 245563,
+        "known_for_department": "Acting",
+        "name": "Fernando Villena",
+        "original_name": "Fernando Villena",
+        "popularity": 0.1234,
+        "profile_path": null,
+        "cast_id": 36,
+        "character": "Dr. Karan",
+        "credit_id": "5744550ec3a368695b0024b5",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 98491,
+        "known_for_department": "Acting",
+        "name": "Mario Morales",
+        "original_name": "Mario Morales",
+        "popularity": 0.3063,
+        "profile_path": "/gQ7HyaBqj0ZYxvxDZy3fuRWV6uR.jpg",
+        "cast_id": 9,
+        "character": "Eldon",
+        "credit_id": "52fe47539251416c7509554d",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 44961,
+        "known_for_department": "Acting",
+        "name": "Ivan Rassimov",
+        "original_name": "Ivan Rassimov",
+        "popularity": 0.3484,
+        "profile_path": "/nawfX5ZPQcjrTecEWZLMiPAQg8Y.jpg",
+        "cast_id": 10,
+        "character": "Carter / Dervy",
+        "credit_id": "52fe47539251416c75095551",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 98492,
+        "known_for_department": "Acting",
+        "name": "Federico Boido",
+        "original_name": "Federico Boido",
+        "popularity": 0.4149,
+        "profile_path": "/lGPoEZtCqn2DdlzKT6xkbPEb8FX.jpg",
+        "cast_id": 11,
+        "character": "Keir",
+        "credit_id": "52fe47539251416c75095555",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 98493,
+        "known_for_department": "Acting",
+        "name": "Alberto Cevenini",
+        "original_name": "Alberto Cevenini",
+        "popularity": 0.1414,
+        "profile_path": null,
+        "cast_id": 12,
+        "character": "Toby Markary / Wan",
+        "credit_id": "52fe47539251416c75095559",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 98494,
+        "known_for_department": "Acting",
+        "name": "Massimo Righi",
+        "original_name": "Massimo Righi",
+        "popularity": 0.2015,
+        "profile_path": "/cxoR8eYBh9p421tpprrm4DQov1n.jpg",
+        "cast_id": 13,
+        "character": "Captain Sallas / Nordeg",
+        "credit_id": "52fe47539251416c7509555d",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1185611,
+        "known_for_department": "Acting",
+        "name": "Vito Fasano",
+        "original_name": "Vito Fasano",
+        "popularity": 0.1074,
+        "profile_path": null,
+        "cast_id": 46,
+        "character": "(uncredited)",
+        "credit_id": "6435e1d21f748b009715f971",
+        "order": 12
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 25826,
+        "known_for_department": "Directing",
+        "name": "Mario Bava",
+        "original_name": "Mario Bava",
+        "popularity": 0.8138,
+        "profile_path": "/vDx5usGSp8Fygmvo4jnepQ4EQRN.jpg",
+        "credit_id": "52fe47539251416c7509552d",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 91794,
+        "known_for_department": "Art",
+        "name": "Giorgio Giovannini",
+        "original_name": "Giorgio Giovannini",
+        "popularity": 0.1635,
+        "profile_path": null,
+        "credit_id": "650c3e74f9253200c949b68e",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1581000,
+        "known_for_department": "Directing",
+        "name": "Serena Canevari",
+        "original_name": "Serena Canevari",
+        "popularity": 0.2859,
+        "profile_path": null,
+        "credit_id": "650c3ee551a64e00c7d52484",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2559271,
+        "known_for_department": "Writing",
+        "name": "Renato Pestriniero",
+        "original_name": "Renato Pestriniero",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "650c3e23b5bc21012cc9e139",
+        "department": "Writing",
+        "job": "Original Story"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2483815,
+        "known_for_department": "Camera",
+        "name": "Giorgio Aureli",
+        "original_name": "Giorgio Aureli",
+        "popularity": 0.0379,
+        "profile_path": null,
+        "credit_id": "650c3f513d745400e123a89e",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 27186,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Giancarlo Del Brocco",
+        "original_name": "Giancarlo Del Brocco",
+        "popularity": 0.2808,
+        "profile_path": null,
+        "credit_id": "650c3f9f44ea5400e3222ec6",
+        "department": "Costume & Make-Up",
+        "job": "Assistant Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1763676,
+        "known_for_department": "Directing",
+        "name": "Lucio Romeo",
+        "original_name": "Lucio Romeo",
+        "popularity": 0.0297,
+        "profile_path": null,
+        "credit_id": "650c3f2e3d745400ac9c701f",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1531333,
+        "known_for_department": "Sound",
+        "name": "Mario Ronchetti",
+        "original_name": "Mario Ronchetti",
+        "popularity": 0.0823,
+        "profile_path": null,
+        "credit_id": "650c3f82f92532012cc90d1b",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1560759,
+        "known_for_department": "Production",
+        "name": "Mario Silvestri",
+        "original_name": "Mario Silvestri",
+        "popularity": 0.0956,
+        "profile_path": null,
+        "credit_id": "650c3e934da3d400eae2597a",
+        "department": "Production",
+        "job": "Line Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 44955,
+        "known_for_department": "Directing",
+        "name": "Lamberto Bava",
+        "original_name": "Lamberto Bava",
+        "popularity": 0.3857,
+        "profile_path": "/alCOCvgUarpfuFaf750r0r7adp7.jpg",
+        "credit_id": "650c3f1d44ea54011d01e27f",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1763677,
+        "known_for_department": "Directing",
+        "name": "Rosalba Scavia",
+        "original_name": "Rosalba Scavia",
+        "popularity": 0.0748,
+        "profile_path": null,
+        "credit_id": "650c3f362c6b7b00fe46054c",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1542464,
+        "known_for_department": "Camera",
+        "name": "Saverio Diamante",
+        "original_name": "Saverio Diamante",
+        "popularity": 0.0784,
+        "profile_path": null,
+        "credit_id": "650c3f414da3d4012cc0aaaf",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1990381,
+        "known_for_department": "Sound",
+        "name": "Paolo Ketoff",
+        "original_name": "Paolo Ketoff",
+        "popularity": 0.0874,
+        "profile_path": null,
+        "credit_id": "650c3fce4da3d4014d55e03c",
+        "department": "Sound",
+        "job": "Sound Effects"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 234651,
+        "known_for_department": "Acting",
+        "name": "Manuel San Román",
+        "original_name": "Manuel San Román",
+        "popularity": 0.0646,
+        "profile_path": null,
+        "credit_id": "650c3f072c6b7b00c4fdec03",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1826993,
+        "known_for_department": "Sound",
+        "name": "Eugenio Fiori",
+        "original_name": "Eugenio Fiori",
+        "popularity": 0.1223,
+        "profile_path": null,
+        "credit_id": "650c3f8c2c6b7b00ac6f126d",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1560758,
+        "known_for_department": "Production",
+        "name": "Giancarlo Sambucini",
+        "original_name": "Giancarlo Sambucini",
+        "popularity": 0.0739,
+        "profile_path": null,
+        "credit_id": "650c3ed0f92532012cc90cd3",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1684959,
+        "known_for_department": "Art",
+        "name": "Emilio Zago",
+        "original_name": "Emilio Zago",
+        "popularity": 0.145,
+        "profile_path": null,
+        "credit_id": "650c3f773d745400e123a8ae",
+        "department": "Art",
+        "job": "Assistant Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 29887,
+        "known_for_department": "Editing",
+        "name": "Romana Fortini",
+        "original_name": "Romana Fortini",
+        "popularity": 0.0982,
+        "profile_path": null,
+        "credit_id": "5691627392514179a000084d",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 37718,
+        "known_for_department": "Sound",
+        "name": "Gino Marinuzzi Jr.",
+        "original_name": "Gino Marinuzzi Jr.",
+        "popularity": 0.0617,
+        "profile_path": null,
+        "credit_id": "5691625592514179b3000691",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1354467,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Gabriele Mayer",
+        "original_name": "Gabriele Mayer",
+        "popularity": 0.0555,
+        "profile_path": null,
+        "credit_id": "5691628d92514179ac00061f",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 10013,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Gabriella Borzelli",
+        "original_name": "Gabriella Borzelli",
+        "popularity": 0.063,
+        "profile_path": null,
+        "credit_id": "56916298c3a36802e400062d",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 50629,
+        "known_for_department": "Production",
+        "name": "Fulvio Lucisano",
+        "original_name": "Fulvio Lucisano",
+        "popularity": 0.2343,
+        "profile_path": "/cgFr21Vk856gCYUvJE7dvPzHdtw.jpg",
+        "credit_id": "5691624392514179a6000659",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 29886,
+        "known_for_department": "Camera",
+        "name": "Antonio Rinaldi",
+        "original_name": "Antonio Rinaldi",
+        "popularity": 0.0932,
+        "profile_path": null,
+        "credit_id": "5691625dc3a36802ec000643",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 100686,
+        "known_for_department": "Editing",
+        "name": "Antonio Gimeno",
+        "original_name": "Antonio Gimeno",
+        "popularity": 0.1554,
+        "profile_path": null,
+        "credit_id": "5691627cc3a36802e4000624",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1124868,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Amato Garbini",
+        "original_name": "Amato Garbini",
+        "popularity": 0.2561,
+        "profile_path": null,
+        "credit_id": "569162a192514179a0000856",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 20504,
+        "known_for_department": "Crew",
+        "name": "Carlo Rambaldi",
+        "original_name": "Carlo Rambaldi",
+        "popularity": 0.2889,
+        "profile_path": "/d7OSTpa33e2e7dlIsH9dm1xVDTQ.jpg",
+        "credit_id": "5d64ff5abcf8c9454c759090",
+        "department": "Crew",
+        "job": "Special Effects"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 98496,
+        "known_for_department": "Writing",
+        "name": "Callisto Cosulich",
+        "original_name": "Callisto Cosulich",
+        "popularity": 0.0495,
+        "profile_path": null,
+        "credit_id": "5e63aced55c92600195d028b",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 51715,
+        "known_for_department": "Writing",
+        "name": "Ib Melchior",
+        "original_name": "Ib Melchior",
+        "popularity": 0.3151,
+        "profile_path": "/s6i00MckFJXp0tCnCMcuuVtObX8.jpg",
+        "credit_id": "5e63accf3e01ea0015e9a60d",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 25826,
+        "known_for_department": "Directing",
+        "name": "Mario Bava",
+        "original_name": "Mario Bava",
+        "popularity": 0.8138,
+        "profile_path": "/vDx5usGSp8Fygmvo4jnepQ4EQRN.jpg",
+        "credit_id": "5e63acfb55c92600155d2b04",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 32308,
+        "known_for_department": "Writing",
+        "name": "Alberto Bevilacqua",
+        "original_name": "Alberto Bevilacqua",
+        "popularity": 0.2551,
+        "profile_path": "/tbjZyUZuU3aqt50ze9QJvKROj0L.jpg",
+        "credit_id": "5e63acdf3e01ea0013ea385d",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 98499,
+        "known_for_department": "Writing",
+        "name": "Rafael J. Salvia",
+        "original_name": "Rafael J. Salvia",
+        "popularity": 0.1646,
+        "profile_path": "/nTy4J3rqhEBn6B1XRTEduGkOLaS.jpg",
+        "credit_id": "5e63ad19357c00001135e0e9",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 98498,
+        "known_for_department": "Directing",
+        "name": "Antonio Román",
+        "original_name": "Antonio Román",
+        "popularity": 0.076,
+        "profile_path": "/yqabPCWpcrT6lk1iqqGWGmiPpJr.jpg",
+        "credit_id": "5e63ad0a3e01ea0013ea3888",
+        "department": "Writing",
+        "job": "Screenplay"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "US",
+        "title": "Demon Planet",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "US",
+        "title": "Planet of Blood",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "US",
+        "title": "Space Mutants",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "US",
+        "title": "Terror in Space",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "US",
+        "title": "The Haunted Planet",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "US",
+        "title": "The Haunted World",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "US",
+        "title": "The Outlawed Planet",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "US",
+        "title": "The Planet of Terror",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "US",
+        "title": "The Planet of the Damned",
+        "type": ""
+      }
+    ]
+  }
+}

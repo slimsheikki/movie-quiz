@@ -1,0 +1,859 @@
+{
+  "adult": false,
+  "backdrop_path": "/qqHQsStV6exghCM7zbObuYBiYxw.jpg",
+  "belongs_to_collection": null,
+  "budget": 397751,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 389,
+  "imdb_id": "tt0050083",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "12 Angry Men",
+  "overview": "The defense and the prosecution have rested and the jury is filing into the jury room to decide if a young Spanish-American is guilty or innocent of murdering his father. What begins as an open and shut case soon becomes a mini-drama of each of the jurors' prejudices and preconceptions about the trial, the accused, and each other.",
+  "popularity": 19.6979,
+  "poster_path": "/zhG3vKWyDRaZYoaww1UVAi29T9h.jpg",
+  "production_companies": [
+    {
+      "id": 10212,
+      "logo_path": null,
+      "name": "Orion-Nova Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1957-04-10",
+  "revenue": 4360000,
+  "runtime": 97,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "It explodes like 12 sticks of dynamite!",
+  "title": "12 Angry Men",
+  "video": false,
+  "vote_average": 8.562,
+  "vote_count": 10048,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1936,
+        "known_for_department": "Acting",
+        "name": "Martin Balsam",
+        "original_name": "Martin Balsam",
+        "popularity": 1.7341,
+        "profile_path": "/2q7xs6j6vGll3pc9Mm6TUEvvwBf.jpg",
+        "cast_id": 57,
+        "character": "Juror 1",
+        "credit_id": "5e93b065cedac40016ebbd44",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5247,
+        "known_for_department": "Acting",
+        "name": "John Fiedler",
+        "original_name": "John Fiedler",
+        "popularity": 1.4966,
+        "profile_path": "/27sXisLWQJQ49PD40j89miNhL73.jpg",
+        "cast_id": 58,
+        "character": "Juror 2",
+        "credit_id": "5e93b09a8e87020013cd34eb",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5248,
+        "known_for_department": "Acting",
+        "name": "Lee J. Cobb",
+        "original_name": "Lee J. Cobb",
+        "popularity": 1.416,
+        "profile_path": "/yxMxBvM0PZwu7YXQamG0kFwt9DZ.jpg",
+        "cast_id": 59,
+        "character": "Juror 3",
+        "credit_id": "5e93b0a584448e0014910883",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5249,
+        "known_for_department": "Acting",
+        "name": "E.G. Marshall",
+        "original_name": "E.G. Marshall",
+        "popularity": 1.2536,
+        "profile_path": "/psimeVoRk64DV7UNm4cLQylRFy2.jpg",
+        "cast_id": 60,
+        "character": "Juror 4",
+        "credit_id": "5e93b0ae7a97ab00120dd261",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5250,
+        "known_for_department": "Acting",
+        "name": "Jack Klugman",
+        "original_name": "Jack Klugman",
+        "popularity": 1.3678,
+        "profile_path": "/oJxveOxlunD8C9OczqKeryU0k6D.jpg",
+        "cast_id": 61,
+        "character": "Juror 5",
+        "credit_id": "5e93b0bd84448e001291147f",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2651,
+        "known_for_department": "Acting",
+        "name": "Edward Binns",
+        "original_name": "Edward Binns",
+        "popularity": 1.1787,
+        "profile_path": "/s3fk0d0fwuj6bDVP9AcPUXFsGmK.jpg",
+        "cast_id": 62,
+        "character": "Juror 6",
+        "credit_id": "5e93b0c8ccb15f00136fd2a4",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5251,
+        "known_for_department": "Acting",
+        "name": "Jack Warden",
+        "original_name": "Jack Warden",
+        "popularity": 1.6987,
+        "profile_path": "/hSShXiYMfRpMByaB5euZ59qCKN.jpg",
+        "cast_id": 63,
+        "character": "Juror 7",
+        "credit_id": "5e93b0d3875d1a001444ade1",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4958,
+        "known_for_department": "Acting",
+        "name": "Henry Fonda",
+        "original_name": "Henry Fonda",
+        "popularity": 1.7796,
+        "profile_path": "/6wXWsqSXF3wCsGcwVqiszy6RX9X.jpg",
+        "cast_id": 64,
+        "character": "Juror 8",
+        "credit_id": "5e93b0e254508d001a177bde",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5252,
+        "known_for_department": "Acting",
+        "name": "Joseph Sweeney",
+        "original_name": "Joseph Sweeney",
+        "popularity": 0.655,
+        "profile_path": "/yUDYdj0yk9dvDAR4dKHvK9zRpDv.jpg",
+        "cast_id": 65,
+        "character": "Juror 9",
+        "credit_id": "5e93b0ec54508d0015176f37",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 39816,
+        "known_for_department": "Acting",
+        "name": "Ed Begley",
+        "original_name": "Ed Begley",
+        "popularity": 1.0491,
+        "profile_path": "/AuPwjGgPphtfQOShb8pTtp5W7Ft.jpg",
+        "cast_id": 66,
+        "character": "Juror 10",
+        "credit_id": "5e93b0f7ca4f6700148145ab",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5254,
+        "known_for_department": "Acting",
+        "name": "George Voskovec",
+        "original_name": "Jiří Voskovec",
+        "popularity": 0.8536,
+        "profile_path": "/nxW7pLtG8xLo4J3QHXzLxt8fd8P.jpg",
+        "cast_id": 67,
+        "character": "Juror 11",
+        "credit_id": "5e93b10684448e0012911546",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5255,
+        "known_for_department": "Acting",
+        "name": "Robert Webber",
+        "original_name": "Robert Webber",
+        "popularity": 1.0968,
+        "profile_path": "/1RlhCcfCkaSz0cWRSowsj5FiKXg.jpg",
+        "cast_id": 68,
+        "character": "Juror 12",
+        "credit_id": "5e93b11184448e001a90eb37",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3143,
+        "known_for_department": "Acting",
+        "name": "Rudy Bond",
+        "original_name": "Rudy Bond",
+        "popularity": 0.5456,
+        "profile_path": "/bd3YONpGsvQrpz6MkhsqsiPSaOD.jpg",
+        "cast_id": 70,
+        "character": "Judge (uncredited)",
+        "credit_id": "5e93b13bccb15f00136fd3b1",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2498394,
+        "known_for_department": "Acting",
+        "name": "Tom Gorman",
+        "original_name": "Tom Gorman",
+        "popularity": 0.2973,
+        "profile_path": null,
+        "cast_id": 71,
+        "character": "Stenographer (uncredited)",
+        "credit_id": "5e93b147cedac40014ebb229",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1437464,
+        "known_for_department": "Acting",
+        "name": "James Kelly",
+        "original_name": "James Kelly",
+        "popularity": 0.0407,
+        "profile_path": null,
+        "cast_id": 72,
+        "character": "Guard (uncredited)",
+        "credit_id": "5e93b16584448e001291160b",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5257,
+        "known_for_department": "Acting",
+        "name": "Billy Nelson",
+        "original_name": "Billy Nelson",
+        "popularity": 0.4349,
+        "profile_path": null,
+        "cast_id": 73,
+        "character": "Court Clerk (uncredited)",
+        "credit_id": "5e93b181875d1a001944ed80",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 153394,
+        "known_for_department": "Acting",
+        "name": "Walter Stocker",
+        "original_name": "Walter Stocker",
+        "popularity": 0.4197,
+        "profile_path": null,
+        "cast_id": 69,
+        "character": "Man Waiting for Elevator (uncredited)",
+        "credit_id": "5e93b122d55e4d001a19f805",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5892050,
+        "known_for_department": "Acting",
+        "name": "John Savoca",
+        "original_name": "John Savoca",
+        "popularity": 0.0414,
+        "profile_path": null,
+        "cast_id": 78,
+        "character": "Defendant (uncredited)",
+        "credit_id": "6948dd2924937a5336155682",
+        "order": 17
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4958,
+        "known_for_department": "Acting",
+        "name": "Henry Fonda",
+        "original_name": "Henry Fonda",
+        "popularity": 1.7796,
+        "profile_path": "/6wXWsqSXF3wCsGcwVqiszy6RX9X.jpg",
+        "credit_id": "52fe423dc3a36847f800ec55",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5263,
+        "known_for_department": "Art",
+        "name": "Robert Markel",
+        "original_name": "Robert Markel",
+        "popularity": 0.0362,
+        "profile_path": null,
+        "credit_id": "52fe423dc3a36847f800ec79",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5260,
+        "known_for_department": "Sound",
+        "name": "Kenyon Hopkins",
+        "original_name": "Kenyon Hopkins",
+        "popularity": 0.1235,
+        "profile_path": null,
+        "credit_id": "52fe423dc3a36847f800ec67",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5246,
+        "known_for_department": "Writing",
+        "name": "Reginald Rose",
+        "original_name": "Reginald Rose",
+        "popularity": 1.1362,
+        "profile_path": "/qscQc09Nh6fTfenlwl2pNvnD2MQ.jpg",
+        "credit_id": "52fe423dc3a36847f800ec4f",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5262,
+        "known_for_department": "Editing",
+        "name": "Carl Lerner",
+        "original_name": "Carl Lerner",
+        "popularity": 0.1882,
+        "profile_path": null,
+        "credit_id": "52fe423dc3a36847f800ec73",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5246,
+        "known_for_department": "Writing",
+        "name": "Reginald Rose",
+        "original_name": "Reginald Rose",
+        "popularity": 1.1362,
+        "profile_path": "/qscQc09Nh6fTfenlwl2pNvnD2MQ.jpg",
+        "credit_id": "52fe423dc3a36847f800ec61",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5264,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Herman Buchman",
+        "original_name": "Herman Buchman",
+        "popularity": 0.2337,
+        "profile_path": null,
+        "credit_id": "52fe423dc3a36847f800ec7f",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5261,
+        "known_for_department": "Camera",
+        "name": "Boris Kaufman",
+        "original_name": "Boris Kaufman",
+        "popularity": 0.3045,
+        "profile_path": null,
+        "credit_id": "52fe423dc3a36847f800ec6d",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5246,
+        "known_for_department": "Writing",
+        "name": "Reginald Rose",
+        "original_name": "Reginald Rose",
+        "popularity": 1.1362,
+        "profile_path": "/qscQc09Nh6fTfenlwl2pNvnD2MQ.jpg",
+        "credit_id": "5439c1c90e0a2649a8000ff1",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5259,
+        "known_for_department": "Production",
+        "name": "George Justin",
+        "original_name": "George Justin",
+        "popularity": 0.1546,
+        "profile_path": null,
+        "credit_id": "54fe6df8c3a368150c000859",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 30994,
+        "known_for_department": "Camera",
+        "name": "Saul Midwall",
+        "original_name": "Saul Midwall",
+        "popularity": 0.0768,
+        "profile_path": null,
+        "credit_id": "57463b5bc3a36808af000267",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1043428,
+        "known_for_department": "Sound",
+        "name": "Al Gramaglia",
+        "original_name": "Al Gramaglia",
+        "popularity": 0.1314,
+        "profile_path": null,
+        "credit_id": "6655b88ad092532206e4bc5a",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5265,
+        "known_for_department": "Sound",
+        "name": "James A. Gleason",
+        "original_name": "James A. Gleason",
+        "popularity": 0.0835,
+        "profile_path": null,
+        "credit_id": "5e93b014cedac40016ebbcb3",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1437471,
+        "known_for_department": "Directing",
+        "name": "Don Kranze",
+        "original_name": "Don Kranze",
+        "popularity": 0.2408,
+        "profile_path": null,
+        "credit_id": "5e8e3c9ccadb6b001b7f3a09",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1076666,
+        "known_for_department": "Directing",
+        "name": "Faith Hubley",
+        "original_name": "Faith Hubley",
+        "popularity": 0.1643,
+        "profile_path": "/kexhBysoVPdJFI7cWBs7XD8xbZH.jpg",
+        "credit_id": "5e8e3c78a14e1000124e5482",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 39996,
+        "known_for_department": "Directing",
+        "name": "Sidney Lumet",
+        "original_name": "Sidney Lumet",
+        "popularity": 1.9526,
+        "profile_path": "/hjj3V2DkPJ46zo5uz9bsZQzAk6R.jpg",
+        "credit_id": "5e8e3c2f62e86f00159ba2f3",
+        "department": "Directing",
+        "job": "Director"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "US",
+        "title": "Twelve Angry Men",
+        "type": "alternative spelling"
+      },
+      {
+        "iso_3166_1": "BR",
+        "title": "Doze Homens e uma Sentença",
+        "type": "alternative spelling"
+      },
+      {
+        "iso_3166_1": "ES",
+        "title": "12 hombres sin piedad",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "FR",
+        "title": "Douze Hommes en colère",
+        "type": "alternative spelling"
+      },
+      {
+        "iso_3166_1": "AR",
+        "title": "12 hombres en pugna",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "NO",
+        "title": "12 edsvorne menn",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "IR",
+        "title": "12 مرد خشمگین",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "NL",
+        "title": "De Twaalf Gezworenen",
+        "type": "alternative spelling"
+      },
+      {
+        "iso_3166_1": "SE",
+        "title": "12 edsvurna män",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "DE",
+        "title": "12 Angry Men - Die 12 Geschworenen",
+        "type": "Blu-ray reissue title"
+      },
+      {
+        "iso_3166_1": "DE",
+        "title": "Die 12 Geschworenen",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "FR",
+        "title": "12 Hommes en colère",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "GR",
+        "title": "Οι δώδεκα ένορκοι",
+        "type": "alternative spelling"
+      },
+      {
+        "iso_3166_1": "KR",
+        "title": "12인의 성난 사람들",
+        "type": "alternative title"
+      },
+      {
+        "iso_3166_1": "KR",
+        "title": "12명의 성난 사람들",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "PL",
+        "title": "Dwunastu gniewnych ludzi",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "RS",
+        "title": "Дванаест гневних људи",
+        "type": "alternative title"
+      },
+      {
+        "iso_3166_1": "JP",
+        "title": "十二人の怒れる男：1957",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "AZ",
+        "title": "12 Əsəbi Kişi",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "TW",
+        "title": "十二怒漢",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "AR",
+        "title": "Doce hombres en pugna",
+        "type": "alternative spelling"
+      },
+      {
+        "iso_3166_1": "AT",
+        "title": "Die 12 Geschworenen",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "BE",
+        "title": "De twaalf gezworenen",
+        "type": "Flemish"
+      },
+      {
+        "iso_3166_1": "BR",
+        "title": "12 Homens e uma Sentença",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "BG",
+        "title": "12 разгневени мъже",
+        "type": "Bulgarian"
+      },
+      {
+        "iso_3166_1": "CA",
+        "title": "Douze hommes en colère",
+        "type": "French"
+      },
+      {
+        "iso_3166_1": "CN",
+        "title": "十二怒汉",
+        "type": "Mandarin"
+      },
+      {
+        "iso_3166_1": "HR",
+        "title": "12 gnjevnih ljudi",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "HR",
+        "title": "12 ljutih muškaraca",
+        "type": "alternative title"
+      },
+      {
+        "iso_3166_1": "CZ",
+        "title": "Dvanáct rozhněvaných mužů",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "XC",
+        "title": "Dvanáct rozhněvaných mužů",
+        "type": "Czech"
+      },
+      {
+        "iso_3166_1": "XC",
+        "title": "Dvanásť rozhnevaných mužov",
+        "type": "Slovak"
+      },
+      {
+        "iso_3166_1": "DK",
+        "title": "Tolv vrede mænd",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "EC",
+        "title": "Doce hombres en pugna",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "EE",
+        "title": "12 vihast meest",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "FI",
+        "title": "Valamiesten ratkaisu",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "FI",
+        "title": "Juryns beslut",
+        "type": "Swedish"
+      },
+      {
+        "iso_3166_1": "GR",
+        "title": "Οι 12 ένορκοι",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "GR",
+        "title": "Oi 12 enorkoi",
+        "type": "transliteration"
+      },
+      {
+        "iso_3166_1": "HU",
+        "title": "Tizenkét dühös ember",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "IS",
+        "title": "12 Reiðir Menn",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "IR",
+        "title": "12 Mard-e khashmgin",
+        "type": "Transliterated Persian"
+      },
+      {
+        "iso_3166_1": "IT",
+        "title": "La parola ai giurati",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "JP",
+        "title": "Juuni nin no okoreru otoko",
+        "type": "DVD title"
+      },
+      {
+        "iso_3166_1": "LT",
+        "title": "12 įtūžusių vyrų",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "MX",
+        "title": "12 hombres en pugna",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "NL",
+        "title": "De 12 gezworenen",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "PE",
+        "title": "12 hombres en pugna",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "PT",
+        "title": "Doze Homens em Fúria",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "RU",
+        "title": "12 рaзгневанных мужчин",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "RS",
+        "title": "12 гневних људи",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "SK",
+        "title": "Dvanásť rozhnevaných mužov",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "SI",
+        "title": "12 jeznih mož",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "SU",
+        "title": "12 разгневанных мужчин",
+        "type": "Russian"
+      },
+      {
+        "iso_3166_1": "ES",
+        "title": "Doce hombres sin piedad",
+        "type": "alternative spelling"
+      },
+      {
+        "iso_3166_1": "ES",
+        "title": "Dotze homes sense pietat",
+        "type": "Catalan"
+      },
+      {
+        "iso_3166_1": "TR",
+        "title": "12 Öfkeli Adam",
+        "type": "Turkish"
+      },
+      {
+        "iso_3166_1": "UA",
+        "title": "12 розгніваних чоловіків",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "UZ",
+        "title": "12 g'azablangan erkak",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "VE",
+        "title": "Doce hombres en pugna",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "VN",
+        "title": "12 Người Đàn Ông Giận Dữ",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "YU",
+        "title": "12 gnjevnih ljudi",
+        "type": "Croatian"
+      },
+      {
+        "iso_3166_1": "YU",
+        "title": "12 gnevnih ljudi",
+        "type": "Serbian"
+      },
+      {
+        "iso_3166_1": "YU",
+        "title": "12 jeznih mož",
+        "type": "Slovenian"
+      },
+      {
+        "iso_3166_1": "AM",
+        "title": "12 բարկացած տղամարդիկ",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "IT",
+        "title": "12 Angry Men La parola ai giurati",
+        "type": "BD Title"
+      },
+      {
+        "iso_3166_1": "IT",
+        "title": "La parola ai giurati 12 Angry Men",
+        "type": "BD Title"
+      }
+    ]
+  }
+}

@@ -1,0 +1,186 @@
+{
+  "adult": false,
+  "backdrop_path": "/u9Wck3CPxYVEpV81th56HNP19HL.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 289505,
+  "imdb_id": "tt0949877",
+  "origin_country": [
+    "IT"
+  ],
+  "original_language": "it",
+  "original_title": "Hermitage",
+  "overview": "Hermitage, defined by Bene as \"a rehearsal for lenses\", beyond any literal rendition - its narrative trace comes from one of his anti-novels, Credito Italiano V.E.R.D.I - displays his immediate attitude to thinking a cinematic language completely based on actor's movements and actions, and more specifically, on his presence and his schemes. Camouflaged or naked, still or moving, his body seems to play and be played at the same time, shifted by objective and subjective tensions, both metaphorically and visually speaking.",
+  "popularity": 0.0853,
+  "poster_path": "/77ALL9ym1SHLK1SwzAXz2uqlG1r.jpg",
+  "production_companies": [
+    {
+      "id": 31354,
+      "logo_path": null,
+      "name": "Nexus Film",
+      "origin_country": "IT"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    }
+  ],
+  "release_date": "1968-01-01",
+  "revenue": 0,
+  "runtime": 24,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Hermitage",
+  "video": false,
+  "vote_average": 7.2,
+  "vote_count": 9,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 78539,
+        "known_for_department": "Acting",
+        "name": "Carmelo Bene",
+        "original_name": "Carmelo Bene",
+        "popularity": 0.1978,
+        "profile_path": "/zfRlQNX7DhcxwoSMCxwwWmPOzsF.jpg",
+        "cast_id": 1,
+        "character": "The Man",
+        "credit_id": "5401dfa4c3a3687d50001780",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 78540,
+        "known_for_department": "Acting",
+        "name": "Lydia Mancinelli",
+        "original_name": "Lydia Mancinelli",
+        "popularity": 0.1329,
+        "profile_path": "/gk5rd9WJzcVOabUDoLUuRGKlGZA.jpg",
+        "cast_id": 2,
+        "character": "The Woman",
+        "credit_id": "5401dfbac3a3684372003295",
+        "order": 1
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1164325,
+        "known_for_department": "Camera",
+        "name": "Giulio Albonico",
+        "original_name": "Giulio Albonico",
+        "popularity": 0.1228,
+        "profile_path": null,
+        "credit_id": "5401e1d50e0a2658de0050f0",
+        "department": "Crew",
+        "job": "Cinematography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1354580,
+        "known_for_department": "Production",
+        "name": "Giorgio Patara",
+        "original_name": "Giorgio Patara",
+        "popularity": 0.0593,
+        "profile_path": null,
+        "credit_id": "5401e25c0e0a2658d8004e9c",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 78539,
+        "known_for_department": "Acting",
+        "name": "Carmelo Bene",
+        "original_name": "Carmelo Bene",
+        "popularity": 0.1978,
+        "profile_path": "/zfRlQNX7DhcxwoSMCxwwWmPOzsF.jpg",
+        "credit_id": "5401df13c3a368437200328f",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1358497,
+        "known_for_department": "Editing",
+        "name": "Pino Giomini",
+        "original_name": "Pino Giomini",
+        "popularity": 0.042,
+        "profile_path": null,
+        "credit_id": "5401e171c3a3684360003580",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 78539,
+        "known_for_department": "Acting",
+        "name": "Carmelo Bene",
+        "original_name": "Carmelo Bene",
+        "popularity": 0.1978,
+        "profile_path": "/zfRlQNX7DhcxwoSMCxwwWmPOzsF.jpg",
+        "credit_id": "5a601f4c0e0a2650a300f29b",
+        "department": "Writing",
+        "job": "Novel"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1303574,
+        "known_for_department": "Sound",
+        "name": "Vittorio Gelmetti",
+        "original_name": "Vittorio Gelmetti",
+        "popularity": 0.0674,
+        "profile_path": null,
+        "credit_id": "5a601f670e0a26506400fb9c",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 78539,
+        "known_for_department": "Acting",
+        "name": "Carmelo Bene",
+        "original_name": "Carmelo Bene",
+        "popularity": 0.1978,
+        "profile_path": "/zfRlQNX7DhcxwoSMCxwwWmPOzsF.jpg",
+        "credit_id": "5a601f46c3a368786800d5af",
+        "department": "Writing",
+        "job": "Writer"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  }
+}

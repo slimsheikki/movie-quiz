@@ -1,0 +1,536 @@
+{
+  "adult": false,
+  "backdrop_path": "/70O27hFWjJMVIuaWtE2XOoqiC1R.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 2574,
+  "imdb_id": "tt0052556",
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "Les Amants",
+  "overview": "A shallow, provincial wife finds her relationship with her preoccupied husband strained by romantic notions, leading her further towards Paris and the country wilderness.",
+  "popularity": 0.6936,
+  "poster_path": "/5WxZp3XpCnK1EQ6D8XASbpCkrzO.jpg",
+  "production_companies": [
+    {
+      "id": 661,
+      "logo_path": null,
+      "name": "Nouvelles Éditions de Film",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "1958-11-05",
+  "revenue": 0,
+  "runtime": 91,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "THIS WAS HER MOMENT! ...and nothing else mattered!",
+  "title": "The Lovers",
+  "video": false,
+  "vote_average": 6.6,
+  "vote_count": 136,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 14812,
+        "known_for_department": "Acting",
+        "name": "Jeanne Moreau",
+        "original_name": "Jeanne Moreau",
+        "popularity": 1.1569,
+        "profile_path": "/lsIlRbcStJev5n1mypIeUUYKWuy.jpg",
+        "cast_id": 4,
+        "character": "Jeanne Tournier",
+        "credit_id": "52fe435dc3a36847f804ee13",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5964,
+        "known_for_department": "Acting",
+        "name": "Alain Cuny",
+        "original_name": "Alain Cuny",
+        "popularity": 0.5714,
+        "profile_path": "/xNz8yFCEADTk4Kz4YIqzpDF0vSG.jpg",
+        "cast_id": 5,
+        "character": "Henri Tournier",
+        "credit_id": "52fe435dc3a36847f804ee17",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1942,
+        "known_for_department": "Acting",
+        "name": "José Luis de Vilallonga",
+        "original_name": "José Luis de Vilallonga",
+        "popularity": 0.4936,
+        "profile_path": "/iMNDTL2oTnoqKt1SdvFA3YXLY2G.jpg",
+        "cast_id": 6,
+        "character": "Raoul Flores",
+        "credit_id": "52fe435dc3a36847f804ee1b",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 26163,
+        "known_for_department": "Acting",
+        "name": "Jean-Marc Bory",
+        "original_name": "Jean-Marc Bory",
+        "popularity": 0.2686,
+        "profile_path": "/iUH8BfJOfDp2hPpNdcu7RiFbtB.jpg",
+        "cast_id": 7,
+        "character": "Bernard Dubois-Lambert",
+        "credit_id": "52fe435dc3a36847f804ee1f",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 26165,
+        "known_for_department": "Acting",
+        "name": "Judith Magre",
+        "original_name": "Judith Magre",
+        "popularity": 0.5367,
+        "profile_path": "/9nSb5UJZNzFVBeNbXAcYJIm4zuX.jpg",
+        "cast_id": 8,
+        "character": "Maggy Thiebaut-Leroy",
+        "credit_id": "52fe435dc3a36847f804ee23",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 11543,
+        "known_for_department": "Acting",
+        "name": "Gaston Modot",
+        "original_name": "Gaston Modot",
+        "popularity": 0.3678,
+        "profile_path": "/6XEN6LX7stfMhnLi7ng0qkwfHJ6.jpg",
+        "cast_id": 9,
+        "character": "Coudray",
+        "credit_id": "52fe435dc3a36847f804ee27",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 26166,
+        "known_for_department": "Acting",
+        "name": "Michèle Girardon",
+        "original_name": "Michèle Girardon",
+        "popularity": 0.3849,
+        "profile_path": "/nZxOMzM2PAygAeaC9Du6Qus8qXX.jpg",
+        "cast_id": 10,
+        "character": "Secretary",
+        "credit_id": "52fe435dc3a36847f804ee2b",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3834,
+        "known_for_department": "Acting",
+        "name": "Claude Mansard",
+        "original_name": "Claude Mansard",
+        "popularity": 0.3215,
+        "profile_path": "/vnxKGtSkKDBxejd8nT0xgsBR25x.jpg",
+        "cast_id": 11,
+        "character": "Marcelot",
+        "credit_id": "52fe435dc3a36847f804ee2f",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 26167,
+        "known_for_department": "Acting",
+        "name": "Georgette Lobre",
+        "original_name": "Georgette Lobre",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "cast_id": 12,
+        "character": "Marthe",
+        "credit_id": "52fe435dc3a36847f804ee33",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 26170,
+        "known_for_department": "Acting",
+        "name": "Lucienne Hamon",
+        "original_name": "Lucienne Hamon",
+        "popularity": 0.2145,
+        "profile_path": "/cDVEbQ6yVENoUPw88axXFBJZS5L.jpg",
+        "cast_id": 14,
+        "character": "Chantal",
+        "credit_id": "52fe435dc3a36847f804ee3b",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 26171,
+        "known_for_department": "Acting",
+        "name": "Pierre Frag",
+        "original_name": "Pierre Frag",
+        "popularity": 0.2502,
+        "profile_path": "/hVNbwhSCSzsJlT3DRse6Kk8TECT.jpg",
+        "cast_id": 15,
+        "character": "",
+        "credit_id": "52fe435dc3a36847f804ee3f",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 26173,
+        "known_for_department": "Acting",
+        "name": "Gib Grossac",
+        "original_name": "Gib Grossac",
+        "popularity": 0.1344,
+        "profile_path": "/lAPZU6AhexiPs3Ww6dRUdQ9U2nq.jpg",
+        "cast_id": 16,
+        "character": "",
+        "credit_id": "52fe435dc3a36847f804ee43",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 24299,
+        "known_for_department": "Acting",
+        "name": "Jean-Claude Brialy",
+        "original_name": "Jean-Claude Brialy",
+        "popularity": 0.7503,
+        "profile_path": "/8eAz3iwsHLWRstqasUxdd8KnuPR.jpg",
+        "cast_id": 17,
+        "character": "Boy on a ride (uncredited)",
+        "credit_id": "52fe435dc3a36847f804ee47",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 26169,
+        "known_for_department": "Acting",
+        "name": "Patricia Maurin",
+        "original_name": "Patricia Maurin",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 13,
+        "character": "Catherine, daughter of Jeanne (uncredited)",
+        "credit_id": "52fe435dc3a36847f804ee37",
+        "order": 13
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 15389,
+        "known_for_department": "Directing",
+        "name": "Louis Malle",
+        "original_name": "Louis Malle",
+        "popularity": 0.9979,
+        "profile_path": "/8BKM2iXcr4b8pvx1OOcNsO9wADn.jpg",
+        "credit_id": "52fe435dc3a36847f804ee03",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 26151,
+        "known_for_department": "Writing",
+        "name": "Louise de Vilmorin",
+        "original_name": "Louise de Vilmorin",
+        "popularity": 0.1438,
+        "profile_path": null,
+        "credit_id": "52fe435dc3a36847f804ee09",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 26154,
+        "known_for_department": "Writing",
+        "name": "Dominique Vivant",
+        "original_name": "Dominique Vivant",
+        "popularity": 0.0771,
+        "profile_path": null,
+        "credit_id": "52fe435dc3a36847f804ee0f",
+        "department": "Writing",
+        "job": "Novel"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1657,
+        "known_for_department": "Camera",
+        "name": "Henri Decaë",
+        "original_name": "Henri Decaë",
+        "popularity": 0.1295,
+        "profile_path": "/4ao8CNiLkwzrIihnwGTaGbePryS.jpg",
+        "credit_id": "52fe435dc3a36847f804ee4d",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 15394,
+        "known_for_department": "Editing",
+        "name": "Léonide Azar",
+        "original_name": "Léonide Azar",
+        "popularity": 0.1134,
+        "profile_path": null,
+        "credit_id": "52fe435ec3a36847f804ee59",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 24296,
+        "known_for_department": "Art",
+        "name": "Bernard Evein",
+        "original_name": "Bernard Evein",
+        "popularity": 0.1559,
+        "profile_path": "/yX6UI6C5Ok7kO5bpWA4LvGjE9hE.jpg",
+        "credit_id": "52fe435ec3a36847f804ee5f",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 24297,
+        "known_for_department": "Art",
+        "name": "Jacques Saulnier",
+        "original_name": "Jacques Saulnier",
+        "popularity": 0.2437,
+        "profile_path": "/jMIcmE4WPirjtXLW0USNdKkJ2ef.jpg",
+        "credit_id": "52fe435ec3a36847f804ee65",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 26179,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Gisèle Jacquin",
+        "original_name": "Gisèle Jacquin",
+        "popularity": 0.0589,
+        "profile_path": null,
+        "credit_id": "52fe435ec3a36847f804ee6b",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 26180,
+        "known_for_department": "Production",
+        "name": "Irénée Leriche",
+        "original_name": "Irénée Leriche",
+        "popularity": 0.1456,
+        "profile_path": null,
+        "credit_id": "52fe435ec3a36847f804ee71",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 26181,
+        "known_for_department": "Production",
+        "name": "Hubert Mérial",
+        "original_name": "Hubert Mérial",
+        "popularity": 0.0583,
+        "profile_path": null,
+        "credit_id": "52fe435ec3a36847f804ee77",
+        "department": "Production",
+        "job": "Unit Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 26184,
+        "known_for_department": "Art",
+        "name": "Charles Merangel",
+        "original_name": "Charles Merangel",
+        "popularity": 0.0758,
+        "profile_path": null,
+        "credit_id": "52fe435ec3a36847f804ee7d",
+        "department": "Crew",
+        "job": "Property Master"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 26185,
+        "known_for_department": "Sound",
+        "name": "Pierre-André Bertrand",
+        "original_name": "Pierre-André Bertrand",
+        "popularity": 0.0536,
+        "profile_path": null,
+        "credit_id": "52fe435ec3a36847f804ee83",
+        "department": "Sound",
+        "job": "Sound Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 26186,
+        "known_for_department": "Camera",
+        "name": "Vincent Rossell",
+        "original_name": "Vincent Rossell",
+        "popularity": 0.13,
+        "profile_path": "/xHd3dSA4eEZD9EPZtgHaB154KK8.jpg",
+        "credit_id": "52fe435ec3a36847f804ee89",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 26187,
+        "known_for_department": "Camera",
+        "name": "André Villard",
+        "original_name": "André Villard",
+        "popularity": 0.1505,
+        "profile_path": null,
+        "credit_id": "52fe435ec3a36847f804ee8f",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 26188,
+        "known_for_department": "Editing",
+        "name": "Madeleine Bibollet",
+        "original_name": "Madeleine Bibollet",
+        "popularity": 0.0527,
+        "profile_path": null,
+        "credit_id": "52fe435ec3a36847f804ee95",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 25953,
+        "known_for_department": "Editing",
+        "name": "Kenout Peltier",
+        "original_name": "Kenout Peltier",
+        "popularity": 0.0767,
+        "profile_path": "/pJBwq6U8Cl4iLqTPxqe232JkOsI.jpg",
+        "credit_id": "52fe435ec3a36847f804ee9b",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 26182,
+        "known_for_department": "Directing",
+        "name": "Alain Cavalier",
+        "original_name": "Alain Cavalier",
+        "popularity": 0.1913,
+        "profile_path": "/nUucwux4kq3gpGtVA4hV1p5zOiQ.jpg",
+        "credit_id": "594e1814c3a3683232030fa5",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 26189,
+        "known_for_department": "Acting",
+        "name": "Serge Baudo",
+        "original_name": "Serge Baudo",
+        "popularity": 0.0563,
+        "profile_path": "/6XZcYgqwwbms7eq9gKAjV7sNGnD.jpg",
+        "credit_id": "66f196e802208c67c88d2fa3",
+        "department": "Sound",
+        "job": "Conductor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 26178,
+        "known_for_department": "Sound",
+        "name": "Johannes Brahms",
+        "original_name": "Johannes Brahms",
+        "popularity": 0.1946,
+        "profile_path": "/6cZcrCSTaQ8DuMcvD5q5Py8EMn5.jpg",
+        "credit_id": "6a32ac64e71c5df03178ea76",
+        "department": "Sound",
+        "job": "Music"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "GR",
+        "title": "Οι Εραστές",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "KR",
+        "title": "연인들",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "DE",
+        "title": "Die Liebenden",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "NO",
+        "title": "Elskerne",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "US",
+        "title": "The Lovers",
+        "type": ""
+      }
+    ]
+  }
+}

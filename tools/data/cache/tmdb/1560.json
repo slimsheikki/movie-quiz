@@ -1,0 +1,338 @@
+{
+  "adult": false,
+  "backdrop_path": "/q1B2ynMiQlkRFdYe9U9g8S6GgGF.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1560,
+  "imdb_id": "tt0100623",
+  "origin_country": [
+    "GR"
+  ],
+  "original_language": "el",
+  "original_title": "Singapore Sling: Ο άνθρωπος που αγάπησε ένα πτώμα",
+  "overview": "Singapore Sling is chasing after Laura, a romantic memory from his past. One night he finds himself in a mysterious villa, watching two women bury a body. He falls into their trap and, in an atmosphere of isolation and decadence, the trio act out insane pleasure games and a ritual of blood and murder.",
+  "popularity": 0.9273,
+  "poster_path": "/btTYcALtXvE9j8xjvlGOnLT1cQI.jpg",
+  "production_companies": [
+    {
+      "id": 940,
+      "logo_path": null,
+      "name": "Cinekip",
+      "origin_country": ""
+    },
+    {
+      "id": 7254,
+      "logo_path": "/hDJO96mUfqtB9ia7ef7mEvguPxl.png",
+      "name": "Greek Film Centre",
+      "origin_country": "GR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GR",
+      "name": "Greece"
+    }
+  ],
+  "release_date": "1990-12-06",
+  "revenue": 0,
+  "runtime": 112,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    },
+    {
+      "english_name": "Greek",
+      "iso_639_1": "el",
+      "name": "ελληνικά"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Trapped in a deadly game of torture and murder!",
+  "title": "Singapore Sling",
+  "video": false,
+  "vote_average": 6.562,
+  "vote_count": 81,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 17586,
+        "known_for_department": "Acting",
+        "name": "Meredyth Herold",
+        "original_name": "Meredyth Herold",
+        "popularity": 0.1313,
+        "profile_path": "/96WSYVViDlWKyELw26sr5kywasp.jpg",
+        "cast_id": 4,
+        "character": "Daughter",
+        "credit_id": "52fe42fdc3a36847f803241d",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 17587,
+        "known_for_department": "Acting",
+        "name": "Michele Valley",
+        "original_name": "Μισέλ Βάλεϊ",
+        "popularity": 0.7368,
+        "profile_path": "/yVm0C5HXGvLCvOV8UqNHc6cCIRR.jpg",
+        "cast_id": 5,
+        "character": "Mother",
+        "credit_id": "52fe42fdc3a36847f8032421",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 17588,
+        "known_for_department": "Acting",
+        "name": "Panos Thanassoulis",
+        "original_name": "Πάνος Θανασούλης",
+        "popularity": 0.1157,
+        "profile_path": "/jqG25lFfEb0t8JymY0Oi8YEjEbM.jpg",
+        "cast_id": 6,
+        "character": "Singapore Sling",
+        "credit_id": "52fe42fdc3a36847f8032425",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1858181,
+        "known_for_department": "Acting",
+        "name": "John E. Regan",
+        "original_name": "John E. Regan",
+        "popularity": 0.0239,
+        "profile_path": null,
+        "cast_id": 14,
+        "character": "Lawyer",
+        "credit_id": "5ca6564d925141059843eab9",
+        "order": 3
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 17585,
+        "known_for_department": "Editing",
+        "name": "Andreas Andreadakis",
+        "original_name": "Ανδρέας Ανδρεαδάκης",
+        "popularity": 0.0846,
+        "profile_path": null,
+        "credit_id": "52fe42fdc3a36847f8032419",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 17584,
+        "known_for_department": "Camera",
+        "name": "Aris Stavrou",
+        "original_name": "Άρης Σταύρου",
+        "popularity": 0.0633,
+        "profile_path": null,
+        "credit_id": "52fe42fdc3a36847f8032413",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 17582,
+        "known_for_department": "Directing",
+        "name": "Nikos Nikolaidis",
+        "original_name": "Νίκος Νικολαΐδης",
+        "popularity": 0.1229,
+        "profile_path": "/aE3X8lZFI2i4Th3KqtTRhw1vYIq.jpg",
+        "credit_id": "52fe42fdc3a36847f803242b",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 17582,
+        "known_for_department": "Directing",
+        "name": "Nikos Nikolaidis",
+        "original_name": "Νίκος Νικολαΐδης",
+        "popularity": 0.1229,
+        "profile_path": "/aE3X8lZFI2i4Th3KqtTRhw1vYIq.jpg",
+        "credit_id": "52fe42fdc3a36847f803240d",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 17582,
+        "known_for_department": "Directing",
+        "name": "Nikos Nikolaidis",
+        "original_name": "Νίκος Νικολαΐδης",
+        "popularity": 0.1229,
+        "profile_path": "/aE3X8lZFI2i4Th3KqtTRhw1vYIq.jpg",
+        "credit_id": "60f597b6af58cb0075006a19",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1895259,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Danièle Vuarin",
+        "original_name": "Danièle Vuarin",
+        "popularity": 0.0788,
+        "profile_path": null,
+        "credit_id": "60f597d0ad87f70073a92c7a",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3163642,
+        "known_for_department": "Art",
+        "name": "Stelios Rogakos",
+        "original_name": "Στέλιος Ρογκάκος",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "60f597f57b7b4d00455a198f",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1620638,
+        "known_for_department": "Art",
+        "name": "Marie-Louise Bartholomew",
+        "original_name": "Μαρί Λουίζ Βαρθολομαίου",
+        "popularity": 0.1243,
+        "profile_path": "/piiI79yws2rI6zDxlyjgNqpsXHm.jpg",
+        "credit_id": "599a2bfc92514149c5008843",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1312829,
+        "known_for_department": "Sound",
+        "name": "Argyris Lazaridis",
+        "original_name": "Αργύρης Λαζαρίδης",
+        "popularity": 0.0641,
+        "profile_path": null,
+        "credit_id": "599a2c1ec3a36839480088ab",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1620638,
+        "known_for_department": "Art",
+        "name": "Marie-Louise Bartholomew",
+        "original_name": "Μαρί Λουίζ Βαρθολομαίου",
+        "popularity": 0.1243,
+        "profile_path": "/piiI79yws2rI6zDxlyjgNqpsXHm.jpg",
+        "credit_id": "599a2bf29251414a13008501",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1601457,
+        "known_for_department": "Sound",
+        "name": "Nikos Despotidis",
+        "original_name": "Νίκος Δεσποτίδης",
+        "popularity": 0.0362,
+        "profile_path": null,
+        "credit_id": "599a2c1092514149c500886e",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1620638,
+        "known_for_department": "Art",
+        "name": "Marie-Louise Bartholomew",
+        "original_name": "Μαρί Λουίζ Βαρθολομαίου",
+        "popularity": 0.1243,
+        "profile_path": "/piiI79yws2rI6zDxlyjgNqpsXHm.jpg",
+        "credit_id": "599a2be79251414a0d00887e",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1620638,
+        "known_for_department": "Art",
+        "name": "Marie-Louise Bartholomew",
+        "original_name": "Μαρί Λουίζ Βαρθολομαίου",
+        "popularity": 0.1243,
+        "profile_path": "/piiI79yws2rI6zDxlyjgNqpsXHm.jpg",
+        "credit_id": "599a2bd4c3a3683a07008097",
+        "department": "Production",
+        "job": "Producer"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "GR",
+        "title": "Singapore Sling: O anthropos pou agapise ena ptoma",
+        "type": "transliteration"
+      },
+      {
+        "iso_3166_1": "HU",
+        "title": "Singapore sling: A férfi, aki halottat szeretett",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "US",
+        "title": "Singapore Sling: The Man Who Loved a Corpse",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "KR",
+        "title": "싱가포르 슬링",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "KR",
+        "title": "싱가폴 슬링",
+        "type": ""
+      }
+    ]
+  }
+}

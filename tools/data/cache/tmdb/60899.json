@@ -1,0 +1,646 @@
+{
+  "adult": false,
+  "backdrop_path": "/l810ZtbnQzqivGJRqNjs007LbC0.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 60899,
+  "imdb_id": "tt0052017",
+  "origin_country": [
+    "SE"
+  ],
+  "original_language": "sv",
+  "original_title": "Nära livet",
+  "overview": "This intimate chamber drama, set in a maternity ward, follows the emotional crises of three women as they grapple with motherhood.",
+  "popularity": 0.502,
+  "poster_path": "/powLbhuyWu53PHe6NrHoDCGewUp.jpg",
+  "production_companies": [
+    {
+      "id": 8222,
+      "logo_path": null,
+      "name": "Nordisk Tonefilm",
+      "origin_country": ""
+    },
+    {
+      "id": 35793,
+      "logo_path": null,
+      "name": "Inter-American Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 35794,
+      "logo_path": null,
+      "name": "Jerome Balsam Films",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "SE",
+      "name": "Sweden"
+    }
+  ],
+  "release_date": "1958-03-31",
+  "revenue": 0,
+  "runtime": 85,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Brink of Life",
+  "video": false,
+  "vote_average": 7.5,
+  "vote_count": 95,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 70276,
+        "known_for_department": "Acting",
+        "name": "Eva Dahlbeck",
+        "original_name": "Eva Dahlbeck",
+        "popularity": 0.2145,
+        "profile_path": "/ixee7vxjQ20ejJN6gph9Lq0PHJ2.jpg",
+        "cast_id": 4,
+        "character": "Stina Andersson",
+        "credit_id": "52fe463bc3a368484e085829",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 8742,
+        "known_for_department": "Acting",
+        "name": "Ingrid Thulin",
+        "original_name": "Ingrid Thulin",
+        "popularity": 0.8564,
+        "profile_path": "/jrjkvvWb6Y4lPDPz5xPAzLFTlsh.jpg",
+        "cast_id": 5,
+        "character": "Cecilia Ellius",
+        "credit_id": "52fe463bc3a368484e08582d",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 6657,
+        "known_for_department": "Acting",
+        "name": "Bibi Andersson",
+        "original_name": "Bibi Andersson",
+        "popularity": 0.6784,
+        "profile_path": "/6EGqmWOR3R3jv3IgrEZmCjTAVGv.jpg",
+        "cast_id": 6,
+        "character": "Hjördis Pettersson",
+        "credit_id": "52fe463bc3a368484e085831",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 231918,
+        "known_for_department": "Acting",
+        "name": "Barbro Hiort af Ornäs",
+        "original_name": "Barbro Hiort af Ornäs",
+        "popularity": 0.2318,
+        "profile_path": "/17Umn77fT7DtWxUwTUTAAmUE6lD.jpg",
+        "cast_id": 7,
+        "character": "Nurse Brita",
+        "credit_id": "52fe463bc3a368484e085835",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 38127,
+        "known_for_department": "Acting",
+        "name": "Erland Josephson",
+        "original_name": "Erland Josephson",
+        "popularity": 0.7385,
+        "profile_path": "/dopG1nAzyT23DMAPyPoUuwbZs4a.jpg",
+        "cast_id": 8,
+        "character": "Anders Ellius",
+        "credit_id": "52fe463bc3a368484e085839",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2201,
+        "known_for_department": "Acting",
+        "name": "Max von Sydow",
+        "original_name": "Max von Sydow",
+        "popularity": 2.3604,
+        "profile_path": "/u16BsGyT6v9yuO7wWAF62NayDth.jpg",
+        "cast_id": 10,
+        "character": "Harry Andersson",
+        "credit_id": "52fe463bc3a368484e085841",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 8744,
+        "known_for_department": "Acting",
+        "name": "Gunnar Sjöberg",
+        "original_name": "Gunnar Sjöberg",
+        "popularity": 0.2231,
+        "profile_path": "/3pYKqnMDgWXenSa4FBIn4yVi0h3.jpg",
+        "cast_id": 37,
+        "character": "Dr. Nordlander",
+        "credit_id": "60afdc91568463003fe79564",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 231919,
+        "known_for_department": "Acting",
+        "name": "Ann-Marie Gyllenspetz",
+        "original_name": "Ann-Marie Gyllenspetz",
+        "popularity": 0.1666,
+        "profile_path": "/grJmPARQ4sxzvAO8FxGMc5tOXSH.jpg",
+        "cast_id": 11,
+        "character": "Counsellor Gran",
+        "credit_id": "52fe463bc3a368484e085845",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 6661,
+        "known_for_department": "Acting",
+        "name": "Inga Landgré",
+        "original_name": "Inga Landgré",
+        "popularity": 0.3763,
+        "profile_path": "/dp6F73XAbjtki5zZoUiOcq6sS0Z.jpg",
+        "cast_id": 9,
+        "character": "Greta Ellius",
+        "credit_id": "52fe463bc3a368484e08583d",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 231927,
+        "known_for_department": "Acting",
+        "name": "Kristina Adolphson",
+        "original_name": "Kristina Adolphson",
+        "popularity": 0.1578,
+        "profile_path": "/mmEjKI41WmeSUaIEJvsBjt8jJZv.jpg",
+        "cast_id": 38,
+        "character": "Nurse (uncredited)",
+        "credit_id": "634aff38a61de100797c638c",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 131493,
+        "known_for_department": "Acting",
+        "name": "Bengt Blomgren",
+        "original_name": "Bengt Blomgren",
+        "popularity": 0.1671,
+        "profile_path": "/oYtOVaLpdEa99CyLGCsYCCERQBv.jpg",
+        "cast_id": 39,
+        "character": "Injured Child's Father (uncredited)",
+        "credit_id": "634aff4c501cf2007f6f24c9",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 231923,
+        "known_for_department": "Acting",
+        "name": "Monica Ekberg",
+        "original_name": "Monica Ekberg",
+        "popularity": 0.1638,
+        "profile_path": "/wUxggoLXY7Rfl8MfXz1y8gobBul.jpg",
+        "cast_id": 40,
+        "character": "Hjördis' Friend (uncredited)",
+        "credit_id": "634aff57f1759c007af0a540",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 231925,
+        "known_for_department": "Acting",
+        "name": "Maud Elfsiö",
+        "original_name": "Maud Elfsiö",
+        "popularity": 0.057,
+        "profile_path": "/c9yTbxgFassFQAxDgVsUzQrf6JO.jpg",
+        "cast_id": 41,
+        "character": "Maud (uncredited)",
+        "credit_id": "634aff70f1759c00827c1621",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 6659,
+        "known_for_department": "Acting",
+        "name": "Inga Gill",
+        "original_name": "Inga Gill",
+        "popularity": 0.2884,
+        "profile_path": "/vyAAK3pxc4F8cwlG52wIJ834P9S.jpg",
+        "cast_id": 42,
+        "character": "Mother (uncredited)",
+        "credit_id": "634aff7da61de100797c639d",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 231924,
+        "known_for_department": "Acting",
+        "name": "Gun Jönsson",
+        "original_name": "Gun Jönsson",
+        "popularity": 0.0619,
+        "profile_path": "/4HvHubjhABaqOsA6zJdHoPCW1Od.jpg",
+        "cast_id": 43,
+        "character": "Night Nurse (uncredited)",
+        "credit_id": "634aff9ad6dbba007f4bad7c",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 231920,
+        "known_for_department": "Acting",
+        "name": "Sissi Kaiser",
+        "original_name": "Sissi Kaiser",
+        "popularity": 0.0805,
+        "profile_path": null,
+        "cast_id": 44,
+        "character": "Mari (uncredited)",
+        "credit_id": "634affaf414291009882a32e",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 11917,
+        "known_for_department": "Acting",
+        "name": "Margaretha Krook",
+        "original_name": "Margaretha Krook",
+        "popularity": 0.365,
+        "profile_path": "/eIfMDQG8oaU2Vt5xbYt4vS6ftja.jpg",
+        "cast_id": 45,
+        "character": "Dr. Larsson (uncredited)",
+        "credit_id": "634affcaf1759c007fc05729",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 231921,
+        "known_for_department": "Acting",
+        "name": "Lars Lind",
+        "original_name": "Lars Lind",
+        "popularity": 0.1563,
+        "profile_path": "/7vfPGzJLJq6QQ0CWzI1ts9Akm1r.jpg",
+        "cast_id": 46,
+        "character": "Dr. Thylenius (uncredited)",
+        "credit_id": "634affd820e6a50098d1ecf3",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 231928,
+        "known_for_department": "Acting",
+        "name": "Gunnar Nielsen",
+        "original_name": "Gunnar Nielsen",
+        "popularity": 0.0443,
+        "profile_path": null,
+        "cast_id": 47,
+        "character": "Doctor (uncredited)",
+        "credit_id": "634b06c9d6dbba007f4bae9b",
+        "order": 18
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6648,
+        "known_for_department": "Directing",
+        "name": "Ingmar Bergman",
+        "original_name": "Ingmar Bergman",
+        "popularity": 1.433,
+        "profile_path": "/nkmOaXNRoioViN9OQf2n9Iu6akA.jpg",
+        "credit_id": "52fe463bc3a368484e085819",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 70363,
+        "known_for_department": "Writing",
+        "name": "Ulla Isaksson",
+        "original_name": "Ulla Isaksson",
+        "popularity": 0.1047,
+        "profile_path": "/bLCIAGS20HUWVPwk8VTI2hcSo5Y.jpg",
+        "credit_id": "52fe463bc3a368484e08581f",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 231917,
+        "known_for_department": "Camera",
+        "name": "Max Wilén",
+        "original_name": "Max Wilén",
+        "popularity": 0.0434,
+        "profile_path": null,
+        "credit_id": "52fe463bc3a368484e085825",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1610076,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Bertha Sånnell",
+        "original_name": "Bertha Sånnell",
+        "popularity": 0.0659,
+        "profile_path": null,
+        "credit_id": "60afdc31c1ffbd00567b7d4e",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6648,
+        "known_for_department": "Directing",
+        "name": "Ingmar Bergman",
+        "original_name": "Ingmar Bergman",
+        "popularity": 1.433,
+        "profile_path": "/nkmOaXNRoioViN9OQf2n9Iu6akA.jpg",
+        "credit_id": "544441dac3a3683e0b005be9",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 70363,
+        "known_for_department": "Writing",
+        "name": "Ulla Isaksson",
+        "original_name": "Ulla Isaksson",
+        "popularity": 0.1047,
+        "profile_path": "/bLCIAGS20HUWVPwk8VTI2hcSo5Y.jpg",
+        "credit_id": "660fba26078e4e016495fb60",
+        "department": "Writing",
+        "job": "Short Story"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 565662,
+        "known_for_department": "Editing",
+        "name": "Carl-Olov Skeppstedt",
+        "original_name": "Carl-Olov Skeppstedt",
+        "popularity": 0.0336,
+        "profile_path": null,
+        "credit_id": "5bbcbb1a0e0a266618018a3e",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 11907,
+        "known_for_department": "Art",
+        "name": "Bibi Lindström",
+        "original_name": "Bibi Lindström",
+        "popularity": 0.1005,
+        "profile_path": "/t2QwSsyWr0ogmmLip6S9bOllzvx.jpg",
+        "credit_id": "5bbcbb240e0a26660e0183b5",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 8738,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Nils Nittel",
+        "original_name": "Nils Nittel",
+        "popularity": 0.0856,
+        "profile_path": null,
+        "credit_id": "5bbcbb2ec3a368590701890b",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1264105,
+        "known_for_department": "Sound",
+        "name": "Lennart Svensson",
+        "original_name": "Lennart Svensson",
+        "popularity": 0.0759,
+        "profile_path": "/mIxxgzKy8qowLoxcQy0jnIB2ddF.jpg",
+        "credit_id": "5bbcbb3d0e0a26660801a755",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1090513,
+        "known_for_department": "Production",
+        "name": "Gösta Hammarbäck",
+        "original_name": "Gösta Hammarbäck",
+        "popularity": 0.0577,
+        "profile_path": null,
+        "credit_id": "5bf84d660e0a261ac208b1b3",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 66790,
+        "known_for_department": "Acting",
+        "name": "Gösta Ekman",
+        "original_name": "Gösta Ekman",
+        "popularity": 0.5418,
+        "profile_path": "/sAeA8oLDwTFthVDzKjnlvkZlz0k.jpg",
+        "credit_id": "5bf84d879251415ccc0ece01",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2181688,
+        "known_for_department": "Art",
+        "name": "Hilding Gahnström",
+        "original_name": "Hilding Gahnström",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "5bf84d940e0a26266f0fbe4a",
+        "department": "Art",
+        "job": "Property Master"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2181689,
+        "known_for_department": "Camera",
+        "name": "Sven Brodin",
+        "original_name": "Sven Brodin",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "5bf84daf0e0a26266f0fbe81",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1088221,
+        "known_for_department": "Production",
+        "name": "Gunnar Lundin",
+        "original_name": "Gunnar Lundin",
+        "popularity": 0.0461,
+        "profile_path": null,
+        "credit_id": "5bf84dc00e0a26265c104cf1",
+        "department": "Production",
+        "job": "Location Manager"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1883122,
+        "known_for_department": "Directing",
+        "name": "Ingrid Wallin",
+        "original_name": "Ingrid Wallin",
+        "popularity": 0.0546,
+        "profile_path": null,
+        "credit_id": "5bf84dd19251415cdd0e9170",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2181690,
+        "known_for_department": "Crew",
+        "name": "Lars Engström",
+        "original_name": "Lars Engström",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "5bf84df60e0a264f6e095673",
+        "department": "Crew",
+        "job": "Medical Consultant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1090513,
+        "known_for_department": "Production",
+        "name": "Gösta Hammarbäck",
+        "original_name": "Gösta Hammarbäck",
+        "popularity": 0.0577,
+        "profile_path": null,
+        "credit_id": "5f9eb00063501300325a3dd4",
+        "department": "Production",
+        "job": "Producer"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "AR",
+        "title": "Tres almas desnudas",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "MX",
+        "title": "Tres almas desnudas",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "IT",
+        "title": "Alle soglie della vita",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "FR",
+        "title": "Au seuil de la vie",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "HU",
+        "title": "Közel az élethez",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "DK",
+        "title": "Livets under",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "PT",
+        "title": "No Limiar da Vida",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "PT",
+        "title": "O Direiro à Vida",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "GB",
+        "title": "So Close to Life",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "GR",
+        "title": "Sto katofli tis zois",
+        "type": "Translated"
+      },
+      {
+        "iso_3166_1": "PL",
+        "title": "U progu zycia",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "NL",
+        "title": "Op de Drempel van het Leven",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "KR",
+        "title": "생명에 가까이",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "GB",
+        "title": "Brink of Life",
+        "type": ""
+      }
+    ]
+  }
+}

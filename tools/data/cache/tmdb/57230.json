@@ -1,0 +1,868 @@
+{
+  "adult": false,
+  "backdrop_path": "/8NdbgS3Ndc7Q8cZIuHquhID9C6j.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "",
+  "id": 57230,
+  "imdb_id": "tt0062453",
+  "origin_country": [
+    "SU"
+  ],
+  "original_language": "ru",
+  "original_title": "Вий",
+  "overview": "A seminary student on monastery holiday kills an old witch in a remote village. The hag then transforms into a beautiful young woman whose dying wish is for him to watch over her wake for three nights. With terrors occurring and his faith waning, he reads prayers on the overnight watch and tries to survive the supernatural encounters.",
+  "popularity": 1.3128,
+  "poster_path": "/rgkp4X9C1NNobH8bq55zcMTQFCl.jpg",
+  "production_companies": [
+    {
+      "id": 21700,
+      "logo_path": null,
+      "name": "Luch",
+      "origin_country": "SU"
+    },
+    {
+      "id": 344,
+      "logo_path": "/xenuUvcunUNpbaDOYGhWZERaym7.png",
+      "name": "Mosfilm",
+      "origin_country": "SU"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "SU",
+      "name": "Soviet Union"
+    }
+  ],
+  "release_date": "1967-11-27",
+  "revenue": 0,
+  "runtime": 76,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "Pусский"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The Soviet Union’s first horror film!",
+  "title": "Viy",
+  "video": false,
+  "vote_average": 6.9,
+  "vote_count": 279,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 86663,
+        "known_for_department": "Acting",
+        "name": "Leonid Kuravlyov",
+        "original_name": "Леонид Куравлёв",
+        "popularity": 0.6857,
+        "profile_path": "/6miBIGzextAEZ3H80iWskJPcFfr.jpg",
+        "cast_id": 1029,
+        "character": "Khoma Brut",
+        "credit_id": "5e50b6f9a93d2500134775f7",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 86694,
+        "known_for_department": "Acting",
+        "name": "Natalya Varley",
+        "original_name": "Наталья Варлей",
+        "popularity": 0.9505,
+        "profile_path": "/1CT0cBrer6wgfQx2KNCwstiZE1r.jpg",
+        "cast_id": 1030,
+        "character": "Pannochka, the Centurion's Daughter",
+        "credit_id": "5e50b719f48b3400196d6325",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 225724,
+        "known_for_department": "Acting",
+        "name": "Aleksey Glazyrin",
+        "original_name": "Алексей Глазырин",
+        "popularity": 0.2194,
+        "profile_path": "/uI4j2IOfngLoPm0nwpHAIpK448D.jpg",
+        "cast_id": 1031,
+        "character": "Centurion",
+        "credit_id": "5e50b747a93d250013477686",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1801454,
+        "known_for_department": "Acting",
+        "name": "Nikolay Kutuzov",
+        "original_name": "Николай Кутузов",
+        "popularity": 0.1188,
+        "profile_path": "/iwkgrocy2O144kRuniGNwhVquFc.jpg",
+        "cast_id": 1032,
+        "character": "Witch",
+        "credit_id": "5e50b76aa93d250017473aaa",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 225726,
+        "known_for_department": "Acting",
+        "name": "Vadim Zakharchenko",
+        "original_name": "Вадим Захарченко",
+        "popularity": 0.2841,
+        "profile_path": "/aJg8Gp35QBCbCc0XWQ1RmlNCSWo.jpg",
+        "cast_id": 1033,
+        "character": "Freebie",
+        "credit_id": "5e50b7e135811d001553a572",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2085434,
+        "known_for_department": "Acting",
+        "name": "Petro Vesklyarov",
+        "original_name": "Петро Вескляров",
+        "popularity": 0.1726,
+        "profile_path": "/g3xNkpsmFw62T9Xg7KbwISjlDCz.jpg",
+        "cast_id": 1034,
+        "character": "Dorosh",
+        "credit_id": "5e50b800f48b3400176d65dd",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1882200,
+        "known_for_department": "Acting",
+        "name": "Vladimir Salnikov",
+        "original_name": "Владимир Сальников",
+        "popularity": 0.1088,
+        "profile_path": "/1kxLArKp0tchB69JswfX3SGX3rU.jpg",
+        "cast_id": 1035,
+        "character": "Horobets",
+        "credit_id": "5e50b87535811d001553a65d",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1363223,
+        "known_for_department": "Acting",
+        "name": "Dmytro Kapka",
+        "original_name": "Дмитро Капка",
+        "popularity": 0.1255,
+        "profile_path": "/lnxRwwWNnfWqkl4B2Sb1AOPPI0z.jpg",
+        "cast_id": 1036,
+        "character": "Overko",
+        "credit_id": "5e50b8d0f48b3400136d7979",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1156066,
+        "known_for_department": "Acting",
+        "name": "Stepan Shkurat",
+        "original_name": "Степан Шкурат",
+        "popularity": 0.2485,
+        "profile_path": "/yNoahLfFWNRooECyQTXaBjqheIl.jpg",
+        "cast_id": 1037,
+        "character": "Yavtukh",
+        "credit_id": "5e50b8f7a76ac50013a1613b",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1814228,
+        "known_for_department": "Acting",
+        "name": "Georgiy Sochevko",
+        "original_name": "Григорий Сочевко",
+        "popularity": 0.081,
+        "profile_path": "/z1OUu7FTIv5ZocNAium9JfBfZqo.jpg",
+        "cast_id": 1038,
+        "character": "Stepan",
+        "credit_id": "5e50b938a76ac50011a12108",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1098616,
+        "known_for_department": "Acting",
+        "name": "Mykola Yakovchenko",
+        "original_name": "Микола Яковченко",
+        "popularity": 0.1808,
+        "profile_path": "/Am4QFWiHiHWj6IEJ6eiC6NxP9zq.jpg",
+        "cast_id": 1039,
+        "character": "Spirid",
+        "credit_id": "5e50b96bf48b3400196d6538",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2546418,
+        "known_for_department": "Acting",
+        "name": "Nikolay Panasev",
+        "original_name": "Николай Панасьев",
+        "popularity": 0.0909,
+        "profile_path": null,
+        "cast_id": 1040,
+        "character": "comforter",
+        "credit_id": "5e50b989a76ac50013a161cc",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1082612,
+        "known_for_department": "Acting",
+        "name": "Boryslav Brondukov",
+        "original_name": "Борислав Брондуков",
+        "popularity": 0.6467,
+        "profile_path": "/jmlXem2LTnkCkTcZnouPC44hoyt.jpg",
+        "cast_id": 1044,
+        "character": "bursak (uncredited)",
+        "credit_id": "67accc3d53353f9bba36ce83",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1118324,
+        "known_for_department": "Acting",
+        "name": "Sergey Vanyashkin",
+        "original_name": "Sergey Vanyashkin",
+        "popularity": 0.0281,
+        "profile_path": null,
+        "cast_id": 1045,
+        "character": "piper (uncredited)",
+        "credit_id": "67accc527241eef4869f2f61",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3531691,
+        "known_for_department": "Crew",
+        "name": "Boris Veselov",
+        "original_name": "Boris Veselov",
+        "popularity": 0.0338,
+        "profile_path": null,
+        "cast_id": 1046,
+        "character": "two-nosed ghoul (uncredited)",
+        "credit_id": "67accce03e4967e13e36ce5b",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 631879,
+        "known_for_department": "Acting",
+        "name": "Aleksandra Denisova",
+        "original_name": "Александра Денисова",
+        "popularity": 0.4039,
+        "profile_path": "/2q7IKYCrunVlET8x3fRmVfTu12K.jpg",
+        "cast_id": 1047,
+        "character": "countrywoman (uncredited)",
+        "credit_id": "67acccfa811fc2db87d0a5f9",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1287725,
+        "known_for_department": "Acting",
+        "name": "Lyubov Kalyuzhnaya",
+        "original_name": "Любовь Калюжная",
+        "popularity": 0.1763,
+        "profile_path": "/c0vjo8Oit2mqeuBLR6GrzwgLCfB.jpg",
+        "cast_id": 1048,
+        "character": "countrywoman (uncredited)",
+        "credit_id": "67accd0db9b17924e2d0a3d3",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1079313,
+        "known_for_department": "Acting",
+        "name": "Mykhailo Kramar",
+        "original_name": "Михайло Крамар",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "cast_id": 1049,
+        "character": "bursak (uncredited)",
+        "credit_id": "67accd267241eef4869f2fed",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 588065,
+        "known_for_department": "Acting",
+        "name": "Viktor Kolpakov",
+        "original_name": "Виктор Колпаков",
+        "popularity": 0.1821,
+        "profile_path": "/csuN3kXF3Ty2KHgN2XU6F7O3nEG.jpg",
+        "cast_id": 1050,
+        "character": "countryman (uncredited)",
+        "credit_id": "67accd40811fc2db87d0a638",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1676958,
+        "known_for_department": "Acting",
+        "name": "Aleksandr Lebedev",
+        "original_name": "Александр Лебедев",
+        "popularity": 0.3175,
+        "profile_path": "/kLsVLTFzk1NUd4jK8u6x4K6JhgJ.jpg",
+        "cast_id": 1051,
+        "character": "bursak who milks a goat (uncredited)",
+        "credit_id": "67accd7ab9b17924e2d0a402",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2596525,
+        "known_for_department": "Acting",
+        "name": "Elena Muratova",
+        "original_name": "Елена Петровна Муратова",
+        "popularity": 0.0507,
+        "profile_path": "/ceXeD3o89xKynXVBFYc6N3V3NnZ.jpg",
+        "cast_id": 1052,
+        "character": "pitchwoman (uncredited)",
+        "credit_id": "67accda87241eef4869f316e",
+        "order": 20
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1479721,
+        "known_for_department": "Acting",
+        "name": "Dmitriy Orlovskiy",
+        "original_name": "Дмитрий Орловский",
+        "popularity": 0.2056,
+        "profile_path": "/dMyUKiDL4mipL1ABj4tajIz57iE.jpg",
+        "cast_id": 1053,
+        "character": "countryman (uncredited)",
+        "credit_id": "67accdc2f28d95adb3d0a427",
+        "order": 21
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2328053,
+        "known_for_department": "Acting",
+        "name": "Anna Pavlova",
+        "original_name": "Анна Павлова",
+        "popularity": 0.271,
+        "profile_path": "/wRE3iNDt7d57jcpftTobmCCq2dn.jpg",
+        "cast_id": 1054,
+        "character": "countrywoman (uncredited)",
+        "credit_id": "67acce013ee708327c36d03c",
+        "order": 22
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5242691,
+        "known_for_department": "Acting",
+        "name": "Сергей Степанов",
+        "original_name": "Сергей Степанов",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "cast_id": 1055,
+        "character": "Viy (uncredited)",
+        "credit_id": "67acce61f28d95adb3d0a46b",
+        "order": 23
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1306263,
+        "known_for_department": "Acting",
+        "name": "Nikolai Yudin",
+        "original_name": "Николай Юдин",
+        "popularity": 0.128,
+        "profile_path": "/soGtmH0ETsZuMepNfRR7b5U1Jvh.jpg",
+        "cast_id": 1056,
+        "character": "monk (uncredited)",
+        "credit_id": "67acce76811fc2db87d0a69e",
+        "order": 24
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 565312,
+        "known_for_department": "Acting",
+        "name": "Klara Rumyanova",
+        "original_name": "Клара Румянова",
+        "popularity": 0.3817,
+        "profile_path": "/5dNyiyVQBdXpLPgCHfEsnpIIWVc.jpg",
+        "cast_id": 1057,
+        "character": "Pannochka (voice)",
+        "credit_id": "680ffda5930c895e280fa27b",
+        "order": 25
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 225721,
+        "known_for_department": "Art",
+        "name": "Georgi Kropachyov",
+        "original_name": "Георгий Кропачёв",
+        "popularity": 0.1547,
+        "profile_path": "/hTNIBByHGbIMTzmH8XJlHw0cjXv.jpg",
+        "credit_id": "610470bc8ee49c005e10c72b",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 225723,
+        "known_for_department": "Directing",
+        "name": "Aleksandr Ptushko",
+        "original_name": "Александр Птушко",
+        "popularity": 0.3741,
+        "profile_path": "/wtH0n1wiBvQliSSgsLOyRBCzgMS.jpg",
+        "credit_id": "610470ad17c44300468b3f99",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 225722,
+        "known_for_department": "Directing",
+        "name": "Konstantin Ershov",
+        "original_name": "Константин Ершов",
+        "popularity": 0.2626,
+        "profile_path": "/aaVNhCDrpMADOnAnMJ9ryrRLGqn.jpg",
+        "credit_id": "610471006611b40046ed5bb6",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1625935,
+        "known_for_department": "Camera",
+        "name": "Viktor Pishchalnikov",
+        "original_name": "Виктор Пищальников",
+        "popularity": 0.0261,
+        "profile_path": null,
+        "credit_id": "57462193c3a3687b42000074",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1625937,
+        "known_for_department": "Editing",
+        "name": "Regina Pesetskaya",
+        "original_name": "Регина Песецкая",
+        "popularity": 0.0636,
+        "profile_path": null,
+        "credit_id": "57462203c3a36808af000006",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1625942,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Roza Satunovskaya",
+        "original_name": "Роза Сатуновская",
+        "popularity": 0.0468,
+        "profile_path": null,
+        "credit_id": "5746226fc3a36806a1000018",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1625940,
+        "known_for_department": "Art",
+        "name": "Nikolay Markin",
+        "original_name": "Николай Маркин",
+        "popularity": 0.0589,
+        "profile_path": "/23RZ0xmL5kltO5AKbm87PSEqwwg.jpg",
+        "credit_id": "574622399251415e5d00000c",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1625934,
+        "known_for_department": "Sound",
+        "name": "Karen Khachaturyan",
+        "original_name": "Карен Хачатурян",
+        "popularity": 0.0543,
+        "profile_path": "/fIn4n77brXWyVcoxHnYSfLnxxQJ.jpg",
+        "credit_id": "574621489251415944000041",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1625936,
+        "known_for_department": "Camera",
+        "name": "Fyodor Provorov",
+        "original_name": "Фёдор Проворов",
+        "popularity": 0.1214,
+        "profile_path": "/sQBK9429FaFAC39q39TBHqMVvfL.jpg",
+        "credit_id": "574621cd9251415e63000006",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1589207,
+        "known_for_department": "Sound",
+        "name": "Emin Khachaturyan",
+        "original_name": "Էմին Խաչատրյան",
+        "popularity": 0.2443,
+        "profile_path": "/1JBUXOULkZDFzuq2CYwmAzOiJak.jpg",
+        "credit_id": "5dbe282eefe37c0018822bf2",
+        "department": "Sound",
+        "job": "Conductor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1097807,
+        "known_for_department": "Writing",
+        "name": "Nikolai Gogol",
+        "original_name": "Николай  Гоголь",
+        "popularity": 0.5744,
+        "profile_path": "/uYP6bVEiXHXuoYTNMjGizwIf4SM.jpg",
+        "credit_id": "68694e72364bef0384cedd35",
+        "department": "Writing",
+        "job": "Short Story"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2115588,
+        "known_for_department": "Directing",
+        "name": "Sarra Mokil",
+        "original_name": "Сарра Мокиль",
+        "popularity": 0.048,
+        "profile_path": "/iLNHxtWxFqWIeuc03SNoghyGtvT.jpg",
+        "credit_id": "68694ff3851c55761953f983",
+        "department": "Costume & Make-Up",
+        "job": "Prosthetic Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2662574,
+        "known_for_department": "Editing",
+        "name": "Tamara Zubrova",
+        "original_name": "Тамара Зуброва",
+        "popularity": 0.0963,
+        "profile_path": null,
+        "credit_id": "6869502caecb6dd476cedd02",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1467389,
+        "known_for_department": "Writing",
+        "name": "Anatoliy Stepanov",
+        "original_name": "Анатолий Степанов",
+        "popularity": 0.1804,
+        "profile_path": null,
+        "credit_id": "686950d1bba85b5ba453f530",
+        "department": "Writing",
+        "job": "Script Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5545746,
+        "known_for_department": "Writing",
+        "name": "N. Matveyev",
+        "original_name": "Н. Матвеев",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "6869512e62e78c9e6c9a3c26",
+        "department": "Writing",
+        "job": "Script Consultant"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2816689,
+        "known_for_department": "Production",
+        "name": "Vitaly Krivonoshchenko",
+        "original_name": "Виталий Кривонощенко",
+        "popularity": 0.0306,
+        "profile_path": null,
+        "credit_id": "68a6746492c3981df55dd700",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 225721,
+        "known_for_department": "Art",
+        "name": "Georgi Kropachyov",
+        "original_name": "Георгий Кропачёв",
+        "popularity": 0.1547,
+        "profile_path": "/hTNIBByHGbIMTzmH8XJlHw0cjXv.jpg",
+        "credit_id": "68ac1e4bd81b421192a9a4df",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 225722,
+        "known_for_department": "Directing",
+        "name": "Konstantin Ershov",
+        "original_name": "Константин Ершов",
+        "popularity": 0.2626,
+        "profile_path": "/aaVNhCDrpMADOnAnMJ9ryrRLGqn.jpg",
+        "credit_id": "68ac1e606633cf72d578206f",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1625945,
+        "known_for_department": "Sound",
+        "name": "Irina Stulova",
+        "original_name": "Ирина Стулова",
+        "popularity": 0.0306,
+        "profile_path": null,
+        "credit_id": "68b14c6637889b8c571f165e",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1584713,
+        "known_for_department": "Sound",
+        "name": "Yevgeni Kashkevich",
+        "original_name": "Евгений Кашкевич",
+        "popularity": 0.0779,
+        "profile_path": null,
+        "credit_id": "68b14c747472e817f654d5a1",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3456128,
+        "known_for_department": "Costume & Make-Up",
+        "name": "B. Yegorov",
+        "original_name": "Б. Егоров",
+        "popularity": 0.0626,
+        "profile_path": null,
+        "credit_id": "68b14cadbbc812af9eb4e61e",
+        "department": "Costume & Make-Up",
+        "job": "Key Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2862067,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Zinaida Yegorova",
+        "original_name": "Зинаида Егорова",
+        "popularity": 0.0511,
+        "profile_path": null,
+        "credit_id": "68b14cb743ce751fe51b8564",
+        "department": "Costume & Make-Up",
+        "job": "Key Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2180553,
+        "known_for_department": "Visual Effects",
+        "name": "Boris Travkin",
+        "original_name": "Борис Травкин",
+        "popularity": 0.0561,
+        "profile_path": null,
+        "credit_id": "68b14cd825c63268991b853b",
+        "department": "Visual Effects",
+        "job": "Visual Effects Camera"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5545742,
+        "known_for_department": "Art",
+        "name": "V. Smirnov",
+        "original_name": "В. Смирнов",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "68b14ceddf709254b09e0f1c",
+        "department": "Visual Effects",
+        "job": "Visual Effects Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2604646,
+        "known_for_department": "Visual Effects",
+        "name": "Nikolay Zvonaryov",
+        "original_name": "Николай Звонарёв",
+        "popularity": 0.078,
+        "profile_path": null,
+        "credit_id": "68b14d0502be9ac67f396db1",
+        "department": "Visual Effects",
+        "job": "Visual Effects Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 225723,
+        "known_for_department": "Directing",
+        "name": "Aleksandr Ptushko",
+        "original_name": "Александр Птушко",
+        "popularity": 0.3741,
+        "profile_path": "/wtH0n1wiBvQliSSgsLOyRBCzgMS.jpg",
+        "credit_id": "68b14d307c5bec6e009e0f16",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 225723,
+        "known_for_department": "Directing",
+        "name": "Aleksandr Ptushko",
+        "original_name": "Александр Птушко",
+        "popularity": 0.3741,
+        "profile_path": "/wtH0n1wiBvQliSSgsLOyRBCzgMS.jpg",
+        "credit_id": "68b14d3ba988d733b154d760",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "GR",
+        "title": "Simadiako oneiro",
+        "type": "transliterated ISO-LATIN-1 title"
+      },
+      {
+        "iso_3166_1": "FI",
+        "title": "Velho",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "SE",
+        "title": "Vij eller Prästseminariets likvaka",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "SE",
+        "title": "Viy - ondskans ande",
+        "type": "DVD Title"
+      },
+      {
+        "iso_3166_1": "US",
+        "title": "Viy or Spirit of Evil",
+        "type": "DVD Title"
+      },
+      {
+        "iso_3166_1": "FR",
+        "title": "Viy ou le Diable",
+        "type": "DVD Title"
+      },
+      {
+        "iso_3166_1": "AR",
+        "title": "Viy, espíritu del mal",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "PL",
+        "title": "Wij",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "JP",
+        "title": "Yôba - Shikan no noroi",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "GB",
+        "title": "Viy, King of the Ghosts",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "NL",
+        "title": "Viy or Spirit of Evil",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "RU",
+        "title": "Вий",
+        "type": "Original russian"
+      },
+      {
+        "iso_3166_1": "US",
+        "title": "The Spirit of Evil",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "FR",
+        "title": "Vij ou Le Diable",
+        "type": "BD cover"
+      },
+      {
+        "iso_3166_1": "FR",
+        "title": "Le Diable",
+        "type": "Alternative title (DVD/BD)"
+      }
+    ]
+  }
+}

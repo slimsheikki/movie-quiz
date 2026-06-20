@@ -1,0 +1,715 @@
+{
+  "adult": false,
+  "backdrop_path": "/1Z08RUb16Yz091IpzIUTM2s0P7U.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.cinematograph.se/play.html",
+  "id": 29454,
+  "imdb_id": "tt0074147",
+  "origin_country": [
+    "SE"
+  ],
+  "original_language": "sv",
+  "original_title": "Ansikte mot ansikte",
+  "overview": "A psychiatrist temporarily separated from her family begins to experience severe psychological distress while working at a mental hospital and returning to her childhood home. As her professional responsibilities and personal relationships intersect, she undergoes a breakdown that forces her to confront long-suppressed memories and fears.  (Note: This entry refers to the 1976 theatrical feature film (approximately 135 minutes), created by condensing and re-editing the four-part Swedish television miniseries originally produced the same year.)",
+  "popularity": 0.9483,
+  "poster_path": "/ulh7ILYfvSZExCXENEhySvuZLLl.jpg",
+  "production_companies": [
+    {
+      "id": 1216,
+      "logo_path": null,
+      "name": "DDL Cinematografica",
+      "origin_country": "IT"
+    },
+    {
+      "id": 7445,
+      "logo_path": null,
+      "name": "Cinematograph AB",
+      "origin_country": "SE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    },
+    {
+      "iso_3166_1": "SE",
+      "name": "Sweden"
+    }
+  ],
+  "release_date": "1976-04-05",
+  "revenue": 0,
+  "runtime": 114,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    }
+  ],
+  "status": "Released",
+  "tagline": "A woman's most intimate encounter with the one person she didn't know. Herself.",
+  "title": "Face to Face",
+  "video": false,
+  "vote_average": 7.216,
+  "vote_count": 139,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 11916,
+        "known_for_department": "Acting",
+        "name": "Liv Ullmann",
+        "original_name": "Liv Ullmann",
+        "popularity": 1.501,
+        "profile_path": "/7IJimLbXIOYpLAS4UaHcNYWRsJe.jpg",
+        "cast_id": 3,
+        "character": "Dr. Jenny Isaksson",
+        "credit_id": "52fe45e1c3a368484e0742cb",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 38127,
+        "known_for_department": "Acting",
+        "name": "Erland Josephson",
+        "original_name": "Erland Josephson",
+        "popularity": 0.7385,
+        "profile_path": "/dopG1nAzyT23DMAPyPoUuwbZs4a.jpg",
+        "cast_id": 4,
+        "character": "Dr. Tomas Jacobi",
+        "credit_id": "52fe45e1c3a368484e0742cf",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 48575,
+        "known_for_department": "Acting",
+        "name": "Aino Taube",
+        "original_name": "Aino Taube",
+        "popularity": 0.2739,
+        "profile_path": "/bEjAsxRypkJdjwDbgWUqAu3QQX8.jpg",
+        "cast_id": 5,
+        "character": "Jenny's Grandmother",
+        "credit_id": "52fe45e1c3a368484e0742d3",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6649,
+        "known_for_department": "Acting",
+        "name": "Gunnar Björnstrand",
+        "original_name": "Gunnar Björnstrand",
+        "popularity": 0.4621,
+        "profile_path": "/vy5Y0c1ACGCI6d4rVjmTM6HOqNN.jpg",
+        "cast_id": 6,
+        "character": "Jenny's Grandfather",
+        "credit_id": "52fe45e1c3a368484e0742d7",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 231927,
+        "known_for_department": "Acting",
+        "name": "Kristina Adolphson",
+        "original_name": "Kristina Adolphson",
+        "popularity": 0.1578,
+        "profile_path": "/mmEjKI41WmeSUaIEJvsBjt8jJZv.jpg",
+        "cast_id": 30,
+        "character": "Nurse Veronica",
+        "credit_id": "624ddcf1902012005107aaa6",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 73596,
+        "known_for_department": "Acting",
+        "name": "Marianne Aminoff",
+        "original_name": "Marianne Aminoff",
+        "popularity": 0.2093,
+        "profile_path": "/54hqZA9kzLcHACJrD3UysAB8GBL.jpg",
+        "cast_id": 31,
+        "character": "Jenny's Mother",
+        "credit_id": "624ddd6a9638640066776b0b",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 66790,
+        "known_for_department": "Acting",
+        "name": "Gösta Ekman",
+        "original_name": "Gösta Ekman",
+        "popularity": 0.5418,
+        "profile_path": "/sAeA8oLDwTFthVDzKjnlvkZlz0k.jpg",
+        "cast_id": 8,
+        "character": "Mikael Strömberg",
+        "credit_id": "52fe45e1c3a368484e0742df",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1208809,
+        "known_for_department": "Acting",
+        "name": "Helene Friberg",
+        "original_name": "Helene Friberg",
+        "popularity": 0.1626,
+        "profile_path": null,
+        "cast_id": 12,
+        "character": "Anna Isaksson",
+        "credit_id": "52fe45e1c3a368484e0742ef",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 131579,
+        "known_for_department": "Acting",
+        "name": "Ulf Johansson",
+        "original_name": "Ulf Johansson",
+        "popularity": 0.2539,
+        "profile_path": "/oBiRcRihJM8bqeK35BBP9oSp6jk.jpg",
+        "cast_id": 28,
+        "character": "Helmuth Wankel",
+        "credit_id": "5bb32350c3a3681e23006f51",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 550141,
+        "known_for_department": "Acting",
+        "name": "Sven Lindberg",
+        "original_name": "Sven Lindberg",
+        "popularity": 0.1885,
+        "profile_path": "/audDToo2FmfiDxm23YEhFhUASmy.jpg",
+        "cast_id": 33,
+        "character": "Erik Isaksson",
+        "credit_id": "624dde176f43ec0050c4b97d",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 141562,
+        "known_for_department": "Acting",
+        "name": "Jan-Erik Lindqvist",
+        "original_name": "Jan-Erik Lindqvist",
+        "popularity": 0.1165,
+        "profile_path": "/tseAFJI6UE8iZXhfeMAzPEZeMZb.jpg",
+        "cast_id": 32,
+        "character": "Jenny's Father",
+        "credit_id": "624ddd7d43999b009d034ed0",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 69656,
+        "known_for_department": "Acting",
+        "name": "Birger Malmsten",
+        "original_name": "Birger Malmsten",
+        "popularity": 0.1982,
+        "profile_path": "/gmkotgEbeYaxWDZqZMVFNh64UO.jpg",
+        "cast_id": 9,
+        "character": "Older Rapist",
+        "credit_id": "52fe45e1c3a368484e0742e3",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 123464,
+        "known_for_department": "Acting",
+        "name": "Sif Ruud",
+        "original_name": "Sif Ruud",
+        "popularity": 0.2422,
+        "profile_path": "/dLMGLGknMTXTGSQSoKasnT7cgmG.jpg",
+        "cast_id": 7,
+        "character": "Elisabeth Wankel",
+        "credit_id": "52fe45e1c3a368484e0742db",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 567106,
+        "known_for_department": "Acting",
+        "name": "Göran Stangertz",
+        "original_name": "Göran Stangertz",
+        "popularity": 0.243,
+        "profile_path": "/yy6qI8FbA8SjQtxZP4OskG0DY88.jpg",
+        "cast_id": 10,
+        "character": "Younger Rapist",
+        "credit_id": "52fe45e1c3a368484e0742e7",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 589357,
+        "known_for_department": "Acting",
+        "name": "Mona Andersson",
+        "original_name": "Mona Andersson",
+        "popularity": 0.428,
+        "profile_path": "/9d8T7ldThteQ4W8xki6Kurv9MVm.jpg",
+        "cast_id": 22,
+        "character": "Patient (uncredited)",
+        "credit_id": "5aed172a0e0a2635a9003948",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 233215,
+        "known_for_department": "Directing",
+        "name": "Daniel Bergman",
+        "original_name": "Daniel Bergman",
+        "popularity": 0.1408,
+        "profile_path": "/k55Da2RxgsYoxsduK7qib2KpFwN.jpg",
+        "cast_id": 25,
+        "character": "Boy at Concert (uncredited)",
+        "credit_id": "5b97b0cf0e0a26727200b7f4",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1194386,
+        "known_for_department": "Crew",
+        "name": "Donya Feuer",
+        "original_name": "Donya Feuer",
+        "popularity": 0.0575,
+        "profile_path": null,
+        "cast_id": 26,
+        "character": "Patient (uncredited)",
+        "credit_id": "5b97b0e59251411fd600add0",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1316759,
+        "known_for_department": "Acting",
+        "name": "Käbi Laretei",
+        "original_name": "Käbi Laretei",
+        "popularity": 0.145,
+        "profile_path": "/9KTBlrRRDsrwpDwd2J6i4XOAfAS.jpg",
+        "cast_id": 24,
+        "character": "The Concert Pianist (uncredited)",
+        "credit_id": "5b97b0bbc3a368366e00be6a",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5313,
+        "known_for_department": "Acting",
+        "name": "Lena Olin",
+        "original_name": "Lena Olin",
+        "popularity": 2.0882,
+        "profile_path": "/tUg7cH4qLqs5WdOIH0WMQby9kWH.jpg",
+        "cast_id": 13,
+        "character": "Shop Assistant (uncredited)",
+        "credit_id": "59cbd6679251412bed0139af",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 116555,
+        "known_for_department": "Acting",
+        "name": "Rebecca Pawlo",
+        "original_name": "Rebecca Pawlo",
+        "popularity": 0.0942,
+        "profile_path": null,
+        "cast_id": 27,
+        "character": "Shop Assistant (uncredited)",
+        "credit_id": "5b97b1019251411fcc00ac73",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1105511,
+        "known_for_department": "Acting",
+        "name": "Margareta Pettersson",
+        "original_name": "Margareta Pettersson",
+        "popularity": 0.1483,
+        "profile_path": "/sBKxgUOClXhRIbneykX8mXLEi4K.jpg",
+        "cast_id": 38,
+        "character": "Girlfriend (uncredited)",
+        "credit_id": "63c827a9c5c1ef008ae4a538",
+        "order": 20
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1267232,
+        "known_for_department": "Acting",
+        "name": "Tore Segelcke",
+        "original_name": "Tore Segelcke",
+        "popularity": 0.0798,
+        "profile_path": "/j5Www0m238vpmBe8wScCZ2demNC.jpg",
+        "cast_id": 23,
+        "character": "The Woman (uncredited)",
+        "credit_id": "5b97b075c3a368367a00ac55",
+        "order": 21
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 67521,
+        "known_for_department": "Acting",
+        "name": "Kari Sylwan",
+        "original_name": "Kari Sylwan",
+        "popularity": 0.2647,
+        "profile_path": "/dsm1G7mk86VMqKJiOchcokcncDk.jpg",
+        "cast_id": 11,
+        "character": "Maria Jacobi (uncredited)",
+        "credit_id": "52fe45e1c3a368484e0742eb",
+        "order": 22
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6648,
+        "known_for_department": "Directing",
+        "name": "Ingmar Bergman",
+        "original_name": "Ingmar Bergman",
+        "popularity": 1.433,
+        "profile_path": "/nkmOaXNRoioViN9OQf2n9Iu6akA.jpg",
+        "credit_id": "52fe45e1c3a368484e0742c1",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6648,
+        "known_for_department": "Directing",
+        "name": "Ingmar Bergman",
+        "original_name": "Ingmar Bergman",
+        "popularity": 1.433,
+        "profile_path": "/nkmOaXNRoioViN9OQf2n9Iu6akA.jpg",
+        "credit_id": "52fe45e1c3a368484e0742c7",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5983,
+        "known_for_department": "Production",
+        "name": "Katinka Faragó",
+        "original_name": "Katinka Faragó",
+        "popularity": 0.1715,
+        "profile_path": "/d44H5s71h7sR4aJJb7aCJlGV4Jq.jpg",
+        "credit_id": "624e085376eecf009e5e8653",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1316759,
+        "known_for_department": "Acting",
+        "name": "Käbi Laretei",
+        "original_name": "Käbi Laretei",
+        "popularity": 0.145,
+        "profile_path": "/9KTBlrRRDsrwpDwd2J6i4XOAfAS.jpg",
+        "credit_id": "624e0ed5ae26be0050e21c82",
+        "department": "Sound",
+        "job": "Musician"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5996,
+        "known_for_department": "Art",
+        "name": "Anna Asp",
+        "original_name": "Anna Asp",
+        "popularity": 0.1552,
+        "profile_path": "/te1STyfTHzLLba9vS8T8lmoo7LB.jpg",
+        "credit_id": "624e0f91ae26be006606e47a",
+        "department": "Art",
+        "job": "Property Master"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2169636,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Maggie Strindberg",
+        "original_name": "Maggie Strindberg",
+        "popularity": 0.0707,
+        "profile_path": null,
+        "credit_id": "60bcd0640bc529006f23f49e",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1332141,
+        "known_for_department": "Sound",
+        "name": "Owe Svensson",
+        "original_name": "Owe Svensson",
+        "popularity": 0.0672,
+        "profile_path": "/neULjCUlVnHv6roP5crOQdvDNHJ.jpg",
+        "credit_id": "63c827ed70b44400c8beb1c1",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1152382,
+        "known_for_department": "Camera",
+        "name": "Arne Carlsson",
+        "original_name": "Arne Carlsson",
+        "popularity": 0.0908,
+        "profile_path": null,
+        "credit_id": "63c827f6142ef1007d87028e",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3879680,
+        "known_for_department": "Camera",
+        "name": "Bengt Franzen",
+        "original_name": "Bengt Franzen",
+        "popularity": 0.0239,
+        "profile_path": null,
+        "credit_id": "63c827ff70b44400e95a3b5d",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1264304,
+        "known_for_department": "Camera",
+        "name": "Lars Karlsson",
+        "original_name": "Lars Karlsson",
+        "popularity": 0.1011,
+        "profile_path": null,
+        "credit_id": "63c8280870b4440094a4f9d5",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1525791,
+        "known_for_department": "Directing",
+        "name": "Kerstin Eriksdotter",
+        "original_name": "Kerstin Eriksdotter",
+        "popularity": 0.1084,
+        "profile_path": null,
+        "credit_id": "63c8282e7a97ab007b62a1f8",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5398,
+        "known_for_department": "Production",
+        "name": "Dino De Laurentiis",
+        "original_name": "Dino De Laurentiis",
+        "popularity": 0.5787,
+        "profile_path": "/AemWmlAEoezGnyJTVP0DYfc0Fmu.jpg",
+        "credit_id": "59cbd674c3a368779701547f",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 11909,
+        "known_for_department": "Production",
+        "name": "Lars-Owe Carlberg",
+        "original_name": "Lars-Owe Carlberg",
+        "popularity": 0.1694,
+        "profile_path": null,
+        "credit_id": "59cbd67f9251412b8f014733",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 11905,
+        "known_for_department": "Camera",
+        "name": "Sven Nykvist",
+        "original_name": "Sven Nykvist",
+        "popularity": 0.4381,
+        "profile_path": "/qs8gCA7aTXPfKkGiPdQAqposl5o.jpg",
+        "credit_id": "59cbd68b9251412b8b014df4",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 67522,
+        "known_for_department": "Editing",
+        "name": "Siv Lundgren",
+        "original_name": "Siv Lundgren",
+        "popularity": 0.076,
+        "profile_path": null,
+        "credit_id": "59cbd6969251412b9801422d",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1714394,
+        "known_for_department": "Art",
+        "name": "Anne Hagegård",
+        "original_name": "Anne Hagegård",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "59cbd6a19251412bd9013b94",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 928021,
+        "known_for_department": "Production",
+        "name": "Peter Kropénin",
+        "original_name": "Peter Kropénin",
+        "popularity": 0.0418,
+        "profile_path": null,
+        "credit_id": "59cbd6ac9251412bb3013a5e",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1540074,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Cecilia Drott",
+        "original_name": "Cecilia Drott",
+        "popularity": 0.083,
+        "profile_path": null,
+        "credit_id": "59cbd6b8c3a368776e014a57",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "RU",
+        "title": "Лицом к лицу",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "ES",
+        "title": "Cara a cara al desnudo",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "TR",
+        "title": "Yüz Yüze",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "NO",
+        "title": "Ansikt til ansikt",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "DE",
+        "title": "Von Angesicht zu Angesicht",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "RO",
+        "title": "Față în față",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "KR",
+        "title": "고독한 여심",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "PL",
+        "title": "Twarzą w twarz",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "MX",
+        "title": "Cara a cara",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "JP",
+        "title": "鏡の中の女",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "IT",
+        "title": "L'immagine allo specchio",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "GR",
+        "title": "Πρόσωπο με Πρόσωπο",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "FR",
+        "title": "Face à face",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "DK",
+        "title": "Ansigt til ansigt",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "PT",
+        "title": "Face a Face",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "GB",
+        "title": "Face to face",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "AZ",
+        "title": "Üz Üzə",
+        "type": ""
+      }
+    ]
+  }
+}

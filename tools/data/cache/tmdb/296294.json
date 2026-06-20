@@ -1,0 +1,148 @@
+{
+  "adult": false,
+  "backdrop_path": "/yCE8XF41KGALs5y5g8ypuxw1VaR.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "",
+  "id": 296294,
+  "imdb_id": "tt3030920",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Wormwood Star",
+  "overview": "A portrait of artist, actress, poet and occultist Marjorie Cameron, it shows images of her paintings and recitations of her poems.  Preserved by the Academy Film Archive in 2006.",
+  "popularity": 0.1654,
+  "poster_path": "/6Q3lEkW9WKVVbou16U8Qsw1qA8g.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1956-01-01",
+  "revenue": 0,
+  "runtime": 10,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Wormwood Star",
+  "video": false,
+  "vote_average": 6.4,
+  "vote_count": 7,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 121366,
+        "known_for_department": "Acting",
+        "name": "Marjorie Cameron",
+        "original_name": "Marjorie Cameron",
+        "popularity": 0.1275,
+        "profile_path": "/lfCkH80nWXqHLHskNxdwt1yQtOV.jpg",
+        "cast_id": 1,
+        "character": "The Woman",
+        "credit_id": "54ac0f1a9251414d67008fce",
+        "order": 0
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 44725,
+        "known_for_department": "Directing",
+        "name": "Curtis Harrington",
+        "original_name": "Curtis Harrington",
+        "popularity": 0.3681,
+        "profile_path": "/3my60VLWbu47jMRyVGTfg6QcoK1.jpg",
+        "credit_id": "60d9f118d11e0e00470317fb",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 44725,
+        "known_for_department": "Directing",
+        "name": "Curtis Harrington",
+        "original_name": "Curtis Harrington",
+        "popularity": 0.3681,
+        "profile_path": "/3my60VLWbu47jMRyVGTfg6QcoK1.jpg",
+        "credit_id": "60d9f126cc277c0080de0b59",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 121340,
+        "known_for_department": "Art",
+        "name": "Paul Mathison",
+        "original_name": "Paul Mathison",
+        "popularity": 0.1212,
+        "profile_path": null,
+        "credit_id": "60d9f1480ff15a0030b74098",
+        "department": "Art",
+        "job": "Art Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 44725,
+        "known_for_department": "Directing",
+        "name": "Curtis Harrington",
+        "original_name": "Curtis Harrington",
+        "popularity": 0.3681,
+        "profile_path": "/3my60VLWbu47jMRyVGTfg6QcoK1.jpg",
+        "credit_id": "54ac0efd92514155f2003f9f",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1522458,
+        "known_for_department": "Sound",
+        "name": "Leona Wood",
+        "original_name": "Leona Wood",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "561e8805c3a3680e240000e4",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1522457,
+        "known_for_department": "Sound",
+        "name": "Philip Harland",
+        "original_name": "Philip Harland",
+        "popularity": 0.0398,
+        "profile_path": null,
+        "credit_id": "561e87fa92514171d40000c4",
+        "department": "Sound",
+        "job": "Music"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  }
+}

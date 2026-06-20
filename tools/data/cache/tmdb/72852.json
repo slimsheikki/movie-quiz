@@ -1,0 +1,243 @@
+{
+  "adult": false,
+  "backdrop_path": "/htzZCK8c6DEkR1QyM0fiBTkhapx.jpg",
+  "belongs_to_collection": null,
+  "budget": 4600000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "http://www.tadrart.com/tessalit/hadewijch/hadewijch_gb.html",
+  "id": 72852,
+  "imdb_id": "tt1257562",
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "Hadewijch",
+  "overview": "A troubled young woman is thrown out of a convent and forms a relationship with a radical Muslim.",
+  "popularity": 0.1996,
+  "poster_path": "/mACiJ0Gsq4BxEzNWD2xCy7eBeJZ.jpg",
+  "production_companies": [
+    {
+      "id": 94,
+      "logo_path": "/huC7HqorvUThGIrENrbcHmQVUA0.png",
+      "name": "ARTE France Cinéma",
+      "origin_country": "FR"
+    },
+    {
+      "id": 5609,
+      "logo_path": null,
+      "name": "3B Productions",
+      "origin_country": "FR"
+    },
+    {
+      "id": 75242,
+      "logo_path": "/hrZzmOGhzhv473sIInHtSNwQOhT.png",
+      "name": "Pictanovo",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "2009-11-25",
+  "revenue": 5006,
+  "runtime": 105,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    },
+    {
+      "english_name": "Arabic",
+      "iso_639_1": "ar",
+      "name": "العربية"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Hadewijch",
+  "video": false,
+  "vote_average": 6.4,
+  "vote_count": 66,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 567284,
+        "known_for_department": "Acting",
+        "name": "Julie Sokolowski",
+        "original_name": "Julie Sokolowski",
+        "popularity": 0.188,
+        "profile_path": "/zoDVNbTVeZlkfXeur2XbobNRL1a.jpg",
+        "cast_id": 2,
+        "character": "Céline vel Hadewijch",
+        "credit_id": "52fe4881c3a368484e0fc11d",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 567285,
+        "known_for_department": "Acting",
+        "name": "Yassine Salime",
+        "original_name": "Yassine Salime",
+        "popularity": 0,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "Yassine Chikh",
+        "credit_id": "52fe4881c3a368484e0fc121",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 567286,
+        "known_for_department": "Acting",
+        "name": "Karl Sarafidis",
+        "original_name": "Karl Sarafidis",
+        "popularity": 0.0168,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "Nassir Chikh",
+        "credit_id": "52fe4881c3a368484e0fc125",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 567287,
+        "known_for_department": "Acting",
+        "name": "David Dewaele",
+        "original_name": "David Dewaele",
+        "popularity": 0.0368,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "David",
+        "credit_id": "52fe4881c3a368484e0fc129",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1639991,
+        "known_for_department": "Acting",
+        "name": "Brigitte Mayeux-Clerget",
+        "original_name": "Brigitte Mayeux-Clerget",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 7,
+        "character": "La mère supérieure",
+        "credit_id": "576b1e6492514134ed0009a5",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1639992,
+        "known_for_department": "Acting",
+        "name": "Michelle Ardenne",
+        "original_name": "Michelle Ardenne",
+        "popularity": 0.0536,
+        "profile_path": null,
+        "cast_id": 8,
+        "character": "La prieure",
+        "credit_id": "576b1edcc3a3687e50000b02",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1639994,
+        "known_for_department": "Acting",
+        "name": "Sabrina Lechêne",
+        "original_name": "Sabrina Lechêne",
+        "popularity": 0.0357,
+        "profile_path": null,
+        "cast_id": 9,
+        "character": "La novice",
+        "credit_id": "576b1f3a92514148e700045b",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1639996,
+        "known_for_department": "Acting",
+        "name": "Marie Castelain",
+        "original_name": "Marie Castelain",
+        "popularity": 0,
+        "profile_path": null,
+        "cast_id": 10,
+        "character": "La mère de Céline",
+        "credit_id": "576b1fadc3a3687e50000b64",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1639997,
+        "known_for_department": "Acting",
+        "name": "Luc-François Bouyssonie",
+        "original_name": "Luc-François Bouyssonie",
+        "popularity": 0,
+        "profile_path": null,
+        "cast_id": 11,
+        "character": "Le père de Céline",
+        "credit_id": "576b200fc3a3687f5b0008e4",
+        "order": 8
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 95901,
+        "known_for_department": "Directing",
+        "name": "Bruno Dumont",
+        "original_name": "Bruno Dumont",
+        "popularity": 0.1747,
+        "profile_path": "/gvtqHphhlZog9ODTapxAqBrEaBK.jpg",
+        "credit_id": "52fe4881c3a368484e0fc119",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 95901,
+        "known_for_department": "Directing",
+        "name": "Bruno Dumont",
+        "original_name": "Bruno Dumont",
+        "popularity": 0.1747,
+        "profile_path": "/gvtqHphhlZog9ODTapxAqBrEaBK.jpg",
+        "credit_id": "567a592dc3a3685bbf001852",
+        "department": "Writing",
+        "job": "Writer"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "AR",
+        "title": "Etre la fe y la pasión",
+        "type": "Spanish (IMDB)"
+      },
+      {
+        "iso_3166_1": "BR",
+        "title": "O Pecado de Hadewijch",
+        "type": "Portuguese"
+      }
+    ]
+  }
+}

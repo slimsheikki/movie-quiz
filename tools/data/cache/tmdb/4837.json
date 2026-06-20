@@ -1,0 +1,591 @@
+{
+  "adult": false,
+  "backdrop_path": "/lEamKAOMyENqc97bEuwLFMvie8x.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 4837,
+  "imdb_id": "tt0061495",
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "La Collectionneuse",
+  "overview": "A bombastic, womanizing art dealer and his painter friend go to a seventeenth-century villa on the Riviera for a relaxing summer getaway. But their idyll is disturbed by the presence of the bohemian Haydée, accused of being a “collector” of men.",
+  "popularity": 1.0249,
+  "poster_path": "/rMVluFrpfeCtcCUtDkjklbBirry.jpg",
+  "production_companies": [
+    {
+      "id": 109,
+      "logo_path": null,
+      "name": "Rome-Paris Films",
+      "origin_country": "FR"
+    },
+    {
+      "id": 223,
+      "logo_path": "/pdthRbCuXNlrGNwnmLFRxv5Zy3t.png",
+      "name": "Les Films du Losange",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "1967-03-02",
+  "revenue": 0,
+  "runtime": 86,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "La Collectionneuse",
+  "video": false,
+  "vote_average": 6.9,
+  "vote_count": 268,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5274,
+        "known_for_department": "Acting",
+        "name": "Patrick Bauchau",
+        "original_name": "Patrick Bauchau",
+        "popularity": 0.9525,
+        "profile_path": "/kdrFAJJFdfQaYUETTHQw77gim9O.jpg",
+        "cast_id": 1,
+        "character": "Adrien",
+        "credit_id": "52fe43ddc3a36847f8074fab",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 39672,
+        "known_for_department": "Acting",
+        "name": "Haydée Politoff",
+        "original_name": "Haydée Politoff",
+        "popularity": 0.2448,
+        "profile_path": "/3uQNglPAwaR57e99TXAvP19zg4F.jpg",
+        "cast_id": 2,
+        "character": "Haydée",
+        "credit_id": "52fe43ddc3a36847f8074faf",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 39673,
+        "known_for_department": "Acting",
+        "name": "Daniel Pommereulle",
+        "original_name": "Daniel Pommereulle",
+        "popularity": 0.1057,
+        "profile_path": "/bpoGURGpkhWOqP982wFWkJrnMZM.jpg",
+        "cast_id": 3,
+        "character": "Daniel",
+        "credit_id": "52fe43ddc3a36847f8074fb3",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 39674,
+        "known_for_department": "Acting",
+        "name": "Alain Jouffroy",
+        "original_name": "Alain Jouffroy",
+        "popularity": 0.2026,
+        "profile_path": "/rbnXhRAnVZGa73WPCCka0YSQDDC.jpg",
+        "cast_id": 4,
+        "character": "Writer",
+        "credit_id": "52fe43ddc3a36847f8074fb7",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 39675,
+        "known_for_department": "Acting",
+        "name": "Mijanou Bardot",
+        "original_name": "Mijanou Bardot",
+        "popularity": 0.3176,
+        "profile_path": "/um0y21qKmBbd63P6eTqalwvxWRj.jpg",
+        "cast_id": 5,
+        "character": "Carole",
+        "credit_id": "52fe43ddc3a36847f8074fbb",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 39676,
+        "known_for_department": "Acting",
+        "name": "Annik Morice",
+        "original_name": "Annik Morice",
+        "popularity": 0.0542,
+        "profile_path": null,
+        "cast_id": 6,
+        "character": "Carole's Friend",
+        "credit_id": "52fe43ddc3a36847f8074fbf",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 39677,
+        "known_for_department": "Directing",
+        "name": "Dennis Berry",
+        "original_name": "Dennis Berry",
+        "popularity": 0.4393,
+        "profile_path": "/cmfVM2u3JyLipIH1Mpl99poeHP5.jpg",
+        "cast_id": 7,
+        "character": "Charlie",
+        "credit_id": "52fe43ddc3a36847f8074fc3",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1372849,
+        "known_for_department": "Acting",
+        "name": "Seymour Hertzberg",
+        "original_name": "Seymour Hertzberg",
+        "popularity": 0.0357,
+        "profile_path": null,
+        "cast_id": 12,
+        "character": "Sam",
+        "credit_id": "5438a91ac3a36811e8000a83",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3569,
+        "known_for_department": "Camera",
+        "name": "Néstor Almendros",
+        "original_name": "Néstor Almendros",
+        "popularity": 0.2296,
+        "profile_path": "/5ECtx9BgjULaZhOHu5DHpzdhJod.jpg",
+        "cast_id": 13,
+        "character": "",
+        "credit_id": "5438ac990e0a266f3f000ab7",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1372854,
+        "known_for_department": "Directing",
+        "name": "Patrice de Bailliencourt",
+        "original_name": "Patrice de Bailliencourt",
+        "popularity": 0.0453,
+        "profile_path": null,
+        "cast_id": 14,
+        "character": "Man in the Car",
+        "credit_id": "5438ad55c3a3680f6c000b59",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1372855,
+        "known_for_department": "Sound",
+        "name": "László Benkö",
+        "original_name": "László Benkö",
+        "popularity": 0.0585,
+        "profile_path": null,
+        "cast_id": 15,
+        "character": "",
+        "credit_id": "5438b0260e0a2617c100415a",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1372857,
+        "known_for_department": "Acting",
+        "name": "Anne Dubot",
+        "original_name": "Anne Dubot",
+        "popularity": 0.1207,
+        "profile_path": null,
+        "cast_id": 16,
+        "character": "",
+        "credit_id": "5438b5acc3a3680f6c000cbf",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1160008,
+        "known_for_department": "Directing",
+        "name": "Jackie Raynal",
+        "original_name": "Jackie Raynal",
+        "popularity": 0.1356,
+        "profile_path": "/ejNm5oRLHIUguZlZcbosHa5FtMb.jpg",
+        "cast_id": 28,
+        "character": "",
+        "credit_id": "5a5afa890e0a265767016690",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2193699,
+        "known_for_department": "Writing",
+        "name": "Eugene Archer",
+        "original_name": "Eugene Archer",
+        "popularity": 0.0464,
+        "profile_path": null,
+        "cast_id": 29,
+        "character": "Sam (uncredited)",
+        "credit_id": "60097e712495ab003f08ca57",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2945955,
+        "known_for_department": "Acting",
+        "name": "Brian Belshaw",
+        "original_name": "Brian Belshaw",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 30,
+        "character": "Haydée's Boyfriend (uncredited)",
+        "credit_id": "60097e982495ab003d08fbf4",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1385637,
+        "known_for_department": "Acting",
+        "name": "Pierre-Richard Bré",
+        "original_name": "Pierre-Richard Bré",
+        "popularity": 0.0641,
+        "profile_path": null,
+        "cast_id": 31,
+        "character": "Man in the Car (uncredited)",
+        "credit_id": "60097eaa7d5504003ebd7060",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 95462,
+        "known_for_department": "Writing",
+        "name": "Donald Cammell",
+        "original_name": "Donald Cammell",
+        "popularity": 0.16,
+        "profile_path": "/xIaAVsujonfsstCsYMXu9KCgbRg.jpg",
+        "cast_id": 32,
+        "character": "Boy in St-Tropez (uncredited)",
+        "credit_id": "60097ed1cb80280040fb4bd7",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1620067,
+        "known_for_department": "Production",
+        "name": "Alfred de Graff",
+        "original_name": "Alfred de Graff",
+        "popularity": 0.0797,
+        "profile_path": null,
+        "cast_id": 33,
+        "character": "Lost Tourist (uncredited)",
+        "credit_id": "60097f03d55c3d003f6adb69",
+        "order": 17
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 28615,
+        "known_for_department": "Directing",
+        "name": "Éric Rohmer",
+        "original_name": "Éric Rohmer",
+        "popularity": 0.7881,
+        "profile_path": "/2lOtFqAMOCvLvU7XeQdazm8t62C.jpg",
+        "credit_id": "52fe43ddc3a36847f8074fc9",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3569,
+        "known_for_department": "Camera",
+        "name": "Néstor Almendros",
+        "original_name": "Néstor Almendros",
+        "popularity": 0.2296,
+        "profile_path": "/5ECtx9BgjULaZhOHu5DHpzdhJod.jpg",
+        "credit_id": "52fe43ddc3a36847f8074fd5",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3779,
+        "known_for_department": "Production",
+        "name": "Georges de Beauregard",
+        "original_name": "Georges de Beauregard",
+        "popularity": 0.1475,
+        "profile_path": "/qxl1r2ZzQ3mp34sizMwAVljwTtv.jpg",
+        "credit_id": "52fe43ddc3a36847f8074fdb",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5274,
+        "known_for_department": "Acting",
+        "name": "Patrick Bauchau",
+        "original_name": "Patrick Bauchau",
+        "popularity": 0.9525,
+        "profile_path": "/kdrFAJJFdfQaYUETTHQw77gim9O.jpg",
+        "credit_id": "5737e137925141155f0023fe",
+        "department": "Writing",
+        "job": "Dialogue"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 39672,
+        "known_for_department": "Acting",
+        "name": "Haydée Politoff",
+        "original_name": "Haydée Politoff",
+        "popularity": 0.2448,
+        "profile_path": "/3uQNglPAwaR57e99TXAvP19zg4F.jpg",
+        "credit_id": "5737e13f9251417dd80018b9",
+        "department": "Writing",
+        "job": "Dialogue"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 39673,
+        "known_for_department": "Acting",
+        "name": "Daniel Pommereulle",
+        "original_name": "Daniel Pommereulle",
+        "popularity": 0.1057,
+        "profile_path": "/bpoGURGpkhWOqP982wFWkJrnMZM.jpg",
+        "credit_id": "5737e1469251417dd80018c0",
+        "department": "Writing",
+        "job": "Dialogue"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 28615,
+        "known_for_department": "Directing",
+        "name": "Éric Rohmer",
+        "original_name": "Éric Rohmer",
+        "popularity": 0.7881,
+        "profile_path": "/2lOtFqAMOCvLvU7XeQdazm8t62C.jpg",
+        "credit_id": "5737e14ec3a36823b40050d0",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 23393,
+        "known_for_department": "Directing",
+        "name": "Barbet Schroeder",
+        "original_name": "Barbet Schroeder",
+        "popularity": 0.5195,
+        "profile_path": "/w01XzkltJjm7BwqjXXFNrEj2vSd.jpg",
+        "credit_id": "5737e15ac3a3687e1a00601c",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1620067,
+        "known_for_department": "Production",
+        "name": "Alfred de Graff",
+        "original_name": "Alfred de Graff",
+        "popularity": 0.0797,
+        "profile_path": null,
+        "credit_id": "5737e162c3a3687e1a006021",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1620068,
+        "known_for_department": "Sound",
+        "name": "Blossom Toes",
+        "original_name": "Blossom Toes",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "5737e1719251417a60000838",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1620069,
+        "known_for_department": "Sound",
+        "name": "Giorgio Gomelsky",
+        "original_name": "Giorgio Gomelsky",
+        "popularity": 0.0777,
+        "profile_path": null,
+        "credit_id": "5737e178c3a36840ec0044ba",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1160008,
+        "known_for_department": "Directing",
+        "name": "Jackie Raynal",
+        "original_name": "Jackie Raynal",
+        "popularity": 0.1356,
+        "profile_path": "/ejNm5oRLHIUguZlZcbosHa5FtMb.jpg",
+        "credit_id": "5737e182c3a3682ae9001638",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1372855,
+        "known_for_department": "Sound",
+        "name": "László Benkö",
+        "original_name": "László Benkö",
+        "popularity": 0.0585,
+        "profile_path": null,
+        "credit_id": "5737e194c3a36823b40050f3",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1372854,
+        "known_for_department": "Directing",
+        "name": "Patrice de Bailliencourt",
+        "original_name": "Patrice de Bailliencourt",
+        "popularity": 0.0453,
+        "profile_path": null,
+        "credit_id": "5737e19c925141155f002420",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2948907,
+        "known_for_department": "Crew",
+        "name": "François Bogard",
+        "original_name": "François Bogard",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "600c6453813cb6003f7c307c",
+        "department": "Crew",
+        "job": "Technical Advisor"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "FR",
+        "title": "Six contes moraux IV: La Collectionneuse",
+        "type": "long title"
+      },
+      {
+        "iso_3166_1": "US",
+        "title": "Six Moral Tales IV: The Collector",
+        "type": "long title"
+      },
+      {
+        "iso_3166_1": "DK",
+        "title": "Nymfomanen",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "FI",
+        "title": "Keräilijätär",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "GR",
+        "title": "Άλμπουμ εραστών",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "HU",
+        "title": "A férfigyűjtő",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "JP",
+        "title": "コレクションする女",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "KR",
+        "title": "여성수집가",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "KR",
+        "title": "여성 수집가",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "CN",
+        "title": "收集男人的女人",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "US",
+        "title": "The Collector",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "NO",
+        "title": "Samlersken",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "VN",
+        "title": "Nhà Sưu Tầm",
+        "type": ""
+      }
+    ]
+  }
+}

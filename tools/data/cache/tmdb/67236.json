@@ -1,0 +1,499 @@
+{
+  "adult": false,
+  "backdrop_path": "/pU6ykikWNiiGnHjuCUKHmAUGNRa.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 67236,
+  "imdb_id": "tt0362246",
+  "origin_country": [
+    "CA",
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "Tiresia",
+  "overview": "Based on the legend of Tiresias, it tells of a transgender woman who is kidnapped by a man and left to die in the woods. She is then saved by a family and receives the gift of telling the future.",
+  "popularity": 0.2672,
+  "poster_path": "/wi4vY3Ri4cDlrL3kDHmV3S6xFIx.jpg",
+  "production_companies": [
+    {
+      "id": 726,
+      "logo_path": "/hHaQQgxqg2NohqZSxbMTB9E483m.png",
+      "name": "Haut et Court",
+      "origin_country": "FR"
+    },
+    {
+      "id": 94,
+      "logo_path": "/huC7HqorvUThGIrENrbcHmQVUA0.png",
+      "name": "ARTE France Cinéma",
+      "origin_country": "FR"
+    },
+    {
+      "id": 7029,
+      "logo_path": "/i49Jb3md21vxSOY3bBXRvCRXYKX.png",
+      "name": "micro_scope",
+      "origin_country": "CA"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    },
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "2003-05-20",
+  "revenue": 0,
+  "runtime": 115,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    },
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Tiresia",
+  "video": false,
+  "vote_average": 5.903,
+  "vote_count": 31,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 18178,
+        "known_for_department": "Acting",
+        "name": "Laurent Lucas",
+        "original_name": "Laurent Lucas",
+        "popularity": 0.4064,
+        "profile_path": "/dMb87uO627isT2BbCHEVbaiCL2g.jpg",
+        "cast_id": 4,
+        "character": "Terranova / Père François",
+        "credit_id": "52fe475dc3a368484e0c3185",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 548358,
+        "known_for_department": "Acting",
+        "name": "Clara Choveaux",
+        "original_name": "Clara Choveaux",
+        "popularity": 0.2598,
+        "profile_path": "/isP7hCRXQB4iqWrlbJUFz3I6fQE.jpg",
+        "cast_id": 5,
+        "character": "Tiresia I",
+        "credit_id": "52fe475dc3a368484e0c3189",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 146173,
+        "known_for_department": "Acting",
+        "name": "Thiago Telès",
+        "original_name": "Thiago Telès",
+        "popularity": 0,
+        "profile_path": null,
+        "cast_id": 6,
+        "character": "Tiresia II",
+        "credit_id": "52fe475dc3a368484e0c318d",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 548362,
+        "known_for_department": "Acting",
+        "name": "Célia Catalifo",
+        "original_name": "Célia Catalifo",
+        "popularity": 0.1485,
+        "profile_path": "/ezJgD4jtKXtDatT2PlNNmEL2CH8.jpg",
+        "cast_id": 7,
+        "character": "Anna",
+        "credit_id": "52fe475dc3a368484e0c3191",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 32827,
+        "known_for_department": "Acting",
+        "name": "Lou Castel",
+        "original_name": "Lou Castel",
+        "popularity": 0.5374,
+        "profile_path": "/nfSbW6awANxaRI769Bo2ZLDb22P.jpg",
+        "cast_id": 15,
+        "character": "Charles",
+        "credit_id": "5fd30a29f056d5003d62b469",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 13609,
+        "known_for_department": "Acting",
+        "name": "Alex Descas",
+        "original_name": "Alex Descas",
+        "popularity": 0.5345,
+        "profile_path": "/1FUMJTbVflnDR8vZL3J1Hv8f7tV.jpg",
+        "cast_id": 16,
+        "character": "Marignac",
+        "credit_id": "5fd30a33028f14003efb847d",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 47797,
+        "known_for_department": "Acting",
+        "name": "Fred Ulysse",
+        "original_name": "Fred Ulysse",
+        "popularity": 0.3436,
+        "profile_path": "/zmPImRvC8p6J12IDCOJlXgWrYxj.jpg",
+        "cast_id": 17,
+        "character": "Roberto",
+        "credit_id": "5fd30a3c2811a10040b4529f",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2889336,
+        "known_for_department": "Acting",
+        "name": "Stella",
+        "original_name": "Stella",
+        "popularity": 0.0593,
+        "profile_path": null,
+        "cast_id": 18,
+        "character": "Kim",
+        "credit_id": "5fd30a5755c1f4003da8e53d",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1642970,
+        "known_for_department": "Writing",
+        "name": "Marcelo Novais Teles",
+        "original_name": "Marcelo Novais Teles",
+        "popularity": 0.115,
+        "profile_path": null,
+        "cast_id": 19,
+        "character": "Eduardo",
+        "credit_id": "5fd30a62f48e0d0040c110eb",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 151160,
+        "known_for_department": "Acting",
+        "name": "Olivier Torres",
+        "original_name": "Olivier Torres",
+        "popularity": 0.1731,
+        "profile_path": "/8LLxDdWbUlpv4TD1QRgoNGnnd7H.jpg",
+        "cast_id": 20,
+        "character": "Mathieu",
+        "credit_id": "5fd30a6a7e12f0003c30f59a",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1058837,
+        "known_for_department": "Production",
+        "name": "Isabelle Ungaro",
+        "original_name": "Isabelle Ungaro",
+        "popularity": 0.1407,
+        "profile_path": null,
+        "cast_id": 21,
+        "character": "Louise",
+        "credit_id": "5fd30a772811a10040b4531a",
+        "order": 10
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 548355,
+        "known_for_department": "Writing",
+        "name": "Luca Fazzi",
+        "original_name": "Luca Fazzi",
+        "popularity": 0.0311,
+        "profile_path": null,
+        "credit_id": "52fe475dc3a368484e0c3181",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 146438,
+        "known_for_department": "Directing",
+        "name": "Bertrand Bonello",
+        "original_name": "Bertrand Bonello",
+        "popularity": 0.2407,
+        "profile_path": "/cLjSLK1L7GlkdWkZOyixka12CDM.jpg",
+        "credit_id": "52fe475dc3a368484e0c317b",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 146438,
+        "known_for_department": "Directing",
+        "name": "Bertrand Bonello",
+        "original_name": "Bertrand Bonello",
+        "popularity": 0.2407,
+        "profile_path": "/cLjSLK1L7GlkdWkZOyixka12CDM.jpg",
+        "credit_id": "52fe475dc3a368484e0c3175",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2889330,
+        "known_for_department": "Production",
+        "name": "Claude Girard",
+        "original_name": "Claude Girard",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "5fd308ecf48e0d0041c11d47",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 17424,
+        "known_for_department": "Production",
+        "name": "Carole Scotta",
+        "original_name": "Carole Scotta",
+        "popularity": 0.2925,
+        "profile_path": "/zBSTYNgUSdNzO3bO0GVsqxaFJL.jpg",
+        "credit_id": "5fd30916848eb9003edd394c",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 17426,
+        "known_for_department": "Production",
+        "name": "Simon Arnal",
+        "original_name": "Simon Arnal",
+        "popularity": 0.1996,
+        "profile_path": "/cWuCPgHNUOtWviJoiSbDy3GkKLy.jpg",
+        "credit_id": "5fd308d5848eb9003fdd5266",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 81743,
+        "known_for_department": "Camera",
+        "name": "Josée Deshaies",
+        "original_name": "Josée Deshaies",
+        "popularity": 0.0475,
+        "profile_path": "/hk4SZbga6uRr7X1hI6RiU3nCwwx.jpg",
+        "credit_id": "5fd30976f056d5003d62b3cf",
+        "department": "Crew",
+        "job": "Cinematography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1086751,
+        "known_for_department": "Editing",
+        "name": "Fabrice Rouaud",
+        "original_name": "Fabrice Rouaud",
+        "popularity": 0.0897,
+        "profile_path": null,
+        "credit_id": "5fd309806dc507003da2be4f",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2189413,
+        "known_for_department": "Acting",
+        "name": "Albin de la Simone",
+        "original_name": "Albin de la Simone",
+        "popularity": 0.0563,
+        "profile_path": "/pn9pH24BKPQ8hhjjVBJqUVRR1KK.jpg",
+        "credit_id": "5fd3095e55c1f4003fa8fa1b",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 146438,
+        "known_for_department": "Directing",
+        "name": "Bertrand Bonello",
+        "original_name": "Bertrand Bonello",
+        "popularity": 0.2407,
+        "profile_path": "/cLjSLK1L7GlkdWkZOyixka12CDM.jpg",
+        "credit_id": "5fd30968ca0e17003d36d102",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2389036,
+        "known_for_department": "Production",
+        "name": "Luc Déry",
+        "original_name": "Luc Déry",
+        "popularity": 0.2108,
+        "profile_path": "/7kqCI3zMbx2hjJqBCQF1G7M4EKV.jpg",
+        "credit_id": "67abb0bba2e2f99ed4bb4a82",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1590599,
+        "known_for_department": "Art",
+        "name": "Romain Denis",
+        "original_name": "Romain Denis",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "689c1cc9a4aadef6c68db61d",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4148731,
+        "known_for_department": "Art",
+        "name": "Anne Bachala",
+        "original_name": "Anne Bachala",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "689c1cde7feba1c6596d782f",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 983389,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Dorothée Guiraud",
+        "original_name": "Dorothée Guiraud",
+        "popularity": 0.1139,
+        "profile_path": "/fxNQHXOXIu2IpH3Br9DEGI12Hia.jpg",
+        "credit_id": "689c1ceca7690a8e086d77b8",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 966444,
+        "known_for_department": "Production",
+        "name": "Constance Demontoy",
+        "original_name": "Constance Demontoy",
+        "popularity": 0.1572,
+        "profile_path": "/zjUvPxNhToDzIHQcpBiHvKIM8Kg.jpg",
+        "credit_id": "689c1cfaa4aadef6c68db628",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1122423,
+        "known_for_department": "Production",
+        "name": "Patrícia Vasconcelos",
+        "original_name": "Patrícia Vasconcelos",
+        "popularity": 0.1113,
+        "profile_path": "/a693btcCpcJkQIAxGIeLSlQX0yC.jpg",
+        "credit_id": "689c1d09a4aadef6c68db62b",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3492685,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Yves Giorgi",
+        "original_name": "Yves Giorgi",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "credit_id": "689c1d199e81e6e63b268a56",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1406385,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Alexis Kinebanyan",
+        "original_name": "Alexis Kinebanyan",
+        "popularity": 0.1242,
+        "profile_path": "/21JS6iASL6LrMqFW5bWxaSbJSDo.jpg",
+        "credit_id": "689c1d27ba053036a66d7870",
+        "department": "Costume & Make-Up",
+        "job": "Special Effects Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2483877,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Manuela Taco",
+        "original_name": "Manuela Taco",
+        "popularity": 0.0938,
+        "profile_path": null,
+        "credit_id": "689c1d35ff20fc9428c701a5",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 94068,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Benoît Lestang",
+        "original_name": "Benoît Lestang",
+        "popularity": 0.132,
+        "profile_path": "/8pFJF2gf9uxwhnuufeXSLR5JXpv.jpg",
+        "credit_id": "689c1d4420b58d04998db443",
+        "department": "Costume & Make-Up",
+        "job": "Special Effects Makeup Artist"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  }
+}

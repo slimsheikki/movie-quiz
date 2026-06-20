@@ -1,0 +1,441 @@
+{
+  "adult": false,
+  "backdrop_path": "/9EorJBzsBuEQ2MpEHwnYwFrmpqu.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 45967,
+  "imdb_id": "tt0039871",
+  "origin_country": [
+    "JP"
+  ],
+  "original_language": "ja",
+  "original_title": "素晴らしき日曜日",
+  "overview": "Two broke sweethearts wander war-scarred Tokyo on a single Sunday, stretching 35 yen as they chase housing, small pleasures, and a little hope.",
+  "popularity": 1.1476,
+  "poster_path": "/2JADvAzmEiLaYqnw8eZVOp88q5j.jpg",
+  "production_companies": [
+    {
+      "id": 882,
+      "logo_path": "/fRSWWjquvzcHjACbtF53utZFIll.png",
+      "name": "TOHO",
+      "origin_country": "JP"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    }
+  ],
+  "release_date": "1947-07-01",
+  "revenue": 0,
+  "runtime": 108,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "One Wonderful Sunday",
+  "video": false,
+  "vote_average": 7.2,
+  "vote_count": 92,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 134293,
+        "known_for_department": "Acting",
+        "name": "Isao Numasaki",
+        "original_name": "沼崎勲",
+        "popularity": 0.4282,
+        "profile_path": "/8iSWKcWWGhF6RBObLipMbJreGwy.jpg",
+        "cast_id": 4,
+        "character": "Yuzo",
+        "credit_id": "52fe46dcc3a36847f811665b",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 125723,
+        "known_for_department": "Acting",
+        "name": "Chieko Nakakita",
+        "original_name": "中北千枝子",
+        "popularity": 1.1213,
+        "profile_path": "/wPDw7i4mYeTX6N0N9vwUgXHkxef.jpg",
+        "cast_id": 5,
+        "character": "Masako",
+        "credit_id": "52fe46dcc3a36847f811665f",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 134294,
+        "known_for_department": "Acting",
+        "name": "Atsushi Watanabe",
+        "original_name": "渡辺篤",
+        "popularity": 0.6313,
+        "profile_path": "/s45tFh01BT7mCCwF7oz6IiEGqgC.jpg",
+        "cast_id": 6,
+        "character": "Yamamoto",
+        "credit_id": "52fe46dcc3a36847f8116663",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 134295,
+        "known_for_department": "Acting",
+        "name": "Zeko Nakamura",
+        "original_name": "中村是好",
+        "popularity": 0.9637,
+        "profile_path": "/fiRUanJ3t3vzf1bcNhQ5Jfw8rfT.jpg",
+        "cast_id": 7,
+        "character": "Dessert Shop Owner",
+        "credit_id": "52fe46dcc3a36847f8116667",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 134297,
+        "known_for_department": "Acting",
+        "name": "Toppa Utsumi",
+        "original_name": "内海突破",
+        "popularity": 0.2886,
+        "profile_path": null,
+        "cast_id": 9,
+        "character": "Street Photographer",
+        "credit_id": "52fe46dcc3a36847f811666f",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 134296,
+        "known_for_department": "Acting",
+        "name": "Ichiro Namiki",
+        "original_name": "並木一路",
+        "popularity": 0.5477,
+        "profile_path": null,
+        "cast_id": 8,
+        "character": "Street Photographer",
+        "credit_id": "52fe46dcc3a36847f811666b",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 134263,
+        "known_for_department": "Acting",
+        "name": "Ichirō Sugai",
+        "original_name": "菅井一郎",
+        "popularity": 0.6532,
+        "profile_path": "/eP2AnYLxj5tMRNM5wkf4t5gnwcI.jpg",
+        "cast_id": 10,
+        "character": "Black-marketeer",
+        "credit_id": "52fe46dcc3a36847f8116673",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 131194,
+        "known_for_department": "Acting",
+        "name": "Masao Shimizu",
+        "original_name": "清水将夫",
+        "popularity": 1.0611,
+        "profile_path": "/77QHN0Ac5Oq31R1PKQSIVX3nFzX.jpg",
+        "cast_id": 11,
+        "character": "Dance Hall Manager",
+        "credit_id": "52fe46dcc3a36847f8116677",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1093459,
+        "known_for_department": "Acting",
+        "name": "Tokuji Kobayashi",
+        "original_name": "小林十九二",
+        "popularity": 0.4701,
+        "profile_path": "/twYMMpXN8ZoaSHzMnt1Vmq2NLMZ.jpg",
+        "cast_id": 22,
+        "character": "Overweight apartment receptionist",
+        "credit_id": "52fe46dcc3a36847f81166a7",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 134301,
+        "known_for_department": "Acting",
+        "name": "Shiro Mizutani",
+        "original_name": "水谷史郎",
+        "popularity": 0.2184,
+        "profile_path": null,
+        "cast_id": 13,
+        "character": "Waif",
+        "credit_id": "52fe46dcc3a36847f811667b",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 134302,
+        "known_for_department": "Acting",
+        "name": "Aguri Hidaka",
+        "original_name": "Aguri Hidaka",
+        "popularity": 0.0352,
+        "profile_path": null,
+        "cast_id": 14,
+        "character": "Dancer",
+        "credit_id": "52fe46dcc3a36847f811667f",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 134303,
+        "known_for_department": "Acting",
+        "name": "Midori Ariyama",
+        "original_name": "Midori Ariyama",
+        "popularity": 0.0387,
+        "profile_path": null,
+        "cast_id": 15,
+        "character": "Sono, the black-marketeer's mistress",
+        "credit_id": "52fe46dcc3a36847f8116683",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 108026,
+        "known_for_department": "Acting",
+        "name": "Sachio Sakai",
+        "original_name": "堺 左千夫",
+        "popularity": 0.857,
+        "profile_path": "/r8XOO5s3LfOD8YNXX7fmhUe2Yit.jpg",
+        "cast_id": 23,
+        "character": "Shady Ticket Man",
+        "credit_id": "558b08329251417b3500138c",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 134304,
+        "known_for_department": "Acting",
+        "name": "Katao Numazaki",
+        "original_name": "Katao Numazaki",
+        "popularity": 0.0362,
+        "profile_path": null,
+        "cast_id": 16,
+        "character": "Bakery Owner",
+        "credit_id": "52fe46dcc3a36847f8116687",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 134305,
+        "known_for_department": "Acting",
+        "name": "Toshi Mori",
+        "original_name": "Toshi Mori",
+        "popularity": 0.0336,
+        "profile_path": null,
+        "cast_id": 17,
+        "character": "Apartment Superintendent",
+        "credit_id": "52fe46dcc3a36847f811668b",
+        "order": 14
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5026,
+        "known_for_department": "Directing",
+        "name": "Akira Kurosawa",
+        "original_name": "黒澤明",
+        "popularity": 2.6745,
+        "profile_path": "/ca8fRqLDfTJTCamLKHp70up23ET.jpg",
+        "credit_id": "52fe46dcc3a36847f811664b",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 20832,
+        "known_for_department": "Production",
+        "name": "Sōjirō Motoki",
+        "original_name": "本木荘二郎",
+        "popularity": 0.2316,
+        "profile_path": "/3elxuzpG4zmKcXmJxAkRnUDjCn7.jpg",
+        "credit_id": "52fe46dcc3a36847f8116691",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1092850,
+        "known_for_department": "Sound",
+        "name": "Tadashi Hattori",
+        "original_name": "服部正",
+        "popularity": 0.1376,
+        "profile_path": null,
+        "credit_id": "52fe46dcc3a36847f8116697",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 34380,
+        "known_for_department": "Camera",
+        "name": "Asakazu Nakai",
+        "original_name": "中井朝一",
+        "popularity": 0.1822,
+        "profile_path": "/4ZpLw1cVZT5VhcN8kQG8m4XKZLk.jpg",
+        "credit_id": "5717c2c2c3a3687bc7001470",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1092851,
+        "known_for_department": "Art",
+        "name": "Kazuo Kubo",
+        "original_name": "久保一雄",
+        "popularity": 0.1767,
+        "profile_path": null,
+        "credit_id": "64683778c3514c015779a785",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4071318,
+        "known_for_department": "Directing",
+        "name": "Zenji Koizumi",
+        "original_name": "Zenji Koizumi",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "credit_id": "646837b22bcf67011bf2e19a",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1640546,
+        "known_for_department": "Sound",
+        "name": "Ichirô Minawa",
+        "original_name": "Ichirô Minawa",
+        "popularity": 0.2426,
+        "profile_path": null,
+        "credit_id": "646837cc2bcf670155827fef",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1608834,
+        "known_for_department": "Sound",
+        "name": "Shigeharu Yasue",
+        "original_name": "安恵重遠",
+        "popularity": 0.1237,
+        "profile_path": null,
+        "credit_id": "646837dec3514c015779a7ba",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5026,
+        "known_for_department": "Directing",
+        "name": "Akira Kurosawa",
+        "original_name": "黒澤明",
+        "popularity": 2.6745,
+        "profile_path": "/ca8fRqLDfTJTCamLKHp70up23ET.jpg",
+        "credit_id": "5de2ae5d4f58010012016b58",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 134292,
+        "known_for_department": "Writing",
+        "name": "Keinosuke Uekusa",
+        "original_name": "植草圭之助",
+        "popularity": 0.3358,
+        "profile_path": "/iTmjw2h4IIuNhkrbq2GNXJDpsq0.jpg",
+        "credit_id": "5de2ae964f58010012016bbd",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1530479,
+        "known_for_department": "Lighting",
+        "name": "Kuichiro Kishida",
+        "original_name": "岸田九一郎",
+        "popularity": 0.2141,
+        "profile_path": "/imB058hseGeDEK4YV3EPPbuzGAA.jpg",
+        "credit_id": "5de2afa44f58010012017039",
+        "department": "Lighting",
+        "job": "Lighting Artist"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "JP",
+        "title": "Subarashiki nichiyōbi",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "IT",
+        "title": "Una meravigliosa domenica",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "US",
+        "title": "One Wonderful Sunday",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "SU",
+        "title": "Великолепное воскресенье",
+        "type": "Russian"
+      }
+    ]
+  }
+}

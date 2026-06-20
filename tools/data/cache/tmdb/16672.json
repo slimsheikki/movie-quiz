@@ -1,0 +1,417 @@
+{
+  "adult": false,
+  "backdrop_path": "/dxfFh9pTKDaYH2B6PwcR6ohCM1L.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 16672,
+  "imdb_id": "tt0058625",
+  "origin_country": [
+    "JP"
+  ],
+  "original_language": "ja",
+  "original_title": "砂の女",
+  "overview": "A vacationing entomologist suffers extreme physical and psychological trauma after being taken captive by the residents of a poor seaside village and made to live with a woman whose life task is shoveling sand for them.",
+  "popularity": 2.5522,
+  "poster_path": "/xiBr3bIT2xpbuIKo5bLK7ebP4O1.jpg",
+  "production_companies": [
+    {
+      "id": 3212,
+      "logo_path": null,
+      "name": "Teshigahara Productions",
+      "origin_country": "JP"
+    },
+    {
+      "id": 882,
+      "logo_path": "/fRSWWjquvzcHjACbtF53utZFIll.png",
+      "name": "TOHO",
+      "origin_country": "JP"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    }
+  ],
+  "release_date": "1964-02-15",
+  "revenue": 0,
+  "runtime": 147,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Haunting. Erotic. Unforgettable.",
+  "title": "Woman in the Dunes",
+  "video": false,
+  "vote_average": 8.2,
+  "vote_count": 519,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 25466,
+        "known_for_department": "Acting",
+        "name": "Eiji Okada",
+        "original_name": "岡田英次",
+        "popularity": 1.2644,
+        "profile_path": "/mQb4kOYl1WlISWZOStAhm13DHdQ.jpg",
+        "cast_id": 2,
+        "character": "Entomologist Niki Jumpei",
+        "credit_id": "52fe46e49251416c7508706f",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 94188,
+        "known_for_department": "Acting",
+        "name": "Kyôko Kishida",
+        "original_name": "岸田今日子",
+        "popularity": 1.5229,
+        "profile_path": "/d5raLmrkUXAgJ7kN17Uedwwu4iD.jpg",
+        "cast_id": 12,
+        "character": "The Woman",
+        "credit_id": "52fe46e49251416c75087091",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 555339,
+        "known_for_department": "Acting",
+        "name": "Hiroko Itō",
+        "original_name": "伊藤弘子",
+        "popularity": 0.5589,
+        "profile_path": null,
+        "cast_id": 13,
+        "character": "Entomologist's Wife",
+        "credit_id": "52fe46e49251416c75087095",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 96804,
+        "known_for_department": "Acting",
+        "name": "Kōji Mitsui",
+        "original_name": "三井弘次",
+        "popularity": 0.9159,
+        "profile_path": "/nahTXDNpFHNfKMraAHNDYiLXBM.jpg",
+        "cast_id": 5,
+        "character": "Village Elder",
+        "credit_id": "52fe46e49251416c75087073",
+        "order": 3
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 96801,
+        "known_for_department": "Directing",
+        "name": "Hiroshi Teshigahara",
+        "original_name": "勅使河原宏",
+        "popularity": 0.744,
+        "profile_path": "/bMg5nblcbQPY48P1nURbXsyHvfO.jpg",
+        "credit_id": "52fe46e49251416c7508706b",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 96807,
+        "known_for_department": "Writing",
+        "name": "Kōbō Abe",
+        "original_name": "安部公房",
+        "popularity": 0.5325,
+        "profile_path": "/71GHqIUf2U0ZEibWzLbsNyE2nRw.jpg",
+        "credit_id": "52fe46e49251416c750870a1",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 96810,
+        "known_for_department": "Editing",
+        "name": "Fusako Shuzui",
+        "original_name": "Fusako Shuzui",
+        "popularity": 0.0938,
+        "profile_path": null,
+        "credit_id": "52fe46e49251416c75087087",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 96809,
+        "known_for_department": "Camera",
+        "name": "Hiroshi Segawa",
+        "original_name": "Hiroshi Segawa",
+        "popularity": 0.0368,
+        "profile_path": null,
+        "credit_id": "52fe46e49251416c75087081",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1089017,
+        "known_for_department": "Production",
+        "name": "Tadashi Ôno",
+        "original_name": "Tadashi Ôno",
+        "popularity": 0.0552,
+        "profile_path": null,
+        "credit_id": "52fe46e49251416c750870ad",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1089030,
+        "known_for_department": "Production",
+        "name": "Kiichi Ichikawa",
+        "original_name": "Kiichi Ichikawa",
+        "popularity": 0.116,
+        "profile_path": null,
+        "credit_id": "52fe46e49251416c750870a7",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 96807,
+        "known_for_department": "Writing",
+        "name": "Kōbō Abe",
+        "original_name": "安部公房",
+        "popularity": 0.5325,
+        "profile_path": "/71GHqIUf2U0ZEibWzLbsNyE2nRw.jpg",
+        "credit_id": "52fe46e49251416c7508709b",
+        "department": "Writing",
+        "job": "Novel"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 51808,
+        "known_for_department": "Sound",
+        "name": "Toru Takemitsu",
+        "original_name": "武満徹",
+        "popularity": 0.3763,
+        "profile_path": "/l48fEVb1HGMilTCkxSzYuZsSPdk.jpg",
+        "credit_id": "57171fb69251417a22006174",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1591535,
+        "known_for_department": "Art",
+        "name": "Masao Yamazaki",
+        "original_name": "山崎正夫",
+        "popularity": 0.0912,
+        "profile_path": null,
+        "credit_id": "5c19ae0ec3a3681885239b09",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1375495,
+        "known_for_department": "Crew",
+        "name": "Ichiro Kato",
+        "original_name": "加藤一郎",
+        "popularity": 0.0666,
+        "profile_path": null,
+        "credit_id": "5c19ae1b0e0a26618ee63437",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1602592,
+        "known_for_department": "Sound",
+        "name": "Shigenosuke Okuyama",
+        "original_name": "Shigenosuke Okuyama",
+        "popularity": 0.0824,
+        "profile_path": null,
+        "credit_id": "5c19ae26c3a3681890239b2c",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2198020,
+        "known_for_department": "Sound",
+        "name": "Keiji Mori",
+        "original_name": "Keiji Mori",
+        "popularity": 0.0546,
+        "profile_path": null,
+        "credit_id": "5c19ae3192514129f0d83773",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1268042,
+        "known_for_department": "Art",
+        "name": "Tōtetsu Hirakawa",
+        "original_name": "平川透徹",
+        "popularity": 0.1612,
+        "profile_path": null,
+        "credit_id": "5c19ae010e0a26618ee63429",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2081838,
+        "known_for_department": "Directing",
+        "name": "Isao Fujisawa",
+        "original_name": "藤沢勇夫",
+        "popularity": 0.0683,
+        "profile_path": null,
+        "credit_id": "678d83dce4566399a26e0f37",
+        "department": "Directing",
+        "job": "Assistant Director"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "US",
+        "title": "Woman in the Dunes",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "FR",
+        "title": "La Femme du sable",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "CN",
+        "title": "沙之女",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "JP",
+        "title": "Suna no onna",
+        "type": "transliteration"
+      },
+      {
+        "iso_3166_1": "CZ",
+        "title": "Písečná žena",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "NL",
+        "title": "De Vrouw in 't Zand",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "BR",
+        "title": "A Mulher da Areia",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "SE",
+        "title": "Kvinnan i sanden",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "AR",
+        "title": "Una mujer en la arena",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "MX",
+        "title": "La mujer de arena",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "ES",
+        "title": "La mujer de la arena",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "GB",
+        "title": "Woman of the Dunes",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "FR",
+        "title": "La Femme des dunes",
+        "type": "alternative title"
+      },
+      {
+        "iso_3166_1": "KR",
+        "title": "모래의 여자",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "IT",
+        "title": "La donna di sabbia",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "PT",
+        "title": "A Mulher das Dunas",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "GR",
+        "title": "Γυναίκα στους Αμμόλοφους",
+        "type": "DVD title"
+      },
+      {
+        "iso_3166_1": "NO",
+        "title": "Kvinnen i sanden",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "PL",
+        "title": "Kobieta z wydm",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "TW",
+        "title": "沙丘之女",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "SA",
+        "title": "امرأة بين الكثبان",
+        "type": ""
+      }
+    ]
+  }
+}

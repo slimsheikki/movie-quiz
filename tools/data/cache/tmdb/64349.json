@@ -1,0 +1,450 @@
+{
+  "adult": false,
+  "backdrop_path": "/6Yg6yzYjYb746IOc1UWtkVC9cUL.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "",
+  "id": 64349,
+  "imdb_id": "tt0079980",
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "Série noire",
+  "overview": "In the shadowy outskirts of Paris, a desperate door-to-door salesman crosses paths with a mysterious young woman trapped in a grim world. As his obsession deepens, his grip on reality begins to slip—and the line between escape and destruction starts to blur.",
+  "popularity": 0.6671,
+  "poster_path": "/1NUWLFB9QwwxCDHgdaYw8fcV84q.jpg",
+  "production_companies": [
+    {
+      "id": 1578,
+      "logo_path": null,
+      "name": "Prospectacle",
+      "origin_country": ""
+    },
+    {
+      "id": 9,
+      "logo_path": "/nda3dTUYdDrJ6rZqBpYvY865aDv.png",
+      "name": "Gaumont",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "1979-04-25",
+  "revenue": 0,
+  "runtime": 111,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Serie Noire",
+  "video": false,
+  "vote_average": 7.5,
+  "vote_count": 156,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 34581,
+        "known_for_department": "Acting",
+        "name": "Patrick Dewaere",
+        "original_name": "Patrick Dewaere",
+        "popularity": 0.5692,
+        "profile_path": "/iQ1Khy341bDFWUNmmVFpytwpk2w.jpg",
+        "cast_id": 2,
+        "character": "Franck Poupart",
+        "credit_id": "52fe46d6c3a368484e0a688d",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 120571,
+        "known_for_department": "Acting",
+        "name": "Myriam Boyer",
+        "original_name": "Myriam Boyer",
+        "popularity": 0.4557,
+        "profile_path": "/rxVlSO2z2BvTqLf9kwZZI8HtBVM.jpg",
+        "cast_id": 5,
+        "character": "Jeanne",
+        "credit_id": "52fe46d6c3a368484e0a6899",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 39689,
+        "known_for_department": "Acting",
+        "name": "Marie Trintignant",
+        "original_name": "Marie Trintignant",
+        "popularity": 0.4672,
+        "profile_path": "/7jgksCx4EcrZsDmPfPzAZkriya8.jpg",
+        "cast_id": 4,
+        "character": "Mona",
+        "credit_id": "52fe46d6c3a368484e0a6895",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 24379,
+        "known_for_department": "Acting",
+        "name": "Bernard Blier",
+        "original_name": "Bernard Blier",
+        "popularity": 0.5855,
+        "profile_path": "/9WZMVvpgrb451WM3EmGTe8Nbo1b.jpg",
+        "cast_id": 3,
+        "character": "Staplin",
+        "credit_id": "52fe46d6c3a368484e0a6891",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 25126,
+        "known_for_department": "Acting",
+        "name": "Jeanne Herviale",
+        "original_name": "Jeanne Herviale",
+        "popularity": 0.2014,
+        "profile_path": "/xAVcGbXnb3Zm3wjiQ0zJ6nbcwlw.jpg",
+        "cast_id": 12,
+        "character": "La tante",
+        "credit_id": "52fe46d6c3a368484e0a68c1",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 43773,
+        "known_for_department": "Acting",
+        "name": "Andreas Katsulas",
+        "original_name": "Andreas Katsulas",
+        "popularity": 0.7976,
+        "profile_path": "/nUWW0rW02JEVxIvu8y0Y4W0oK41.jpg",
+        "cast_id": 13,
+        "character": "Andreas Tikides",
+        "credit_id": "52fe46d6c3a368484e0a68c5",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 545585,
+        "known_for_department": "Acting",
+        "name": "Charlie Farnel",
+        "original_name": "Charlie Farnel",
+        "popularity": 0.0338,
+        "profile_path": null,
+        "cast_id": 14,
+        "character": "Marcel, l'inspecteur",
+        "credit_id": "52fe46d6c3a368484e0a68c9",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 545586,
+        "known_for_department": "Acting",
+        "name": "Samuel Mek",
+        "original_name": "Samuel Mek",
+        "popularity": 0.1241,
+        "profile_path": null,
+        "cast_id": 15,
+        "character": "Le boxeur",
+        "credit_id": "52fe46d6c3a368484e0a68cd",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 545587,
+        "known_for_department": "Acting",
+        "name": "Jack Jourdain",
+        "original_name": "Jack Jourdain",
+        "popularity": 0.1171,
+        "profile_path": null,
+        "cast_id": 16,
+        "character": "L'entraineur (as Jack Jourdan)",
+        "credit_id": "52fe46d6c3a368484e0a68d1",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 545588,
+        "known_for_department": "Lighting",
+        "name": "Fernand Coquet",
+        "original_name": "Fernand Coquet",
+        "popularity": 0.1149,
+        "profile_path": null,
+        "cast_id": 17,
+        "character": "Le Hell's Angel",
+        "credit_id": "52fe46d6c3a368484e0a68d5",
+        "order": 9
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 35927,
+        "known_for_department": "Directing",
+        "name": "Alain Corneau",
+        "original_name": "Alain Corneau",
+        "popularity": 0.4235,
+        "profile_path": "/t6ovdhUwIxOGbUzmnkAZBrEEuPc.jpg",
+        "credit_id": "52fe46d6c3a368484e0a6889",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 545583,
+        "known_for_department": "Writing",
+        "name": "Georges Perec",
+        "original_name": "Georges Perec",
+        "popularity": 0.1317,
+        "profile_path": "/arhzqUC94gj2ktRfOTXCkLT4jy2.jpg",
+        "credit_id": "52fe46d6c3a368484e0a68a5",
+        "department": "Writing",
+        "job": "Dialogue"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 24821,
+        "known_for_department": "Production",
+        "name": "Maurice Bernart",
+        "original_name": "Maurice Bernart",
+        "popularity": 0.1712,
+        "profile_path": null,
+        "credit_id": "52fe46d6c3a368484e0a68b1",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3335,
+        "known_for_department": "Writing",
+        "name": "Jim Thompson",
+        "original_name": "Jim Thompson",
+        "popularity": 0.5615,
+        "profile_path": "/qHVs8ZW29kvMb1PbevL1eWtSUKD.jpg",
+        "credit_id": "52fe46d6c3a368484e0a68ab",
+        "department": "Writing",
+        "job": "Novel"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 35927,
+        "known_for_department": "Directing",
+        "name": "Alain Corneau",
+        "original_name": "Alain Corneau",
+        "popularity": 0.4235,
+        "profile_path": "/t6ovdhUwIxOGbUzmnkAZBrEEuPc.jpg",
+        "credit_id": "52fe46d6c3a368484e0a689f",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 545584,
+        "known_for_department": "Editing",
+        "name": "Thierry Derocles",
+        "original_name": "Thierry Derocles",
+        "popularity": 0.1899,
+        "profile_path": null,
+        "credit_id": "52fe46d6c3a368484e0a68bd",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 20034,
+        "known_for_department": "Camera",
+        "name": "Pierre-William Glenn",
+        "original_name": "Pierre-William Glenn",
+        "popularity": 0.1872,
+        "profile_path": "/zdtJPE1lwIwseSWBoCEPijblVWy.jpg",
+        "credit_id": "52fe46d6c3a368484e0a68b7",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 545583,
+        "known_for_department": "Writing",
+        "name": "Georges Perec",
+        "original_name": "Georges Perec",
+        "popularity": 0.1317,
+        "profile_path": "/arhzqUC94gj2ktRfOTXCkLT4jy2.jpg",
+        "credit_id": "61eb2d99534661006c0f25bd",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1544410,
+        "known_for_department": "Sound",
+        "name": "Denis Carquin",
+        "original_name": "Denis Carquin",
+        "popularity": 0.0362,
+        "profile_path": null,
+        "credit_id": "5af24d53925141063f003eac",
+        "department": "Sound",
+        "job": "Sound Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 73242,
+        "known_for_department": "Production",
+        "name": "Catherine Lapoujade",
+        "original_name": "Catherine Lapoujade",
+        "popularity": 0.079,
+        "profile_path": null,
+        "credit_id": "5af24d0f925141066d0040c6",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2038968,
+        "known_for_department": "Sound",
+        "name": "Gérard Dacquay",
+        "original_name": "Gérard Dacquay",
+        "popularity": 0.0409,
+        "profile_path": null,
+        "credit_id": "5af24dae0e0a2668b5004225",
+        "department": "Sound",
+        "job": "Sound Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2038971,
+        "known_for_department": "Sound",
+        "name": "Anne Baronnet",
+        "original_name": "Anne Baronnet",
+        "popularity": 0.0737,
+        "profile_path": null,
+        "credit_id": "5af24e490e0a2668b100455c",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 67535,
+        "known_for_department": "Production",
+        "name": "Yvon Crenn",
+        "original_name": "Yvon Crenn",
+        "popularity": 0.1296,
+        "profile_path": "/5hxTgmLh1BFsEyHZ9S9vZhBmK25.jpg",
+        "credit_id": "5af24ce7925141066f0048a7",
+        "department": "Production",
+        "job": "Unit Manager"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1652980,
+        "known_for_department": "Sound",
+        "name": "Daniel Couteau",
+        "original_name": "Daniel Couteau",
+        "popularity": 0.159,
+        "profile_path": null,
+        "credit_id": "5af24d819251410679004bee",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 54356,
+        "known_for_department": "Sound",
+        "name": "Claude Villand",
+        "original_name": "Claude Villand",
+        "popularity": 0.2139,
+        "profile_path": "/k7eBDhqc1djweUaa1tK7ds5dPl2.jpg",
+        "credit_id": "5af24ef40e0a266892004296",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1407212,
+        "known_for_department": "Production",
+        "name": "Claude Albouze",
+        "original_name": "Claude Albouze",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "5af24f36c3a36855bc00659c",
+        "department": "Crew",
+        "job": "Special Effects"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 406044,
+        "known_for_department": "Sound",
+        "name": "Michel Desrois",
+        "original_name": "Michel Desrois",
+        "popularity": 0.0693,
+        "profile_path": null,
+        "credit_id": "5af24ed1c3a36855a7002955",
+        "department": "Sound",
+        "job": "Sound"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "ES",
+        "title": "Serie negra",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "PT",
+        "title": "Série Negra",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "IT",
+        "title": "Il fascino del delitto",
+        "type": ""
+      }
+    ]
+  }
+}

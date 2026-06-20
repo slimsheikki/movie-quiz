@@ -1,0 +1,641 @@
+{
+  "adult": false,
+  "backdrop_path": "/wn4iwTix9AVcMMVbWNOG9ddstuI.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ],
+  "homepage": "",
+  "id": 53028,
+  "imdb_id": "tt0093295",
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "Jane B. par Agnès V.",
+  "overview": "The interests, obsessions, and fantasies of two singular artists converge in this inspired collaboration between Agnès Varda and her longtime friend the actor Jane Birkin. Made over the course of a year and motivated by Birkin’s fortieth birthday—a milestone she admits to some anxiety over—Jane B. by Agnès V. contrasts the private, reflective Birkin with Birkin the icon.",
+  "popularity": 0.5948,
+  "poster_path": "/yrwlZv80pvawhmCUFhBVkcPew3h.jpg",
+  "production_companies": [
+    {
+      "id": 16366,
+      "logo_path": "/llLC13cdNDmJbq0E0PG8fraWsLp.png",
+      "name": "La Sept Cinéma",
+      "origin_country": "FR"
+    },
+    {
+      "id": 14683,
+      "logo_path": "/oqpU5dX9DlN3YB96NdsNXknJhcl.png",
+      "name": "Ciné-Tamaris",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "1988-03-02",
+  "revenue": 0,
+  "runtime": 99,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Jane B. by Agnès V.",
+  "video": false,
+  "vote_average": 6.7,
+  "vote_count": 65,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 15200,
+        "known_for_department": "Acting",
+        "name": "Jane Birkin",
+        "original_name": "Jane Birkin",
+        "popularity": 1.0495,
+        "profile_path": "/snSO3HmSdV38MVCfkVLOuXsh0C8.jpg",
+        "cast_id": 3,
+        "character": "Self / Calamity Jane / Claude Jade / Joan Arc",
+        "credit_id": "52fe484fc3a36847f8160e37",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1653,
+        "known_for_department": "Acting",
+        "name": "Jean-Pierre Léaud",
+        "original_name": "Jean-Pierre Léaud",
+        "popularity": 1.1339,
+        "profile_path": "/zkWjuuyncnHfYpkUfEguwTTRntb.jpg",
+        "cast_id": 4,
+        "character": "The Angry Lover",
+        "credit_id": "52fe484fc3a36847f8160e3b",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3581,
+        "known_for_department": "Acting",
+        "name": "Philippe Léotard",
+        "original_name": "Philippe Léotard",
+        "popularity": 0.5048,
+        "profile_path": "/7MsP07iSJQE338eeZKtoqFeswlr.jpg",
+        "cast_id": 7,
+        "character": "Painter / Murderer",
+        "credit_id": "52fe484fc3a36847f8160e43",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 70427,
+        "known_for_department": "Acting",
+        "name": "Farid Chopel",
+        "original_name": "Farid Chopel",
+        "popularity": 0.3199,
+        "profile_path": "/vxbzFU3mGy2rRImCZjl5vAkFl19.jpg",
+        "cast_id": 6,
+        "character": "Colonial",
+        "credit_id": "52fe484fc3a36847f8160e3f",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 56783,
+        "known_for_department": "Acting",
+        "name": "Alain Souchon",
+        "original_name": "Alain Souchon",
+        "popularity": 0.3308,
+        "profile_path": "/dELoFjrkSeUISlZTocrEX2BWHaz.jpg",
+        "cast_id": 16,
+        "character": "Verlaine's Reader",
+        "credit_id": "56a998aec3a36872cf003272",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 34263,
+        "known_for_department": "Acting",
+        "name": "Serge Gainsbourg",
+        "original_name": "Serge Gainsbourg",
+        "popularity": 0.7338,
+        "profile_path": "/6dWY7cho8Dy3f1Ec9A4omnbEqv8.jpg",
+        "cast_id": 17,
+        "character": "Self",
+        "credit_id": "56a998b6c3a36872e10030b6",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 7710,
+        "known_for_department": "Acting",
+        "name": "Laura Betti",
+        "original_name": "Laura Betti",
+        "popularity": 0.5518,
+        "profile_path": "/7fQu63Y9LDvAKLGVprtvVBGTbi1.jpg",
+        "cast_id": 18,
+        "character": "Lardy",
+        "credit_id": "56a998bec3a36872db002e16",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1569192,
+        "known_for_department": "Acting",
+        "name": "Monique Godard",
+        "original_name": "Monique Godard",
+        "popularity": 0.0362,
+        "profile_path": null,
+        "cast_id": 19,
+        "character": "Assistant Mistress",
+        "credit_id": "56a998cb9251417db9002f10",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1384132,
+        "known_for_department": "Acting",
+        "name": "Ian Marshall",
+        "original_name": "Ian Marshall",
+        "popularity": 0.0809,
+        "profile_path": null,
+        "cast_id": 20,
+        "character": "Bailiff",
+        "credit_id": "56a998f092514154750016e0",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4273,
+        "known_for_department": "Acting",
+        "name": "Charlotte Gainsbourg",
+        "original_name": "Charlotte Gainsbourg",
+        "popularity": 2.5874,
+        "profile_path": "/vyZQlwBSpARVHzn6M91ZcJTy7P8.jpg",
+        "cast_id": 21,
+        "character": "Self - J's Daughter",
+        "credit_id": "56a998fdc3a36872e10030cc",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 64751,
+        "known_for_department": "Acting",
+        "name": "Mathieu Demy",
+        "original_name": "Mathieu Demy",
+        "popularity": 0.6415,
+        "profile_path": "/bnaoxj7P2LzpEzqy1RPFlQUuPCK.jpg",
+        "cast_id": 22,
+        "character": "Self - A's Son",
+        "credit_id": "56a99907c3a36872cd003613",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1569193,
+        "known_for_department": "Acting",
+        "name": "James Millard",
+        "original_name": "James Millard",
+        "popularity": 0.0899,
+        "profile_path": null,
+        "cast_id": 23,
+        "character": "Tarzan",
+        "credit_id": "56a9990f9251410e2d002bf0",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1569194,
+        "known_for_department": "Acting",
+        "name": "Pascale Torsat",
+        "original_name": "Pascale Torsat",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "cast_id": 24,
+        "character": "Titian's Model",
+        "credit_id": "56a99918c3a36872e10030d6",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1569195,
+        "known_for_department": "Acting",
+        "name": "Henri Piednoir",
+        "original_name": "Henri Piednoir",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 25,
+        "character": "Baker",
+        "credit_id": "56a99920c3a36872cb003158",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2259438,
+        "known_for_department": "Acting",
+        "name": "André Cagnard",
+        "original_name": "André Cagnard",
+        "popularity": 0.2194,
+        "profile_path": "/bkxr7uBm7QYdRBHBCLkjYJ4L4wW.jpg",
+        "cast_id": 42,
+        "character": "Self",
+        "credit_id": "6997d64dff1eef19d013bbd4",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 6817,
+        "known_for_department": "Directing",
+        "name": "Agnès Varda",
+        "original_name": "Agnès Varda",
+        "popularity": 0.863,
+        "profile_path": "/sZol5QAmWvpopzAPbSxhoSc1DOe.jpg",
+        "cast_id": 27,
+        "character": "Self (uncredited)",
+        "credit_id": "5fad7117b02f5e00417354a8",
+        "order": 15
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 6817,
+        "known_for_department": "Directing",
+        "name": "Agnès Varda",
+        "original_name": "Agnès Varda",
+        "popularity": 0.863,
+        "profile_path": "/sZol5QAmWvpopzAPbSxhoSc1DOe.jpg",
+        "credit_id": "52fe484fc3a36847f8160e2d",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 6817,
+        "known_for_department": "Directing",
+        "name": "Agnès Varda",
+        "original_name": "Agnès Varda",
+        "popularity": 0.863,
+        "profile_path": "/sZol5QAmWvpopzAPbSxhoSc1DOe.jpg",
+        "credit_id": "52fe484fc3a36847f8160e33",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1177527,
+        "known_for_department": "Editing",
+        "name": "Marie-Josée Audiard",
+        "original_name": "Marie-Josée Audiard",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "56a9986bc3a36872d30032cf",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1286778,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Ronaldo Abreu",
+        "original_name": "Ronaldo Abreu",
+        "popularity": 0.0716,
+        "profile_path": null,
+        "credit_id": "56a998849251410e2d002bbd",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 68373,
+        "known_for_department": "Production",
+        "name": "Oury Milshtein",
+        "original_name": "Oury Milshtein",
+        "popularity": 0.0558,
+        "profile_path": "/9OMAZVc75v84YvUBNUzmw54fYw0.jpg",
+        "credit_id": "56a9989a92514154750016c2",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1443838,
+        "known_for_department": "Camera",
+        "name": "Nurith Aviv",
+        "original_name": "Nurith Aviv",
+        "popularity": 0.1059,
+        "profile_path": null,
+        "credit_id": "56a9985bc3a36872d30032c8",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1040894,
+        "known_for_department": "Art",
+        "name": "Olivier Radot",
+        "original_name": "Olivier Radot",
+        "popularity": 0.1169,
+        "profile_path": "/pur6Rpne1SjPlHKOcTwai8CK0fi.jpg",
+        "credit_id": "56a9987bc3a36872cb003122",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 6817,
+        "known_for_department": "Directing",
+        "name": "Agnès Varda",
+        "original_name": "Agnès Varda",
+        "popularity": 0.863,
+        "profile_path": "/sZol5QAmWvpopzAPbSxhoSc1DOe.jpg",
+        "credit_id": "56a99873c3a36872e10030a1",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1569190,
+        "known_for_department": "Camera",
+        "name": "Pierre-Laurent Chénieux",
+        "original_name": "Pierre-Laurent Chénieux",
+        "popularity": 0.2046,
+        "profile_path": null,
+        "credit_id": "56a99863c3a36872e9002f43",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2259438,
+        "known_for_department": "Acting",
+        "name": "André Cagnard",
+        "original_name": "André Cagnard",
+        "popularity": 0.2194,
+        "profile_path": "/bkxr7uBm7QYdRBHBCLkjYJ4L4wW.jpg",
+        "credit_id": "64871141bf31f250569ca4a9",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2528148,
+        "known_for_department": "Crew",
+        "name": "Marcel Labbaye",
+        "original_name": "Marcel Labbaye",
+        "popularity": 0.0363,
+        "profile_path": null,
+        "credit_id": "64871163d2b20900ca209455",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1932156,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Laurence Azouvy",
+        "original_name": "Laurence Azouvy",
+        "popularity": 0.1054,
+        "profile_path": null,
+        "credit_id": "64871189bf31f25054b6f6a4",
+        "department": "Costume & Make-Up",
+        "job": "Key Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1182306,
+        "known_for_department": "Sound",
+        "name": "Philippe Richard",
+        "original_name": "Philippe Richard",
+        "popularity": 0.0709,
+        "profile_path": null,
+        "credit_id": "648711f7bf31f250569ca506",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1902157,
+        "known_for_department": "Sound",
+        "name": "Jacques Thomas-Gérard",
+        "original_name": "Jacques Thomas-Gérard",
+        "popularity": 0.0747,
+        "profile_path": null,
+        "credit_id": "6487125499259c00ff0fce3a",
+        "department": "Sound",
+        "job": "ADR Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1723862,
+        "known_for_department": "Lighting",
+        "name": "Pascal Pajaud",
+        "original_name": "Pascal Pajaud",
+        "popularity": 0.1949,
+        "profile_path": null,
+        "credit_id": "6487125fc0348b00c82f36eb",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1890232,
+        "known_for_department": "Editing",
+        "name": "Philippe Tourret",
+        "original_name": "Philippe Tourret",
+        "popularity": 0.1036,
+        "profile_path": null,
+        "credit_id": "648711acbf31f25058829eeb",
+        "department": "Directing",
+        "job": "Third Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1890220,
+        "known_for_department": "Directing",
+        "name": "Marie-Florence Roncayolo",
+        "original_name": "Marie-Florence Roncayolo",
+        "popularity": 0.0673,
+        "profile_path": null,
+        "credit_id": "64871274e375c000e2507671",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1145440,
+        "known_for_department": "Sound",
+        "name": "Jonathan Liebling",
+        "original_name": "Jonathan Liebling",
+        "popularity": 0.1952,
+        "profile_path": null,
+        "credit_id": "648711db99259c00accdd957",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1569191,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Edith Remy",
+        "original_name": "Edith Remy",
+        "popularity": 0.0617,
+        "profile_path": null,
+        "credit_id": "64871195c0348b00aed55c93",
+        "department": "Costume & Make-Up",
+        "job": "Key Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2938753,
+        "known_for_department": "Sound",
+        "name": "Colette Constantini",
+        "original_name": "Colette Constantini",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "credit_id": "64871268d2b20900ebc15335",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1679183,
+        "known_for_department": "Acting",
+        "name": "William Cagnard",
+        "original_name": "William Cagnard",
+        "popularity": 0.1168,
+        "profile_path": null,
+        "credit_id": "6487114fd2b209010c1a4695",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1890230,
+        "known_for_department": "Sound",
+        "name": "Olivier Schwob",
+        "original_name": "Olivier Schwob",
+        "popularity": 0.0713,
+        "profile_path": null,
+        "credit_id": "64871239bf31f25055a20675",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 9890,
+        "known_for_department": "Sound",
+        "name": "Jean-Paul Mugel",
+        "original_name": "Jean-Paul Mugel",
+        "popularity": 0.2461,
+        "profile_path": "/4MPwCouuem4PjQjKytI1WMYcp0Q.jpg",
+        "credit_id": "648711eee2726000e8c1e8bf",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1536671,
+        "known_for_department": "Sound",
+        "name": "Joanna Bruzdowicz",
+        "original_name": "Joanna Bruzdowicz",
+        "popularity": 0.1068,
+        "profile_path": null,
+        "credit_id": "5d0390af0e0a2632c3ccc708",
+        "department": "Sound",
+        "job": "Theme Song Performance"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "FR",
+        "title": "A.V. sur J.B",
+        "type": "alternative title"
+      },
+      {
+        "iso_3166_1": "FR",
+        "title": "Jane B. sur Agnès V.",
+        "type": "alternative title"
+      },
+      {
+        "iso_3166_1": "KR",
+        "title": "Anyeseu Ve uihan Jein B",
+        "type": "transliterated title"
+      },
+      {
+        "iso_3166_1": "SU",
+        "title": "Джейн Б. глазами Аньес В.",
+        "type": "Russian title"
+      },
+      {
+        "iso_3166_1": "DE",
+        "title": "Jane B... wie Birkin",
+        "type": "West Germany TV title"
+      },
+      {
+        "iso_3166_1": "GB",
+        "title": "Jane B. for Agnes V.",
+        "type": ""
+      }
+    ]
+  }
+}

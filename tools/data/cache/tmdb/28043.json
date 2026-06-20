@@ -1,0 +1,658 @@
+{
+  "adult": false,
+  "backdrop_path": "/cTo94twU2vAj4G74gV7ncf4F8Uo.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "",
+  "id": 28043,
+  "imdb_id": "tt0057603",
+  "origin_country": [
+    "IT"
+  ],
+  "original_language": "it",
+  "original_title": "I tre volti della paura",
+  "overview": "Three tales of supernatural horror include a woman plagued by threatening phone calls, a family targeted by vampiric monsters, and a deceased medium who wreaks havoc upon the living.",
+  "popularity": 1.1867,
+  "poster_path": "/vrMcn6CKrLjWAtHHMFL7cj8A5au.jpg",
+  "production_companies": [
+    {
+      "id": 12711,
+      "logo_path": null,
+      "name": "Emmepi Cinematografica",
+      "origin_country": "IT"
+    },
+    {
+      "id": 12240,
+      "logo_path": null,
+      "name": "Galatea Film",
+      "origin_country": "IT"
+    },
+    {
+      "id": 8948,
+      "logo_path": null,
+      "name": "Societé Cinématographique Lyre",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    }
+  ],
+  "release_date": "1963-08-17",
+  "revenue": 0,
+  "runtime": 95,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "status": "Released",
+  "tagline": "A story that goes beyond the boundaries of the Supernatural to the half-world of the living dead...Where a woman's soul inhabits a fly's body...Where vampires suck only the blood of those they love dearest.",
+  "title": "Black Sabbath",
+  "video": false,
+  "vote_average": 7.2,
+  "vote_count": 482,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2922,
+        "known_for_department": "Acting",
+        "name": "Boris Karloff",
+        "original_name": "Boris Karloff",
+        "popularity": 1.2443,
+        "profile_path": "/fVi0QkiziavXB8HnWk5NzRcnCO1.jpg",
+        "cast_id": 13,
+        "character": "Gorca (segment \"The Wurdalak\")",
+        "credit_id": "52fe4574c3a368484e05c385",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6890,
+        "known_for_department": "Production",
+        "name": "Mark Damon",
+        "original_name": "Mark Damon",
+        "popularity": 0.6319,
+        "profile_path": "/dMs895o1Eh7icrvuapCMYlKN8Cz.jpg",
+        "cast_id": 26,
+        "character": "Vladimire d'Urfe (segment \"The Wurdalak\")",
+        "credit_id": "52fe4574c3a368484e05c3b1",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 19270,
+        "known_for_department": "Acting",
+        "name": "Michèle Mercier",
+        "original_name": "Michèle Mercier",
+        "popularity": 0.644,
+        "profile_path": "/bktgqSJAuD3MQoJl8fomncfWpef.jpg",
+        "cast_id": 14,
+        "character": "Rosy (segment \"The Telephone\")",
+        "credit_id": "52fe4574c3a368484e05c389",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 99455,
+        "known_for_department": "Acting",
+        "name": "Susy Andersen",
+        "original_name": "Susy Andersen",
+        "popularity": 0.1956,
+        "profile_path": "/vIdtML5t6F5vCUF2dcHio5D63hE.jpg",
+        "cast_id": 16,
+        "character": "Sdenka (segment \"The Wurdalak\")",
+        "credit_id": "52fe4574c3a368484e05c38d",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 9240,
+        "known_for_department": "Acting",
+        "name": "Lidia Alfonsi",
+        "original_name": "Lidia Alfonsi",
+        "popularity": 0.3012,
+        "profile_path": "/85BrcBOeIcfV9XkV523wN0VGNRR.jpg",
+        "cast_id": 17,
+        "character": "Mary (segment \"The Telephone\")",
+        "credit_id": "52fe4574c3a368484e05c391",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 24787,
+        "known_for_department": "Acting",
+        "name": "Jacqueline Pierreux",
+        "original_name": "Jacqueline Pierreux",
+        "popularity": 0.2591,
+        "profile_path": "/w60ZZS6EiXOmyVv6I9mQbduShRr.jpg",
+        "cast_id": 27,
+        "character": "Helen Chester (segment  \"A Drop Of Water\")",
+        "credit_id": "52fe4574c3a368484e05c3b5",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 72660,
+        "known_for_department": "Acting",
+        "name": "Glauco Onorato",
+        "original_name": "Glauco Onorato",
+        "popularity": 0.4057,
+        "profile_path": "/AuCQy0vgGBk6nvJ78OQFLdD1bra.jpg",
+        "cast_id": 20,
+        "character": "Giorgio (segment \"The Wurdalak\")",
+        "credit_id": "52fe4574c3a368484e05c39d",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 98494,
+        "known_for_department": "Acting",
+        "name": "Massimo Righi",
+        "original_name": "Massimo Righi",
+        "popularity": 0.2714,
+        "profile_path": "/cxoR8eYBh9p421tpprrm4DQov1n.jpg",
+        "cast_id": 18,
+        "character": "Pietro (segment \"The Wurdalak\")",
+        "credit_id": "52fe4574c3a368484e05c395",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 99456,
+        "known_for_department": "Acting",
+        "name": "Rika Dialina",
+        "original_name": "Ρίκα Διαλυνά",
+        "popularity": 0.5132,
+        "profile_path": "/jvBHOqZzOGocnLenSz5YmjPZ97O.jpg",
+        "cast_id": 19,
+        "character": "Maria (segment \"The Wurdalak\")",
+        "credit_id": "52fe4574c3a368484e05c399",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 99445,
+        "known_for_department": "Acting",
+        "name": "Milo Quesada",
+        "original_name": "Milo Quesada",
+        "popularity": 0.1727,
+        "profile_path": "/mFBaW4RQNBEC3lIgOqFBDa68Gfl.jpg",
+        "cast_id": 24,
+        "character": "Frank Rainer (segment \"The Telephone\")",
+        "credit_id": "52fe4574c3a368484e05c3ad",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 99457,
+        "known_for_department": "Acting",
+        "name": "Milly",
+        "original_name": "Milly",
+        "popularity": 0.1909,
+        "profile_path": "/l7r9ep5AOgy74AaLYRsSo3ShlXy.jpg",
+        "cast_id": 21,
+        "character": "The Maid (segment \"A Drop Of Water\")",
+        "credit_id": "52fe4574c3a368484e05c3a1",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 98509,
+        "known_for_department": "Acting",
+        "name": "Gustavo De Nardo",
+        "original_name": "Gustavo De Nardo",
+        "popularity": 0.1017,
+        "profile_path": "/pJaLnWwAhEL4G3VT9pJldlOEzSY.jpg",
+        "cast_id": 23,
+        "character": "Police Inspector (segment \"A Drop Of Water\")",
+        "credit_id": "52fe4574c3a368484e05c3a9",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 54941,
+        "known_for_department": "Acting",
+        "name": "Harriet Medin",
+        "original_name": "Harriet Medin",
+        "popularity": 0.2963,
+        "profile_path": "/7CwP8SQey9wzVLE821qCYfa6irr.jpg",
+        "cast_id": 22,
+        "character": "Neighbor (segment \"A Drop Of Water\")",
+        "credit_id": "52fe4574c3a368484e05c3a5",
+        "order": 12
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 51421,
+        "known_for_department": "Writing",
+        "name": "Marcello Fondato",
+        "original_name": "Marcello Fondato",
+        "popularity": 0.4335,
+        "profile_path": "/2qByTqvp3QW5JBoeNJd9sxkWn7p.jpg",
+        "credit_id": "52fe4574c3a368484e05c357",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 50788,
+        "known_for_department": "Sound",
+        "name": "Roberto Nicolosi",
+        "original_name": "Roberto Nicolosi",
+        "popularity": 0.157,
+        "profile_path": null,
+        "credit_id": "52fe4574c3a368484e05c37b",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 15132,
+        "known_for_department": "Editing",
+        "name": "Mario Serandrei",
+        "original_name": "Mario Serandrei",
+        "popularity": 0.2009,
+        "profile_path": null,
+        "credit_id": "52fe4574c3a368484e05c381",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 25826,
+        "known_for_department": "Directing",
+        "name": "Mario Bava",
+        "original_name": "Mario Bava",
+        "popularity": 0.6984,
+        "profile_path": "/vDx5usGSp8Fygmvo4jnepQ4EQRN.jpg",
+        "credit_id": "52fe4574c3a368484e05c33f",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 98483,
+        "known_for_department": "Camera",
+        "name": "Ubaldo Terzano",
+        "original_name": "Ubaldo Terzano",
+        "popularity": 0.1212,
+        "profile_path": null,
+        "credit_id": "52fe4574c3a368484e05c369",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2185213,
+        "known_for_department": "Writing",
+        "name": "Aleksey Tolstoy",
+        "original_name": "Алексей Толстой",
+        "popularity": 0.2452,
+        "profile_path": "/hbvEBSaF5kxpqK1VAbmHykMG4YQ.jpg",
+        "credit_id": "63cffa7ab6cff1008eed6159",
+        "department": "Writing",
+        "job": "Novel"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 32308,
+        "known_for_department": "Writing",
+        "name": "Alberto Bevilacqua",
+        "original_name": "Alberto Bevilacqua",
+        "popularity": 0.2809,
+        "profile_path": "/tbjZyUZuU3aqt50ze9QJvKROj0L.jpg",
+        "credit_id": "63cffb04b6cff1007c8bfe78",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1659253,
+        "known_for_department": "Camera",
+        "name": "Enrico Fontana",
+        "original_name": "Enrico Fontana",
+        "popularity": 0.0834,
+        "profile_path": null,
+        "credit_id": "63cffbce1685da00bef80712",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1346861,
+        "known_for_department": "Directing",
+        "name": "Priscilla Contardi",
+        "original_name": "Priscilla Contardi",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "63cffc0991745b00b519e6ff",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3786608,
+        "known_for_department": "Production",
+        "name": "Franco Grifeo",
+        "original_name": "Franco Grifeo",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "63cffc93b6cff10084a857aa",
+        "department": "Production",
+        "job": "Administration"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 109469,
+        "known_for_department": "Writing",
+        "name": "Anton Chekhov",
+        "original_name": "Антон Чехов",
+        "popularity": 0.6529,
+        "profile_path": "/jQlZSJWHZTZrBvSfqb8me8S8peP.jpg",
+        "credit_id": "63cffa15b6cff100aa082e92",
+        "department": "Writing",
+        "job": "Novel"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 33822,
+        "known_for_department": "Writing",
+        "name": "Guy de Maupassant",
+        "original_name": "Guy de Maupassant",
+        "popularity": 0.4166,
+        "profile_path": "/5TnxaJOQcUI3ysXUvstMXfm4bJP.jpg",
+        "credit_id": "63cffa1e1685da00c923677c",
+        "department": "Writing",
+        "job": "Novel"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 91794,
+        "known_for_department": "Art",
+        "name": "Giorgio Giovannini",
+        "original_name": "Giorgio Giovannini",
+        "popularity": 0.1858,
+        "profile_path": null,
+        "credit_id": "63cffc5b1b157d008a344317",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 25826,
+        "known_for_department": "Directing",
+        "name": "Mario Bava",
+        "original_name": "Mario Bava",
+        "popularity": 0.6984,
+        "profile_path": "/vDx5usGSp8Fygmvo4jnepQ4EQRN.jpg",
+        "credit_id": "63cffb0a1b157d00a2dd9c4d",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1368360,
+        "known_for_department": "Production",
+        "name": "Armando Govoni",
+        "original_name": "Armando Govoni",
+        "popularity": 0.1149,
+        "profile_path": null,
+        "credit_id": "63cffc7f91745b0085da19f0",
+        "department": "Production",
+        "job": "Unit Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1839210,
+        "known_for_department": "Sound",
+        "name": "Nino Renda",
+        "original_name": "Nino Renda",
+        "popularity": 0.0839,
+        "profile_path": null,
+        "credit_id": "5e1029546f43ec001759c876",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 24670,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Otello Fava",
+        "original_name": "Otello Fava",
+        "popularity": 0.1764,
+        "profile_path": "/oEYLMdjjgww7Mq6cP5CBMDSwTfe.jpg",
+        "credit_id": "5e10288fd64ac20018603c46",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1606890,
+        "known_for_department": "Sound",
+        "name": "Mario Messina",
+        "original_name": "Mario Messina",
+        "popularity": 0.1107,
+        "profile_path": null,
+        "credit_id": "5e1029376f43ec001759c844",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1314147,
+        "known_for_department": "Production",
+        "name": "Lionello Santi",
+        "original_name": "Lionello Santi",
+        "popularity": 0.2012,
+        "profile_path": null,
+        "credit_id": "5e102859663b87001580d79f",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1661161,
+        "known_for_department": "Sound",
+        "name": "Fausto Ancillai",
+        "original_name": "Fausto Ancillai",
+        "popularity": 0.3082,
+        "profile_path": null,
+        "credit_id": "5e10296358361b0015c1d6c4",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1309439,
+        "known_for_department": "Editing",
+        "name": "Lina Caterini",
+        "original_name": "Lina Caterini",
+        "popularity": 0.1333,
+        "profile_path": null,
+        "credit_id": "5e1028c06f43ec001459d088",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1560814,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Renata Magnanti",
+        "original_name": "Renata Magnanti",
+        "popularity": 0.1579,
+        "profile_path": null,
+        "credit_id": "5e1028eb58361b0010c1ddbd",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 99451,
+        "known_for_department": "Production",
+        "name": "Paolo Mercuri",
+        "original_name": "Paolo Mercuri",
+        "popularity": 0.08,
+        "profile_path": null,
+        "credit_id": "5e1028815907de0012d9caf0",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 99489,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Tina Grani",
+        "original_name": "Tina Grani",
+        "popularity": 0.0776,
+        "profile_path": null,
+        "credit_id": "5e10289d58361b0012c166e6",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1130016,
+        "known_for_department": "Art",
+        "name": "Riccardo Domenici",
+        "original_name": "Riccardo Domenici",
+        "popularity": 0.1441,
+        "profile_path": null,
+        "credit_id": "5e1028b5663b870013812515",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1130007,
+        "known_for_department": "Art",
+        "name": "Francesco Bronzi",
+        "original_name": "Francesco Bronzi",
+        "popularity": 0.1536,
+        "profile_path": null,
+        "credit_id": "5e10290f5907de0017d9d75f",
+        "department": "Art",
+        "job": "Assistant Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 30893,
+        "known_for_department": "Camera",
+        "name": "Mario Mancini",
+        "original_name": "Mario Mancini",
+        "popularity": 0.0975,
+        "profile_path": null,
+        "credit_id": "5e102993663b87001580da28",
+        "department": "Camera",
+        "job": "Camera Operator"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "US",
+        "title": "The Three Faces of Fear",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "US",
+        "title": "The Three Faces of Terror",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "ES",
+        "title": "Las tres caras del miedo",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "DE",
+        "title": "Die 3 Gesichter der Furcht",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "AT",
+        "title": "Der Ring der Verdammten",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "FR",
+        "title": "Les trois visages de la peur",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "NL",
+        "title": "Drie Aangezichten van de Verschrikking",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "JP",
+        "title": "ブラック・サバス 恐怖! 三つの顔",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "BR",
+        "title": "Black Sabbath: As Três Máscaras do Terror",
+        "type": ""
+      }
+    ]
+  }
+}

@@ -1,0 +1,452 @@
+{
+  "adult": false,
+  "backdrop_path": "/208aRGBlyf8wVACc3TjgzaDm91X.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "",
+  "id": 49650,
+  "imdb_id": "tt0071384",
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "Daguerréotypes",
+  "overview": "An intimate portrait of the small shops and shopkeepers of the Rue Daguerre in Paris, a picturesque street that has been the filmmaker’s home for more than 50 years.",
+  "popularity": 0.3131,
+  "poster_path": "/3XXWWVKbePGBu6Q7e0ngve5cwBB.jpg",
+  "production_companies": [
+    {
+      "id": 4606,
+      "logo_path": "/otZHbf1HmzLRQsZFSqJXkf8EHz7.png",
+      "name": "ZDF",
+      "origin_country": "DE"
+    },
+    {
+      "id": 14683,
+      "logo_path": "/oqpU5dX9DlN3YB96NdsNXknJhcl.png",
+      "name": "Ciné-Tamaris",
+      "origin_country": "FR"
+    },
+    {
+      "id": 16180,
+      "logo_path": "/tE5t6MnMhvyc34beR4Qf6hM2c5K.png",
+      "name": "INA",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "release_date": "1978-02-28",
+  "revenue": 0,
+  "runtime": 80,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Daguerréotypes",
+  "video": false,
+  "vote_average": 7.3,
+  "vote_count": 53,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 6817,
+        "known_for_department": "Directing",
+        "name": "Agnès Varda",
+        "original_name": "Agnès Varda",
+        "popularity": 0.863,
+        "profile_path": "/sZol5QAmWvpopzAPbSxhoSc1DOe.jpg",
+        "cast_id": 9,
+        "character": "Narrator",
+        "credit_id": "5f44a293cee4810037a5015f",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3833446,
+        "known_for_department": "Acting",
+        "name": "Lucien Bossy",
+        "original_name": "Lucien Bossy",
+        "popularity": 0,
+        "profile_path": null,
+        "cast_id": 10,
+        "character": "Self",
+        "credit_id": "639ca79581a7fc00968a0e36",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3833448,
+        "known_for_department": "Acting",
+        "name": "Leance Debrossian",
+        "original_name": "Leance Debrossian",
+        "popularity": 0.0404,
+        "profile_path": null,
+        "cast_id": 11,
+        "character": "Self",
+        "credit_id": "639ca7a818864b00a0ae2746",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3833451,
+        "known_for_department": "Acting",
+        "name": "Marcelle Debrossian",
+        "original_name": "Marcelle Debrossian",
+        "popularity": 0.0357,
+        "profile_path": null,
+        "cast_id": 12,
+        "character": "Self",
+        "credit_id": "639ca7d781a7fc0089bacbf8",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3833453,
+        "known_for_department": "Acting",
+        "name": "Robert François",
+        "original_name": "Robert François",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "cast_id": 13,
+        "character": "Self - Mystag, the Magician",
+        "credit_id": "639ca7ff93db92007f545d9b",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3833456,
+        "known_for_department": "Acting",
+        "name": "Jean Guillard",
+        "original_name": "Jean Guillard",
+        "popularity": 0.0297,
+        "profile_path": null,
+        "cast_id": 14,
+        "character": "Self",
+        "credit_id": "639ca82f9408ec007b5c7e75",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3833458,
+        "known_for_department": "Acting",
+        "name": "Thibaud Jean",
+        "original_name": "Thibaud Jean",
+        "popularity": 0.077,
+        "profile_path": null,
+        "cast_id": 15,
+        "character": "Self",
+        "credit_id": "639ca840d2b20900a0fa3e8f",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3833460,
+        "known_for_department": "Acting",
+        "name": "Boukraa Mustapha",
+        "original_name": "Boukraa Mustapha",
+        "popularity": 0,
+        "profile_path": null,
+        "cast_id": 16,
+        "character": "Self",
+        "credit_id": "639ca85218864b00ac5bce55",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1569195,
+        "known_for_department": "Acting",
+        "name": "Henri Piednoir",
+        "original_name": "Henri Piednoir",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 17,
+        "character": "Self",
+        "credit_id": "639ca8642f266b009b0b4be6",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3833463,
+        "known_for_department": "Acting",
+        "name": "Maria Piednoir",
+        "original_name": "Maria Piednoir",
+        "popularity": 0,
+        "profile_path": null,
+        "cast_id": 18,
+        "character": "Self",
+        "credit_id": "639ca87618864b00877b5efe",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 36518,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Rosalie Varda",
+        "original_name": "Rosalie Varda",
+        "popularity": 0.1806,
+        "profile_path": "/46CstrPS6ZKBMAdRJG5pFfQGftP.jpg",
+        "cast_id": 3,
+        "character": "Self (uncredited)",
+        "credit_id": "52fe479fc3a36847f813fd11",
+        "order": 10
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 6817,
+        "known_for_department": "Directing",
+        "name": "Agnès Varda",
+        "original_name": "Agnès Varda",
+        "popularity": 0.863,
+        "profile_path": "/sZol5QAmWvpopzAPbSxhoSc1DOe.jpg",
+        "credit_id": "52fe479fc3a36847f813fd07",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 6817,
+        "known_for_department": "Directing",
+        "name": "Agnès Varda",
+        "original_name": "Agnès Varda",
+        "popularity": 0.863,
+        "profile_path": "/sZol5QAmWvpopzAPbSxhoSc1DOe.jpg",
+        "credit_id": "52fe479fc3a36847f813fd0d",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1443838,
+        "known_for_department": "Camera",
+        "name": "Nurith Aviv",
+        "original_name": "Nurith Aviv",
+        "popularity": 0.1059,
+        "profile_path": null,
+        "credit_id": "5b1bbfd99251414bd001cc74",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 24822,
+        "known_for_department": "Camera",
+        "name": "William Lubtchansky",
+        "original_name": "William Lubtchansky",
+        "popularity": 0.1605,
+        "profile_path": "/sprvxeAmDZFtbMrUfGcc8UIf5WX.jpg",
+        "credit_id": "5b1bc019c3a36848ff02716f",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 231526,
+        "known_for_department": "Editing",
+        "name": "Gordon Swire",
+        "original_name": "Gordon Swire",
+        "popularity": 0.0379,
+        "profile_path": null,
+        "credit_id": "5b1bc0219251414bd401b2ae",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1608857,
+        "known_for_department": "Editing",
+        "name": "Andrée Choty",
+        "original_name": "Andrée Choty",
+        "popularity": 0.0479,
+        "profile_path": null,
+        "credit_id": "5cd59afb92514170a53b5d5b",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5874951,
+        "known_for_department": "Production",
+        "name": "Christote Szendro",
+        "original_name": "Christote Szendro",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "693ce2b9384907e06f7808b4",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 22204,
+        "known_for_department": "Sound",
+        "name": "Jean-François Auger",
+        "original_name": "Jean-François Auger",
+        "popularity": 0.171,
+        "profile_path": null,
+        "credit_id": "693ce2cef1898672da83e25f",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 9959,
+        "known_for_department": "Sound",
+        "name": "Antoine Bonfanti",
+        "original_name": "Antoine Bonfanti",
+        "popularity": 0.1246,
+        "profile_path": "/mrRqvA3Cl5fmfKmF9O7ETLGIpu8.jpg",
+        "credit_id": "693ce2e1f60e9d9213f780f0",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 37566,
+        "known_for_department": "Sound",
+        "name": "Bernard Chaumeil",
+        "original_name": "Bernard Chaumeil",
+        "popularity": 0.1418,
+        "profile_path": null,
+        "credit_id": "693ce2ee011ca343dcaec725",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1607875,
+        "known_for_department": "Sound",
+        "name": "Maurice Gilbert",
+        "original_name": "Maurice Gilbert",
+        "popularity": 0.1285,
+        "profile_path": null,
+        "credit_id": "693ce2fd3ecd860338f780e4",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2939075,
+        "known_for_department": "Directing",
+        "name": "Christian Bachmann",
+        "original_name": "Christian Bachmann",
+        "popularity": 0.1327,
+        "profile_path": null,
+        "credit_id": "693ce31ba680b2c1f2aec698",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2028542,
+        "known_for_department": "Camera",
+        "name": "François DeBurek",
+        "original_name": "François DeBurek",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "693ce33552d414fffd619c16",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1359844,
+        "known_for_department": "Directing",
+        "name": "Denis Gheerbrant",
+        "original_name": "Denis Gheerbrant",
+        "popularity": 0.0761,
+        "profile_path": null,
+        "credit_id": "693ce341dd45c51e6199e71b",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 44229,
+        "known_for_department": "Camera",
+        "name": "Michel Thiriet",
+        "original_name": "Michel Thiriet",
+        "popularity": 0.0673,
+        "profile_path": null,
+        "credit_id": "693ce34f930b1d609d78093f",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2510430,
+        "known_for_department": "Camera",
+        "name": "Joël David",
+        "original_name": "Joël David",
+        "popularity": 0.0264,
+        "profile_path": null,
+        "credit_id": "693ce3689f89d55c1499e701",
+        "department": "Lighting",
+        "job": "Electrician"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "SU",
+        "title": "Типы с улицы Дагерра",
+        "type": "Russian alternative title"
+      },
+      {
+        "iso_3166_1": "SE",
+        "title": "Daguerrotyper",
+        "type": "TV title"
+      }
+    ]
+  }
+}

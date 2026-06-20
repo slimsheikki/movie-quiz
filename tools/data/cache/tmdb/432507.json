@@ -1,0 +1,403 @@
+{
+  "adult": false,
+  "backdrop_path": "/fHN0wnNUQeyjQPkb9a590fWKFp0.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "http://finecut.co.kr/html/fulltitle-view.php?no=195",
+  "id": 432507,
+  "imdb_id": "tt5989220",
+  "origin_country": [
+    "KR"
+  ],
+  "original_language": "fr",
+  "original_title": "La Caméra de Claire",
+  "overview": "On a business trip to the Cannes Film Festival, Manhee is accused of being dishonest, and fired. A teacher named Claire goes around taking photos with a Polaroid camera. She gets to know Manhee and sympathizes with her. Claire is like a person who can see Manhee's possible future or past selves, through the mysterious power of the beach tunnel. Through taking photos, Claire has acquired the ability to look slowly at things, and to transform objects. Now, Claire goes with Manhee to the café where she was fired. We look forward to seeing Claire's power at work.",
+  "popularity": 0.8616,
+  "poster_path": "/n12X1HWLOLQXmh781WvG8McLuDI.jpg",
+  "production_companies": [
+    {
+      "id": 17387,
+      "logo_path": "/7vpMH9k3fqiE6Zw0mnRayFd8Tuw.png",
+      "name": "Jeonwonsa Film",
+      "origin_country": "KR"
+    },
+    {
+      "id": 102089,
+      "logo_path": "/sgtZj2tbpPqDfzkEVYICaX2SqyV.png",
+      "name": "Les Films du Camélia",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "KR",
+      "name": "South Korea"
+    },
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "2018-03-07",
+  "revenue": 0,
+  "runtime": 68,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    },
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "한국어/조선말"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Claire's Camera",
+  "video": false,
+  "vote_average": 6.28,
+  "vote_count": 75,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 17882,
+        "known_for_department": "Acting",
+        "name": "Isabelle Huppert",
+        "original_name": "Isabelle Huppert",
+        "popularity": 2.2307,
+        "profile_path": "/hwJQBS3jJA4i5RZ1iv6heBoXUGL.jpg",
+        "cast_id": 1,
+        "character": "Claire",
+        "credit_id": "58680ef1c3a3680f5c001e4a",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 123664,
+        "known_for_department": "Acting",
+        "name": "Kim Min-hee",
+        "original_name": "김민희",
+        "popularity": 1.7289,
+        "profile_path": "/zZ41nW0GJqesHB75hFP6qllPS9y.jpg",
+        "cast_id": 2,
+        "character": "Jeon Manhee",
+        "credit_id": "587840b7c3a3683ed70022a5",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1232910,
+        "known_for_department": "Acting",
+        "name": "Chang Mi-hee",
+        "original_name": "장미희",
+        "popularity": 0.6681,
+        "profile_path": "/eg0crttwzJNdFRhMGrBUjGGv93.jpg",
+        "cast_id": 4,
+        "character": "Nam Yanghye",
+        "credit_id": "587840cdc3a3683ee2002491",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 96484,
+        "known_for_department": "Acting",
+        "name": "Jung Jin-young",
+        "original_name": "정진영",
+        "popularity": 1.184,
+        "profile_path": "/ipBYiyEfFrffCoTpoSiEChHDwz4.jpg",
+        "cast_id": 3,
+        "character": "Director So Wansoo",
+        "credit_id": "587840c1c3a3683ee40022d6",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1730643,
+        "known_for_department": "Acting",
+        "name": "Shahira Fahmy",
+        "original_name": "Shahira Fahmy",
+        "popularity": 0.0956,
+        "profile_path": "/5SrZjHmMJwrFGguqiffJ1GRLvtW.jpg",
+        "cast_id": 0,
+        "character": "Claire's Friend",
+        "credit_id": "58680ee79251414e7d002052",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1997966,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Yoon Hee-sun",
+        "original_name": "Yoon Hee-sun",
+        "popularity": 0.1202,
+        "profile_path": null,
+        "cast_id": 7,
+        "character": "Sungyeon",
+        "credit_id": "5aa8c0e10e0a263dcd02f212",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 221142,
+        "known_for_department": "Acting",
+        "name": "Mark Peranson",
+        "original_name": "Mark Peranson",
+        "popularity": 0.1622,
+        "profile_path": "/6j9vFXvKt3ebiePXIvnJSjud1Lj.jpg",
+        "cast_id": 10,
+        "character": "Man on Terrace",
+        "credit_id": "5aa8c1089251415e4b02b307",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1997967,
+        "known_for_department": "Acting",
+        "name": "Kang Tae-u",
+        "original_name": "강태우",
+        "popularity": 0.5237,
+        "profile_path": "/hmnRzflYUNN5yRxooF6jGPdFIp0.jpg",
+        "cast_id": 9,
+        "character": "Jungwoo",
+        "credit_id": "5aa8c0f70e0a263dc702eab1",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1694394,
+        "known_for_department": "Directing",
+        "name": "Lee Wan-min",
+        "original_name": "이완민",
+        "popularity": 0.1046,
+        "profile_path": null,
+        "cast_id": 8,
+        "character": "",
+        "credit_id": "5aa8c0ed0e0a263dc102d430",
+        "order": 8
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 150975,
+        "known_for_department": "Directing",
+        "name": "Hong Sang-soo",
+        "original_name": "홍상수",
+        "popularity": 1.3128,
+        "profile_path": "/cjZT9zhN5Yl65vTYAoyxCE02rm4.jpg",
+        "credit_id": "587840dc9251417857002483",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 150975,
+        "known_for_department": "Directing",
+        "name": "Hong Sang-soo",
+        "original_name": "홍상수",
+        "popularity": 1.3128,
+        "profile_path": "/cjZT9zhN5Yl65vTYAoyxCE02rm4.jpg",
+        "credit_id": "587840e69251417855002374",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1542408,
+        "known_for_department": "Editing",
+        "name": "Hahm Sung-won",
+        "original_name": "함성원",
+        "popularity": 0.2925,
+        "profile_path": null,
+        "credit_id": "5b06dd169251410d7800af17",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 69085,
+        "known_for_department": "Sound",
+        "name": "Dalpalan",
+        "original_name": "달파란",
+        "popularity": 0.5287,
+        "profile_path": "/tGH9zerISvma1JfyL1bCSthNcWD.jpg",
+        "credit_id": "5b06dd6d0e0a26054a00c1b6",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 150975,
+        "known_for_department": "Directing",
+        "name": "Hong Sang-soo",
+        "original_name": "홍상수",
+        "popularity": 1.3128,
+        "profile_path": "/cjZT9zhN5Yl65vTYAoyxCE02rm4.jpg",
+        "credit_id": "5c51d423c3a368729081eff9",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2288853,
+        "known_for_department": "Sound",
+        "name": "Kim Mir",
+        "original_name": "김미르",
+        "popularity": 0.1223,
+        "profile_path": null,
+        "credit_id": "5e20a650e04d8a001361f0c4",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1997966,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Yoon Hee-sun",
+        "original_name": "Yoon Hee-sun",
+        "popularity": 0.1202,
+        "profile_path": null,
+        "credit_id": "5e31d898c56d2d00155150a6",
+        "department": "Costume & Make-Up",
+        "job": "Makeup & Hair"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2049895,
+        "known_for_department": "Camera",
+        "name": "Lee Jin-keun",
+        "original_name": "이진근",
+        "popularity": 0.2718,
+        "profile_path": null,
+        "credit_id": "5e321ee098f1f10014ff8f26",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2049901,
+        "known_for_department": "Editing",
+        "name": "Son Yeon-ji",
+        "original_name": "손연지",
+        "popularity": 0.1326,
+        "profile_path": null,
+        "credit_id": "5e322032326c1900161ee388",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1997967,
+        "known_for_department": "Acting",
+        "name": "Kang Tae-u",
+        "original_name": "강태우",
+        "popularity": 0.5237,
+        "profile_path": "/hmnRzflYUNN5yRxooF6jGPdFIp0.jpg",
+        "credit_id": "60272fb2651fcf0040ce88e7",
+        "department": "Production",
+        "job": "Line Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2288849,
+        "known_for_department": "Sound",
+        "name": "Seo Ji-hoon",
+        "original_name": "서지훈",
+        "popularity": 0.2006,
+        "profile_path": null,
+        "credit_id": "602942ba511d090040595f33",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2288851,
+        "known_for_department": "Directing",
+        "name": "Lee Jea-han",
+        "original_name": "이제한",
+        "popularity": 0.1464,
+        "profile_path": null,
+        "credit_id": "6043793b1a934f0059791a93",
+        "department": "Crew",
+        "job": "Technical Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5591359,
+        "known_for_department": "Editing",
+        "name": "Jo Hee-dae",
+        "original_name": "조희대",
+        "popularity": 0.0297,
+        "profile_path": null,
+        "credit_id": "6a22e1da5242bd8092ff1afe",
+        "department": "Editing",
+        "job": "Colorist"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "FR",
+        "title": "Claire's Camera",
+        "type": "World-wide English title"
+      },
+      {
+        "iso_3166_1": "KR",
+        "title": "Keulleeo-eui kamera",
+        "type": "romanization"
+      },
+      {
+        "iso_3166_1": "KR",
+        "title": "클레어의 카메라",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "HK",
+        "title": "嘉兒的照相機",
+        "type": ""
+      }
+    ]
+  }
+}

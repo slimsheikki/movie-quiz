@@ -1,0 +1,285 @@
+{
+  "adult": false,
+  "backdrop_path": "/2sfHD7mLGTwIprfe5YMBNzuAnOm.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 137037,
+  "imdb_id": "tt0067861",
+  "origin_country": [
+    "DE"
+  ],
+  "original_language": "de",
+  "original_title": "Der Tod der Maria Malibran",
+  "overview": "A series of tableaux illustrating the life and death of a celebrated 19th century German opera singer.",
+  "popularity": 0.2712,
+  "poster_path": "/gGusP8bIhDPSnAYFBCwREK4aFb1.jpg",
+  "production_companies": [
+    {
+      "id": 4606,
+      "logo_path": "/otZHbf1HmzLRQsZFSqJXkf8EHz7.png",
+      "name": "ZDF",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "release_date": "1972-03-02",
+  "revenue": 0,
+  "runtime": 104,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Death of Maria Malibran",
+  "video": false,
+  "vote_average": 6.568,
+  "vote_count": 22,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 45197,
+        "known_for_department": "Acting",
+        "name": "Magdalena Montezuma",
+        "original_name": "Magdalena Montezuma",
+        "popularity": 0.3698,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "Maria Malibran",
+        "credit_id": "52fe4c23c3a368484e1a96e3",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3762,
+        "known_for_department": "Acting",
+        "name": "Christine Kaufmann",
+        "original_name": "Christine Kaufmann",
+        "popularity": 0.5399,
+        "profile_path": "/6IRA29duwXpLd52DrNukcYJWr3B.jpg",
+        "cast_id": 4,
+        "character": "",
+        "credit_id": "52fe4c23c3a368484e1a96e7",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 105054,
+        "known_for_department": "Acting",
+        "name": "Candy Darling",
+        "original_name": "Candy Darling",
+        "popularity": 0.3166,
+        "profile_path": "/pANPKvsBvXofkCXSvwWexG5Y3pi.jpg",
+        "cast_id": 5,
+        "character": "",
+        "credit_id": "52fe4c23c3a368484e1a96eb",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1106597,
+        "known_for_department": "Acting",
+        "name": "Manuela Riva",
+        "original_name": "Manuela Riva",
+        "popularity": 0.1386,
+        "profile_path": null,
+        "cast_id": 6,
+        "character": "",
+        "credit_id": "52fe4c23c3a368484e1a96ef",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 45195,
+        "known_for_department": "Acting",
+        "name": "Ingrid Caven",
+        "original_name": "Ingrid Caven",
+        "popularity": 0.5008,
+        "profile_path": "/py0XImGnp27PIWYAMWIyNP78X5K.jpg",
+        "cast_id": 7,
+        "character": "",
+        "credit_id": "59a0be31925141779301cf31",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1386946,
+        "known_for_department": "Acting",
+        "name": "Anette Tirier",
+        "original_name": "Anette Tirier",
+        "popularity": 0.0495,
+        "profile_path": null,
+        "cast_id": 8,
+        "character": "",
+        "credit_id": "59a0be3c92514177a701c72d",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1877190,
+        "known_for_department": "Acting",
+        "name": "Einar Hanfstaengl",
+        "original_name": "Einar Hanfstaengl",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 9,
+        "character": "",
+        "credit_id": "59a0be50925141779f01c749",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1877191,
+        "known_for_department": "Acting",
+        "name": "Gabor von Lessner",
+        "original_name": "Gabor von Lessner",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 10,
+        "character": "",
+        "credit_id": "59a0be5cc3a368483001c066",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1877193,
+        "known_for_department": "Acting",
+        "name": "Kurt Jungmann",
+        "original_name": "Kurt Jungmann",
+        "popularity": 0.0555,
+        "profile_path": null,
+        "cast_id": 11,
+        "character": "",
+        "credit_id": "59a0be69c3a36847c501e36a",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1874705,
+        "known_for_department": "Acting",
+        "name": "Joachim Bauer",
+        "original_name": "Joachim Bauer",
+        "popularity": 0.0453,
+        "profile_path": null,
+        "cast_id": 12,
+        "character": "",
+        "credit_id": "59a0be74925141779a01cda6",
+        "order": 9
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 45192,
+        "known_for_department": "Directing",
+        "name": "Werner Schroeter",
+        "original_name": "Werner Schroeter",
+        "popularity": 0.2772,
+        "profile_path": "/yrTk3uMtzx0mu9ZyqHA59XiC5bA.jpg",
+        "credit_id": "52fe4c23c3a368484e1a96d9",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 45192,
+        "known_for_department": "Directing",
+        "name": "Werner Schroeter",
+        "original_name": "Werner Schroeter",
+        "popularity": 0.2772,
+        "profile_path": "/yrTk3uMtzx0mu9ZyqHA59XiC5bA.jpg",
+        "credit_id": "52fe4c23c3a368484e1a96df",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 45192,
+        "known_for_department": "Directing",
+        "name": "Werner Schroeter",
+        "original_name": "Werner Schroeter",
+        "popularity": 0.2772,
+        "profile_path": "/yrTk3uMtzx0mu9ZyqHA59XiC5bA.jpg",
+        "credit_id": "59a0be8f925141774f01c302",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 45192,
+        "known_for_department": "Directing",
+        "name": "Werner Schroeter",
+        "original_name": "Werner Schroeter",
+        "popularity": 0.2772,
+        "profile_path": "/yrTk3uMtzx0mu9ZyqHA59XiC5bA.jpg",
+        "credit_id": "59a0be98c3a36847e501ba0c",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 45192,
+        "known_for_department": "Directing",
+        "name": "Werner Schroeter",
+        "original_name": "Werner Schroeter",
+        "popularity": 0.2772,
+        "profile_path": "/yrTk3uMtzx0mu9ZyqHA59XiC5bA.jpg",
+        "credit_id": "59a0be7fc3a36847c501e390",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1106605,
+        "known_for_department": "Editing",
+        "name": "Ila von Hasperg",
+        "original_name": "Ila von Hasperg",
+        "popularity": 0.1226,
+        "profile_path": null,
+        "credit_id": "59a0bea7925141774f01c32c",
+        "department": "Editing",
+        "job": "Editor"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  }
+}

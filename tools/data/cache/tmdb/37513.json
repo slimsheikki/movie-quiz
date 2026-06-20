@@ -1,0 +1,570 @@
+{
+  "adult": false,
+  "backdrop_path": "/pYW7AaiU0tEpQJbBqDopWSAVHjF.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 37513,
+  "imdb_id": "tt0041870",
+  "origin_country": [
+    "JP"
+  ],
+  "original_language": "ja",
+  "original_title": "静かなる決闘",
+  "overview": "A young army surgeon, Kyoji Fujisaki, accidentally contracts syphilis during a WWII field operation. Back at his father’s clinic, he treats himself in secret and breaks off his engagement rather than risk his fiancée’s future, even as he confronts the irresponsible patient who infected him—testing his ethics, pride, and capacity for sacrifice.",
+  "popularity": 1.2881,
+  "poster_path": "/19dqy5MgZDiWLaXEmvz6oOd3M1Y.jpg",
+  "production_companies": [
+    {
+      "id": 880,
+      "logo_path": "/vwhPRAZ4lhUtSuaifk4Au2MIm92.png",
+      "name": "Daiei Film",
+      "origin_country": "JP"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    }
+  ],
+  "release_date": "1949-03-19",
+  "revenue": 0,
+  "runtime": 95,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Quiet Duel",
+  "video": false,
+  "vote_average": 7.343,
+  "vote_count": 89,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 7450,
+        "known_for_department": "Acting",
+        "name": "Toshirō Mifune",
+        "original_name": "三船敏郎",
+        "popularity": 2.0777,
+        "profile_path": "/3A9PqrtiXHLp8B2JL7m3YvVXrmL.jpg",
+        "cast_id": 4,
+        "character": "Dr. Kyoji Fujisaki",
+        "credit_id": "52fe46519251416c9105085b",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 117837,
+        "known_for_department": "Acting",
+        "name": "Miki Sanjō",
+        "original_name": "三條美紀",
+        "popularity": 0.5398,
+        "profile_path": "/mPC2WeLxeKpOIxvMiImDuAH17vw.jpg",
+        "cast_id": 6,
+        "character": "Misao Matsumoto",
+        "credit_id": "52fe46519251416c91050863",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 7453,
+        "known_for_department": "Acting",
+        "name": "Takashi Shimura",
+        "original_name": "志村喬",
+        "popularity": 2.2823,
+        "profile_path": "/ydyAm2vyBbEPZRICIMqqjDm0NM9.jpg",
+        "cast_id": 5,
+        "character": "Dr. Konosuke Fujisaki",
+        "credit_id": "52fe46519251416c9105085f",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 117838,
+        "known_for_department": "Acting",
+        "name": "Kenjiro Uemura",
+        "original_name": "植村謙二郎",
+        "popularity": 0.6079,
+        "profile_path": "/c6PF6YdnVDjSrnOIcwyej6ZGaH2.jpg",
+        "cast_id": 7,
+        "character": "Susumu Nakada",
+        "credit_id": "52fe46519251416c91050867",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1082745,
+        "known_for_department": "Acting",
+        "name": "Isamu Yamaguchi",
+        "original_name": "山口勇",
+        "popularity": 0.4454,
+        "profile_path": "/5GmYZhcKaJ7CXayUbwLipOmmgKh.jpg",
+        "cast_id": 11,
+        "character": "Patrolman Nosaka",
+        "credit_id": "558b0ac89251413032000dd8",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 106161,
+        "known_for_department": "Acting",
+        "name": "Noriko Sengoku",
+        "original_name": "千石規子",
+        "popularity": 0.6565,
+        "profile_path": "/xmGs4tO59mq4e80r8iXBIjrwzSC.jpg",
+        "cast_id": 9,
+        "character": "Apprentice Nurse",
+        "credit_id": "558b0a779251413032000dbe",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 125723,
+        "known_for_department": "Acting",
+        "name": "Chieko Nakakita",
+        "original_name": "中北千枝子",
+        "popularity": 1.1213,
+        "profile_path": "/wPDw7i4mYeTX6N0N9vwUgXHkxef.jpg",
+        "cast_id": 8,
+        "character": "Takiko Nakada",
+        "credit_id": "558b0a4d92514164fb000703",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1092898,
+        "known_for_department": "Acting",
+        "name": "Kenichi Miyajima",
+        "original_name": "宮島健一",
+        "popularity": 0.4899,
+        "profile_path": "/xnZQzXM3cOKGgX46RgoC0Ya8nw0.jpg",
+        "cast_id": 36,
+        "character": "",
+        "credit_id": "5d44db540f2fbd7673ecf16c",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1200222,
+        "known_for_department": "Acting",
+        "name": "Masatoki Sasaki",
+        "original_name": "佐々木正時",
+        "popularity": 0.1116,
+        "profile_path": null,
+        "cast_id": 38,
+        "character": "Old soldier",
+        "credit_id": "5fa2ce9941a5610038f074e0",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1481054,
+        "known_for_department": "Acting",
+        "name": "Seiji Izumi",
+        "original_name": "泉静治",
+        "popularity": 0.1292,
+        "profile_path": null,
+        "cast_id": 35,
+        "character": "Policeman",
+        "credit_id": "587a29db9251413f46002353",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1197576,
+        "known_for_department": "Acting",
+        "name": "Tadashi Date",
+        "original_name": "Tadashi Date",
+        "popularity": 0.1984,
+        "profile_path": null,
+        "cast_id": 17,
+        "character": "Father of boy with appendicitis",
+        "credit_id": "558b0b9d925141174700101c",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1481052,
+        "known_for_department": "Acting",
+        "name": "Shigeyuki Miyajima",
+        "original_name": "Shigeyuki Miyajima",
+        "popularity": 0.0379,
+        "profile_path": null,
+        "cast_id": 16,
+        "character": "Officer",
+        "credit_id": "558b0b8392514115b70001e3",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1481047,
+        "known_for_department": "Acting",
+        "name": "Junnosuke Miyazaki",
+        "original_name": "Junnosuke Miyazaki",
+        "popularity": 0.0621,
+        "profile_path": null,
+        "cast_id": 10,
+        "character": "Cpl. Horiguchi",
+        "credit_id": "558b0ab29251411472002374",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1200223,
+        "known_for_department": "Acting",
+        "name": "Kisao Tobita",
+        "original_name": "飛田喜佐夫",
+        "popularity": 0.2898,
+        "profile_path": null,
+        "cast_id": 15,
+        "character": "Boy with typhoid",
+        "credit_id": "558b0b53925141020800113d",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1481051,
+        "known_for_department": "Acting",
+        "name": "Kan Takami",
+        "original_name": "Kan Takami",
+        "popularity": 0.0404,
+        "profile_path": null,
+        "cast_id": 14,
+        "character": "Laborer",
+        "credit_id": "558b0b479251411747000ff0",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1481053,
+        "known_for_department": "Acting",
+        "name": "Etsuko Sudo",
+        "original_name": "Etsuko Sudo",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "cast_id": 18,
+        "character": "Mother of boy with appendicitis",
+        "credit_id": "558b0bb2c3a36860e9000b50",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1481067,
+        "known_for_department": "Acting",
+        "name": "Hatsuko Wakahara",
+        "original_name": "若原初子",
+        "popularity": 0.1299,
+        "profile_path": null,
+        "cast_id": 26,
+        "character": "Mii-chan",
+        "credit_id": "558b0cfa92514164fb0007e7",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1092501,
+        "known_for_department": "Acting",
+        "name": "Hiroko Machida",
+        "original_name": "町田博子",
+        "popularity": 0.4441,
+        "profile_path": "/9o8zymGkfHMkJuobqkR2QZkV1zp.jpg",
+        "cast_id": 13,
+        "character": "Nurse Imai",
+        "credit_id": "558b0b17c3a36809b1003869",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1481066,
+        "known_for_department": "Acting",
+        "name": "Wakayo Matsumura",
+        "original_name": "Wakayo Matsumura",
+        "popularity": 0.1442,
+        "profile_path": "/wWghrKg2FLDPqRvzcpk1i1L7QbU.jpg",
+        "cast_id": 25,
+        "character": "Student Nurse",
+        "credit_id": "558b0ce99251413032000eaf",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1481065,
+        "known_for_department": "Acting",
+        "name": "Yakuko Ikegami",
+        "original_name": "Yakuko Ikegami",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "cast_id": 24,
+        "character": "Gaudy Woman",
+        "credit_id": "558b0ccfc3a368141b0010ac",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1481049,
+        "known_for_department": "Acting",
+        "name": "Shigeru Matsumoto",
+        "original_name": "Shigeru Matsumoto",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 12,
+        "character": "Boy with appendicitis",
+        "credit_id": "558b0b029251411747000fca",
+        "order": 20
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1481063,
+        "known_for_department": "Acting",
+        "name": "Yosuke Kudo",
+        "original_name": "Yosuke Kudo",
+        "popularity": 0,
+        "profile_path": null,
+        "cast_id": 23,
+        "character": "Boy",
+        "credit_id": "558b0ca99251413032000e91",
+        "order": 21
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5026,
+        "known_for_department": "Directing",
+        "name": "Akira Kurosawa",
+        "original_name": "黒澤明",
+        "popularity": 2.6745,
+        "profile_path": "/ca8fRqLDfTJTCamLKHp70up23ET.jpg",
+        "credit_id": "52fe46519251416c9105084b",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5026,
+        "known_for_department": "Directing",
+        "name": "Akira Kurosawa",
+        "original_name": "黒澤明",
+        "popularity": 2.6745,
+        "profile_path": "/ca8fRqLDfTJTCamLKHp70up23ET.jpg",
+        "credit_id": "52fe46519251416c91050851",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1534175,
+        "known_for_department": "Production",
+        "name": "Hisao Ichikawa",
+        "original_name": "Hisao Ichikawa",
+        "popularity": 0.0409,
+        "profile_path": null,
+        "credit_id": "5642577d9251412fc20007ab",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 20832,
+        "known_for_department": "Production",
+        "name": "Sōjirō Motoki",
+        "original_name": "本木荘二郎",
+        "popularity": 0.2316,
+        "profile_path": "/3elxuzpG4zmKcXmJxAkRnUDjCn7.jpg",
+        "credit_id": "56425785c3a3686a690006d6",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1201039,
+        "known_for_department": "Camera",
+        "name": "Sōichi Aisaka",
+        "original_name": "相坂操一",
+        "popularity": 0.0877,
+        "profile_path": null,
+        "credit_id": "5642579c9251412fd10007cc",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 21497,
+        "known_for_department": "Editing",
+        "name": "Masanori Tsujii",
+        "original_name": "辻井正則",
+        "popularity": 0.2219,
+        "profile_path": null,
+        "credit_id": "564257a4c3a3686a660007a9",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1534176,
+        "known_for_department": "Sound",
+        "name": "Mitsuo Hasegawa",
+        "original_name": "Mitsuo Hasegawa",
+        "popularity": 0.0801,
+        "profile_path": null,
+        "credit_id": "564257b49251412fc5000794",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 425396,
+        "known_for_department": "Sound",
+        "name": "Akira Ifukube",
+        "original_name": "伊福部昭",
+        "popularity": 0.4182,
+        "profile_path": "/bBc4rGqkN0OBHcw3DRa9jlMvje3.jpg",
+        "credit_id": "571728c4c3a3687c2c000363",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2612082,
+        "known_for_department": "Art",
+        "name": "Koichi Imai",
+        "original_name": "Koichi Imai",
+        "popularity": 0.0379,
+        "profile_path": null,
+        "credit_id": "5ea152dcb7b69d0022449099",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 117836,
+        "known_for_department": "Writing",
+        "name": "Kazuo Kikuta",
+        "original_name": "菊田一夫",
+        "popularity": 0.6013,
+        "profile_path": "/yAR5GaYoNHcrOMqn23O3PhQoyzF.jpg",
+        "credit_id": "690edbc76f33467683c053ae",
+        "department": "Writing",
+        "job": "Original Story"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 87543,
+        "known_for_department": "Directing",
+        "name": "Senkichi Taniguchi",
+        "original_name": "谷口千吉",
+        "popularity": 0.6719,
+        "profile_path": "/o8TsZGL5RSRlaU9slARnWbEKE8c.jpg",
+        "credit_id": "690edc1bf1aaf2deb2ce7e95",
+        "department": "Writing",
+        "job": "Writer"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "JP",
+        "title": "Shizukanaru ketto",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "US",
+        "title": "The Quiet Duel",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "US",
+        "title": "The Silent Duel",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "ES",
+        "title": "Duelo Silencioso",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "JP",
+        "title": "Shizukanaru kettô",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "GB",
+        "title": "The Silent Duel",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "IT",
+        "title": "Il duello silenzioso",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "BR",
+        "title": "A Luta Solitária",
+        "type": "alternative title"
+      },
+      {
+        "iso_3166_1": "SU",
+        "title": "Тихая дуэль",
+        "type": "Russian"
+      },
+      {
+        "iso_3166_1": "PT",
+        "title": "A Luta Solitária",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "AZ",
+        "title": "Səssiz Duello",
+        "type": ""
+      }
+    ]
+  }
+}

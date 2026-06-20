@@ -1,0 +1,783 @@
+{
+  "adult": false,
+  "backdrop_path": "/ks7mFdNkLUssfJjWxIIEfL53ZRB.jpg",
+  "belongs_to_collection": null,
+  "budget": 850000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 67772,
+  "imdb_id": "tt0083745",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Come Back to the 5 & Dime, Jimmy Dean, Jimmy Dean",
+  "overview": "On the 20th anniversary of his death, the members of a James Dean fan club gather at a five-and-dime for a reunion.",
+  "popularity": 1.3211,
+  "poster_path": "/bnXigd6wq4XVfGLa67185cvXJuY.jpg",
+  "production_companies": [
+    {
+      "id": 11487,
+      "logo_path": null,
+      "name": "Sandcastle 5",
+      "origin_country": "US"
+    },
+    {
+      "id": 66275,
+      "logo_path": null,
+      "name": "Mark Goodson Productions",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1982-11-12",
+  "revenue": 840000,
+  "runtime": 110,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "A cup of coffee and a side of dreams.",
+  "title": "Come Back to the 5 & Dime, Jimmy Dean, Jimmy Dean",
+  "video": false,
+  "vote_average": 5.9,
+  "vote_count": 76,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 38225,
+        "known_for_department": "Acting",
+        "name": "Cher",
+        "original_name": "Cher",
+        "popularity": 1.1514,
+        "profile_path": "/yDglV70XMu2cBWZigp5Jxd4etfv.jpg",
+        "cast_id": 1,
+        "character": "Sissy",
+        "credit_id": "52fe4777c3a368484e0c86e5",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 18365,
+        "known_for_department": "Acting",
+        "name": "Sandy Dennis",
+        "original_name": "Sandy Dennis",
+        "popularity": 0.4789,
+        "profile_path": "/nqXShfsjjTMR8VwBPu8YHzxtMd2.jpg",
+        "cast_id": 2,
+        "character": "Mona",
+        "credit_id": "52fe4777c3a368484e0c86e9",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 8963,
+        "known_for_department": "Acting",
+        "name": "Karen Black",
+        "original_name": "Karen Black",
+        "popularity": 1.7348,
+        "profile_path": "/2FUHvpCZ8A3we7yaEvIK8r06fCL.jpg",
+        "cast_id": 3,
+        "character": "Joanne",
+        "credit_id": "52fe4777c3a368484e0c86ed",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 174639,
+        "known_for_department": "Acting",
+        "name": "Sudie Bond",
+        "original_name": "Sudie Bond",
+        "popularity": 0.375,
+        "profile_path": "/yTPywMNctmFSTemPsFUyi4Yezbj.jpg",
+        "cast_id": 4,
+        "character": "Juanita",
+        "credit_id": "52fe4777c3a368484e0c86f1",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 8534,
+        "known_for_department": "Acting",
+        "name": "Kathy Bates",
+        "original_name": "Kathy Bates",
+        "popularity": 2.0252,
+        "profile_path": "/qZRTzTjV4OC1Ii9a0n8QBS9zMOd.jpg",
+        "cast_id": 5,
+        "character": "Stella Mae",
+        "credit_id": "52fe4777c3a368484e0c86f5",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 84918,
+        "known_for_department": "Acting",
+        "name": "Marta Heflin",
+        "original_name": "Marta Heflin",
+        "popularity": 0.1395,
+        "profile_path": "/hoYLkiq94jnUaemqNo0C5zgSsPv.jpg",
+        "cast_id": 6,
+        "character": "Edna Louise",
+        "credit_id": "52fe4777c3a368484e0c86f9",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 62018,
+        "known_for_department": "Acting",
+        "name": "Mark Patton",
+        "original_name": "Mark Patton",
+        "popularity": 0.3341,
+        "profile_path": "/5v6dcMn2WXYPJRqHrIkOzwoxW7M.jpg",
+        "cast_id": 7,
+        "character": "Joe Qualley",
+        "credit_id": "52fe4777c3a368484e0c86fd",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1910,
+        "known_for_department": "Acting",
+        "name": "Caroline Aaron",
+        "original_name": "Caroline Aaron",
+        "popularity": 1.4061,
+        "profile_path": "/7nnic1Dao3XoScrwX7Ac39N2BC1.jpg",
+        "cast_id": 8,
+        "character": "Teenager",
+        "credit_id": "52fe4777c3a368484e0c8701",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2390549,
+        "known_for_department": "Acting",
+        "name": "Gena Ramsel",
+        "original_name": "Gena Ramsel",
+        "popularity": 0.0423,
+        "profile_path": null,
+        "cast_id": 17,
+        "character": "Teenager",
+        "credit_id": "5d59886b0e4fc8001855361f",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 379770,
+        "known_for_department": "Acting",
+        "name": "Ann Risley",
+        "original_name": "Ann Risley",
+        "popularity": 0.0454,
+        "profile_path": "/eFqNUi5Rm1pPYkD7ge9aaG0CbUc.jpg",
+        "cast_id": 18,
+        "character": "Teenager",
+        "credit_id": "5d598878d2c0c10015971da9",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1214531,
+        "known_for_department": "Acting",
+        "name": "Dianne Turley Travis",
+        "original_name": "Dianne Turley Travis",
+        "popularity": 0.6015,
+        "profile_path": "/dcJg9KvhHEFOUnRf4HSYrFwhlTz.jpg",
+        "cast_id": 19,
+        "character": "Teenager",
+        "credit_id": "5d598887da9ef200168d3719",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3112641,
+        "known_for_department": "Acting",
+        "name": "Ruth Miller",
+        "original_name": "Ruth Miller",
+        "popularity": 0.0708,
+        "profile_path": null,
+        "cast_id": 26,
+        "character": "Teenager",
+        "credit_id": "61974c4a4ccc500044489f8e",
+        "order": 11
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 9789,
+        "known_for_department": "Directing",
+        "name": "Robert Altman",
+        "original_name": "Robert Altman",
+        "popularity": 1.3149,
+        "profile_path": "/wB1R6patGi35oaxKU5PWEGJlIZg.jpg",
+        "credit_id": "52fe4777c3a368484e0c8707",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1068822,
+        "known_for_department": "Writing",
+        "name": "Edward Graczyk",
+        "original_name": "Edward Graczyk",
+        "popularity": 0.0885,
+        "profile_path": null,
+        "credit_id": "52fe4777c3a368484e0c870d",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5329,
+        "known_for_department": "Art",
+        "name": "David Gropman",
+        "original_name": "David Gropman",
+        "popularity": 0.1746,
+        "profile_path": null,
+        "credit_id": "5acbef240e0a26320a01cd4d",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 33460,
+        "known_for_department": "Camera",
+        "name": "Pierre Mignot",
+        "original_name": "Pierre Mignot",
+        "popularity": 0.1317,
+        "profile_path": "/hCgXy9HzY3iPwIXwKhYqjSOA0lL.jpg",
+        "credit_id": "5acbee9d0e0a2631a301dfa0",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2020013,
+        "known_for_department": "Editing",
+        "name": "Jason Rosenfield",
+        "original_name": "Jason Rosenfield",
+        "popularity": 0.0948,
+        "profile_path": null,
+        "credit_id": "5acbeefb925141430301b1ec",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 10415,
+        "known_for_department": "Production",
+        "name": "Scott Bushnell",
+        "original_name": "Scott Bushnell",
+        "popularity": 0.1928,
+        "profile_path": null,
+        "credit_id": "5acbee86925141434401bed2",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 10415,
+        "known_for_department": "Production",
+        "name": "Scott Bushnell",
+        "original_name": "Scott Bushnell",
+        "popularity": 0.1928,
+        "profile_path": null,
+        "credit_id": "5acbef4cc3a3687dee01c967",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 46399,
+        "known_for_department": "Production",
+        "name": "Peter Newman",
+        "original_name": "Peter Newman",
+        "popularity": 0.1953,
+        "profile_path": "/9PcGOy5tF1KPkI5mbIsJ0sEsn4g.jpg",
+        "credit_id": "64c96cecd371970139781d1c",
+        "department": "Production",
+        "job": "Production Executive"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2390550,
+        "known_for_department": "Production",
+        "name": "Giraud Chester",
+        "original_name": "Giraud Chester",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "5d5988a60443c90014495ce2",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 10420,
+        "known_for_department": "Art",
+        "name": "Stephen Altman",
+        "original_name": "Stephen Altman",
+        "popularity": 0.4063,
+        "profile_path": null,
+        "credit_id": "5d5988ec0443c90016495c60",
+        "department": "Art",
+        "job": "Property Master"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 33459,
+        "known_for_department": "Camera",
+        "name": "Jean Lépine",
+        "original_name": "Jean Lépine",
+        "popularity": 0.1564,
+        "profile_path": null,
+        "credit_id": "5d598917da9ef200168d380e",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 10420,
+        "known_for_department": "Art",
+        "name": "Stephen Altman",
+        "original_name": "Stephen Altman",
+        "popularity": 0.4063,
+        "profile_path": null,
+        "credit_id": "5d5988c1da9ef200148d399a",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1860443,
+        "known_for_department": "Sound",
+        "name": "Al Nahmias",
+        "original_name": "Al Nahmias",
+        "popularity": 0.1094,
+        "profile_path": null,
+        "credit_id": "5d5989050443c90016495c96",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 17949,
+        "known_for_department": "Editing",
+        "name": "Robert Q. Lovett",
+        "original_name": "Robert Q. Lovett",
+        "popularity": 0.1047,
+        "profile_path": "/1TKvqwOxjc18Xkd4JVzfjBYg62M.jpg",
+        "credit_id": "5d5988fa0e4fc8001555373a",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5504524,
+        "known_for_department": "Production",
+        "name": "Sonja Webster",
+        "original_name": "Sonja Webster",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "684d81e8ad1b389921b0df74",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5504524,
+        "known_for_department": "Production",
+        "name": "Sonja Webster",
+        "original_name": "Sonja Webster",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "684d81f44ef4c4bee6294864",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2022897,
+        "known_for_department": "Directing",
+        "name": "Marlene Arvan",
+        "original_name": "Marlene Arvan",
+        "popularity": 0.1133,
+        "profile_path": null,
+        "credit_id": "684d8204c4906be91f294b78",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5504525,
+        "known_for_department": "Sound",
+        "name": "Franklin Stettner",
+        "original_name": "Franklin Stettner",
+        "popularity": 0.0256,
+        "profile_path": null,
+        "credit_id": "684d82515b8d2a1845bb4ba5",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1802715,
+        "known_for_department": "Sound",
+        "name": "Keith Gardner",
+        "original_name": "Keith Gardner",
+        "popularity": 0.1573,
+        "profile_path": null,
+        "credit_id": "684d8260f9743db94b3fe1cf",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5504526,
+        "known_for_department": "Editing",
+        "name": "Diane Asnes",
+        "original_name": "Diane Asnes",
+        "popularity": 0.0338,
+        "profile_path": null,
+        "credit_id": "684d82746b90ab1fc61becd4",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5504527,
+        "known_for_department": "Editing",
+        "name": "Celeste Hines",
+        "original_name": "Celeste Hines",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "684d82890ee7e0b662344177",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3336908,
+        "known_for_department": "Sound",
+        "name": "Gina Roose",
+        "original_name": "Gina Roose",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "684d829a306ea3d60bbb4afd",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5504530,
+        "known_for_department": "Directing",
+        "name": "Luca Koumelis",
+        "original_name": "Luca Koumelis",
+        "popularity": 0.0261,
+        "profile_path": null,
+        "credit_id": "684d82ba00ebb6ca7f1bee19",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5504536,
+        "known_for_department": "Directing",
+        "name": "John Brigleb",
+        "original_name": "John Brigleb",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "684d82e10ee7e0b662344183",
+        "department": "Directing",
+        "job": "Stage Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1371676,
+        "known_for_department": "Camera",
+        "name": "Robert Reed Altman",
+        "original_name": "Robert Reed Altman",
+        "popularity": 0.0978,
+        "profile_path": "/5pMeAXlUJfofPAOhteo7qMbAdI5.jpg",
+        "credit_id": "684d8344033c8753443df7d2",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1535960,
+        "known_for_department": "Lighting",
+        "name": "Jonathan Lumley",
+        "original_name": "Jonathan Lumley",
+        "popularity": 0.0749,
+        "profile_path": null,
+        "credit_id": "684d8354d1d0dbe543b0dcbd",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 171303,
+        "known_for_department": "Camera",
+        "name": "Tom Grunke",
+        "original_name": "Tom Grunke",
+        "popularity": 0.0921,
+        "profile_path": null,
+        "credit_id": "684d8364f33177836c5c782a",
+        "department": "Camera",
+        "job": "Key Grip"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5504538,
+        "known_for_department": "Crew",
+        "name": "Jack Chandler",
+        "original_name": "Jack Chandler",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "684d838a70df840a281bedd4",
+        "department": "Crew",
+        "job": "Technical Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5504539,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Greg Fauss",
+        "original_name": "Greg Fauss",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "credit_id": "684d83b1e8c608addb344251",
+        "department": "Costume & Make-Up",
+        "job": "Wardrobe Master"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1632596,
+        "known_for_department": "Lighting",
+        "name": "Ben Wilson",
+        "original_name": "Ben Wilson",
+        "popularity": 0.1591,
+        "profile_path": null,
+        "credit_id": "684d83d12712534a241ec3f9",
+        "department": "Costume & Make-Up",
+        "job": "Wardrobe Master"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1316543,
+        "known_for_department": "Costume & Make-Up",
+        "name": "David Forrest",
+        "original_name": "David Forrest",
+        "popularity": 0.1999,
+        "profile_path": null,
+        "credit_id": "684d83f1b1d362cf68b0de45",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5504545,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Fidelio Della Bartolomeo",
+        "original_name": "Fidelio Della Bartolomeo",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "684d841416fa13e10a1bed00",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5504551,
+        "known_for_department": "Production",
+        "name": "Doug Cole",
+        "original_name": "Doug Cole",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "684d844fc6121b019f3443e1",
+        "department": "Production",
+        "job": "Production Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1068822,
+        "known_for_department": "Writing",
+        "name": "Edward Graczyk",
+        "original_name": "Edward Graczyk",
+        "popularity": 0.0885,
+        "profile_path": null,
+        "credit_id": "69d431ae9b18d1ffe53e3b91",
+        "department": "Writing",
+        "job": "Theatre Play"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1399999,
+        "known_for_department": "Camera",
+        "name": "Michael Levine",
+        "original_name": "Michael Levine",
+        "popularity": 0.1395,
+        "profile_path": null,
+        "credit_id": "69ecb7f35958c49c11b4e7fd",
+        "department": "Camera",
+        "job": "Camera Operator"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "US",
+        "title": "Come Back to the 5 and Dime, Jimmy Dean, Jimmy Dean",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "US",
+        "title": "Come Back to the 5 & Dime, Jimmy Dean, Jimmy Dean",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "US",
+        "title": "Come Back to the Five and Dime, Jimmy Dean, Jimmy Dean",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "BR",
+        "title": "James Dean, o Mito Sobrevive",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "DK",
+        "title": "James Dean længe leve",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "FI",
+        "title": "Tule takaisin, Jimmy Dean",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "FR",
+        "title": "Reviens Jimmy Dean, reviens",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "HU",
+        "title": "Jöjj vissza, Jimmy Dean",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "IT",
+        "title": "Jimmy Dean, Jimmy Dean",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "JP",
+        "title": "わが心のジミー・ディーン",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "PL",
+        "title": "Jimmy Dean wróć!",
+        "type": "alternative title"
+      },
+      {
+        "iso_3166_1": "PL",
+        "title": "Wróć, Jimmy Deanie",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "PT",
+        "title": "Volta Jimmy Dean, Volta para Nós",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "RU",
+        "title": "Приходи ко мне на встречу, Джимми Дин, Джимми Дин",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "ES",
+        "title": "Vuelve a la tienda de baratijas, Jimmy Dean",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "TR",
+        "title": "Geri Dön Jimmy Dean",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "UY",
+        "title": "Todos te recordamos, James Dean",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "DE",
+        "title": "Komm' zurück, Jimmy Dean",
+        "type": "West Germany"
+      }
+    ]
+  }
+}

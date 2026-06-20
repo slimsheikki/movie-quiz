@@ -1,0 +1,544 @@
+{
+  "adult": false,
+  "backdrop_path": "/yyD97jO6qJDKuI016aD3a0nTpml.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 9709,
+  "imdb_id": "tt0382189",
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "My Summer of Love",
+  "overview": "In the Yorkshire countryside, working-class tomboy Mona meets the exotic, pampered Tamsin. To seal their friendship, Mona introduces Tamsin to her born-again Christian brother and helps her spy on her adulterous father. Bound together by their secrets, the two girls see their friendship deepen and enter into dangerous waters.",
+  "popularity": 1.1689,
+  "poster_path": "/47eozMel2wZgEASToUzScsPVpDs.jpg",
+  "production_companies": [
+    {
+      "id": 288,
+      "logo_path": "/aW0IpM9d4Zjj978EqgDVSxXXhTj.png",
+      "name": "BBC Film",
+      "origin_country": "GB"
+    },
+    {
+      "id": 20455,
+      "logo_path": "/hSJO4QXfRfBXLbaQWiCnSmhEB8T.png",
+      "name": "The Film Consortium",
+      "origin_country": "GB"
+    },
+    {
+      "id": 19191,
+      "logo_path": null,
+      "name": "Baker Street",
+      "origin_country": "GB"
+    },
+    {
+      "id": 114700,
+      "logo_path": null,
+      "name": "Take  Partnerships",
+      "origin_country": "GB"
+    },
+    {
+      "id": 105124,
+      "logo_path": null,
+      "name": "Apocalypso Pictures",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "2005-05-05",
+  "revenue": 2766094,
+  "runtime": 87,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The most dangerous thing to want is more.",
+  "title": "My Summer of Love",
+  "video": false,
+  "vote_average": 6.14,
+  "vote_count": 321,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 37983,
+        "known_for_department": "Acting",
+        "name": "Natalie Press",
+        "original_name": "Natalie Press",
+        "popularity": 0.3354,
+        "profile_path": "/qE9GG6I2tyxIvHwWUW1wOt1Rgt3.jpg",
+        "cast_id": 1,
+        "character": "Mona",
+        "credit_id": "52fe4520c3a36847f80bde1d",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5081,
+        "known_for_department": "Acting",
+        "name": "Emily Blunt",
+        "original_name": "Emily Blunt",
+        "popularity": 11.1685,
+        "profile_path": "/5nCSG5TL1bP1geD8aaBfaLnLLCD.jpg",
+        "cast_id": 2,
+        "character": "Tamsin",
+        "credit_id": "52fe4520c3a36847f80bde21",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 14887,
+        "known_for_department": "Acting",
+        "name": "Paddy Considine",
+        "original_name": "Paddy Considine",
+        "popularity": 2.2066,
+        "profile_path": "/uIKOm4w2wtUegxratSHj2KPFF7i.jpg",
+        "cast_id": 3,
+        "character": "Phil",
+        "credit_id": "52fe4520c3a36847f80bde25",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 58693,
+        "known_for_department": "Acting",
+        "name": "Dean Andrews",
+        "original_name": "Dean Andrews",
+        "popularity": 0.5713,
+        "profile_path": "/cVWN8uzUBs7fMWzqNNZEHDEhGsQ.jpg",
+        "cast_id": 4,
+        "character": "Ricky",
+        "credit_id": "52fe4520c3a36847f80bde29",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2054229,
+        "known_for_department": "Acting",
+        "name": "Michelle Byrne",
+        "original_name": "Michelle Byrne",
+        "popularity": 0.0588,
+        "profile_path": "/aewqD73Hng4aiaGTl5fZHgs4D4l.jpg",
+        "cast_id": 26,
+        "character": "Ricky's Wife",
+        "credit_id": "5b0f7f0c9251415ecd002b24",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 40670,
+        "known_for_department": "Acting",
+        "name": "Paul Antony-Barber",
+        "original_name": "Paul Antony-Barber",
+        "popularity": 0.3705,
+        "profile_path": "/32SaHEc08KHmiFo5hmIly8JcdRt.jpg",
+        "cast_id": 27,
+        "character": "Tamsin's Father",
+        "credit_id": "5b0f7f1b0e0a263094002e5d",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1417812,
+        "known_for_department": "Acting",
+        "name": "Lynette Edwards",
+        "original_name": "Lynette Edwards",
+        "popularity": 0.1609,
+        "profile_path": "/4iRvrfzGePQPPxVcqk7dCu747YG.jpg",
+        "cast_id": 28,
+        "character": "Tamsin's Mother",
+        "credit_id": "5b0f7f49c3a368622a003eef",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1264799,
+        "known_for_department": "Acting",
+        "name": "Kathryn Sumner",
+        "original_name": "Kathryn Sumner",
+        "popularity": 0.0784,
+        "profile_path": "/tnktfJ5l0GugSEdHggmEIWR1Ccg.jpg",
+        "cast_id": 29,
+        "character": "Sadie",
+        "credit_id": "5b0f7f640e0a2630850030cd",
+        "order": 7
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 58697,
+        "known_for_department": "Production",
+        "name": "Tanya Seghatchian",
+        "original_name": "Tanya Seghatchian",
+        "popularity": 0.2417,
+        "profile_path": null,
+        "credit_id": "52fe4520c3a36847f80bde41",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 64194,
+        "known_for_department": "Directing",
+        "name": "Paweł Pawlikowski",
+        "original_name": "Paweł Pawlikowski",
+        "popularity": 0.4078,
+        "profile_path": "/qCrYlDLL12q8zhjK1HqYPT5gsWI.jpg",
+        "credit_id": "52fe4520c3a36847f80bde5f",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6034,
+        "known_for_department": "Production",
+        "name": "Chris Collins",
+        "original_name": "Chris Collins",
+        "popularity": 0.0999,
+        "profile_path": null,
+        "credit_id": "52fe4520c3a36847f80bde35",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1327790,
+        "known_for_department": "Art",
+        "name": "John Stevenson",
+        "original_name": "John Stevenson",
+        "popularity": 0.1864,
+        "profile_path": null,
+        "credit_id": "548cce4e925141556800047e",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 45058,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Julian Day",
+        "original_name": "Julian Day",
+        "popularity": 0.1437,
+        "profile_path": "/9QB0XRnIKqIQYN8fOMScWDzFHZe.jpg",
+        "credit_id": "548ccef3c3a3681d4b00050d",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1032064,
+        "known_for_department": "Art",
+        "name": "Netty Chapman",
+        "original_name": "Netty Chapman",
+        "popularity": 0.0522,
+        "profile_path": null,
+        "credit_id": "548ccf8f92514122f9002ad9",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 539946,
+        "known_for_department": "Sound",
+        "name": "Will Gregory",
+        "original_name": "Will Gregory",
+        "popularity": 0.1664,
+        "profile_path": null,
+        "credit_id": "548ccf27c3a3684ea1002496",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 58699,
+        "known_for_department": "Writing",
+        "name": "Michael Wynne",
+        "original_name": "Michael Wynne",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "548ccd7e9251415568000467",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 47204,
+        "known_for_department": "Editing",
+        "name": "David Charap",
+        "original_name": "David Charap",
+        "popularity": 0.1339,
+        "profile_path": null,
+        "credit_id": "548cce1592514122ef002983",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 411719,
+        "known_for_department": "Sound",
+        "name": "Alison Goldfrapp",
+        "original_name": "Alison Goldfrapp",
+        "popularity": 0.0882,
+        "profile_path": "/rarm8I3j9Dc3yKMcK84AlR9Yk9z.jpg",
+        "credit_id": "548ccf1492514122ed002a0c",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 64194,
+        "known_for_department": "Directing",
+        "name": "Paweł Pawlikowski",
+        "original_name": "Paweł Pawlikowski",
+        "popularity": 0.4078,
+        "profile_path": "/qCrYlDLL12q8zhjK1HqYPT5gsWI.jpg",
+        "credit_id": "548ccd45c3a36820ba0027ae",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1122200,
+        "known_for_department": "Production",
+        "name": "Buffy Hall",
+        "original_name": "Buffy Hall",
+        "popularity": 0.155,
+        "profile_path": null,
+        "credit_id": "548cce33c3a3684ea1002483",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 58698,
+        "known_for_department": "Writing",
+        "name": "Helen Cross",
+        "original_name": "Helen Cross",
+        "popularity": 0.0684,
+        "profile_path": null,
+        "credit_id": "548ccd5592514122f200283e",
+        "department": "Writing",
+        "job": "Novel"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 960261,
+        "known_for_department": "Camera",
+        "name": "Ryszard Lenczewski",
+        "original_name": "Ryszard Lenczewski",
+        "popularity": 0.0663,
+        "profile_path": null,
+        "credit_id": "548ccd9cc3a36820be002420",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 58695,
+        "known_for_department": "Production",
+        "name": "Chris Auty",
+        "original_name": "Chris Auty",
+        "popularity": 0.1773,
+        "profile_path": null,
+        "credit_id": "636fd38e21621b009112ab2c",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1817748,
+        "known_for_department": "Production",
+        "name": "Emma Fowler",
+        "original_name": "Emma Fowler",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "636fd4add7fbda00ca8c49ed",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1691574,
+        "known_for_department": "Production",
+        "name": "Keith Evans",
+        "original_name": "Keith Evans",
+        "popularity": 0.1675,
+        "profile_path": null,
+        "credit_id": "636fd39e99259c0077050774",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 466,
+        "known_for_department": "Production",
+        "name": "David M. Thompson",
+        "original_name": "David M. Thompson",
+        "popularity": 0.5081,
+        "profile_path": "/nQH252bf2mguR1hrhDgoYnUwrzI.jpg",
+        "credit_id": "636fd3bad7fbda00bb90204f",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1777651,
+        "known_for_department": "Lighting",
+        "name": "Josh Neale",
+        "original_name": "Josh Neale",
+        "popularity": 0.0389,
+        "profile_path": null,
+        "credit_id": "636fd3ed172d7f009cc1010e",
+        "department": "Production",
+        "job": "Producer's Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1247501,
+        "known_for_department": "Production",
+        "name": "Charlotte Ashby",
+        "original_name": "Charlotte Ashby",
+        "popularity": 0.1234,
+        "profile_path": null,
+        "credit_id": "636fd4a21684f70083dc75cd",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 58696,
+        "known_for_department": "Production",
+        "name": "Emma Hayter",
+        "original_name": "Emma Hayter",
+        "popularity": 0.104,
+        "profile_path": null,
+        "credit_id": "636fd3ad798e0600dc3626d8",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1877386,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Tara McDonald",
+        "original_name": "Tara McDonald",
+        "popularity": 0.2976,
+        "profile_path": "/uLfqupHJGHbeZ6I1x3nzXLQTpyM.jpg",
+        "credit_id": "636fd498e894a600aa8c7c0a",
+        "department": "Costume & Make-Up",
+        "job": "Makeup & Hair"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 92365,
+        "known_for_department": "Camera",
+        "name": "David Scott",
+        "original_name": "David Scott",
+        "popularity": 0.0413,
+        "profile_path": null,
+        "credit_id": "5abfb3940e0a264a4e02e21b",
+        "department": "Camera",
+        "job": "Additional Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1785139,
+        "known_for_department": "Production",
+        "name": "Michael Elliott",
+        "original_name": "Michael Elliott",
+        "popularity": 0.202,
+        "profile_path": null,
+        "credit_id": "64abe9b9e24b93011d742c2a",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1373711,
+        "known_for_department": "Sound",
+        "name": "Ben Meechan",
+        "original_name": "Ben Meechan",
+        "popularity": 0.3629,
+        "profile_path": null,
+        "credit_id": "5eee3c9123168c003590beac",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "HU",
+        "title": "Szerelmem nyara",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "RU",
+        "title": "Моё лето любви",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "KR",
+        "title": "사랑이 찾아온 여름",
+        "type": ""
+      }
+    ]
+  }
+}

@@ -1,0 +1,367 @@
+{
+  "adult": false,
+  "backdrop_path": "/b0Jsfl5xW87GOAAFEoqaf3GAIXF.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 92989,
+  "imdb_id": "tt0087164",
+  "origin_country": [
+    "TW"
+  ],
+  "original_language": "zh",
+  "original_title": "冬冬的假期",
+  "overview": "A coming-of-age story about a young brother and sister whom spend a pivotal summer in the country with their grandparents.",
+  "popularity": 1.4281,
+  "poster_path": "/gnmZGNut8TLk5630yiGgoMvPaah.jpg",
+  "production_companies": [
+    {
+      "id": 77405,
+      "logo_path": null,
+      "name": "Marble Road Productions",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "TW",
+      "name": "Taiwan"
+    }
+  ],
+  "release_date": "1984-11-24",
+  "revenue": 0,
+  "runtime": 93,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "普通话"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "A Summer at Grandpa's",
+  "video": false,
+  "vote_average": 7.5,
+  "vote_count": 52,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1656519,
+        "known_for_department": "Acting",
+        "name": "Wong Kai-Gwong",
+        "original_name": "王啟光",
+        "popularity": 0.0938,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "Tung-tung",
+        "credit_id": "579676cf9251417e44000d38",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1656521,
+        "known_for_department": "Acting",
+        "name": "Lee Suk-Ching",
+        "original_name": "李淑楨",
+        "popularity": 0.2486,
+        "profile_path": "/4WmJEbxU12tQjpmZtR3XMu5T4H7.jpg",
+        "cast_id": 5,
+        "character": "Ting-ting",
+        "credit_id": "579676dc9251417d07000d0d",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1081519,
+        "known_for_department": "Acting",
+        "name": "Chen Bo-zheng",
+        "original_name": "陳博正",
+        "popularity": 0.709,
+        "profile_path": "/rO0CAWlNaiyKZixxxdqUWut0URg.jpg",
+        "cast_id": 19,
+        "character": "Liu Chang-min",
+        "credit_id": "5ca638cb925141059343ba6b",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1591117,
+        "known_for_department": "Acting",
+        "name": "Lin Hsiu-Ling",
+        "original_name": "林秀玲",
+        "popularity": 0.505,
+        "profile_path": "/8F73DeUOoKTZIXnSGfZ4yhMxm29.jpg",
+        "cast_id": 7,
+        "character": "Lin Pi-yun",
+        "credit_id": "579676f7c3a3680cfa000e0d",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 81174,
+        "known_for_department": "Acting",
+        "name": "Yen Cheng-kuo",
+        "original_name": "顏正國",
+        "popularity": 0.8486,
+        "profile_path": "/2EmyKZEYjixCL3jfVEyEgN63ETC.jpg",
+        "cast_id": 14,
+        "character": "Yen Cheng-kuo",
+        "credit_id": "5849a72a92514119b3015145",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1656522,
+        "known_for_department": "Acting",
+        "name": "Nai-Chu Ting",
+        "original_name": "丁乃竺",
+        "popularity": 0.0699,
+        "profile_path": "/eBHTW4jQpArcy5v4fz2ZnLWvW7X.jpg",
+        "cast_id": 6,
+        "character": "Huizhen",
+        "credit_id": "579676ebc3a3680c9e000d9b",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 143035,
+        "known_for_department": "Directing",
+        "name": "Edward Yang",
+        "original_name": "楊德昌",
+        "popularity": 0.977,
+        "profile_path": "/j7K4l87WXqvzT1abKsvgMVnFOyW.jpg",
+        "cast_id": 15,
+        "character": "Guanglin",
+        "credit_id": "5849a773c3a368141a01670a",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 69835,
+        "known_for_department": "Acting",
+        "name": "Mei Fang",
+        "original_name": "梅芳",
+        "popularity": 0.5604,
+        "profile_path": "/mco57otRJb6bO1Ans05xWV35VzP.jpg",
+        "cast_id": 11,
+        "character": "Tung-tung's Grandmother",
+        "credit_id": "5849a6b0c3a36814280139e2",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1800993,
+        "known_for_department": "Acting",
+        "name": "Ku Chun",
+        "original_name": "古軍",
+        "popularity": 0.4194,
+        "profile_path": "/1WSWpb5PgJcHuWaZyiGX1IA8R5m.jpg",
+        "cast_id": 22,
+        "character": "Tung-tung's Grandfather",
+        "credit_id": "66aed7612aa1ae27a4f7e8fb",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 136891,
+        "known_for_department": "Acting",
+        "name": "Yang Li-yin",
+        "original_name": "楊麗音",
+        "popularity": 0.5131,
+        "profile_path": "/4gcAn8YOQSy5NKwgT1M0C6NE4xw.jpg",
+        "cast_id": 12,
+        "character": "Hanzi",
+        "credit_id": "5849a6bac3a36814280139ed",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1719829,
+        "known_for_department": "Acting",
+        "name": "Cho Sheng-Li",
+        "original_name": "卓勝利",
+        "popularity": 0.4159,
+        "profile_path": "/dbUDlNHCNI2V00I0lpzRkG43r2y.jpg",
+        "cast_id": 16,
+        "character": "",
+        "credit_id": "5849a79c92514159b00033bd",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 125301,
+        "known_for_department": "Acting",
+        "name": "Chiang Ching-Hsia",
+        "original_name": "江青霞",
+        "popularity": 0.5599,
+        "profile_path": "/eqgcV7FSqpPRMkXledje0IDbECP.jpg",
+        "cast_id": 17,
+        "character": "",
+        "credit_id": "5849a7b2c3a368141f0153a1",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3786553,
+        "known_for_department": "Acting",
+        "name": "Shi-hui Chin",
+        "original_name": "金士會",
+        "popularity": 0.0868,
+        "profile_path": null,
+        "cast_id": 24,
+        "character": "",
+        "credit_id": "688c237b93b408c4d4b2200a",
+        "order": 12
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 64992,
+        "known_for_department": "Directing",
+        "name": "Hou Hsiao-hsien",
+        "original_name": "侯孝賢",
+        "popularity": 0.9214,
+        "profile_path": "/rqP4CEO6toAwGhsj8mmdu3Bta6I.jpg",
+        "credit_id": "52fe49189251416c750bd3d5",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 69831,
+        "known_for_department": "Writing",
+        "name": "Chu Tien-Wen",
+        "original_name": "朱天文",
+        "popularity": 0.9208,
+        "profile_path": "/2h5iQTWNWI2IIifyaVY3oP2NVr1.jpg",
+        "credit_id": "579676b19251417dbe000d3e",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 64992,
+        "known_for_department": "Directing",
+        "name": "Hou Hsiao-hsien",
+        "original_name": "侯孝賢",
+        "popularity": 0.9214,
+        "profile_path": "/rqP4CEO6toAwGhsj8mmdu3Bta6I.jpg",
+        "credit_id": "579676bb9251417e00000d3e",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1158874,
+        "known_for_department": "Directing",
+        "name": "Chen Kun-hou",
+        "original_name": "陳坤厚",
+        "popularity": 0.4233,
+        "profile_path": "/9tOTyqMmdyvEXHjIiIWNQxixWrO.jpg",
+        "credit_id": "5849a56a92514157b500336b",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 69834,
+        "known_for_department": "Editing",
+        "name": "Liao Ching-sung",
+        "original_name": "廖慶松",
+        "popularity": 0.3249,
+        "profile_path": "/8Ktd27fyAxTqzf736RT5EogAqMc.jpg",
+        "credit_id": "5849a58d92514119af014e18",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 143035,
+        "known_for_department": "Directing",
+        "name": "Edward Yang",
+        "original_name": "楊德昌",
+        "popularity": 0.977,
+        "profile_path": "/j7K4l87WXqvzT1abKsvgMVnFOyW.jpg",
+        "credit_id": "5849a5be92514119b3015059",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1316884,
+        "known_for_department": "Sound",
+        "name": "Tu Duu-chih",
+        "original_name": "杜篤之",
+        "popularity": 0.5132,
+        "profile_path": "/jaoW15Nl1y3ViiRQjafYAVQspRE.jpg",
+        "credit_id": "666db29812d596dc7ab8cf36",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "CN",
+        "title": "Dong Dong de Jia qi",
+        "type": "romaji"
+      },
+      {
+        "iso_3166_1": "US",
+        "title": "Summer at Grandpa's",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "TW",
+        "title": "Dong Dong de Jia Ci",
+        "type": "romaji"
+      },
+      {
+        "iso_3166_1": "TW",
+        "title": "Dong Dong de Jiàqi",
+        "type": "romaji"
+      },
+      {
+        "iso_3166_1": "KR",
+        "title": "동동의 여름방학",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "JP",
+        "title": "トントンの夏休み",
+        "type": "Japanese title transliteration: “tonton no natsu yasumi\""
+      }
+    ]
+  }
+}

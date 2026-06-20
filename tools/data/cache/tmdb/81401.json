@@ -1,0 +1,520 @@
+{
+  "adult": false,
+  "backdrop_path": "/eMgNa5dbU34qyF0KA9DMA4TrEzn.jpg",
+  "belongs_to_collection": null,
+  "budget": 1000000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 81401,
+  "imdb_id": "tt1316540",
+  "origin_country": [
+    "HU"
+  ],
+  "original_language": "hu",
+  "original_title": "A torinói ló",
+  "overview": "A look at the monotonous daily struggle of a father and daughter in a windswept, desolate landscape. Over six days, their routine of eating boiled potatoes and tending a failing horse crumbles, symbolizing a slow descent into darkness, emptiness, and the end of existence.",
+  "popularity": 1.3172,
+  "poster_path": "/2kSElneXSKmMsGL55k0CbPGqLbu.jpg",
+  "production_companies": [
+    {
+      "id": 18588,
+      "logo_path": null,
+      "name": "Motion Picture Public Foundation of Hungary",
+      "origin_country": "HU"
+    },
+    {
+      "id": 8138,
+      "logo_path": "/4P6c8TiJZhL2z7b0LbPOUTZwP4z.png",
+      "name": "Vega Film",
+      "origin_country": "CH"
+    },
+    {
+      "id": 9206,
+      "logo_path": null,
+      "name": "Zero Fiction Film",
+      "origin_country": "DE"
+    },
+    {
+      "id": 11011,
+      "logo_path": null,
+      "name": "Fonds Eurimages du Conseil de l'Europe",
+      "origin_country": "FR"
+    },
+    {
+      "id": 53303,
+      "logo_path": null,
+      "name": "Werc Werk Works",
+      "origin_country": "US"
+    },
+    {
+      "id": 73370,
+      "logo_path": null,
+      "name": "Movie Partners In Motion Film",
+      "origin_country": "FR"
+    },
+    {
+      "id": 5130,
+      "logo_path": null,
+      "name": "TT Filmmûhely",
+      "origin_country": "HU"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "HU",
+      "name": "Hungary"
+    },
+    {
+      "iso_3166_1": "CH",
+      "name": "Switzerland"
+    },
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2011-03-31",
+  "revenue": 162088,
+  "runtime": 155,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "Hungarian",
+      "iso_639_1": "hu",
+      "name": "Magyar"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Turin Horse",
+  "video": false,
+  "vote_average": 7.6,
+  "vote_count": 421,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 402999,
+        "known_for_department": "Acting",
+        "name": "János Derzsi",
+        "original_name": "Derzsi János",
+        "popularity": 0.4601,
+        "profile_path": "/8ER5TWn3Wm0UYiwuXEVTcUZaHD1.jpg",
+        "cast_id": 13,
+        "character": "Ohlsdorfer",
+        "credit_id": "5589ab419251414371001c4e",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 224346,
+        "known_for_department": "Acting",
+        "name": "Erika Bók",
+        "original_name": "Erika Bók",
+        "popularity": 0.3161,
+        "profile_path": null,
+        "cast_id": 6,
+        "character": "Ohlsdorfer's daughter",
+        "credit_id": "52fe480f9251416c9107ee4d",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 591875,
+        "known_for_department": "Acting",
+        "name": "Mihály Kormos",
+        "original_name": "Mihály Kormos",
+        "popularity": 0.154,
+        "profile_path": "/pu1nv97NSAj6AyQnXLyKaQMU9Cg.jpg",
+        "cast_id": 7,
+        "character": "Bernhard",
+        "credit_id": "52fe480f9251416c9107ee51",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 42074,
+        "known_for_department": "Acting",
+        "name": "Lajos Kovács",
+        "original_name": "Kovács Lajos",
+        "popularity": 0.2978,
+        "profile_path": "/ahjAaQt6xqsMuNT4UVXFyngTHEx.jpg",
+        "cast_id": 14,
+        "character": "Bernhard (voice)",
+        "credit_id": "561a32ab925141351b001d10",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1521432,
+        "known_for_department": "Acting",
+        "name": "Mihály Ráday",
+        "original_name": "Mihály Ráday",
+        "popularity": 0.102,
+        "profile_path": "/2Qq89oivGj9rZYra2B0XWVqVw9I.jpg",
+        "cast_id": 15,
+        "character": "Narrator (voice)",
+        "credit_id": "561a32b3c3a368426200174e",
+        "order": 4
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 85637,
+        "known_for_department": "Directing",
+        "name": "Béla Tarr",
+        "original_name": "Tarr Béla",
+        "popularity": 0.626,
+        "profile_path": "/71o40gwwvIeyI52KvIobGqGteXX.jpg",
+        "credit_id": "52fe480f9251416c9107ee45",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 591877,
+        "known_for_department": "Production",
+        "name": "Gábor Téni",
+        "original_name": "Gábor Téni",
+        "popularity": 0.1298,
+        "profile_path": null,
+        "credit_id": "52fe480f9251416c9107ee5b",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 224340,
+        "known_for_department": "Sound",
+        "name": "Mihály Víg",
+        "original_name": "Mihály Víg",
+        "popularity": 0.2078,
+        "profile_path": "/71v1NmDSD4i8ZJVNIkbvcwzVMs4.jpg",
+        "credit_id": "52fe48109251416c9107ee61",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 85638,
+        "known_for_department": "Writing",
+        "name": "László Krasznahorkai",
+        "original_name": "Krasznahorkai László",
+        "popularity": 0.2333,
+        "profile_path": "/rjAOiLVgwiB4yq4Mumk3CZn1g6l.jpg",
+        "credit_id": "52fe480f9251416c9107ee3f",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 85637,
+        "known_for_department": "Directing",
+        "name": "Béla Tarr",
+        "original_name": "Tarr Béla",
+        "popularity": 0.626,
+        "profile_path": "/71o40gwwvIeyI52KvIobGqGteXX.jpg",
+        "credit_id": "52fe480f9251416c9107ee33",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 107858,
+        "known_for_department": "Editing",
+        "name": "Ágnes Hranitzky",
+        "original_name": "Ágnes Hranitzky",
+        "popularity": 0.1253,
+        "profile_path": "/lmuWx37D1sjx0RQR53bbk1Og86G.jpg",
+        "credit_id": "52fe48109251416c9107ee6d",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 85638,
+        "known_for_department": "Writing",
+        "name": "László Krasznahorkai",
+        "original_name": "Krasznahorkai László",
+        "popularity": 0.2333,
+        "profile_path": "/rjAOiLVgwiB4yq4Mumk3CZn1g6l.jpg",
+        "credit_id": "6511fe0fa9117f00feb4091c",
+        "department": "Writing",
+        "job": "Author"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1603159,
+        "known_for_department": "Production",
+        "name": "Juliette Lepoutre",
+        "original_name": "Juliette Lepoutre",
+        "popularity": 0.0541,
+        "profile_path": null,
+        "credit_id": "5708f1b9c3a3681d2400300c",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 591878,
+        "known_for_department": "Camera",
+        "name": "Fred Kelemen",
+        "original_name": "Fred Kelemen",
+        "popularity": 0.1362,
+        "profile_path": "/qBcX8xfAHifClU7IjQMRmaAMEXU.jpg",
+        "credit_id": "5708f1f99251416a4a000432",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1017353,
+        "known_for_department": "Production",
+        "name": "Martin Hagemann",
+        "original_name": "Martin Hagemann",
+        "popularity": 0.0894,
+        "profile_path": null,
+        "credit_id": "5708f1a99251415bcf002beb",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1380001,
+        "known_for_department": "Camera",
+        "name": "Marcus Pohlus",
+        "original_name": "Marcus Pohlus",
+        "popularity": 0.1944,
+        "profile_path": null,
+        "credit_id": "5708f23dc3a3681d3a002ce6",
+        "department": "Camera",
+        "job": "Steadicam Operator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1548936,
+        "known_for_department": "Art",
+        "name": "László Rajk",
+        "original_name": "Rajk László",
+        "popularity": 0.1432,
+        "profile_path": null,
+        "credit_id": "5708f20bc3a3681d3000357c",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1603160,
+        "known_for_department": "Production",
+        "name": "Marie-Pierre Macia",
+        "original_name": "Marie-Pierre Macia",
+        "popularity": 0.0496,
+        "profile_path": "/bUtxH6gTjbhUDNr4hkvpUlfYR8X.jpg",
+        "credit_id": "5708f1c99251410a4b002924",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 95166,
+        "known_for_department": "Production",
+        "name": "Ruth Waldburger",
+        "original_name": "Ruth Waldburger",
+        "popularity": 0.0322,
+        "profile_path": "/mSVTUctaqfM3FeLJJlEJAcuOyRM.jpg",
+        "credit_id": "5708f1dcc3a3681d260033f5",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": true,
+        "gender": 0,
+        "id": 1586315,
+        "known_for_department": "Sound",
+        "name": "Csaba Erös",
+        "original_name": "Csaba Erös",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "5708f2a49251410a4b002952",
+        "department": "Crew",
+        "job": "Sound Recordist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1586590,
+        "known_for_department": "Sound",
+        "name": "János Csáki Sr.",
+        "original_name": "János Csáki",
+        "popularity": 0.0362,
+        "profile_path": null,
+        "credit_id": "5708f2929251416a4a000450",
+        "department": "Crew",
+        "job": "Sound Recordist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1586303,
+        "known_for_department": "Sound",
+        "name": "Gábor ifj. Erdélyi",
+        "original_name": "Gábor ifj. Erdélyi",
+        "popularity": 0.0495,
+        "profile_path": null,
+        "credit_id": "5708f2c7925141385e002114",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1403925,
+        "known_for_department": "Camera",
+        "name": "Robert Patzelt",
+        "original_name": "Robert Patzelt",
+        "popularity": 0.0861,
+        "profile_path": null,
+        "credit_id": "5708f24ec3a3681d24003037",
+        "department": "Camera",
+        "job": "Steadicam Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 42864,
+        "known_for_department": "Camera",
+        "name": "Tilman Büttner",
+        "original_name": "Tilman Büttner",
+        "popularity": 0.1633,
+        "profile_path": null,
+        "credit_id": "5708f25fc3a3681d32002dcf",
+        "department": "Camera",
+        "job": "Steadicam Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1603161,
+        "known_for_department": "Lighting",
+        "name": "Miklós Hajdu",
+        "original_name": "Miklós Hajdu",
+        "popularity": 0.0853,
+        "profile_path": null,
+        "credit_id": "5708f27e9251415bcf002c0b",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1602291,
+        "known_for_department": "Crew",
+        "name": "István Pergel",
+        "original_name": "Pergel István",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "5708f2b6c3a3681d2c003377",
+        "department": "Crew",
+        "job": "Sound Recordist"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 107858,
+        "known_for_department": "Editing",
+        "name": "Ágnes Hranitzky",
+        "original_name": "Ágnes Hranitzky",
+        "popularity": 0.1253,
+        "profile_path": "/lmuWx37D1sjx0RQR53bbk1Og86G.jpg",
+        "credit_id": "5e2615ebd8d32900137e4853",
+        "department": "Directing",
+        "job": "Co-Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2442249,
+        "known_for_department": "Directing",
+        "name": "Yann-Eryl Mer",
+        "original_name": "Yann-Eryl Mer",
+        "popularity": 0.0474,
+        "profile_path": "/pXWCmohsB1PiN3o4xpl0S71om0X.jpg",
+        "credit_id": "6a2e8e99e9991620422c83dc",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "ES",
+        "title": "El caballo de Turín",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "HU",
+        "title": "A torinói ló",
+        "type": "Original Title"
+      },
+      {
+        "iso_3166_1": "PL",
+        "title": "Koń turyński",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "DE",
+        "title": "Das Turiner Pferd",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "KR",
+        "title": "토리노의 말",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "TR",
+        "title": "Torino Atı",
+        "type": ""
+      }
+    ]
+  }
+}

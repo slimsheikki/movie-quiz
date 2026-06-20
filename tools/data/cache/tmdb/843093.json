@@ -1,0 +1,545 @@
+{
+  "adult": false,
+  "backdrop_path": "/rYhfAah0o7ZNklrTsKW3lStKUaW.jpg",
+  "belongs_to_collection": null,
+  "budget": 5000000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 843093,
+  "imdb_id": "tt14275050",
+  "origin_country": [
+    "DE",
+    "NO",
+    "FR",
+    "LU"
+  ],
+  "original_language": "fr",
+  "original_title": "Plus que jamais",
+  "overview": "Hélène, a 33-year-old woman from Bordeaux, France, lives happily as a couple with Mathieu, her husband of many years. Her life turns upside down the day she learns she has a rare lung disease. Thanks to a blog, she discovers Norway and decides to follow her instinct. Despite all the love she has for her life partner Mathieu, who is very supportive through her illness, she leaves him behind in France and will cross all Europe to Norway alone in search of a new path and to meet a blogger named Mister that she found on the internet.",
+  "popularity": 0.6575,
+  "poster_path": "/d900vS2Xz9XOhYCTE50jwLFZDlo.jpg",
+  "production_companies": [
+    {
+      "id": 106303,
+      "logo_path": "/cSgdOSoJulKoBoxnp6uaDbypBgb.png",
+      "name": "Eaux-Vives Productions",
+      "origin_country": "FR"
+    },
+    {
+      "id": 21979,
+      "logo_path": "/pVdOYVNJracFdcEsDihqz3VSZ0U.png",
+      "name": "Mer Film",
+      "origin_country": "NO"
+    },
+    {
+      "id": 22028,
+      "logo_path": "/sL5udH4n7YbCuHJ4XxUyliWTJw9.png",
+      "name": "NiKo Film",
+      "origin_country": "DE"
+    },
+    {
+      "id": 790,
+      "logo_path": "/k0MnHFovKIeev0ANR0Ww6HO6tfF.png",
+      "name": "Samsa Film",
+      "origin_country": "LU"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    },
+    {
+      "iso_3166_1": "LU",
+      "name": "Luxembourg"
+    },
+    {
+      "iso_3166_1": "NO",
+      "name": "Norway"
+    }
+  ],
+  "release_date": "2022-11-16",
+  "revenue": 0,
+  "runtime": 123,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Norwegian",
+      "iso_639_1": "no",
+      "name": "Norsk"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "More Than Ever",
+  "video": false,
+  "vote_average": 6.436,
+  "vote_count": 55,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1080195,
+        "known_for_department": "Acting",
+        "name": "Vicky Krieps",
+        "original_name": "Vicky Krieps",
+        "popularity": 1.0389,
+        "profile_path": "/9laK3w40qBnE5UY41wJfnUAYMmC.jpg",
+        "cast_id": 1,
+        "character": "Hélène",
+        "credit_id": "60cf514c9c24fc0079397c48",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 16790,
+        "known_for_department": "Acting",
+        "name": "Gaspard Ulliel",
+        "original_name": "Gaspard Ulliel",
+        "popularity": 1.1367,
+        "profile_path": "/fuZEtNbCzzQr2v4DhhCKo7YAsb0.jpg",
+        "cast_id": 2,
+        "character": "Matthieu",
+        "credit_id": "60cf5153cede690041bd04fe",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 67988,
+        "known_for_department": "Acting",
+        "name": "Bjørn Floberg",
+        "original_name": "Bjørn Floberg",
+        "popularity": 0.3482,
+        "profile_path": "/5FG8SLkNB8lWdZBYKjA1Uqod3Cu.jpg",
+        "cast_id": 3,
+        "character": "Mister",
+        "credit_id": "60cf5167c0ae360040a83e9d",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 554272,
+        "known_for_department": "Acting",
+        "name": "Sophie Langevin",
+        "original_name": "Sophie Langevin",
+        "popularity": 0.0952,
+        "profile_path": null,
+        "cast_id": 20,
+        "character": "Docteur Girlotto",
+        "credit_id": "63563039f3b49a007a855669",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1147035,
+        "known_for_department": "Acting",
+        "name": "Valérie Bodson",
+        "original_name": "Valérie Bodson",
+        "popularity": 0.1896,
+        "profile_path": "/mkdRN1wum4iLHa3gL7QF0qUQDFI.jpg",
+        "cast_id": 21,
+        "character": "Mamm",
+        "credit_id": "63563052a06efe0082e400c6",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3755339,
+        "known_for_department": "Acting",
+        "name": "Jérémy Barbier d'Hiver",
+        "original_name": "Jérémy Barbier d'Hiver",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 22,
+        "character": "Luc",
+        "credit_id": "63563089f3b49a007a85569a",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3755341,
+        "known_for_department": "Acting",
+        "name": "Marion Cadeau",
+        "original_name": "Marion Cadeau",
+        "popularity": 0.0168,
+        "profile_path": null,
+        "cast_id": 23,
+        "character": "Audrey",
+        "credit_id": "6356309a43cd540082677d43",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3755342,
+        "known_for_department": "Acting",
+        "name": "Yacine Sif El Islam",
+        "original_name": "Yacine Sif El Islam",
+        "popularity": 0.0193,
+        "profile_path": null,
+        "cast_id": 24,
+        "character": "Mehdi",
+        "credit_id": "635630aaf8e982007c5d86c1",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3755343,
+        "known_for_department": "Acting",
+        "name": "Estelle Kerkor",
+        "original_name": "Estelle Kerkor",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "cast_id": 25,
+        "character": "Béné",
+        "credit_id": "635630c07a97ab007d755999",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3755344,
+        "known_for_department": "Acting",
+        "name": "Nathalie Man",
+        "original_name": "Nathalie Man",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "cast_id": 26,
+        "character": "Zoé",
+        "credit_id": "635630d7f3b49a0086258ff2",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3755346,
+        "known_for_department": "Acting",
+        "name": "Baptiste Girard",
+        "original_name": "Baptiste Girard",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 27,
+        "character": "Vincent",
+        "credit_id": "63563104c9dbf90082382320",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3755347,
+        "known_for_department": "Acting",
+        "name": "Tom Linton",
+        "original_name": "Tom Linton",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 28,
+        "character": "Olivier",
+        "credit_id": "63563116fa78cd00915f28cd",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2152486,
+        "known_for_department": "Acting",
+        "name": "Bess Davies",
+        "original_name": "Bess Davies",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 29,
+        "character": "Charlie",
+        "credit_id": "6356314c43cd540082677dbe",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1926926,
+        "known_for_department": "Acting",
+        "name": "Astrid Overå",
+        "original_name": "Astrid Overå",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 30,
+        "character": "Marte",
+        "credit_id": "63563168d8e225007a1b4281",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 66841,
+        "known_for_department": "Acting",
+        "name": "Matthieu Chedid",
+        "original_name": "Matthieu Chedid",
+        "popularity": 0.3028,
+        "profile_path": "/geqKlmqjJ07SvHRyCFAHu4TS1Ji.jpg",
+        "cast_id": 31,
+        "character": "Musician",
+        "credit_id": "63782ec619675700db72e47b",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1749716,
+        "known_for_department": "Sound",
+        "name": "Cyril Atef",
+        "original_name": "Cyril Atef",
+        "popularity": 0.0214,
+        "profile_path": "/rocyINuqE0UJ4DhWL0hHfvbpKUb.jpg",
+        "cast_id": 33,
+        "character": "Musician",
+        "credit_id": "674776d83338dfc92844d216",
+        "order": 15
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 150390,
+        "known_for_department": "Directing",
+        "name": "Emily Atef",
+        "original_name": "Emily Atef",
+        "popularity": 0.1978,
+        "profile_path": "/soGUFcEOE39AVurilcJONtN8lfA.jpg",
+        "credit_id": "60cf518f0021340029e732a0",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1025264,
+        "known_for_department": "Camera",
+        "name": "Yves Cape",
+        "original_name": "Yves Cape",
+        "popularity": 0.0698,
+        "profile_path": null,
+        "credit_id": "60cf54a5d43f010029868532",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 43635,
+        "known_for_department": "Production",
+        "name": "Jani Thiltges",
+        "original_name": "Jani Thiltges",
+        "popularity": 0.127,
+        "profile_path": null,
+        "credit_id": "60cf524bb458b800572b8cd4",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 983389,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Dorothée Guiraud",
+        "original_name": "Dorothée Guiraud",
+        "popularity": 0.1139,
+        "profile_path": "/fxNQHXOXIu2IpH3Br9DEGI12Hia.jpg",
+        "credit_id": "60cf52b19f51af00781707b0",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1365899,
+        "known_for_department": "Production",
+        "name": "Maria Ekerhovd",
+        "original_name": "Maria Ekerhovd",
+        "popularity": 0.1126,
+        "profile_path": "/miwESw9dFupTTLaSyQNZvQ8ueSC.jpg",
+        "credit_id": "60cf51c27a3c520078e81629",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 150390,
+        "known_for_department": "Directing",
+        "name": "Emily Atef",
+        "original_name": "Emily Atef",
+        "popularity": 0.1978,
+        "profile_path": "/soGUFcEOE39AVurilcJONtN8lfA.jpg",
+        "credit_id": "60cf517e2d37210029aace8a",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1270676,
+        "known_for_department": "Production",
+        "name": "Xénia Maingot",
+        "original_name": "Xénia Maingot",
+        "popularity": 0.0801,
+        "profile_path": null,
+        "credit_id": "60cf51ebd399e60043f86637",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1121352,
+        "known_for_department": "Production",
+        "name": "Claude Waringo",
+        "original_name": "Claude Waringo",
+        "popularity": 0.0968,
+        "profile_path": "/5JGNSjYZ4lE2x7qAE7gAFFuSaDv.jpg",
+        "credit_id": "60cf525eb458b800294ee140",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2493378,
+        "known_for_department": "Art",
+        "name": "Olivier Wojcik",
+        "original_name": "Olivier Wojcik",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "60cf52cb967cc70058431c20",
+        "department": "Art",
+        "job": "Painter"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 965877,
+        "known_for_department": "Production",
+        "name": "Nicole Gerhards",
+        "original_name": "Nicole Gerhards",
+        "popularity": 0.0498,
+        "profile_path": "/u0kRFyrrMnUL1qAkV5OatQAd0L7.jpg",
+        "credit_id": "60cf51d243d9b100275f8633",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 41025,
+        "known_for_department": "Production",
+        "name": "Sarah Teper",
+        "original_name": "Sarah Teper",
+        "popularity": 0.224,
+        "profile_path": "/crU739Smvmce2qsM4PplXaiQXTO.jpg",
+        "credit_id": "60cf52967a3c520040be207a",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1576802,
+        "known_for_department": "Production",
+        "name": "Bernard Michaux",
+        "original_name": "Bernard Michaux",
+        "popularity": 0.0758,
+        "profile_path": "/w2JOyaXZXYRBIB8P7xUqM9hz7X3.jpg",
+        "credit_id": "60cf5238dfe31d0058000fae",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5195,
+        "known_for_department": "Editing",
+        "name": "Hansjörg Weißbrich",
+        "original_name": "Hansjörg Weißbrich",
+        "popularity": 0.2988,
+        "profile_path": "/nvCsivF50yXhsU4BJLqVpdF0oCV.jpg",
+        "credit_id": "60cf5281d399e60043f86727",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1770629,
+        "known_for_department": "Writing",
+        "name": "Lars Hubrich",
+        "original_name": "Lars Hubrich",
+        "popularity": 0.1636,
+        "profile_path": null,
+        "credit_id": "60cf519cb458b800572b8b4a",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1451497,
+        "known_for_department": "Production",
+        "name": "Olivier Père",
+        "original_name": "Olivier Père",
+        "popularity": 0.2732,
+        "profile_path": "/w3e88Dn1Usb6fNKNElkVfJBybla.jpg",
+        "credit_id": "671bc82734c0fabd681c88b2",
+        "department": "Production",
+        "job": "Co-Producer"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "TR",
+        "title": "Ölüm Ayırana Dek",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "KR",
+        "title": "안녕, 소중한 사람",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "DE",
+        "title": "Mehr denn je",
+        "type": ""
+      }
+    ]
+  }
+}

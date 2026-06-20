@@ -1,0 +1,957 @@
+{
+  "adult": false,
+  "backdrop_path": "/oZp8CLwvRXgBAYGhn8P0pKOD4Ho.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "http://www.magpictures.com/forcemajeure/",
+  "id": 265189,
+  "imdb_id": "tt2121382",
+  "origin_country": [
+    "SE"
+  ],
+  "original_language": "sv",
+  "original_title": "Turist",
+  "overview": "While holidaying in the French Alps, a Swedish family deals with acts of cowardliness as an avalanche breaks out.",
+  "popularity": 1.5986,
+  "poster_path": "/41agNfzepz2DTdgTBX1fX0QclHp.jpg",
+  "production_companies": [
+    {
+      "id": 2783,
+      "logo_path": "/mBN9Pu2qP0gEdzi9R2NvARodQ5X.png",
+      "name": "Motlys",
+      "origin_country": "NO"
+    },
+    {
+      "id": 6505,
+      "logo_path": "/tjpzIYXGAh8DXoMIzYtuuUpiqb3.png",
+      "name": "Coproduction Office",
+      "origin_country": "DK"
+    },
+    {
+      "id": 2801,
+      "logo_path": "/bswb1PLLsKDUXMLgy42bZtCtIde.png",
+      "name": "Film i Väst",
+      "origin_country": "SE"
+    },
+    {
+      "id": 8483,
+      "logo_path": "/lKMQtwKjBzhOvmylMImqzPazKwz.png",
+      "name": "Plattform Produktion",
+      "origin_country": "SE"
+    },
+    {
+      "id": 176607,
+      "logo_path": null,
+      "name": "Parisienne",
+      "origin_country": "FR"
+    },
+    {
+      "id": 109756,
+      "logo_path": "/sudlIoNIIrKmVWaYD2ZVo9HGogW.png",
+      "name": "Auvergne-Rhône-Alpes Cinéma",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DK",
+      "name": "Denmark"
+    },
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "NO",
+      "name": "Norway"
+    },
+    {
+      "iso_3166_1": "SE",
+      "name": "Sweden"
+    }
+  ],
+  "release_date": "2014-08-15",
+  "revenue": 4094339,
+  "runtime": 119,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    },
+    {
+      "english_name": "Norwegian",
+      "iso_639_1": "no",
+      "name": "Norsk"
+    },
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "A film about disasters - both natural and man-made.",
+  "title": "Force Majeure",
+  "video": false,
+  "vote_average": 6.9,
+  "vote_count": 1223,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 116614,
+        "known_for_department": "Acting",
+        "name": "Johannes Bah Kuhnke",
+        "original_name": "Johannes Bah Kuhnke",
+        "popularity": 0.4245,
+        "profile_path": "/q9xNsXwP1LBnOR8m251O86Uvl36.jpg",
+        "cast_id": 3,
+        "character": "Tomas",
+        "credit_id": "534fd2140e0a267eb6000e3a",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1310711,
+        "known_for_department": "Acting",
+        "name": "Lisa Loven Kongsli",
+        "original_name": "Lisa Loven Kongsli",
+        "popularity": 0.8838,
+        "profile_path": "/pm5y6qrZqinsYZW0Rud1DjYU4mP.jpg",
+        "cast_id": 2,
+        "character": "Ebba",
+        "credit_id": "534fd1f00e0a267eab000dd5",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1310713,
+        "known_for_department": "Acting",
+        "name": "Clara Wettergren",
+        "original_name": "Clara Wettergren",
+        "popularity": 0.222,
+        "profile_path": "/n80OU9lhNFV3ezxxMJfzGkMtGMQ.jpg",
+        "cast_id": 4,
+        "character": "Vera",
+        "credit_id": "534fd2390e0a267ea8000e89",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1310714,
+        "known_for_department": "Acting",
+        "name": "Vincent Wettergren",
+        "original_name": "Vincent Wettergren",
+        "popularity": 0.1513,
+        "profile_path": "/oKjI1aq4XBKuJduYtQzRA4UDZI2.jpg",
+        "cast_id": 5,
+        "character": "Harry",
+        "credit_id": "534fd2490e0a267ea1000ed8",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 571418,
+        "known_for_department": "Acting",
+        "name": "Kristofer Hivju",
+        "original_name": "Kristofer Hivju",
+        "popularity": 2.0941,
+        "profile_path": "/bACL39GihNmBnFRay78rS3PUHsH.jpg",
+        "cast_id": 7,
+        "character": "Mats",
+        "credit_id": "54af17919251413fe1000473",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1410873,
+        "known_for_department": "Acting",
+        "name": "Fanni Metelius",
+        "original_name": "Fanni Metelius",
+        "popularity": 0.2047,
+        "profile_path": "/1vtRDCpuXoHdiSOI2sCdVgG4His.jpg",
+        "cast_id": 8,
+        "character": "Fanny",
+        "credit_id": "54af179fc3a3683fba002768",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1410874,
+        "known_for_department": "Art",
+        "name": "Karin Myrenberg",
+        "original_name": "Karin Myrenberg",
+        "popularity": 0.1367,
+        "profile_path": "/5GxqUGOIf7WMpv4nK0hJ0JeYgsy.jpg",
+        "cast_id": 9,
+        "character": "Charlotte",
+        "credit_id": "54af17ac925141152c002647",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 55493,
+        "known_for_department": "Directing",
+        "name": "Brady Corbet",
+        "original_name": "Brady Corbet",
+        "popularity": 1.1564,
+        "profile_path": "/o5RVawgYeKSzMt8o0VLg38ulHZX.jpg",
+        "cast_id": 6,
+        "character": "The American",
+        "credit_id": "543c0752c3a3681990005db1",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1410875,
+        "known_for_department": "Acting",
+        "name": "Johannes Moustos",
+        "original_name": "Johannes Moustos",
+        "popularity": 0.0646,
+        "profile_path": null,
+        "cast_id": 10,
+        "character": "Cleaner",
+        "credit_id": "54af17be9251411ef60029dd",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2094517,
+        "known_for_department": "Acting",
+        "name": "Jorge Lattof",
+        "original_name": "Jorge Lattof",
+        "popularity": 0.051,
+        "profile_path": null,
+        "cast_id": 31,
+        "character": "Tomba",
+        "credit_id": "5b5cdf550e0a262e9201d9a6",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2094518,
+        "known_for_department": "Acting",
+        "name": "Adrian Heinisch",
+        "original_name": "Adrian Heinisch",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 32,
+        "character": "Bus Driver",
+        "credit_id": "5b5cdf8a0e0a262e9f01caa7",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2094519,
+        "known_for_department": "Acting",
+        "name": "Michael Breitenberger",
+        "original_name": "Michael Breitenberger",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 33,
+        "character": "Smoking Man",
+        "credit_id": "5b5cdfac925141522401c448",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2094521,
+        "known_for_department": "Acting",
+        "name": "Karl Pinçon",
+        "original_name": "Karl Pinçon",
+        "popularity": 0,
+        "profile_path": null,
+        "cast_id": 34,
+        "character": "Photographer (voice)",
+        "credit_id": "5b5cdff0925141522401c485",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2094522,
+        "known_for_department": "Acting",
+        "name": "Julie Roumegoux",
+        "original_name": "Julie Roumegoux",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "cast_id": 35,
+        "character": "Snow Board Couple",
+        "credit_id": "5b5ce01b925141522e01ac8b",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2094523,
+        "known_for_department": "Acting",
+        "name": "Peter Gaunt",
+        "original_name": "Peter Gaunt",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 36,
+        "character": "Snow Board Couple",
+        "credit_id": "5b5ce02ac3a368422a01ac94",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2094525,
+        "known_for_department": "Acting",
+        "name": "Vera Kolupaeva",
+        "original_name": "Vera Kolupaeva",
+        "popularity": 0.0338,
+        "profile_path": null,
+        "cast_id": 37,
+        "character": "Russian Woman 1",
+        "credit_id": "5b5ce08a0e0a262e9c01e2a6",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2094526,
+        "known_for_department": "Acting",
+        "name": "Ekaterina Ilina",
+        "original_name": "Ekaterina Ilina",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 38,
+        "character": "Russian Woman 2",
+        "credit_id": "5b5ce0a2925141522401c540",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2094527,
+        "known_for_department": "Acting",
+        "name": "Martin Chertudi",
+        "original_name": "Martin Chertudi",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "cast_id": 39,
+        "character": "Man at Après ski",
+        "credit_id": "5b5ce10dc3a368422401cc23",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1166984,
+        "known_for_department": "Acting",
+        "name": "Natacha Mutomb Dackén",
+        "original_name": "Natacha Mutomb Dackén",
+        "popularity": 0.0468,
+        "profile_path": null,
+        "cast_id": 40,
+        "character": "Shop Assistant",
+        "credit_id": "5b5ce1a3c3a368422c019aca",
+        "order": 18
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 56370,
+        "known_for_department": "Directing",
+        "name": "Ruben Östlund",
+        "original_name": "Ruben Östlund",
+        "popularity": 0.2869,
+        "profile_path": "/o4SdiMI5CyF1BrYL9aUhRQl58Xw.jpg",
+        "credit_id": "627ec00d20e6a534880d907e",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 56370,
+        "known_for_department": "Directing",
+        "name": "Ruben Östlund",
+        "original_name": "Ruben Östlund",
+        "popularity": 0.2869,
+        "profile_path": "/o4SdiMI5CyF1BrYL9aUhRQl58Xw.jpg",
+        "credit_id": "534fd1a80e0a267eb6000e32",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1410876,
+        "known_for_department": "Production",
+        "name": "Marie Kjellson",
+        "original_name": "Marie Kjellson",
+        "popularity": 0.0539,
+        "profile_path": null,
+        "credit_id": "54af17f0c3a368226e0004e5",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 79970,
+        "known_for_department": "Production",
+        "name": "Yngve Sæther",
+        "original_name": "Yngve Sæther",
+        "popularity": 0.1509,
+        "profile_path": "/in2EiaHs7uFfbev4W3co1oDZnvT.jpg",
+        "credit_id": "54af18159251413fe1000485",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 111353,
+        "known_for_department": "Camera",
+        "name": "Fredrik Wenzel",
+        "original_name": "Fredrik Wenzel",
+        "popularity": 0.1388,
+        "profile_path": "/wamLltnjc854qjQjWYcQ56qeitd.jpg",
+        "credit_id": "54af182e9251413fe1000489",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1410878,
+        "known_for_department": "Production",
+        "name": "Katja Wik",
+        "original_name": "Katja Wik",
+        "popularity": 0.0958,
+        "profile_path": null,
+        "credit_id": "54af18499251414a3d000441",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1156989,
+        "known_for_department": "Art",
+        "name": "Josefin Åsberg",
+        "original_name": "Josefin Åsberg",
+        "popularity": 0.0475,
+        "profile_path": null,
+        "credit_id": "54af185592514169e0002b00",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 71620,
+        "known_for_department": "Sound",
+        "name": "Ola Fløttum",
+        "original_name": "Ola Fløttum",
+        "popularity": 0.09,
+        "profile_path": "/zhQaIyPJjIt6lAuxzipXuDbRhxc.jpg",
+        "credit_id": "54af18239251411ef60029e8",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1410877,
+        "known_for_department": "Production",
+        "name": "Marina Perales Marhuenda",
+        "original_name": "Marina Perales Marhuenda",
+        "popularity": 0.0743,
+        "profile_path": null,
+        "credit_id": "54af18099251414ae5000451",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1154242,
+        "known_for_department": "Editing",
+        "name": "Jacob Secher Schulsinger",
+        "original_name": "Jacob Secher Schulsinger",
+        "popularity": 0.0846,
+        "profile_path": "/zrCyHvp1Lr6IMsBuHmWq35GSXat.jpg",
+        "credit_id": "54af183d9251411ef60029eb",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1150129,
+        "known_for_department": "Production",
+        "name": "Katja Adomeit",
+        "original_name": "Katja Adomeit",
+        "popularity": 0.0945,
+        "profile_path": null,
+        "credit_id": "54af17fcc3a368399e002b91",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1156989,
+        "known_for_department": "Art",
+        "name": "Josefin Åsberg",
+        "original_name": "Josefin Åsberg",
+        "popularity": 0.0475,
+        "profile_path": null,
+        "credit_id": "54af1862c3a3682e400004a7",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 18824,
+        "known_for_department": "Production",
+        "name": "Philippe Bober",
+        "original_name": "Philippe Bober",
+        "popularity": 0.1292,
+        "profile_path": "/kOkpmfKWQibXbJ2dh985JqiR4kY.jpg",
+        "credit_id": "54af17d19251414aee000465",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 932556,
+        "known_for_department": "Production",
+        "name": "Erik Hemmendorff",
+        "original_name": "Erik Hemmendorff",
+        "popularity": 0.1646,
+        "profile_path": null,
+        "credit_id": "54af17ddc3a3683fba002770",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1410879,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Pia Aleborg",
+        "original_name": "Pia Aleborg",
+        "popularity": 0.0642,
+        "profile_path": null,
+        "credit_id": "54af186fc3a3684abf001002",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 56370,
+        "known_for_department": "Directing",
+        "name": "Ruben Östlund",
+        "original_name": "Ruben Östlund",
+        "popularity": 0.2869,
+        "profile_path": "/o4SdiMI5CyF1BrYL9aUhRQl58Xw.jpg",
+        "credit_id": "6397acb2a0f1a20094ac667a",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2094528,
+        "known_for_department": "Production",
+        "name": "Sofia Aspeheim",
+        "original_name": "Sofia Aspeheim",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "6397b77ea0f1a200a0995423",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 915068,
+        "known_for_department": "Production",
+        "name": "Jessica Ask",
+        "original_name": "Jessica Ask",
+        "popularity": 0.139,
+        "profile_path": null,
+        "credit_id": "6397ac1b8a88b20091ab2d7f",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1555564,
+        "known_for_department": "Sound",
+        "name": "Rune van Deurs",
+        "original_name": "Rune van Deurs",
+        "popularity": 0.1063,
+        "profile_path": null,
+        "credit_id": "6397b828d05a030094f1999c",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1882222,
+        "known_for_department": "Directing",
+        "name": "Sandra Carlsson",
+        "original_name": "Sandra Carlsson",
+        "popularity": 0.0379,
+        "profile_path": null,
+        "credit_id": "6397b7aea1a9ba0087305d7c",
+        "department": "Production",
+        "job": "Production Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 927999,
+        "known_for_department": "Lighting",
+        "name": "Tobias Henriksson",
+        "original_name": "Tobias Henriksson",
+        "popularity": 0.1287,
+        "profile_path": null,
+        "credit_id": "6397ace62cefc2007c1fa373",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1911240,
+        "known_for_department": "Art",
+        "name": "Theresia Caballero Knevel",
+        "original_name": "Theresia Caballero Knevel",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "6397be7da0f1a200c8819467",
+        "department": "Art",
+        "job": "Property Master"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1906306,
+        "known_for_department": "Directing",
+        "name": "Rikard Waxin",
+        "original_name": "Rikard Waxin",
+        "popularity": 0.0945,
+        "profile_path": null,
+        "credit_id": "6397ba11a0f1a200c8819310",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2040570,
+        "known_for_department": "Directing",
+        "name": "Anna Lebar Sanders",
+        "original_name": "Anna Lebar Sanders",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "6397bb38a1a9ba0087305e8b",
+        "department": "Production",
+        "job": "Extras Casting"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 931785,
+        "known_for_department": "Acting",
+        "name": "Hanna Alström",
+        "original_name": "Hanna Alström",
+        "popularity": 1.21,
+        "profile_path": "/7c9tjRFDQfxP37U5BgfoMdpu5Dw.jpg",
+        "credit_id": "6397bb6b2cefc2007c1fa6a7",
+        "department": "Production",
+        "job": "Casting Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3828437,
+        "known_for_department": "Production",
+        "name": "Matilda Widstrand",
+        "original_name": "Matilda Widstrand",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "6397bf248a88b2007d93c190",
+        "department": "Production",
+        "job": "Casting Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3828378,
+        "known_for_department": "Camera",
+        "name": "Carl-Mikael Ström",
+        "original_name": "Carl-Mikael Ström",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "6397bb05d05a03007d59d785",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1036888,
+        "known_for_department": "Production",
+        "name": "Emilia Widstrand",
+        "original_name": "Emilia Widstrand",
+        "popularity": 0.2142,
+        "profile_path": null,
+        "credit_id": "6397bbcbd05a0300ae50c2f7",
+        "department": "Production",
+        "job": "Casting Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1969392,
+        "known_for_department": "Sound",
+        "name": "Jérôme Aghion",
+        "original_name": "Jérôme Aghion",
+        "popularity": 0.07,
+        "profile_path": null,
+        "credit_id": "5a703b20925141374b00b7c4",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1597623,
+        "known_for_department": "Sound",
+        "name": "Andreas Franck",
+        "original_name": "Andreas Franck",
+        "popularity": 0.0664,
+        "profile_path": null,
+        "credit_id": "5a703b36c3a36847ea00dea5",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1412138,
+        "known_for_department": "Sound",
+        "name": "Erlend Hogstad",
+        "original_name": "Erlend Hogstad",
+        "popularity": 0.1228,
+        "profile_path": null,
+        "credit_id": "5a703b4a0e0a26797200ead5",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 980271,
+        "known_for_department": "Sound",
+        "name": "Gisle Tveito",
+        "original_name": "Gisle Tveito",
+        "popularity": 0.2948,
+        "profile_path": "/cL5ODIEx9MZMYHdgZl9pNEbqXF4.jpg",
+        "credit_id": "5a703b67925141374500bb92",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1969393,
+        "known_for_department": "Sound",
+        "name": "Jesper Miller",
+        "original_name": "Jesper Miller",
+        "popularity": 0.1047,
+        "profile_path": null,
+        "credit_id": "5a703b560e0a26796900f4ac",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1999128,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Erica Spetzig",
+        "original_name": "Erica Spetzig",
+        "popularity": 0.202,
+        "profile_path": null,
+        "credit_id": "5b5ce39dc3a368422c019cb6",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Designer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1428002,
+        "known_for_department": "Production",
+        "name": "Maggie Widstrand",
+        "original_name": "Maggie Widstrand",
+        "popularity": 0.1451,
+        "profile_path": null,
+        "credit_id": "5b5ce3ecc3a368422701ddfc",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1999128,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Erica Spetzig",
+        "original_name": "Erica Spetzig",
+        "popularity": 0.202,
+        "profile_path": null,
+        "credit_id": "5b5ce3a9925141523701b11c",
+        "department": "Costume & Make-Up",
+        "job": "Hair Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2094529,
+        "known_for_department": "Sound",
+        "name": "Kjetil Mørk",
+        "original_name": "Kjetil Mørk",
+        "popularity": 0.0289,
+        "profile_path": null,
+        "credit_id": "5b5ce2ce925141523101b840",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 556015,
+        "known_for_department": "Editing",
+        "name": "Kalle Boman",
+        "original_name": "Kalle Boman",
+        "popularity": 0.1994,
+        "profile_path": "/tfQhQPkQWH04HVu0EHZW8K0txfT.jpg",
+        "credit_id": "5b5ce2190e0a262e9201dbd7",
+        "department": "Crew",
+        "job": "Creative Consultant"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1882025,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Sara Pertmann",
+        "original_name": "Sara Pertmann",
+        "popularity": 0.0907,
+        "profile_path": null,
+        "credit_id": "5b5ce3720e0a262e9801d1f4",
+        "department": "Costume & Make-Up",
+        "job": "Costumer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2094531,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Hege R. Hådell",
+        "original_name": "Hege R. Hådell",
+        "popularity": 0.0683,
+        "profile_path": null,
+        "credit_id": "5b5ce361c3a368422c019c50",
+        "department": "Costume & Make-Up",
+        "job": "Costumer"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "UA",
+        "title": "Снігова терапія",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "KR",
+        "title": "포스마쥬어: 화이트 배케이션",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "SE",
+        "title": "Force Majeure",
+        "type": "international title"
+      },
+      {
+        "iso_3166_1": "SE",
+        "title": "Tourist",
+        "type": "international working title"
+      },
+      {
+        "iso_3166_1": "FR",
+        "title": "Snow Therapy",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "CN",
+        "title": "婚姻风暴",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "HK",
+        "title": "爱情中的不可抗力",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "FR",
+        "title": "Force majeure",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "KR",
+        "title": "포스 마쥬어: 화이트 베케이션",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "ES",
+        "title": "Fuerza mayor - Turist",
+        "type": ""
+      }
+    ]
+  }
+}

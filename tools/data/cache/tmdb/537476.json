@@ -1,0 +1,466 @@
+{
+  "adult": false,
+  "backdrop_path": "/gxSMmT42wcJJpfuo5wGc7Xc0et1.jpg",
+  "belongs_to_collection": null,
+  "budget": 1000000,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "http://www.ifcfilms.com/films/i-trapped-the-devil",
+  "id": 537476,
+  "imdb_id": "tt8708304",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "I Trapped the Devil",
+  "overview": "A man descends into paranoia after trapping what he believes to be the devil in his basement, but things take a dark turn when his family unexpectedly arrive for Christmas.",
+  "popularity": 0.4785,
+  "poster_path": "/95ioOrJWlUTKskXpGLDlOpahu8.jpg",
+  "production_companies": [
+    {
+      "id": 117711,
+      "logo_path": null,
+      "name": "Yellow Veil Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2019-04-26",
+  "revenue": 0,
+  "runtime": 84,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "I Trapped the Devil",
+  "video": false,
+  "vote_average": 4.946,
+  "vote_count": 92,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 141958,
+        "known_for_department": "Acting",
+        "name": "Scott Poythress",
+        "original_name": "Scott Poythress",
+        "popularity": 0.2976,
+        "profile_path": "/tVJSL1ifn0EUmdTZRtFfiRalWhv.jpg",
+        "cast_id": 3,
+        "character": "Steve",
+        "credit_id": "5b56189bc3a3685c8802496e",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 74133,
+        "known_for_department": "Acting",
+        "name": "AJ Bowen",
+        "original_name": "AJ Bowen",
+        "popularity": 0.3598,
+        "profile_path": "/fGSSDkxLOkaUNj1VLHEg6ZPi3Jw.jpg",
+        "cast_id": 1,
+        "character": "Matt",
+        "credit_id": "5b561874c3a3685c97022512",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1092571,
+        "known_for_department": "Acting",
+        "name": "Susan Burke",
+        "original_name": "Susan Burke",
+        "popularity": 0.2397,
+        "profile_path": "/nHOd62Gz7Le1GAUvWaWCo0odQ1E.jpg",
+        "cast_id": 4,
+        "character": "Karen",
+        "credit_id": "5b5618df9251416dcf01f9ab",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 78804,
+        "known_for_department": "Acting",
+        "name": "Jocelin Donahue",
+        "original_name": "Jocelin Donahue",
+        "popularity": 0.7526,
+        "profile_path": "/z5Vbl6FUAIb0zaYKmnpBwQBj2XM.jpg",
+        "cast_id": 2,
+        "character": "Sarah",
+        "credit_id": "5b5618889251416dcc01f85e",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1293892,
+        "known_for_department": "Acting",
+        "name": "Chris Sullivan",
+        "original_name": "Chris Sullivan",
+        "popularity": 1.4082,
+        "profile_path": "/gKZ9xSFrDzUPv27iAkMpH6Qf0Sk.jpg",
+        "cast_id": 5,
+        "character": "The Man",
+        "credit_id": "5bf4e2d5c3a3686375041983",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2179831,
+        "known_for_department": "Acting",
+        "name": "Rowan Russell",
+        "original_name": "Rowan Russell",
+        "popularity": 0.105,
+        "profile_path": null,
+        "cast_id": 6,
+        "character": "Ben",
+        "credit_id": "5bf4e373c3a36818a30b8cdd",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1235959,
+        "known_for_department": "Acting",
+        "name": "John Marrott",
+        "original_name": "John Marrott",
+        "popularity": 0.1582,
+        "profile_path": null,
+        "cast_id": 7,
+        "character": "Alan",
+        "credit_id": "5bf4e398c3a36818aa0aa45c",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2301656,
+        "known_for_department": "Acting",
+        "name": "Aaron Larsen",
+        "original_name": "Aaron Larsen",
+        "popularity": 0.0297,
+        "profile_path": null,
+        "cast_id": 23,
+        "character": "Biker",
+        "credit_id": "5cc979730e0a263447f2dcbf",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2301657,
+        "known_for_department": "Acting",
+        "name": "Jack Vernon",
+        "original_name": "Jack Vernon",
+        "popularity": 0.0357,
+        "profile_path": null,
+        "cast_id": 24,
+        "character": "Santa",
+        "credit_id": "5cc979820e0a267f78f2d2ad",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1755979,
+        "known_for_department": "Acting",
+        "name": "Victoria Smith",
+        "original_name": "Victoria Smith",
+        "popularity": 0.0677,
+        "profile_path": null,
+        "cast_id": 25,
+        "character": "Her",
+        "credit_id": "5cc9798d0e0a2633d0f32f18",
+        "order": 9
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2090772,
+        "known_for_department": "Directing",
+        "name": "Josh Lobo",
+        "original_name": "Josh Lobo",
+        "popularity": 0.0764,
+        "profile_path": "/o0Lbc2ISHW8YxPUv611tnOxDUaj.jpg",
+        "credit_id": "5b5618600e0a2673cf0215e0",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2090772,
+        "known_for_department": "Directing",
+        "name": "Josh Lobo",
+        "original_name": "Josh Lobo",
+        "popularity": 0.0764,
+        "profile_path": "/o0Lbc2ISHW8YxPUv611tnOxDUaj.jpg",
+        "credit_id": "5cc5b2b2c3a368219b81671e",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1042452,
+        "known_for_department": "Sound",
+        "name": "Ben Lovett",
+        "original_name": "Ben Lovett",
+        "popularity": 0.0776,
+        "profile_path": null,
+        "credit_id": "5cc977319251416e2bf34a9b",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1654117,
+        "known_for_department": "Camera",
+        "name": "Bryce Holden",
+        "original_name": "Bryce Holden",
+        "popularity": 0.0362,
+        "profile_path": null,
+        "credit_id": "5cc9777d9251412ba1014a78",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2090772,
+        "known_for_department": "Directing",
+        "name": "Josh Lobo",
+        "original_name": "Josh Lobo",
+        "popularity": 0.0764,
+        "profile_path": "/o0Lbc2ISHW8YxPUv611tnOxDUaj.jpg",
+        "credit_id": "5cc977880e0a263447f2d88f",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2076003,
+        "known_for_department": "Art",
+        "name": "Karleigh Engelbrecht",
+        "original_name": "Karleigh Engelbrecht",
+        "popularity": 0.0448,
+        "profile_path": null,
+        "credit_id": "5cc9788cc3a36820b589c2e0",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2301649,
+        "known_for_department": "Production",
+        "name": "Peter Kibbee",
+        "original_name": "Peter Kibbee",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "5cc978d8c3a3687425811bed",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2301650,
+        "known_for_department": "Production",
+        "name": "Aurora Lobo",
+        "original_name": "Aurora Lobo",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "5cc978e50e0a264ef4f2c41d",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1496056,
+        "known_for_department": "Directing",
+        "name": "Spence Nicholson",
+        "original_name": "Spence Nicholson",
+        "popularity": 0.0944,
+        "profile_path": null,
+        "credit_id": "5cc978fc92514151ca0b1ccf",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2179831,
+        "known_for_department": "Acting",
+        "name": "Rowan Russell",
+        "original_name": "Rowan Russell",
+        "popularity": 0.105,
+        "profile_path": null,
+        "credit_id": "5cc9790cc3a3682dad856429",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 124732,
+        "known_for_department": "Acting",
+        "name": "Scott Weinberg",
+        "original_name": "Scott Weinberg",
+        "popularity": 0.2041,
+        "profile_path": "/pbCdXSrQaQXoqhXOLdVQsFfqdLI.jpg",
+        "credit_id": "5cc979190e0a263743f2f129",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 74133,
+        "known_for_department": "Acting",
+        "name": "AJ Bowen",
+        "original_name": "AJ Bowen",
+        "popularity": 0.3598,
+        "profile_path": "/fGSSDkxLOkaUNj1VLHEg6ZPi3Jw.jpg",
+        "credit_id": "5cc979b39251415cd2ff171a",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 141958,
+        "known_for_department": "Acting",
+        "name": "Scott Poythress",
+        "original_name": "Scott Poythress",
+        "popularity": 0.2976,
+        "profile_path": "/tVJSL1ifn0EUmdTZRtFfiRalWhv.jpg",
+        "credit_id": "5cc979c49251410855f2ed5f",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1092571,
+        "known_for_department": "Acting",
+        "name": "Susan Burke",
+        "original_name": "Susan Burke",
+        "popularity": 0.2397,
+        "profile_path": "/nHOd62Gz7Le1GAUvWaWCo0odQ1E.jpg",
+        "credit_id": "5cc979d60e0a263447f2dd09",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2301663,
+        "known_for_department": "Art",
+        "name": "Sage Alice Griffin",
+        "original_name": "Sage Alice Griffin",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "5cc979ef9251412ba1014dc2",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2301666,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Blake Harbour",
+        "original_name": "Blake Harbour",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "5cc97a25c3a3687425811dd4",
+        "department": "Costume & Make-Up",
+        "job": "Special Effects Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2156991,
+        "known_for_department": "Directing",
+        "name": "Paula Pacheco",
+        "original_name": "Paula Pacheco",
+        "popularity": 0.0338,
+        "profile_path": null,
+        "credit_id": "5cc97a36c3a3684677879d8f",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2156991,
+        "known_for_department": "Directing",
+        "name": "Paula Pacheco",
+        "original_name": "Paula Pacheco",
+        "popularity": 0.0338,
+        "profile_path": null,
+        "credit_id": "5cc97a3fc3a3687443811470",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "US",
+        "title": "A Man in the Dark",
+        "type": "working title"
+      },
+      {
+        "iso_3166_1": "GR",
+        "title": "Παγίδεψα τον Διάβολο",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "PL",
+        "title": "Uwięziłem diabła",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "RU",
+        "title": "Я поймал Дьявола",
+        "type": ""
+      }
+    ]
+  }
+}

@@ -1,0 +1,769 @@
+{
+  "adult": false,
+  "backdrop_path": "/iozxwgTMgaqljPfZ5fE7913mLU.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 807862,
+  "imdb_id": "tt14336174",
+  "origin_country": [
+    "BE",
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "Peter von Kant",
+  "overview": "Peter von Kant, a successful, famous director, lives with his assistant Karl, whom he likes to mistreat and humiliate. Through the great actress Sidonie, he meets and falls in love with Amir, a handsome young man of modest means. He offers to share his apartment and help Amir break into the world of cinema. Several months later, Amir becomes a star. But as soon as he acquires fame, he breaks up with Peter, leaving him alone to face himself.",
+  "popularity": 0.6959,
+  "poster_path": "/5ZTjS0XmJHCAcp0jWj6tR64hAeJ.jpg",
+  "production_companies": [
+    {
+      "id": 83,
+      "logo_path": "/9OQ0rm55xtlgX7KcAKMUePJSrQc.png",
+      "name": "France 2 Cinéma",
+      "origin_country": "FR"
+    },
+    {
+      "id": 108769,
+      "logo_path": "/riBQBny2Z3la03Wy8I27Ahn2spC.png",
+      "name": "Playtime",
+      "origin_country": "FR"
+    },
+    {
+      "id": 11199,
+      "logo_path": "/tWXanyy8XwpcOPannNJ33QUcXp5.png",
+      "name": "SCOPE Pictures",
+      "origin_country": "BE"
+    },
+    {
+      "id": 149,
+      "logo_path": null,
+      "name": "FOZ",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "BE",
+      "name": "Belgium"
+    }
+  ],
+  "release_date": "2022-07-06",
+  "revenue": 0,
+  "runtime": 85,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    },
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Peter von Kant",
+  "video": false,
+  "vote_average": 5.731,
+  "vote_count": 106,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 81125,
+        "known_for_department": "Acting",
+        "name": "Denis Ménochet",
+        "original_name": "Denis Ménochet",
+        "popularity": 0.5421,
+        "profile_path": "/qpCPmm12kbzMKniYF6iKmKLZCjY.jpg",
+        "cast_id": 3,
+        "character": "Peter von Kant",
+        "credit_id": "61b52be3cb75d1001c03a0c4",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 6553,
+        "known_for_department": "Acting",
+        "name": "Isabelle Adjani",
+        "original_name": "Isabelle Adjani",
+        "popularity": 2.0781,
+        "profile_path": "/ad0GTy4ivzDhep1R0CgiR0O0g2v.jpg",
+        "cast_id": 2,
+        "character": "Sidonie",
+        "credit_id": "61b52bddc616ac009a0d6e46",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2725175,
+        "known_for_department": "Acting",
+        "name": "Khalil Ben Gharbia",
+        "original_name": "Khalil Ben Gharbia",
+        "popularity": 0.4415,
+        "profile_path": "/jeL1Fm4HWqIkxJAUQTYnlfKCO7x.jpg",
+        "cast_id": 6,
+        "character": "Amir",
+        "credit_id": "61dc3e705c564e00413212d2",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3734,
+        "known_for_department": "Acting",
+        "name": "Hanna Schygulla",
+        "original_name": "Hanna Schygulla",
+        "popularity": 0.7924,
+        "profile_path": "/hAZVxNCVzYBq3ToWzE01LXK6Oum.jpg",
+        "cast_id": 5,
+        "character": "Rosemarie",
+        "credit_id": "61dc3e6c681888008fe606a6",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2601088,
+        "known_for_department": "Acting",
+        "name": "Stefan Crepon",
+        "original_name": "Stefan Crepon",
+        "popularity": 0.3803,
+        "profile_path": "/pEhRxeFhLR1iVyYBMkHijkLZ3xN.jpg",
+        "cast_id": 7,
+        "character": "Karl",
+        "credit_id": "61dc3e8500508a0097559821",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1558105,
+        "known_for_department": "Acting",
+        "name": "Aminthe Audiard",
+        "original_name": "Aminthe Audiard",
+        "popularity": 0.1693,
+        "profile_path": "/dUdLANc3RfekQohVqXfmzfSSTwD.jpg",
+        "cast_id": 8,
+        "character": "Gabrielle",
+        "credit_id": "61dc3e92665408009bdf672b",
+        "order": 5
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4387,
+        "known_for_department": "Directing",
+        "name": "François Ozon",
+        "original_name": "François Ozon",
+        "popularity": 0.6155,
+        "profile_path": "/gjXDLWWMlypNp2R4ALMhR9JMf18.jpg",
+        "credit_id": "6054a99e1d820f0054ffaf2d",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1532783,
+        "known_for_department": "Sound",
+        "name": "Dominique Eyraud",
+        "original_name": "Dominique Eyraud",
+        "popularity": 0.1098,
+        "profile_path": null,
+        "credit_id": "6297bf811e9225004f7ecf23",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1751086,
+        "known_for_department": "Camera",
+        "name": "Léonidas Arvanitis",
+        "original_name": "Léonidas Arvanitis",
+        "popularity": 0.0989,
+        "profile_path": null,
+        "credit_id": "6297bff9cddbbc130d1e043f",
+        "department": "Camera",
+        "job": "Focus Puller"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3572335,
+        "known_for_department": "Visual Effects",
+        "name": "Roxane Haulot",
+        "original_name": "Roxane Haulot",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "6297bfdd5f2db1009cd45edc",
+        "department": "Visual Effects",
+        "job": "Visual Effects Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2638412,
+        "known_for_department": "Sound",
+        "name": "Thibaut Macquart",
+        "original_name": "Thibaut Macquart",
+        "popularity": 0.0416,
+        "profile_path": null,
+        "credit_id": "6297bfb25f2db1004f9e4899",
+        "department": "Sound",
+        "job": "Foley Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2168156,
+        "known_for_department": "Visual Effects",
+        "name": "Fredrik Monteil",
+        "original_name": "Fredrik Monteil",
+        "popularity": 0.0561,
+        "profile_path": null,
+        "credit_id": "6297bfeec616ac005208dfea",
+        "department": "Visual Effects",
+        "job": "Digital Compositor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3494322,
+        "known_for_department": "Directing",
+        "name": "Thibault Frey",
+        "original_name": "Thibault Frey",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "6297bf62ca83541354715a5c",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1473804,
+        "known_for_department": "Sound",
+        "name": "Matthieu Fichet",
+        "original_name": "Matthieu Fichet",
+        "popularity": 0.1339,
+        "profile_path": null,
+        "credit_id": "6297bf891e9225004f7ecf2f",
+        "department": "Sound",
+        "job": "Dialogue Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1799758,
+        "known_for_department": "Camera",
+        "name": "Jonathan Ly",
+        "original_name": "Jonathan Ly",
+        "popularity": 0.1605,
+        "profile_path": null,
+        "credit_id": "6297c02b5f2db1009cd45f9c",
+        "department": "Camera",
+        "job": "Key Grip"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3572336,
+        "known_for_department": "Camera",
+        "name": "Hervé Ribatto",
+        "original_name": "Hervé Ribatto",
+        "popularity": 0.0357,
+        "profile_path": null,
+        "credit_id": "6297c03409ed8f0cf039bc8c",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1773820,
+        "known_for_department": "Art",
+        "name": "Mathieu Laemlé",
+        "original_name": "Mathieu Laemlé",
+        "popularity": 0.0693,
+        "profile_path": null,
+        "credit_id": "6297c0821e922500641cdb6a",
+        "department": "Art",
+        "job": "Location Scout"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1374466,
+        "known_for_department": "Visual Effects",
+        "name": "Guillaume Le Gouez",
+        "original_name": "Guillaume Le Gouez",
+        "popularity": 0.069,
+        "profile_path": "/oPXG8SiXMLqhExrZd0nAVQ4kxnx.jpg",
+        "credit_id": "6297bfe6d71fb416cb72b714",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2025730,
+        "known_for_department": "Sound",
+        "name": "Florian Cornet",
+        "original_name": "Florian Cornet",
+        "popularity": 0.1067,
+        "profile_path": null,
+        "credit_id": "6297bf77c616ac005208de65",
+        "department": "Sound",
+        "job": "ADR Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2923043,
+        "known_for_department": "Sound",
+        "name": "Hubert Teissedre",
+        "original_name": "Hubert Teissedre",
+        "popularity": 0.1024,
+        "profile_path": null,
+        "credit_id": "6297bfd4f8e98225613e14d0",
+        "department": "Sound",
+        "job": "Foley Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2876489,
+        "known_for_department": "Camera",
+        "name": "Mathilde Blanc",
+        "original_name": "Mathilde Blanc",
+        "popularity": 0.0281,
+        "profile_path": null,
+        "credit_id": "6297c00adf86a834e19dac0c",
+        "department": "Crew",
+        "job": "Video Assist Operator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3572340,
+        "known_for_department": "Editing",
+        "name": "Matis Bros",
+        "original_name": "Matis Bros",
+        "popularity": 0.0297,
+        "profile_path": null,
+        "credit_id": "6297c0795507e9149386531e",
+        "department": "Production",
+        "job": "Location Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 26098,
+        "known_for_department": "Art",
+        "name": "Katia Wyszkop",
+        "original_name": "Katia Wyszkop",
+        "popularity": 0.1755,
+        "profile_path": "/pKoJs8TOm59C7DLIQAusGG0tDIh.jpg",
+        "credit_id": "6297bf2ba44d095275e59195",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 26099,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Pascaline Chavanne",
+        "original_name": "Pascaline Chavanne",
+        "popularity": 0.2492,
+        "profile_path": "/3LklRNkZlrcYB0RGg5bdwjEMMtX.jpg",
+        "credit_id": "6297bf36d48cee2c44c11685",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2934059,
+        "known_for_department": "Sound",
+        "name": "Charles Michaud",
+        "original_name": "Charles Michaud",
+        "popularity": 0.1323,
+        "profile_path": null,
+        "credit_id": "6297bfc9d71fb416ca258eb1",
+        "department": "Sound",
+        "job": "Sound Engineer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3572337,
+        "known_for_department": "Lighting",
+        "name": "Brice Roustang",
+        "original_name": "Brice Roustang",
+        "popularity": 0.0684,
+        "profile_path": null,
+        "credit_id": "6297c03dca83541353b7faf4",
+        "department": "Lighting",
+        "job": "Best Boy Electric"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3572341,
+        "known_for_department": "Sound",
+        "name": "Simon Nathan",
+        "original_name": "Simon Nathan",
+        "popularity": 0.0193,
+        "profile_path": null,
+        "credit_id": "6297c0a909ed8f0ceff333e5",
+        "department": "Sound",
+        "job": "Orchestrator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1367655,
+        "known_for_department": "Sound",
+        "name": "Cecile Tournesac",
+        "original_name": "Cecile Tournesac",
+        "popularity": 0.1985,
+        "profile_path": null,
+        "credit_id": "6297c0b509ed8f0ceff33413",
+        "department": "Sound",
+        "job": "Music Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1681519,
+        "known_for_department": "Production",
+        "name": "David Bertrand",
+        "original_name": "David Bertrand",
+        "popularity": 0.0896,
+        "profile_path": "/vbk6Q8BNWVkDKygxbcx3menypG0.jpg",
+        "credit_id": "6297bf215507e91493864e73",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1663933,
+        "known_for_department": "Directing",
+        "name": "Marion Dehaene",
+        "original_name": "Marion Dehaene",
+        "popularity": 0.0524,
+        "profile_path": null,
+        "credit_id": "6297bf5709ed8f0ceff32f65",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3344005,
+        "known_for_department": "Camera",
+        "name": "Victoire Bonin",
+        "original_name": "Victoire Bonin",
+        "popularity": 0.0599,
+        "profile_path": "/xGFnRSCXcXoikzrXQpPrYsfhuFO.jpg",
+        "credit_id": "6297c012d48cee2c44c11968",
+        "department": "Camera",
+        "job": "Second Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3572337,
+        "known_for_department": "Lighting",
+        "name": "Brice Roustang",
+        "original_name": "Brice Roustang",
+        "popularity": 0.0684,
+        "profile_path": null,
+        "credit_id": "6297c049ec0c58005063cf14",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3572333,
+        "known_for_department": "Art",
+        "name": "Marie Devaux",
+        "original_name": "Marie Devaux",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "6297bf6c5f2db1009cd45dd3",
+        "department": "Art",
+        "job": "Property Master"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1779685,
+        "known_for_department": "Camera",
+        "name": "Carole Béthuel",
+        "original_name": "Carole Béthuel",
+        "popularity": 0.0797,
+        "profile_path": null,
+        "credit_id": "6297c002c616ac0067baeb76",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2006056,
+        "known_for_department": "Sound",
+        "name": "Clément Ducol",
+        "original_name": "Clément Ducol",
+        "popularity": 0.3907,
+        "profile_path": null,
+        "credit_id": "6297c0947ad08c005004451a",
+        "department": "Sound",
+        "job": "Music Arranger"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1590585,
+        "known_for_department": "Production",
+        "name": "Aude Cathelin",
+        "original_name": "Aude Cathelin",
+        "popularity": 0.1279,
+        "profile_path": null,
+        "credit_id": "6297bf4b1e922500641cd8d2",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1776271,
+        "known_for_department": "Lighting",
+        "name": "Alice Vouland",
+        "original_name": "Alice Vouland",
+        "popularity": 0.0492,
+        "profile_path": null,
+        "credit_id": "6297c052d71fb416ca259096",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1776270,
+        "known_for_department": "Lighting",
+        "name": "Emilien Faroudja",
+        "original_name": "Emilien Faroudja",
+        "popularity": 0.0793,
+        "profile_path": null,
+        "credit_id": "6297c021df86a834e238af37",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3572339,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Amelie Caillart-Milhau",
+        "original_name": "Amelie Caillart-Milhau",
+        "popularity": 0.0362,
+        "profile_path": null,
+        "credit_id": "6297c060d48cee2c4634ee0b",
+        "department": "Costume & Make-Up",
+        "job": "Set Costumer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2725,
+        "known_for_department": "Directing",
+        "name": "Rainer Werner Fassbinder",
+        "original_name": "Rainer Werner Fassbinder",
+        "popularity": 1.013,
+        "profile_path": "/uZFSBv6Q4ZSwZr8wfLobBCiiC14.jpg",
+        "credit_id": "63087b60ca7ec6007bcc6c23",
+        "department": "Writing",
+        "job": "Original Story"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1532779,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Nathalie Tabareau",
+        "original_name": "Nathalie Tabareau",
+        "popularity": 0.1332,
+        "profile_path": null,
+        "credit_id": "61df197368b1ea00195dea8a",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 19114,
+        "known_for_department": "Sound",
+        "name": "Brigitte Taillandier",
+        "original_name": "Brigitte Taillandier",
+        "popularity": 0.0626,
+        "profile_path": "/9UrbeJpxvmi0SAuN5a98RIoF3jE.jpg",
+        "credit_id": "61df19810b5fd600674f741a",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 47818,
+        "known_for_department": "Sound",
+        "name": "Jean-Paul Hurier",
+        "original_name": "Jean-Paul Hurier",
+        "popularity": 0.2329,
+        "profile_path": "/rW6tB0seNtgV5Gf37Z6rmTbuL8K.jpg",
+        "credit_id": "61df199012425c006c43275a",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1793900,
+        "known_for_department": "Sound",
+        "name": "Julien Roig",
+        "original_name": "Julien Roig",
+        "popularity": 0.0635,
+        "profile_path": "/7LMwuy2MBGRcnB8LZ1LNXrWgvyl.jpg",
+        "credit_id": "61df199e0b5fd600674f748f",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4387,
+        "known_for_department": "Directing",
+        "name": "François Ozon",
+        "original_name": "François Ozon",
+        "popularity": 0.6155,
+        "profile_path": "/gjXDLWWMlypNp2R4ALMhR9JMf18.jpg",
+        "credit_id": "61dc3ea44539d0001cb1c170",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1207545,
+        "known_for_department": "Camera",
+        "name": "Manuel Dacosse",
+        "original_name": "Manuel Dacosse",
+        "popularity": 0.1545,
+        "profile_path": "/1UC03i5N8c5YCH2EyLCCVcGtE4N.jpg",
+        "credit_id": "61dc3eb96c8492008da83248",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4387,
+        "known_for_department": "Directing",
+        "name": "François Ozon",
+        "original_name": "François Ozon",
+        "popularity": 0.6155,
+        "profile_path": "/gjXDLWWMlypNp2R4ALMhR9JMf18.jpg",
+        "credit_id": "61dc3ead6c8492001c667b36",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 53438,
+        "known_for_department": "Editing",
+        "name": "Laure Gardette",
+        "original_name": "Laure Gardette",
+        "popularity": 0.0602,
+        "profile_path": "/yaeStUWi8Tbf1gOHiavR4GotAo.jpg",
+        "credit_id": "61dc3ec612197e001c6c2e86",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2006056,
+        "known_for_department": "Sound",
+        "name": "Clément Ducol",
+        "original_name": "Clément Ducol",
+        "popularity": 0.3907,
+        "profile_path": null,
+        "credit_id": "67447fbd46260e14fbeb3d3a",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "KR",
+        "title": "피터 본 칸트",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "BG",
+        "title": "Петер фон Кант",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "HK",
+        "title": "彼特的苦淚",
+        "type": "Cantonese Title"
+      },
+      {
+        "iso_3166_1": "RU",
+        "title": "Петер фон Кант",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "TW",
+        "title": "淚比死更冷",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "JP",
+        "title": "苦い涙",
+        "type": ""
+      }
+    ]
+  }
+}

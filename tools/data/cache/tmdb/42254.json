@@ -1,0 +1,761 @@
+{
+  "adult": false,
+  "backdrop_path": "/shIMqYeRZArmAsUe3FYGhHgWAkM.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 42254,
+  "imdb_id": "tt0072976",
+  "origin_country": [
+    "DE"
+  ],
+  "original_language": "de",
+  "original_title": "Faustrecht der Freiheit",
+  "overview": "Fox, a former circus performer, wins the lottery of DM 500,000 and can now have the life and things that he has always wanted.  He enters an abusive relationship with wealthy industrialist Eugen in an attempt to climb the social ladder. His desperation for love and affection soon spirals into tragedy.",
+  "popularity": 0.7182,
+  "poster_path": "/uYHNK7VycMOcD9Jv5qgjIdvDwgG.jpg",
+  "production_companies": [
+    {
+      "id": 11626,
+      "logo_path": null,
+      "name": "Tango Film",
+      "origin_country": "DE"
+    },
+    {
+      "id": 122548,
+      "logo_path": null,
+      "name": "City Film",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "release_date": "1975-06-06",
+  "revenue": 0,
+  "runtime": 125,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    },
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Survival of the fittest.",
+  "title": "Fox and His Friends",
+  "video": false,
+  "vote_average": 7.2,
+  "vote_count": 151,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2725,
+        "known_for_department": "Directing",
+        "name": "Rainer Werner Fassbinder",
+        "original_name": "Rainer Werner Fassbinder",
+        "popularity": 1.013,
+        "profile_path": "/uZFSBv6Q4ZSwZr8wfLobBCiiC14.jpg",
+        "cast_id": 3,
+        "character": "Franz \"Fox\" Bieberkopf",
+        "credit_id": "52fe45f7c3a36847f80e4d3b",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 39006,
+        "known_for_department": "Acting",
+        "name": "Peter Chatel",
+        "original_name": "Peter Chatel",
+        "popularity": 0.3137,
+        "profile_path": "/xWlshh3F6fLXqHvgLo863bei8x1.jpg",
+        "cast_id": 2,
+        "character": "Eugen Thiess",
+        "credit_id": "52fe45f7c3a36847f80e4d37",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6251,
+        "known_for_department": "Acting",
+        "name": "Karlheinz Böhm",
+        "original_name": "Karlheinz Böhm",
+        "popularity": 0.9473,
+        "profile_path": "/zQ9xw9dcXFSoaD3rncUg1XDLokt.jpg",
+        "cast_id": 4,
+        "character": "Max",
+        "credit_id": "52fe45f7c3a36847f80e4d3f",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 32552,
+        "known_for_department": "Acting",
+        "name": "Adrian Hoven",
+        "original_name": "Adrian Hoven",
+        "popularity": 0.4372,
+        "profile_path": "/7ASNJxtQceMblUcnGpfKz8w8NPu.jpg",
+        "cast_id": 10,
+        "character": "Wolf Thiess, Eugen's Father",
+        "credit_id": "52fe45f7c3a36847f80e4d61",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 40974,
+        "known_for_department": "Acting",
+        "name": "Christiane Maybach",
+        "original_name": "Christiane Maybach",
+        "popularity": 0.3395,
+        "profile_path": "/roiGBDjya6LQzu3d7eSBn8re9wQ.jpg",
+        "cast_id": 11,
+        "character": "Hedwig",
+        "credit_id": "52fe45f7c3a36847f80e4d65",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 23668,
+        "known_for_department": "Acting",
+        "name": "Harry Baer",
+        "original_name": "Harry Baer",
+        "popularity": 0.4276,
+        "profile_path": "/vTuAZ6bZyi7BUs9G1cZLbQR0s7U.jpg",
+        "cast_id": 12,
+        "character": "Philip",
+        "credit_id": "52fe45f7c3a36847f80e4d69",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1175731,
+        "known_for_department": "Acting",
+        "name": "Hans Zander",
+        "original_name": "Hans Zander",
+        "popularity": 0.1674,
+        "profile_path": null,
+        "cast_id": 33,
+        "character": "Barman Springer",
+        "credit_id": "63c3f46bd7fbda00b65e93dd",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 21997,
+        "known_for_department": "Acting",
+        "name": "Kurt Raab",
+        "original_name": "Kurt Raab",
+        "popularity": 0.4952,
+        "profile_path": "/k3CjKFY5nT4WIKhC96W1S87j36z.jpg",
+        "cast_id": 14,
+        "character": "Wodka-Peter",
+        "credit_id": "52fe45f7c3a36847f80e4d71",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 10624,
+        "known_for_department": "Acting",
+        "name": "Rudolf Lenz",
+        "original_name": "Rudolf Lenz",
+        "popularity": 0.1289,
+        "profile_path": "/ejYDxmIgl8WN5sVOuMUJzbHNsyG.jpg",
+        "cast_id": 13,
+        "character": "Attorney Dr. Siebenkäss",
+        "credit_id": "52fe45f7c3a36847f80e4d6d",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2742,
+        "known_for_department": "Acting",
+        "name": "Karl Scheydt",
+        "original_name": "Karl Scheydt",
+        "popularity": 0.1789,
+        "profile_path": "/nAOPQ4CU7LgLuKnSmKdPlOMmdSj.jpg",
+        "cast_id": 15,
+        "character": "Klaus",
+        "credit_id": "52fe45f7c3a36847f80e4d75",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 73671,
+        "known_for_department": "Acting",
+        "name": "Peter Kern",
+        "original_name": "Peter Kern",
+        "popularity": 0.3694,
+        "profile_path": "/yQMAtwyj2SB3WKSMNfMcaQ2Dqjv.jpg",
+        "cast_id": 19,
+        "character": "Florist \"Fatty\" Schmidt",
+        "credit_id": "534c3b9ec3a36804310000f0",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3873725,
+        "known_for_department": "Acting",
+        "name": "Karl-Heinz Staudenmeyer",
+        "original_name": "Karl-Heinz Staudenmeyer",
+        "popularity": 0,
+        "profile_path": null,
+        "cast_id": 34,
+        "character": "Krapp",
+        "credit_id": "63c3f5030231f200d30eeb25",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2741,
+        "known_for_department": "Acting",
+        "name": "Walter Sedlmayr",
+        "original_name": "Walter Sedlmayr",
+        "popularity": 0.3899,
+        "profile_path": "/9cESnCVgyYbWnJzLEMkyyqm6G1U.jpg",
+        "cast_id": 35,
+        "character": "Car Dealer",
+        "credit_id": "63c3f512d7fbda008a293049",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 51014,
+        "known_for_department": "Acting",
+        "name": "Bruce Low",
+        "original_name": "Bruce Low",
+        "popularity": 0.2642,
+        "profile_path": "/tq6yLRcq2hkKX2yWsM5Z044RDf6.jpg",
+        "cast_id": 36,
+        "character": "Doctor",
+        "credit_id": "63c3f51cce997a00ae3ebeb7",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 130913,
+        "known_for_department": "Acting",
+        "name": "Marquard Bohm",
+        "original_name": "Marquard Bohm",
+        "popularity": 0.3127,
+        "profile_path": "/iaoq5Hv8eBvWOwl2evapI8zahjO.jpg",
+        "cast_id": 37,
+        "character": "American Soldier",
+        "credit_id": "63c3f5290231f200826ab536",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2726,
+        "known_for_department": "Acting",
+        "name": "Brigitte Mira",
+        "original_name": "Brigitte Mira",
+        "popularity": 0.3402,
+        "profile_path": null,
+        "cast_id": 38,
+        "character": "Shopkeeper #2",
+        "credit_id": "63c3f533871b3400b5e75af4",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1183581,
+        "known_for_department": "Acting",
+        "name": "Evelyn Künneke",
+        "original_name": "Evelyn Künneke",
+        "popularity": 0.2722,
+        "profile_path": "/4a0KoGMkOFhugvavvSMID6udxgU.jpg",
+        "cast_id": 39,
+        "character": "Secretary at Travel Agency",
+        "credit_id": "63c3f53cae3843007cbacde1",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2728,
+        "known_for_department": "Acting",
+        "name": "Barbara Valentin",
+        "original_name": "Barbara Valentin",
+        "popularity": 0.6094,
+        "profile_path": "/j5fCsNIPKoQJLjIme20VmKS4Baj.jpg",
+        "cast_id": 40,
+        "character": "Albine",
+        "credit_id": "63c3f545aaec71009467ea28",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2730,
+        "known_for_department": "Acting",
+        "name": "Elma Karlowa",
+        "original_name": "Elma Karlowa",
+        "popularity": 0.3485,
+        "profile_path": "/zCjJn98UgeI8eK3Y4fbTaDfxVTl.jpg",
+        "cast_id": 41,
+        "character": "Shopkeeper #1",
+        "credit_id": "63c3f554871b3400b5e75b10",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 45195,
+        "known_for_department": "Acting",
+        "name": "Ingrid Caven",
+        "original_name": "Ingrid Caven",
+        "popularity": 0.5008,
+        "profile_path": "/py0XImGnp27PIWYAMWIyNP78X5K.jpg",
+        "cast_id": 42,
+        "character": "Singer in Bar",
+        "credit_id": "63c3f562ae384300a0b4c204",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2740,
+        "known_for_department": "Acting",
+        "name": "Lilo Pempeit",
+        "original_name": "Lilo Pempeit",
+        "popularity": 0.1794,
+        "profile_path": "/cKTUKW1TLHqi86hgNMRwiii8eLQ.jpg",
+        "cast_id": 43,
+        "character": "Neighbor",
+        "credit_id": "63c3f57ad7fbda007d43c0d5",
+        "order": 20
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 25888,
+        "known_for_department": "Acting",
+        "name": "Ulla Jacobsson",
+        "original_name": "Ulla Jacobsson",
+        "popularity": 0.3083,
+        "profile_path": "/rF0ANqdfpP7i2ctD5LJkg8QbXfO.jpg",
+        "cast_id": 44,
+        "character": "Eugen's Mother",
+        "credit_id": "63c3f58bce997a007d76b6af",
+        "order": 21
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1865,
+        "known_for_department": "Acting",
+        "name": "Hark Bohm",
+        "original_name": "Hark Bohm",
+        "popularity": 0.3458,
+        "profile_path": "/qbK0MB6h73iuqXJ4e8ttaKdHB1C.jpg",
+        "cast_id": 45,
+        "character": "Policeman Müller (uncredited)",
+        "credit_id": "63c3f594ae384300e9ade41a",
+        "order": 22
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2386586,
+        "known_for_department": "Acting",
+        "name": "Katherina Buchhammer",
+        "original_name": "Katherina Buchhammer",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "cast_id": 46,
+        "character": "Madame Antoinette (uncredited)",
+        "credit_id": "63c3f59cce997a00ae3ebf0b",
+        "order": 23
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2727,
+        "known_for_department": "Acting",
+        "name": "El Hedi ben Salem",
+        "original_name": "El Hedi ben Salem",
+        "popularity": 0.2509,
+        "profile_path": "/sPMb9tLQ5uPmzZrkbODFUyqtbAM.jpg",
+        "cast_id": 47,
+        "character": "Salem the Moroccan (uncredited)",
+        "credit_id": "63c3f5a4d7fbda00cb7cbf3f",
+        "order": 24
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2729,
+        "known_for_department": "Acting",
+        "name": "Irm Hermann",
+        "original_name": "Irm Hermann",
+        "popularity": 0.4895,
+        "profile_path": "/4NzeDGGAqq0Aw8QpqTuOAu7DkeN.jpg",
+        "cast_id": 48,
+        "character": "Madame Cherie / Bar Singer (voice) (uncredited)",
+        "credit_id": "63c3f5acae384300e9ade42e",
+        "order": 25
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 558950,
+        "known_for_department": "Acting",
+        "name": "Dietrich Kerky",
+        "original_name": "Dietrich Kerky",
+        "popularity": 0.0388,
+        "profile_path": "/6meVQLtjZSacWCbFNXwLh7KPMNN.jpg",
+        "cast_id": 49,
+        "character": "Inspector Braun (uncredited)",
+        "credit_id": "63c3f5b10231f200826ab597",
+        "order": 26
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 10622,
+        "known_for_department": "Acting",
+        "name": "Ursula Strätz",
+        "original_name": "Ursula Strätz",
+        "popularity": 0.1023,
+        "profile_path": null,
+        "cast_id": 50,
+        "character": "Isabel (uncredited)",
+        "credit_id": "63c3f5bbaaec710087a99bc3",
+        "order": 27
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2725,
+        "known_for_department": "Directing",
+        "name": "Rainer Werner Fassbinder",
+        "original_name": "Rainer Werner Fassbinder",
+        "popularity": 1.013,
+        "profile_path": "/uZFSBv6Q4ZSwZr8wfLobBCiiC14.jpg",
+        "credit_id": "52fe45f7c3a36847f80e4d33",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2725,
+        "known_for_department": "Directing",
+        "name": "Rainer Werner Fassbinder",
+        "original_name": "Rainer Werner Fassbinder",
+        "popularity": 1.013,
+        "profile_path": "/uZFSBv6Q4ZSwZr8wfLobBCiiC14.jpg",
+        "credit_id": "52fe45f7c3a36847f80e4d45",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 21997,
+        "known_for_department": "Acting",
+        "name": "Kurt Raab",
+        "original_name": "Kurt Raab",
+        "popularity": 0.4952,
+        "profile_path": "/k3CjKFY5nT4WIKhC96W1S87j36z.jpg",
+        "credit_id": "52fe45f7c3a36847f80e4d51",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3767,
+        "known_for_department": "Sound",
+        "name": "Peer Raben",
+        "original_name": "Peer Raben",
+        "popularity": 0.2397,
+        "profile_path": "/c00b1PFJ39wD4YYwSLwzy4LJOtH.jpg",
+        "credit_id": "52fe45f7c3a36847f80e4d57",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2725,
+        "known_for_department": "Directing",
+        "name": "Rainer Werner Fassbinder",
+        "original_name": "Rainer Werner Fassbinder",
+        "popularity": 1.013,
+        "profile_path": "/uZFSBv6Q4ZSwZr8wfLobBCiiC14.jpg",
+        "credit_id": "52fe45f7c3a36847f80e4d5d",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3769,
+        "known_for_department": "Camera",
+        "name": "Michael Ballhaus",
+        "original_name": "Michael Ballhaus",
+        "popularity": 0.3468,
+        "profile_path": "/9DHIGsrgeTWA0rch3fFGXTOl1lO.jpg",
+        "credit_id": "5643bcf09251410a440033eb",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3873758,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Helga Kempke",
+        "original_name": "Helga Kempke",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "63c3fe1ace997a00874776a8",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2757699,
+        "known_for_department": "Directing",
+        "name": "Lothar Elsässer",
+        "original_name": "Lothar Elsässer",
+        "popularity": 0.0261,
+        "profile_path": null,
+        "credit_id": "63c3fe24aaec71009467f030",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1359067,
+        "known_for_department": "Production",
+        "name": "Christian Hohoff",
+        "original_name": "Christian Hohoff",
+        "popularity": 0.1693,
+        "profile_path": null,
+        "credit_id": "63c3fe32ce997a00cfe9b9f2",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2729,
+        "known_for_department": "Acting",
+        "name": "Irm Hermann",
+        "original_name": "Irm Hermann",
+        "popularity": 0.4895,
+        "profile_path": "/4NzeDGGAqq0Aw8QpqTuOAu7DkeN.jpg",
+        "credit_id": "63c3fe42ce997a007d76bc56",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2757699,
+        "known_for_department": "Directing",
+        "name": "Lothar Elsässer",
+        "original_name": "Lothar Elsässer",
+        "popularity": 0.0261,
+        "profile_path": null,
+        "credit_id": "63c3fe4cce997a00874776c5",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1359067,
+        "known_for_department": "Production",
+        "name": "Christian Hohoff",
+        "original_name": "Christian Hohoff",
+        "popularity": 0.1693,
+        "profile_path": null,
+        "credit_id": "599ee52092514110710123a6",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2737,
+        "known_for_department": "Editing",
+        "name": "Thea Eymèsz",
+        "original_name": "Thea Eymèsz",
+        "popularity": 0.0958,
+        "profile_path": null,
+        "credit_id": "599ee539c3a3685a40012456",
+        "department": "Editing",
+        "job": "Editor"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "BR",
+        "title": "O Direito do Mais Forte",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "PT",
+        "title": "O Direito do Mais Forte à Liberdade",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "FR",
+        "title": "Le droit du plus fort",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "IT",
+        "title": "Il diritto del più forte",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "FI",
+        "title": "Vahvemman oikeus",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "HU",
+        "title": "A szabadság ököljoga",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "DK",
+        "title": "Frihedens knytnæve",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "TR",
+        "title": "Özgürlügün zorbalik hakki",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "ES",
+        "title": "La ley del más fuerte",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "KR",
+        "title": "폭스와 그의 친구들",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "JP",
+        "title": "自由の暴力",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "UA",
+        "title": "Кулак свободи",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "UA",
+        "title": "Фокс та його друзі",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "AR",
+        "title": "La ley del más fuerte",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "BR",
+        "title": "O Direito do Mais Forte é a Liberdade",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "EC",
+        "title": "Faustrecht der Freiheit",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "GR",
+        "title": "Το παιχνίδι της τύχης",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "JP",
+        "title": "Jiyû no Daishô",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "MX",
+        "title": "La ley del más fuerte",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "PL",
+        "title": "Prawo silniejszego",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "RU",
+        "title": "Кулачное право свободы",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "SE",
+        "title": "Frihetens nävrätt",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "UY",
+        "title": "La ley del más fuerte",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "GB",
+        "title": "Fist-Fight of Freedom",
+        "type": "alternative title"
+      }
+    ]
+  }
+}

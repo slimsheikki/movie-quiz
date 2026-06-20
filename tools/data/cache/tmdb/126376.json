@@ -1,0 +1,549 @@
+{
+  "adult": false,
+  "backdrop_path": "/kse2w3yjli5b89TzzlrprQQbSQj.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 126376,
+  "imdb_id": "tt0109384",
+  "origin_country": [
+    "PT"
+  ],
+  "original_language": "pt",
+  "original_title": "Casa de Lava",
+  "overview": "The film tells a story of Mariana, a nurse who leaves Lisbon to accompany an immigrant worker in a comatose sleep on his trip home to Cape Verde. The devoted Portuguese nurse took a journey only to find herself lost in abstract drama.",
+  "popularity": 0.4143,
+  "poster_path": "/AlHIkGNkZ0xJERngaSQvk77wM7w.jpg",
+  "production_companies": [
+    {
+      "id": 6584,
+      "logo_path": null,
+      "name": "Gemini Films",
+      "origin_country": "FR"
+    },
+    {
+      "id": 10357,
+      "logo_path": null,
+      "name": "Madragoa Films",
+      "origin_country": ""
+    },
+    {
+      "id": 140,
+      "logo_path": "/ooz5b0ov3PLfBoOJyMmdoffVuHs.png",
+      "name": "Pandora Film",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    },
+    {
+      "iso_3166_1": "PT",
+      "name": "Portugal"
+    },
+    {
+      "iso_3166_1": "CV",
+      "name": "Cape Verde"
+    }
+  ],
+  "release_date": "1995-02-10",
+  "revenue": 0,
+  "runtime": 105,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Casa de Lava",
+  "video": false,
+  "vote_average": 7,
+  "vote_count": 25,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4812,
+        "known_for_department": "Acting",
+        "name": "Isaach de Bankolé",
+        "original_name": "Isaach de Bankolé",
+        "popularity": 1.2329,
+        "profile_path": "/aGjABQBgTA3tduuh54hzWx0aQ44.jpg",
+        "cast_id": 5,
+        "character": "Leão",
+        "credit_id": "52fe4addc3a368484e16b0c5",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 223274,
+        "known_for_department": "Acting",
+        "name": "Inês de Medeiros",
+        "original_name": "Inês de Medeiros",
+        "popularity": 0.1823,
+        "profile_path": "/2DW8dVS1j4VRDgoIJzglFKHKCFz.jpg",
+        "cast_id": 6,
+        "character": "Mariana",
+        "credit_id": "52fe4addc3a368484e16b0c9",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 27980,
+        "known_for_department": "Acting",
+        "name": "Édith Scob",
+        "original_name": "Édith Scob",
+        "popularity": 0.5985,
+        "profile_path": "/mJqz3YZivskBit9eEXE0JXGNtHz.jpg",
+        "cast_id": 7,
+        "character": "Edith",
+        "credit_id": "52fe4addc3a368484e16b0cd",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 249397,
+        "known_for_department": "Acting",
+        "name": "Pedro Hestnes",
+        "original_name": "Pedro Hestnes",
+        "popularity": 0.1539,
+        "profile_path": "/9mdSAYtezj89tOAHLbys8DUw2zl.jpg",
+        "cast_id": 8,
+        "character": "Edite's Son",
+        "credit_id": "52fe4addc3a368484e16b0d1",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1279353,
+        "known_for_department": "Sound",
+        "name": "Raúl Andrade",
+        "original_name": "Raúl Andrade",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "cast_id": 9,
+        "character": "Bassoé",
+        "credit_id": "52fe4addc3a368484e16b0d5",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1734375,
+        "known_for_department": "Acting",
+        "name": "Manuel Andrade",
+        "original_name": "Manuel Andrade",
+        "popularity": 0.0368,
+        "profile_path": null,
+        "cast_id": 10,
+        "character": "Tcheka",
+        "credit_id": "5908b885c3a368588800eba5",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1808846,
+        "known_for_department": "Acting",
+        "name": "João Gomes de Pina",
+        "original_name": "João Gomes de Pina",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 11,
+        "character": "Bassora",
+        "credit_id": "5908b891925141647200ff56",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1808847,
+        "known_for_department": "Acting",
+        "name": "Alina Montrond",
+        "original_name": "Alina Montrond",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "cast_id": 12,
+        "character": "Alina",
+        "credit_id": "5908b8ac925141646c00fdd6",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1808848,
+        "known_for_department": "Acting",
+        "name": "Sandra do Canto Brandão",
+        "original_name": "Sandra do Canto Brandão",
+        "popularity": 0.0239,
+        "profile_path": null,
+        "cast_id": 13,
+        "character": "Tina",
+        "credit_id": "5908b8b5c3a36858b800f4d9",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1808849,
+        "known_for_department": "Acting",
+        "name": "João Medina",
+        "original_name": "João Medina",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "cast_id": 14,
+        "character": "Dr. Medina",
+        "credit_id": "5908b8c0925141645500fd05",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1432505,
+        "known_for_department": "Camera",
+        "name": "Daniel Andrade",
+        "original_name": "Daniel Andrade",
+        "popularity": 0.0839,
+        "profile_path": "/3mAbqnMyMVMWOZtYHNxXTBG1P2n.jpg",
+        "cast_id": 15,
+        "character": "Nhelas",
+        "credit_id": "5908b8cbc3a36858a7010bb8",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1808850,
+        "known_for_department": "Acting",
+        "name": "Cristiano Andrade Alves",
+        "original_name": "Cristiano Andrade Alves",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 16,
+        "character": "Tano",
+        "credit_id": "5908b8d9c3a36858d600e730",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2112957,
+        "known_for_department": "Acting",
+        "name": "António Andrade",
+        "original_name": "António Andrade",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 41,
+        "character": "Kilim",
+        "credit_id": "652b9642358da700c6f1750b",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1076364,
+        "known_for_department": "Acting",
+        "name": "Monica Calle",
+        "original_name": "Monica Calle",
+        "popularity": 0.1729,
+        "profile_path": "/8VuQSK3cpAIeX9FtKiFmexZLjJ9.jpg",
+        "cast_id": 18,
+        "character": "Enfermeira em Lisboa",
+        "credit_id": "5908b8f4925141646c00fe15",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 234486,
+        "known_for_department": "Acting",
+        "name": "Luís Miguel Cintra",
+        "original_name": "Luís Miguel Cintra",
+        "popularity": 0.2105,
+        "profile_path": "/cdFwM3XffJAarnt355yWCxMvEnH.jpg",
+        "cast_id": 19,
+        "character": "Actor convidado",
+        "credit_id": "5908b8fe925141644a010404",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1007545,
+        "known_for_department": "Acting",
+        "name": "Isabel de Castro",
+        "original_name": "Isabel de Castro",
+        "popularity": 0.1479,
+        "profile_path": "/y3RH541oZrZSZbtllln3WyFecA4.jpg",
+        "cast_id": 20,
+        "character": "Actriz convidada",
+        "credit_id": "5908b9099251416433010102",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1285567,
+        "known_for_department": "Acting",
+        "name": "António Sequeira Lopes",
+        "original_name": "António Sequeira Lopes",
+        "popularity": 0.1096,
+        "profile_path": "/nHQzaYfowEl7MjkMeXkpQeee7Yx.jpg",
+        "cast_id": 21,
+        "character": "Betinho",
+        "credit_id": "5908b917925141644a010416",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1808851,
+        "known_for_department": "Acting",
+        "name": "Clotilde Montron",
+        "original_name": "Clotilde Montron",
+        "popularity": 0.0311,
+        "profile_path": null,
+        "cast_id": 22,
+        "character": "Market Girl",
+        "credit_id": "5908b923925141645500fd45",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1202932,
+        "known_for_department": "Sound",
+        "name": "Sidonio Pais Quaresma",
+        "original_name": "Sidonio Pais Quaresma",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 23,
+        "character": "Sidónio Pais da Amadora",
+        "credit_id": "5908b930c3a368588800ec05",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1808852,
+        "known_for_department": "Acting",
+        "name": "Amália Tavares",
+        "original_name": "Amália Tavares",
+        "popularity": 0,
+        "profile_path": null,
+        "cast_id": 24,
+        "character": "Tarrafal cook",
+        "credit_id": "5908b9459251416433010127",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1808853,
+        "known_for_department": "Acting",
+        "name": "Joaquim Antunes",
+        "original_name": "Joaquim Antunes",
+        "popularity": 0,
+        "profile_path": null,
+        "cast_id": 25,
+        "character": "Pilot 1",
+        "credit_id": "5908b953c3a368585900f83a",
+        "order": 20
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1112010,
+        "known_for_department": "Production",
+        "name": "Joaquim Carvalho",
+        "original_name": "Joaquim Carvalho",
+        "popularity": 0.0917,
+        "profile_path": null,
+        "cast_id": 26,
+        "character": "Pilot 2",
+        "credit_id": "5908b95fc3a36858dd010381",
+        "order": 21
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 256841,
+        "known_for_department": "Directing",
+        "name": "Pedro Costa",
+        "original_name": "Pedro Costa",
+        "popularity": 0.124,
+        "profile_path": "/zwqXtfzCUU72KVuQSVeDKHJAeeP.jpg",
+        "credit_id": "52fe4addc3a368484e16b0bb",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 39191,
+        "known_for_department": "Camera",
+        "name": "Emmanuel Machuel",
+        "original_name": "Emmanuel Machuel",
+        "popularity": 0.145,
+        "profile_path": null,
+        "credit_id": "5989c3abc3a3681f6e015aba",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 9889,
+        "known_for_department": "Directing",
+        "name": "Dominique Auvray",
+        "original_name": "Dominique Auvray",
+        "popularity": 0.1413,
+        "profile_path": "/416llQQqNzdjQPFryrQSG4IITTt.jpg",
+        "credit_id": "5989c3b99251414bfa014a69",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5268,
+        "known_for_department": "Production",
+        "name": "Paulo Branco",
+        "original_name": "Paulo Branco",
+        "popularity": 0.2758,
+        "profile_path": "/fts6IfqRE5xZuZB3iN6yeKNzfhd.jpg",
+        "credit_id": "5989c38a9251414bb4015899",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5270,
+        "known_for_department": "Art",
+        "name": "Zé Branco",
+        "original_name": "Zé Branco",
+        "popularity": 0.1272,
+        "profile_path": null,
+        "credit_id": "5989c3c59251414bfa014a71",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1865842,
+        "known_for_department": "Sound",
+        "name": "Gérard Rousseau",
+        "original_name": "Gérard Rousseau",
+        "popularity": 0.1508,
+        "profile_path": null,
+        "credit_id": "599dea60c3a3687dc4000e25",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 213280,
+        "known_for_department": "Sound",
+        "name": "Henri Maïkoff",
+        "original_name": "Henri Maïkoff",
+        "popularity": 0.097,
+        "profile_path": null,
+        "credit_id": "599de769c3a3687dd4000a3b",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1279353,
+        "known_for_department": "Sound",
+        "name": "Raúl Andrade",
+        "original_name": "Raúl Andrade",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "credit_id": "599de813c3a3687dd4000b0a",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1875418,
+        "known_for_department": "Sound",
+        "name": "Marie Massiani",
+        "original_name": "Marie Massiani",
+        "popularity": 0.0977,
+        "profile_path": null,
+        "credit_id": "599dea959251414926000dd9",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1875417,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Rosa Lopes Alves",
+        "original_name": "Rosa Lopes Alves",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "599dea729251414926000da4",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 256841,
+        "known_for_department": "Directing",
+        "name": "Pedro Costa",
+        "original_name": "Pedro Costa",
+        "popularity": 0.124,
+        "profile_path": "/zwqXtfzCUU72KVuQSVeDKHJAeeP.jpg",
+        "credit_id": "59d255f8c3a36879040489f0",
+        "department": "Writing",
+        "job": "Writer"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "US",
+        "title": "Down to Earth",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "KR",
+        "title": "용암의 집",
+        "type": ""
+      }
+    ]
+  }
+}

@@ -1,0 +1,521 @@
+{
+  "adult": false,
+  "backdrop_path": "/oLui5hnc8HnkVDXruisqu3LZb6H.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "",
+  "id": 40149,
+  "imdb_id": "tt0122136",
+  "origin_country": [
+    "JP"
+  ],
+  "original_language": "ja",
+  "original_title": "藪の中の黒猫",
+  "overview": "In the Sengoku period, a woman and her daughter are raped and murdered by soldiers during a time of civil war. Afterwards, a series of samurai returning from the war through that area are found mysteriously dead with their throats torn out. The governor calls in a wild and fierce young hero to quell what is evidently an Onryō ghost.",
+  "popularity": 1.2335,
+  "poster_path": "/43LZYSBRMZoi9QdYntkGXhLSMeI.jpg",
+  "production_companies": [
+    {
+      "id": 10445,
+      "logo_path": null,
+      "name": "Nihon Eiga Shinsha",
+      "origin_country": "JP"
+    },
+    {
+      "id": 1516,
+      "logo_path": null,
+      "name": "Kindai Eiga Kyokai",
+      "origin_country": "JP"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    }
+  ],
+  "release_date": "1968-02-24",
+  "revenue": 0,
+  "runtime": 100,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Beware what lurks in the bamboo forest craving the blood of samurai!",
+  "title": "Kuroneko",
+  "video": false,
+  "vote_average": 7.4,
+  "vote_count": 229,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 133602,
+        "known_for_department": "Acting",
+        "name": "Kichiemon Nakamura II",
+        "original_name": "二代目 中村吉右衛門",
+        "popularity": 0.7489,
+        "profile_path": "/z8f9xZpVBKMTTYXll4pe0SaKbbC.jpg",
+        "cast_id": 2,
+        "character": "Gintoki",
+        "credit_id": "52fe4583c3a36847f80cb8bd",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 33728,
+        "known_for_department": "Acting",
+        "name": "Nobuko Otowa",
+        "original_name": "乙羽信子",
+        "popularity": 1.1894,
+        "profile_path": "/6vcByiFlOE9JiLGWNKRtN8k0uil.jpg",
+        "cast_id": 3,
+        "character": "Yone",
+        "credit_id": "52fe4583c3a36847f80cb8c1",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 150378,
+        "known_for_department": "Acting",
+        "name": "Kiwako Taichi",
+        "original_name": "太地喜和子",
+        "popularity": 0.9246,
+        "profile_path": "/ppsf28CStbirgMc1ZCBMFCWe7Tk.jpg",
+        "cast_id": 4,
+        "character": "Shige",
+        "credit_id": "52fe4583c3a36847f80cb8c5",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 33730,
+        "known_for_department": "Acting",
+        "name": "Kei Satō",
+        "original_name": "佐藤慶",
+        "popularity": 1.3738,
+        "profile_path": "/xyb1DI4HViq1aEvc3pgJV5Xw2Sn.jpg",
+        "cast_id": 5,
+        "character": "Raiko",
+        "credit_id": "52fe4583c3a36847f80cb8c9",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 33732,
+        "known_for_department": "Acting",
+        "name": "Taiji Tonoyama",
+        "original_name": "殿山泰司",
+        "popularity": 1.2666,
+        "profile_path": "/k88bvJ91SiL2Nn6QtQf7hB8U4iv.jpg",
+        "cast_id": 6,
+        "character": "Farmer",
+        "credit_id": "52fe4583c3a36847f80cb8cd",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 138748,
+        "known_for_department": "Acting",
+        "name": "Rokkō Toura",
+        "original_name": "戸浦六宏",
+        "popularity": 0.785,
+        "profile_path": "/ucHF4SWobpjSKj2qkLZgkXPdM08.jpg",
+        "cast_id": 7,
+        "character": "Samurai",
+        "credit_id": "52fe4583c3a36847f80cb8d1",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 224658,
+        "known_for_department": "Acting",
+        "name": "Hideo Kanze",
+        "original_name": "観世栄夫",
+        "popularity": 1.0242,
+        "profile_path": "/8A9XTNNbAYFPcnA8qYYYinZFJrG.jpg",
+        "cast_id": 8,
+        "character": "Mikado",
+        "credit_id": "52fe4583c3a36847f80cb8d5",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 133710,
+        "known_for_department": "Acting",
+        "name": "Eimei Esumi",
+        "original_name": "江角英明",
+        "popularity": 0.9606,
+        "profile_path": "/Aibi5K9b1WgqhiXu8pqVS7fR3r0.jpg",
+        "cast_id": 21,
+        "character": "Subordinate",
+        "credit_id": "5cdfc9180e0a266f89caad66",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 553430,
+        "known_for_department": "Acting",
+        "name": "Shōji Ōki",
+        "original_name": "大木正司",
+        "popularity": 0.2964,
+        "profile_path": null,
+        "cast_id": 22,
+        "character": "Subordinate",
+        "credit_id": "5cdfc92dc3a36846841ef006",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1274449,
+        "known_for_department": "Acting",
+        "name": "Kentarô Kaji",
+        "original_name": "加地健太郎",
+        "popularity": 0.364,
+        "profile_path": null,
+        "cast_id": 23,
+        "character": "Subordinate",
+        "credit_id": "5cdfc93ac3a368469d1eef1b",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2113109,
+        "known_for_department": "Acting",
+        "name": "Joji Taki",
+        "original_name": "Joji Taki",
+        "popularity": 0.083,
+        "profile_path": null,
+        "cast_id": 24,
+        "character": "Subordinate",
+        "credit_id": "5cdfc9980e0a266f99caa7b0",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1584149,
+        "known_for_department": "Acting",
+        "name": "Chiyo Okada",
+        "original_name": "Chiyo Okada",
+        "popularity": 0.189,
+        "profile_path": "/7sO2G7WOFJk60JCJwHnrWPUCDOX.jpg",
+        "cast_id": 25,
+        "character": "Nehiko",
+        "credit_id": "5cdfc9c80e0a264718ca5207",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5637722,
+        "known_for_department": "Acting",
+        "name": "Miyako Kasai",
+        "original_name": "Miyako Kasai",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 29,
+        "character": "",
+        "credit_id": "68a5cf1ad918b65e1bd54cb9",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2467391,
+        "known_for_department": "Acting",
+        "name": "Kayoko Sebata",
+        "original_name": "Kayoko Sebata",
+        "popularity": 0.0718,
+        "profile_path": null,
+        "cast_id": 30,
+        "character": "",
+        "credit_id": "68a5cf27f6fd9713643e86c7",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5637724,
+        "known_for_department": "Acting",
+        "name": "Harumi Hirota",
+        "original_name": "Harumi Hirota",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 31,
+        "character": "",
+        "credit_id": "68a5cf3067af9dd615fd2657",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5637727,
+        "known_for_department": "Acting",
+        "name": "Yoshiko Uchi",
+        "original_name": "Yoshiko Uchi",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 32,
+        "character": "",
+        "credit_id": "68a5cf4c85f96f14cd5dd326",
+        "order": 15
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 33727,
+        "known_for_department": "Directing",
+        "name": "Kaneto Shindō",
+        "original_name": "新藤兼人",
+        "popularity": 1.2599,
+        "profile_path": "/slPRV7aV1R2W15HeVztiapjRdOH.jpg",
+        "credit_id": "52fe4583c3a36847f80cb8b9",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1089033,
+        "known_for_department": "Production",
+        "name": "Nobuyo Horiba",
+        "original_name": "堀場伸世",
+        "popularity": 0.0456,
+        "profile_path": null,
+        "credit_id": "5a90afdcc3a368252900045d",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1472695,
+        "known_for_department": "Production",
+        "name": "Kazuo Kuwahara",
+        "original_name": "桑原一雄",
+        "popularity": 0.1139,
+        "profile_path": null,
+        "credit_id": "5a90afe7c3a36825170003bd",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1279793,
+        "known_for_department": "Production",
+        "name": "Setsuo Noto",
+        "original_name": "Setsuo Noto",
+        "popularity": 0.0432,
+        "profile_path": null,
+        "credit_id": "5a90aff10e0a2616cf000421",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1183025,
+        "known_for_department": "Camera",
+        "name": "Kiyomi Kuroda",
+        "original_name": "黒田清巳",
+        "popularity": 0.1954,
+        "profile_path": null,
+        "credit_id": "5a90b020c3a36824f6000425",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1267598,
+        "known_for_department": "Editing",
+        "name": "Hisao Enoki",
+        "original_name": "Hisao Enoki",
+        "popularity": 0.0505,
+        "profile_path": null,
+        "credit_id": "5a90b038925141417d0003f5",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1608832,
+        "known_for_department": "Art",
+        "name": "Takashi Marumo",
+        "original_name": "Takashi Marumo",
+        "popularity": 0.1439,
+        "profile_path": null,
+        "credit_id": "5a90b04292514141770004a2",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1183030,
+        "known_for_department": "Crew",
+        "name": "Toshiharu Takazu",
+        "original_name": "Toshiharu Takazu",
+        "popularity": 0.0431,
+        "profile_path": null,
+        "credit_id": "5a90b04d0e0a2616c00004f5",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1183027,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Shigeo Kobayashi",
+        "original_name": "Shigeo Kobayashi",
+        "popularity": 0.1504,
+        "profile_path": null,
+        "credit_id": "5a90b0590e0a2616c0000504",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1183033,
+        "known_for_department": "Sound",
+        "name": "Tetsuya Ohashi",
+        "original_name": "大橋鉄矢",
+        "popularity": 0.1183,
+        "profile_path": null,
+        "credit_id": "5a90b06b925141418300042f",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1034270,
+        "known_for_department": "Sound",
+        "name": "Hikaru Hayashi",
+        "original_name": "林光",
+        "popularity": 0.2601,
+        "profile_path": "/wCMXUIe1skenWCFRVET6FmxglhU.jpg",
+        "credit_id": "5cdfc9f09251414d21b8cf97",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 33727,
+        "known_for_department": "Directing",
+        "name": "Kaneto Shindō",
+        "original_name": "新藤兼人",
+        "popularity": 1.2599,
+        "profile_path": "/slPRV7aV1R2W15HeVztiapjRdOH.jpg",
+        "credit_id": "5cdfca01c3a36846a71ee32e",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1561570,
+        "known_for_department": "Art",
+        "name": "Norimichi Igawa",
+        "original_name": "井川徳道",
+        "popularity": 0.2833,
+        "profile_path": null,
+        "credit_id": "68a5cedf7255b1050ea81648",
+        "department": "Art",
+        "job": "Art Direction"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "GB",
+        "title": "Kuroneko",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "VE",
+        "title": "El gato negro",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "GR",
+        "title": "Kolasmena Pathi",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "US",
+        "title": "The Black Cat from the Grove",
+        "type": "Literal english translation"
+      },
+      {
+        "iso_3166_1": "JP",
+        "title": "Yabu no naka no kuroneko",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "US",
+        "title": "Black Cat in a Bamboo Grove",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "KR",
+        "title": "쿠로네코",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "FR",
+        "title": "Kuroneko",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "JP",
+        "title": "薮の中の黒猫",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "PT",
+        "title": "O Gato Preto do Túmulo",
+        "type": ""
+      }
+    ]
+  }
+}

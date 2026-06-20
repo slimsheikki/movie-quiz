@@ -1,0 +1,281 @@
+{
+  "adult": false,
+  "backdrop_path": "/ymtwNtiuZwbYa1Vetp68VOGgrw3.jpg",
+  "belongs_to_collection": {
+    "id": 185682,
+    "name": "The Adventures of Antoine Doinel Collection",
+    "poster_path": "/66hyq0YtgBjrfT2kB1YJu33UDcy.jpg",
+    "backdrop_path": "/zMMSgC2bG10Kvh7zCgJrSrgQwsW.jpg"
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 256,
+  "imdb_id": "tt1180329",
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "Antoine et Colette",
+  "overview": "Now aged 17, Antoine Doinel works in a factory which makes records. At a music concert, he meets a girl his own age, Colette, and falls in love with her. Later, Antoine goes to extraordinary lengths to please his new girlfriend and her parents, but Colette still only regards him as a casual friend. First segment of “Love at Twenty” (1962).",
+  "popularity": 0.7201,
+  "poster_path": "/nfP8J7pv75KOAliIM3RG7h6Zos5.jpg",
+  "production_companies": [
+    {
+      "id": 53,
+      "logo_path": "/3cWJikm9MdWCMKdatuk8gDTa5xy.png",
+      "name": "Les Films du Carrosse",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "1962-06-22",
+  "revenue": 0,
+  "runtime": 30,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Will Colette ultimately fall for Antoine's romanticism?",
+  "title": "Antoine and Colette",
+  "video": false,
+  "vote_average": 7.185,
+  "vote_count": 276,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1653,
+        "known_for_department": "Acting",
+        "name": "Jean-Pierre Léaud",
+        "original_name": "Jean-Pierre Léaud",
+        "popularity": 1.1339,
+        "profile_path": "/zkWjuuyncnHfYpkUfEguwTTRntb.jpg",
+        "cast_id": 3,
+        "character": "Antoine Doinel",
+        "credit_id": "52fe422ec3a36847f800a341",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3536,
+        "known_for_department": "Acting",
+        "name": "Marie-France Pisier",
+        "original_name": "Marie-France Pisier",
+        "popularity": 0.7523,
+        "profile_path": "/uSSMHQ6rAmo06qp6HYuLE5YS46T.jpg",
+        "cast_id": 4,
+        "character": "Colette",
+        "credit_id": "52fe422ec3a36847f800a345",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3537,
+        "known_for_department": "Acting",
+        "name": "Rosy Varte",
+        "original_name": "Rosy Varte",
+        "popularity": 0.3628,
+        "profile_path": "/mjAiYDYeyjYFJZJLaLzWmxxE84l.jpg",
+        "cast_id": 5,
+        "character": "La mère de Colette",
+        "credit_id": "52fe422ec3a36847f800a349",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3518,
+        "known_for_department": "Acting",
+        "name": "François Darbon",
+        "original_name": "François Darbon",
+        "popularity": 0.1776,
+        "profile_path": "/aS4HHF3ENt8MgcbrgjldzNhZBnF.jpg",
+        "cast_id": 6,
+        "character": "Le beau-père de Colette",
+        "credit_id": "52fe422ec3a36847f800a34d",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1659,
+        "known_for_department": "Acting",
+        "name": "Patrick Auffay",
+        "original_name": "Patrick Auffay",
+        "popularity": 0.1592,
+        "profile_path": null,
+        "cast_id": 7,
+        "character": "René Bigey",
+        "credit_id": "52fe422ec3a36847f800a351",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3538,
+        "known_for_department": "Acting",
+        "name": "Jean-François Adam",
+        "original_name": "Jean-François Adam",
+        "popularity": 0.2499,
+        "profile_path": null,
+        "cast_id": 8,
+        "character": "Albert Tazzi",
+        "credit_id": "52fe422ec3a36847f800a355",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1003228,
+        "known_for_department": "Sound",
+        "name": "Pierre Schaeffer",
+        "original_name": "Pierre Schaeffer",
+        "popularity": 0.2424,
+        "profile_path": null,
+        "cast_id": 12,
+        "character": "Pierre Schaeffer",
+        "credit_id": "5b0cfa630e0a2608db006b0e",
+        "order": 6
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3540,
+        "known_for_department": "Camera",
+        "name": "Raoul Coutard",
+        "original_name": "Raoul Coutard",
+        "popularity": 0.1932,
+        "profile_path": "/fEwMCINuiSOu4f3CzHG3UL0BNIc.jpg",
+        "credit_id": "52fe422ec3a36847f800a367",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1650,
+        "known_for_department": "Directing",
+        "name": "François Truffaut",
+        "original_name": "François Truffaut",
+        "popularity": 1.1822,
+        "profile_path": "/3bXLtipaybsje01LlQvHvuUAZNq.jpg",
+        "credit_id": "52fe422ec3a36847f800a337",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3535,
+        "known_for_department": "Sound",
+        "name": "Georges Delerue",
+        "original_name": "Georges Delerue",
+        "popularity": 0.3093,
+        "profile_path": "/xKRsHzgZicN1KCUmnl4M09TVCxE.jpg",
+        "credit_id": "52fe422ec3a36847f800a33d",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3539,
+        "known_for_department": "Production",
+        "name": "Pierre Roustang",
+        "original_name": "Pierre Roustang",
+        "popularity": 0.1269,
+        "profile_path": null,
+        "credit_id": "52fe422ec3a36847f800a361",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1650,
+        "known_for_department": "Directing",
+        "name": "François Truffaut",
+        "original_name": "François Truffaut",
+        "popularity": 1.1822,
+        "profile_path": "/3bXLtipaybsje01LlQvHvuUAZNq.jpg",
+        "credit_id": "5b0cfa8a0e0a2608ee006367",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 18223,
+        "known_for_department": "Editing",
+        "name": "Claudine Bouché",
+        "original_name": "Claudine Bouché",
+        "popularity": 0.1159,
+        "profile_path": null,
+        "credit_id": "5b787c310e0a26472e0194c5",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2028418,
+        "known_for_department": "Camera",
+        "name": "Raymond Cauchetier",
+        "original_name": "Raymond Cauchetier",
+        "popularity": 0.1139,
+        "profile_path": null,
+        "credit_id": "5e1a79af1065d3001228a1a5",
+        "department": "Camera",
+        "job": "Still Photographer"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "ES",
+        "title": "Antoine y Colette",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "IT",
+        "title": "Antoine e Colette",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "FR",
+        "title": "La Fougue d'Antoine",
+        "type": "working title"
+      }
+    ]
+  }
+}

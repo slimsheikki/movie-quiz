@@ -1,0 +1,300 @@
+{
+  "adult": false,
+  "backdrop_path": "/8EqsebNbijFWEdiW9poMZ9eXjWf.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 83718,
+  "imdb_id": "tt0111689",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "What Happened Was...",
+  "overview": "Jackie and Michael are coworkers at a large law firm. They decide to meet at Jackie's for dinner one night.",
+  "popularity": 0.566,
+  "poster_path": "/mke5aNX5cT6JIWk2ER4ng9dGNNL.jpg",
+  "production_companies": [
+    {
+      "id": 10565,
+      "logo_path": "/5djnxodjmgbzdXiNRllwhQPxANY.png",
+      "name": "Good Machine",
+      "origin_country": "US"
+    },
+    {
+      "id": 17474,
+      "logo_path": null,
+      "name": "Genre Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1994-09-09",
+  "revenue": 0,
+  "runtime": 91,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Comedy. Romance. Terror. The perfect first date.",
+  "title": "What Happened Was...",
+  "video": false,
+  "vote_average": 7.141,
+  "vote_count": 46,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 135162,
+        "known_for_department": "Acting",
+        "name": "Karen Sillas",
+        "original_name": "Karen Sillas",
+        "popularity": 0.8776,
+        "profile_path": "/vQhlcyC2TZkHJQ2w86e1BSmRdae.jpg",
+        "cast_id": 11,
+        "character": "Jackie Marsh",
+        "credit_id": "52fe48b79251416c91095f8b",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 119232,
+        "known_for_department": "Acting",
+        "name": "Tom Noonan",
+        "original_name": "Tom Noonan",
+        "popularity": 1.5518,
+        "profile_path": "/8cwl9gaCr0F0yJ518nc6baebPLL.jpg",
+        "cast_id": 12,
+        "character": "Michael",
+        "credit_id": "52fe48b79251416c91095f8f",
+        "order": 1
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 119232,
+        "known_for_department": "Acting",
+        "name": "Tom Noonan",
+        "original_name": "Tom Noonan",
+        "popularity": 1.5518,
+        "profile_path": "/8cwl9gaCr0F0yJ518nc6baebPLL.jpg",
+        "credit_id": "60847aa1839018006f07cd3a",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4898,
+        "known_for_department": "Production",
+        "name": "Robin O'Hara",
+        "original_name": "Robin O'Hara",
+        "popularity": 0.1535,
+        "profile_path": "/wcAGOha6dMh9BThVvvJOXGs7bgR.jpg",
+        "credit_id": "52fe48b79251416c91095f6f",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 929960,
+        "known_for_department": "Art",
+        "name": "Daniel Ouellette",
+        "original_name": "Daniel Ouellette",
+        "popularity": 0.1423,
+        "profile_path": null,
+        "credit_id": "52fe48b79251416c91095f87",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 119232,
+        "known_for_department": "Acting",
+        "name": "Tom Noonan",
+        "original_name": "Tom Noonan",
+        "popularity": 1.5518,
+        "profile_path": "/8cwl9gaCr0F0yJ518nc6baebPLL.jpg",
+        "credit_id": "52fe48b79251416c91095f5d",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5952,
+        "known_for_department": "Production",
+        "name": "Ted Hope",
+        "original_name": "Ted Hope",
+        "popularity": 0.2461,
+        "profile_path": "/atYPlQ6C8UwwKeMIfCdiWm6BjpQ.jpg",
+        "credit_id": "52fe48b79251416c91095f63",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 119232,
+        "known_for_department": "Acting",
+        "name": "Tom Noonan",
+        "original_name": "Tom Noonan",
+        "popularity": 1.5518,
+        "profile_path": "/8cwl9gaCr0F0yJ518nc6baebPLL.jpg",
+        "credit_id": "52fe48b79251416c91095f51",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4899,
+        "known_for_department": "Production",
+        "name": "Scott Macaulay",
+        "original_name": "Scott Macaulay",
+        "popularity": 0.1518,
+        "profile_path": null,
+        "credit_id": "52fe48b79251416c91095f69",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1617,
+        "known_for_department": "Production",
+        "name": "James Schamus",
+        "original_name": "James Schamus",
+        "popularity": 0.9233,
+        "profile_path": "/a19sHOYYuXMJQPryiX0AKCPTXaR.jpg",
+        "credit_id": "52fe48b79251416c91095f75",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1896640,
+        "known_for_department": "Directing",
+        "name": "Steve Apicella",
+        "original_name": "Steve Apicella",
+        "popularity": 0.208,
+        "profile_path": null,
+        "credit_id": "64154e5c0d5d85009ba162df",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1002627,
+        "known_for_department": "Camera",
+        "name": "Joe Foley",
+        "original_name": "Joe Foley",
+        "popularity": 0.0327,
+        "profile_path": null,
+        "credit_id": "6628e9b339549a0189017de5",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2582285,
+        "known_for_department": "Sound",
+        "name": "Rick Stevenson",
+        "original_name": "Rick Stevenson",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "5e7ff7ae76484100113c8592",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1332483,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Kathryn Nixon",
+        "original_name": "Kathryn Nixon",
+        "popularity": 0.1754,
+        "profile_path": null,
+        "credit_id": "5e7ff787ce5d820014e8d656",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 119232,
+        "known_for_department": "Acting",
+        "name": "Tom Noonan",
+        "original_name": "Tom Noonan",
+        "popularity": 1.5518,
+        "profile_path": "/8cwl9gaCr0F0yJ518nc6baebPLL.jpg",
+        "credit_id": "5e7ff75ca127e5001455aa41",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1625316,
+        "known_for_department": "Sound",
+        "name": "Jacob Ribicoff",
+        "original_name": "Jacob Ribicoff",
+        "popularity": 0.2307,
+        "profile_path": "/hpX36xFxKski61K4KDQ8RzanluQ.jpg",
+        "credit_id": "5e7ff7971d6c5f00181c2126",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 786406,
+        "known_for_department": "Camera",
+        "name": "Joe DeSalvo",
+        "original_name": "Joe DeSalvo",
+        "popularity": 0.1549,
+        "profile_path": null,
+        "credit_id": "5fd91fda68188800429a8380",
+        "department": "Camera",
+        "job": "Director of Photography"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  }
+}

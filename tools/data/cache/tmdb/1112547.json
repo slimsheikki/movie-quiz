@@ -1,0 +1,471 @@
+{
+  "adult": false,
+  "backdrop_path": "/uXkyaqoc8wgujotPCeUARrqVdOv.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "",
+  "id": 1112547,
+  "imdb_id": "tt27502250",
+  "origin_country": [
+    "DE"
+  ],
+  "original_language": "de",
+  "original_title": "Anselm – Das Rauschen der Zeit",
+  "overview": "This unique cinematic experience dives deep into an artist’s work and reveals his life path, inspiration, and creative process. It explores his fascination with myth and history. Past and present are interwoven to diffuse the line between film and painting, allowing the audience to be completely immersed in the remarkable world of one of the greatest contemporary artists, Anselm Kiefer. Wim Wenders shot this unique portrait over the course of two years in stunning 3D.",
+  "popularity": 0.9449,
+  "poster_path": "/erEJByCPNjwpOk34XAZXQvKEJnJ.jpg",
+  "production_companies": [
+    {
+      "id": 45,
+      "logo_path": "/tUkNOAjyTt9D56DUeQfmmAFvwYQ.png",
+      "name": "Road Movies",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "release_date": "2023-10-12",
+  "revenue": 1831448,
+  "runtime": 93,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The sound of time.",
+  "title": "Anselm",
+  "video": false,
+  "vote_average": 6.7,
+  "vote_count": 48,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1879776,
+        "known_for_department": "Acting",
+        "name": "Anselm Kiefer",
+        "original_name": "Anselm Kiefer",
+        "popularity": 0.052,
+        "profile_path": null,
+        "cast_id": 7,
+        "character": "Anselm",
+        "credit_id": "64da2299d100b600e26af03a",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4214419,
+        "known_for_department": "Acting",
+        "name": "Anton Wenders",
+        "original_name": "Anton Wenders",
+        "popularity": 0.0451,
+        "profile_path": null,
+        "cast_id": 9,
+        "character": "Anselm (Boy)",
+        "credit_id": "64da22cd001bbd00e35ca062",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4242841,
+        "known_for_department": "Acting",
+        "name": "Daniel Kiefer",
+        "original_name": "Daniel Kiefer",
+        "popularity": 0.0362,
+        "profile_path": null,
+        "cast_id": 10,
+        "character": "Anselm (Young)",
+        "credit_id": "64ef25b197a4e600fea7ec2b",
+        "order": 2
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2303,
+        "known_for_department": "Directing",
+        "name": "Wim Wenders",
+        "original_name": "Wim Wenders",
+        "popularity": 1.1846,
+        "profile_path": "/7Y4mkVstQxhegwlOwAsGRfZfHXC.jpg",
+        "credit_id": "6437df4081a7fc009ba53a2a",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2303,
+        "known_for_department": "Directing",
+        "name": "Wim Wenders",
+        "original_name": "Wim Wenders",
+        "popularity": 1.1846,
+        "profile_path": "/7Y4mkVstQxhegwlOwAsGRfZfHXC.jpg",
+        "credit_id": "645a450cfe077a5caadfd97f",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 17848,
+        "known_for_department": "Camera",
+        "name": "Franz Lustig",
+        "original_name": "Franz Lustig",
+        "popularity": 0.0782,
+        "profile_path": null,
+        "credit_id": "645d03a41b70ae00fd6d61ea",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3202681,
+        "known_for_department": "Sound",
+        "name": "Leonard Küßner",
+        "original_name": "Leonard Küßner",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "645d03ae1b70ae00e2ae219d",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1414385,
+        "known_for_department": "Editing",
+        "name": "Maxine Goedicke",
+        "original_name": "Maxine Goedicke",
+        "popularity": 0.0781,
+        "profile_path": null,
+        "credit_id": "645d03b9156cc7015e7926c2",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 32462,
+        "known_for_department": "Production",
+        "name": "Karsten Brünig",
+        "original_name": "Karsten Brünig",
+        "popularity": 0.0907,
+        "profile_path": null,
+        "credit_id": "645d03c4fe077a5caae147bc",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2303,
+        "known_for_department": "Directing",
+        "name": "Wim Wenders",
+        "original_name": "Wim Wenders",
+        "popularity": 1.1846,
+        "profile_path": "/7Y4mkVstQxhegwlOwAsGRfZfHXC.jpg",
+        "credit_id": "69028c3b69f5b29a348d9695",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 32467,
+        "known_for_department": "Production",
+        "name": "Stephan Mallmann",
+        "original_name": "Stephan Mallmann",
+        "popularity": 0.086,
+        "profile_path": null,
+        "credit_id": "69028c95c28f4ea9b779be47",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1707587,
+        "known_for_department": "Crew",
+        "name": "Andreas Pense",
+        "original_name": "Andreas Pense",
+        "popularity": 0.0539,
+        "profile_path": null,
+        "credit_id": "69028ca9c2e56964efa2c1d8",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3056,
+        "known_for_department": "Production",
+        "name": "Jeremy Thomas",
+        "original_name": "Jeremy Thomas",
+        "popularity": 0.3878,
+        "profile_path": "/mENxsXYilnQ2EO52Q04X73ukYM1.jpg",
+        "credit_id": "69028cc70a3ab36ffffe5444",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2639375,
+        "known_for_department": "Camera",
+        "name": "Sebastian Cramer",
+        "original_name": "Sebastian Cramer",
+        "popularity": 0.0434,
+        "profile_path": null,
+        "credit_id": "69028cefaa46b8dbe7c5659a",
+        "department": "Visual Effects",
+        "job": "Stereoscopic Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1835136,
+        "known_for_department": "Sound",
+        "name": "Régis Muller",
+        "original_name": "Régis Muller",
+        "popularity": 0.0261,
+        "profile_path": null,
+        "credit_id": "69028d110a3ab36ffffe5449",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 15463,
+        "known_for_department": "Sound",
+        "name": "Ansgar Frerich",
+        "original_name": "Ansgar Frerich",
+        "popularity": 0.2551,
+        "profile_path": null,
+        "credit_id": "69028d39fef6c3ea3bc565be",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1564029,
+        "known_for_department": "Sound",
+        "name": "Florian Holzner",
+        "original_name": "Florian Holzner",
+        "popularity": 0.1355,
+        "profile_path": null,
+        "credit_id": "69028d68db2af55ca4af12c8",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 20014,
+        "known_for_department": "Art",
+        "name": "Sebastian Soukup",
+        "original_name": "Sebastian Soukup",
+        "popularity": 0.2244,
+        "profile_path": "/76ZJ9HN0YPKnuu7HGbtkNc3TABl.jpg",
+        "credit_id": "69028d8a91d59cab1afe5423",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1177712,
+        "known_for_department": "Art",
+        "name": "Karin Betzler",
+        "original_name": "Karin Betzler",
+        "popularity": 0.0261,
+        "profile_path": null,
+        "credit_id": "69028d9919f11b45a87e7a9a",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1615688,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Heike Fademrecht",
+        "original_name": "Heike Fademrecht",
+        "popularity": 0.1011,
+        "profile_path": null,
+        "credit_id": "69028db298d0266cdfa7dd44",
+        "department": "Costume & Make-Up",
+        "job": "Costume Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4280982,
+        "known_for_department": "Production",
+        "name": "Luca Lucchesi",
+        "original_name": "Luca Lucchesi",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "69028e42472617c1f48d96c2",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2738504,
+        "known_for_department": "Production",
+        "name": "Susann Knießner",
+        "original_name": "Susann Knießner",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "69028e6caabf1913e78d96da",
+        "department": "Production",
+        "job": "Production Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 142554,
+        "known_for_department": "Visual Effects",
+        "name": "Kalle Max Hofmann",
+        "original_name": "Kalle Max Hofmann",
+        "popularity": 0.1262,
+        "profile_path": null,
+        "credit_id": "69028e8a402a3252b37e7a7c",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2426586,
+        "known_for_department": "Production",
+        "name": "Léa Germain",
+        "original_name": "Léa Germain",
+        "popularity": 0.0261,
+        "profile_path": null,
+        "credit_id": "69028eea9c2e8c023fa7dd87",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2523588,
+        "known_for_department": "Crew",
+        "name": "Dominik Bollen",
+        "original_name": "Dominik Bollen",
+        "popularity": 0.0794,
+        "profile_path": null,
+        "credit_id": "69028f86570dac8deea2c251",
+        "department": "Crew",
+        "job": "Post Production Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1570906,
+        "known_for_department": "Camera",
+        "name": "Donata Wenders",
+        "original_name": "Donata Wenders",
+        "popularity": 0.1711,
+        "profile_path": "/aO06osXzNgTGJL9p6OyvOHqKsdg.jpg",
+        "credit_id": "69028fd538d360d4bdee7a92",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4527161,
+        "known_for_department": "Camera",
+        "name": "Michael Schneider",
+        "original_name": "Michael Schneider",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "69028ff2f4371c49578d9673",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5783002,
+        "known_for_department": "Editing",
+        "name": "Maxim Gdanietz",
+        "original_name": "Maxim Gdanietz",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "6902904f4f4ca8cc8afe543c",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "FR",
+        "title": "Anselm",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "DE",
+        "title": "ANSELM (DAS RAUSCHEN DER ZEIT)",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "DE",
+        "title": "Anselm - Das Rauschen der zeit",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "FR",
+        "title": "Anselm (Das Rauschen Der Zeit)",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "KR",
+        "title": "빔 벤더스의 안젤름 3D",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "TW",
+        "title": "安塞姆：廢墟詩篇",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "PT",
+        "title": "Anselm - O Som do Tempo",
+        "type": ""
+      }
+    ]
+  }
+}

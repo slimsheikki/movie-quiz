@@ -1,0 +1,859 @@
+{
+  "adult": false,
+  "backdrop_path": "/72G2cjD0sVmpkQqFkSmADUz0g5s.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 26280,
+  "imdb_id": "tt1424797",
+  "origin_country": [
+    "CA"
+  ],
+  "original_language": "fr",
+  "original_title": "J'ai tué ma mère",
+  "overview": "Hubert, a brash 17-year-old, is confused and torn by a love-hate relationship with his mother that consumes him more and more each day. After distressing ordeals and tragic episodes, Hubert will find his mother on the banks of Saint Lawrence river, where he grew up, and where a murder will be committed: the murder of childhood.",
+  "popularity": 0.9584,
+  "poster_path": "/nB6OuDdERS95aQtoxPExXxsW3Ov.jpg",
+  "production_companies": [
+    {
+      "id": 71833,
+      "logo_path": null,
+      "name": "Mifilifilms",
+      "origin_country": "CA"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    }
+  ],
+  "release_date": "2009-06-05",
+  "revenue": 0,
+  "runtime": 96,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Sons forget their mothers can die.",
+  "title": "I Killed My Mother",
+  "video": false,
+  "vote_average": 7.4,
+  "vote_count": 1165,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 86612,
+        "known_for_department": "Acting",
+        "name": "Anne Dorval",
+        "original_name": "Anne Dorval",
+        "popularity": 0.6976,
+        "profile_path": "/qepLsxlg2p5qai1y2bwI2zUM5iz.jpg",
+        "cast_id": 4,
+        "character": "Chantale Lemming",
+        "credit_id": "52fe44f8c3a368484e04134f",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 143593,
+        "known_for_department": "Directing",
+        "name": "Xavier Dolan",
+        "original_name": "Xavier Dolan",
+        "popularity": 0.9141,
+        "profile_path": "/4DsDMNQskzolD477eBY9r2ZYgbt.jpg",
+        "cast_id": 3,
+        "character": "Hubert Minel",
+        "credit_id": "52fe44f8c3a368484e04134b",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 469462,
+        "known_for_department": "Acting",
+        "name": "François Arnaud",
+        "original_name": "François Arnaud",
+        "popularity": 1.1033,
+        "profile_path": "/2aPDGUGRcrBYmrQLc8AklEqp7xI.jpg",
+        "cast_id": 6,
+        "character": "Antonin Rimbaud",
+        "credit_id": "52fe44f8c3a368484e041353",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 142689,
+        "known_for_department": "Acting",
+        "name": "Suzanne Clément",
+        "original_name": "Suzanne Clément",
+        "popularity": 0.8767,
+        "profile_path": "/3WQjZwPnKYwWldYZ7BwvgGPOBic.jpg",
+        "cast_id": 7,
+        "character": "Julie Cloutier",
+        "credit_id": "52fe44f8c3a368484e041357",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 59616,
+        "known_for_department": "Acting",
+        "name": "Patricia Tulasne",
+        "original_name": "Patricia Tulasne",
+        "popularity": 0.2305,
+        "profile_path": "/2j11ix8yvoINGGfho4U5C96U4C0.jpg",
+        "cast_id": 8,
+        "character": "Hélène Rimbaud",
+        "credit_id": "52fe44f8c3a368484e04135b",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 143596,
+        "known_for_department": "Acting",
+        "name": "Niels Schneider",
+        "original_name": "Niels Schneider",
+        "popularity": 0.9177,
+        "profile_path": "/iIVp60s30iA2CNKTWxmxLgdy1Vr.jpg",
+        "cast_id": 9,
+        "character": "Eric",
+        "credit_id": "52fe44f8c3a368484e04135f",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 79613,
+        "known_for_department": "Acting",
+        "name": "Monique Spaziani",
+        "original_name": "Monique Spaziani",
+        "popularity": 0.3039,
+        "profile_path": "/cYJTsDaFH9Ipl9Lhu9uRhsbcSs1.jpg",
+        "cast_id": 10,
+        "character": "Denise",
+        "credit_id": "52fe44f8c3a368484e041363",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1995516,
+        "known_for_department": "Acting",
+        "name": "Pierre Chagnon",
+        "original_name": "Pierre Chagnon",
+        "popularity": 0.184,
+        "profile_path": "/iqdvHnF92IvhLfiT7ZcKpYiK5u8.jpg",
+        "cast_id": 37,
+        "character": "Richard Minel",
+        "credit_id": "5bac3992c3a3683aaf0311d3",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1152767,
+        "known_for_department": "Acting",
+        "name": "Justin Caron",
+        "original_name": "Justin Caron",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "cast_id": 12,
+        "character": "Young Hubert",
+        "credit_id": "52fe44f8c3a368484e04136b",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 557976,
+        "known_for_department": "Acting",
+        "name": "Benoît Gouin",
+        "original_name": "Benoît Gouin",
+        "popularity": 0.1648,
+        "profile_path": "/gk9ATIRu5EeMoK0VYNK7TOS7XDc.jpg",
+        "cast_id": 13,
+        "character": "Boarding School Principal",
+        "credit_id": "52fe44f8c3a368484e04136f",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 38525,
+        "known_for_department": "Acting",
+        "name": "Johanne-Marie Tremblay",
+        "original_name": "Johanne-Marie Tremblay",
+        "popularity": 0.3735,
+        "profile_path": "/vjaIzsYH7qxImdpEO65hBVr3MpZ.jpg",
+        "cast_id": 14,
+        "character": "Boarding School Teacher",
+        "credit_id": "52fe44f8c3a368484e041373",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1152768,
+        "known_for_department": "Acting",
+        "name": "Hugolin Chevrette",
+        "original_name": "Hugolin Chevrette",
+        "popularity": 0.2445,
+        "profile_path": "/qnLFyt88G5MLxskXlhLTNUvHH8C.jpg",
+        "cast_id": 15,
+        "character": "Student Fighter #1",
+        "credit_id": "52fe44f8c3a368484e041377",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 86613,
+        "known_for_department": "Acting",
+        "name": "Francis Ducharme",
+        "original_name": "Francis Ducharme",
+        "popularity": 0.2603,
+        "profile_path": "/qyhHHcFPz7SSMWC2Qno2WTMo035.jpg",
+        "cast_id": 16,
+        "character": "Student Fighter #2",
+        "credit_id": "52fe44f8c3a368484e04137b",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1152769,
+        "known_for_department": "Acting",
+        "name": "Pascale Audrey",
+        "original_name": "Pascale Audrey",
+        "popularity": 0.0311,
+        "profile_path": "/j2OQTOfUZV17EgdA2dSPXbshnje.jpg",
+        "cast_id": 17,
+        "character": "Art Professor",
+        "credit_id": "52fe44f8c3a368484e04137f",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 522238,
+        "known_for_department": "Acting",
+        "name": "Émile Mailhiot",
+        "original_name": "Émile Mailhiot",
+        "popularity": 0.0942,
+        "profile_path": "/uCy1QKgYyWviHdsheu1ohO7oL0y.jpg",
+        "cast_id": 34,
+        "character": "Classroom Student #1",
+        "credit_id": "57907834c3a3684a8c002a00",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 66608,
+        "known_for_department": "Acting",
+        "name": "Laurent-Christophe De Ruelle",
+        "original_name": "Laurent-Christophe De Ruelle",
+        "popularity": 0.1231,
+        "profile_path": "/xbuypD7N5bYRKa1OAQNfK5bnrmC.jpg",
+        "cast_id": 39,
+        "character": "Classroom Student #2",
+        "credit_id": "5f31cf6a9a358d0038935939",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 96592,
+        "known_for_department": "Acting",
+        "name": "Manuel Tadros",
+        "original_name": "Manuel Tadros",
+        "popularity": 0.2244,
+        "profile_path": "/9RItQpjt0bQc3HTFpthOocahXHX.jpg",
+        "cast_id": 38,
+        "character": "Apartment Owner",
+        "credit_id": "5ec2a2f34e52ed001f38e694",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1508579,
+        "known_for_department": "Acting",
+        "name": "Marianne Verville",
+        "original_name": "Marianne Verville",
+        "popularity": 0.1648,
+        "profile_path": "/anfvYtgbrlJXnQ8PYwtP6EF8m4g.jpg",
+        "cast_id": 40,
+        "character": "Girl on Bus (uncredited)",
+        "credit_id": "5ff2b6cc46e75f003fd38139",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2733976,
+        "known_for_department": "Acting",
+        "name": "Élise Bertrand",
+        "original_name": "Élise Bertrand",
+        "popularity": 0.0416,
+        "profile_path": null,
+        "cast_id": 63,
+        "character": "Woman on radio (voice) (uncredited)",
+        "credit_id": "647d43c30e29a200bf1faeb9",
+        "order": 18
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 143593,
+        "known_for_department": "Directing",
+        "name": "Xavier Dolan",
+        "original_name": "Xavier Dolan",
+        "popularity": 0.9141,
+        "profile_path": "/4DsDMNQskzolD477eBY9r2ZYgbt.jpg",
+        "credit_id": "52fe44f8c3a368484e041341",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 143593,
+        "known_for_department": "Directing",
+        "name": "Xavier Dolan",
+        "original_name": "Xavier Dolan",
+        "popularity": 0.9141,
+        "profile_path": "/4DsDMNQskzolD477eBY9r2ZYgbt.jpg",
+        "credit_id": "55e06e14c3a3682694002759",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1372758,
+        "known_for_department": "Camera",
+        "name": "Stéphanie Weber Biron",
+        "original_name": "Stéphanie Weber Biron",
+        "popularity": 0.1174,
+        "profile_path": "/5uatDxTiqBwB2kEdrL3r5vnnitO.jpg",
+        "credit_id": "568f127dc3a368323e000502",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1020755,
+        "known_for_department": "Editing",
+        "name": "Hélène Girard",
+        "original_name": "Hélène Girard",
+        "popularity": 0.0416,
+        "profile_path": null,
+        "credit_id": "568f128b925141189b0003fe",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1559672,
+        "known_for_department": "Art",
+        "name": "Anette Belley",
+        "original_name": "Anette Belley",
+        "popularity": 0.0641,
+        "profile_path": null,
+        "credit_id": "568f129292514118950003ad",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1531463,
+        "known_for_department": "Acting",
+        "name": "Nicholas Savard-L'Herbier",
+        "original_name": "Nicholas Savard-L'Herbier",
+        "popularity": 0.0979,
+        "profile_path": "/7ViYXm4BmDfhqjcvjo5fQbjk0Lw.jpg",
+        "credit_id": "568f1273925141188c0003ac",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 29457,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Nicole Pelletier",
+        "original_name": "Nicole Pelletier",
+        "popularity": 0.0794,
+        "profile_path": null,
+        "credit_id": "568f12a292514118950003ba",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 92208,
+        "known_for_department": "Production",
+        "name": "Karl Archambault",
+        "original_name": "Karl Archambault",
+        "popularity": 0.0842,
+        "profile_path": null,
+        "credit_id": "568f12b6c3a3683251000531",
+        "department": "Production",
+        "job": "Unit Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 92210,
+        "known_for_department": "Production",
+        "name": "Carole Mondello",
+        "original_name": "Carole Mondello",
+        "popularity": 0.1075,
+        "profile_path": null,
+        "credit_id": "568f12c0925141188f0003ec",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 143593,
+        "known_for_department": "Directing",
+        "name": "Xavier Dolan",
+        "original_name": "Xavier Dolan",
+        "popularity": 0.9141,
+        "profile_path": "/4DsDMNQskzolD477eBY9r2ZYgbt.jpg",
+        "credit_id": "588fa8c1c3a36860af00b11a",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1501270,
+        "known_for_department": "Production",
+        "name": "Daniel Morin",
+        "original_name": "Daniel Morin",
+        "popularity": 0.0362,
+        "profile_path": null,
+        "credit_id": "6414c36f31032500e8a13c8c",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 92210,
+        "known_for_department": "Production",
+        "name": "Carole Mondello",
+        "original_name": "Carole Mondello",
+        "popularity": 0.1075,
+        "profile_path": null,
+        "credit_id": "6414c3373103250086f77ad0",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1363865,
+        "known_for_department": "Visual Effects",
+        "name": "Martin Lipmann",
+        "original_name": "Martin Lipmann",
+        "popularity": 0.1353,
+        "profile_path": null,
+        "credit_id": "6414c4303103250086f77b5b",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1559674,
+        "known_for_department": "Sound",
+        "name": "Sylvain Brassard",
+        "original_name": "Sylvain Brassard",
+        "popularity": 0.1264,
+        "profile_path": "/v89DueaqvLKrfX4WzWVb6zmz0Sp.jpg",
+        "credit_id": "6414c482e9c0dc00a40ad763",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 143593,
+        "known_for_department": "Directing",
+        "name": "Xavier Dolan",
+        "original_name": "Xavier Dolan",
+        "popularity": 0.9141,
+        "profile_path": "/4DsDMNQskzolD477eBY9r2ZYgbt.jpg",
+        "credit_id": "6414c45931032500c5a8f0eb",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1528011,
+        "known_for_department": "Directing",
+        "name": "Nathalie Paquette",
+        "original_name": "Nathalie Paquette",
+        "popularity": 0.1297,
+        "profile_path": null,
+        "credit_id": "6414e1dc5690b500bb00be1a",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1841157,
+        "known_for_department": "Acting",
+        "name": "Clara Palardy",
+        "original_name": "Clara Palardy",
+        "popularity": 0.0398,
+        "profile_path": null,
+        "credit_id": "6414de579d893900b8a5ac09",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 967179,
+        "known_for_department": "Camera",
+        "name": "Nicolas Canniccioni",
+        "original_name": "Nicolas Canniccioni",
+        "popularity": 0.108,
+        "profile_path": "/o20tAMvCEftbvoh8HrIPYZr0Oes.jpg",
+        "credit_id": "6414de1e3103250086f7834e",
+        "department": "Camera",
+        "job": "Additional Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3875706,
+        "known_for_department": "Sound",
+        "name": "Jean-François Roy",
+        "original_name": "Jean-François Roy",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "6414e3e80d5d8500ba0ea890",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3967125,
+        "known_for_department": "Production",
+        "name": "Francine Lebrun",
+        "original_name": "Francine Lebrun",
+        "popularity": 0.0256,
+        "profile_path": null,
+        "credit_id": "6414e531e7414600d88e1b12",
+        "department": "Production",
+        "job": "Production Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1650729,
+        "known_for_department": "Sound",
+        "name": "Benoît Dame",
+        "original_name": "Benoît Dame",
+        "popularity": 0.1142,
+        "profile_path": null,
+        "credit_id": "6414e5e59d8939007cd9638a",
+        "department": "Sound",
+        "job": "Dialogue Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1559672,
+        "known_for_department": "Art",
+        "name": "Anette Belley",
+        "original_name": "Anette Belley",
+        "popularity": 0.0641,
+        "profile_path": null,
+        "credit_id": "6414e22fe74146008670ecb6",
+        "department": "Art",
+        "job": "Property Master"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3967102,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Geneviève Mondoux",
+        "original_name": "Geneviève Mondoux",
+        "popularity": 0.0387,
+        "profile_path": null,
+        "credit_id": "6414e3816a2227007d7233c8",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1174144,
+        "known_for_department": "Sound",
+        "name": "Jean-Pierre Bissonnette",
+        "original_name": "Jean-Pierre Bissonnette",
+        "popularity": 0.0824,
+        "profile_path": null,
+        "credit_id": "6414e8803103250086f785e7",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2340697,
+        "known_for_department": "Directing",
+        "name": "France Boudreau",
+        "original_name": "France Boudreau",
+        "popularity": 0.0923,
+        "profile_path": null,
+        "credit_id": "6414ddbb6a2227008de72962",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3967102,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Geneviève Mondoux",
+        "original_name": "Geneviève Mondoux",
+        "popularity": 0.0387,
+        "profile_path": null,
+        "credit_id": "6414e2c80d5d8500f2d60c4a",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3967119,
+        "known_for_department": "Sound",
+        "name": "Daniel Provencher",
+        "original_name": "Daniel Provencher",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "credit_id": "6414e4d90d5d85007b673152",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3967087,
+        "known_for_department": "Camera",
+        "name": "Julien Hébert",
+        "original_name": "Julien Hébert",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "6414df96e9c0dc00ecc88541",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2567765,
+        "known_for_department": "Sound",
+        "name": "Alexis Farand",
+        "original_name": "Alexis Farand",
+        "popularity": 0.0482,
+        "profile_path": null,
+        "credit_id": "6414e5af3103250086f78522",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1559673,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Marie-Josée Galibert",
+        "original_name": "Marie-Josée Galibert",
+        "popularity": 0.1031,
+        "profile_path": null,
+        "credit_id": "6414e2916a2227010c4b072d",
+        "department": "Costume & Make-Up",
+        "job": "Key Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1559673,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Marie-Josée Galibert",
+        "original_name": "Marie-Josée Galibert",
+        "popularity": 0.1031,
+        "profile_path": null,
+        "credit_id": "6414e297e9c0dc0081cd1ac7",
+        "department": "Costume & Make-Up",
+        "job": "Key Hair Stylist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3899187,
+        "known_for_department": "Sound",
+        "name": "Jean-Sébastien Roy",
+        "original_name": "Jean-Sébastien Roy",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "6414e3bb5690b500a2169226",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1559674,
+        "known_for_department": "Sound",
+        "name": "Sylvain Brassard",
+        "original_name": "Sylvain Brassard",
+        "popularity": 0.1264,
+        "profile_path": "/v89DueaqvLKrfX4WzWVb6zmz0Sp.jpg",
+        "credit_id": "5a8b3983c3a36862a707a993",
+        "department": "Sound",
+        "job": "Sound Designer"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "FR",
+        "title": "J'ai tué ma mère",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "BR",
+        "title": "Eu Matei Minha Mãe",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "KR",
+        "title": "아이 킬드 마이 마더",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "NL",
+        "title": "I Killed My Mother",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "ES",
+        "title": "Yo maté a mi madre",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "CH",
+        "title": "Ich habe meine Mutter getötet",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "TW",
+        "title": "聽媽媽的話",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "GR",
+        "title": "Σκότωσα τη μητέρα μου",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "HU",
+        "title": "Megöltem anyámat",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "JP",
+        "title": "マイ・マザー",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "LT",
+        "title": "Aš nužudžiau savo mamą",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "PL",
+        "title": "Zabiłem moją matkę",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "PT",
+        "title": "Como Matei a Minha Mãe",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "RO",
+        "title": "Am omorât-o pe mama",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "RU",
+        "title": "Я убил свою маму",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "RS",
+        "title": "Убио сам мајку",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "SE",
+        "title": "Jag dödade min mamma",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "TR",
+        "title": "Annemi öldürdüm",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "UA",
+        "title": "Я вбив свою матір",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "AZ",
+        "title": "Anamı Öldürdüm",
+        "type": ""
+      }
+    ]
+  }
+}

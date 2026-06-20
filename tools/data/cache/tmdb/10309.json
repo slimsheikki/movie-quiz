@@ -1,0 +1,568 @@
+{
+  "adult": false,
+  "backdrop_path": "/s1i2PXNoxhQw06iL1upC2UG8gwe.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 10309,
+  "imdb_id": "tt0067227",
+  "origin_country": [
+    "DE"
+  ],
+  "original_language": "de",
+  "original_title": "Händler der vier Jahreszeiten",
+  "overview": "Hans is a street fruit peddler and born loser. His choice of career upsets his bourgeois family, causing him to turn to drinking and violence. After recovering from a debilitating heart attack, his business finally begins to take off. However, the more he becomes a credit to his family, the more depressed he becomes.",
+  "popularity": 0.5592,
+  "poster_path": "/6SoPBvDdx3WoG1t86XHWyfV6JQm.jpg",
+  "production_companies": [
+    {
+      "id": 11626,
+      "logo_path": null,
+      "name": "Tango Film",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "release_date": "1972-03-10",
+  "revenue": 0,
+  "runtime": 88,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Arabic",
+      "iso_639_1": "ar",
+      "name": "العربية"
+    },
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Merchant of Four Seasons",
+  "video": false,
+  "vote_average": 6.687,
+  "vote_count": 83,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 48187,
+        "known_for_department": "Acting",
+        "name": "Hans Hirschmüller",
+        "original_name": "Hans Hirschmüller",
+        "popularity": 0.2265,
+        "profile_path": "/3YP2QWcAOlXZhLY8wfkLLFY8Hve.jpg",
+        "cast_id": 5,
+        "character": "Hans Epp",
+        "credit_id": "52fe43569251416c7500c8e3",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2729,
+        "known_for_department": "Acting",
+        "name": "Irm Hermann",
+        "original_name": "Irm Hermann",
+        "popularity": 0.4895,
+        "profile_path": "/4NzeDGGAqq0Aw8QpqTuOAu7DkeN.jpg",
+        "cast_id": 6,
+        "character": "Irmgard Epp",
+        "credit_id": "52fe43569251416c7500c8e7",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3734,
+        "known_for_department": "Acting",
+        "name": "Hanna Schygulla",
+        "original_name": "Hanna Schygulla",
+        "popularity": 0.7924,
+        "profile_path": "/hAZVxNCVzYBq3ToWzE01LXK6Oum.jpg",
+        "cast_id": 7,
+        "character": "Anna Epp, Hans's sister",
+        "credit_id": "52fe43569251416c7500c8eb",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 10625,
+        "known_for_department": "Acting",
+        "name": "Andrea Schober",
+        "original_name": "Andrea Schober",
+        "popularity": 0.118,
+        "profile_path": null,
+        "cast_id": 8,
+        "character": "Renate Epp, Hans's daughter",
+        "credit_id": "52fe43569251416c7500c8ef",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2742,
+        "known_for_department": "Acting",
+        "name": "Karl Scheydt",
+        "original_name": "Karl Scheydt",
+        "popularity": 0.1789,
+        "profile_path": "/nAOPQ4CU7LgLuKnSmKdPlOMmdSj.jpg",
+        "cast_id": 26,
+        "character": "Anzell",
+        "credit_id": "61f26ec89a3c49001bda1981",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 9927,
+        "known_for_department": "Acting",
+        "name": "Klaus Löwitsch",
+        "original_name": "Klaus Löwitsch",
+        "popularity": 0.8449,
+        "profile_path": "/dMdQVN06vzi7Tn9qByIvxDHxE2S.jpg",
+        "cast_id": 9,
+        "character": "Harry",
+        "credit_id": "534f8f95c3a3681cdd00092f",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2732,
+        "known_for_department": "Acting",
+        "name": "Gusti Kreissl",
+        "original_name": "Gusti Kreissl",
+        "popularity": 0.1275,
+        "profile_path": "/vVJsqVlynHxprTOVs6LTeS6aKB3.jpg",
+        "cast_id": 25,
+        "character": "Mother Epp",
+        "credit_id": "61f26e59a6fdaa0099c3f43b",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 45195,
+        "known_for_department": "Acting",
+        "name": "Ingrid Caven",
+        "original_name": "Ingrid Caven",
+        "popularity": 0.5008,
+        "profile_path": "/py0XImGnp27PIWYAMWIyNP78X5K.jpg",
+        "cast_id": 11,
+        "character": "Hans's great love",
+        "credit_id": "534f8fb6c3a3681cdd000932",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 39006,
+        "known_for_department": "Acting",
+        "name": "Peter Chatel",
+        "original_name": "Peter Chatel",
+        "popularity": 0.3137,
+        "profile_path": "/xWlshh3F6fLXqHvgLo863bei8x1.jpg",
+        "cast_id": 24,
+        "character": "Dr. Harlach",
+        "credit_id": "61f26e119a3c4900699eb560",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 53419,
+        "known_for_department": "Acting",
+        "name": "Elga Sorbas",
+        "original_name": "Elga Sorbas",
+        "popularity": 0.1273,
+        "profile_path": "/mfLBm2Q15GoVER1gnfTEt0l6iWk.jpg",
+        "cast_id": 27,
+        "character": "Marile",
+        "credit_id": "61f26fa3d7cd0600a514d905",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 21997,
+        "known_for_department": "Acting",
+        "name": "Kurt Raab",
+        "original_name": "Kurt Raab",
+        "popularity": 0.4952,
+        "profile_path": "/k3CjKFY5nT4WIKhC96W1S87j36z.jpg",
+        "cast_id": 10,
+        "character": "Kurt, Hans's brother-in-law",
+        "credit_id": "534f8fa7c3a3681cae0008c4",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1865,
+        "known_for_department": "Acting",
+        "name": "Hark Bohm",
+        "original_name": "Hark Bohm",
+        "popularity": 0.3458,
+        "profile_path": "/qbK0MB6h73iuqXJ4e8ttaKdHB1C.jpg",
+        "cast_id": 12,
+        "character": "Polizei-Vorgesetzter",
+        "credit_id": "534f8fc5c3a3681cdd000934",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2741,
+        "known_for_department": "Acting",
+        "name": "Walter Sedlmayr",
+        "original_name": "Walter Sedlmayr",
+        "popularity": 0.3899,
+        "profile_path": "/9cESnCVgyYbWnJzLEMkyyqm6G1U.jpg",
+        "cast_id": 13,
+        "character": "Karren-Verkäufer",
+        "credit_id": "534f8fd2c3a3681ccc000984",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2740,
+        "known_for_department": "Acting",
+        "name": "Lilo Pempeit",
+        "original_name": "Lilo Pempeit",
+        "popularity": 0.1794,
+        "profile_path": "/cKTUKW1TLHqi86hgNMRwiii8eLQ.jpg",
+        "cast_id": 14,
+        "character": "Kundin",
+        "credit_id": "534f8fe2c3a3681ce50008d3",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2727,
+        "known_for_department": "Acting",
+        "name": "El Hedi ben Salem",
+        "original_name": "El Hedi ben Salem",
+        "popularity": 0.2509,
+        "profile_path": "/sPMb9tLQ5uPmzZrkbODFUyqtbAM.jpg",
+        "cast_id": 15,
+        "character": "Araber",
+        "credit_id": "534f8ff7c3a3681cb500094c",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 920,
+        "known_for_department": "Acting",
+        "name": "Jürgen Prochnow",
+        "original_name": "Jürgen Prochnow",
+        "popularity": 1.7478,
+        "profile_path": "/45gcCuTcZdqpVISh5C8q1N9HyEz.jpg",
+        "cast_id": 16,
+        "character": "Man at the Meeting Table",
+        "credit_id": "534f9007c3a3681cdd00093a",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 220662,
+        "known_for_department": "Acting",
+        "name": "Heide Simon",
+        "original_name": "Heide Simon",
+        "popularity": 0.2461,
+        "profile_path": "/7TqvH97euZApZVL5ZZfF2vkhZJN.jpg",
+        "cast_id": 28,
+        "character": "Heide, Hans's married sister",
+        "credit_id": "628a24f45cea182dd044774d",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2725,
+        "known_for_department": "Directing",
+        "name": "Rainer Werner Fassbinder",
+        "original_name": "Rainer Werner Fassbinder",
+        "popularity": 1.013,
+        "profile_path": "/uZFSBv6Q4ZSwZr8wfLobBCiiC14.jpg",
+        "cast_id": 29,
+        "character": "Zucker",
+        "credit_id": "643ab40e091e6205335e309d",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 64219,
+        "known_for_department": "Directing",
+        "name": "Daniel Schmid",
+        "original_name": "Daniel Schmid",
+        "popularity": 0.1273,
+        "profile_path": "/1ETvbiExNRPLEbhejAvuflmOqie.jpg",
+        "cast_id": 30,
+        "character": "1st Candidate",
+        "credit_id": "645f88bda672540101090c50",
+        "order": 18
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2725,
+        "known_for_department": "Directing",
+        "name": "Rainer Werner Fassbinder",
+        "original_name": "Rainer Werner Fassbinder",
+        "popularity": 1.013,
+        "profile_path": "/uZFSBv6Q4ZSwZr8wfLobBCiiC14.jpg",
+        "credit_id": "52fe43569251416c7500c8cd",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2725,
+        "known_for_department": "Directing",
+        "name": "Rainer Werner Fassbinder",
+        "original_name": "Rainer Werner Fassbinder",
+        "popularity": 1.013,
+        "profile_path": "/uZFSBv6Q4ZSwZr8wfLobBCiiC14.jpg",
+        "credit_id": "52fe43569251416c7500c8d3",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 10616,
+        "known_for_department": "Camera",
+        "name": "Dietrich Lohmann",
+        "original_name": "Dietrich Lohmann",
+        "popularity": 0.286,
+        "profile_path": null,
+        "credit_id": "52fe43569251416c7500c8d9",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2737,
+        "known_for_department": "Editing",
+        "name": "Thea Eymèsz",
+        "original_name": "Thea Eymèsz",
+        "popularity": 0.0958,
+        "profile_path": null,
+        "credit_id": "52fe43569251416c7500c8df",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 21997,
+        "known_for_department": "Acting",
+        "name": "Kurt Raab",
+        "original_name": "Kurt Raab",
+        "popularity": 0.4952,
+        "profile_path": "/k3CjKFY5nT4WIKhC96W1S87j36z.jpg",
+        "credit_id": "55b587c8c3a36830020150f9",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 21997,
+        "known_for_department": "Acting",
+        "name": "Kurt Raab",
+        "original_name": "Kurt Raab",
+        "popularity": 0.4952,
+        "profile_path": "/k3CjKFY5nT4WIKhC96W1S87j36z.jpg",
+        "credit_id": "55b587d29251411e1401590b",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1490724,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Uta Wilhelm",
+        "original_name": "Uta Wilhelm",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "55b587dcc3a3682190007684",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 45195,
+        "known_for_department": "Acting",
+        "name": "Ingrid Caven",
+        "original_name": "Ingrid Caven",
+        "popularity": 0.5008,
+        "profile_path": "/py0XImGnp27PIWYAMWIyNP78X5K.jpg",
+        "credit_id": "55b587eac3a368219000768a",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1359067,
+        "known_for_department": "Production",
+        "name": "Christian Hohoff",
+        "original_name": "Christian Hohoff",
+        "popularity": 0.1693,
+        "profile_path": null,
+        "credit_id": "55b587fa925141736400741c",
+        "department": "Production",
+        "job": "Unit Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2742,
+        "known_for_department": "Acting",
+        "name": "Karl Scheydt",
+        "original_name": "Karl Scheydt",
+        "popularity": 0.1789,
+        "profile_path": "/nAOPQ4CU7LgLuKnSmKdPlOMmdSj.jpg",
+        "credit_id": "55b58805c3a36830020150ff",
+        "department": "Production",
+        "job": "Unit Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 23668,
+        "known_for_department": "Acting",
+        "name": "Harry Baer",
+        "original_name": "Harry Baer",
+        "popularity": 0.4276,
+        "profile_path": "/vTuAZ6bZyi7BUs9G1cZLbQR0s7U.jpg",
+        "credit_id": "55b5881cc3a368297e0031aa",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2725,
+        "known_for_department": "Directing",
+        "name": "Rainer Werner Fassbinder",
+        "original_name": "Rainer Werner Fassbinder",
+        "popularity": 1.013,
+        "profile_path": "/uZFSBv6Q4ZSwZr8wfLobBCiiC14.jpg",
+        "credit_id": "665db6efaaf35fa06481b37a",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2620422,
+        "known_for_department": "Lighting",
+        "name": "Ekkehard Heinrich",
+        "original_name": "Ekkehard Heinrich",
+        "popularity": 0.0571,
+        "profile_path": null,
+        "credit_id": "673106cdd224669e8aab47b6",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2743,
+        "known_for_department": "Camera",
+        "name": "Peter Gauhe",
+        "original_name": "Peter Gauhe",
+        "popularity": 0.1156,
+        "profile_path": "/2QjrOWusijTdzANWpUm8j94iCsA.jpg",
+        "credit_id": "673106da5549e066d118c869",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1358881,
+        "known_for_department": "Camera",
+        "name": "Herbert Paetzold",
+        "original_name": "Herbert Paetzold",
+        "popularity": 0.1,
+        "profile_path": null,
+        "credit_id": "673106ed6520546689f4f4bc",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2725,
+        "known_for_department": "Directing",
+        "name": "Rainer Werner Fassbinder",
+        "original_name": "Rainer Werner Fassbinder",
+        "popularity": 1.013,
+        "profile_path": "/uZFSBv6Q4ZSwZr8wfLobBCiiC14.jpg",
+        "credit_id": "678ffea5e1af20590faac61c",
+        "department": "Production",
+        "job": "Producer"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "US",
+        "title": "The Merchant of Four Seasons",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "BR",
+        "title": "O Comerciante das Quatro Estações",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "SE",
+        "title": "Frukthandlarens fyra årstider",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "UA",
+        "title": "Продавець чотирьох пір року",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "CN",
+        "title": "四季商人",
+        "type": ""
+      }
+    ]
+  }
+}

@@ -1,0 +1,591 @@
+{
+  "adult": false,
+  "backdrop_path": "/gpCfsRtAiOTG1H4sTVQpl6edZQV.jpg",
+  "belongs_to_collection": null,
+  "budget": 270000,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ],
+  "homepage": "",
+  "id": 64847,
+  "imdb_id": "tt0071203",
+  "origin_country": [
+    "JP"
+  ],
+  "original_language": "ja",
+  "original_title": "哀しみのベラドンナ",
+  "overview": "An evil feudal lord rapes a village girl on her wedding night and proceeds to ruin her and her husband's lives. After she's eventually banished from her village, the girl makes a pact with the devil to gain magical ability and take revenge.",
+  "popularity": 2.5934,
+  "poster_path": "/2okYZVVw7RdMwlOKcAJsQ7Nsrpr.jpg",
+  "production_companies": [
+    {
+      "id": 1598,
+      "logo_path": "/gP292g64yrL7wnNuPQdkTRz6JuK.png",
+      "name": "Nippon Herald Films",
+      "origin_country": "JP"
+    },
+    {
+      "id": 20327,
+      "logo_path": "/drfbo2T51CU0gvV5PWCre19P8nG.png",
+      "name": "Mushi Production",
+      "origin_country": "JP"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    }
+  ],
+  "release_date": "1973-06-30",
+  "revenue": 0,
+  "runtime": 87,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    }
+  ],
+  "status": "Released",
+  "tagline": "A soul wandering in love… Belladonna, a flower that blooms with the sap of tears…",
+  "title": "Belladonna of Sadness",
+  "video": false,
+  "vote_average": 7.356,
+  "vote_count": 364,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 552675,
+        "known_for_department": "Acting",
+        "name": "Aiko Nagayama",
+        "original_name": "長山藍子",
+        "popularity": 0.6838,
+        "profile_path": "/ezE2uDofjzgSzpRWp1tJtwBBvGH.jpg",
+        "cast_id": 1005,
+        "character": "Jeanne / Belladonna (voice)",
+        "credit_id": "553017bdc3a368187e000f29",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 150310,
+        "known_for_department": "Acting",
+        "name": "Takao Itō",
+        "original_name": "伊藤孝雄",
+        "popularity": 0.9279,
+        "profile_path": "/7UAnKuzOUWNFmh3iJkdVckzD0EK.jpg",
+        "cast_id": 1021,
+        "character": "Jean (voice)",
+        "credit_id": "5f599c2fa294f0003825aab0",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 70131,
+        "known_for_department": "Acting",
+        "name": "Tatsuya Nakadai",
+        "original_name": "仲代達矢",
+        "popularity": 1.6773,
+        "profile_path": "/4LygOe0vFQplLIft5IUWI5OewPX.jpg",
+        "cast_id": 1006,
+        "character": "The Devil (voice)",
+        "credit_id": "553017cf9251410fab0014d5",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 43672,
+        "known_for_department": "Acting",
+        "name": "Masaya Takahashi",
+        "original_name": "高橋昌也",
+        "popularity": 0.9549,
+        "profile_path": "/gnjnGFmCxi1xfyG0bmOzRBJrMDh.jpg",
+        "cast_id": 1008,
+        "character": "The Lord (voice)",
+        "credit_id": "553017fa9251415b2d0001a5",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1455166,
+        "known_for_department": "Acting",
+        "name": "Shigako Shimegi",
+        "original_name": "しめぎしがこ",
+        "popularity": 0.5089,
+        "profile_path": null,
+        "cast_id": 1009,
+        "character": "The Lord's Mistress (voice)",
+        "credit_id": "5530180ac3a36859510032d9",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 150320,
+        "known_for_department": "Acting",
+        "name": "Masakane Yonekura",
+        "original_name": "米倉斉加年",
+        "popularity": 0.8434,
+        "profile_path": "/mxjvLuceLhjCtCwMEkhBwBglHlo.jpg",
+        "cast_id": 1011,
+        "character": "The Priest (voice)",
+        "credit_id": "55301842c3a368187e000f33",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1455167,
+        "known_for_department": "Acting",
+        "name": "Natsuka Yashiro",
+        "original_name": "Natsuka Yashiro",
+        "popularity": 0.0782,
+        "profile_path": null,
+        "cast_id": 1010,
+        "character": "The Witch (voice)",
+        "credit_id": "5530182fc3a368618e00c71f",
+        "order": 6
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 239934,
+        "known_for_department": "Directing",
+        "name": "Eiichi Yamamoto",
+        "original_name": "山本暎一",
+        "popularity": 0.6578,
+        "profile_path": "/oTCZDZw7H2ZmZ9S4KJNMOhp9JP5.jpg",
+        "credit_id": "52fe46edc3a368484e0ab963",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1279016,
+        "known_for_department": "Writing",
+        "name": "Jules Michelet",
+        "original_name": "Jules Michelet",
+        "popularity": 0.084,
+        "profile_path": null,
+        "credit_id": "52fe46edc3a368484e0ab969",
+        "department": "Writing",
+        "job": "Novel"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2487607,
+        "known_for_department": "Visual Effects",
+        "name": "Hayao Nobe",
+        "original_name": "Hayao Nobe",
+        "popularity": 0.1219,
+        "profile_path": null,
+        "credit_id": "60da13bc25b955005d02177d",
+        "department": "Visual Effects",
+        "job": "Key Animation"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2533863,
+        "known_for_department": "Art",
+        "name": "Kuni Fukai",
+        "original_name": "Kuni Fukai",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "credit_id": "60da14150ff15a0030b798fc",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1451429,
+        "known_for_department": "Visual Effects",
+        "name": "Tsuneo Maeda",
+        "original_name": "前田庸生",
+        "popularity": 0.1829,
+        "profile_path": null,
+        "credit_id": "636bda360499f20076da4dd9",
+        "department": "Visual Effects",
+        "job": "Key Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1276525,
+        "known_for_department": "Visual Effects",
+        "name": "Tadakatsu Yoshida",
+        "original_name": "吉田忠勝",
+        "popularity": 0.9255,
+        "profile_path": null,
+        "credit_id": "636bd97f0499f200cd3c4010",
+        "department": "Visual Effects",
+        "job": "Key Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2777912,
+        "known_for_department": "Visual Effects",
+        "name": "Yukiyoshi Hane",
+        "original_name": "羽根章悦",
+        "popularity": 0.4236,
+        "profile_path": null,
+        "credit_id": "636bda3fffd44d00dcbc2c95",
+        "department": "Visual Effects",
+        "job": "Key Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2041688,
+        "known_for_department": "Visual Effects",
+        "name": "Shūichi Seki",
+        "original_name": "関修一",
+        "popularity": 0.2717,
+        "profile_path": "/tzEPIXFugEdc9bPPzp1OLp9NeYk.jpg",
+        "credit_id": "636bda2c813831008b7aed43",
+        "department": "Visual Effects",
+        "job": "Key Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 97288,
+        "known_for_department": "Directing",
+        "name": "Osamu Dezaki",
+        "original_name": "出崎統",
+        "popularity": 1.1662,
+        "profile_path": "/tvdC8XPko6xKME4ckNP1YsBUNZJ.jpg",
+        "credit_id": "636bd9ecffd44d007fd2dbf4",
+        "department": "Visual Effects",
+        "job": "Key Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1409345,
+        "known_for_department": "Visual Effects",
+        "name": "Shin'ichi Tsuji",
+        "original_name": "辻伸一",
+        "popularity": 0.1702,
+        "profile_path": null,
+        "credit_id": "636bda1a1684f70080714711",
+        "department": "Visual Effects",
+        "job": "Key Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1765646,
+        "known_for_department": "Directing",
+        "name": "Hiroyoshi Mitsunobu",
+        "original_name": "光延博愛",
+        "popularity": 0.2844,
+        "profile_path": null,
+        "credit_id": "636bd9c6c2bcc6009b1d0e70",
+        "department": "Visual Effects",
+        "job": "Key Animation"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1583428,
+        "known_for_department": "Visual Effects",
+        "name": "Shirou Murata",
+        "original_name": "Shirou Murata",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "636bda23c2bcc60082a23404",
+        "department": "Visual Effects",
+        "job": "Key Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 73121,
+        "known_for_department": "Directing",
+        "name": "Gisaburō Sugii",
+        "original_name": "杉井ギサブロー",
+        "popularity": 1.0064,
+        "profile_path": "/yOp2bmomtcti0JCHmeVDp0FZgfO.jpg",
+        "credit_id": "636bda57d7fbda00e7b679e1",
+        "department": "Visual Effects",
+        "job": "Animation Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1341840,
+        "known_for_department": "Visual Effects",
+        "name": "Chikao Katsui",
+        "original_name": "勝井千賀雄",
+        "popularity": 0.1852,
+        "profile_path": null,
+        "credit_id": "636bd9b581383100abf4c5ff",
+        "department": "Visual Effects",
+        "job": "Key Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 224654,
+        "known_for_department": "Writing",
+        "name": "Yoshiyuki Fukuda",
+        "original_name": "福田善之",
+        "popularity": 0.574,
+        "profile_path": null,
+        "credit_id": "5a2ab5dcc3a3680b9d1199ab",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 239934,
+        "known_for_department": "Directing",
+        "name": "Eiichi Yamamoto",
+        "original_name": "山本暎一",
+        "popularity": 0.6578,
+        "profile_path": "/oTCZDZw7H2ZmZ9S4KJNMOhp9JP5.jpg",
+        "credit_id": "5a2ab5f2c3a3680b96126fcf",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": true,
+        "gender": 2,
+        "id": 1031999,
+        "known_for_department": "Directing",
+        "name": "Kiyomu Fukuda",
+        "original_name": "福田皖",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "649db5318289a000c582029e",
+        "department": "Visual Effects",
+        "job": "Key Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1962941,
+        "known_for_department": "Visual Effects",
+        "name": "Toshiyasu Okada",
+        "original_name": "岡田敏靖",
+        "popularity": 0.1931,
+        "profile_path": null,
+        "credit_id": "66a9b6e44b629be718eefbc0",
+        "department": "Visual Effects",
+        "job": "Key Animation"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1158434,
+        "known_for_department": "Visual Effects",
+        "name": "Reiko Okuyama",
+        "original_name": "奥山玲子",
+        "popularity": 0.2921,
+        "profile_path": "/wrsfiamP1MWpzdaVmVXkiBBfp9J.jpg",
+        "credit_id": "66a9b6895638bcbff1bfef8b",
+        "department": "Visual Effects",
+        "job": "Key Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1474480,
+        "known_for_department": "Sound",
+        "name": "Atsumi Tashiro",
+        "original_name": "田代敦巳",
+        "popularity": 0.1085,
+        "profile_path": null,
+        "credit_id": "5e406ed56dea3a0015451d19",
+        "department": "Sound",
+        "job": "Sound Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1842937,
+        "known_for_department": "Sound",
+        "name": "Mitsuru Kashiwabara",
+        "original_name": "柏原満",
+        "popularity": 0.1478,
+        "profile_path": null,
+        "credit_id": "5e406eea6dea3a0013452018",
+        "department": "Sound",
+        "job": "Sound Effects"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1127438,
+        "known_for_department": "Editing",
+        "name": "Masashi Furukawa",
+        "original_name": "古川雅士",
+        "popularity": 0.2537,
+        "profile_path": null,
+        "credit_id": "5e406ef60c271000157df247",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2533863,
+        "known_for_department": "Art",
+        "name": "Kuni Fukai",
+        "original_name": "Kuni Fukai",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "credit_id": "5e406f2041465c0018cc508e",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3139816,
+        "known_for_department": "Camera",
+        "name": "Shigeru Yamazaki",
+        "original_name": "Shigeru Yamazaki",
+        "popularity": 0.0416,
+        "profile_path": null,
+        "credit_id": "68a9a14dc6eff2f62ca999e0",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1079065,
+        "known_for_department": "Sound",
+        "name": "Masahiko Sato",
+        "original_name": "佐藤允彦",
+        "popularity": 0.0752,
+        "profile_path": "/4EZEn1vWdi8v24LjhNR88GTG43i.jpg",
+        "credit_id": "68a9a14f6633cf72d578175c",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "US",
+        "title": "The Tragedy of Belladonna",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "DE",
+        "title": "Belladonna der Trauer",
+        "type": "TV title"
+      },
+      {
+        "iso_3166_1": "ES",
+        "title": "La tristeza de Belladonna",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "ES",
+        "title": "Belladonna of Sadness",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "JP",
+        "title": "Kanashimi no Beradona",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "FR",
+        "title": "La belladone de la tristesse",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "US",
+        "title": "Belladonna",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "FR",
+        "title": "La Belladonna de la tristesse",
+        "type": "translation"
+      },
+      {
+        "iso_3166_1": "US",
+        "title": "Kanashimi no beradonna",
+        "type": "Original title"
+      },
+      {
+        "iso_3166_1": "BR",
+        "title": "Belladonna of Sadness",
+        "type": "video title"
+      },
+      {
+        "iso_3166_1": "SU",
+        "title": "Печальная Белладонна",
+        "type": "Russian title"
+      },
+      {
+        "iso_3166_1": "GB",
+        "title": "Belladonna of Sadness",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "FR",
+        "title": "Belladonna",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "FR",
+        "title": "Belladone",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "FR",
+        "title": "La belladone du chagrin",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "DE",
+        "title": "Die Tragödie der Belladonna",
+        "type": "West Deutschland"
+      },
+      {
+        "iso_3166_1": "JP",
+        "title": "Kanashimi no Belladonna",
+        "type": "Romanized Japanese title"
+      },
+      {
+        "iso_3166_1": "FR",
+        "title": "Belladonna la sorcière",
+        "type": ""
+      }
+    ]
+  }
+}

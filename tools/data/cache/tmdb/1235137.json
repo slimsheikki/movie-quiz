@@ -1,0 +1,401 @@
+{
+  "adult": false,
+  "backdrop_path": "/re3E4engyt0RqXT188NLBzHPZwO.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ],
+  "homepage": "https://www.cartuna.com/distribution/boys-go-to-jupiter",
+  "id": 1235137,
+  "imdb_id": "tt31021863",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Boys Go to Jupiter",
+  "overview": "A teenager in suburban Florida desperately hustles to make $5,000 in this dreamy and surreal animated coming-of-age story.",
+  "popularity": 0.911,
+  "poster_path": "/3dTnNYq0TZYkTLqRXgHz3OBxcFA.jpg",
+  "production_companies": [
+    {
+      "id": 237996,
+      "logo_path": null,
+      "name": "Glanderco",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-06-26",
+  "revenue": 205203,
+  "runtime": 87,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Boys Go to Jupiter",
+  "video": false,
+  "vote_average": 7.1,
+  "vote_count": 13,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3302295,
+        "known_for_department": "Production",
+        "name": "Jack Corbett",
+        "original_name": "Jack Corbett",
+        "popularity": 0.0407,
+        "profile_path": "/rkQtlLS5vrotjb8IIe64Jym5Kfq.jpg",
+        "cast_id": 14,
+        "character": "Billy 5000 (voice)",
+        "credit_id": "65afcf3a67b61300aff0a38e",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3923735,
+        "known_for_department": "Sound",
+        "name": "Miya Folick",
+        "original_name": "Miya Folick",
+        "popularity": 0.0714,
+        "profile_path": "/2vMLyeg8prVHdtVSzKzyyQyxRBT.jpg",
+        "cast_id": 11,
+        "character": "Rosario 'Rozebud' Dolphin (voice)",
+        "credit_id": "65afcf24f8aee800cbb12998",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1142629,
+        "known_for_department": "Acting",
+        "name": "Tavi Gevinson",
+        "original_name": "Tavi Gevinson",
+        "popularity": 0.5315,
+        "profile_path": "/kIdkJhqmD5wJ9JTjEgDaFXOScrM.jpg",
+        "cast_id": 6,
+        "character": "Glarba (voice)",
+        "credit_id": "65afcef5158c8500ac1d3d07",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 122851,
+        "known_for_department": "Acting",
+        "name": "Elsie Fisher",
+        "original_name": "Elsie Fisher",
+        "popularity": 1.7116,
+        "profile_path": "/lSmrN828nMMXHvwr7IgO1qlYPSa.jpg",
+        "cast_id": 2,
+        "character": "Beatbox (voice)",
+        "credit_id": "65afcec409c24c00caaf8f02",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3089880,
+        "known_for_department": "Acting",
+        "name": "Grace Kuhlenschmidt",
+        "original_name": "Grace Kuhlenschmidt",
+        "popularity": 0.2103,
+        "profile_path": "/tYj577HCRooHkfj5A2ZHIMOsAO4.jpg",
+        "cast_id": 9,
+        "character": "Freckles (voice)",
+        "credit_id": "65afcf16bd588b010b5e2716",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1659144,
+        "known_for_department": "Acting",
+        "name": "Julio Torres",
+        "original_name": "Julio Torres",
+        "popularity": 0.7232,
+        "profile_path": "/oveoXN7fZFIeL5G1fJ7Dk5SJeNc.jpg",
+        "cast_id": 5,
+        "character": "T-Bone / Gas Station Guy / Brontosaurus (voice)",
+        "credit_id": "65afceeb158c8500ac1d3d01",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1663974,
+        "known_for_department": "Acting",
+        "name": "Joe Pera",
+        "original_name": "Joe Pera",
+        "popularity": 0.3152,
+        "profile_path": "/lzf1mnclmHo4y53ZpvtlkWgFunZ.jpg",
+        "cast_id": 7,
+        "character": "Herschel Cretaceous (voice)",
+        "credit_id": "65afcefcaad9c200adfebde1",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2198504,
+        "known_for_department": "Acting",
+        "name": "Sarah Sherman",
+        "original_name": "Sarah Sherman",
+        "popularity": 1.0803,
+        "profile_path": "/5BwGUREK2H6acSH5Inqmy2hFpGY.jpg",
+        "cast_id": 3,
+        "character": "Miss Sharon / Minivan Mom (voice)",
+        "credit_id": "65afcece6af8f800ed9eac64",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 3,
+        "id": 1745185,
+        "known_for_department": "Acting",
+        "name": "Cole Escola",
+        "original_name": "Cole Escola",
+        "popularity": 1.1275,
+        "profile_path": "/y2NvLYMb2JFW2LeWiPhaxUemYS3.jpg",
+        "cast_id": 8,
+        "character": "Ol' Slippy / Nan (voice)",
+        "credit_id": "65afcf02f8aee800cbb12985",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 3,
+        "id": 2425998,
+        "known_for_department": "Acting",
+        "name": "Eva Victor",
+        "original_name": "Eva Victor",
+        "popularity": 0.9356,
+        "profile_path": "/nlEirkGOQPVUVgNzIqEJysnt70q.jpg",
+        "cast_id": 4,
+        "character": "Gail 5000 (voice)",
+        "credit_id": "65afcee16af8f800af8accd0",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2051375,
+        "known_for_department": "Acting",
+        "name": "Chris Fleming",
+        "original_name": "Chris Fleming",
+        "popularity": 0.3853,
+        "profile_path": "/qahUJqkMc2DrLOT88CaPUx4XCLl.jpg",
+        "cast_id": 10,
+        "character": "Weenie (voice)",
+        "credit_id": "65afcf1c848eb900ea1a6106",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1750838,
+        "known_for_department": "Acting",
+        "name": "River L. Ramirez",
+        "original_name": "River L. Ramirez",
+        "popularity": 0.2551,
+        "profile_path": "/yeg4Hk6L6XUFwokVUPCawZMu9mJ.jpg",
+        "cast_id": 19,
+        "character": "Gordon Spaghetti / Fettuccini Enthusiast / Paramedic / Minivan Baby (voice)",
+        "credit_id": "666717b91eceaab87f85a0f9",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3692584,
+        "known_for_department": "Acting",
+        "name": "Max Wittert",
+        "original_name": "Max Wittert",
+        "popularity": 0.0928,
+        "profile_path": null,
+        "cast_id": 13,
+        "character": "Byron (voice)",
+        "credit_id": "65afcf35158c8500ebba305e",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 21197,
+        "known_for_department": "Acting",
+        "name": "Janeane Garofalo",
+        "original_name": "Janeane Garofalo",
+        "popularity": 1.6915,
+        "profile_path": "/cdNooT0otUf5QVHDPm9bkGN7gNu.jpg",
+        "cast_id": 17,
+        "character": "Dr. Dolphin (voice)",
+        "credit_id": "663138d890cf5101236d8bcb",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1739472,
+        "known_for_department": "Acting",
+        "name": "Demi Adejuyigbe",
+        "original_name": "Demi Adejuyigbe",
+        "popularity": 0.2826,
+        "profile_path": "/mgYi7yhNhU7j9LdzHgq76s83yC0.jpg",
+        "cast_id": 18,
+        "character": "Mr. Moolah (voice)",
+        "credit_id": "663138e14c25920127c8fc3b",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5993983,
+        "known_for_department": "Acting",
+        "name": "J.R. Phillips",
+        "original_name": "J.R. Phillips",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 24,
+        "character": "Peanut (voice)",
+        "credit_id": "6987fce0200929f9ccc1c786",
+        "order": 15
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1774429,
+        "known_for_department": "Directing",
+        "name": "Julian Glander",
+        "original_name": "Julian Glander",
+        "popularity": 0.1267,
+        "profile_path": "/i6gRuoMBLSlG47LZvkiWEFIqWfF.jpg",
+        "credit_id": "65afcea867b613010c60cde7",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1774429,
+        "known_for_department": "Directing",
+        "name": "Julian Glander",
+        "original_name": "Julian Glander",
+        "popularity": 0.1267,
+        "profile_path": "/i6gRuoMBLSlG47LZvkiWEFIqWfF.jpg",
+        "credit_id": "65afcf48d100b600ada6ccd4",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4495844,
+        "known_for_department": "Production",
+        "name": "Peisin Yang Lazo",
+        "original_name": "Peisin Yang Lazo",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "65afcf5ff8aee8010b200583",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1774429,
+        "known_for_department": "Directing",
+        "name": "Julian Glander",
+        "original_name": "Julian Glander",
+        "popularity": 0.1267,
+        "profile_path": "/i6gRuoMBLSlG47LZvkiWEFIqWfF.jpg",
+        "credit_id": "67f07444cbd55b661fd94a6f",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1774429,
+        "known_for_department": "Directing",
+        "name": "Julian Glander",
+        "original_name": "Julian Glander",
+        "popularity": 0.1267,
+        "profile_path": "/i6gRuoMBLSlG47LZvkiWEFIqWfF.jpg",
+        "credit_id": "67f074c3a9313c7184ad3566",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1774429,
+        "known_for_department": "Directing",
+        "name": "Julian Glander",
+        "original_name": "Julian Glander",
+        "popularity": 0.1267,
+        "profile_path": "/i6gRuoMBLSlG47LZvkiWEFIqWfF.jpg",
+        "credit_id": "68993e79a1ebf014ce268101",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1774429,
+        "known_for_department": "Directing",
+        "name": "Julian Glander",
+        "original_name": "Julian Glander",
+        "popularity": 0.1267,
+        "profile_path": "/i6gRuoMBLSlG47LZvkiWEFIqWfF.jpg",
+        "credit_id": "6987fcf1af11fd5736c1c682",
+        "department": "Sound",
+        "job": "Songs"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "PL",
+        "title": "Kosmiczna misja Billy’ego 5000",
+        "type": ""
+      }
+    ]
+  }
+}

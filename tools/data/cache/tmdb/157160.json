@@ -1,0 +1,508 @@
+{
+  "adult": false,
+  "backdrop_path": "/8yrymDMaJm5jCuQpypyyfAqdDJ1.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 157160,
+  "imdb_id": "tt0082275",
+  "origin_country": [
+    "FR",
+    "US"
+  ],
+  "original_language": "fr",
+  "original_title": "Documenteur",
+  "overview": "After separating from the father of her son, a young French woman tries to find lodging and a fresh start in L.A. for herself and her son.",
+  "popularity": 0.3545,
+  "poster_path": "/hmfyf1qlkSigmiJf3c7Wu0528vt.jpg",
+  "production_companies": [
+    {
+      "id": 14683,
+      "logo_path": "/oqpU5dX9DlN3YB96NdsNXknJhcl.png",
+      "name": "Ciné-Tamaris",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1982-01-20",
+  "revenue": 0,
+  "runtime": 65,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Documenteur",
+  "video": false,
+  "vote_average": 6.6,
+  "vote_count": 53,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1089799,
+        "known_for_department": "Editing",
+        "name": "Sabine Mamou",
+        "original_name": "Sabine Mamou",
+        "popularity": 0.1545,
+        "profile_path": "/jpEP9K1ULo9czzyT2gKxoEZpfhS.jpg",
+        "cast_id": 3,
+        "character": "Emilie Cooper",
+        "credit_id": "52fe4bb79251416c910e37e9",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 64751,
+        "known_for_department": "Acting",
+        "name": "Mathieu Demy",
+        "original_name": "Mathieu Demy",
+        "popularity": 0.6415,
+        "profile_path": "/bnaoxj7P2LzpEzqy1RPFlQUuPCK.jpg",
+        "cast_id": 4,
+        "character": "Martin Cooper",
+        "credit_id": "52fe4bb79251416c910e37ed",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1139092,
+        "known_for_department": "Production",
+        "name": "Lisa Blok-Linson",
+        "original_name": "Lisa Blok-Linson",
+        "popularity": 0.1088,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "Lisa",
+        "credit_id": "52fe4bb79251416c910e37f1",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1139093,
+        "known_for_department": "Acting",
+        "name": "Tina Odom",
+        "original_name": "Tina Odom",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 6,
+        "character": "Tina",
+        "credit_id": "52fe4bb79251416c910e37f5",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2058705,
+        "known_for_department": "Acting",
+        "name": "Gary Feldman",
+        "original_name": "Gary Feldman",
+        "popularity": 0.0168,
+        "profile_path": null,
+        "cast_id": 14,
+        "character": "Writer at the Window",
+        "credit_id": "5b17d6f8925141782e02476b",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 583306,
+        "known_for_department": "Acting",
+        "name": "Charles Southwood",
+        "original_name": "Charles Southwood",
+        "popularity": 0.2886,
+        "profile_path": "/zWjYxRoypV1FPbDT2ZcjLIM3EXp.jpg",
+        "cast_id": 18,
+        "character": "Man on the Water Bed",
+        "credit_id": "5b17d7a09251417842020edb",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2058710,
+        "known_for_department": "Acting",
+        "name": "Chris Leplus",
+        "original_name": "Chris Leplus",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "cast_id": 19,
+        "character": "Producer from the Other Film",
+        "credit_id": "5b17d7c4c3a368533a01a642",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 165835,
+        "known_for_department": "Directing",
+        "name": "Andrew Meyer",
+        "original_name": "Andrew Meyer",
+        "popularity": 0.1172,
+        "profile_path": null,
+        "cast_id": 21,
+        "character": "Man from the Other Film",
+        "credit_id": "5b17d825925141788801a9f6",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2058711,
+        "known_for_department": "Acting",
+        "name": "Barry Farrell",
+        "original_name": "Barry Farrell",
+        "popularity": 0.0693,
+        "profile_path": null,
+        "cast_id": 20,
+        "character": "Man from the Other Film",
+        "credit_id": "5b17d805c3a3685333026efb",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2058706,
+        "known_for_department": "Acting",
+        "name": "Tom Taplin",
+        "original_name": "Tom Taplin",
+        "popularity": 0.2278,
+        "profile_path": "/iQvE5bth5AXUhxHFT5WLuq9IWTq.jpg",
+        "cast_id": 15,
+        "character": "Tom Cooper",
+        "credit_id": "5b17d7600e0a262ddf024023",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3508,
+        "known_for_department": "Acting",
+        "name": "Delphine Seyrig",
+        "original_name": "Delphine Seyrig",
+        "popularity": 0.6331,
+        "profile_path": "/y9dTKRclY0UviYD5OuINL51tue7.jpg",
+        "cast_id": 22,
+        "character": "Delphine (voice)",
+        "credit_id": "5b17d843c3a368534f021f5f",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5017770,
+        "known_for_department": "Acting",
+        "name": "Suzanne Finn",
+        "original_name": "Suzanne Finn",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 28,
+        "character": "(voice)",
+        "credit_id": "6719398334c0fabd681c4150",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5017772,
+        "known_for_department": "Acting",
+        "name": "Gerard Jullian",
+        "original_name": "Gerard Jullian",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 29,
+        "character": "(voice)",
+        "credit_id": "671939926e4210780f789ee9",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2058707,
+        "known_for_department": "Acting",
+        "name": "Fred Ricker",
+        "original_name": "Fred Ricker",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 16,
+        "character": "The Motel Couple (uncredited)",
+        "credit_id": "5b17d7720e0a262dd00233a7",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2058709,
+        "known_for_department": "Acting",
+        "name": "Kelly Ricker",
+        "original_name": "Kelly Ricker",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 17,
+        "character": "The Motel Couple (uncredited)",
+        "credit_id": "5b17d7890e0a262ddf024038",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 6817,
+        "known_for_department": "Directing",
+        "name": "Agnès Varda",
+        "original_name": "Agnès Varda",
+        "popularity": 0.863,
+        "profile_path": "/sZol5QAmWvpopzAPbSxhoSc1DOe.jpg",
+        "cast_id": 30,
+        "character": "Mur Murs Play Back (voice) (uncredited)",
+        "credit_id": "67193a795d0de89042d8cc21",
+        "order": 15
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 6817,
+        "known_for_department": "Directing",
+        "name": "Agnès Varda",
+        "original_name": "Agnès Varda",
+        "popularity": 0.863,
+        "profile_path": "/sZol5QAmWvpopzAPbSxhoSc1DOe.jpg",
+        "credit_id": "52fe4bb79251416c910e37e5",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 6817,
+        "known_for_department": "Directing",
+        "name": "Agnès Varda",
+        "original_name": "Agnès Varda",
+        "popularity": 0.863,
+        "profile_path": "/sZol5QAmWvpopzAPbSxhoSc1DOe.jpg",
+        "credit_id": "52fe4bb79251416c910e37df",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1701849,
+        "known_for_department": "Editing",
+        "name": "Bob Gould",
+        "original_name": "Bob Gould",
+        "popularity": 0.0261,
+        "profile_path": null,
+        "credit_id": "58167471c3a368767e010f33",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3535,
+        "known_for_department": "Sound",
+        "name": "Georges Delerue",
+        "original_name": "Georges Delerue",
+        "popularity": 0.3093,
+        "profile_path": "/xKRsHzgZicN1KCUmnl4M09TVCxE.jpg",
+        "credit_id": "5816743ac3a368755700fe49",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1089799,
+        "known_for_department": "Editing",
+        "name": "Sabine Mamou",
+        "original_name": "Sabine Mamou",
+        "popularity": 0.1545,
+        "profile_path": "/jpEP9K1ULo9czzyT2gKxoEZpfhS.jpg",
+        "credit_id": "58167478c3a36874b701015b",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3656,
+        "known_for_department": "Camera",
+        "name": "Affonso Beato",
+        "original_name": "Affonso Beato",
+        "popularity": 0.1974,
+        "profile_path": "/o166dtNalOOfEZc7YvP3ycRnoZv.jpg",
+        "credit_id": "5816744ec3a36874b7010143",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1443838,
+        "known_for_department": "Camera",
+        "name": "Nurith Aviv",
+        "original_name": "Nurith Aviv",
+        "popularity": 0.1059,
+        "profile_path": null,
+        "credit_id": "581674419251415a7f011a06",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": true,
+        "gender": 0,
+        "id": 1701848,
+        "known_for_department": "Camera",
+        "name": "Bob Carr",
+        "original_name": "Bob Carr",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "58167465c3a36873d900fe58",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 35838,
+        "known_for_department": "Sound",
+        "name": "Michel Colombier",
+        "original_name": "Michel Colombier",
+        "popularity": 0.213,
+        "profile_path": "/wPKpPr8e8wVS4yfqjeitVIjXbJK.jpg",
+        "credit_id": "5f3856d715a4a10033fd266e",
+        "department": "Sound",
+        "job": "Musician"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6089695,
+        "known_for_department": "Camera",
+        "name": "Ace Armanaki",
+        "original_name": "Ace Armanaki",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "69c0532f7434d789a7d346c6",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5496543,
+        "known_for_department": "Camera",
+        "name": "Mosh Levin",
+        "original_name": "Mosh Levin",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "69c0535080acb312f001cd63",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5872691,
+        "known_for_department": "Production",
+        "name": "Tom Taplin",
+        "original_name": "Tom Taplin",
+        "popularity": 0.0071,
+        "profile_path": "/A5z8JA5oAXOmeAABGeeD2vt341h.jpg",
+        "credit_id": "69c053809930ae09a8b33914",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 33143,
+        "known_for_department": "Editing",
+        "name": "Phillip Linson",
+        "original_name": "Phillip Linson",
+        "popularity": 0.0878,
+        "profile_path": null,
+        "credit_id": "69c0aa7718208988297b30a3",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6090183,
+        "known_for_department": "Camera",
+        "name": "Gus Ramos",
+        "original_name": "Gus Ramos",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "69c0ab12f6b3cc97161b0fb6",
+        "department": "Camera",
+        "job": "Key Grip"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2607708,
+        "known_for_department": "Acting",
+        "name": "Jeffrey Epstein",
+        "original_name": "Jeffrey Epstein",
+        "popularity": 0.7904,
+        "profile_path": "/xYotfVAMFVQWMrBEEGLAyqNaAOx.jpg",
+        "credit_id": "6a320c43cac600d7cb1bea0b",
+        "department": "Production",
+        "job": "Associate Producer"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "US",
+        "title": "Documenteur: An Emotion Picture",
+        "type": "alternative title"
+      },
+      {
+        "iso_3166_1": "FR",
+        "title": "Documenteur (dodo cucu maman vas-tu-te-taire)",
+        "type": "long title"
+      },
+      {
+        "iso_3166_1": "SU",
+        "title": "Документатор",
+        "type": "Russian title"
+      }
+    ]
+  }
+}

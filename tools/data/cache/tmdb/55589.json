@@ -1,0 +1,435 @@
+{
+  "adult": false,
+  "backdrop_path": "/cscHKe13svp1Txa6ttcj0mDDvCZ.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 55589,
+  "imdb_id": "tt0015768",
+  "origin_country": [
+    "DK"
+  ],
+  "original_language": "da",
+  "original_title": "Du skal ære din hustru",
+  "overview": "When a man becomes tyrannical towards his family, the women of the house decide to teach him a lesson in gratitude.",
+  "popularity": 0.1903,
+  "poster_path": "/iRxogRnql0tmHRhuH8XsV1pOSFr.jpg",
+  "production_companies": [
+    {
+      "id": 2379,
+      "logo_path": null,
+      "name": "Palladium",
+      "origin_country": "DK"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DK",
+      "name": "Denmark"
+    }
+  ],
+  "release_date": "1925-10-05",
+  "revenue": 0,
+  "runtime": 107,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Master of the House",
+  "video": false,
+  "vote_average": 6.9,
+  "vote_count": 65,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 117963,
+        "known_for_department": "Acting",
+        "name": "Johannes Meyer",
+        "original_name": "Johannes Meyer",
+        "popularity": 0.2659,
+        "profile_path": "/jNi5csRPe9hYUctZwyiNSFC3iMV.jpg",
+        "cast_id": 5,
+        "character": "Viktor Frandsen",
+        "credit_id": "52fe48d5c3a36847f817bd9f",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 222682,
+        "known_for_department": "Acting",
+        "name": "Astrid Holm",
+        "original_name": "Astrid Holm",
+        "popularity": 0.2043,
+        "profile_path": "/jR12TBYyknEzvUNYqdHCfS9kSXw.jpg",
+        "cast_id": 6,
+        "character": "Ida Frandsen",
+        "credit_id": "52fe48d5c3a36847f817bda3",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 209389,
+        "known_for_department": "Acting",
+        "name": "Karin Nellemose",
+        "original_name": "Karin Nellemose",
+        "popularity": 0.2618,
+        "profile_path": "/4qArsF8ZqmGKrpJIaiVUQg2NWKU.jpg",
+        "cast_id": 7,
+        "character": "Karen Frandsen",
+        "credit_id": "52fe48d5c3a36847f817bda7",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 222683,
+        "known_for_department": "Acting",
+        "name": "Mathilde Nielsen",
+        "original_name": "Mathilde Nielsen",
+        "popularity": 0.0862,
+        "profile_path": "/biJitp8094oX755Ng0mpnHGzJGf.jpg",
+        "cast_id": 8,
+        "character": "Old Victor's Wetnurse",
+        "credit_id": "52fe48d5c3a36847f817bdab",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 222684,
+        "known_for_department": "Acting",
+        "name": "Clara Schønfeld",
+        "original_name": "Clara Schønfeld",
+        "popularity": 0.0338,
+        "profile_path": "/eax6hISAFTxZ5BjgMga9VfSE9k.jpg",
+        "cast_id": 9,
+        "character": "Alvilda Kryger",
+        "credit_id": "52fe48d5c3a36847f817bdaf",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 222685,
+        "known_for_department": "Acting",
+        "name": "Johannes Nielsen",
+        "original_name": "Johannes Nielsen",
+        "popularity": 0.047,
+        "profile_path": null,
+        "cast_id": 10,
+        "character": "Doctor",
+        "credit_id": "52fe48d5c3a36847f817bdb3",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 298328,
+        "known_for_department": "Acting",
+        "name": "Petrine Sonne",
+        "original_name": "Petrine Sonne",
+        "popularity": 0.1415,
+        "profile_path": "/6KolfmegFgDaaNcPburKaCteiPC.jpg",
+        "cast_id": 11,
+        "character": "",
+        "credit_id": "54ea2c57925141117c004591",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1430327,
+        "known_for_department": "Acting",
+        "name": "Vilhelm Petersen",
+        "original_name": "Vilhelm Petersen",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "cast_id": 12,
+        "character": "",
+        "credit_id": "54ea2c619251412ebd004cfb",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2189498,
+        "known_for_department": "Acting",
+        "name": "Byril Harvig",
+        "original_name": "Byril Harvig",
+        "popularity": 0.0743,
+        "profile_path": null,
+        "cast_id": 13,
+        "character": "Barnet",
+        "credit_id": "5c0867820e0a2638af0009f8",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 936780,
+        "known_for_department": "Acting",
+        "name": "Aage Schmidt",
+        "original_name": "Aage Schmidt",
+        "popularity": 0.0436,
+        "profile_path": null,
+        "cast_id": 14,
+        "character": "",
+        "credit_id": "5c08678bc3a3682515000a05",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2189500,
+        "known_for_department": "Acting",
+        "name": "Frk. Voss-Christensen",
+        "original_name": "Frk. Voss-Christensen",
+        "popularity": 0,
+        "profile_path": null,
+        "cast_id": 15,
+        "character": "Pige Gos Læen",
+        "credit_id": "5c08679b0e0a2638c7000730",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2189501,
+        "known_for_department": "Acting",
+        "name": "Georg Busch",
+        "original_name": "Georg Busch",
+        "popularity": 0.0718,
+        "profile_path": null,
+        "cast_id": 16,
+        "character": "",
+        "credit_id": "5c0867a3925141479a000a51",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2189502,
+        "known_for_department": "Acting",
+        "name": "Frank Henriksen",
+        "original_name": "Frank Henriksen",
+        "popularity": 0,
+        "profile_path": null,
+        "cast_id": 17,
+        "character": "",
+        "credit_id": "5c0867ab0e0a2638bc0007fe",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2189503,
+        "known_for_department": "Acting",
+        "name": "Charles Hansen",
+        "original_name": "Charles Hansen",
+        "popularity": 0,
+        "profile_path": null,
+        "cast_id": 18,
+        "character": "",
+        "credit_id": "5c0867c2c3a3682523000eea",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2189504,
+        "known_for_department": "Acting",
+        "name": "Carl Hinz",
+        "original_name": "Carl Hinz",
+        "popularity": 0.0261,
+        "profile_path": null,
+        "cast_id": 19,
+        "character": "",
+        "credit_id": "5c0867cd0e0a2638b8000a67",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2189505,
+        "known_for_department": "Acting",
+        "name": "Inga Bentsen",
+        "original_name": "Inga Bentsen",
+        "popularity": 0,
+        "profile_path": null,
+        "cast_id": 20,
+        "character": "Pige Hos Præsten",
+        "credit_id": "5c0867da0e0a2638bc000889",
+        "order": 15
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 117962,
+        "known_for_department": "Writing",
+        "name": "Svend Rindom",
+        "original_name": "Svend Rindom",
+        "popularity": 0.1138,
+        "profile_path": null,
+        "credit_id": "52fe48d5c3a36847f817bd9b",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 11572,
+        "known_for_department": "Directing",
+        "name": "Carl Theodor Dreyer",
+        "original_name": "Carl Theodor Dreyer",
+        "popularity": 0.3825,
+        "profile_path": "/l4g1K4ai3HgAIg0267O5ppnknVX.jpg",
+        "credit_id": "52fe48d5c3a36847f817bd89",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 11572,
+        "known_for_department": "Directing",
+        "name": "Carl Theodor Dreyer",
+        "original_name": "Carl Theodor Dreyer",
+        "popularity": 0.3825,
+        "profile_path": "/l4g1K4ai3HgAIg0267O5ppnknVX.jpg",
+        "credit_id": "52fe48d5c3a36847f817bd8f",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 117962,
+        "known_for_department": "Writing",
+        "name": "Svend Rindom",
+        "original_name": "Svend Rindom",
+        "popularity": 0.1138,
+        "profile_path": null,
+        "credit_id": "52fe48d5c3a36847f817bd95",
+        "department": "Writing",
+        "job": "Theatre Play"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 11572,
+        "known_for_department": "Directing",
+        "name": "Carl Theodor Dreyer",
+        "original_name": "Carl Theodor Dreyer",
+        "popularity": 0.3825,
+        "profile_path": "/l4g1K4ai3HgAIg0267O5ppnknVX.jpg",
+        "credit_id": "5c086809c3a3682528000abb",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 11572,
+        "known_for_department": "Directing",
+        "name": "Carl Theodor Dreyer",
+        "original_name": "Carl Theodor Dreyer",
+        "popularity": 0.3825,
+        "profile_path": "/l4g1K4ai3HgAIg0267O5ppnknVX.jpg",
+        "credit_id": "5c0868120e0a2638bc000945",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1017712,
+        "known_for_department": "Directing",
+        "name": "George Schnéevoigt",
+        "original_name": "George Schnéevoigt",
+        "popularity": 0.2507,
+        "profile_path": null,
+        "credit_id": "5c0867ffc3a3682528000aa7",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 11572,
+        "known_for_department": "Directing",
+        "name": "Carl Theodor Dreyer",
+        "original_name": "Carl Theodor Dreyer",
+        "popularity": 0.3825,
+        "profile_path": "/l4g1K4ai3HgAIg0267O5ppnknVX.jpg",
+        "credit_id": "5c08681b0e0a2638bc00095a",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2189506,
+        "known_for_department": "Sound",
+        "name": "Lars Fjeldmose",
+        "original_name": "Lars Fjeldmose",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "5c0867f4c3a3682515000b8a",
+        "department": "Sound",
+        "job": "Music"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "IT",
+        "title": "L'angelo del focolare",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "DE",
+        "title": "Du sollst deine Frau ehren",
+        "type": "TV"
+      },
+      {
+        "iso_3166_1": "DK",
+        "title": "Du skal aere din hustru",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "KR",
+        "title": "집안의 주인",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "GB",
+        "title": "Master of the House",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "JP",
+        "title": "あるじ",
+        "type": ""
+      }
+    ]
+  }
+}

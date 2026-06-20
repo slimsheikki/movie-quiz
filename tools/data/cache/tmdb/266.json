@@ -1,0 +1,693 @@
+{
+  "adult": false,
+  "backdrop_path": "/afxEiYxANGG88xXVYpNtAHFzTIV.jpg",
+  "belongs_to_collection": null,
+  "budget": 900000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 266,
+  "imdb_id": "tt0057345",
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "Le Mépris",
+  "overview": "Art film producer Jeremy Prokosch, unhappy with the work of his director, hires Fritz Lang (as himself) to direct an adaptation of The Odyssey, but when it seems that the legendary filmmaker is making a picture destined to bomb, he brings in a screenwriter to energise the script. The professional intersects with the personal when a rift develops between the writer and his wife.",
+  "popularity": 2.3575,
+  "poster_path": "/kNElbRcp4Qz6wmJ9kH5vdY004Hq.jpg",
+  "production_companies": [
+    {
+      "id": 109,
+      "logo_path": null,
+      "name": "Rome-Paris Films",
+      "origin_country": "FR"
+    },
+    {
+      "id": 1714,
+      "logo_path": null,
+      "name": "Les Films Concordia",
+      "origin_country": "FR"
+    },
+    {
+      "id": 10000,
+      "logo_path": null,
+      "name": "C. C. Champion",
+      "origin_country": "IT"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    }
+  ],
+  "release_date": "1963-10-29",
+  "revenue": 528428,
+  "runtime": 103,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    },
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "status": "Released",
+  "tagline": "More bold! More brazen! And much, much more Bardot!",
+  "title": "Contempt",
+  "video": false,
+  "vote_average": 7,
+  "vote_count": 966,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3783,
+        "known_for_department": "Acting",
+        "name": "Brigitte Bardot",
+        "original_name": "Brigitte Bardot",
+        "popularity": 1.5993,
+        "profile_path": "/vqYOnEZyA3AO7sx3SxIFWYrggQJ.jpg",
+        "cast_id": 11,
+        "character": "Camille Javal",
+        "credit_id": "52fe422fc3a36847f800a8c5",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3784,
+        "known_for_department": "Acting",
+        "name": "Michel Piccoli",
+        "original_name": "Michel Piccoli",
+        "popularity": 1.0629,
+        "profile_path": "/6yZaIIeMfYgQtcdNo4dubL2N5YT.jpg",
+        "cast_id": 12,
+        "character": "Paul Javal",
+        "credit_id": "52fe422fc3a36847f800a8c9",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3785,
+        "known_for_department": "Acting",
+        "name": "Jack Palance",
+        "original_name": "Jack Palance",
+        "popularity": 1.5951,
+        "profile_path": "/sRr2YPa1IElRE1vG1PQcgLrS9om.jpg",
+        "cast_id": 13,
+        "character": "Jeremy Prokosch",
+        "credit_id": "52fe422fc3a36847f800a8cd",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3786,
+        "known_for_department": "Acting",
+        "name": "Giorgia Moll",
+        "original_name": "Giorgia Moll",
+        "popularity": 0.6596,
+        "profile_path": "/4og3ryBwb8xqKkBd77jDDjIP4ug.jpg",
+        "cast_id": 14,
+        "character": "Francesca Vanini",
+        "credit_id": "52fe422fc3a36847f800a8d1",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 68,
+        "known_for_department": "Directing",
+        "name": "Fritz Lang",
+        "original_name": "Fritz Lang",
+        "popularity": 0.9637,
+        "profile_path": "/9dz4PmFzlSyexldWrOXBLLpkBqB.jpg",
+        "cast_id": 15,
+        "character": "Fritz Lang",
+        "credit_id": "52fe422fc3a36847f800a8d5",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3540,
+        "known_for_department": "Camera",
+        "name": "Raoul Coutard",
+        "original_name": "Raoul Coutard",
+        "popularity": 0.1932,
+        "profile_path": "/fEwMCINuiSOu4f3CzHG3UL0BNIc.jpg",
+        "cast_id": 16,
+        "character": "Cameraman",
+        "credit_id": "52fe422fc3a36847f800a8d9",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3776,
+        "known_for_department": "Directing",
+        "name": "Jean-Luc Godard",
+        "original_name": "Jean-Luc Godard",
+        "popularity": 1.2224,
+        "profile_path": "/zP5EDY5MstfkdBmPXNCj8Y6v5KR.jpg",
+        "cast_id": 17,
+        "character": "Lang's Assistant Director",
+        "credit_id": "52fe422fc3a36847f800a8dd",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3787,
+        "known_for_department": "Acting",
+        "name": "Linda Veras",
+        "original_name": "Linda Veras",
+        "popularity": 0.2238,
+        "profile_path": "/lOIaHVrR9B2vGaYlsxSLBabZGGc.jpg",
+        "cast_id": 18,
+        "character": "Sirene",
+        "credit_id": "52fe422fc3a36847f800a8e1",
+        "order": 7
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3540,
+        "known_for_department": "Camera",
+        "name": "Raoul Coutard",
+        "original_name": "Raoul Coutard",
+        "popularity": 0.1932,
+        "profile_path": "/fEwMCINuiSOu4f3CzHG3UL0BNIc.jpg",
+        "credit_id": "52fe422fc3a36847f800a8af",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3535,
+        "known_for_department": "Sound",
+        "name": "Georges Delerue",
+        "original_name": "Georges Delerue",
+        "popularity": 0.3093,
+        "profile_path": "/xKRsHzgZicN1KCUmnl4M09TVCxE.jpg",
+        "credit_id": "52fe422fc3a36847f800a8b5",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3526,
+        "known_for_department": "Editing",
+        "name": "Agnès Guillemot",
+        "original_name": "Agnès Guillemot",
+        "popularity": 0.07,
+        "profile_path": null,
+        "credit_id": "52fe422fc3a36847f800a8bb",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3776,
+        "known_for_department": "Directing",
+        "name": "Jean-Luc Godard",
+        "original_name": "Jean-Luc Godard",
+        "popularity": 1.2224,
+        "profile_path": "/zP5EDY5MstfkdBmPXNCj8Y6v5KR.jpg",
+        "credit_id": "52fe422fc3a36847f800a8a3",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3782,
+        "known_for_department": "Editing",
+        "name": "Lila Lakshmanan",
+        "original_name": "Lila Lakshmanan",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "52fe422fc3a36847f800a8c1",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3776,
+        "known_for_department": "Directing",
+        "name": "Jean-Luc Godard",
+        "original_name": "Jean-Luc Godard",
+        "popularity": 1.2224,
+        "profile_path": "/zP5EDY5MstfkdBmPXNCj8Y6v5KR.jpg",
+        "credit_id": "52fe422fc3a36847f800a8e7",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3778,
+        "known_for_department": "Production",
+        "name": "Carlo Ponti",
+        "original_name": "Carlo Ponti",
+        "popularity": 0.3785,
+        "profile_path": "/uxcLJFTiKVMsxLtHuJ8lLHnA0wr.jpg",
+        "credit_id": "52fe422fc3a36847f800a897",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3777,
+        "known_for_department": "Production",
+        "name": "Joseph E. Levine",
+        "original_name": "Joseph E. Levine",
+        "popularity": 0.1141,
+        "profile_path": "/kgsFpaI2HSkYUviLONIs3yF22TX.jpg",
+        "credit_id": "52fe422fc3a36847f800a891",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3780,
+        "known_for_department": "Writing",
+        "name": "Alberto Moravia",
+        "original_name": "Alberto Moravia",
+        "popularity": 0.5438,
+        "profile_path": "/fcve5GrHVl1FQjck2CRFw65E348.jpg",
+        "credit_id": "52fe422fc3a36847f800a8a9",
+        "department": "Writing",
+        "job": "Novel"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3779,
+        "known_for_department": "Production",
+        "name": "Georges de Beauregard",
+        "original_name": "Georges de Beauregard",
+        "popularity": 0.1475,
+        "profile_path": "/qxl1r2ZzQ3mp34sizMwAVljwTtv.jpg",
+        "credit_id": "52fe422fc3a36847f800a89d",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1304860,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Odette Berroyer",
+        "original_name": "Odette Berroyer",
+        "popularity": 0.0532,
+        "profile_path": "/oaURrUmF3k7jdqD7Kz7CvLKXli0.jpg",
+        "credit_id": "62789965389da10066463a6a",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1330431,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Tanine Autré",
+        "original_name": "Tanine Autré",
+        "popularity": 0.1296,
+        "profile_path": null,
+        "credit_id": "6278994efc31d30050a67d97",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 12265,
+        "known_for_department": "Sound",
+        "name": "William Robert Sivel",
+        "original_name": "William Robert Sivel",
+        "popularity": 0.0954,
+        "profile_path": null,
+        "credit_id": "60f1beff435abd004502e4bb",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1582260,
+        "known_for_department": "Camera",
+        "name": "Roger Robert",
+        "original_name": "Roger Robert",
+        "popularity": 0.0555,
+        "profile_path": null,
+        "credit_id": "656ea4a10859b4013953013e",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "adult": true,
+        "gender": 2,
+        "id": 31775,
+        "known_for_department": "Directing",
+        "name": "Joe D'Amato",
+        "original_name": "Joe D'Amato",
+        "popularity": 0,
+        "profile_path": "/6cj3AKDSeANiZk2w9vFzcPWGlfF.jpg",
+        "credit_id": "656ea4405684630130a16262",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1318404,
+        "known_for_department": "Directing",
+        "name": "Carlo Lastricati",
+        "original_name": "Carlo Lastricati",
+        "popularity": 0.0987,
+        "profile_path": null,
+        "credit_id": "656ea3c20859b400c5383c88",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2608059,
+        "known_for_department": "Camera",
+        "name": "Jicky Dussart",
+        "original_name": "Jicky Dussart",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "656ea467886348014d85b47e",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 21168,
+        "known_for_department": "Camera",
+        "name": "Alain Levent",
+        "original_name": "Alain Levent",
+        "popularity": 0.0883,
+        "profile_path": "/5uFATF6CS0ffTAHoLuqZfQjFEsn.jpg",
+        "credit_id": "656ea47d88634800ade509d6",
+        "department": "Camera",
+        "job": "Second Unit Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 20556,
+        "known_for_department": "Directing",
+        "name": "Bertrand Tavernier",
+        "original_name": "Bertrand Tavernier",
+        "popularity": 0.5106,
+        "profile_path": "/uTGywwLxJuriOEEsRPuCAMVbWqR.jpg",
+        "credit_id": "656ea4ea886348010be1f502",
+        "department": "Production",
+        "job": "Publicist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4413321,
+        "known_for_department": "Production",
+        "name": "Annie Chauvet",
+        "original_name": "Annie Chauvet",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "656ea4dd56846300aedb578c",
+        "department": "Production",
+        "job": "Publicist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1291177,
+        "known_for_department": "Lighting",
+        "name": "Cristo Verrillo",
+        "original_name": "Cristo Verrillo",
+        "popularity": 0.1779,
+        "profile_path": null,
+        "credit_id": "656ea40388634800ea489e14",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3583,
+        "known_for_department": "Writing",
+        "name": "Suzanne Schiffman",
+        "original_name": "Suzanne Schiffman",
+        "popularity": 0.2029,
+        "profile_path": "/l3hKqjRlKopffuyPXW4csZtHmWT.jpg",
+        "credit_id": "656ea4bc88055100aeea93a3",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1052402,
+        "known_for_department": "Production",
+        "name": "Philippe Dussart",
+        "original_name": "Philippe Dussart",
+        "popularity": 0.052,
+        "profile_path": null,
+        "credit_id": "656ea3b688055101000f6803",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 25059,
+        "known_for_department": "Directing",
+        "name": "Charles L. Bitsch",
+        "original_name": "Charles L. Bitsch",
+        "popularity": 0.1598,
+        "profile_path": null,
+        "credit_id": "656ea3e388055101000f6827",
+        "department": "Directing",
+        "job": "Assistant Director"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "FI",
+        "title": "Sen täytyi tapahtua",
+        "type": "Poster Title"
+      },
+      {
+        "iso_3166_1": "BR",
+        "title": "Desprezo",
+        "type": "Original Subtitled Version"
+      },
+      {
+        "iso_3166_1": "ES",
+        "title": "El menyspreu",
+        "type": "Catalan, Alternative Title"
+      },
+      {
+        "iso_3166_1": "FI",
+        "title": "Jag föraktar dig",
+        "type": "Swedish Title"
+      },
+      {
+        "iso_3166_1": "GR",
+        "title": "I perifronisi",
+        "type": "transliteration"
+      },
+      {
+        "iso_3166_1": "GR",
+        "title": "Περιφρόνηση",
+        "type": "Poster Title"
+      },
+      {
+        "iso_3166_1": "JP",
+        "title": "Keibetsu",
+        "type": "alternative spelling"
+      },
+      {
+        "iso_3166_1": "SU",
+        "title": "Презрение",
+        "type": "Russian Title"
+      },
+      {
+        "iso_3166_1": "YU",
+        "title": "Prezir",
+        "type": "Serbian, Literal Title"
+      },
+      {
+        "iso_3166_1": "US",
+        "title": "Contempt!",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "ES",
+        "title": "El desprecio",
+        "type": "Castilian title"
+      },
+      {
+        "iso_3166_1": "NL",
+        "title": "De verachting",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "IT",
+        "title": "Il disprezzo",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "PT",
+        "title": "O Desprezo",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "BG",
+        "title": "Презрението",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "MK",
+        "title": "Презир",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "UA",
+        "title": "Зневага",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "GR",
+        "title": "Η περιφρόνηση",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "DK",
+        "title": "Jeg elskede dig i går",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "DE",
+        "title": "Die Verachtung",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "LV",
+        "title": "Nicinājums",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "FI",
+        "title": "Keskipäivän aave",
+        "type": "alternative title"
+      },
+      {
+        "iso_3166_1": "FI",
+        "title": "Halveksunta",
+        "type": "literal title"
+      },
+      {
+        "iso_3166_1": "SE",
+        "title": "Föraktet",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "HU",
+        "title": "A megvetés",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "TR",
+        "title": "Nefret",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "NO",
+        "title": "Skapt for kjærlighet",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "CZ",
+        "title": "Pohrdání",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "PL",
+        "title": "Pogarda",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "SA",
+        "title": "احتقار",
+        "type": "Arabic title"
+      },
+      {
+        "iso_3166_1": "IR",
+        "title": "تحقیر",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "JP",
+        "title": "軽蔑",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "KR",
+        "title": "경멸",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "IL",
+        "title": "הגוף והלב",
+        "type": "Hebrew title"
+      }
+    ]
+  }
+}

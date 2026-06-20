@@ -1,0 +1,863 @@
+{
+  "adult": false,
+  "backdrop_path": "/doFNxTRqDMCLitu838v5Ciuw0si.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "https://filmsdulosange.com/en/film/misericordia/",
+  "id": 1063574,
+  "imdb_id": "tt32085997",
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "Miséricorde",
+  "overview": "Jérémie returns to his hometown for the funeral of his former boss, the village baker. He decides to stay for a few days with Martine, the man's widow. A mysterious disappearance, a threatening neighbor and a priest with strange intentions make Jérémie's short stay in the village take an unexpected turn.",
+  "popularity": 1.074,
+  "poster_path": "/7LVCXVdsGPPXRYGu5SRqgfVP96h.jpg",
+  "production_companies": [
+    {
+      "id": 51696,
+      "logo_path": "/1HeS0gYnwi2AVtfGvSBaCqlXMuS.png",
+      "name": "CG Cinéma",
+      "origin_country": "FR"
+    },
+    {
+      "id": 94,
+      "logo_path": "/huC7HqorvUThGIrENrbcHmQVUA0.png",
+      "name": "ARTE France Cinéma",
+      "origin_country": "FR"
+    },
+    {
+      "id": 229472,
+      "logo_path": "/77wIavmHhDKJ9n4vpEM3K8jMriM.png",
+      "name": "Scala Films",
+      "origin_country": "FR"
+    },
+    {
+      "id": 13720,
+      "logo_path": "/wqBR878P0PvPAEWE8xxG8VkHP8i.png",
+      "name": "Andergraun Films",
+      "origin_country": "ES"
+    },
+    {
+      "id": 16421,
+      "logo_path": "/A5ZNlCF9yzcIqmvD8WQtHK9htg8.png",
+      "name": "Rosa Filmes",
+      "origin_country": "PT"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "PT",
+      "name": "Portugal"
+    },
+    {
+      "iso_3166_1": "ES",
+      "name": "Spain"
+    }
+  ],
+  "release_date": "2024-10-16",
+  "revenue": 1703284,
+  "runtime": 104,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Some confessions come with a body count.",
+  "title": "Misericordia",
+  "video": false,
+  "vote_average": 6.415,
+  "vote_count": 171,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1645905,
+        "known_for_department": "Acting",
+        "name": "Félix Kysyl",
+        "original_name": "Félix Kysyl",
+        "popularity": 0.3095,
+        "profile_path": "/5Likh6Ga5qP4szMBlC6xLIr82oY.jpg",
+        "cast_id": 4,
+        "character": "Jérémie",
+        "credit_id": "653fd527519bbb00c435615e",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 20080,
+        "known_for_department": "Acting",
+        "name": "Catherine Frot",
+        "original_name": "Catherine Frot",
+        "popularity": 0.5787,
+        "profile_path": "/pi1HwK9gJfhkDJkC3SCDJgDc9LS.jpg",
+        "cast_id": 3,
+        "character": "Martine",
+        "credit_id": "653fd51bcc9683010b401043",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2054543,
+        "known_for_department": "Directing",
+        "name": "Jean-Baptiste Durand",
+        "original_name": "Jean-Baptiste Durand",
+        "popularity": 0.1513,
+        "profile_path": "/om0MOoAfPQVHzLxdeHAxuYaOabZ.jpg",
+        "cast_id": 5,
+        "character": "Vincent",
+        "credit_id": "653fd530c8a5ac013a87ffce",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1808487,
+        "known_for_department": "Acting",
+        "name": "Jacques Develay",
+        "original_name": "Jacques Develay",
+        "popularity": 0.1007,
+        "profile_path": "/lexaJGiUuPPvBJqDGom0x7ZC2U9.jpg",
+        "cast_id": 6,
+        "character": "L'abbé",
+        "credit_id": "653fd536e894a6011ca4d87d",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1636467,
+        "known_for_department": "Acting",
+        "name": "David Ayala",
+        "original_name": "David Ayala",
+        "popularity": 0.3639,
+        "profile_path": "/g1FlhpnXANAvr80osb0rpazI5V6.jpg",
+        "cast_id": 7,
+        "character": "Walter",
+        "credit_id": "653fd53dc8a5ac0100fb3453",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1983114,
+        "known_for_department": "Acting",
+        "name": "Tatiana Spivakova",
+        "original_name": "Tatiana Spivakova",
+        "popularity": 0.0453,
+        "profile_path": "/u7USTddq4wJXqhV5FYRMX3X6HaK.jpg",
+        "cast_id": 20,
+        "character": "Annie",
+        "credit_id": "66453f5f82e0c772262eccf3",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1660855,
+        "known_for_department": "Acting",
+        "name": "Sébastien Faglain",
+        "original_name": "Sébastien Faglain",
+        "popularity": 0.0536,
+        "profile_path": "/sxMspalpuJjyKAqujpryL3vYOM0.jpg",
+        "cast_id": 22,
+        "character": "Policeman",
+        "credit_id": "66453f83f6a9c96dae3d2eb3",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3319469,
+        "known_for_department": "Sound",
+        "name": "Serge Richard",
+        "original_name": "Serge Richard",
+        "popularity": 0.1121,
+        "profile_path": null,
+        "cast_id": 19,
+        "character": "Jean-Pierre",
+        "credit_id": "66453f57a507e70e60cf9847",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4716856,
+        "known_for_department": "Acting",
+        "name": "Elio Lunetta",
+        "original_name": "Elio Lunetta",
+        "popularity": 0.0239,
+        "profile_path": null,
+        "cast_id": 21,
+        "character": "Killian",
+        "credit_id": "66453f78f2442deba624247c",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4716857,
+        "known_for_department": "Acting",
+        "name": "Salomé Lopes",
+        "original_name": "Salomé Lopes",
+        "popularity": 0.0261,
+        "profile_path": null,
+        "cast_id": 23,
+        "character": "Young Colleague",
+        "credit_id": "66453f93994d7933cecfa2bc",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 932163,
+        "known_for_department": "Acting",
+        "name": "Lluís Serrat",
+        "original_name": "Lluís Serrat",
+        "popularity": 0.1384,
+        "profile_path": "/xnS0bSQAcD71Qq9NSFS7T385Q72.jpg",
+        "cast_id": 54,
+        "character": "",
+        "credit_id": "67f1d6fba7336870ee9965c6",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4522280,
+        "known_for_department": "Acting",
+        "name": "Sandra Marinho Oliveira",
+        "original_name": "Sandra Marinho Oliveira",
+        "popularity": 0.0168,
+        "profile_path": null,
+        "cast_id": 55,
+        "character": "",
+        "credit_id": "67f1d708931ce174a2d9bea3",
+        "order": 11
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 238384,
+        "known_for_department": "Directing",
+        "name": "Alain Guiraudie",
+        "original_name": "Alain Guiraudie",
+        "popularity": 0.2543,
+        "profile_path": "/7uw1outmJ1eQxTCeR8yKqYm3ebI.jpg",
+        "credit_id": "64ff3c552dffd8013bcd3531",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1090814,
+        "known_for_department": "Camera",
+        "name": "Claire Mathon",
+        "original_name": "Claire Mathon",
+        "popularity": 0.0902,
+        "profile_path": "/7XKSrvs8awkwXFL8GgQ8gxwBWEq.jpg",
+        "credit_id": "653fd54b50733c00e24ad1e5",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 238384,
+        "known_for_department": "Directing",
+        "name": "Alain Guiraudie",
+        "original_name": "Alain Guiraudie",
+        "popularity": 0.2543,
+        "profile_path": "/7uw1outmJ1eQxTCeR8yKqYm3ebI.jpg",
+        "credit_id": "63a1a567d8e2250e8b3909f9",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 54318,
+        "known_for_department": "Production",
+        "name": "Charles Gillibert",
+        "original_name": "Charles Gillibert",
+        "popularity": 0.1595,
+        "profile_path": "/gss7U39JPmEC6eRl0EiiKIilSYs.jpg",
+        "credit_id": "66182bce5a7884014a912ecb",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1038878,
+        "known_for_department": "Production",
+        "name": "Isabelle Tillou",
+        "original_name": "Isabelle Tillou",
+        "popularity": 0.0765,
+        "profile_path": null,
+        "credit_id": "66182bbbe9da69018681b617",
+        "department": "Production",
+        "job": "Production Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1451497,
+        "known_for_department": "Production",
+        "name": "Olivier Père",
+        "original_name": "Olivier Père",
+        "popularity": 0.2732,
+        "profile_path": "/w3e88Dn1Usb6fNKNElkVfJBybla.jpg",
+        "credit_id": "6641ccab537314ddf0fb4a02",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1038878,
+        "known_for_department": "Production",
+        "name": "Isabelle Tillou",
+        "original_name": "Isabelle Tillou",
+        "popularity": 0.0765,
+        "profile_path": null,
+        "credit_id": "6641ccc63c30c5f4ac39faeb",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3447972,
+        "known_for_department": "Production",
+        "name": "Romain Blondeau",
+        "original_name": "Romain Blondeau",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "6641cca1a010a760f7ffcbbd",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2131388,
+        "known_for_department": "Production",
+        "name": "Marta Vieira Alves",
+        "original_name": "Marta Vieira Alves",
+        "popularity": 0.0621,
+        "profile_path": null,
+        "credit_id": "6641ccbca987ac51291de487",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3994304,
+        "known_for_department": "Production",
+        "name": "Delphine Passant",
+        "original_name": "Delphine Passant",
+        "popularity": 0.0339,
+        "profile_path": null,
+        "credit_id": "6641ccef2a574b332039fc8f",
+        "department": "Crew",
+        "job": "Post-Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1773744,
+        "known_for_department": "Camera",
+        "name": "Quiterie Seguin-Medrinal",
+        "original_name": "Quiterie Seguin-Medrinal",
+        "popularity": 0.0398,
+        "profile_path": null,
+        "credit_id": "6641ccda4746e98a8dfb47c9",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1018101,
+        "known_for_department": "Directing",
+        "name": "Joaquim Sapinho",
+        "original_name": "Joaquim Sapinho",
+        "popularity": 0.0641,
+        "profile_path": "/e98o91EJWn6UF1xD7Sy3b7P10pm.jpg",
+        "credit_id": "6641ccb24746e98a8dfb47b6",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4723288,
+        "known_for_department": "Production",
+        "name": "Maria Garcia Abarca",
+        "original_name": "Maria Garcia Abarca",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "664a2639b06d6357418ed4d7",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2493403,
+        "known_for_department": "Editing",
+        "name": "Christophe Bousquet",
+        "original_name": "Christophe Bousquet",
+        "popularity": 0.1192,
+        "profile_path": null,
+        "credit_id": "664a264473cdb44bbf2fbe4d",
+        "department": "Editing",
+        "job": "Colorist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1038878,
+        "known_for_department": "Production",
+        "name": "Isabelle Tillou",
+        "original_name": "Isabelle Tillou",
+        "popularity": 0.0765,
+        "profile_path": null,
+        "credit_id": "664a2666658beb2b0695f654",
+        "department": "Production",
+        "job": "Location Manager"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 928949,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Khadija Zeggaï",
+        "original_name": "Khadija Zeggaï",
+        "popularity": 0.1146,
+        "profile_path": "/y12bY7eUChhLj43010qxWqVwf2f.jpg",
+        "credit_id": "664be6fd39a681446b795b7e",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2058947,
+        "known_for_department": "Sound",
+        "name": "Marc Verdaguer",
+        "original_name": "Marc Verdaguer",
+        "popularity": 0.052,
+        "profile_path": "/in5JqXy8ygqikF9yySrD6iW51I0.jpg",
+        "credit_id": "664be7063f44dc5e37795671",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 71627,
+        "known_for_department": "Editing",
+        "name": "Jean-Christophe Hym",
+        "original_name": "Jean-Christophe Hym",
+        "popularity": 0.0862,
+        "profile_path": null,
+        "credit_id": "664be6ea1c6a336bf2ed5952",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1177107,
+        "known_for_department": "Art",
+        "name": "Emmanuelle Duplay",
+        "original_name": "Emmanuelle Duplay",
+        "popularity": 0.0963,
+        "profile_path": "/kKuiCC2BmajXniZlmpNaPtU9cFb.jpg",
+        "credit_id": "664be6f4b31a85b3b5666fd1",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4982831,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Bérénice Chaby",
+        "original_name": "Bérénice Chaby",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "6701a97bfa3e69e0ef7d1306",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1171277,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Michel Vautier",
+        "original_name": "Michel Vautier",
+        "popularity": 0.0327,
+        "profile_path": null,
+        "credit_id": "6701a987f878adfed08577f1",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2977863,
+        "known_for_department": "Directing",
+        "name": "François Labarthe",
+        "original_name": "François Labarthe",
+        "popularity": 0.0311,
+        "profile_path": null,
+        "credit_id": "6701a9aafa3e69e0ef7d1323",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4482999,
+        "known_for_department": "Directing",
+        "name": "Manon Laffitte",
+        "original_name": "Manon Laffitte",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "6701a9b3f878adfed085780c",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2785639,
+        "known_for_department": "Art",
+        "name": "Léa Carbogno",
+        "original_name": "Léa Carbogno",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "6701a9bbfa3e69e0ef7d132c",
+        "department": "Art",
+        "job": "Graphic Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3786853,
+        "known_for_department": "Art",
+        "name": "Nicolas Doerler",
+        "original_name": "Nicolas Doerler",
+        "popularity": 0.0535,
+        "profile_path": null,
+        "credit_id": "6701a9cc67c6fb09fff85951",
+        "department": "Art",
+        "job": "Property Buyer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2549590,
+        "known_for_department": "Art",
+        "name": "Matthias Garrouste",
+        "original_name": "Matthias Garrouste",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "6701a9d56fc74e5756f85a6f",
+        "department": "Art",
+        "job": "Property Master"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1548100,
+        "known_for_department": "Sound",
+        "name": "Miguel Barbosa",
+        "original_name": "Miguel Barbosa",
+        "popularity": 0.2214,
+        "profile_path": "/aMLdlWhUwSO0n6yhSYarz12wfdm.jpg",
+        "credit_id": "6701a9e1b146282f7b856dd8",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3920333,
+        "known_for_department": "Sound",
+        "name": "Xes Diéguez",
+        "original_name": "Xes Diéguez",
+        "popularity": 0.0883,
+        "profile_path": "/z7KGlH1B2OB0ZD0hdHs8fpe6RSK.jpg",
+        "credit_id": "6701a9ebfa3e69e0ef7d1339",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3920330,
+        "known_for_department": "Sound",
+        "name": "Kevin Carvalho",
+        "original_name": "Kevin Carvalho",
+        "popularity": 0.0793,
+        "profile_path": "/YO3zISouUVLSTi7TJgOZOkAf4o.jpg",
+        "credit_id": "6701a9f4e48014914685760d",
+        "department": "Sound",
+        "job": "Foley Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1619379,
+        "known_for_department": "Sound",
+        "name": "Jeanne Delplancq",
+        "original_name": "Jeanne Delplancq",
+        "popularity": 0.0475,
+        "profile_path": null,
+        "credit_id": "6701a9fcb146282f7b856dfa",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1183166,
+        "known_for_department": "Sound",
+        "name": "Branko Neškov",
+        "original_name": "Branko Neškov",
+        "popularity": 0.1263,
+        "profile_path": "/euXMeIyehJ5hQx72hSLatiQPCFW.jpg",
+        "credit_id": "6701aa06c9a10d46ea7d24ed",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1183167,
+        "known_for_department": "Sound",
+        "name": "Vasco Pedroso",
+        "original_name": "Vasco Pedroso",
+        "popularity": 0.0218,
+        "profile_path": null,
+        "credit_id": "6701aa0de480149146857611",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1160600,
+        "known_for_department": "Sound",
+        "name": "Jordi Ribas",
+        "original_name": "Jordi Ribas",
+        "popularity": 0.1583,
+        "profile_path": "/5B2w7iKqWLauNYhPnfe0eggq4uh.jpg",
+        "credit_id": "6701aa16f878adfed0857814",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1183778,
+        "known_for_department": "Crew",
+        "name": "Anthony Pho",
+        "original_name": "Anthony Pho",
+        "popularity": 0.2007,
+        "profile_path": "/epDarUbNWMms3aS16kV8PVYoDbZ.jpg",
+        "credit_id": "6701aa2467c6fb09fff85978",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2312479,
+        "known_for_department": "Camera",
+        "name": "Augustin Bonnet",
+        "original_name": "Augustin Bonnet",
+        "popularity": 0.169,
+        "profile_path": null,
+        "credit_id": "6701aa30c9a10d46ea7d24f0",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4982833,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Juliana Maria",
+        "original_name": "Juliana Maria",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "6701aa50c9a10d46ea7d2506",
+        "department": "Costume & Make-Up",
+        "job": "Set Costumer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 932161,
+        "known_for_department": "Directing",
+        "name": "Albert Serra",
+        "original_name": "Albert Serra",
+        "popularity": 0.3924,
+        "profile_path": "/4ubbOopSH7dmxTuT9v7UkMOIXPy.jpg",
+        "credit_id": "67c0d111c029139b0e35bd93",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1184230,
+        "known_for_department": "Writing",
+        "name": "Laurent Lunetta",
+        "original_name": "Laurent Lunetta",
+        "popularity": 0.1373,
+        "profile_path": "/eOgruwEfFSxQsNMth0jhNzdcxvn.jpg",
+        "credit_id": "67dff0b5e4a9c8690607d210",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1142476,
+        "known_for_department": "Acting",
+        "name": "Laetitia Goffi",
+        "original_name": "Laetitia Goffi",
+        "popularity": 0.0536,
+        "profile_path": null,
+        "credit_id": "67dff0d7f6a0fcbd004d9e34",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2667243,
+        "known_for_department": "Production",
+        "name": "Julie Allione",
+        "original_name": "Julie Allione",
+        "popularity": 0.1263,
+        "profile_path": "/lOJcXLVSyZWRa9OdlzIeO9Zt56m.jpg",
+        "credit_id": "67dff0e4ce605a1ed1c71774",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2132531,
+        "known_for_department": "Lighting",
+        "name": "Ernesto Giolitti",
+        "original_name": "Ernesto Giolitti",
+        "popularity": 0.0702,
+        "profile_path": null,
+        "credit_id": "67dff11d4ce07d684e07ce4c",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4259366,
+        "known_for_department": "Production",
+        "name": "Mélanie Biessy",
+        "original_name": "Mélanie Biessy",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "67dfffb7210fa80a0f4d99cd",
+        "department": "Production",
+        "job": "Associate Producer"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "TW",
+        "title": "慾望迷蹤",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "IT",
+        "title": "L'uomo nel bosco",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "BR",
+        "title": "Misericórdia",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "CZ",
+        "title": "Pro smilovani",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "GR",
+        "title": "Ευσπλαχνία",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "JP",
+        "title": "ミゼリコルディア",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "PL",
+        "title": "Mizerykordia",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "UA",
+        "title": "Милосердя",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "HK",
+        "title": "基本慈悲",
+        "type": ""
+      }
+    ]
+  }
+}

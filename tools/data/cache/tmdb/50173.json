@@ -1,0 +1,675 @@
+{
+  "adult": false,
+  "backdrop_path": "/4ZVAAGCGDYncbZhjEgnfU1v2iQD.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 50173,
+  "imdb_id": "tt0154683",
+  "origin_country": [
+    "JP"
+  ],
+  "original_language": "ja",
+  "original_title": "地獄",
+  "overview": "A group of sinners involved in interconnected tales of murder, revenge, deceit and adultery all meet at the Gates of Hell.",
+  "popularity": 0.8368,
+  "poster_path": "/ehiMOuKE7i9WHgvs7dSIZelsHwA.jpg",
+  "production_companies": [
+    {
+      "id": 3094,
+      "logo_path": "/vF7iTe9c00UaTnuL9oSpZTXROyC.png",
+      "name": "Shintoho Company",
+      "origin_country": "JP"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    }
+  ],
+  "release_date": "1960-07-30",
+  "revenue": 0,
+  "runtime": 99,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Jigoku",
+  "video": false,
+  "vote_average": 6.376,
+  "vote_count": 109,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 80708,
+        "known_for_department": "Acting",
+        "name": "Shigeru Amachi",
+        "original_name": "天知茂",
+        "popularity": 0.8007,
+        "profile_path": "/8iDM0eps69HND0Q5p6j3BSzLRjh.jpg",
+        "cast_id": 2,
+        "character": "Shirô Shimizu",
+        "credit_id": "52fe47bcc3a36847f814593d",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 143348,
+        "known_for_department": "Acting",
+        "name": "Utako Mitsuya",
+        "original_name": "三ツ矢歌子",
+        "popularity": 0.5673,
+        "profile_path": "/4c7hgxvHAurqDKEUyixPIhZlRVB.jpg",
+        "cast_id": 3,
+        "character": "Yukiko / Sachiko",
+        "credit_id": "52fe47bcc3a36847f8145941",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 27781,
+        "known_for_department": "Acting",
+        "name": "Yōichi Numata",
+        "original_name": "沼田曜一",
+        "popularity": 1.0052,
+        "profile_path": "/7MNgdAnmjUto0pe3ftgq1j9THp9.jpg",
+        "cast_id": 4,
+        "character": "Tamura",
+        "credit_id": "52fe47bcc3a36847f8145945",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 125016,
+        "known_for_department": "Acting",
+        "name": "Hiroshi Hayashi",
+        "original_name": "林寛",
+        "popularity": 0.6216,
+        "profile_path": "/tOUig5r48lQfBjmLbaojtx1FYrV.jpg",
+        "cast_id": 5,
+        "character": "Gôzô Shimizu",
+        "credit_id": "52fe47bcc3a36847f8145949",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 150321,
+        "known_for_department": "Acting",
+        "name": "Kanjūrō Arashi",
+        "original_name": "嵐寛寿郎",
+        "popularity": 0.8385,
+        "profile_path": "/odVRTsXJNeSxCsUVtE8nyFpf8mS.jpg",
+        "cast_id": 15,
+        "character": "Enma",
+        "credit_id": "5b3df568925141148c007e07",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1083306,
+        "known_for_department": "Acting",
+        "name": "Jun Ōtomo",
+        "original_name": "大友純",
+        "popularity": 0.349,
+        "profile_path": "/t1CMnOZL7O77FHsLUQcy97m15e9.jpg",
+        "cast_id": 16,
+        "character": "Ensai Taniguchi",
+        "credit_id": "5c796e7fc3a36844dd195466",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1594341,
+        "known_for_department": "Acting",
+        "name": "Akiko Yamashita",
+        "original_name": "山下晶子",
+        "popularity": 0.2249,
+        "profile_path": null,
+        "cast_id": 17,
+        "character": "Kinuko",
+        "credit_id": "5c796e899251412a694856a6",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 134401,
+        "known_for_department": "Acting",
+        "name": "Kiyoko Tsuji",
+        "original_name": "津路清子",
+        "popularity": 0.374,
+        "profile_path": null,
+        "cast_id": 18,
+        "character": "Kyôichi's Mother",
+        "credit_id": "5c796e93c3a36844f11955a0",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1024336,
+        "known_for_department": "Acting",
+        "name": "Fumiko Miyata",
+        "original_name": "宮田文子",
+        "popularity": 0.3047,
+        "profile_path": "/on8hk5QM7fn9W6c8n8TpiCYlLxn.jpg",
+        "cast_id": 19,
+        "character": "Mrs. Yajima",
+        "credit_id": "5c796ebac3a36844f11955f2",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1122202,
+        "known_for_department": "Acting",
+        "name": "Akira Nakamura",
+        "original_name": "中村彰",
+        "popularity": 0.4746,
+        "profile_path": null,
+        "cast_id": 20,
+        "character": "Professor Yajima",
+        "credit_id": "5c796ed49251412a51486cdf",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1587830,
+        "known_for_department": "Acting",
+        "name": "Kimie Tokudaiji",
+        "original_name": "徳大寺君枝",
+        "popularity": 0.0503,
+        "profile_path": null,
+        "cast_id": 21,
+        "character": "Ito Shimizu",
+        "credit_id": "5c796ede0e0a2611de0f8ba9",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1588001,
+        "known_for_department": "Acting",
+        "name": "Akiko Ono",
+        "original_name": "Akiko Ono",
+        "popularity": 0.122,
+        "profile_path": null,
+        "cast_id": 22,
+        "character": "Yoko",
+        "credit_id": "5c796ef20e0a2611ec0fcf77",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1187649,
+        "known_for_department": "Acting",
+        "name": "Tomohiko Ôtani",
+        "original_name": "Tomohiko Ôtani",
+        "popularity": 0.3978,
+        "profile_path": null,
+        "cast_id": 23,
+        "character": "Dr. Kusama",
+        "credit_id": "5c796efcc3a36844d8195a3a",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1555149,
+        "known_for_department": "Acting",
+        "name": "Kôichi Miya",
+        "original_name": "Kôichi Miya",
+        "popularity": 0.1875,
+        "profile_path": null,
+        "cast_id": 24,
+        "character": "Akagawa",
+        "credit_id": "5c796f070e0a2611da0fbfa6",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1541328,
+        "known_for_department": "Acting",
+        "name": "Sakutarō Yamakawa",
+        "original_name": "Sakutarō Yamakawa",
+        "popularity": 0.2103,
+        "profile_path": null,
+        "cast_id": 25,
+        "character": "Fisherman",
+        "credit_id": "5c796f109251412a69485754",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1024339,
+        "known_for_department": "Acting",
+        "name": "Rei Ishikawa",
+        "original_name": "石川冷",
+        "popularity": 0.2872,
+        "profile_path": null,
+        "cast_id": 26,
+        "character": "Old Man with Tatoo",
+        "credit_id": "5c796f1ac3a36844d1196214",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1541752,
+        "known_for_department": "Acting",
+        "name": "Hiroshi Shingûji",
+        "original_name": "Hiroshi Shingûji",
+        "popularity": 0.1579,
+        "profile_path": null,
+        "cast_id": 27,
+        "character": "Detective Hariya",
+        "credit_id": "5c796f260e0a26521c0f21e5",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1083311,
+        "known_for_department": "Acting",
+        "name": "Hiroshi Izumida",
+        "original_name": "泉田洋志",
+        "popularity": 0.216,
+        "profile_path": null,
+        "cast_id": 28,
+        "character": "Kyôichi 'Tiger' Shiga",
+        "credit_id": "5c796f310e0a26521c0f21e9",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1083309,
+        "known_for_department": "Acting",
+        "name": "Yōzō Takamura",
+        "original_name": "Yōzō Takamura",
+        "popularity": 0.1932,
+        "profile_path": null,
+        "cast_id": 29,
+        "character": "Devil Torturers",
+        "credit_id": "5c796f3b0e0a2611e40fd071",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1308574,
+        "known_for_department": "Acting",
+        "name": "Yūzō Harumi",
+        "original_name": "Yūzō Harumi",
+        "popularity": 0.1385,
+        "profile_path": null,
+        "cast_id": 30,
+        "character": "Devil Torturer",
+        "credit_id": "5c796f459251412a51486deb",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2203304,
+        "known_for_department": "Acting",
+        "name": "Katsuzô Kitamura",
+        "original_name": "Katsuzô Kitamura",
+        "popularity": 0.0168,
+        "profile_path": null,
+        "cast_id": 31,
+        "character": "Devil Torturer",
+        "credit_id": "5c796f4f0e0a2611ec0fcfb7",
+        "order": 20
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1542461,
+        "known_for_department": "Acting",
+        "name": "Kazuki Nishi",
+        "original_name": "Kazuki Nishi",
+        "popularity": 0.2656,
+        "profile_path": null,
+        "cast_id": 32,
+        "character": "Devil Torturer",
+        "credit_id": "5c796f690e0a2611de0f8d68",
+        "order": 21
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1587677,
+        "known_for_department": "Acting",
+        "name": "Shinji Suzuki",
+        "original_name": "Shinji Suzuki",
+        "popularity": 0.2085,
+        "profile_path": null,
+        "cast_id": 33,
+        "character": "Devil Torturer",
+        "credit_id": "5c796f75c3a36844d119626e",
+        "order": 22
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1857012,
+        "known_for_department": "Acting",
+        "name": "Takashi Yamaguchi",
+        "original_name": "山口多賀志",
+        "popularity": 0.1038,
+        "profile_path": null,
+        "cast_id": 34,
+        "character": "",
+        "credit_id": "5c796f839251412a51486e15",
+        "order": 23
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1617034,
+        "known_for_department": "Acting",
+        "name": "Minoru Miyake",
+        "original_name": "Minoru Miyake",
+        "popularity": 0.2195,
+        "profile_path": null,
+        "cast_id": 35,
+        "character": "",
+        "credit_id": "5c796f9b0e0a2611ec0fcfc1",
+        "order": 24
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1139148,
+        "known_for_department": "Acting",
+        "name": "Takamitsu Watanabe",
+        "original_name": "渡辺高光",
+        "popularity": 0.1324,
+        "profile_path": null,
+        "cast_id": 36,
+        "character": "",
+        "credit_id": "5c796fa4c3a368310f18a843",
+        "order": 25
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1268171,
+        "known_for_department": "Acting",
+        "name": "Tatsuhiro Oka",
+        "original_name": "Tatsuhiro Oka",
+        "popularity": 0.3546,
+        "profile_path": null,
+        "cast_id": 37,
+        "character": "",
+        "credit_id": "5c796fadc3a36844dd19560b",
+        "order": 26
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 239551,
+        "known_for_department": "Directing",
+        "name": "Nobuo Nakagawa",
+        "original_name": "中川信夫",
+        "popularity": 0.6033,
+        "profile_path": "/rIrLZ8N0nlclzEmY5qNKP6boO2R.jpg",
+        "credit_id": "52fe47bcc3a36847f814594f",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1136963,
+        "known_for_department": "Editing",
+        "name": "Toshio Goto",
+        "original_name": "後藤俊夫",
+        "popularity": 0.3236,
+        "profile_path": null,
+        "credit_id": "650fff4c3a4a12011cf351b5",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 120014,
+        "known_for_department": "Sound",
+        "name": "Chumei Watanabe",
+        "original_name": "渡辺宙明",
+        "popularity": 0.4063,
+        "profile_path": "/5Hg4eCBwpKDCVZPgS43jmKDJlgf.jpg",
+        "credit_id": "5717d43f9251417a2200766c",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1180707,
+        "known_for_department": "Camera",
+        "name": "Mamoru Morita",
+        "original_name": "Mamoru Morita",
+        "popularity": 0.0589,
+        "profile_path": null,
+        "credit_id": "5717d4489251417a2200766e",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 89132,
+        "known_for_department": "Production",
+        "name": "Mitsugi Okura",
+        "original_name": "大蔵貢",
+        "popularity": 0.3388,
+        "profile_path": null,
+        "credit_id": "5ac97c78c3a36834d004cc30",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 239551,
+        "known_for_department": "Directing",
+        "name": "Nobuo Nakagawa",
+        "original_name": "中川信夫",
+        "popularity": 0.6033,
+        "profile_path": "/rIrLZ8N0nlclzEmY5qNKP6boO2R.jpg",
+        "credit_id": "5c7970670e0a2611d80fa875",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2253635,
+        "known_for_department": "Art",
+        "name": "Shôsuke Sasane",
+        "original_name": "Shôsuke Sasane",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "5c79709e9251412a66485217",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1585846,
+        "known_for_department": "Directing",
+        "name": "Keinosuke Tsuchiya",
+        "original_name": "土屋啓之助",
+        "popularity": 0.0689,
+        "profile_path": null,
+        "credit_id": "5c7970bf9251412a4f4863bf",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1368927,
+        "known_for_department": "Art",
+        "name": "Haruyasu Kurosawa",
+        "original_name": "黒沢治安",
+        "popularity": 0.1797,
+        "profile_path": null,
+        "credit_id": "5c7970acc3a36844f1195bbd",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 89133,
+        "known_for_department": "Writing",
+        "name": "Ichirō Miyagawa",
+        "original_name": "宮川一郎",
+        "popularity": 0.6765,
+        "profile_path": null,
+        "credit_id": "5c797055c3a36844ec196200",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1594338,
+        "known_for_department": "Lighting",
+        "name": "Hiroshi Ishimori",
+        "original_name": "Hiroshi Ishimori",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "5e2d71841685da0011e81459",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1529921,
+        "known_for_department": "Crew",
+        "name": "Kihachiro Nakai",
+        "original_name": "Kihachiro Nakai",
+        "popularity": 0.0491,
+        "profile_path": null,
+        "credit_id": "5e2d7171d6819b00127c7a0f",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2521135,
+        "known_for_department": "Art",
+        "name": "Minoru Ôtsuka",
+        "original_name": "Minoru Ôtsuka",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "5e2d715898f1f10012fb2345",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "US",
+        "title": "The Sinners of Hell",
+        "type": "English-language title"
+      },
+      {
+        "iso_3166_1": "US",
+        "title": "Story of the Great 8-Tombed Hell",
+        "type": "alternative title"
+      },
+      {
+        "iso_3166_1": "JP",
+        "title": "Jigoku",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "BR",
+        "title": "Inferno",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "FI",
+        "title": "Jigoku",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "FI",
+        "title": "Hell",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "DE",
+        "title": "Jigoku - Das Tor zur Hölle",
+        "type": "DVD Title"
+      },
+      {
+        "iso_3166_1": "DE",
+        "title": "Kolasi",
+        "type": "DVD Title"
+      },
+      {
+        "iso_3166_1": "HU",
+        "title": "Pokol",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "PL",
+        "title": "Pieklo",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "RU",
+        "title": "Ад",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "KR",
+        "title": "지옥",
+        "type": ""
+      }
+    ]
+  }
+}

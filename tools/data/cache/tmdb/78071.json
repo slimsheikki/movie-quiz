@@ -1,0 +1,571 @@
+{
+  "adult": false,
+  "backdrop_path": "/jOxFbSLYSftcm2T3xyVF9pyKeue.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "",
+  "id": 78071,
+  "imdb_id": "tt0070116",
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "Glissements progressifs du plaisir",
+  "overview": "A young woman is questioned by the police and the judges, suspected of being a modern witch. The girl who shared her apartment has been found dead, and a pair of scissors impaled through her heart, as she lay attached to the bedposts. Apparently, the girl does have powers, to make all people around her fall prey to her spell, glissing progressively into desire, lust, and the unknown.",
+  "popularity": 0.7413,
+  "poster_path": "/yBJoqPs9FL7HvlI1qOLLp9IiC6l.jpg",
+  "production_companies": [
+    {
+      "id": 83107,
+      "logo_path": null,
+      "name": "S.N.E.T.C.",
+      "origin_country": ""
+    },
+    {
+      "id": 79935,
+      "logo_path": null,
+      "name": "Cosefa",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "1974-03-07",
+  "revenue": 0,
+  "runtime": 102,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Successive Slidings of Pleasure",
+  "video": false,
+  "vote_average": 6.2,
+  "vote_count": 60,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 24941,
+        "known_for_department": "Acting",
+        "name": "Anicée Alvina",
+        "original_name": "Anicée Alvina",
+        "popularity": 0.6944,
+        "profile_path": "/9ExQ8PZa5j0LxWwlcJaWP6feUWb.jpg",
+        "cast_id": 3,
+        "character": "Alice/The Prisoner",
+        "credit_id": "52fe498cc3a368484e130ea3",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 39491,
+        "known_for_department": "Acting",
+        "name": "Olga Georges-Picot",
+        "original_name": "Olga Georges-Picot",
+        "popularity": 0.4448,
+        "profile_path": "/jaHldUK2ptppn0aMUqt6liPJCLP.jpg",
+        "cast_id": 4,
+        "character": "Nora/The Lawyer",
+        "credit_id": "52fe498cc3a368484e130ea7",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2369,
+        "known_for_department": "Acting",
+        "name": "Michael Lonsdale",
+        "original_name": "Michael Lonsdale",
+        "popularity": 1.0045,
+        "profile_path": "/lQZktsBj1CFbIEIpXOZp55kCiB5.jpg",
+        "cast_id": 5,
+        "character": "The Judge",
+        "credit_id": "52fe498cc3a368484e130eab",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1323494,
+        "known_for_department": "Acting",
+        "name": "Marianne Eggerickx",
+        "original_name": "Marianne Eggerickx",
+        "popularity": 0.2071,
+        "profile_path": "/5NeX8lbJNdLj41JYmnXBBYFM8nn.jpg",
+        "cast_id": 7,
+        "character": "Claudia",
+        "credit_id": "581f13fd9251412325003937",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 17882,
+        "known_for_department": "Acting",
+        "name": "Isabelle Huppert",
+        "original_name": "Isabelle Huppert",
+        "popularity": 2.2307,
+        "profile_path": "/hwJQBS3jJA4i5RZ1iv6heBoXUGL.jpg",
+        "cast_id": 8,
+        "character": "The Student",
+        "credit_id": "581f140bc3a36860b90036de",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 38648,
+        "known_for_department": "Acting",
+        "name": "Maxence Mailfort",
+        "original_name": "Maxence Mailfort",
+        "popularity": 0.2226,
+        "profile_path": "/dutiNoZx15yzrqwyjlWL5wqFggb.jpg",
+        "cast_id": 9,
+        "character": "The Client",
+        "credit_id": "581f14199251412705003b31",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 34587,
+        "known_for_department": "Acting",
+        "name": "Claude Marcault",
+        "original_name": "Claude Marcault",
+        "popularity": 0.1465,
+        "profile_path": "/7z7YdxcCR99JbZu7YtflaVq3voR.jpg",
+        "cast_id": 10,
+        "character": "Soeur Julia",
+        "credit_id": "581f1426c3a36860c9003617",
+        "order": 6
+      },
+      {
+        "adult": true,
+        "gender": 1,
+        "id": 1410027,
+        "known_for_department": "Acting",
+        "name": "Nathalie Zeiger",
+        "original_name": "Nathalie Zeiger",
+        "popularity": 0,
+        "profile_path": "/gI4U1nbUtAnCdvywvSXW02isUBe.jpg",
+        "cast_id": 11,
+        "character": "Soeur Maria",
+        "credit_id": "581f14379251412562003690",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1352,
+        "known_for_department": "Acting",
+        "name": "Jean-Louis Trintignant",
+        "original_name": "Jean-Louis Trintignant",
+        "popularity": 0.9204,
+        "profile_path": "/wn6owr4wvkeaEvlsPtwXSldFGEW.jpg",
+        "cast_id": 12,
+        "character": "The Police Commissioner",
+        "credit_id": "581f1447c3a36860b100389d",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 35842,
+        "known_for_department": "Production",
+        "name": "Hubert Niogret",
+        "original_name": "Hubert Niogret",
+        "popularity": 0.1259,
+        "profile_path": null,
+        "cast_id": 13,
+        "character": "The Photographer (uncredited)",
+        "credit_id": "581f1462c3a3685afd00384e",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 34590,
+        "known_for_department": "Writing",
+        "name": "Alain Robbe-Grillet",
+        "original_name": "Alain Robbe-Grillet",
+        "popularity": 0.2531,
+        "profile_path": "/dXO2IUNFFTMHhvA0f1BljX7L5hc.jpg",
+        "cast_id": 14,
+        "character": "Un Passant dans la Rue (uncredited)",
+        "credit_id": "581f1472925141279a00375b",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 118981,
+        "known_for_department": "Acting",
+        "name": "Catherine Robbe-Grillet",
+        "original_name": "Catherine Robbe-Grillet",
+        "popularity": 0.2794,
+        "profile_path": "/bFBDsc8GjwMLS1SD90G4mwihGRM.jpg",
+        "cast_id": 15,
+        "character": "Une Soeur dans la Rue (uncredited)",
+        "credit_id": "581f1482c3a3685d4a003877",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1079304,
+        "known_for_department": "Acting",
+        "name": "Frank Verpillat",
+        "original_name": "Frank Verpillat",
+        "popularity": 0.0389,
+        "profile_path": null,
+        "cast_id": 16,
+        "character": "L'Homme Qui Ouvre la Porte (uncredited)",
+        "credit_id": "581f1490c3a3685ef2003537",
+        "order": 12
+      },
+      {
+        "adult": true,
+        "gender": 2,
+        "id": 1295712,
+        "known_for_department": "Editing",
+        "name": "Bob Wade",
+        "original_name": "Bob Wade",
+        "popularity": 0,
+        "profile_path": null,
+        "cast_id": 17,
+        "character": "Le Fossoyeur (uncredited)",
+        "credit_id": "581f149e925141279a00378c",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 39953,
+        "known_for_department": "Acting",
+        "name": "Jean Martin",
+        "original_name": "Jean Martin",
+        "popularity": 0.4991,
+        "profile_path": "/f7J7ItHt6AHz8z2PQuWpdH0lCHz.jpg",
+        "cast_id": 32,
+        "character": "The Priest",
+        "credit_id": "5b6833cc925141404f0ae02a",
+        "order": 14
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 34590,
+        "known_for_department": "Writing",
+        "name": "Alain Robbe-Grillet",
+        "original_name": "Alain Robbe-Grillet",
+        "popularity": 0.2531,
+        "profile_path": "/dXO2IUNFFTMHhvA0f1BljX7L5hc.jpg",
+        "credit_id": "52fe498cc3a368484e130e99",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 34590,
+        "known_for_department": "Writing",
+        "name": "Alain Robbe-Grillet",
+        "original_name": "Alain Robbe-Grillet",
+        "popularity": 0.2531,
+        "profile_path": "/dXO2IUNFFTMHhvA0f1BljX7L5hc.jpg",
+        "credit_id": "52fe498cc3a368484e130e9f",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": true,
+        "gender": 2,
+        "id": 1295712,
+        "known_for_department": "Editing",
+        "name": "Bob Wade",
+        "original_name": "Bob Wade",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "581f14e79251412846003a3b",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1704907,
+        "known_for_department": "Production",
+        "name": "André Cohen",
+        "original_name": "André Cohen",
+        "popularity": 0.0387,
+        "profile_path": null,
+        "credit_id": "581f14b7c3a36860b900378d",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1180669,
+        "known_for_department": "Camera",
+        "name": "Yves Lafaye",
+        "original_name": "Yves Lafaye",
+        "popularity": 0.5721,
+        "profile_path": null,
+        "credit_id": "581f14db925141279a0037cb",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 35842,
+        "known_for_department": "Production",
+        "name": "Hubert Niogret",
+        "original_name": "Hubert Niogret",
+        "popularity": 0.1259,
+        "profile_path": null,
+        "credit_id": "581f14f39251412562003741",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1274143,
+        "known_for_department": "Sound",
+        "name": "Michel Fano",
+        "original_name": "Michel Fano",
+        "popularity": 0.0935,
+        "profile_path": "/tXtNhEVoJRO2mHYZIA6eHC3EOjO.jpg",
+        "credit_id": "581f1524c3a3685ef20035c5",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1079304,
+        "known_for_department": "Acting",
+        "name": "Frank Verpillat",
+        "original_name": "Frank Verpillat",
+        "popularity": 0.0389,
+        "profile_path": null,
+        "credit_id": "581f1509c3a3685fe600407c",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 35841,
+        "known_for_department": "Directing",
+        "name": "Luc Béraud",
+        "original_name": "Luc Béraud",
+        "popularity": 0.2932,
+        "profile_path": "/p7X4hHuDtkDc6hCbXbBlZSJZPG1.jpg",
+        "credit_id": "581f14fec3a3685faa0032c5",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": true,
+        "gender": 0,
+        "id": 1438098,
+        "known_for_department": "Directing",
+        "name": "Jacques Orth",
+        "original_name": "Jacques Orth",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "581f151892514127e30038a2",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1704908,
+        "known_for_department": "Production",
+        "name": "Marcel Sébaoun",
+        "original_name": "Marcel Sébaoun",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "581f14c3c3a3685d4a0038b1",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 118981,
+        "known_for_department": "Acting",
+        "name": "Catherine Robbe-Grillet",
+        "original_name": "Catherine Robbe-Grillet",
+        "popularity": 0.2794,
+        "profile_path": "/bFBDsc8GjwMLS1SD90G4mwihGRM.jpg",
+        "credit_id": "581f1540925141279a003823",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1274143,
+        "known_for_department": "Sound",
+        "name": "Michel Fano",
+        "original_name": "Michel Fano",
+        "popularity": 0.0935,
+        "profile_path": "/tXtNhEVoJRO2mHYZIA6eHC3EOjO.jpg",
+        "credit_id": "581f14cfc3a36860c90036b4",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": true,
+        "gender": 2,
+        "id": 1599521,
+        "known_for_department": "Sound",
+        "name": "Jean-Philippe Le Roux",
+        "original_name": "Jean-Philippe Le Roux",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "581f1532c3a3685faa0032fa",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1704909,
+        "known_for_department": "Lighting",
+        "name": "Jean-Pierre Dabosville",
+        "original_name": "Jean-Pierre Dabosville",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "581f155ac3a3685ef20035f4",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1636683,
+        "known_for_department": "Editing",
+        "name": "Martine Rousseau",
+        "original_name": "Martine Rousseau",
+        "popularity": 0.1332,
+        "profile_path": null,
+        "credit_id": "581f154dc3a3685afd003939",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2208941,
+        "known_for_department": "Camera",
+        "name": "André Canda",
+        "original_name": "André Canda",
+        "popularity": 0.0239,
+        "profile_path": null,
+        "credit_id": "5f8cd6a7eb79c200390f1f56",
+        "department": "Camera",
+        "job": "Key Grip"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2820759,
+        "known_for_department": "Camera",
+        "name": "Michèle Ferrand-Lafaye",
+        "original_name": "Michèle Ferrand-Lafaye",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "5f8cd6c1397df0003958ab21",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "CN",
+        "title": "欲念浮动",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "TW",
+        "title": "名模疑雲",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "BR",
+        "title": "Deslizamentos Progressivos do Prazer",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "DE",
+        "title": "Das beständige Gleiten der Begierde",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "IT",
+        "title": "Spostamenti progressivi del piacere",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "PT",
+        "title": "Caminhos do prazer",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "ES",
+        "title": "Deslizamientos progresivos del placer",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "SE",
+        "title": "Lustans gradvisa glidningar",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "CA",
+        "title": "Glissements progressifs du plaisir",
+        "type": ""
+      }
+    ]
+  }
+}

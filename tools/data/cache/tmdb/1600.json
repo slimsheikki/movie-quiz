@@ -1,0 +1,911 @@
+{
+  "adult": false,
+  "backdrop_path": "/vjsFyeCf5W5rxCFpS9MIAEZJkIG.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ],
+  "homepage": "",
+  "id": 1600,
+  "imdb_id": "tt0101765",
+  "origin_country": [
+    "PL",
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "La Double Vie de Véronique",
+  "overview": "Véronique is a beautiful young French woman who aspires to be a renowned singer; Weronika lives in Poland, has a similar career goal and looks identical to Véronique, though the two are not related. The film follows both women as they contend with the ups and downs of their individual lives, with Véronique embarking on an unusual romance with Alexandre Fabbri, a puppeteer who may be able to help her with her existential issues.",
+  "popularity": 1.744,
+  "poster_path": "/oqRyO9xrNBRaxqF9pCHHgLuaATx.jpg",
+  "production_companies": [
+    {
+      "id": 63751,
+      "logo_path": null,
+      "name": "Sidéral Productions",
+      "origin_country": "FR"
+    },
+    {
+      "id": 12984,
+      "logo_path": null,
+      "name": "Norsk Film",
+      "origin_country": "NO"
+    },
+    {
+      "id": 38,
+      "logo_path": "/oZyTaSTMP9LMB6BTzPDv3q4oyMj.png",
+      "name": "Studio Filmowe Tor",
+      "origin_country": "PL"
+    },
+    {
+      "id": 183,
+      "logo_path": "/eadyph99FClrWlnE0jPniwOcvvw.png",
+      "name": "Le Studio Canal+",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "NO",
+      "name": "Norway"
+    },
+    {
+      "iso_3166_1": "PL",
+      "name": "Poland"
+    }
+  ],
+  "release_date": "1991-05-15",
+  "revenue": 1999955,
+  "runtime": 98,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    },
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    },
+    {
+      "english_name": "Polish",
+      "iso_639_1": "pl",
+      "name": "Polski"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Each of us is matched somewhere in the world, by our exact double - someone who shares our thoughts and dreams.",
+  "title": "The Double Life of Véronique",
+  "video": false,
+  "vote_average": 7.5,
+  "vote_count": 899,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1350,
+        "known_for_department": "Acting",
+        "name": "Irène Jacob",
+        "original_name": "Irène Jacob",
+        "popularity": 1.437,
+        "profile_path": "/yDpLjFtglSDlq3pvITr7O5AQfvg.jpg",
+        "cast_id": 21,
+        "character": "Weronika / Véronique",
+        "credit_id": "52fe4303c3a36847f8033ef1",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 17888,
+        "known_for_department": "Acting",
+        "name": "Halina Gryglaszewska",
+        "original_name": "Halina Gryglaszewska",
+        "popularity": 0.1357,
+        "profile_path": "/sx6WP8WhHsiRJKBavxYSxiEgXz7.jpg",
+        "cast_id": 1,
+        "character": "Auntie",
+        "credit_id": "52fe4303c3a36847f8033ea1",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1142,
+        "known_for_department": "Acting",
+        "name": "Philippe Volter",
+        "original_name": "Philippe Volter",
+        "popularity": 0.543,
+        "profile_path": "/64YFCcB1D6FfPV7WE8OTEf2WP2V.jpg",
+        "cast_id": 7,
+        "character": "Alexandre Fabbri",
+        "credit_id": "52fe4303c3a36847f8033eb9",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 17896,
+        "known_for_department": "Acting",
+        "name": "Guillaume de Tonquédec",
+        "original_name": "Guillaume de Tonquédec",
+        "popularity": 0.4613,
+        "profile_path": "/mDPeqkKJgFMiH60gH32VTwgOHSp.jpg",
+        "cast_id": 12,
+        "character": "Serge",
+        "credit_id": "52fe4303c3a36847f8033ecd",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 7109,
+        "known_for_department": "Acting",
+        "name": "Kalina Jędrusik",
+        "original_name": "Kalina Jędrusik",
+        "popularity": 0.1744,
+        "profile_path": "/kdBsBNm2hbzKnejkNfJ9spNyKUg.jpg",
+        "cast_id": 2,
+        "character": "Crazy Woman",
+        "credit_id": "52fe4303c3a36847f8033ea5",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1149,
+        "known_for_department": "Acting",
+        "name": "Aleksander Bardini",
+        "original_name": "Aleksander Bardini",
+        "popularity": 0.2846,
+        "profile_path": "/v816A7dBF8OFMyuofAYvBo9maZr.jpg",
+        "cast_id": 3,
+        "character": "Conductor",
+        "credit_id": "52fe4303c3a36847f8033ea9",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 17889,
+        "known_for_department": "Acting",
+        "name": "Władysław Kowalski",
+        "original_name": "Władysław Kowalski",
+        "popularity": 0.2316,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "Weronika's Father",
+        "credit_id": "52fe4303c3a36847f8033ead",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 17890,
+        "known_for_department": "Acting",
+        "name": "Jerzy Gudejko",
+        "original_name": "Jerzy Gudejko",
+        "popularity": 0.1304,
+        "profile_path": "/gRtUVcIuQOnngorj609shEBZosU.jpg",
+        "cast_id": 5,
+        "character": "Antek",
+        "credit_id": "52fe4303c3a36847f8033eb1",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 17891,
+        "known_for_department": "Acting",
+        "name": "Janusz Sterninski",
+        "original_name": "Janusz Sterninski",
+        "popularity": 0.0527,
+        "profile_path": null,
+        "cast_id": 6,
+        "character": "Lawyer",
+        "credit_id": "52fe4303c3a36847f8033eb5",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 17892,
+        "known_for_department": "Acting",
+        "name": "Sandrine Dumas",
+        "original_name": "Sandrine Dumas",
+        "popularity": 0.3876,
+        "profile_path": "/2zgcukScZ9jqtdHhdREf9PmPn08.jpg",
+        "cast_id": 8,
+        "character": "Catherine",
+        "credit_id": "52fe4303c3a36847f8033ebd",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 17893,
+        "known_for_department": "Acting",
+        "name": "Louis Ducreux",
+        "original_name": "Louis Ducreux",
+        "popularity": 0.2547,
+        "profile_path": "/rTgfxPZn9a2pPpXcP9PGeiPpMHB.jpg",
+        "cast_id": 9,
+        "character": "Professor",
+        "credit_id": "52fe4303c3a36847f8033ec1",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 17894,
+        "known_for_department": "Acting",
+        "name": "Claude Duneton",
+        "original_name": "Claude Duneton",
+        "popularity": 0.221,
+        "profile_path": "/9rXxZtykBGKc7On67xkkxlFlLWf.jpg",
+        "cast_id": 10,
+        "character": "Véronique's Father",
+        "credit_id": "52fe4303c3a36847f8033ec5",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 17895,
+        "known_for_department": "Acting",
+        "name": "Lorraine Evanoff",
+        "original_name": "Lorraine Evanoff",
+        "popularity": 0.0657,
+        "profile_path": "/yK6cfhLfvfemR0v0qvnrxezHB4U.jpg",
+        "cast_id": 11,
+        "character": "Claude",
+        "credit_id": "52fe4303c3a36847f8033ec9",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 17897,
+        "known_for_department": "Acting",
+        "name": "Gilles Gaston-Dreyfus",
+        "original_name": "Gilles Gaston-Dreyfus",
+        "popularity": 0.2009,
+        "profile_path": "/gqXFUdM162eGPRz9zYbGSx6b1qv.jpg",
+        "cast_id": 13,
+        "character": "Jean-Pierre",
+        "credit_id": "52fe4303c3a36847f8033ed1",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 17898,
+        "known_for_department": "Acting",
+        "name": "Alain Frérot",
+        "original_name": "Alain Frérot",
+        "popularity": 0.1279,
+        "profile_path": "/zVNKKRmaVWHOJmSpSm82HmF2IQP.jpg",
+        "cast_id": 14,
+        "character": "Factor",
+        "credit_id": "52fe4303c3a36847f8033ed5",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 17899,
+        "known_for_department": "Acting",
+        "name": "Youssef Hamid",
+        "original_name": "Youssef Hamid",
+        "popularity": 0.0732,
+        "profile_path": "/8Vn1flCfZn8HFsrHEsvywanxSZa.jpg",
+        "cast_id": 15,
+        "character": "Cheminot",
+        "credit_id": "52fe4303c3a36847f8033ed9",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 17900,
+        "known_for_department": "Acting",
+        "name": "Thierry de Carbonnières",
+        "original_name": "Thierry de Carbonnières",
+        "popularity": 0.0651,
+        "profile_path": "/w98IdgknDBJOnSZpA3Q63FUDOrl.jpg",
+        "cast_id": 16,
+        "character": "Professor",
+        "credit_id": "52fe4303c3a36847f8033edd",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 17901,
+        "known_for_department": "Acting",
+        "name": "Chantal Neuwirth",
+        "original_name": "Chantal Neuwirth",
+        "popularity": 0.3211,
+        "profile_path": "/77sFWks8GXwZGNq2l8T7wFnVfOp.jpg",
+        "cast_id": 17,
+        "character": "Receptionist",
+        "credit_id": "52fe4303c3a36847f8033ee1",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 17902,
+        "known_for_department": "Acting",
+        "name": "Nausicaa Rampony",
+        "original_name": "Nausicaa Rampony",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "cast_id": 18,
+        "character": "Nicole",
+        "credit_id": "52fe4303c3a36847f8033ee5",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 17903,
+        "known_for_department": "Acting",
+        "name": "Bogusława Schubert",
+        "original_name": "Bogusława Schubert",
+        "popularity": 0.099,
+        "profile_path": null,
+        "cast_id": 19,
+        "character": "Woman with the Hat",
+        "credit_id": "52fe4303c3a36847f8033ee9",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 17904,
+        "known_for_department": "Acting",
+        "name": "Jacques Potin",
+        "original_name": "Jacques Potin",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 20,
+        "character": "Man in the Gray Coat",
+        "credit_id": "52fe4303c3a36847f8033eed",
+        "order": 20
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1129,
+        "known_for_department": "Camera",
+        "name": "Sławomir Idziak",
+        "original_name": "Sławomir Idziak",
+        "popularity": 0.3017,
+        "profile_path": "/rVoKnrrzWEFsOsNGV43MxAFY3wr.jpg",
+        "credit_id": "52fe4303c3a36847f8033f0f",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1136,
+        "known_for_department": "Editing",
+        "name": "Jacques Witta",
+        "original_name": "Jacques Witta",
+        "popularity": 0.0281,
+        "profile_path": "/gtYgtpEyipHtEDK6RkWxooiVynQ.jpg",
+        "credit_id": "52fe4303c3a36847f8033f15",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 34433,
+        "known_for_department": "Production",
+        "name": "Caroline Castelain",
+        "original_name": "Caroline Castelain",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "52fe4303c3a36847f8033f27",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6423,
+        "known_for_department": "Production",
+        "name": "Leonardo De La Fuente",
+        "original_name": "Leonardo De La Fuente",
+        "popularity": 0.1208,
+        "profile_path": null,
+        "credit_id": "52fe4303c3a36847f8033f03",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1135,
+        "known_for_department": "Sound",
+        "name": "Zbigniew Preisner",
+        "original_name": "Zbigniew Preisner",
+        "popularity": 0.2142,
+        "profile_path": "/rHlfssE6OSVWQrTxNr7SJsSvi1.jpg",
+        "credit_id": "52fe4303c3a36847f8033f09",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1126,
+        "known_for_department": "Directing",
+        "name": "Krzysztof Kieślowski",
+        "original_name": "Krzysztof Kieślowski",
+        "popularity": 0.8788,
+        "profile_path": "/vOgq6ojWQturbj0XLL9ryBL0V4r.jpg",
+        "credit_id": "52fe4303c3a36847f8033ef7",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1126,
+        "known_for_department": "Directing",
+        "name": "Krzysztof Kieślowski",
+        "original_name": "Krzysztof Kieślowski",
+        "popularity": 0.8788,
+        "profile_path": "/vOgq6ojWQturbj0XLL9ryBL0V4r.jpg",
+        "credit_id": "52fe4303c3a36847f8033efd",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 10471,
+        "known_for_department": "Production",
+        "name": "Margot Capelier",
+        "original_name": "Margot Capelier",
+        "popularity": 0.2543,
+        "profile_path": null,
+        "credit_id": "52fe4303c3a36847f8033f21",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 34432,
+        "known_for_department": "Art",
+        "name": "Patrice Mercier",
+        "original_name": "Patrice Mercier",
+        "popularity": 0.0327,
+        "profile_path": null,
+        "credit_id": "52fe4303c3a36847f8033f1b",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1497634,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Elżbieta Radke",
+        "original_name": "Elżbieta Radke",
+        "popularity": 0.1305,
+        "profile_path": "/A4V6MF0RGijVFMFXZjVdcy090jc.jpg",
+        "credit_id": "571c87bfc3a3684e62000b8b",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1599531,
+        "known_for_department": "Directing",
+        "name": "Christine Raffa-Catonné",
+        "original_name": "Christine Raffa-Catonné",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "credit_id": "571c87e5c3a368431500008a",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1610034,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Claudia Fellous",
+        "original_name": "Claudia Fellous",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "571c87ad92514132d700005b",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1307061,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Laurence Brignon",
+        "original_name": "Laurence Brignon",
+        "popularity": 0.0682,
+        "profile_path": null,
+        "credit_id": "571c879d92514132d7000056",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1551401,
+        "known_for_department": "Sound",
+        "name": "Jack Jullian",
+        "original_name": "Jack Jullian",
+        "popularity": 0.0964,
+        "profile_path": null,
+        "credit_id": "571c88669251414a87000d6f",
+        "department": "Sound",
+        "job": "Foley"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1610035,
+        "known_for_department": "Camera",
+        "name": "Monika Jeziorowska",
+        "original_name": "Monika Jeziorowska",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "571c8808925141342b000064",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1537880,
+        "known_for_department": "Sound",
+        "name": "Mario Melchiorri",
+        "original_name": "Mario Melchiorri",
+        "popularity": 0.1307,
+        "profile_path": null,
+        "credit_id": "571c888e92514115e20023d4",
+        "department": "Sound",
+        "job": "Foley"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1399994,
+        "known_for_department": "Sound",
+        "name": "Jean-Pierre Lelong",
+        "original_name": "Jean-Pierre Lelong",
+        "popularity": 0.1081,
+        "profile_path": null,
+        "credit_id": "571c887692514151b1000d31",
+        "department": "Sound",
+        "job": "Foley"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 589981,
+        "known_for_department": "Sound",
+        "name": "William Flageollet",
+        "original_name": "William Flageollet",
+        "popularity": 0.0823,
+        "profile_path": "/3mmM7JUMOnN28K7eWF4Btpp50h2.jpg",
+        "credit_id": "571c88cb92514121a0005cc0",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1610038,
+        "known_for_department": "Sound",
+        "name": "Edith Vassard",
+        "original_name": "Edith Vassard",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "571c88b4c3a3684e98000ba7",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1132,
+        "known_for_department": "Writing",
+        "name": "Krzysztof Piesiewicz",
+        "original_name": "Krzysztof Piesiewicz",
+        "popularity": 0.2674,
+        "profile_path": "/uFJXZtw0g9wzYmPfXMTYQ3vaT6k.jpg",
+        "credit_id": "571c8928c3a36838cd000cef",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1610039,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Iwona Karpińska",
+        "original_name": "Iwona Karpińska",
+        "popularity": 0.0379,
+        "profile_path": null,
+        "credit_id": "571c88e4925141342b000096",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1610042,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Agnès Tassel",
+        "original_name": "Agnès Tassel",
+        "popularity": 0.178,
+        "profile_path": "/l8ELVHIbfvNYMvigBKCiWctNf4U.jpg",
+        "credit_id": "571c890592514151b1000d4c",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1610040,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Jolanta Stachecka",
+        "original_name": "Jolanta Stachecka",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "571c88f4925141345d0000a1",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1610037,
+        "known_for_department": "Sound",
+        "name": "Michèle Catonné",
+        "original_name": "Michèle Catonné",
+        "popularity": 0.0261,
+        "profile_path": null,
+        "credit_id": "571c88a0c3a3684e98000b9d",
+        "department": "Sound",
+        "job": "Sound Editor"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "CN",
+        "title": "薇罗尼卡的双重生命",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "CN",
+        "title": "薇洛妮卡的双重生活",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "CN",
+        "title": "双面薇若妮卡",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "CN",
+        "title": "今世今生",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "TR",
+        "title": "Veronique'nin Çifte Yasami",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "RU",
+        "title": "Двойная жизнь Yероники",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "JP",
+        "title": "Futari no Beronika",
+        "type": "transliteration"
+      },
+      {
+        "iso_3166_1": "BG",
+        "title": "Двойнственият живот на Вероника",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "KR",
+        "title": "베로니카의 이중생활",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "CN",
+        "title": "两生花",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "PL",
+        "title": "Podwójne życie Weroniki",
+        "type": "alternative title"
+      },
+      {
+        "iso_3166_1": "UA",
+        "title": "Подвійне життя Вероніки",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "GR",
+        "title": "Η διπλή ζωή της Βερόνικα",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "ES",
+        "title": "La doble vida de Verònica",
+        "type": "literal Catalan title"
+      },
+      {
+        "iso_3166_1": "IR",
+        "title": "زندگی دوگانه ورونیکا",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "JP",
+        "title": "ふたりのベロニカ",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "BY",
+        "title": "Падвойнае жыццё Веранікі",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "DE",
+        "title": "Die zwei Leben der Veronika",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "ES",
+        "title": "La doble vida de Verónica",
+        "type": "Castilian title"
+      },
+      {
+        "iso_3166_1": "SA",
+        "title": "الحياة المزدوجة لفيروينك",
+        "type": "Arabic title"
+      },
+      {
+        "iso_3166_1": "IT",
+        "title": "La doppia vita di Veronica",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "YU",
+        "title": "La Double Vie de Véronique",
+        "type": "Serbo-Croatian title"
+      },
+      {
+        "iso_3166_1": "FI",
+        "title": "Veronikan kaksoiselämä",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "SE",
+        "title": "Veronikas dubbelliv",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "MK",
+        "title": "Двојниот живот на Вероника",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "PT",
+        "title": "A Dupla Vida de Véronique",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "BR",
+        "title": "A Dupla Vida de Véronique",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "NL",
+        "title": "La Double Vie de Véronique",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "RS",
+        "title": "Вероникин двоструки живот",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "DK",
+        "title": "Veronikas to liv",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "LV",
+        "title": "Veronikas dubultā dzīve",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "NO",
+        "title": "Veronikas to liv",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "RO",
+        "title": "Viața dublă a Veronicăi",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "TR",
+        "title": "Véronique'in İkili Yaşamı",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "GE",
+        "title": "ვერონიკას ორმაგი ცხოვრება",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "IS",
+        "title": "Tvöfalt líf Veróniku",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "CZ",
+        "title": "Dvojí život Veroniky",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "MY",
+        "title": "The Double Life of Veronique",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "VN",
+        "title": "Cuộc đời đôi của Weronika",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "GB",
+        "title": "The Double Life of Veronique",
+        "type": ""
+      }
+    ]
+  }
+}

@@ -1,0 +1,475 @@
+{
+  "adult": false,
+  "backdrop_path": "/6e8imtseSLcBqahZ1bqT25WGiaC.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ],
+  "homepage": "",
+  "id": 114885,
+  "imdb_id": "tt0189092",
+  "origin_country": [
+    "HU"
+  ],
+  "original_language": "hu",
+  "original_title": "Simon mágus",
+  "overview": "A crime is committed in Paris, and the police are clueless. They call in Simon, a sorcerer with supernatural powers. whilst in Paris, Simon falls in love with Jeanne, although they do not speak each other's language. When Jeanne leaves for a couple of days, Peter, another visionary, calls Simon for a duel: They both have to spend three days buried alive. Will Simon ever meet his love again?",
+  "popularity": 0.2623,
+  "poster_path": "/Ao8jbLXoPK07lbBqPo66KaHOeGT.jpg",
+  "production_companies": [
+    {
+      "id": 1870,
+      "logo_path": null,
+      "name": "Alhena Films",
+      "origin_country": ""
+    },
+    {
+      "id": 304,
+      "logo_path": null,
+      "name": "Artcam y Fonds Sud Cinéma",
+      "origin_country": ""
+    },
+    {
+      "id": 1655,
+      "logo_path": null,
+      "name": "Új Budapest Filmstudió",
+      "origin_country": "HU"
+    },
+    {
+      "id": 3505,
+      "logo_path": null,
+      "name": "Eurofilm",
+      "origin_country": ""
+    },
+    {
+      "id": 6744,
+      "logo_path": null,
+      "name": "Magyar Televízió Müvelödési Föszerkesztöség (MTV)",
+      "origin_country": "HU"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "HU",
+      "name": "Hungary"
+    },
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "1999-09-17",
+  "revenue": 0,
+  "runtime": 100,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Hungarian",
+      "iso_639_1": "hu",
+      "name": "Magyar"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The Magical Power of Love",
+  "title": "Simon, the Magician",
+  "video": false,
+  "vote_average": 6.375,
+  "vote_count": 8,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 125763,
+        "known_for_department": "Acting",
+        "name": "Péter Andorai",
+        "original_name": "Andorai Péter",
+        "popularity": 0.1722,
+        "profile_path": "/wu7abYOqJGwnB1MB7uiwjcheJhj.jpg",
+        "cast_id": 1,
+        "character": "Simon",
+        "credit_id": "52fe4b5ac3a36847f81ffad7",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 583223,
+        "known_for_department": "Acting",
+        "name": "Julie Delarme",
+        "original_name": "Julie Delarme",
+        "popularity": 0.5452,
+        "profile_path": "/wdI9PGr7SFmU9oxVpqYhpowVYHM.jpg",
+        "cast_id": 2,
+        "character": "Jeanne",
+        "credit_id": "52fe4b5ac3a36847f81ffadb",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 143572,
+        "known_for_department": "Acting",
+        "name": "Péter Halász",
+        "original_name": "Péter Halász",
+        "popularity": 0.1035,
+        "profile_path": "/xEtps7K1dVhuDZWqqciRfbLbUv4.jpg",
+        "cast_id": 3,
+        "character": "Péter",
+        "credit_id": "52fe4b5ac3a36847f81ffadf",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5418,
+        "known_for_department": "Acting",
+        "name": "Hubert Koundé",
+        "original_name": "Hubert Koundé",
+        "popularity": 0.4715,
+        "profile_path": "/nii46CtpR2AYPkl8fBKtbrffqQg.jpg",
+        "cast_id": 7,
+        "character": "Paul",
+        "credit_id": "58e50a79c3a368730202bce0",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 992809,
+        "known_for_department": "Acting",
+        "name": "Mari Nagy",
+        "original_name": "Nagy Mari",
+        "popularity": 0.1689,
+        "profile_path": "/t1rtQvZNrcnbEmnBe7MDgKjgppV.jpg",
+        "cast_id": 8,
+        "character": "Interpreter",
+        "credit_id": "58e50ac892514127f002f79c",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1278448,
+        "known_for_department": "Acting",
+        "name": "Hervé Dubourjal",
+        "original_name": "Hervé Dubourjal",
+        "popularity": 0.0416,
+        "profile_path": "/5z91g3dnH8pYBlCiXvg58xqN5Xi.jpg",
+        "cast_id": 9,
+        "character": "Prefect",
+        "credit_id": "58e50ae592514179de021a66",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2410,
+        "known_for_department": "Acting",
+        "name": "Serge Merlin",
+        "original_name": "Serge Merlin",
+        "popularity": 0.4772,
+        "profile_path": "/90Kwb8hfORDXcEeA1lzikAubcQe.jpg",
+        "cast_id": 10,
+        "character": "Doctor",
+        "credit_id": "58e50afac3a3684aa401f443",
+        "order": 6
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1059880,
+        "known_for_department": "Directing",
+        "name": "Ildikó Enyedi",
+        "original_name": "Enyedi Ildikó",
+        "popularity": 0.4472,
+        "profile_path": "/1kU6MLhnizfBJuTj4gfz03euz2k.jpg",
+        "credit_id": "52fe4b5ac3a36847f81ffae5",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1059880,
+        "known_for_department": "Directing",
+        "name": "Ildikó Enyedi",
+        "original_name": "Enyedi Ildikó",
+        "popularity": 0.4472,
+        "profile_path": "/1kU6MLhnizfBJuTj4gfz03euz2k.jpg",
+        "credit_id": "52fe4b5ac3a36847f81ffaeb",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1038549,
+        "known_for_department": "Sound",
+        "name": "János Másik",
+        "original_name": "Másik János",
+        "popularity": 0.1323,
+        "profile_path": "/1MdkD9lIcH3y38Fql6PdiUcixkn.jpg",
+        "credit_id": "596d3d6fc3a368717b000092",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1059882,
+        "known_for_department": "Camera",
+        "name": "Tibor Máthé",
+        "original_name": "Máthé Tibor",
+        "popularity": 0.0552,
+        "profile_path": null,
+        "credit_id": "596d3d37c3a36871d000005d",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 37317,
+        "known_for_department": "Sound",
+        "name": "Brian Eno",
+        "original_name": "Brian Eno",
+        "popularity": 0.2711,
+        "profile_path": "/ewVL60UWZxKyT0FpCh8lfowkkhL.jpg",
+        "credit_id": "596d3d659251412235000074",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1853404,
+        "known_for_department": "Production",
+        "name": "Marie Trénége",
+        "original_name": "Marie Trénége",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "596d3d9dc3a36871920000c9",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1853403,
+        "known_for_department": "Production",
+        "name": "Imre Bodo",
+        "original_name": "Imre Bodo",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "596d3d92c3a36871dd0000a1",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1581141,
+        "known_for_department": "Production",
+        "name": "Arnaud Esterez",
+        "original_name": "Arnaud Esterez",
+        "popularity": 0.0612,
+        "profile_path": null,
+        "credit_id": "596d3d5392514122140000a0",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1853401,
+        "known_for_department": "Sound",
+        "name": "Plank Cluger",
+        "original_name": "Plank Cluger",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "596d3d5c925141221900009d",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1853402,
+        "known_for_department": "Sound",
+        "name": "Jah Boble Spinner",
+        "original_name": "Jah Boble Spinner",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "596d3d7a92514122140000c7",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1451065,
+        "known_for_department": "Editing",
+        "name": "Mária Rigó",
+        "original_name": "Mária Rigó",
+        "popularity": 0.0905,
+        "profile_path": null,
+        "credit_id": "596d3d4a9251412214000096",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1752515,
+        "known_for_department": "Production",
+        "name": "Elise Jalladeau",
+        "original_name": "Elise Jalladeau",
+        "popularity": 0.1109,
+        "profile_path": null,
+        "credit_id": "6452566c091e6201864fd344",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1183787,
+        "known_for_department": "Directing",
+        "name": "Ferenc Kardos",
+        "original_name": "Ferenc Kardos",
+        "popularity": 0.1038,
+        "profile_path": null,
+        "credit_id": "6452564e091e6201864fd32e",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 52378,
+        "known_for_department": "Production",
+        "name": "Péter Miskolczi",
+        "original_name": "Péter Miskolczi",
+        "popularity": 0.1081,
+        "profile_path": null,
+        "credit_id": "64525676c044290101612b50",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 23403,
+        "known_for_department": "Production",
+        "name": "Chris Bolzli",
+        "original_name": "Chris Bolzli",
+        "popularity": 0.1288,
+        "profile_path": null,
+        "credit_id": "64525645c044290143e2bb13",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1925348,
+        "known_for_department": "Production",
+        "name": "Jolán Árvai",
+        "original_name": "Jolán Árvai",
+        "popularity": 0.0363,
+        "profile_path": "/l3ojsmkwxl9rC2KZHD9Uzs7vEBS.jpg",
+        "credit_id": "6452567d33ad8f0155468b56",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1752514,
+        "known_for_department": "Production",
+        "name": "Juliette Grandmont",
+        "original_name": "Juliette Grandmont",
+        "popularity": 0.0239,
+        "profile_path": null,
+        "credit_id": "64525656d48cee0119a0786c",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1059880,
+        "known_for_department": "Directing",
+        "name": "Ildikó Enyedi",
+        "original_name": "Enyedi Ildikó",
+        "popularity": 0.4472,
+        "profile_path": "/1kU6MLhnizfBJuTj4gfz03euz2k.jpg",
+        "credit_id": "6452565dd48cee0153ec8dc2",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 255050,
+        "known_for_department": "Directing",
+        "name": "Joël Farges",
+        "original_name": "Joël Farges",
+        "popularity": 0.138,
+        "profile_path": null,
+        "credit_id": "64525665d8f44e0daf4a5308",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4847,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Claire Fraisse",
+        "original_name": "Claire Fraisse",
+        "popularity": 0.0853,
+        "profile_path": null,
+        "credit_id": "5fbb1fa78d22fc003f7ccfdb",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1487475,
+        "known_for_department": "Art",
+        "name": "Danka Semenovicz",
+        "original_name": "Danka Semenovicz",
+        "popularity": 0.0429,
+        "profile_path": null,
+        "credit_id": "5fbb1f9fa2d2e9003e8e0a52",
+        "department": "Art",
+        "job": "Production Design"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  }
+}

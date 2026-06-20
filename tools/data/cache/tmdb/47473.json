@@ -1,0 +1,743 @@
+{
+  "adult": false,
+  "backdrop_path": "/UfbtXEm4FopWpqBZVLOCOMjsnr.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 47473,
+  "imdb_id": "tt0044060",
+  "origin_country": [
+    "SE"
+  ],
+  "original_language": "sv",
+  "original_title": "Sommarlek",
+  "overview": "During a brief summer vacation, a lonely woman recalls her first love thirteen years earlier.",
+  "popularity": 0.489,
+  "poster_path": "/3Yl2nPAzBcygds63L6yf4g7I2k8.jpg",
+  "production_companies": [
+    {
+      "id": 6181,
+      "logo_path": "/gYyww91VI1jdH89xpZgFFc8zN3F.png",
+      "name": "SF Studios",
+      "origin_country": "SE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "SE",
+      "name": "Sweden"
+    }
+  ],
+  "release_date": "1951-10-01",
+  "revenue": 0,
+  "runtime": 96,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    }
+  ],
+  "status": "Released",
+  "tagline": "An intimate love story—frank, fresh, and delightful in its telling!",
+  "title": "Summer Interlude",
+  "video": false,
+  "vote_average": 7.357,
+  "vote_count": 175,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 122598,
+        "known_for_department": "Acting",
+        "name": "Maj-Britt Nilsson",
+        "original_name": "Maj-Britt Nilsson",
+        "popularity": 0.2184,
+        "profile_path": "/bQ7S95r26KhzLk41ErpRcf0qBhd.jpg",
+        "cast_id": 5,
+        "character": "Marie",
+        "credit_id": "52fe4735c3a36847f8129123",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 69656,
+        "known_for_department": "Acting",
+        "name": "Birger Malmsten",
+        "original_name": "Birger Malmsten",
+        "popularity": 0.1982,
+        "profile_path": "/gmkotgEbeYaxWDZqZMVFNh64UO.jpg",
+        "cast_id": 6,
+        "character": "Henrik",
+        "credit_id": "52fe4735c3a36847f8129127",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 131067,
+        "known_for_department": "Directing",
+        "name": "Alf Kjellin",
+        "original_name": "Alf Kjellin",
+        "popularity": 0.7414,
+        "profile_path": "/tWsHmmzOzk63podlS0kBGH9Jgz5.jpg",
+        "cast_id": 7,
+        "character": "David Nyström",
+        "credit_id": "52fe4735c3a36847f812912b",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 116506,
+        "known_for_department": "Acting",
+        "name": "Annalisa Ericson",
+        "original_name": "Annalisa Ericson",
+        "popularity": 0.1988,
+        "profile_path": "/9bheGmf9Gdd2nQB4f0xNYYabnzw.jpg",
+        "cast_id": 8,
+        "character": "Kaj",
+        "credit_id": "52fe4735c3a36847f812912f",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 550538,
+        "known_for_department": "Acting",
+        "name": "Georg Funkquist",
+        "original_name": "Georg Funkquist",
+        "popularity": 0.1685,
+        "profile_path": "/7Xt8wzCEGizus5lxPSjUilpEO1B.jpg",
+        "cast_id": 9,
+        "character": "Uncle Erland",
+        "credit_id": "52fe4735c3a36847f8129133",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 122599,
+        "known_for_department": "Acting",
+        "name": "Stig Olin",
+        "original_name": "Stig Olin",
+        "popularity": 0.1999,
+        "profile_path": "/5tUu5PHs72RIq3rcXl8LUFvjWAS.jpg",
+        "cast_id": 10,
+        "character": "Ballet instructor",
+        "credit_id": "52fe4735c3a36847f8129137",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 550539,
+        "known_for_department": "Acting",
+        "name": "Mimi Pollak",
+        "original_name": "Mimi Pollak",
+        "popularity": 0.1707,
+        "profile_path": "/bcLWIebH3c2mTxDYVIh7TVcgE94.jpg",
+        "cast_id": 11,
+        "character": "Mrs Calwagen",
+        "credit_id": "52fe4735c3a36847f812913b",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 247897,
+        "known_for_department": "Acting",
+        "name": "Renée Björling",
+        "original_name": "Renée Björling",
+        "popularity": 0.1712,
+        "profile_path": "/meUVZpKd1sZwguGWTdyKS9SPZKM.jpg",
+        "cast_id": 17,
+        "character": "Aunt Elisabeth",
+        "credit_id": "52fe4735c3a36847f812914f",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6666,
+        "known_for_department": "Acting",
+        "name": "Gunnar Olsson",
+        "original_name": "Gunnar Olsson",
+        "popularity": 0.1752,
+        "profile_path": "/zBX6RY9177eE5WXkA3bKdH5dh9t.jpg",
+        "cast_id": 13,
+        "character": "Priest",
+        "credit_id": "52fe4735c3a36847f812913f",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 213527,
+        "known_for_department": "Acting",
+        "name": "Julia Cæsar",
+        "original_name": "Julia Cæsar",
+        "popularity": 0.1486,
+        "profile_path": "/77gLueTu6HEyz9ZcBP9csK92xps.jpg",
+        "cast_id": 14,
+        "character": "Maja",
+        "credit_id": "52fe4735c3a36847f8129143",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 550540,
+        "known_for_department": "Acting",
+        "name": "John Botvid",
+        "original_name": "John Botvid",
+        "popularity": 0.2469,
+        "profile_path": "/iZfi3DCvj9gjhCb0OENh0SEIgCK.jpg",
+        "cast_id": 15,
+        "character": "Karl",
+        "credit_id": "52fe4735c3a36847f8129147",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 550140,
+        "known_for_department": "Acting",
+        "name": "Douglas Håge",
+        "original_name": "Douglas Håge",
+        "popularity": 0.1079,
+        "profile_path": "/nONT3EeIBRqp3PwkYJNero6ErYK.jpg",
+        "cast_id": 16,
+        "character": "Nisse",
+        "credit_id": "52fe4735c3a36847f812914b",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 576478,
+        "known_for_department": "Acting",
+        "name": "Torsten Lilliecrona",
+        "original_name": "Torsten Lilliecrona",
+        "popularity": 0.1516,
+        "profile_path": "/hMBJyoSFZUzFeffKR18VLAOCvWK.jpg",
+        "cast_id": 28,
+        "character": "Ljus-Pelle",
+        "credit_id": "5a9a680c92514128960199b9",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 34781,
+        "known_for_department": "Sound",
+        "name": "Eskil Eckert-Lundin",
+        "original_name": "Eskil Eckert-Lundin",
+        "popularity": 0.0484,
+        "profile_path": "/hZoJhM7PvCAmGTftiDyifBcUuvg.jpg",
+        "cast_id": 29,
+        "character": "Orchestrator at the theatre",
+        "credit_id": "5a9a6832c3a3680b5701b50f",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 557063,
+        "known_for_department": "Acting",
+        "name": "Carl Ström",
+        "original_name": "Carl Ström",
+        "popularity": 0.1053,
+        "profile_path": "/73Lp5bosUGWPs4uZU4Wm8PtRs1w.jpg",
+        "cast_id": 30,
+        "character": "Sandell",
+        "credit_id": "5a9a686792514127ea01a231",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1060552,
+        "known_for_department": "Acting",
+        "name": "Ernst Brunman",
+        "original_name": "Ernst Brunman",
+        "popularity": 0.0475,
+        "profile_path": "/vSNoWb1T9peyASiVoF60XhWIn0s.jpg",
+        "cast_id": 31,
+        "character": "The Captain",
+        "credit_id": "5a9a68840e0a26064901bf03",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 931717,
+        "known_for_department": "Acting",
+        "name": "Fylgia Zadig",
+        "original_name": "Fylgia Zadig",
+        "popularity": 0.1034,
+        "profile_path": "/wFuOPTqbVklqwML52qqGY08QQaG.jpg",
+        "cast_id": 40,
+        "character": "",
+        "credit_id": "60aa79cd699fb7002b993088",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1201807,
+        "known_for_department": "Acting",
+        "name": "Emmy Albiin",
+        "original_name": "Emmy Albiin",
+        "popularity": 0.0468,
+        "profile_path": null,
+        "cast_id": 41,
+        "character": "",
+        "credit_id": "60aa79db7f2d4a007dfff547",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 213528,
+        "known_for_department": "Acting",
+        "name": "Carl-Axel Elfving",
+        "original_name": "Carl-Axel Elfving",
+        "popularity": 0.0468,
+        "profile_path": "/gVDpOPekj78fZpiYk6OE9ROGiTT.jpg",
+        "cast_id": 42,
+        "character": "",
+        "credit_id": "60aa79e9699fb7002b993095",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 592218,
+        "known_for_department": "Acting",
+        "name": "Sten Mattsson",
+        "original_name": "Sten Mattsson",
+        "popularity": 0.1828,
+        "profile_path": null,
+        "cast_id": 43,
+        "character": "",
+        "credit_id": "60aa79f358efd30040669d92",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3097363,
+        "known_for_department": "Acting",
+        "name": "Marianne Schüler",
+        "original_name": "Marianne Schüler",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "cast_id": 44,
+        "character": "",
+        "credit_id": "60aa79fc85702e00580d9687",
+        "order": 20
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1606885,
+        "known_for_department": "Production",
+        "name": "Gösta Ström",
+        "original_name": "Gösta Ström",
+        "popularity": 0.0535,
+        "profile_path": "/6T27VdDlqvuFUWBViuJaJ7xjCxH.jpg",
+        "cast_id": 45,
+        "character": "",
+        "credit_id": "60aa7a0558efd3002797a6b2",
+        "order": 21
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3100788,
+        "known_for_department": "Acting",
+        "name": "Monique Roeger",
+        "original_name": "Monique Roeger",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 46,
+        "character": "",
+        "credit_id": "60aa7a0fede1b00040e6c8cd",
+        "order": 22
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 557062,
+        "known_for_department": "Acting",
+        "name": "Gerd Andersson",
+        "original_name": "Gerd Andersson",
+        "popularity": 0.0544,
+        "profile_path": null,
+        "cast_id": 47,
+        "character": "",
+        "credit_id": "60aa7a1c9a64c10058c6efbb",
+        "order": 23
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3100790,
+        "known_for_department": "Acting",
+        "name": "Göte Stergel",
+        "original_name": "Göte Stergel",
+        "popularity": 0,
+        "profile_path": null,
+        "cast_id": 48,
+        "character": "",
+        "credit_id": "60aa7a2d5437f5006f9293c5",
+        "order": 24
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6652,
+        "known_for_department": "Camera",
+        "name": "Gunnar Fischer",
+        "original_name": "Gunnar Fischer",
+        "popularity": 0.4006,
+        "profile_path": "/hQReSi6DaGxuKbi1ZTrFcil9M24.jpg",
+        "credit_id": "52fe4735c3a36847f8129119",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6648,
+        "known_for_department": "Directing",
+        "name": "Ingmar Bergman",
+        "original_name": "Ingmar Bergman",
+        "popularity": 1.433,
+        "profile_path": "/nkmOaXNRoioViN9OQf2n9Iu6akA.jpg",
+        "credit_id": "52fe4735c3a36847f812910d",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 8735,
+        "known_for_department": "Editing",
+        "name": "Oscar Rosander",
+        "original_name": "Oscar Rosander",
+        "popularity": 0.1007,
+        "profile_path": "/1TqvNomZlnUR56vuJA0IuT7rM5M.jpg",
+        "credit_id": "52fe4735c3a36847f812911f",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6648,
+        "known_for_department": "Directing",
+        "name": "Ingmar Bergman",
+        "original_name": "Ingmar Bergman",
+        "popularity": 1.433,
+        "profile_path": "/nkmOaXNRoioViN9OQf2n9Iu6akA.jpg",
+        "credit_id": "52fe4735c3a36847f8129113",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6651,
+        "known_for_department": "Sound",
+        "name": "Erik Nordgren",
+        "original_name": "Erik Nordgren",
+        "popularity": 0.1036,
+        "profile_path": "/xE1LsOerpFnO5OQyh4FwtHYcARo.jpg",
+        "credit_id": "5713215a9251414a710008b7",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6650,
+        "known_for_department": "Production",
+        "name": "Allan Ekelund",
+        "original_name": "Allan Ekelund",
+        "popularity": 0.0772,
+        "profile_path": "/mJqjS8brEuF5prkLkNeaeYDTFee.jpg",
+        "credit_id": "57132152c3a368537000cea4",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 937610,
+        "known_for_department": "Sound",
+        "name": "Sven Rudestedt",
+        "original_name": "Sven Rudestedt",
+        "popularity": 0.0665,
+        "profile_path": "/vFaGSionaVIHwRK2eyZeBGgfP0W.jpg",
+        "credit_id": "571321aa925141387d000ce4",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1606884,
+        "known_for_department": "Sound",
+        "name": "Bengt Wallerström",
+        "original_name": "Bengt Wallerström",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "571321689251413174003c7a",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 937611,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Carl M. Lundh",
+        "original_name": "Carl M. Lundh",
+        "popularity": 0.0907,
+        "profile_path": null,
+        "credit_id": "571321879251413174003c87",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1606885,
+        "known_for_department": "Production",
+        "name": "Gösta Ström",
+        "original_name": "Gösta Ström",
+        "popularity": 0.0535,
+        "profile_path": "/6T27VdDlqvuFUWBViuJaJ7xjCxH.jpg",
+        "credit_id": "57132190c3a36831e10095a2",
+        "department": "Production",
+        "job": "Unit Manager"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 146880,
+        "known_for_department": "Writing",
+        "name": "Herbert Grevenius",
+        "original_name": "Herbert Grevenius",
+        "popularity": 0.0774,
+        "profile_path": "/fwWMBSAo7Kmy02giCLGU91mObYe.jpg",
+        "credit_id": "57132146c3a368537000cea1",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 34768,
+        "known_for_department": "Art",
+        "name": "Nils Svenwall",
+        "original_name": "Nils Svenwall",
+        "popularity": 0.1027,
+        "profile_path": "/x5IMw3ffGHfe1WuaJNzfjzWs1As.jpg",
+        "credit_id": "571321809251414a190008f8",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 8740,
+        "known_for_department": "Sound",
+        "name": "Aaby Wedin",
+        "original_name": "Aaby Wedin",
+        "popularity": 0.1079,
+        "profile_path": null,
+        "credit_id": "5b0d90c4c3a36842980087de",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1605942,
+        "known_for_department": "Sound",
+        "name": "Sven Hansen",
+        "original_name": "Sven Hansen",
+        "popularity": 0.0429,
+        "profile_path": "/jSCLfKorUOMbiIhgrYtmLiYgyCX.jpg",
+        "credit_id": "5b0d90bac3a368428400bae6",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1368052,
+        "known_for_department": "Camera",
+        "name": "Louis Huch",
+        "original_name": "Louis Huch",
+        "popularity": 0.0799,
+        "profile_path": "/ufm95c2juO19AAy5telixGXnQNP.jpg",
+        "credit_id": "5bccbc000e0a26016e00eb70",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2156875,
+        "known_for_department": "Directing",
+        "name": "Sol-Britt Norlander",
+        "original_name": "Sol-Britt Norlander",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "5bccbc59c3a368286d00f8d6",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 34781,
+        "known_for_department": "Sound",
+        "name": "Eskil Eckert-Lundin",
+        "original_name": "Eskil Eckert-Lundin",
+        "popularity": 0.0484,
+        "profile_path": "/hZoJhM7PvCAmGTftiDyifBcUuvg.jpg",
+        "credit_id": "5bccbc37c3a368287600d110",
+        "department": "Sound",
+        "job": "Conductor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2156874,
+        "known_for_department": "Directing",
+        "name": "Ingegerd Ericsson",
+        "original_name": "Ingegerd Ericsson",
+        "popularity": 0.0239,
+        "profile_path": "/heMpndlKdVoBYjY1YkDfUVrArds.jpg",
+        "credit_id": "5bccbc4e0e0a26016800efaa",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2156872,
+        "known_for_department": "Camera",
+        "name": "Bengt Järnmark",
+        "original_name": "Bengt Järnmark",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "5bccbc0e0e0a26016400e30c",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 127477,
+        "known_for_department": "Writing",
+        "name": "Rune Andréasson",
+        "original_name": "Rune Andréasson",
+        "popularity": 0.0479,
+        "profile_path": "/fdpJgLUsVlik40uv4aBmAChWoe1.jpg",
+        "credit_id": "5bccbc280e0a26016200eb0c",
+        "department": "Visual Effects",
+        "job": "Animation"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "US",
+        "title": "Summerplay",
+        "type": "International"
+      },
+      {
+        "iso_3166_1": "NO",
+        "title": "Sommerlek",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "NL",
+        "title": "Zomer Intermezzo",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "IT",
+        "title": "Un'estate d'amore",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "AR",
+        "title": "Juventud, divino tesoro",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "KR",
+        "title": "여름 간주곡",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "DK",
+        "title": "Sommerleg",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "KR",
+        "title": "여름이야기",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "KR",
+        "title": "여름 이야기",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "KR",
+        "title": "무허가 막간극",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "PT",
+        "title": "Um verão de amor",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "ES",
+        "title": "Juegos de verano",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "US",
+        "title": "Illicit Interlude",
+        "type": ""
+      }
+    ]
+  }
+}

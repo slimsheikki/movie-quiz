@@ -1,0 +1,521 @@
+{
+  "adult": false,
+  "backdrop_path": "/9B25iT1cb2eFtwbQPKz8mhpVBDM.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "http://ningenshikkaku-movie.com/",
+  "id": 567591,
+  "imdb_id": "tt10065976",
+  "origin_country": [
+    "JP"
+  ],
+  "original_language": "ja",
+  "original_title": "人間失格 太宰治と3人の女たち",
+  "overview": "The story of Osamu Dazai, one of Japan's most celebrated novelists, absorbed in alcohol and love; married and in a relationship with two other lovers.",
+  "popularity": 1.254,
+  "poster_path": "/nFxXZQpmHLNCIBOYEZXs70HbXs0.jpg",
+  "production_companies": [
+    {
+      "id": 192,
+      "logo_path": "/93eAKlnQecDdMtucfOprzcjMw9V.png",
+      "name": "Shochiku",
+      "origin_country": "JP"
+    },
+    {
+      "id": 3033,
+      "logo_path": "/AwgX2FHGJd54aSWfWJqptFvT1h.png",
+      "name": "Asmik Ace",
+      "origin_country": "JP"
+    },
+    {
+      "id": 130776,
+      "logo_path": "/wQkZCEeXksdFDCAinbjRiRB67fK.png",
+      "name": "Shochiku Studio",
+      "origin_country": "JP"
+    },
+    {
+      "id": 73025,
+      "logo_path": "/zYb2OfWjKvNlngpq4LemY9JVC51.png",
+      "name": "Kinoshita Group",
+      "origin_country": "JP"
+    },
+    {
+      "id": 9148,
+      "logo_path": "/rtW3NadfF4kR5mTW00ahiFxw6k7.png",
+      "name": "Pony Canyon",
+      "origin_country": "JP"
+    },
+    {
+      "id": 13871,
+      "logo_path": "/7Ut5a8myNMs7uNvy9yP4FAIIpmv.png",
+      "name": "Tristone Entertainment",
+      "origin_country": "JP"
+    },
+    {
+      "id": 1778,
+      "logo_path": "/b5rT6VbYza3LyfltCmz1OcqzWJM.png",
+      "name": "dentsu",
+      "origin_country": "JP"
+    },
+    {
+      "id": 3031,
+      "logo_path": "/2JcgVKZ1gEY5RsLJU1CGj1MaKFj.png",
+      "name": "The Asahi Shimbun",
+      "origin_country": "JP"
+    },
+    {
+      "id": 157407,
+      "logo_path": null,
+      "name": "Lucky Star",
+      "origin_country": "JP"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    }
+  ],
+  "release_date": "2019-09-13",
+  "revenue": 0,
+  "runtime": 120,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "No Longer Human",
+  "video": false,
+  "vote_average": 6.038,
+  "vote_count": 26,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 46364,
+        "known_for_department": "Acting",
+        "name": "Shun Oguri",
+        "original_name": "小栗旬",
+        "popularity": 2.4315,
+        "profile_path": "/4tfrhvqp3IGHPATor0lYE9X9UD3.jpg",
+        "cast_id": 0,
+        "character": "Osamu Dazai",
+        "credit_id": "5c0db4970e0a2638c50ba49e",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 72494,
+        "known_for_department": "Acting",
+        "name": "Rie Miyazawa",
+        "original_name": "宮沢りえ",
+        "popularity": 2.3435,
+        "profile_path": "/j7P2PsYpmMd6G8YAHsiQbPxi328.jpg",
+        "cast_id": 4,
+        "character": "Michiko Tsushima",
+        "credit_id": "5c98f3760e0a264cc6c37a03",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 52806,
+        "known_for_department": "Acting",
+        "name": "Erika Sawajiri",
+        "original_name": "沢尻エリカ",
+        "popularity": 1.3904,
+        "profile_path": "/iTbOYimZDSgsDFOQEzFwIcevnpD.jpg",
+        "cast_id": 5,
+        "character": "Shizuko Ota",
+        "credit_id": "5c98f383c3a36807023a5607",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1018945,
+        "known_for_department": "Acting",
+        "name": "Fumi Nikaido",
+        "original_name": "二階堂ふみ",
+        "popularity": 1.9581,
+        "profile_path": "/tqxgrZdOpx2FuTJYlhago4fttI3.jpg",
+        "cast_id": 6,
+        "character": "Tomie Yamazaki",
+        "credit_id": "5c98f38f9251416b0cf48b80",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1668610,
+        "known_for_department": "Acting",
+        "name": "Ryo Narita",
+        "original_name": "成田凌",
+        "popularity": 1.7999,
+        "profile_path": "/f42OXn4J7cM62wtykL196YW7x85.jpg",
+        "cast_id": 8,
+        "character": "Junichi Sakura",
+        "credit_id": "5d3e294934e152729be7152a",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1251345,
+        "known_for_department": "Acting",
+        "name": "Yudai Chiba",
+        "original_name": "千葉雄大",
+        "popularity": 1.2532,
+        "profile_path": "/7RbBbH8QzhVJ5F6vWE5qnxbvXb.jpg",
+        "cast_id": 9,
+        "character": "Kaoru Ota",
+        "credit_id": "5d3e297234e1520014e75a59",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1112526,
+        "known_for_department": "Acting",
+        "name": "Koji Seto",
+        "original_name": "瀬戸康史",
+        "popularity": 1.4332,
+        "profile_path": "/hWB2vHeOIZ9Eifp84hXFNLDzbp6.jpg",
+        "cast_id": 10,
+        "character": "Harube Ima",
+        "credit_id": "5d3e29e121621b483ff09751",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 120690,
+        "known_for_department": "Acting",
+        "name": "Kengo Kora",
+        "original_name": "高良健吾",
+        "popularity": 2.004,
+        "profile_path": "/wb293WmYQ7yTAtf3opmhCoTJQfa.jpg",
+        "cast_id": 11,
+        "character": "Yukio Mishima",
+        "credit_id": "5d3e2a09b87aec001139a2f7",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 31078,
+        "known_for_department": "Acting",
+        "name": "Tatsuya Fujiwara",
+        "original_name": "藤原竜也",
+        "popularity": 2.0369,
+        "profile_path": "/lxPjnmbu3DyoEioVPfuY75fKoQL.jpg",
+        "cast_id": 12,
+        "character": "Ango Sakaguchi",
+        "credit_id": "5d3e2a2821621b483ff09814",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1161660,
+        "known_for_department": "Acting",
+        "name": "Mitsu Dan",
+        "original_name": "壇蜜",
+        "popularity": 2.3077,
+        "profile_path": "/4f1cZIwhbBNmxA93eAlzoJyJfta.jpg",
+        "cast_id": 20,
+        "character": "Bar's Mistress",
+        "credit_id": "63a224b2ce997a00c890a603",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2349205,
+        "known_for_department": "Acting",
+        "name": "Yuki Katayama",
+        "original_name": "片山友希",
+        "popularity": 0.8111,
+        "profile_path": "/gp2UUdkwxYVD9cs59nPy8OROZXT.jpg",
+        "cast_id": 21,
+        "character": "Girl at the Bar",
+        "credit_id": "63a224e74f33ad0084577d74",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2373152,
+        "known_for_department": "Acting",
+        "name": "Kanako Miyashita",
+        "original_name": "宮下かな子",
+        "popularity": 0.1724,
+        "profile_path": "/h8Y51iFXHjKjlHQ9jFyn5Qqbd9u.jpg",
+        "cast_id": 22,
+        "character": "Girl at the Bar",
+        "credit_id": "63a224fdbcf8c900a7038cc7",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1195944,
+        "known_for_department": "Acting",
+        "name": "Kasumi Yamaya",
+        "original_name": "山谷花純",
+        "popularity": 1.0773,
+        "profile_path": "/lZXK0zeiNQfggKBx0kwBKPe4QQ4.jpg",
+        "cast_id": 23,
+        "character": "Tabe Shimeko",
+        "credit_id": "63a22514ce997a00b64d9323",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1251801,
+        "known_for_department": "Acting",
+        "name": "Takayuki Kinoshita",
+        "original_name": "木下隆行",
+        "popularity": 0.6413,
+        "profile_path": "/yMYTxCOZ1XQPVYZWgKtfPgoybJV.jpg",
+        "cast_id": 24,
+        "character": "Stall Owner",
+        "credit_id": "63a225296c1e0400d14231cf",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1029276,
+        "known_for_department": "Acting",
+        "name": "Yoshimasa Kondo",
+        "original_name": "近藤芳正",
+        "popularity": 1.1016,
+        "profile_path": "/6WH3eIKWcAncSTJumXkkRgrAQjI.jpg",
+        "cast_id": 25,
+        "character": "Junichi's Colleague",
+        "credit_id": "63a2254abe6d8800d9ce0138",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 132935,
+        "known_for_department": "Acting",
+        "name": "Hiroshi Yamamoto",
+        "original_name": "山本浩司",
+        "popularity": 0.7714,
+        "profile_path": "/w1ywYvhyoQ45244n1Bm1iPtmG6n.jpg",
+        "cast_id": 26,
+        "character": "Yukio's Colleague",
+        "credit_id": "63a2256451f99a007a06e644",
+        "order": 15
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1367186,
+        "known_for_department": "Writing",
+        "name": "Kaeko Hayafune",
+        "original_name": "早船歌江子",
+        "popularity": 0.1671,
+        "profile_path": null,
+        "credit_id": "5c0db4ba0e0a2638b60b2c33",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 207718,
+        "known_for_department": "Directing",
+        "name": "Mika Ninagawa",
+        "original_name": "蜷川実花",
+        "popularity": 0.8771,
+        "profile_path": "/du21uaI5qHZ4tGSlKl9xzgmQXrL.jpg",
+        "credit_id": "5ca8b9ab9251415654fde8f0",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1124600,
+        "known_for_department": "Sound",
+        "name": "Jun Miyake",
+        "original_name": "三宅純",
+        "popularity": 0.1508,
+        "profile_path": null,
+        "credit_id": "5d3e2b0721621b0012f281b7",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1367187,
+        "known_for_department": "Production",
+        "name": "Fumitsugu Ikeda",
+        "original_name": "池田史嗣",
+        "popularity": 0.259,
+        "profile_path": null,
+        "credit_id": "5d9014ca79b3d400178dbba0",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1390074,
+        "known_for_department": "Editing",
+        "name": "Hiroaki Morishita",
+        "original_name": "森下博昭",
+        "popularity": 0.2278,
+        "profile_path": null,
+        "credit_id": "5d90149b66a7c3002189e24f",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1275306,
+        "known_for_department": "Camera",
+        "name": "Ryuto Kondo",
+        "original_name": "近藤龍人",
+        "popularity": 0.413,
+        "profile_path": "/b7KxtZzAoXpBTk8bnLHHrvHAGrv.jpg",
+        "credit_id": "5d90148966a7c3002189e1f4",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1197453,
+        "known_for_department": "Production",
+        "name": "Mitsuru Uda",
+        "original_name": "宇田充",
+        "popularity": 0.171,
+        "profile_path": "/r0dH4XD2exwl2yfS24pjjSQyauB.jpg",
+        "credit_id": "5d9014df79b3d400178dbbba",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5208735,
+        "known_for_department": "Art",
+        "name": "前田陽",
+        "original_name": "前田陽",
+        "popularity": 0.0404,
+        "profile_path": null,
+        "credit_id": "6798bd083ae355c4788f613f",
+        "department": "Art",
+        "job": "Decorator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5350506,
+        "known_for_department": "Production",
+        "name": "Tadashi Osumi",
+        "original_name": "大角正",
+        "popularity": 0.0884,
+        "profile_path": null,
+        "credit_id": "67f12a2b0c791beb57ad5060",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4719239,
+        "known_for_department": "Production",
+        "name": "Ichiro Goto",
+        "original_name": "後藤一郎",
+        "popularity": 0.2244,
+        "profile_path": null,
+        "credit_id": "68bef49cae986077d29bc8d0",
+        "department": "Production",
+        "job": "Production Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2212288,
+        "known_for_department": "Lighting",
+        "name": "Isamu Fujii",
+        "original_name": "藤井勇",
+        "popularity": 0.266,
+        "profile_path": null,
+        "credit_id": "69aa86e030f451aff5bdcef6",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3889625,
+        "known_for_department": "Directing",
+        "name": "Ryo Yoshida",
+        "original_name": "吉田亮",
+        "popularity": 0.0362,
+        "profile_path": null,
+        "credit_id": "6a0d5af1c2c930c027b81682",
+        "department": "Directing",
+        "job": "Assistant Director"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "JP",
+        "title": "Ningen Shikkaku: Dazai Osamu to 3-nin no Onnatachi",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "JP",
+        "title": "人間失格 太宰治と3人の女たち：2019",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "US",
+        "title": "No Longer Human",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "ES",
+        "title": "Ya no es humano",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "MX",
+        "title": "Ya no es humano",
+        "type": ""
+      }
+    ]
+  }
+}

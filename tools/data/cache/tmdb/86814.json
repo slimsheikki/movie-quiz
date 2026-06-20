@@ -1,0 +1,270 @@
+{
+  "adult": false,
+  "backdrop_path": "/A37wxjHIy75UhpAi5K0p8iFRQgC.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "",
+  "id": 86814,
+  "imdb_id": "tt0076452",
+  "origin_country": [
+    "BE"
+  ],
+  "original_language": "fr",
+  "original_title": "News from Home",
+  "overview": "Impersonal and beautiful images of Akerman's life in New York are combined with letters from her loving but manipulative mother, read by Akerman herself.",
+  "popularity": 0.3948,
+  "poster_path": "/nWqWaEySdo8hAKJsd1IS9mdnZpF.jpg",
+  "production_companies": [
+    {
+      "id": 4606,
+      "logo_path": "/otZHbf1HmzLRQsZFSqJXkf8EHz7.png",
+      "name": "ZDF",
+      "origin_country": "DE"
+    },
+    {
+      "id": 10645,
+      "logo_path": null,
+      "name": "Paradise Films",
+      "origin_country": "BE"
+    },
+    {
+      "id": 10647,
+      "logo_path": null,
+      "name": "Unité Trois",
+      "origin_country": "FR"
+    },
+    {
+      "id": 16180,
+      "logo_path": "/tE5t6MnMhvyc34beR4Qf6hM2c5K.png",
+      "name": "INA",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "BE",
+      "name": "Belgium"
+    },
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "release_date": "1977-05-20",
+  "revenue": 0,
+  "runtime": 89,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Write to me, it’s all I ask.",
+  "title": "News from Home",
+  "video": false,
+  "vote_average": 7,
+  "vote_count": 90,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 130030,
+        "known_for_department": "Directing",
+        "name": "Chantal Akerman",
+        "original_name": "Chantal Akerman",
+        "popularity": 0.3172,
+        "profile_path": "/6Q59Air1EjLHfq8NvvBpbTTgnWZ.jpg",
+        "cast_id": 2,
+        "character": "Narrator (voice)",
+        "credit_id": "52fe49a09251416c910b37b5",
+        "order": 0
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 130030,
+        "known_for_department": "Directing",
+        "name": "Chantal Akerman",
+        "original_name": "Chantal Akerman",
+        "popularity": 0.3172,
+        "profile_path": "/6Q59Air1EjLHfq8NvvBpbTTgnWZ.jpg",
+        "credit_id": "52fe49a09251416c910b37bb",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 130030,
+        "known_for_department": "Directing",
+        "name": "Chantal Akerman",
+        "original_name": "Chantal Akerman",
+        "popularity": 0.3172,
+        "profile_path": "/6Q59Air1EjLHfq8NvvBpbTTgnWZ.jpg",
+        "credit_id": "52fe49a09251416c910b37b1",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1542493,
+        "known_for_department": "Production",
+        "name": "Guy Cavagnac",
+        "original_name": "Guy Cavagnac",
+        "popularity": 0.1152,
+        "profile_path": null,
+        "credit_id": "565b7b37c3a368507d003b73",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1542496,
+        "known_for_department": "Directing",
+        "name": "Paule Zadjermann",
+        "original_name": "Paule Zadjermann",
+        "popularity": 0.0362,
+        "profile_path": null,
+        "credit_id": "565b7b71c3a3685074003e81",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5439,
+        "known_for_department": "Sound",
+        "name": "Dominique Dalmasso",
+        "original_name": "Dominique Dalmasso",
+        "popularity": 0.2314,
+        "profile_path": "/ylHaCFrbkWiJTnQHihdqH6J540M.jpg",
+        "credit_id": "565b7b7b925141691e003ac0",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1542494,
+        "known_for_department": "Camera",
+        "name": "Jim Asbell",
+        "original_name": "Jim Asbell",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "565b7b48c3a368506d003f7a",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1017426,
+        "known_for_department": "Camera",
+        "name": "Babette Mangolte",
+        "original_name": "Babette Mangolte",
+        "popularity": 0.0855,
+        "profile_path": "/lW1aBFQVh4GNXtqZPFL8QTIlJQm.jpg",
+        "credit_id": "565b7b539251416925003b8d",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1542497,
+        "known_for_department": "Sound",
+        "name": "Larry Haas",
+        "original_name": "Larry Haas",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "565b7b83c3a36850810038bd",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1093088,
+        "known_for_department": "Production",
+        "name": "Alain Dahan",
+        "original_name": "Alain Dahan",
+        "popularity": 0.0661,
+        "profile_path": null,
+        "credit_id": "565b7b2fc3a3685069003ccc",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1542495,
+        "known_for_department": "Directing",
+        "name": "Epp Kotkas",
+        "original_name": "Epp Kotkas",
+        "popularity": 0.0466,
+        "profile_path": null,
+        "credit_id": "565b7b65925141691e003ab8",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 238582,
+        "known_for_department": "Directing",
+        "name": "Liliane de Kermadec",
+        "original_name": "Liliane de Kermadec",
+        "popularity": 0.138,
+        "profile_path": "/naoXiH19ijv2aK3KpzMiyIqXaMl.jpg",
+        "credit_id": "565b7b40925141692e003cc6",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 17532,
+        "known_for_department": "Editing",
+        "name": "Francine Sandberg",
+        "original_name": "Francine Sandberg",
+        "popularity": 0.0873,
+        "profile_path": null,
+        "credit_id": "565b7b5b9251416928003890",
+        "department": "Editing",
+        "job": "Editor"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "DE",
+        "title": "Briefe von zu Haus",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "KR",
+        "title": "집에서 온 소식",
+        "type": ""
+      }
+    ]
+  }
+}

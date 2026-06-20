@@ -1,0 +1,551 @@
+{
+  "adult": false,
+  "backdrop_path": "/yJ9HQ4OrFouSj8kRF9opf8s7yGE.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 266082,
+  "imdb_id": "tt3655522",
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "Bande de filles",
+  "overview": "Oppressed by her family setting, dead-end school prospects and the boys law in the neighborhood, Marieme starts a new life after meeting a group of three free-spirited girls. She changes her name, her dress code, and quits school to be accepted in the gang, hoping that this will be a way to freedom.",
+  "popularity": 0.7545,
+  "poster_path": "/qZ52DlSVguX0WHYoiOD464IIONd.jpg",
+  "production_companies": [
+    {
+      "id": 7980,
+      "logo_path": null,
+      "name": "Hold Up Films",
+      "origin_country": "FR"
+    },
+    {
+      "id": 43649,
+      "logo_path": "/5pv3tUlq25IiuMuok57YBZIiKn.png",
+      "name": "Lilies Films",
+      "origin_country": "FR"
+    },
+    {
+      "id": 94,
+      "logo_path": "/huC7HqorvUThGIrENrbcHmQVUA0.png",
+      "name": "ARTE France Cinéma",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "2014-10-22",
+  "revenue": 60765,
+  "runtime": 112,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "You don't have the full story. Until you know hers.",
+  "title": "Girlhood",
+  "video": false,
+  "vote_average": 6.455,
+  "vote_count": 401,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1312204,
+        "known_for_department": "Acting",
+        "name": "Karidja Touré",
+        "original_name": "Karidja Touré",
+        "popularity": 0.3658,
+        "profile_path": "/5YqrVYUzvy0suoSp6oQPD0YgbQs.jpg",
+        "cast_id": 5,
+        "character": "Marieme / Vic",
+        "credit_id": "535672fac3a36841c800246d",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1407933,
+        "known_for_department": "Acting",
+        "name": "Assa Sylla",
+        "original_name": "Assa Sylla",
+        "popularity": 0.3389,
+        "profile_path": "/auVWfeeBeTirgyzRUc3EqVZkRn2.jpg",
+        "cast_id": 15,
+        "character": "Lady",
+        "credit_id": "577d96a0c3a36817f40031f8",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1646372,
+        "known_for_department": "Acting",
+        "name": "Lindsay Karamoh",
+        "original_name": "Lindsay Karamoh",
+        "popularity": 0.1059,
+        "profile_path": "/zWeA7ukPjMZgI3qCEuAUuggKnlK.jpg",
+        "cast_id": 16,
+        "character": "Adiatou",
+        "credit_id": "577d96a9c3a36817e6003333",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1646373,
+        "known_for_department": "Acting",
+        "name": "Mariétou Touré",
+        "original_name": "Mariétou Touré",
+        "popularity": 0.0327,
+        "profile_path": "/nr7TP4Aj89gOv0eW2QGdQ0x6SPj.jpg",
+        "cast_id": 17,
+        "character": "Fily",
+        "credit_id": "577d96b3c3a36817ea0034ee",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1162995,
+        "known_for_department": "Acting",
+        "name": "Idrissa Diabaté",
+        "original_name": "Idrissa Diabaté",
+        "popularity": 0.1378,
+        "profile_path": "/pTXXs83eAx5OftTueidnDkSkR8F.jpg",
+        "cast_id": 10,
+        "character": "Ismaël",
+        "credit_id": "54b1808292514174720025c8",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 581728,
+        "known_for_department": "Acting",
+        "name": "Cyril Mendy",
+        "original_name": "Cyril Mendy",
+        "popularity": 0.2343,
+        "profile_path": "/9yLrfKP5h4RKCyUKtKvuez9sfgM.jpg",
+        "cast_id": 20,
+        "character": "Djibril",
+        "credit_id": "577d96d39251415d910031cc",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1818839,
+        "known_for_department": "Acting",
+        "name": "Tia Diagne",
+        "original_name": "Tia Diagne",
+        "popularity": 0.0571,
+        "profile_path": "/4jdIYDNtdQs8iOy3qHWUpPjhn42.jpg",
+        "cast_id": 29,
+        "character": "Bambi",
+        "credit_id": "591cc9f8925141499001157f",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 69197,
+        "known_for_department": "Acting",
+        "name": "Rabah Nait Oufella",
+        "original_name": "Rabah Nait Oufella",
+        "popularity": 0.3312,
+        "profile_path": "/smVi5iXcUz09ypPhfrO3xsEiXAn.jpg",
+        "cast_id": 3,
+        "character": "Kader",
+        "credit_id": "535672a0c3a36841fe0024ed",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1354628,
+        "known_for_department": "Acting",
+        "name": "Damien Chapelle",
+        "original_name": "Damien Chapelle",
+        "popularity": 0.3572,
+        "profile_path": "/djuyCmp6QldjoDNoX0SuO8dyYpd.jpg",
+        "cast_id": 24,
+        "character": "Cédric",
+        "credit_id": "577d97009251415d9e003282",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1646374,
+        "known_for_department": "Acting",
+        "name": "Simina Soumaré",
+        "original_name": "Simina Soumaré",
+        "popularity": 0,
+        "profile_path": null,
+        "cast_id": 18,
+        "character": "Bébé",
+        "credit_id": "577d96c19251415d9e003266",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1646375,
+        "known_for_department": "Acting",
+        "name": "Dielika Coulibaly",
+        "original_name": "Dielika Coulibaly",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 19,
+        "character": "Monica",
+        "credit_id": "577d96cac3a36817f100338c",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1646376,
+        "known_for_department": "Acting",
+        "name": "Djibril Gueye",
+        "original_name": "Djibril Gueye",
+        "popularity": 0.098,
+        "profile_path": "/j20EYrQKWFag3twrEPjHRZmeHkZ.jpg",
+        "cast_id": 21,
+        "character": "Abou",
+        "credit_id": "577d96e59251415da40030be",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1646377,
+        "known_for_department": "Acting",
+        "name": "Binta Diop",
+        "original_name": "Binta Diop",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 22,
+        "character": "Asma",
+        "credit_id": "577d96ed9251415d9e003276",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1646378,
+        "known_for_department": "Acting",
+        "name": "Chance N'Guessan",
+        "original_name": "Chance N'Guessan",
+        "popularity": 0.0402,
+        "profile_path": null,
+        "cast_id": 23,
+        "character": "Mini",
+        "credit_id": "577d96f69251415d910031de",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1366486,
+        "known_for_department": "Acting",
+        "name": "Nina Mélo",
+        "original_name": "Nina Mélo",
+        "popularity": 0.3994,
+        "profile_path": "/nVBUpn8sRkW1YE4epUaZrGQlSB0.jpg",
+        "cast_id": 25,
+        "character": "Caidy",
+        "credit_id": "577d970ac3a36817f10033a8",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1646379,
+        "known_for_department": "Acting",
+        "name": "Elyes Sabyani",
+        "original_name": "Elyes Sabyani",
+        "popularity": 0.0539,
+        "profile_path": null,
+        "cast_id": 26,
+        "character": "Abdel",
+        "credit_id": "577d97139251415d95003273",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1646380,
+        "known_for_department": "Acting",
+        "name": "Halem El Sabagh",
+        "original_name": "Halem El Sabagh",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "cast_id": 27,
+        "character": "Farida",
+        "credit_id": "577d971f9251415d9b003283",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 232363,
+        "known_for_department": "Acting",
+        "name": "Nassereba Keita",
+        "original_name": "Nassereba Keita",
+        "popularity": 0.0656,
+        "profile_path": "/zXutwHXIabxSJU7LbDUbxWJK25T.jpg",
+        "cast_id": 28,
+        "character": "Sweety",
+        "credit_id": "591cc603c3a36878fe01005e",
+        "order": 17
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1108619,
+        "known_for_department": "Sound",
+        "name": "Pierre André",
+        "original_name": "Pierre André",
+        "popularity": 0.0548,
+        "profile_path": null,
+        "credit_id": "60f2b54ed35dea00264fb6f6",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1705046,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Marie Luiset",
+        "original_name": "Marie Luiset",
+        "popularity": 0.0822,
+        "profile_path": null,
+        "credit_id": "60f2b52d4c2592007e6f54f3",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1632379,
+        "known_for_department": "Sound",
+        "name": "Daniel Sobrino",
+        "original_name": "Daniel Sobrino",
+        "popularity": 0.1598,
+        "profile_path": "/1oKycsjnNcPHG8zScPYzDBToRGL.jpg",
+        "credit_id": "60f2b55d635e7800467f9a89",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 68813,
+        "known_for_department": "Directing",
+        "name": "Céline Sciamma",
+        "original_name": "Céline Sciamma",
+        "popularity": 0.4328,
+        "profile_path": "/4B5Bt47HYTObsde1einBDha03ka.jpg",
+        "credit_id": "60f2b4a91d78f2002f716482",
+        "department": "Costume & Make-Up",
+        "job": "Costume Designer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1563991,
+        "known_for_department": "Crew",
+        "name": "Virginie Arnaud",
+        "original_name": "Virginie Arnaud",
+        "popularity": 0.3892,
+        "profile_path": "/xUAsnfMjhriQawDS4kJTneHpt4A.jpg",
+        "credit_id": "64ebd6c683901800af81b895",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 68813,
+        "known_for_department": "Directing",
+        "name": "Céline Sciamma",
+        "original_name": "Céline Sciamma",
+        "popularity": 0.4328,
+        "profile_path": "/4B5Bt47HYTObsde1einBDha03ka.jpg",
+        "credit_id": "53567278c3a36841ee00247e",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 68819,
+        "known_for_department": "Production",
+        "name": "Bénédicte Couvreur",
+        "original_name": "Bénédicte Couvreur",
+        "popularity": 0.0728,
+        "profile_path": null,
+        "credit_id": "5375f3270e0a263043001749",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 68821,
+        "known_for_department": "Camera",
+        "name": "Crystel Fournier",
+        "original_name": "Crystel Fournier",
+        "popularity": 0.127,
+        "profile_path": null,
+        "credit_id": "5375f27bc3a3681efb0010b8",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1151828,
+        "known_for_department": "Art",
+        "name": "Thomas Grézaud",
+        "original_name": "Thomas Grézaud",
+        "popularity": 0.0695,
+        "profile_path": null,
+        "credit_id": "5375f2e1c3a3681ef400126d",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 68822,
+        "known_for_department": "Editing",
+        "name": "Julien Lacheray",
+        "original_name": "Julien Lacheray",
+        "popularity": 0.1675,
+        "profile_path": null,
+        "credit_id": "5375f2abc3a3681ee100122a",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 68813,
+        "known_for_department": "Directing",
+        "name": "Céline Sciamma",
+        "original_name": "Céline Sciamma",
+        "popularity": 0.4328,
+        "profile_path": "/4B5Bt47HYTObsde1einBDha03ka.jpg",
+        "credit_id": "53567267c3a36841d6002424",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1108619,
+        "known_for_department": "Sound",
+        "name": "Pierre André",
+        "original_name": "Pierre André",
+        "popularity": 0.0548,
+        "profile_path": null,
+        "credit_id": "615ceaeb66a7c3004234fb84",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 96295,
+        "known_for_department": "Production",
+        "name": "Christel Baras",
+        "original_name": "Christel Baras",
+        "popularity": 0.3147,
+        "profile_path": "/lZdOrS1y7ADRm99GCl05vpV8zLF.jpg",
+        "credit_id": "577d961b9251415d9500322f",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 68820,
+        "known_for_department": "Sound",
+        "name": "Para One",
+        "original_name": "Para One",
+        "popularity": 0.0871,
+        "profile_path": "/2c8750ml8RwnakO5lv6zCxUFhjd.jpg",
+        "credit_id": "577d960f9251415d9500322c",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1451497,
+        "known_for_department": "Production",
+        "name": "Olivier Père",
+        "original_name": "Olivier Père",
+        "popularity": 0.2732,
+        "profile_path": "/w3e88Dn1Usb6fNKNElkVfJBybla.jpg",
+        "credit_id": "577d96009251415da400307e",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 32463,
+        "known_for_department": "Production",
+        "name": "Rémi Burah",
+        "original_name": "Rémi Burah",
+        "popularity": 0.1307,
+        "profile_path": null,
+        "credit_id": "577d95f9c3a36817e600330d",
+        "department": "Production",
+        "job": "Co-Producer"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "UY",
+        "title": "La banda de las chicas",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "DE",
+        "title": "Mädchenbande",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "RU",
+        "title": "Девичество",
+        "type": ""
+      }
+    ]
+  }
+}

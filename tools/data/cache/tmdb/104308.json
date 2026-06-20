@@ -1,0 +1,538 @@
+{
+  "adult": false,
+  "backdrop_path": "/a3SWGndhPySAYxfzmMCOpJSMVAO.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 104308,
+  "imdb_id": "tt0095728",
+  "origin_country": [
+    "IT"
+  ],
+  "original_language": "it",
+  "original_title": "Il nido del ragno",
+  "overview": "A young professor travels to Budapest to locate a lost colleague. Once there, he gets tangled up in a supernatural mystery.",
+  "popularity": 1.6189,
+  "poster_path": "/ogslEcLdm7eV60Nk1RcriwRsccd.jpg",
+  "production_companies": [
+    {
+      "id": 69093,
+      "logo_path": null,
+      "name": "Splendida",
+      "origin_country": ""
+    },
+    {
+      "id": 1242,
+      "logo_path": "/qOvcm1WCLlAdNoQ1kCkk2J7bhWk.png",
+      "name": "Reteitalia",
+      "origin_country": "IT"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    }
+  ],
+  "release_date": "1988-08-25",
+  "revenue": 0,
+  "runtime": 86,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Spider Labyrinth",
+  "video": false,
+  "vote_average": 6.4,
+  "vote_count": 53,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 130308,
+        "known_for_department": "Acting",
+        "name": "Roland Wybenga",
+        "original_name": "Roland Wybenga",
+        "popularity": 0.0352,
+        "profile_path": "/kMWp021EUQOzq95ki5lp13c2vE8.jpg",
+        "cast_id": 2,
+        "character": "Professor Alan Whitmore",
+        "credit_id": "52fe4a32c3a36847f81c017b",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1856941,
+        "known_for_department": "Acting",
+        "name": "Claudio Capone",
+        "original_name": "Claudio Capone",
+        "popularity": 0.0478,
+        "profile_path": null,
+        "cast_id": 32,
+        "character": "Professor Alan Whitmore (voice)",
+        "credit_id": "5975ad0292514157fb029a52",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1035412,
+        "known_for_department": "Acting",
+        "name": "Paola Rinaldi",
+        "original_name": "Paola Rinaldi",
+        "popularity": 0.1036,
+        "profile_path": "/oOBAog7NpmBfuxiyepmRurCQtaa.jpg",
+        "cast_id": 3,
+        "character": "Genevieve Weiss",
+        "credit_id": "52fe4a32c3a36847f81c017f",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1073959,
+        "known_for_department": "Acting",
+        "name": "Margareta von Krauss",
+        "original_name": "Margareta von Krauss",
+        "popularity": 0.1278,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "Celia Roth",
+        "credit_id": "52fe4a32c3a36847f81c0183",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 553192,
+        "known_for_department": "Acting",
+        "name": "Claudia Muzii",
+        "original_name": "Claudia Muzii",
+        "popularity": 0.2663,
+        "profile_path": "/r66YPUfn9tt8qKw5C9rdcMXgV2y.jpg",
+        "cast_id": 5,
+        "character": "Maria",
+        "credit_id": "52fe4a32c3a36847f81c0187",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 102101,
+        "known_for_department": "Acting",
+        "name": "William Berger",
+        "original_name": "William Berger",
+        "popularity": 0.4833,
+        "profile_path": "/jqm6XmoDe0ibEcFSdG8LT0Ja4a2.jpg",
+        "cast_id": 6,
+        "character": "Mysterious Man",
+        "credit_id": "52fe4a32c3a36847f81c018b",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 19092,
+        "known_for_department": "Acting",
+        "name": "Stéphane Audran",
+        "original_name": "Stéphane Audran",
+        "popularity": 0.8241,
+        "profile_path": "/wRuDncFfkDKYWctwJGiqkvXBz3i.jpg",
+        "cast_id": 7,
+        "character": "Mrs. Kuhn",
+        "credit_id": "52fe4a32c3a36847f81c018f",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1856940,
+        "known_for_department": "Acting",
+        "name": "Vanna Busoni",
+        "original_name": "Vanna Busoni",
+        "popularity": 0.049,
+        "profile_path": null,
+        "cast_id": 31,
+        "character": "Signora Kuhn (voice)",
+        "credit_id": "5975acfa92514157f702a2c6",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1073960,
+        "known_for_department": "Acting",
+        "name": "Valeriano Santinelli",
+        "original_name": "Valeriano Santinelli",
+        "popularity": 0.0327,
+        "profile_path": null,
+        "cast_id": 8,
+        "character": "",
+        "credit_id": "52fe4a32c3a36847f81c0193",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1073961,
+        "known_for_department": "Acting",
+        "name": "Massimiliano Pavone",
+        "original_name": "Massimiliano Pavone",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 9,
+        "character": "",
+        "credit_id": "52fe4a32c3a36847f81c0197",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1269345,
+        "known_for_department": "Acting",
+        "name": "Arnaldo Dell'Acqua",
+        "original_name": "Arnaldo Dell'Acqua",
+        "popularity": 0.2695,
+        "profile_path": "/xWiNINLeN7A0ZEmfFnXDoeYpYCK.jpg",
+        "cast_id": 24,
+        "character": "Polgár Móricz",
+        "credit_id": "58ad31c792514107900031dd",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 62988,
+        "known_for_department": "Production",
+        "name": "László Sipos",
+        "original_name": "László Sipos",
+        "popularity": 0.0922,
+        "profile_path": null,
+        "cast_id": 25,
+        "character": "",
+        "credit_id": "58ad31ce925141078a003371",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1763501,
+        "known_for_department": "Acting",
+        "name": "Bob Holton",
+        "original_name": "Bob Holton",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 27,
+        "character": "",
+        "credit_id": "58ad31dec3a3682fce002d0e",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 105649,
+        "known_for_department": "Acting",
+        "name": "Bill Bolender",
+        "original_name": "Bill Bolender",
+        "popularity": 0.7318,
+        "profile_path": null,
+        "cast_id": 28,
+        "character": "Chancellor Hubbard",
+        "credit_id": "58ad31eac3a3682fb2002d82",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1686091,
+        "known_for_department": "Acting",
+        "name": "Attila Lőte",
+        "original_name": "Lőte Attila",
+        "popularity": 0.0526,
+        "profile_path": "/6GeqNxDFTbeRLElTmckzuzmHcpa.jpg",
+        "cast_id": 29,
+        "character": "",
+        "credit_id": "5975ac9c92514157f702a223",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1856939,
+        "known_for_department": "Acting",
+        "name": "John Morrison",
+        "original_name": "John Morrison",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 30,
+        "character": "",
+        "credit_id": "5975aceb92514106e201fbfb",
+        "order": 15
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 550303,
+        "known_for_department": "Directing",
+        "name": "Gianfranco Giagni",
+        "original_name": "Gianfranco Giagni",
+        "popularity": 0.2641,
+        "profile_path": "/i9vmXgNd7Xye76qX5rTn0xTwst0.jpg",
+        "credit_id": "52fe4a32c3a36847f81c0177",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 36114,
+        "known_for_department": "Camera",
+        "name": "Sebastiano Celeste",
+        "original_name": "Sebastiano Celeste",
+        "popularity": 0.0805,
+        "profile_path": "/2q4Rua6m0LxaDl8ePG7Z34GP9em.jpg",
+        "credit_id": "62dbf3a4e323f3036c0ec3bc",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 233343,
+        "known_for_department": "Production",
+        "name": "Tonino Cervi",
+        "original_name": "Tonino Cervi",
+        "popularity": 0.2003,
+        "profile_path": null,
+        "credit_id": "5444dd68c3a3683df70071ad",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 99546,
+        "known_for_department": "Crew",
+        "name": "Sergio Stivaletti",
+        "original_name": "Sergio Stivaletti",
+        "popularity": 0.1539,
+        "profile_path": "/a21xySok8hsORGe0X8KBTKj6YSf.jpg",
+        "credit_id": "5444dd91c3a3683e0500713b",
+        "department": "Crew",
+        "job": "Special Effects"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 59915,
+        "known_for_department": "Sound",
+        "name": "Franco Piersanti",
+        "original_name": "Franco Piersanti",
+        "popularity": 0.1072,
+        "profile_path": "/lzlOLqeXgMWDy2w5xwUjinzRhdk.jpg",
+        "credit_id": "5444ddb90e0a2663400073d5",
+        "department": "Crew",
+        "job": "Compositors"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 33086,
+        "known_for_department": "Writing",
+        "name": "Riccardo Aragno",
+        "original_name": "Riccardo Aragno",
+        "popularity": 0.1592,
+        "profile_path": null,
+        "credit_id": "58ad310f925141078a003308",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 233343,
+        "known_for_department": "Production",
+        "name": "Tonino Cervi",
+        "original_name": "Tonino Cervi",
+        "popularity": 0.2003,
+        "profile_path": null,
+        "credit_id": "58ad311ac3a3682f7d002eed",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 107222,
+        "known_for_department": "Writing",
+        "name": "Cesare Frugoni",
+        "original_name": "Cesare Frugoni",
+        "popularity": 0.3364,
+        "profile_path": null,
+        "credit_id": "58ad3126c3a3682fce002cb3",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 590340,
+        "known_for_department": "Acting",
+        "name": "Gianfranco Manfredi",
+        "original_name": "Gianfranco Manfredi",
+        "popularity": 0.1957,
+        "profile_path": "/nF0ATZsyRlr6qQIFScYjlb9ZnN4.jpg",
+        "credit_id": "58ad313292514107980031c5",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 59915,
+        "known_for_department": "Sound",
+        "name": "Franco Piersanti",
+        "original_name": "Franco Piersanti",
+        "popularity": 0.1072,
+        "profile_path": "/lzlOLqeXgMWDy2w5xwUjinzRhdk.jpg",
+        "credit_id": "58ad314fc3a3682fde002b39",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 32310,
+        "known_for_department": "Editing",
+        "name": "Sergio Montanari",
+        "original_name": "Sergio Montanari",
+        "popularity": 0.3158,
+        "profile_path": null,
+        "credit_id": "58ad315b92514107b40032bd",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5672,
+        "known_for_department": "Art",
+        "name": "Stefano Maria Ortolani",
+        "original_name": "Stefano Maria Ortolani",
+        "popularity": 0.1126,
+        "profile_path": null,
+        "credit_id": "58ad3167c3a3682fb2002d22",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5672,
+        "known_for_department": "Art",
+        "name": "Stefano Maria Ortolani",
+        "original_name": "Stefano Maria Ortolani",
+        "popularity": 0.1126,
+        "profile_path": null,
+        "credit_id": "58ad317992514107dd0031fa",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 119181,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Nicoletta Ercole",
+        "original_name": "Nicoletta Ercole",
+        "popularity": 0.146,
+        "profile_path": "/qoS89yKIzDYU0RNPU7GSCpOjbEY.jpg",
+        "credit_id": "58ad3188925141078a00334b",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1763499,
+        "known_for_department": "Directing",
+        "name": "Margherita Reginato",
+        "original_name": "Margherita Reginato",
+        "popularity": 0.1238,
+        "profile_path": null,
+        "credit_id": "58ad3198c3a3682fb2002d43",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "GR",
+        "title": "Stin Pagida tis Arahnis",
+        "type": "Romanized VHS title"
+      },
+      {
+        "iso_3166_1": "GB",
+        "title": "The Spider Labyrinth",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "JP",
+        "title": "Noroi no meikyû: Rabirinsu in za dâku",
+        "type": "Romanji title"
+      },
+      {
+        "iso_3166_1": "DE",
+        "title": "Spider Labyrinth - In den Fängen der Todestarantel",
+        "type": "video title"
+      },
+      {
+        "iso_3166_1": "JP",
+        "title": "呪いの迷宮 ラビリンス・イン・ザ・ダーク",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "MX",
+        "title": "El laberinto de las arañas",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "GR",
+        "title": "Στην Παγίδα της Αράχνης",
+        "type": "VHS title"
+      },
+      {
+        "iso_3166_1": "FR",
+        "title": "Spider Labyrinth",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "JP",
+        "title": "Cursed Labyrinth In The Dark",
+        "type": ""
+      }
+    ]
+  }
+}

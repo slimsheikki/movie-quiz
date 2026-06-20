@@ -1,0 +1,586 @@
+{
+  "adult": false,
+  "backdrop_path": "/uH7zKI0YsvZhEju7f9NpVNhtjHw.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1987,
+  "imdb_id": "tt0103793",
+  "origin_country": [
+    "AT",
+    "CH"
+  ],
+  "original_language": "de",
+  "original_title": "Benny's Video",
+  "overview": "A 14-year-old video enthusiast obsessed with violent films decides to make one of his own and show it to his parents, with tragic results.",
+  "popularity": 0.7949,
+  "poster_path": "/gCjViGVeChg4TAJqPEbeVHrTpGB.jpg",
+  "production_companies": [
+    {
+      "id": 224,
+      "logo_path": "/fCv129CE3olInpdEiOWcC5s2YbQ.png",
+      "name": "Wega Film",
+      "origin_country": "AT"
+    },
+    {
+      "id": 4225,
+      "logo_path": "/8A0FNCn3KX6sVdvQzF1Ncbby3gj.png",
+      "name": "Langfilm",
+      "origin_country": "CH"
+    },
+    {
+      "id": 110698,
+      "logo_path": null,
+      "name": "Bernard Lang AG",
+      "origin_country": "CH"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "AT",
+      "name": "Austria"
+    },
+    {
+      "iso_3166_1": "CH",
+      "name": "Switzerland"
+    }
+  ],
+  "release_date": "1992-11-06",
+  "revenue": 0,
+  "runtime": 110,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Arabic",
+      "iso_639_1": "ar",
+      "name": "العربية"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    },
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Benny's Video",
+  "video": false,
+  "vote_average": 6.9,
+  "vote_count": 390,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 20449,
+        "known_for_department": "Acting",
+        "name": "Arno Frisch",
+        "original_name": "Arno Frisch",
+        "popularity": 0.3769,
+        "profile_path": "/q9FvRaGueX9vUEnTcZJ3Ies5Ts5.jpg",
+        "cast_id": 3,
+        "character": "Benny",
+        "credit_id": "52fe4329c3a36847f803eda1",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 10255,
+        "known_for_department": "Acting",
+        "name": "Angela Winkler",
+        "original_name": "Angela Winkler",
+        "popularity": 0.3309,
+        "profile_path": "/vX2MuzSTmhxx1uWrplsUP6aXaV6.jpg",
+        "cast_id": 4,
+        "character": "Anna, Benny's Mother",
+        "credit_id": "52fe4329c3a36847f803eda5",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 8196,
+        "known_for_department": "Acting",
+        "name": "Ulrich Mühe",
+        "original_name": "Ulrich Mühe",
+        "popularity": 0.6196,
+        "profile_path": "/kdqKmnaBDDT0cwTE2C3fKDJrF8D.jpg",
+        "cast_id": 5,
+        "character": "Georg, Benny's Father",
+        "credit_id": "52fe4329c3a36847f803eda9",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1520620,
+        "known_for_department": "Acting",
+        "name": "Stephanie Brehme",
+        "original_name": "Stephanie Brehme",
+        "popularity": 0.0541,
+        "profile_path": null,
+        "cast_id": 16,
+        "character": "Evi, Benny's Sister",
+        "credit_id": "5617a0a9c3a3680fba0024af",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1520621,
+        "known_for_department": "Writing",
+        "name": "Stefan Polasek",
+        "original_name": "Stefan Polasek",
+        "popularity": 0.0239,
+        "profile_path": null,
+        "cast_id": 17,
+        "character": "Ricci",
+        "credit_id": "5617a0c29251412af2002418",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 20450,
+        "known_for_department": "Acting",
+        "name": "Ingrid Stassner",
+        "original_name": "Ingrid Stassner",
+        "popularity": 0.0379,
+        "profile_path": null,
+        "cast_id": 6,
+        "character": "Girl",
+        "credit_id": "52fe4329c3a36847f803edad",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5926463,
+        "known_for_department": "Acting",
+        "name": "Martin Schoendelin",
+        "original_name": "Martin Schoendelin",
+        "popularity": 0.0409,
+        "profile_path": null,
+        "cast_id": 25,
+        "character": "Sales manager in videostore (uncredited)",
+        "credit_id": "695fe4ff6980926cf91d7aa9",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5926464,
+        "known_for_department": "Acting",
+        "name": "Christian Pundy",
+        "original_name": "Christian Pundy",
+        "popularity": 0.0362,
+        "profile_path": null,
+        "cast_id": 26,
+        "character": "",
+        "credit_id": "695fe5348915431aa31d7a87",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3972453,
+        "known_for_department": "Camera",
+        "name": "Max Berner",
+        "original_name": "Max Berner",
+        "popularity": 0.0892,
+        "profile_path": null,
+        "cast_id": 27,
+        "character": "",
+        "credit_id": "695fe548e8bef375f2595698",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1303084,
+        "known_for_department": "Acting",
+        "name": "Shelley Kästner",
+        "original_name": "Shelley Kästner",
+        "popularity": 0.0409,
+        "profile_path": "/dbky4JNiNuE6gITqKhOUBU71B1e.jpg",
+        "cast_id": 29,
+        "character": "",
+        "credit_id": "695fe5801f78437e061d7aa3",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 49444,
+        "known_for_department": "Acting",
+        "name": "Hanspeter Müller",
+        "original_name": "Hanspeter Müller",
+        "popularity": 0.3132,
+        "profile_path": "/xIL9I0vKJto1HVvmmVMdo1dUBy2.jpg",
+        "cast_id": 28,
+        "character": "",
+        "credit_id": "695fe55e0cb2479034170a4c",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 48081,
+        "known_for_department": "Acting",
+        "name": "Wolfgang Böck",
+        "original_name": "Wolfgang Böck",
+        "popularity": 0.3769,
+        "profile_path": "/ApTYucdkXbreSxoWGsHwesLlFK9.jpg",
+        "cast_id": 30,
+        "character": "",
+        "credit_id": "695fe59aecf560ce411d7aae",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5926467,
+        "known_for_department": "Acting",
+        "name": "Cecile Gordon",
+        "original_name": "Cecile Gordon",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 31,
+        "character": "",
+        "credit_id": "695fe5b149d4de0eca363b43",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 14635,
+        "known_for_department": "Acting",
+        "name": "Paulus Manker",
+        "original_name": "Paulus Manker",
+        "popularity": 0.3625,
+        "profile_path": "/1QaR8Ez7CAVGSGCIwTUahkfRhOC.jpg",
+        "cast_id": 32,
+        "character": "",
+        "credit_id": "695fe5c51a6565245d5956a0",
+        "order": 13
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 20454,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Erika Navas",
+        "original_name": "Erika Navas",
+        "popularity": 0.0853,
+        "profile_path": null,
+        "credit_id": "52fe4329c3a36847f803edd7",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 20455,
+        "known_for_department": "Production",
+        "name": "Gebhard Zupan",
+        "original_name": "Gebhard Zupan",
+        "popularity": 0.0239,
+        "profile_path": null,
+        "credit_id": "52fe4329c3a36847f803ede3",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6011,
+        "known_for_department": "Directing",
+        "name": "Michael Haneke",
+        "original_name": "Michael Haneke",
+        "popularity": 0.7738,
+        "profile_path": "/9wDbsPQ5lu9A04FJ1pVi9y1dRjn.jpg",
+        "credit_id": "52fe4329c3a36847f803ed9d",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6027,
+        "known_for_department": "Camera",
+        "name": "Christian Berger",
+        "original_name": "Christian Berger",
+        "popularity": 0.1776,
+        "profile_path": "/goGTj0r1IEzajrsctv3O4LkHunX.jpg",
+        "credit_id": "52fe4329c3a36847f803edbf",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 20453,
+        "known_for_department": "Art",
+        "name": "Christian Schuster",
+        "original_name": "Christian Schuster",
+        "popularity": 0.0168,
+        "profile_path": null,
+        "credit_id": "52fe4329c3a36847f803edd1",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 20451,
+        "known_for_department": "Production",
+        "name": "Bernard Lang",
+        "original_name": "Bernard Lang",
+        "popularity": 0.0491,
+        "profile_path": null,
+        "credit_id": "52fe4329c3a36847f803edb9",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 20452,
+        "known_for_department": "Editing",
+        "name": "Marie Homolkova",
+        "original_name": "Marie Homolkova",
+        "popularity": 0.0974,
+        "profile_path": null,
+        "credit_id": "52fe4329c3a36847f803edc5",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6032,
+        "known_for_department": "Art",
+        "name": "Christoph Kanter",
+        "original_name": "Christoph Kanter",
+        "popularity": 0.1096,
+        "profile_path": null,
+        "credit_id": "52fe4329c3a36847f803edcb",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6011,
+        "known_for_department": "Directing",
+        "name": "Michael Haneke",
+        "original_name": "Michael Haneke",
+        "popularity": 0.7738,
+        "profile_path": "/9wDbsPQ5lu9A04FJ1pVi9y1dRjn.jpg",
+        "credit_id": "52fe4329c3a36847f803ed97",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6101,
+        "known_for_department": "Production",
+        "name": "Michael Katz",
+        "original_name": "Michael Katz",
+        "popularity": 0.2135,
+        "profile_path": "/y4bO8sqCNgZe4SB1xherWRU80iq.jpg",
+        "credit_id": "52fe4329c3a36847f803eddd",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6098,
+        "known_for_department": "Production",
+        "name": "Veit Heiduschka",
+        "original_name": "Veit Heiduschka",
+        "popularity": 0.1913,
+        "profile_path": "/p92hrerESR8UeqacfRrN07mG56z.jpg",
+        "credit_id": "52fe4329c3a36847f803edb3",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1607928,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Giacomo Peier",
+        "original_name": "Giacomo Peier",
+        "popularity": 0.0338,
+        "profile_path": null,
+        "credit_id": "5b6394a80e0a267ef403e204",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2098659,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Elisabeth Preindl",
+        "original_name": "Elisabeth Preindl",
+        "popularity": 0.0453,
+        "profile_path": null,
+        "credit_id": "5b6394b5925141406a03b667",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1573986,
+        "known_for_department": "Sound",
+        "name": "Karl Schlifelner",
+        "original_name": "Karl Schlifelner",
+        "popularity": 0.0441,
+        "profile_path": null,
+        "credit_id": "5b6394d40e0a267ef803fa30",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 67826,
+        "known_for_department": "Sound",
+        "name": "Johann Sebastian Bach",
+        "original_name": "Johann Sebastian Bach",
+        "popularity": 0.213,
+        "profile_path": "/l8QFP8Pt4IQc4iQPvYbgIyNTEXX.jpg",
+        "credit_id": "5f7f603ad55c3d0036f0d21b",
+        "department": "Sound",
+        "job": "Music"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "AR",
+        "title": "El video de Benny",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "BR",
+        "title": "O Video de Benny",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "HR",
+        "title": "Bennyjev video",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "CZ",
+        "title": "Bennyho Video",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "DK",
+        "title": "Bennys video",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "FI",
+        "title": "Bennyn video",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "GR",
+        "title": "Το Βίντεο του Μπένι",
+        "type": "festival title"
+      },
+      {
+        "iso_3166_1": "HU",
+        "title": "Benny videója",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "JP",
+        "title": "ベニーズ・ビデオ",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "LT",
+        "title": "Benio video",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "PL",
+        "title": "Wideo Benny'ego",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "RO",
+        "title": "Videoul lui Benny",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "RU",
+        "title": "Видео Бенни",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "RS",
+        "title": "Benijev video",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "SI",
+        "title": "Bennyjev video",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "ES",
+        "title": "El vídeo de Benny",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "TW",
+        "title": "班尼的錄影帶",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "TR",
+        "title": "Benny'nin Videosu",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "UA",
+        "title": "Відео Бенні",
+        "type": ""
+      }
+    ]
+  }
+}

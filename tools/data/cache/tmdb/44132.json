@@ -1,0 +1,717 @@
+{
+  "adult": false,
+  "backdrop_path": "/xkzcyjeQJPBUqv8klb0eh6LMV2b.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 44132,
+  "imdb_id": "tt0072752",
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "La Bête",
+  "overview": "The head of a failing French family thinks that fate has smiled down on him when the daughter of a wealthy man agrees to be married to his son. The daughter and her aunt then travel out to the French countryside to meet with the family, unaware that a mysterious 'beast' is stalking the vicinity.",
+  "popularity": 1.7819,
+  "poster_path": "/jIKqdwBYutlyItSBed8uBS5mCJX.jpg",
+  "production_companies": [
+    {
+      "id": 6116,
+      "logo_path": "/yCu2D15iD7lcYsBWqXjU65U9nkH.png",
+      "name": "Argos films",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "1975-08-20",
+  "revenue": 0,
+  "runtime": 98,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    },
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Just About The Most Outrageous Erotic Fantasy Ever Committed To Film.",
+  "title": "The Beast",
+  "video": false,
+  "vote_average": 5.5,
+  "vote_count": 180,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 130314,
+        "known_for_department": "Acting",
+        "name": "Sirpa Lane",
+        "original_name": "Sirpa Lane",
+        "popularity": 0.3096,
+        "profile_path": null,
+        "cast_id": 2,
+        "character": "Romilda de l'Esperance",
+        "credit_id": "52fe4678c3a36847f8100eef",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 130315,
+        "known_for_department": "Acting",
+        "name": "Lisbeth Hummel",
+        "original_name": "Lisbeth Hummel",
+        "popularity": 0.2897,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "Lucy Broadhurst",
+        "credit_id": "52fe4678c3a36847f8100ef3",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 136813,
+        "known_for_department": "Acting",
+        "name": "Elisabeth Kaza",
+        "original_name": "Elisabeth Kaza",
+        "popularity": 0.3158,
+        "profile_path": "/6Y9dXdVAC7L9G10iiRhAcAC3Q6z.jpg",
+        "cast_id": 10,
+        "character": "Virginia Broadhurst",
+        "credit_id": "52fe4678c3a36847f8100f1b",
+        "order": 2
+      },
+      {
+        "adult": true,
+        "gender": 0,
+        "id": 136815,
+        "known_for_department": "Acting",
+        "name": "Pierre Benedetti",
+        "original_name": "Pierre Benedetti",
+        "popularity": 0,
+        "profile_path": null,
+        "cast_id": 11,
+        "character": "Mathurin de l'Esperance",
+        "credit_id": "52fe4678c3a36847f8100f1f",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 35046,
+        "known_for_department": "Acting",
+        "name": "Guy Tréjan",
+        "original_name": "Guy Tréjan",
+        "popularity": 0.2505,
+        "profile_path": "/4RdQqzdKhqQ04gvMVFi7UxoiQqi.jpg",
+        "cast_id": 12,
+        "character": "Marquis Pierre de l'Esperance",
+        "credit_id": "52fe4678c3a36847f8100f23",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 115107,
+        "known_for_department": "Acting",
+        "name": "Roland Armontel",
+        "original_name": "Roland Armontel",
+        "popularity": 0.3558,
+        "profile_path": "/sspmSFj1wIOIvHTfRnmzs6FhJkc.jpg",
+        "cast_id": 13,
+        "character": "Priest",
+        "credit_id": "52fe4678c3a36847f8100f27",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4121,
+        "known_for_department": "Acting",
+        "name": "Marcel Dalio",
+        "original_name": "Marcel Dalio",
+        "popularity": 0.7062,
+        "profile_path": "/yYZMbAl56e5S7uFbiFbj0YziIDB.jpg",
+        "cast_id": 14,
+        "character": "Duc Rammendelo",
+        "credit_id": "52fe4678c3a36847f8100f2b",
+        "order": 6
+      },
+      {
+        "adult": true,
+        "gender": 0,
+        "id": 136816,
+        "known_for_department": "Acting",
+        "name": "Robert Capia",
+        "original_name": "Robert Capia",
+        "popularity": 0,
+        "profile_path": null,
+        "cast_id": 15,
+        "character": "Roberto",
+        "credit_id": "52fe4678c3a36847f8100f2f",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 136817,
+        "known_for_department": "Acting",
+        "name": "Pascale Rivault",
+        "original_name": "Pascale Rivault",
+        "popularity": 0.2205,
+        "profile_path": "/wpdsT6TW4mW5IjEkaQKhy6ObBGB.jpg",
+        "cast_id": 16,
+        "character": "Clarisse De l'Esperance",
+        "credit_id": "52fe4678c3a36847f8100f33",
+        "order": 8
+      },
+      {
+        "adult": true,
+        "gender": 0,
+        "id": 136818,
+        "known_for_department": "Acting",
+        "name": "Hassane Fall",
+        "original_name": "Hassane Fall",
+        "popularity": 0,
+        "profile_path": null,
+        "cast_id": 17,
+        "character": "Ifany",
+        "credit_id": "52fe4678c3a36847f8100f37",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 136819,
+        "known_for_department": "Acting",
+        "name": "Anna Baldaccini",
+        "original_name": "Anna Baldaccini",
+        "popularity": 0.0803,
+        "profile_path": null,
+        "cast_id": 18,
+        "character": "Théodore",
+        "credit_id": "52fe4678c3a36847f8100f3b",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 136821,
+        "known_for_department": "Acting",
+        "name": "Thierry Bourdon",
+        "original_name": "Thierry Bourdon",
+        "popularity": 0.0363,
+        "profile_path": null,
+        "cast_id": 19,
+        "character": "Modeste",
+        "credit_id": "52fe4678c3a36847f8100f3f",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 136825,
+        "known_for_department": "Acting",
+        "name": "Marie Testanière",
+        "original_name": "Marie Testanière",
+        "popularity": 0.051,
+        "profile_path": null,
+        "cast_id": 22,
+        "character": "Marie",
+        "credit_id": "52fe4678c3a36847f8100f4b",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 136826,
+        "known_for_department": "Acting",
+        "name": "Stéphane Testanière",
+        "original_name": "Stéphane Testanière",
+        "popularity": 0,
+        "profile_path": null,
+        "cast_id": 23,
+        "character": "Stéphane",
+        "credit_id": "52fe4678c3a36847f8100f4f",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5185,
+        "known_for_department": "Acting",
+        "name": "Jean Martinelli",
+        "original_name": "Jean Martinelli",
+        "popularity": 0.3187,
+        "profile_path": "/kItuj3hxe5z6iUxTQcvWm1G2LX1.jpg",
+        "cast_id": 24,
+        "character": "Cardinal Joseph de Balo",
+        "credit_id": "52fe4679c3a36847f8100f53",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1706087,
+        "known_for_department": "Acting",
+        "name": "Mathieu Rivolier",
+        "original_name": "Mathieu Rivolier",
+        "popularity": 0.0429,
+        "profile_path": "/5XXlceIb8ocGtWNvLggeCIHe6Hq.jpg",
+        "cast_id": 44,
+        "character": "",
+        "credit_id": "64bd5a270ed2ab00acc56a67",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 136823,
+        "known_for_department": "Acting",
+        "name": "Julien Hanany",
+        "original_name": "Julien Hanany",
+        "popularity": 0.0168,
+        "profile_path": null,
+        "cast_id": 21,
+        "character": "",
+        "credit_id": "52fe4678c3a36847f8100f47",
+        "order": 16
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6789,
+        "known_for_department": "Camera",
+        "name": "Marcel Grignon",
+        "original_name": "Marcel Grignon",
+        "popularity": 0.0666,
+        "profile_path": null,
+        "credit_id": "52fe4678c3a36847f8100f05",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2304,
+        "known_for_department": "Production",
+        "name": "Anatole Dauman",
+        "original_name": "Anatole Dauman",
+        "popularity": 0.1268,
+        "profile_path": "/6OMlQTVM3D2lKiVt6eccx7JIMCP.jpg",
+        "credit_id": "52fe4678c3a36847f8100f0b",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 130313,
+        "known_for_department": "Directing",
+        "name": "Walerian Borowczyk",
+        "original_name": "Walerian Borowczyk",
+        "popularity": 0.4158,
+        "profile_path": "/pMnHLINBmGqlAcrNRKZ6JzkppUF.jpg",
+        "credit_id": "52fe4678c3a36847f8100ef9",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 130313,
+        "known_for_department": "Directing",
+        "name": "Walerian Borowczyk",
+        "original_name": "Walerian Borowczyk",
+        "popularity": 0.4158,
+        "profile_path": "/pMnHLINBmGqlAcrNRKZ6JzkppUF.jpg",
+        "credit_id": "52fe4678c3a36847f8100eeb",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 130316,
+        "known_for_department": "Art",
+        "name": "Alain Guillé",
+        "original_name": "Alain Guillé",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "52fe4678c3a36847f8100f17",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 130313,
+        "known_for_department": "Directing",
+        "name": "Walerian Borowczyk",
+        "original_name": "Walerian Borowczyk",
+        "popularity": 0.4158,
+        "profile_path": "/pMnHLINBmGqlAcrNRKZ6JzkppUF.jpg",
+        "credit_id": "52fe4678c3a36847f8100f11",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 20939,
+        "known_for_department": "Camera",
+        "name": "Bernard Daillencourt",
+        "original_name": "Bernard Daillencourt",
+        "popularity": 0.111,
+        "profile_path": null,
+        "credit_id": "52fe4678c3a36847f8100eff",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 19344,
+        "known_for_department": "Sound",
+        "name": "Jean-Pierre Ruh",
+        "original_name": "Jean-Pierre Ruh",
+        "popularity": 0.2218,
+        "profile_path": "/sGW2j1b8Lghf35Id9B3NRM4j2Pa.jpg",
+        "credit_id": "60f9ba2df056d5004762ed5a",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3590,
+        "known_for_department": "Sound",
+        "name": "Michel Laurent",
+        "original_name": "Michel Laurent",
+        "popularity": 0.0505,
+        "profile_path": "/4OiJcMQEDZbyIh1qruoHJlIIIbk.jpg",
+        "credit_id": "60f9ba1efd140b005d2e8e4d",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1304860,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Odette Berroyer",
+        "original_name": "Odette Berroyer",
+        "popularity": 0.0532,
+        "profile_path": "/oaURrUmF3k7jdqD7Kz7CvLKXli0.jpg",
+        "credit_id": "60f9ba1297fdec0074de5ca8",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 959458,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Piet Bolscher",
+        "original_name": "Piet Bolscher",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "60f9ba0997fdec0074de5ca2",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 38090,
+        "known_for_department": "Art",
+        "name": "Jacques d'Ovidio",
+        "original_name": "Jacques d'Ovidio",
+        "popularity": 0.0261,
+        "profile_path": null,
+        "credit_id": "60f9b9f7944a57005e3f19fd",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1366989,
+        "known_for_department": "Production",
+        "name": "Florence Dauman",
+        "original_name": "Florence Dauman",
+        "popularity": 0.1066,
+        "profile_path": null,
+        "credit_id": "64bd591be9da69012e0e606c",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4176483,
+        "known_for_department": "Editing",
+        "name": "Claude Delon",
+        "original_name": "Claude Delon",
+        "popularity": 0.0478,
+        "profile_path": null,
+        "credit_id": "64bd592658efd300e2f20cff",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1268569,
+        "known_for_department": "Camera",
+        "name": "Jean-Pierre Platel",
+        "original_name": "Jean-Pierre Platel",
+        "popularity": 0.0552,
+        "profile_path": null,
+        "credit_id": "64bd593485c0a201254fd24e",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1710126,
+        "known_for_department": "Editing",
+        "name": "Michel Valio",
+        "original_name": "Michel Valio",
+        "popularity": 0.0897,
+        "profile_path": null,
+        "credit_id": "64bd5959b865eb00ff4d2734",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1362215,
+        "known_for_department": "Production",
+        "name": "Dominique Duvergé",
+        "original_name": "Dominique Duvergé",
+        "popularity": 0.0951,
+        "profile_path": null,
+        "credit_id": "64bd589185c0a20106104021",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 37458,
+        "known_for_department": "Editing",
+        "name": "Monique Prim",
+        "original_name": "Monique Prim",
+        "popularity": 0.0681,
+        "profile_path": null,
+        "credit_id": "64bd594358efd300ace220a8",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4176479,
+        "known_for_department": "Lighting",
+        "name": "Serge Boiron",
+        "original_name": "Serge Boiron",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "64bd58d1ad50f0011e5ba562",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1607874,
+        "known_for_department": "Sound",
+        "name": "Jean Duguet",
+        "original_name": "Jean Duguet",
+        "popularity": 0.0493,
+        "profile_path": null,
+        "credit_id": "64bd5998eb79c200e28dacd0",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1451461,
+        "known_for_department": "Sound",
+        "name": "Alex Pront",
+        "original_name": "Alex Pront",
+        "popularity": 0.1803,
+        "profile_path": null,
+        "credit_id": "64bd58b0b865eb00ff4d26f6",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1268565,
+        "known_for_department": "Camera",
+        "name": "Noël Véry",
+        "original_name": "Noël Véry",
+        "popularity": 0.1369,
+        "profile_path": null,
+        "credit_id": "64bd58dd0ed2ab011ca83274",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4176482,
+        "known_for_department": "Editing",
+        "name": "Florence Bory",
+        "original_name": "Florence Bory",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "64bd58f785c0a200ad608dba",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2663213,
+        "known_for_department": "Directing",
+        "name": "Alain Cayrade",
+        "original_name": "Alain Cayrade",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "64bd5905e9da6900ecea8163",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2007040,
+        "known_for_department": "Camera",
+        "name": "Robert Atellian",
+        "original_name": "Robert Atellian",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "64bd5974e9da69014fec0aff",
+        "department": "Crew",
+        "job": "Machinist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4176481,
+        "known_for_department": "Camera",
+        "name": "Gérard Wurtz",
+        "original_name": "Gérard Wurtz",
+        "popularity": 0.0168,
+        "profile_path": null,
+        "credit_id": "64bd58ea58efd3011c3fca84",
+        "department": "Camera",
+        "job": "Still Photographer"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "US",
+        "title": "The Beast in Heat",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "US",
+        "title": "Death's Ecstacy",
+        "type": "Censored Version Title / Alternative Title"
+      },
+      {
+        "iso_3166_1": "FI",
+        "title": "Peto",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "BR",
+        "title": "A Besta",
+        "type": "DVD Title"
+      },
+      {
+        "iso_3166_1": "BR",
+        "title": "A Mulher e... La Bête",
+        "type": "Theatrical Title"
+      },
+      {
+        "iso_3166_1": "DK",
+        "title": "La bête - Jomfruen og menneskedyret",
+        "type": "DVD Title"
+      },
+      {
+        "iso_3166_1": "GR",
+        "title": "To ktinos",
+        "type": "transliteration"
+      },
+      {
+        "iso_3166_1": "SU",
+        "title": "Зверь",
+        "type": "Russian Title"
+      },
+      {
+        "iso_3166_1": "AU",
+        "title": "The Beast",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "PT",
+        "title": "O Monstro",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "JP",
+        "title": "邪淫の館 獣人",
+        "type": ""
+      }
+    ]
+  }
+}

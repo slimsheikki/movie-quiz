@@ -1,0 +1,186 @@
+{
+  "adult": false,
+  "backdrop_path": "/hr8np4LSVPs0hYuyhMOqloma0Od.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 137054,
+  "imdb_id": "tt0161306",
+  "origin_country": [
+    "DE"
+  ],
+  "original_language": "de",
+  "original_title": "Der Bomberpilot",
+  "overview": "Schroeter’s film is a chronicle of Germany from the Nazi era until the economic boom of the 1950s and 1960s, centering on three women who search for a career as singers and dancers.",
+  "popularity": 0.1279,
+  "poster_path": "/7ciKQ3v9VfuvM2zwu8OMuAAyKSU.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "release_date": "1970-11-03",
+  "revenue": 0,
+  "runtime": 65,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Der Bomberpilot",
+  "video": false,
+  "vote_average": 6.313,
+  "vote_count": 8,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 68116,
+        "known_for_department": "Acting",
+        "name": "Carla Egerer",
+        "original_name": "Carla Egerer",
+        "popularity": 0.1672,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "Carla",
+        "credit_id": "52fe4c24c3a368484e1a9863",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1106599,
+        "known_for_department": "Acting",
+        "name": "Mascha Rabben",
+        "original_name": "Mascha Rabben",
+        "popularity": 0.3042,
+        "profile_path": "/22mwPlxk2VmuJgVZo8nplLPAXdN.jpg",
+        "cast_id": 4,
+        "character": "Mascha",
+        "credit_id": "52fe4c24c3a368484e1a9867",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 45197,
+        "known_for_department": "Acting",
+        "name": "Magdalena Montezuma",
+        "original_name": "Magdalena Montezuma",
+        "popularity": 0.3698,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "Magdalena",
+        "credit_id": "52fe4c24c3a368484e1a986b",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1106602,
+        "known_for_department": "Acting",
+        "name": "Suzanne Sheed",
+        "original_name": "Suzanne Sheed",
+        "popularity": 0.0261,
+        "profile_path": null,
+        "cast_id": 6,
+        "character": "",
+        "credit_id": "52fe4c24c3a368484e1a986f",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 45192,
+        "known_for_department": "Directing",
+        "name": "Werner Schroeter",
+        "original_name": "Werner Schroeter",
+        "popularity": 0.2772,
+        "profile_path": "/yrTk3uMtzx0mu9ZyqHA59XiC5bA.jpg",
+        "cast_id": 7,
+        "character": "",
+        "credit_id": "5e513ebfa76ac50016a24601",
+        "order": 4
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 45192,
+        "known_for_department": "Directing",
+        "name": "Werner Schroeter",
+        "original_name": "Werner Schroeter",
+        "popularity": 0.2772,
+        "profile_path": "/yrTk3uMtzx0mu9ZyqHA59XiC5bA.jpg",
+        "credit_id": "52fe4c24c3a368484e1a9859",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 45192,
+        "known_for_department": "Directing",
+        "name": "Werner Schroeter",
+        "original_name": "Werner Schroeter",
+        "popularity": 0.2772,
+        "profile_path": "/yrTk3uMtzx0mu9ZyqHA59XiC5bA.jpg",
+        "credit_id": "52fe4c24c3a368484e1a985f",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 45192,
+        "known_for_department": "Directing",
+        "name": "Werner Schroeter",
+        "original_name": "Werner Schroeter",
+        "popularity": 0.2772,
+        "profile_path": "/yrTk3uMtzx0mu9ZyqHA59XiC5bA.jpg",
+        "credit_id": "5e513ecea76ac50011a1d46c",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 45192,
+        "known_for_department": "Directing",
+        "name": "Werner Schroeter",
+        "original_name": "Werner Schroeter",
+        "popularity": 0.2772,
+        "profile_path": "/yrTk3uMtzx0mu9ZyqHA59XiC5bA.jpg",
+        "credit_id": "5e513ed9f48b3400136e6361",
+        "department": "Editing",
+        "job": "Editor"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  }
+}

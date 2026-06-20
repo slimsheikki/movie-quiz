@@ -1,0 +1,514 @@
+{
+  "adult": false,
+  "backdrop_path": "/hsOqtX5G0y27hfsD22D5jgUWhgX.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 23990,
+  "imdb_id": "tt0218581",
+  "origin_country": [
+    "IT"
+  ],
+  "original_language": "it",
+  "original_title": "Scarlet Diva",
+  "overview": "A young Italian actress embarks on a self-destructive spree of sex, drugs and other excess while doing some soul searching to find the path for redemption.",
+  "popularity": 0.8189,
+  "poster_path": "/zo2uucPQ9FaGCwRG2tRV4V2KBVj.jpg",
+  "production_companies": [
+    {
+      "id": 1549,
+      "logo_path": null,
+      "name": "Opera Film Produzione",
+      "origin_country": "IT"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    }
+  ],
+  "release_date": "2000-05-26",
+  "revenue": 0,
+  "runtime": 91,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Scarlet Diva",
+  "video": false,
+  "vote_average": 4.8,
+  "vote_count": 69,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 18514,
+        "known_for_department": "Acting",
+        "name": "Asia Argento",
+        "original_name": "Asia Argento",
+        "popularity": 2.0475,
+        "profile_path": "/dYbYNxMnqhNyAJyrPU7e2C9jcRz.jpg",
+        "cast_id": 1,
+        "character": "Anna Battista",
+        "credit_id": "52fe447ac3a368484e0257d5",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 90703,
+        "known_for_department": "Acting",
+        "name": "Jean Shepard",
+        "original_name": "Jean Shepard",
+        "popularity": 0.0617,
+        "profile_path": "/p26WwSI9L3v04Qj47T30MwRPO54.jpg",
+        "cast_id": 2,
+        "character": "Kirk Vaines",
+        "credit_id": "52fe447ac3a368484e0257d9",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 45808,
+        "known_for_department": "Acting",
+        "name": "Herbert Fritsch",
+        "original_name": "Herbert Fritsch",
+        "popularity": 0.3198,
+        "profile_path": "/h1X4dlUHaA5JZmdVM4FCB2rVcRx.jpg",
+        "cast_id": 3,
+        "character": "Aaron Ulrich",
+        "credit_id": "52fe447ac3a368484e0257dd",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 31010,
+        "known_for_department": "Production",
+        "name": "Gianluca Arcopinto",
+        "original_name": "Gianluca Arcopinto",
+        "popularity": 0.1416,
+        "profile_path": "/2sI97j4WE00lLJDFJIBhgFR8GQz.jpg",
+        "cast_id": 4,
+        "character": "Dr. Pascuccia",
+        "credit_id": "52fe447ac3a368484e0257e1",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1477850,
+        "known_for_department": "Acting",
+        "name": "Vera Gemma",
+        "original_name": "Vera Gemma",
+        "popularity": 0.3285,
+        "profile_path": "/2Zqn9pkNvXQPzcUdxjdckJA7mBq.jpg",
+        "cast_id": 14,
+        "character": "Veronica Lanza",
+        "credit_id": "558009c99251412f2000173f",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 44959,
+        "known_for_department": "Acting",
+        "name": "Daria Nicolodi",
+        "original_name": "Daria Nicolodi",
+        "popularity": 0.8768,
+        "profile_path": "/xxMbsQXzNEBtA8oNmP24aBx2Pfw.jpg",
+        "cast_id": 15,
+        "character": "Anna's Mother",
+        "credit_id": "55800a1cc3a36871ad001882",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 78711,
+        "known_for_department": "Acting",
+        "name": "Francesca D'Aloja",
+        "original_name": "Francesca D'Aloja",
+        "popularity": 0.2321,
+        "profile_path": "/vAMBffbsq2WIkM0xD8XOofh831.jpg",
+        "cast_id": 16,
+        "character": "Margherita",
+        "credit_id": "55800a30c3a36871ad001885",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 549580,
+        "known_for_department": "Acting",
+        "name": "Joe Coleman",
+        "original_name": "Joe Coleman",
+        "popularity": 0.1695,
+        "profile_path": "/r83m9fcGcloGg7PeaRtPnT6O71D.jpg",
+        "cast_id": 17,
+        "character": "Mr. Paar",
+        "credit_id": "55800a5ac3a36871b800175e",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 119992,
+        "known_for_department": "Acting",
+        "name": "Leo Gullotta",
+        "original_name": "Leo Gullotta",
+        "popularity": 0.2687,
+        "profile_path": "/wn9LQjKRZxrXm6a5zyfrLs71ChM.jpg",
+        "cast_id": 18,
+        "character": "Dr. Vessi",
+        "credit_id": "55800a799251412f0e001716",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1168192,
+        "known_for_department": "Acting",
+        "name": "Schoolly D",
+        "original_name": "Schoolly D",
+        "popularity": 0.2704,
+        "profile_path": null,
+        "cast_id": 19,
+        "character": "Hash-Man",
+        "credit_id": "59e177b4c3a3680e800080e2",
+        "order": 9
+      },
+      {
+        "adult": true,
+        "gender": 1,
+        "id": 563650,
+        "known_for_department": "Acting",
+        "name": "Selen",
+        "original_name": "Luce Caponegro",
+        "popularity": 0,
+        "profile_path": "/kdfKTj9sOrIt2sy1cXb3aQ81tnN.jpg",
+        "cast_id": 20,
+        "character": "Quelou",
+        "credit_id": "59e1f11792514172690130b3",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2439736,
+        "known_for_department": "Acting",
+        "name": "Vanessa Meadows",
+        "original_name": "Vanessa Meadows",
+        "popularity": 0.0193,
+        "profile_path": "/mriseVISClM6SMls8zlWZjaSftm.jpg",
+        "cast_id": 31,
+        "character": "Luke Ford",
+        "credit_id": "63503bd184448e007a5c6476",
+        "order": 11
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 18514,
+        "known_for_department": "Acting",
+        "name": "Asia Argento",
+        "original_name": "Asia Argento",
+        "popularity": 2.0475,
+        "profile_path": "/dYbYNxMnqhNyAJyrPU7e2C9jcRz.jpg",
+        "credit_id": "52fe447ac3a368484e0257e7",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 18514,
+        "known_for_department": "Acting",
+        "name": "Asia Argento",
+        "original_name": "Asia Argento",
+        "popularity": 2.0475,
+        "profile_path": "/dYbYNxMnqhNyAJyrPU7e2C9jcRz.jpg",
+        "credit_id": "52fe447ac3a368484e0257ed",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 65751,
+        "known_for_department": "Production",
+        "name": "Claudio Argento",
+        "original_name": "Claudio Argento",
+        "popularity": 0.1717,
+        "profile_path": "/uwo9sozBD0t1q0iyWdwOmTSc7UT.jpg",
+        "credit_id": "52fe447ac3a368484e0257f3",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 90708,
+        "known_for_department": "Production",
+        "name": "Adriana Chiesa De Palma",
+        "original_name": "Adriana Chiesa De Palma",
+        "popularity": 0.0412,
+        "profile_path": null,
+        "credit_id": "52fe447bc3a368484e02580b",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 90704,
+        "known_for_department": "Production",
+        "name": "Gianluca Curti",
+        "original_name": "Gianluca Curti",
+        "popularity": 0.2097,
+        "profile_path": null,
+        "credit_id": "52fe447bc3a368484e0257ff",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4955,
+        "known_for_department": "Directing",
+        "name": "Dario Argento",
+        "original_name": "Dario Argento",
+        "popularity": 1.2917,
+        "profile_path": "/2WjQlcLxhvmO9NtCfNh2npMVYqp.jpg",
+        "credit_id": "52fe447bc3a368484e0257f9",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 90707,
+        "known_for_department": "Sound",
+        "name": "Stefano Curti",
+        "original_name": "Stefano Curti",
+        "popularity": 0.0708,
+        "profile_path": null,
+        "credit_id": "52fe447bc3a368484e025805",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": true,
+        "gender": 2,
+        "id": 76175,
+        "known_for_department": "Production",
+        "name": "John Sirabella",
+        "original_name": "John Sirabella",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "52fe447bc3a368484e025811",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1462092,
+        "known_for_department": "Sound",
+        "name": "John Hughes",
+        "original_name": "John Hughes",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "5544b03cc3a3680ce600418e",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2067692,
+        "known_for_department": "Editing",
+        "name": "Scott Marchfeld",
+        "original_name": "Scott Marchfeld",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "5d8011859f1be70014e2247d",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2412565,
+        "known_for_department": "Art",
+        "name": "Alessandro Rosa",
+        "original_name": "Alessandro Rosa",
+        "popularity": 0.0511,
+        "profile_path": null,
+        "credit_id": "5d8011a4389da10020958aae",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2412568,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Claudio Noto",
+        "original_name": "Claudio Noto",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "5d8011c99f1be70014e224b0",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 989102,
+        "known_for_department": "Camera",
+        "name": "Frederic Fasano",
+        "original_name": "Frederic Fasano",
+        "popularity": 0.1716,
+        "profile_path": null,
+        "credit_id": "5d80117c8e20c5001c34829d",
+        "department": "Crew",
+        "job": "Cinematography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1575790,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Barbara Morosetti",
+        "original_name": "Barbara Morosetti",
+        "popularity": 0.0557,
+        "profile_path": null,
+        "credit_id": "5d8011bfba48020014018db9",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2412569,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Salvino Palmieri",
+        "original_name": "Salvino Palmieri",
+        "popularity": 0.0261,
+        "profile_path": null,
+        "credit_id": "5d8011d11056110017d0d35e",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1693774,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Susy Mattolini",
+        "original_name": "Susy Mattolini",
+        "popularity": 0.0168,
+        "profile_path": null,
+        "credit_id": "5d8011ac8e20c5001c3482c9",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2412566,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Daniela Mattia",
+        "original_name": "Daniela Mattia",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "5d8011b58e20c5001c3482d3",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 65837,
+        "known_for_department": "Editing",
+        "name": "Anna Rosa Napoli",
+        "original_name": "Anna Rosa Napoli",
+        "popularity": 0.1366,
+        "profile_path": "/saxD8ynFy23PFCBumxGTOFN2m01.jpg",
+        "credit_id": "5d80119a1056110027d0e094",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2412564,
+        "known_for_department": "Editing",
+        "name": "Kahlid Mills",
+        "original_name": "Kahlid Mills",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "5d80118f21118f002e701e8d",
+        "department": "Editing",
+        "job": "Editor"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "AR",
+        "title": "Diva escarlata",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "BR",
+        "title": "A Diva Escarlate",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "FR",
+        "title": "Scarlet Diva",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "GR",
+        "title": "I roz diva",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "RS",
+        "title": "Grimizna diva",
+        "type": ""
+      }
+    ]
+  }
+}

@@ -1,0 +1,579 @@
+{
+  "adult": false,
+  "backdrop_path": "/lcjcbS0Am4SaBGli3JnxlOM66z0.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 96118,
+  "imdb_id": "tt0058124",
+  "origin_country": [
+    "SE"
+  ],
+  "original_language": "sv",
+  "original_title": "För att inte tala om alla dessa kvinnor",
+  "overview": "Pretentious critic Cornelius is writing a biography on a famous cellist and to do some research he stays in the cellist's house for a few days. He doesn't manage to get an interview with the man, but by talking to all the women who live with him, he comes to learn a lot about the musician's private life none the less. Cornelius then decides to use this information to blackmail the cellist into performing a composition that he, Cornelius, has written.",
+  "popularity": 0.4294,
+  "poster_path": "/jOOLYdOUbXL5ufuxP6Xr8llajKr.jpg",
+  "production_companies": [
+    {
+      "id": 6181,
+      "logo_path": "/gYyww91VI1jdH89xpZgFFc8zN3F.png",
+      "name": "SF Studios",
+      "origin_country": "SE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "SE",
+      "name": "Sweden"
+    }
+  ],
+  "release_date": "1964-06-15",
+  "revenue": 0,
+  "runtime": 77,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    },
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "All These Women",
+  "video": false,
+  "vote_average": 6.1,
+  "vote_count": 61,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1022633,
+        "known_for_department": "Acting",
+        "name": "Jarl Kulle",
+        "original_name": "Jarl Kulle",
+        "popularity": 0.2061,
+        "profile_path": "/9UJ3Msw0k0fkV5vQiRqG3j4Pfq9.jpg",
+        "cast_id": 19,
+        "character": "Cornelius",
+        "credit_id": "52fe49a19251416c750ce3b1",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 6657,
+        "known_for_department": "Acting",
+        "name": "Bibi Andersson",
+        "original_name": "Bibi Andersson",
+        "popularity": 0.6784,
+        "profile_path": "/6EGqmWOR3R3jv3IgrEZmCjTAVGv.jpg",
+        "cast_id": 9,
+        "character": "Humlan",
+        "credit_id": "52fe49a09251416c750ce389",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 7569,
+        "known_for_department": "Acting",
+        "name": "Harriet Andersson",
+        "original_name": "Harriet Andersson",
+        "popularity": 0.3763,
+        "profile_path": "/rFQNqEAyzAw5XAMeVPFZlcveNgF.jpg",
+        "cast_id": 10,
+        "character": "Isolde",
+        "credit_id": "52fe49a09251416c750ce38d",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 70276,
+        "known_for_department": "Acting",
+        "name": "Eva Dahlbeck",
+        "original_name": "Eva Dahlbeck",
+        "popularity": 0.2145,
+        "profile_path": "/ixee7vxjQ20ejJN6gph9Lq0PHJ2.jpg",
+        "cast_id": 11,
+        "character": "Adelaide",
+        "credit_id": "52fe49a09251416c750ce391",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 580665,
+        "known_for_department": "Acting",
+        "name": "Karin Kavli",
+        "original_name": "Karin Kavli",
+        "popularity": 0.0916,
+        "profile_path": "/162pKVICfXmFdOImzf0Z8W1ppec.jpg",
+        "cast_id": 12,
+        "character": "Madame Tussaud",
+        "credit_id": "52fe49a09251416c750ce395",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 246347,
+        "known_for_department": "Acting",
+        "name": "Gertrud Fridh",
+        "original_name": "Gertrud Fridh",
+        "popularity": 0.2755,
+        "profile_path": "/HE0o0FGq8lWgvPxtKsoXe7Q6F5.jpg",
+        "cast_id": 13,
+        "character": "Traviata",
+        "credit_id": "52fe49a09251416c750ce399",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 32729,
+        "known_for_department": "Acting",
+        "name": "Mona Malm",
+        "original_name": "Mona Malm",
+        "popularity": 0.2754,
+        "profile_path": "/pcJ8MMBwh48ETX58A7DqyDxqJS7.jpg",
+        "cast_id": 14,
+        "character": "Cecilia",
+        "credit_id": "52fe49a09251416c750ce39d",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 231918,
+        "known_for_department": "Acting",
+        "name": "Barbro Hiort af Ornäs",
+        "original_name": "Barbro Hiort af Ornäs",
+        "popularity": 0.2318,
+        "profile_path": "/17Umn77fT7DtWxUwTUTAAmUE6lD.jpg",
+        "cast_id": 15,
+        "character": "Beatrica",
+        "credit_id": "52fe49a09251416c750ce3a1",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3857,
+        "known_for_department": "Acting",
+        "name": "Allan Edwall",
+        "original_name": "Allan Edwall",
+        "popularity": 0.6687,
+        "profile_path": "/tleoCES9SH3D6Z8Vp8PcGzu5Rzt.jpg",
+        "cast_id": 16,
+        "character": "Jillker",
+        "credit_id": "52fe49a09251416c750ce3a5",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 550538,
+        "known_for_department": "Acting",
+        "name": "Georg Funkquist",
+        "original_name": "Georg Funkquist",
+        "popularity": 0.1685,
+        "profile_path": "/7Xt8wzCEGizus5lxPSjUilpEO1B.jpg",
+        "cast_id": 17,
+        "character": "Tristan",
+        "credit_id": "52fe49a09251416c750ce3a9",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 139088,
+        "known_for_department": "Acting",
+        "name": "Carl Billquist",
+        "original_name": "Carl Billquist",
+        "popularity": 0.1707,
+        "profile_path": "/v6IPM42oFBKwp4QTU5ajlV6r0LA.jpg",
+        "cast_id": 18,
+        "character": "The Young Man",
+        "credit_id": "52fe49a09251416c750ce3ad",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 131579,
+        "known_for_department": "Acting",
+        "name": "Ulf Johansson",
+        "original_name": "Ulf Johansson",
+        "popularity": 0.2539,
+        "profile_path": "/oBiRcRihJM8bqeK35BBP9oSp6jk.jpg",
+        "cast_id": 26,
+        "character": "Man in Black",
+        "credit_id": "5bb327149251411ca3006fd3",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1122740,
+        "known_for_department": "Acting",
+        "name": "Jan Blomberg",
+        "original_name": "Jan Blomberg",
+        "popularity": 0.1309,
+        "profile_path": "/uRGHCIZEgL53w5WMdiZWsGMafYb.jpg",
+        "cast_id": 28,
+        "character": "",
+        "credit_id": "60b765d36dea3a0058981145",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 54991,
+        "known_for_department": "Acting",
+        "name": "Göran Graffman",
+        "original_name": "Göran Graffman",
+        "popularity": 0.1936,
+        "profile_path": null,
+        "cast_id": 29,
+        "character": "",
+        "credit_id": "60b765e2abf8e2002bde2272",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 48572,
+        "known_for_department": "Acting",
+        "name": "Jan-Olof Strandberg",
+        "original_name": "Jan-Olof Strandberg",
+        "popularity": 0.1996,
+        "profile_path": "/isjFAQ1AdATvTSdyLDtBubndWJC.jpg",
+        "cast_id": 30,
+        "character": "",
+        "credit_id": "60b765ea18b7510058058eb8",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 34774,
+        "known_for_department": "Acting",
+        "name": "Gösta Prüzelius",
+        "original_name": "Gösta Prüzelius",
+        "popularity": 0.2262,
+        "profile_path": "/tVJEosWBRRdl9qI6tUp8ga9DQnS.jpg",
+        "cast_id": 31,
+        "character": "",
+        "credit_id": "60b765f5839d930078e96849",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 48574,
+        "known_for_department": "Acting",
+        "name": "Axel Düberg",
+        "original_name": "Axel Düberg",
+        "popularity": 0.1525,
+        "profile_path": "/aAAs99OOsbdjySLHiYW4yqtsD77.jpg",
+        "cast_id": 32,
+        "character": "",
+        "credit_id": "60b76608a06645006e7f00c1",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2568036,
+        "known_for_department": "Writing",
+        "name": "Lars-Erik Liedholm",
+        "original_name": "Lars-Erik Liedholm",
+        "popularity": 0.0404,
+        "profile_path": null,
+        "cast_id": 33,
+        "character": "",
+        "credit_id": "60b7661257d3780042897775",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 11909,
+        "known_for_department": "Production",
+        "name": "Lars-Owe Carlberg",
+        "original_name": "Lars-Owe Carlberg",
+        "popularity": 0.1694,
+        "profile_path": null,
+        "cast_id": 34,
+        "character": "",
+        "credit_id": "60b76629899da2004248d7a5",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1123776,
+        "known_for_department": "Acting",
+        "name": "Doris Funcke",
+        "original_name": "Doris Funcke",
+        "popularity": 0.0533,
+        "profile_path": null,
+        "cast_id": 35,
+        "character": "",
+        "credit_id": "60b766326905fb00573fd8df",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3111764,
+        "known_for_department": "Acting",
+        "name": "Yvonne Igell",
+        "original_name": "Yvonne Igell",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 36,
+        "character": "",
+        "credit_id": "60b7663a57d378006f778261",
+        "order": 20
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 11905,
+        "known_for_department": "Camera",
+        "name": "Sven Nykvist",
+        "original_name": "Sven Nykvist",
+        "popularity": 0.4381,
+        "profile_path": "/qs8gCA7aTXPfKkGiPdQAqposl5o.jpg",
+        "credit_id": "52fe49a09251416c750ce35b",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 11906,
+        "known_for_department": "Editing",
+        "name": "Ulla Ryghe",
+        "original_name": "Ulla Ryghe",
+        "popularity": 0.1427,
+        "profile_path": "/qXrmCDuxrYelPG94PYnVwzp3oQy.jpg",
+        "credit_id": "52fe49a09251416c750ce361",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 11908,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Mago",
+        "original_name": "Mago",
+        "popularity": 0.0704,
+        "profile_path": "/8kpbMrmHCXhb2qyTGez26AbIo0R.jpg",
+        "credit_id": "52fe49a09251416c750ce36d",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6648,
+        "known_for_department": "Directing",
+        "name": "Ingmar Bergman",
+        "original_name": "Ingmar Bergman",
+        "popularity": 1.433,
+        "profile_path": "/nkmOaXNRoioViN9OQf2n9Iu6akA.jpg",
+        "credit_id": "52fe49a09251416c750ce379",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 38127,
+        "known_for_department": "Acting",
+        "name": "Erland Josephson",
+        "original_name": "Erland Josephson",
+        "popularity": 0.7385,
+        "profile_path": "/dopG1nAzyT23DMAPyPoUuwbZs4a.jpg",
+        "credit_id": "52fe49a09251416c750ce385",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6650,
+        "known_for_department": "Production",
+        "name": "Allan Ekelund",
+        "original_name": "Allan Ekelund",
+        "popularity": 0.0772,
+        "profile_path": "/mJqjS8brEuF5prkLkNeaeYDTFee.jpg",
+        "credit_id": "52fe49a09251416c750ce373",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6648,
+        "known_for_department": "Directing",
+        "name": "Ingmar Bergman",
+        "original_name": "Ingmar Bergman",
+        "popularity": 1.433,
+        "profile_path": "/nkmOaXNRoioViN9OQf2n9Iu6akA.jpg",
+        "credit_id": "52fe49a09251416c750ce37f",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6654,
+        "known_for_department": "Art",
+        "name": "P.A. Lundgren",
+        "original_name": "P.A. Lundgren",
+        "popularity": 0.1444,
+        "profile_path": "/sXMUQJrrGN8GdjXfClWluYXbK8R.jpg",
+        "credit_id": "52fe49a09251416c750ce367",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1612810,
+        "known_for_department": "Sound",
+        "name": "Evald Andersson",
+        "original_name": "Evald Andersson",
+        "popularity": 0.0487,
+        "profile_path": null,
+        "credit_id": "5a900db5925141646900f6e7",
+        "department": "Sound",
+        "job": "Sound Effects"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 11914,
+        "known_for_department": "Sound",
+        "name": "Olle Jakobsson",
+        "original_name": "Olle Jacobsson",
+        "popularity": 0.0873,
+        "profile_path": "/nRWbaqTqItqOqYjBDdmX3tjS6dt.jpg",
+        "credit_id": "5a900dbec3a3682db300f78e",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1526483,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Börje Lundh",
+        "original_name": "Börje Lundh",
+        "popularity": 0.1406,
+        "profile_path": "/qCHN3jyaysVF6ITXuPkazPkUEB2.jpg",
+        "credit_id": "5a900da90e0a2639a7010563",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 11912,
+        "known_for_department": "Sound",
+        "name": "Per-Olof Pettersson",
+        "original_name": "Per-Olof Pettersson",
+        "popularity": 0.0988,
+        "profile_path": "/jKKjyzVrGDVXescKtomlPiKUpz5.jpg",
+        "credit_id": "5a900dc8c3a3682dd000fa15",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6651,
+        "known_for_department": "Sound",
+        "name": "Erik Nordgren",
+        "original_name": "Erik Nordgren",
+        "popularity": 0.1036,
+        "profile_path": "/xE1LsOerpFnO5OQyh4FwtHYcARo.jpg",
+        "credit_id": "5f15bee162620800385a6b7b",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3342109,
+        "known_for_department": "Sound",
+        "name": "Tage Sjöborg",
+        "original_name": "Tage Sjöborg",
+        "popularity": 0.0404,
+        "profile_path": null,
+        "credit_id": "6974da09c04ca6c86769400d",
+        "department": "Sound",
+        "job": "Sound Designer"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "FI",
+        "title": "Puhumattakaan kaikista naisista",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "DK",
+        "title": "Syv glade enker",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "GB",
+        "title": "Now About These Women",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "GB",
+        "title": "All These Women",
+        "type": ""
+      }
+    ]
+  }
+}

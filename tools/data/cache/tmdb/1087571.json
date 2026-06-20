@@ -1,0 +1,607 @@
+{
+  "adult": false,
+  "backdrop_path": "/aU8POCo7adWGBObJjV6wQUyyo60.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 1087571,
+  "imdb_id": "tt26744818",
+  "origin_country": [
+    "ES"
+  ],
+  "original_language": "es",
+  "original_title": "Un amor",
+  "overview": "Upon settling in the countryside village of La Escapa, Nat accepts a disturbing sexual proposal by neighbour Andreas, paving the way for a self-consuming passion.",
+  "popularity": 0.647,
+  "poster_path": "/34VeLVwFihUvhlqk8U7QiNlbbkU.jpg",
+  "production_companies": [
+    {
+      "id": 200804,
+      "logo_path": "/7rQ6WdOccPyIPI0pTztsxy3QikE.png",
+      "name": "Buena Pinta Media",
+      "origin_country": "ES"
+    },
+    {
+      "id": 200805,
+      "logo_path": null,
+      "name": "Perdición Films",
+      "origin_country": "ES"
+    },
+    {
+      "id": 67412,
+      "logo_path": "/vgVqq5hunVs8GN5Je9d9rG7Q2NU.png",
+      "name": "Movistar Plus+",
+      "origin_country": "ES"
+    },
+    {
+      "id": 5085,
+      "logo_path": "/mPuVc7m1Ki7OQQvAYwYfIlEI3vu.png",
+      "name": "TV3",
+      "origin_country": "ES"
+    },
+    {
+      "id": 265749,
+      "logo_path": "/vFqHb0z4jNbA4h6iMQ52OaQRdEQ.png",
+      "name": "RTVE",
+      "origin_country": "ES"
+    },
+    {
+      "id": 107262,
+      "logo_path": "/1zigukoYBEqJfsEl6fVhmamXXX9.png",
+      "name": "Crea SGR",
+      "origin_country": "ES"
+    },
+    {
+      "id": 35559,
+      "logo_path": "/xLqNfq5xXETBKjq3jSSiNqqPiN7.png",
+      "name": "ICEC",
+      "origin_country": "ES"
+    },
+    {
+      "id": 201633,
+      "logo_path": "/6Ox2aOmqNP6vEmlh02fqygwOkeE.png",
+      "name": "Instituto de la Cinematografía y de las Artes Audiovisuales",
+      "origin_country": "ES"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "ES",
+      "name": "Spain"
+    }
+  ],
+  "release_date": "2023-11-10",
+  "revenue": 0,
+  "runtime": 127,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Un amor",
+  "video": false,
+  "vote_average": 6.677,
+  "vote_count": 48,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1425019,
+        "known_for_department": "Acting",
+        "name": "Laia Costa",
+        "original_name": "Laia Costa",
+        "popularity": 0.9866,
+        "profile_path": "/kSbdpHWLlfzvOfZKJ0dgP0ieVL6.jpg",
+        "cast_id": 1,
+        "character": "Nat",
+        "credit_id": "63ee4086813cb60096ab9b04",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1131415,
+        "known_for_department": "Acting",
+        "name": "Hovik Keuchkerian",
+        "original_name": "Hovik Keuchkerian",
+        "popularity": 0.8204,
+        "profile_path": "/o5cGKWHlZl4RFROYlT2hD95j0lN.jpg",
+        "cast_id": 2,
+        "character": "Andreas",
+        "credit_id": "63ee408df92532009d93d339",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 112901,
+        "known_for_department": "Acting",
+        "name": "Hugo Silva",
+        "original_name": "Hugo Silva",
+        "popularity": 0.6815,
+        "profile_path": "/aMhffSrBefGQstniOtsJf3kEfNH.jpg",
+        "cast_id": 3,
+        "character": "Piter",
+        "credit_id": "63ee409b813cb60084b3be17",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 27471,
+        "known_for_department": "Acting",
+        "name": "Luis Bermejo",
+        "original_name": "Luis Bermejo",
+        "popularity": 0.2534,
+        "profile_path": "/rl4hG3Ou4N244hq5eKhGLz0gIBL.jpg",
+        "cast_id": 4,
+        "character": "Landlord",
+        "credit_id": "63ee40a41f3e600089dfde2d",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1223239,
+        "known_for_department": "Acting",
+        "name": "Ingrid García Jonsson",
+        "original_name": "Ingrid García Jonsson",
+        "popularity": 0.5677,
+        "profile_path": "/9stJ5SP1L1pkhK6K7LxwN9PJelE.jpg",
+        "cast_id": 5,
+        "character": "Lara",
+        "credit_id": "63ee40b31f3e6000a1c68ed1",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1442194,
+        "known_for_department": "Acting",
+        "name": "Francesco Carril",
+        "original_name": "Francesco Carril",
+        "popularity": 0.3419,
+        "profile_path": "/x1S2YalAc65MMv88fJenTJ0X2ma.jpg",
+        "cast_id": 6,
+        "character": "Carlos",
+        "credit_id": "63ee40ee8e87020086422dd1",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1668830,
+        "known_for_department": "Acting",
+        "name": "Violeta Rodríguez",
+        "original_name": "Violeta Rodríguez",
+        "popularity": 0.273,
+        "profile_path": "/qz3T4Rz78f9rvG4CJV7r3XyymuG.jpg",
+        "cast_id": 15,
+        "character": "Sofía",
+        "credit_id": "66bea6139ec961dc1dc39c8a",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4888571,
+        "known_for_department": "Acting",
+        "name": "Amadeo Marín",
+        "original_name": "Amadeo Marín",
+        "popularity": 0.0802,
+        "profile_path": null,
+        "cast_id": 16,
+        "character": "Joaquín",
+        "credit_id": "66bea63cafb91af0f797a644",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4888572,
+        "known_for_department": "Acting",
+        "name": "Tiri Iruzubieta",
+        "original_name": "Tiri Iruzubieta",
+        "popularity": 0.0311,
+        "profile_path": null,
+        "cast_id": 17,
+        "character": "Roberta",
+        "credit_id": "66bea65d9ccf1cdefe50dac9",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4888573,
+        "known_for_department": "Acting",
+        "name": "Eva Cabezas",
+        "original_name": "Eva Cabezas",
+        "popularity": 0.0412,
+        "profile_path": null,
+        "cast_id": 18,
+        "character": "Veterinarian",
+        "credit_id": "66bea6926572d160b79b9681",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1124385,
+        "known_for_department": "Acting",
+        "name": "Chema León",
+        "original_name": "Chema León",
+        "popularity": 0.077,
+        "profile_path": "/p9wyx6Qm50OJSBILraGmYYEP1eO.jpg",
+        "cast_id": 19,
+        "character": "Barbecue Man",
+        "credit_id": "66bea73b52dd9cc50797ada3",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4888579,
+        "known_for_department": "Acting",
+        "name": "Carmen Suárez Castilla",
+        "original_name": "Carmen Suárez Castilla",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 20,
+        "character": "Neighbor's Daughter",
+        "credit_id": "66bea7769de57800485abb8c",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4888580,
+        "known_for_department": "Acting",
+        "name": "Lucía Suárez Castilla",
+        "original_name": "Lucía Suárez Castilla",
+        "popularity": 0.0261,
+        "profile_path": null,
+        "cast_id": 21,
+        "character": "Neighbor's Daughter",
+        "credit_id": "66bea796fbfa4d8ee54048f3",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4888583,
+        "known_for_department": "Acting",
+        "name": "Azata Soro",
+        "original_name": "Azata Soro",
+        "popularity": 0,
+        "profile_path": null,
+        "cast_id": 22,
+        "character": "Refugee",
+        "credit_id": "66bea7cb9ec961dc1dc39d99",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2477572,
+        "known_for_department": "Acting",
+        "name": "Tamara Berbés",
+        "original_name": "Tamara Berbés",
+        "popularity": 0.052,
+        "profile_path": "/cTTN1RGAryHRilwA0WpSPS4QFvR.jpg",
+        "cast_id": 23,
+        "character": "Hairdresser",
+        "credit_id": "66bea7e88cac19d05ac3989e",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4888584,
+        "known_for_department": "Acting",
+        "name": "Élida Baños",
+        "original_name": "Élida Baños",
+        "popularity": 0,
+        "profile_path": null,
+        "cast_id": 24,
+        "character": "Hair Salon Client",
+        "credit_id": "66bea805cd7bc1090a404972",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4888586,
+        "known_for_department": "Acting",
+        "name": "Antonio Martínez Martínez",
+        "original_name": "Antonio Martínez Martínez",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 25,
+        "character": "Intern",
+        "credit_id": "66bea83e92172d16eb50dd85",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4888587,
+        "known_for_department": "Acting",
+        "name": "Mónica Íñiguez Santolaya",
+        "original_name": "Mónica Íñiguez Santolaya",
+        "popularity": 0,
+        "profile_path": null,
+        "cast_id": 26,
+        "character": "Waitress",
+        "credit_id": "66bea87a92172d16eb50dd9b",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4888588,
+        "known_for_department": "Acting",
+        "name": "Fernando Pinillos Jiménez",
+        "original_name": "Fernando Pinillos Jiménez",
+        "popularity": 0.0311,
+        "profile_path": null,
+        "cast_id": 27,
+        "character": "Glass Building Worker",
+        "credit_id": "66bea8bc33aa68d764559e00",
+        "order": 18
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1334534,
+        "known_for_department": "Camera",
+        "name": "Bet Rourich",
+        "original_name": "Bet Rourich",
+        "popularity": 0.1138,
+        "profile_path": null,
+        "credit_id": "64e8bdc1594c940139c88f94",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 90,
+        "known_for_department": "Directing",
+        "name": "Isabel Coixet",
+        "original_name": "Isabel Coixet",
+        "popularity": 0.6337,
+        "profile_path": "/s2Hspn17nOf6LIuVrULvV3OOiX0.jpg",
+        "credit_id": "63ee4100813cb6008ec620de",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 90,
+        "known_for_department": "Directing",
+        "name": "Isabel Coixet",
+        "original_name": "Isabel Coixet",
+        "popularity": 0.6337,
+        "profile_path": "/s2Hspn17nOf6LIuVrULvV3OOiX0.jpg",
+        "credit_id": "63ee411d1f3e6000a1c68f0f",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1405371,
+        "known_for_department": "Directing",
+        "name": "Glòria Blanes",
+        "original_name": "Glòria Blanes",
+        "popularity": 0.2302,
+        "profile_path": null,
+        "credit_id": "664ea4ec76e4fb6e32ec0062",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4080092,
+        "known_for_department": "Writing",
+        "name": "Sara Mesa",
+        "original_name": "Sara Mesa",
+        "popularity": 0.0327,
+        "profile_path": null,
+        "credit_id": "646f66e9894ed60133b1b245",
+        "department": "Writing",
+        "job": "Novel"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3998718,
+        "known_for_department": "Writing",
+        "name": "Laura Ferrero",
+        "original_name": "Laura Ferrero",
+        "popularity": 0.0431,
+        "profile_path": null,
+        "credit_id": "646f670e0721660117ef0627",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1557036,
+        "known_for_department": "Camera",
+        "name": "Jordi Azategui",
+        "original_name": "Jordi Azategui",
+        "popularity": 0.0651,
+        "profile_path": null,
+        "credit_id": "67e330d3d4052f4793dc88dd",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1143451,
+        "known_for_department": "Art",
+        "name": "Uxua Castelló",
+        "original_name": "Uxua Castelló",
+        "popularity": 0.0845,
+        "profile_path": null,
+        "credit_id": "682c222b41f35855382f0f24",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1805381,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Suevia Sampelayo Vázquez",
+        "original_name": "Suevia Sampelayo Vázquez",
+        "popularity": 0.0561,
+        "profile_path": null,
+        "credit_id": "682c22409ca17c91826493c3",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2177400,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Ainhoa Eskisabel",
+        "original_name": "Ainhoa Eskisabel",
+        "popularity": 0.1879,
+        "profile_path": "/krdmTMtK6UjtCRgjIEGhjoKSOan.jpg",
+        "credit_id": "682c225be4b3f999dfe2515b",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 17003,
+        "known_for_department": "Production",
+        "name": "Belén Atienza",
+        "original_name": "Belén Atienza",
+        "popularity": 0.2453,
+        "profile_path": null,
+        "credit_id": "682c226ca58c5098532f7967",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1462271,
+        "known_for_department": "Production",
+        "name": "Marisa Fernández Armenteros",
+        "original_name": "Marisa Fernández Armenteros",
+        "popularity": 0.1068,
+        "profile_path": "/p6Lok0KH1vOXmuSBJjEKU50yHQS.jpg",
+        "credit_id": "682c227f005c09508a8c0ca5",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1115664,
+        "known_for_department": "Production",
+        "name": "Sandra Hermida",
+        "original_name": "Sandra Hermida",
+        "popularity": 0.1988,
+        "profile_path": "/tZuWS7OA3M2mprRvxBK4240Rgo5.jpg",
+        "credit_id": "682c228b29b78a28ca8c0ac9",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3497909,
+        "known_for_department": "Production",
+        "name": "Cristina Lera Gracia",
+        "original_name": "Cristina Lera Gracia",
+        "popularity": 0.0071,
+        "profile_path": "/dBdR0qWhwy6eEfIL93aZbidPFl2.jpg",
+        "credit_id": "682c2298010214cda59e3c86",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2834993,
+        "known_for_department": "Directing",
+        "name": "Carlos Lázaro",
+        "original_name": "Carlos Lázaro",
+        "popularity": 0.0357,
+        "profile_path": null,
+        "credit_id": "682c22ada91b6791f7649108",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5450063,
+        "known_for_department": "Production",
+        "name": "Sofia Siveroni",
+        "original_name": "Sofia Siveroni",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "682c22bf55e73d0353e2519f",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1897328,
+        "known_for_department": "Sound",
+        "name": "Erik Vidal",
+        "original_name": "Erik Vidal",
+        "popularity": 0.1179,
+        "profile_path": null,
+        "credit_id": "682c22d32d841d6a612f7839",
+        "department": "Sound",
+        "job": "Foley Artist"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "TW",
+        "title": "愛的一種練習",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "US",
+        "title": "One Love",
+        "type": ""
+      }
+    ]
+  }
+}

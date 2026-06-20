@@ -1,0 +1,557 @@
+{
+  "adult": false,
+  "backdrop_path": "/32oNbiNUxJANQAHJNQPWqcJa5Xl.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 28051,
+  "imdb_id": "tt0065553",
+  "origin_country": [
+    "IT"
+  ],
+  "original_language": "it",
+  "original_title": "5 bambole per la luna d'agosto",
+  "overview": "A wealthy playboy gathers a group of bourgeois friends at his isolated beach house for a weekend of relaxation. When bodies start pilling up, they realize they’re trapped with a killer in their midst, sending them in a frenzy to figure out who amongst them is killing the others before they are killed next.",
+  "popularity": 1.1072,
+  "poster_path": "/AvWAWkRUhxPlDT7XgZOAXsdyUPO.jpg",
+  "production_companies": [
+    {
+      "id": 4745,
+      "logo_path": null,
+      "name": "Produzioni Atlas Consorziate",
+      "origin_country": "IT"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    }
+  ],
+  "release_date": "1970-02-14",
+  "revenue": 0,
+  "runtime": 82,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The Island of Terror!",
+  "title": "Five Dolls for an August Moon",
+  "video": false,
+  "vote_average": 5.8,
+  "vote_count": 140,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 19612,
+        "known_for_department": "Acting",
+        "name": "Ira von Fürstenberg",
+        "original_name": "Ira von Fürstenberg",
+        "popularity": 0.3985,
+        "profile_path": "/q6ejtBsvzzMgk4sAEaPhZDz30tT.jpg",
+        "cast_id": 9,
+        "character": "Trudy Farrell",
+        "credit_id": "52fe4575c3a368484e05c6cf",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 44434,
+        "known_for_department": "Acting",
+        "name": "Edwige Fenech",
+        "original_name": "Edwige Fenech",
+        "popularity": 1.8811,
+        "profile_path": "/79v8gsqCnqJPpI5RRmMMQP9iXV3.jpg",
+        "cast_id": 10,
+        "character": "Marie Chaney",
+        "credit_id": "52fe4575c3a368484e05c6d3",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 27383,
+        "known_for_department": "Acting",
+        "name": "Howard Ross",
+        "original_name": "Howard Ross",
+        "popularity": 0.5491,
+        "profile_path": "/bHjanPW2tJ9nzOxj8tq6RZ7E6pN.jpg",
+        "cast_id": 11,
+        "character": "Jack Davidson",
+        "credit_id": "52fe4575c3a368484e05c6d7",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 99480,
+        "known_for_department": "Acting",
+        "name": "Helena Ronee",
+        "original_name": "Helena Ronee",
+        "popularity": 0.3412,
+        "profile_path": "/kufjsVBcej5uwEKd53wtWs0DHGr.jpg",
+        "cast_id": 12,
+        "character": "Peggy Davidson",
+        "credit_id": "52fe4575c3a368484e05c6db",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 99481,
+        "known_for_department": "Acting",
+        "name": "Teodoro Corrà",
+        "original_name": "Teodoro Corrà",
+        "popularity": 0.2709,
+        "profile_path": "/dOzlw6PxMn1MBnX01c06L3JuCAp.jpg",
+        "cast_id": 13,
+        "character": "George Stark",
+        "credit_id": "52fe4575c3a368484e05c6df",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 99482,
+        "known_for_department": "Acting",
+        "name": "Ely Galleani",
+        "original_name": "Ely Galleani",
+        "popularity": 0.445,
+        "profile_path": "/u0hU5PapaXWCm73WcIXKQET9mUs.jpg",
+        "cast_id": 14,
+        "character": "Isabel",
+        "credit_id": "52fe4575c3a368484e05c6e3",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 99483,
+        "known_for_department": "Acting",
+        "name": "Edith Meloni",
+        "original_name": "Edith Meloni",
+        "popularity": 0.0398,
+        "profile_path": null,
+        "cast_id": 15,
+        "character": "Jill Stark",
+        "credit_id": "52fe4575c3a368484e05c6e7",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 99484,
+        "known_for_department": "Acting",
+        "name": "Mauro Bosco",
+        "original_name": "Mauro Bosco",
+        "popularity": 0.1377,
+        "profile_path": "/1mMy4WX0LOo8thD5vgG7csEwl9d.jpg",
+        "cast_id": 16,
+        "character": "Charles",
+        "credit_id": "52fe4575c3a368484e05c6eb",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 39166,
+        "known_for_department": "Acting",
+        "name": "Maurice Poli",
+        "original_name": "Maurice Poli",
+        "popularity": 0.4562,
+        "profile_path": "/zJ3Jezv8fbCXhUPbeY4PZ7El3rv.jpg",
+        "cast_id": 17,
+        "character": "Nick Chaney",
+        "credit_id": "52fe4575c3a368484e05c6ef",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 102101,
+        "known_for_department": "Acting",
+        "name": "William Berger",
+        "original_name": "William Berger",
+        "popularity": 0.4833,
+        "profile_path": "/jqm6XmoDe0ibEcFSdG8LT0Ja4a2.jpg",
+        "cast_id": 18,
+        "character": "Prof. Gerry Farrell",
+        "credit_id": "52fe4575c3a368484e05c6f3",
+        "order": 9
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 29886,
+        "known_for_department": "Camera",
+        "name": "Antonio Rinaldi",
+        "original_name": "Antonio Rinaldi",
+        "popularity": 0.0932,
+        "profile_path": null,
+        "credit_id": "52fe4575c3a368484e05c6a7",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 25826,
+        "known_for_department": "Directing",
+        "name": "Mario Bava",
+        "original_name": "Mario Bava",
+        "popularity": 0.8138,
+        "profile_path": "/vDx5usGSp8Fygmvo4jnepQ4EQRN.jpg",
+        "credit_id": "52fe4575c3a368484e05c6b3",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 99479,
+        "known_for_department": "Production",
+        "name": "Luigi Alessi",
+        "original_name": "Luigi Alessi",
+        "popularity": 0.0843,
+        "profile_path": null,
+        "credit_id": "52fe4575c3a368484e05c6bf",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 99478,
+        "known_for_department": "Writing",
+        "name": "Mario Di Nardo",
+        "original_name": "Mario Di Nardo",
+        "popularity": 0.2112,
+        "profile_path": null,
+        "credit_id": "52fe4575c3a368484e05c6c5",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 25826,
+        "known_for_department": "Directing",
+        "name": "Mario Bava",
+        "original_name": "Mario Bava",
+        "popularity": 0.8138,
+        "profile_path": "/vDx5usGSp8Fygmvo4jnepQ4EQRN.jpg",
+        "credit_id": "52fe4575c3a368484e05c6cb",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 33814,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Giulia Mafai",
+        "original_name": "Giulia Mafai",
+        "popularity": 0.0588,
+        "profile_path": null,
+        "credit_id": "56a8d0df9251413c25004f92",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1568864,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Roberto Ranucci",
+        "original_name": "Roberto Ranucci",
+        "popularity": 0.0725,
+        "profile_path": null,
+        "credit_id": "56a8d0fc9251415c18004066",
+        "department": "Costume & Make-Up",
+        "job": "Assistant Costume Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 31542,
+        "known_for_department": "Camera",
+        "name": "Emilio Varriano",
+        "original_name": "Emilio Varriano",
+        "popularity": 0.1082,
+        "profile_path": null,
+        "credit_id": "56a8d11c9251410813002566",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1568865,
+        "known_for_department": "Camera",
+        "name": "Armando Pietrangeli",
+        "original_name": "Armando Pietrangeli",
+        "popularity": 0,
+        "profile_path": null,
+        "credit_id": "56a8d133c3a36828b30057ca",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1568867,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Orietta Melaranci",
+        "original_name": "Orietta Melaranci",
+        "popularity": 0.093,
+        "profile_path": null,
+        "credit_id": "56a8d196c3a36828b800587f",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 25826,
+        "known_for_department": "Directing",
+        "name": "Mario Bava",
+        "original_name": "Mario Bava",
+        "popularity": 0.8138,
+        "profile_path": "/vDx5usGSp8Fygmvo4jnepQ4EQRN.jpg",
+        "credit_id": "5e76d5f2cabfe400132298d7",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1316219,
+        "known_for_department": "Production",
+        "name": "Mario Bregni",
+        "original_name": "Mario Bregni",
+        "popularity": 0.1016,
+        "profile_path": null,
+        "credit_id": "5e76d60cd18b2400157f8c7d",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1645172,
+        "known_for_department": "Production",
+        "name": "Pietro Bregni",
+        "original_name": "Pietro Bregni",
+        "popularity": 0.0362,
+        "profile_path": null,
+        "credit_id": "5e76d618357c0000194f9458",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 19612,
+        "known_for_department": "Acting",
+        "name": "Ira von Fürstenberg",
+        "original_name": "Ira von Fürstenberg",
+        "popularity": 0.3985,
+        "profile_path": "/q6ejtBsvzzMgk4sAEaPhZDz30tT.jpg",
+        "credit_id": "5e76d62d357c0000194f947c",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 91546,
+        "known_for_department": "Sound",
+        "name": "Piero Umiliani",
+        "original_name": "Piero Umiliani",
+        "popularity": 0.1038,
+        "profile_path": "/fvUySwSc1IzL1OmO6biTUWDSzi0.jpg",
+        "credit_id": "5f26c0018d1b8e003471618f",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 99478,
+        "known_for_department": "Writing",
+        "name": "Mario Di Nardo",
+        "original_name": "Mario Di Nardo",
+        "popularity": 0.2112,
+        "profile_path": null,
+        "credit_id": "5f26c02a2d8ef30036d7e027",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 25826,
+        "known_for_department": "Directing",
+        "name": "Mario Bava",
+        "original_name": "Mario Bava",
+        "popularity": 0.8138,
+        "profile_path": "/vDx5usGSp8Fygmvo4jnepQ4EQRN.jpg",
+        "credit_id": "5f26c04adbbb420036e41a65",
+        "department": "Crew",
+        "job": "Additional Writing"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1568866,
+        "known_for_department": "Art",
+        "name": "Giuseppe Aldrovandi",
+        "original_name": "Giuseppe Aldrovandi",
+        "popularity": 0.094,
+        "profile_path": null,
+        "credit_id": "5f6be676e267de00331872c8",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 33814,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Giulia Mafai",
+        "original_name": "Giulia Mafai",
+        "popularity": 0.0588,
+        "profile_path": null,
+        "credit_id": "5f6be68dd55e4d003771ac7d",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 99479,
+        "known_for_department": "Production",
+        "name": "Luigi Alessi",
+        "original_name": "Luigi Alessi",
+        "popularity": 0.0843,
+        "profile_path": null,
+        "credit_id": "5f6be6bc46aed400358ace91",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2330185,
+        "known_for_department": "Production",
+        "name": "Alfonso Cucci",
+        "original_name": "Alfonso Cucci",
+        "popularity": 0.0538,
+        "profile_path": null,
+        "credit_id": "5f6be6d246aed400388bad1f",
+        "department": "Production",
+        "job": "Assistant Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2789694,
+        "known_for_department": "Production",
+        "name": "Adolfo Martello",
+        "original_name": "Adolfo Martello",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "5f6be6e3688cd000351fe1b4",
+        "department": "Production",
+        "job": "Assistant Production Manager"
+      },
+      {
+        "adult": true,
+        "gender": 2,
+        "id": 103156,
+        "known_for_department": "Directing",
+        "name": "Mario Bianchi",
+        "original_name": "Mario Bianchi",
+        "popularity": 0,
+        "profile_path": "/4KCSa5bPIJ7abRGqPKqDyuNcJoA.jpg",
+        "credit_id": "5f6be73f688cd000351fe25d",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 33814,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Giulia Mafai",
+        "original_name": "Giulia Mafai",
+        "popularity": 0.0588,
+        "profile_path": null,
+        "credit_id": "5f6be75ad2c0c100346bdfe1",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1625905,
+        "known_for_department": "Sound",
+        "name": "Leopoldo Rosi",
+        "original_name": "Leopoldo Rosi",
+        "popularity": 0.0412,
+        "profile_path": null,
+        "credit_id": "5f6be769cee2f600363e3580",
+        "department": "Sound",
+        "job": "Sound"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "US",
+        "title": "Island of Terror",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "FR",
+        "title": "5 filles dans une nuit chaude d'été",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "US",
+        "title": "5 Dolls for an August Moon",
+        "type": "alternative spelling"
+      },
+      {
+        "iso_3166_1": "BR",
+        "title": "Cinco Bonecas pela Lua de Agosto",
+        "type": ""
+      }
+    ]
+  }
+}

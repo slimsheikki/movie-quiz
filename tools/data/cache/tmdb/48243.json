@@ -1,0 +1,716 @@
+{
+  "adult": false,
+  "backdrop_path": "/aBoC043gD23hQZH8bpiQtCfzxBT.jpg",
+  "belongs_to_collection": null,
+  "budget": 3654073,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 10752,
+      "name": "War"
+    }
+  ],
+  "homepage": "http://www.essentialkilling.com/",
+  "id": 48243,
+  "imdb_id": "tt1561768",
+  "origin_country": [
+    "PL"
+  ],
+  "original_language": "en",
+  "original_title": "Essential Killing",
+  "overview": "A Taliban soldier struggles to survive after he escapes his captors and flees into the Polish countryside.",
+  "popularity": 0.7895,
+  "poster_path": "/gwLUPEqjHz55khkXeQB3hOYx1ao.jpg",
+  "production_companies": [
+    {
+      "id": 6265,
+      "logo_path": "/aXBnwAW7fzntkENZXIEo869etGw.png",
+      "name": "Skopia Film",
+      "origin_country": "PL"
+    },
+    {
+      "id": 6267,
+      "logo_path": null,
+      "name": "Cylinder Production",
+      "origin_country": "NO"
+    },
+    {
+      "id": 3353,
+      "logo_path": "/hUw1iTY3hdjyb2zXT9KxupHbL4M.png",
+      "name": "Element Pictures",
+      "origin_country": "IE"
+    },
+    {
+      "id": 6266,
+      "logo_path": "/cKEYr7wwstX4p6PrelqNuEvmgXA.png",
+      "name": "Mythberg Films",
+      "origin_country": "HU"
+    },
+    {
+      "id": 6273,
+      "logo_path": "/vqtK0XhAgPV5NWY5SB7PrLTmhBQ.png",
+      "name": "Syrena Films",
+      "origin_country": "PL"
+    },
+    {
+      "id": 250,
+      "logo_path": "/evWKasiElVQywuKv2dI72P9twz8.png",
+      "name": "CANAL+ Polska",
+      "origin_country": "PL"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "PL",
+      "name": "Poland"
+    },
+    {
+      "iso_3166_1": "NO",
+      "name": "Norway"
+    },
+    {
+      "iso_3166_1": "IE",
+      "name": "Ireland"
+    },
+    {
+      "iso_3166_1": "HU",
+      "name": "Hungary"
+    }
+  ],
+  "release_date": "2010-09-06",
+  "revenue": 0,
+  "runtime": 84,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Polish",
+      "iso_639_1": "pl",
+      "name": "Polski"
+    },
+    {
+      "english_name": "Arabic",
+      "iso_639_1": "ar",
+      "name": "العربية"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Run to live... kill to survive.",
+  "title": "Essential Killing",
+  "video": false,
+  "vote_average": 5.868,
+  "vote_count": 173,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 22461,
+        "known_for_department": "Acting",
+        "name": "Vincent Gallo",
+        "original_name": "Vincent Gallo",
+        "popularity": 1.6118,
+        "profile_path": "/2H8ucxG6LWAHCJAJf9OGfhSXpqQ.jpg",
+        "cast_id": 2,
+        "character": "Mohammed",
+        "credit_id": "52fe475cc3a36847f813153d",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 8925,
+        "known_for_department": "Acting",
+        "name": "Emmanuelle Seigner",
+        "original_name": "Emmanuelle Seigner",
+        "popularity": 1.2651,
+        "profile_path": "/xPRldoTHgFd1Z5TtGk3jo3TGvPL.jpg",
+        "cast_id": 3,
+        "character": "Margaret",
+        "credit_id": "52fe475cc3a36847f8131541",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1491513,
+        "known_for_department": "Acting",
+        "name": "David L. Price",
+        "original_name": "David L. Price",
+        "popularity": 0.0981,
+        "profile_path": "/pbyyByCGrkBogLjrZ7wNeukxibz.jpg",
+        "cast_id": 27,
+        "character": "Interrogation Officer",
+        "credit_id": "5b0df0f70e0a264d2b001f2e",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 215023,
+        "known_for_department": "Acting",
+        "name": "Zach Cohen",
+        "original_name": "Zach Cohen",
+        "popularity": 0.0745,
+        "profile_path": "/wT2kYicnEDIlKx7jZKgQZGNG1Sg.jpg",
+        "cast_id": 4,
+        "character": "American Contractor 1",
+        "credit_id": "52fe475cc3a36847f8131545",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 929508,
+        "known_for_department": "Acting",
+        "name": "Iftach Ophir",
+        "original_name": "Iftach Ophir",
+        "popularity": 0.1236,
+        "profile_path": "/s7Ate0bBFsscrxr9e6lxSfeXorW.jpg",
+        "cast_id": 5,
+        "character": "American Contractor 2",
+        "credit_id": "52fe475cc3a36847f8131549",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 73637,
+        "known_for_department": "Acting",
+        "name": "Nicolai Cleve Broch",
+        "original_name": "Nicolai Cleve Broch",
+        "popularity": 0.5683,
+        "profile_path": "/xKIrqVnpZQUf8qcAEXKPt9wo815.jpg",
+        "cast_id": 25,
+        "character": "Helicopter Pilot 1",
+        "credit_id": "5b0df0dd0e0a264d0e0022a5",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 76919,
+        "known_for_department": "Acting",
+        "name": "Stig Frode Henriksen",
+        "original_name": "Stig Frode Henriksen",
+        "popularity": 0.5375,
+        "profile_path": "/fJIFhe2gXh2akRiSXPSCGmTOaP7.jpg",
+        "cast_id": 26,
+        "character": "Helicopter Pilot 2",
+        "credit_id": "5b0df0ea0e0a266877000117",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1065358,
+        "known_for_department": "Acting",
+        "name": "Dariusz Juzyszyn",
+        "original_name": "Dariusz Juzyszyn",
+        "popularity": 0.1394,
+        "profile_path": "/Abqr6J2DaMsVTxfa2forPSfdiAS.jpg",
+        "cast_id": 28,
+        "character": "Logger",
+        "credit_id": "5b0df127925141599a002347",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1801861,
+        "known_for_department": "Sound",
+        "name": "Janusz Wojtarowicz",
+        "original_name": "Janusz Wojtarowicz",
+        "popularity": 0.0361,
+        "profile_path": "/sGKvfjYYtnZDrJ44xwsAkE1WftC.jpg",
+        "cast_id": 29,
+        "character": "Margaret's Husband",
+        "credit_id": "5b0df14092514159c1001a3f",
+        "order": 8
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 43553,
+        "known_for_department": "Directing",
+        "name": "Jerzy Skolimowski",
+        "original_name": "Jerzy Skolimowski",
+        "popularity": 0.458,
+        "profile_path": "/4fR5GEwGkn4eAViWE1NwKKVP90P.jpg",
+        "credit_id": "52fe475bc3a36847f8131539",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 43553,
+        "known_for_department": "Directing",
+        "name": "Jerzy Skolimowski",
+        "original_name": "Jerzy Skolimowski",
+        "popularity": 0.458,
+        "profile_path": "/4fR5GEwGkn4eAViWE1NwKKVP90P.jpg",
+        "credit_id": "52fe475cc3a36847f813154f",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4154304,
+        "known_for_department": "Production",
+        "name": "Beata Ryczkowska",
+        "original_name": "Beata Ryczkowska",
+        "popularity": 0.1061,
+        "profile_path": null,
+        "credit_id": "65560a9cea84c71096dd8c15",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1583953,
+        "known_for_department": "Crew",
+        "name": "Tomasz Krzemieniecki",
+        "original_name": "Tomasz Krzemieniecki",
+        "popularity": 0.2907,
+        "profile_path": "/9fs18mQ86eyLQpvxoWcvgI2VsgN.jpg",
+        "credit_id": "660557a5c5840d0161c474e4",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 43553,
+        "known_for_department": "Directing",
+        "name": "Jerzy Skolimowski",
+        "original_name": "Jerzy Skolimowski",
+        "popularity": 0.458,
+        "profile_path": "/4fR5GEwGkn4eAViWE1NwKKVP90P.jpg",
+        "credit_id": "598c5590c3a36873bd00ea71",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 938567,
+        "known_for_department": "Writing",
+        "name": "James McManus",
+        "original_name": "James McManus",
+        "popularity": 0.0753,
+        "profile_path": null,
+        "credit_id": "598c55749251410815010746",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 88204,
+        "known_for_department": "Camera",
+        "name": "Adam Sikora",
+        "original_name": "Adam Sikora",
+        "popularity": 0.0423,
+        "profile_path": "/A6SPtVoVDyGqnsFwt3UZ4km61Uo.jpg",
+        "credit_id": "598c55a9c3a3687343011196",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 146117,
+        "known_for_department": "Production",
+        "name": "Ewa Piaskowska",
+        "original_name": "Ewa Piaskowska",
+        "popularity": 0.1099,
+        "profile_path": "/o9vGbFpCZ7XLwdBG6F2ZxFRepOe.jpg",
+        "credit_id": "598c5598c3a36806ed003323",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 146117,
+        "known_for_department": "Production",
+        "name": "Ewa Piaskowska",
+        "original_name": "Ewa Piaskowska",
+        "popularity": 0.1099,
+        "profile_path": "/o9vGbFpCZ7XLwdBG6F2ZxFRepOe.jpg",
+        "credit_id": "598c556492514108010102a8",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4710017,
+        "known_for_department": "Sound",
+        "name": "Paweł Stankiewicz",
+        "original_name": "Paweł Stankiewicz",
+        "popularity": 0.0387,
+        "profile_path": null,
+        "credit_id": "6641295447042aa6d6f0cb36",
+        "department": "Sound",
+        "job": "Musician"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 49669,
+        "known_for_department": "Editing",
+        "name": "Réka Lemhényi",
+        "original_name": "Lemhényi Réka",
+        "popularity": 0.1242,
+        "profile_path": null,
+        "credit_id": "5a9714c3c3a368613a003bfa",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1421496,
+        "known_for_department": "Art",
+        "name": "Joanna Kaczyńska",
+        "original_name": "Joanna Kaczyńska",
+        "popularity": 0.1371,
+        "profile_path": "/aalYHVOzk9zrbKLO7QK6Q971hbq.jpg",
+        "credit_id": "5a9714d80e0a26015f0046e8",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1987729,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Robert Kupisz",
+        "original_name": "Robert Kupisz",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "5a9714f8c3a368613a003c23",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1987728,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Barbara Conway",
+        "original_name": "Barbara Conway",
+        "popularity": 0.0338,
+        "profile_path": null,
+        "credit_id": "5a9714ed92514128a7003ce9",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Designer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1281998,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Gabriella Németh",
+        "original_name": "Gabriella Németh",
+        "popularity": 0.2324,
+        "profile_path": null,
+        "credit_id": "5a97150e925141289d003dfd",
+        "department": "Costume & Make-Up",
+        "job": "Hair Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1419278,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Janne Røhmen",
+        "original_name": "Janne Røhmen",
+        "popularity": 0.0509,
+        "profile_path": null,
+        "credit_id": "5a97151b0e0a26015c0046f0",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Effects Designer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1635817,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Anne Hamre",
+        "original_name": "Anne Hamre",
+        "popularity": 0.081,
+        "profile_path": null,
+        "credit_id": "5a9714e3c3a3686145004573",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1610056,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Tomasz Matraszek",
+        "original_name": "Tomasz Matraszek",
+        "popularity": 0.0939,
+        "profile_path": "/dd2dAfGyBgFRvMHdk7F8hjL7AcM.jpg",
+        "credit_id": "5a971504c3a368614500459a",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Effects Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1354923,
+        "known_for_department": "Sound",
+        "name": "Garret Farrell",
+        "original_name": "Garret Farrell",
+        "popularity": 0.2306,
+        "profile_path": null,
+        "credit_id": "5a97154892514128ad003ee6",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1437294,
+        "known_for_department": "Editing",
+        "name": "Maciej Pawliński",
+        "original_name": "Maciej Pawliński",
+        "popularity": 0.113,
+        "profile_path": "/h0TH2qug9i9uk8zcpoVKRyTYsgI.jpg",
+        "credit_id": "5a9714cc0e0a2601620044a4",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 45126,
+        "known_for_department": "Sound",
+        "name": "Robert Flanagan",
+        "original_name": "Robert Flanagan",
+        "popularity": 0.1655,
+        "profile_path": null,
+        "credit_id": "5a97152d0e0a26015600427b",
+        "department": "Sound",
+        "job": "Production Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1635102,
+        "known_for_department": "Sound",
+        "name": "Fiadhnait McCann",
+        "original_name": "Fiadhnait McCann",
+        "popularity": 0.1013,
+        "profile_path": null,
+        "credit_id": "5a97153a0e0a26015f00474d",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 589283,
+        "known_for_department": "Sound",
+        "name": "Paweł Mykietyn",
+        "original_name": "Paweł Mykietyn",
+        "popularity": 0.2785,
+        "profile_path": null,
+        "credit_id": "5b0df18a0e0a264d1a0022d1",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1163428,
+        "known_for_department": "Writing",
+        "name": "Józef Skolimowski",
+        "original_name": "Józef Skolimowski",
+        "popularity": 0.1346,
+        "profile_path": null,
+        "credit_id": "668d47cd5f26c87a4adc3f41",
+        "department": "Directing",
+        "job": "Second Unit Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2695001,
+        "known_for_department": "Production",
+        "name": "Paweł Czajor",
+        "original_name": "Paweł Czajor",
+        "popularity": 0.0807,
+        "profile_path": "/10HmHsHzJFzbHtySWaEe0kTd0Tp.jpg",
+        "credit_id": "66ca48ac14ada4ca41eab641",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2369390,
+        "known_for_department": "Production",
+        "name": "Ingrid Lill Høgtun",
+        "original_name": "Ingrid Lill Högtun",
+        "popularity": 0.0387,
+        "profile_path": "/zLbhLJYZlsPL27BKSqfnmha04f8.jpg",
+        "credit_id": "5d76d7e8069f0e000d314281",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 43144,
+        "known_for_department": "Production",
+        "name": "Andrew Lowe",
+        "original_name": "Andrew Lowe",
+        "popularity": 0.3159,
+        "profile_path": "/eS4ElyzgmtarcTvi8cNNy7FI4SV.jpg",
+        "credit_id": "5d76d8075907de00112bbf7c",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 69883,
+        "known_for_department": "Production",
+        "name": "Peter Watson",
+        "original_name": "Peter Watson",
+        "popularity": 0.2021,
+        "profile_path": null,
+        "credit_id": "5d76d85c39549a001295bd03",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3056,
+        "known_for_department": "Production",
+        "name": "Jeremy Thomas",
+        "original_name": "Jeremy Thomas",
+        "popularity": 0.3878,
+        "profile_path": "/mENxsXYilnQ2EO52Q04X73ukYM1.jpg",
+        "credit_id": "5d76d8375907de00132bbf28",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 43147,
+        "known_for_department": "Production",
+        "name": "Ed Guiney",
+        "original_name": "Ed Guiney",
+        "popularity": 0.4416,
+        "profile_path": "/aUvObgFaUt5BCR7b52G7jl2IzSh.jpg",
+        "credit_id": "5d76d7dc069f0e000e314276",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1440033,
+        "known_for_department": "Production",
+        "name": "József Berger",
+        "original_name": "József Berger",
+        "popularity": 0.0474,
+        "profile_path": null,
+        "credit_id": "5d76d7be5907de00122bbee5",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2407646,
+        "known_for_department": "Production",
+        "name": "Bjarne Bjørndalen",
+        "original_name": "Bjarne Bjørndalen",
+        "popularity": 0.0496,
+        "profile_path": null,
+        "credit_id": "5d76d7d139549a001095bc0a",
+        "department": "Production",
+        "job": "Line Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 20434,
+        "known_for_department": "Production",
+        "name": "Marek Rozenbaum",
+        "original_name": "Marek Rozenbaum",
+        "popularity": 0.159,
+        "profile_path": "/3dpBvZGiTtRyKCxyaNAZo7GyJQw.jpg",
+        "credit_id": "5d76d81b5907de00112bbf9c",
+        "department": "Production",
+        "job": "Line Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1880128,
+        "known_for_department": "Production",
+        "name": "Andrzej Serdiukow",
+        "original_name": "Andrzej Serdiukow",
+        "popularity": 0.06,
+        "profile_path": null,
+        "credit_id": "6715fdd34bf37c883cb6f6bf",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2129551,
+        "known_for_department": "Camera",
+        "name": "Tomasz Woźniczka",
+        "original_name": "Tomasz Woźniczka",
+        "popularity": 0.0812,
+        "profile_path": "/ubF64nGi8N8yUf10ft5NIpuqmyR.jpg",
+        "credit_id": "67c5b27ca3277ab4a1e778c0",
+        "department": "Camera",
+        "job": "Additional Camera"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "BR",
+        "title": "Matança Necessária",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "KR",
+        "title": "이센셜 킬링",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "PL",
+        "title": "The Essence of Killing",
+        "type": "working title"
+      }
+    ]
+  }
+}

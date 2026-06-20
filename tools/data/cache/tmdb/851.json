@@ -1,0 +1,714 @@
+{
+  "adult": false,
+  "backdrop_path": "/vKvoOlhhaZCsiGQDvaZQqyGq1oA.jpg",
+  "belongs_to_collection": null,
+  "budget": 1200000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 851,
+  "imdb_id": "tt0037558",
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "Brief Encounter",
+  "overview": "Returning home from a shopping trip to a nearby town, bored suburban housewife Laura Jesson is thrown by happenstance into an acquaintance with virtuous doctor Alec Harvey. Their casual friendship soon develops during their weekly visits into something more emotionally fulfilling than either expected, and they must wrestle with the potential havoc their deepening relationship would have on their lives and the lives of those they love.",
+  "popularity": 1.7877,
+  "poster_path": "/jC9EwLJcGhYMSQAHu2LxkKN5v7O.jpg",
+  "production_companies": [
+    {
+      "id": 2886,
+      "logo_path": null,
+      "name": "Cineguild",
+      "origin_country": ""
+    },
+    {
+      "id": 14377,
+      "logo_path": null,
+      "name": "J. Arthur Rank Organisation",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "1945-11-24",
+  "revenue": 0,
+  "runtime": 86,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "A story of the most precious moments in a woman's life!",
+  "title": "Brief Encounter",
+  "video": false,
+  "vote_average": 7.7,
+  "vote_count": 703,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 12725,
+        "known_for_department": "Acting",
+        "name": "Celia Johnson",
+        "original_name": "Celia Johnson",
+        "popularity": 0.5462,
+        "profile_path": "/yEiEvHx58yzQjBdoCrIZhbh88Wc.jpg",
+        "cast_id": 8,
+        "character": "Laura Jesson",
+        "credit_id": "52fe4282c3a36847f8024525",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 12726,
+        "known_for_department": "Acting",
+        "name": "Trevor Howard",
+        "original_name": "Trevor Howard",
+        "popularity": 1.0203,
+        "profile_path": "/6HDJGXcedqyHx7oCPtUdCXn4z76.jpg",
+        "cast_id": 9,
+        "character": "Dr. Alec Harvey",
+        "credit_id": "52fe4282c3a36847f8024529",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 12727,
+        "known_for_department": "Acting",
+        "name": "Stanley Holloway",
+        "original_name": "Stanley Holloway",
+        "popularity": 0.6492,
+        "profile_path": "/3FLfK05mtqhF0mtuWVVWQCYwbA9.jpg",
+        "cast_id": 10,
+        "character": "Albert Godby",
+        "credit_id": "52fe4282c3a36847f802452d",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 12728,
+        "known_for_department": "Acting",
+        "name": "Joyce Carey",
+        "original_name": "Joyce Carey",
+        "popularity": 0.3858,
+        "profile_path": "/nHgwq5a5wtxDTw1GmgmChWXrUE3.jpg",
+        "cast_id": 11,
+        "character": "Myrtle Bagot",
+        "credit_id": "52fe4282c3a36847f8024531",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 12729,
+        "known_for_department": "Acting",
+        "name": "Cyril Raymond",
+        "original_name": "Cyril Raymond",
+        "popularity": 0.347,
+        "profile_path": "/7EhrpdF8bVDMhi2k5VYrLyQC7wr.jpg",
+        "cast_id": 12,
+        "character": "Fred Jesson",
+        "credit_id": "52fe4282c3a36847f8024535",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 12730,
+        "known_for_department": "Acting",
+        "name": "Everley Gregg",
+        "original_name": "Everley Gregg",
+        "popularity": 0.2044,
+        "profile_path": "/gw8CcjbOzLD4weoCDJX2lUMCTfi.jpg",
+        "cast_id": 13,
+        "character": "Dolly Messiter",
+        "credit_id": "52fe4282c3a36847f8024539",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 12731,
+        "known_for_department": "Acting",
+        "name": "Marjorie Mars",
+        "original_name": "Marjorie Mars",
+        "popularity": 0.1682,
+        "profile_path": "/680g5UzQeRHt9HsGbuZE0EJjf71.jpg",
+        "cast_id": 14,
+        "character": "Mary Norton",
+        "credit_id": "52fe4282c3a36847f802453d",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 12732,
+        "known_for_department": "Acting",
+        "name": "Margaret Barton",
+        "original_name": "Margaret Barton",
+        "popularity": 0.2587,
+        "profile_path": "/mYfJ7d5vgKl5VNZ7T5X0o9QriJ0.jpg",
+        "cast_id": 15,
+        "character": "Tea Room Assistant Beryl Walters",
+        "credit_id": "52fe4282c3a36847f8024541",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1910471,
+        "known_for_department": "Acting",
+        "name": "Wilfred Babbage",
+        "original_name": "Wilfred Babbage",
+        "popularity": 0.0416,
+        "profile_path": null,
+        "cast_id": 42,
+        "character": "Policeman at War Memorial (uncredited)",
+        "credit_id": "59ed3e33c3a368535b01b8b5",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 30119,
+        "known_for_department": "Acting",
+        "name": "Alfie Bass",
+        "original_name": "Alfie Bass",
+        "popularity": 0.5695,
+        "profile_path": "/1LnDvjwwtiQTrcaHGPDLsF9f3rq.jpg",
+        "cast_id": 20,
+        "character": "Waiter at the Royal (uncredited)",
+        "credit_id": "56acfad99251417e14006a54",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1245194,
+        "known_for_department": "Acting",
+        "name": "Wallace Bosco",
+        "original_name": "Wallace Bosco",
+        "popularity": 0.17,
+        "profile_path": "/kB8QIASqrAmmpox7HpfEW65i8bb.jpg",
+        "cast_id": 24,
+        "character": "Doctor After Bobbie's Accident (uncredited)",
+        "credit_id": "56ae46ef9251417c98005c33",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 12693,
+        "known_for_department": "Acting",
+        "name": "Sydney Bromley",
+        "original_name": "Sydney Bromley",
+        "popularity": 0.3518,
+        "profile_path": null,
+        "cast_id": 25,
+        "character": "Johnnie, the Second Soldier (uncredited)",
+        "credit_id": "56ae471b9251417e1100a286",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 12718,
+        "known_for_department": "Writing",
+        "name": "Noël Coward",
+        "original_name": "Noël Coward",
+        "popularity": 0.6346,
+        "profile_path": "/20dd32wR8putmUni8BK7ABx5ThM.jpg",
+        "cast_id": 43,
+        "character": "Train Station Announcer (uncredited)",
+        "credit_id": "59ed3eacc3a368752f013a82",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2318069,
+        "known_for_department": "Acting",
+        "name": "Nuna Davey",
+        "original_name": "Nuna Davey",
+        "popularity": 0.0516,
+        "profile_path": "/i0eK0nptyZ1I7xNsalZLwIFBjQo.jpg",
+        "cast_id": 53,
+        "character": "Herminie Rolandson (uncredited)",
+        "credit_id": "63c8f99ec5c1ef00cb1cec43",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 47480,
+        "known_for_department": "Acting",
+        "name": "Valentine Dyall",
+        "original_name": "Valentine Dyall",
+        "popularity": 0.4782,
+        "profile_path": "/f3BH0htYZgXlw4CcajW7Nu4D7XH.jpg",
+        "cast_id": 26,
+        "character": "Alec's Friend Stephen Lynn (uncredited)",
+        "credit_id": "56ae475a9251417e1100a290",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 79641,
+        "known_for_department": "Acting",
+        "name": "Irene Handl",
+        "original_name": "Irene Handl",
+        "popularity": 0.5988,
+        "profile_path": "/34MBakVUAGJo7boUYeLmCNUZfkm.jpg",
+        "cast_id": 27,
+        "character": "The Cellist and Organist (uncredited)",
+        "credit_id": "56ae47a1c3a3681c4700a24f",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 592407,
+        "known_for_department": "Acting",
+        "name": "Dennis Harkin",
+        "original_name": "Dennis Harkin",
+        "popularity": 0.1366,
+        "profile_path": null,
+        "cast_id": 28,
+        "character": "Beryl's Man Stanley (uncredited)",
+        "credit_id": "56ae47c69251417e1100a2a1",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2508739,
+        "known_for_department": "Acting",
+        "name": "Edward Hodge",
+        "original_name": "Edward Hodge",
+        "popularity": 0.0168,
+        "profile_path": null,
+        "cast_id": 54,
+        "character": "Bill (First Soldier) (uncredited)",
+        "credit_id": "63c8f9c1c5c1ef008ae50619",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2526184,
+        "known_for_department": "Acting",
+        "name": "Frederick Kelsey",
+        "original_name": "Frederick Kelsey",
+        "popularity": 0.0758,
+        "profile_path": null,
+        "cast_id": 55,
+        "character": "Man in Cinema (uncredited)",
+        "credit_id": "63c8f9cc7a97ab0091b43401",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 14755,
+        "known_for_department": "Acting",
+        "name": "Jack May",
+        "original_name": "Jack May",
+        "popularity": 0.4499,
+        "profile_path": "/rOrDaWOrRTpX4GfzmMi5UZVeeTV.jpg",
+        "cast_id": 56,
+        "character": "Boat Rental Man (uncredited)",
+        "credit_id": "63c8f9ea142ef100a04aba56",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 247048,
+        "known_for_department": "Acting",
+        "name": "Avis Scott",
+        "original_name": "Avis Scott",
+        "popularity": 0.2115,
+        "profile_path": "/3idZTqID5qhcY7PZvOTqA7ebldn.jpg",
+        "cast_id": 29,
+        "character": "Kardomah Waitress (uncredited)",
+        "credit_id": "56ae486f925141635700223b",
+        "order": 20
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4712558,
+        "known_for_department": "Acting",
+        "name": "George V. Sheldon",
+        "original_name": "George V. Sheldon",
+        "popularity": 0.0454,
+        "profile_path": null,
+        "cast_id": 57,
+        "character": "Clergyman - Train Passenger (uncredited)",
+        "credit_id": "6642a8ed617132a5af2ae27d",
+        "order": 21
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 7391,
+        "known_for_department": "Sound",
+        "name": "Harry Miller",
+        "original_name": "Harry Miller",
+        "popularity": 0.1318,
+        "profile_path": null,
+        "credit_id": "52fe4282c3a36847f8024559",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 12719,
+        "known_for_department": "Production",
+        "name": "Anthony Havelock-Allan",
+        "original_name": "Anthony Havelock-Allan",
+        "popularity": 0.2674,
+        "profile_path": null,
+        "credit_id": "52fe4282c3a36847f8024509",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 12721,
+        "known_for_department": "Editing",
+        "name": "Jack Harris",
+        "original_name": "Jack Harris",
+        "popularity": 0.2412,
+        "profile_path": null,
+        "credit_id": "52fe4282c3a36847f8024515",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 12718,
+        "known_for_department": "Writing",
+        "name": "Noël Coward",
+        "original_name": "Noël Coward",
+        "popularity": 0.6346,
+        "profile_path": "/20dd32wR8putmUni8BK7ABx5ThM.jpg",
+        "credit_id": "52fe4282c3a36847f8024553",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 7501,
+        "known_for_department": "Directing",
+        "name": "Ronald Neame",
+        "original_name": "Ronald Neame",
+        "popularity": 0.5013,
+        "profile_path": "/4BFCDD3GG5woHmxy6o7fny4NDYc.jpg",
+        "credit_id": "52fe4282c3a36847f8024503",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 12720,
+        "known_for_department": "Camera",
+        "name": "Robert Krasker",
+        "original_name": "Robert Krasker",
+        "popularity": 0.1425,
+        "profile_path": "/h7HmJjV9KKt5YMa8qWx3a83I3P7.jpg",
+        "credit_id": "52fe4282c3a36847f802450f",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 12238,
+        "known_for_department": "Directing",
+        "name": "David Lean",
+        "original_name": "David Lean",
+        "popularity": 0.7483,
+        "profile_path": "/dzwMuydy2x3JwaTBfBSq8c02qz4.jpg",
+        "credit_id": "52fe4282c3a36847f8024547",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 12722,
+        "known_for_department": "Art",
+        "name": "Lawrence P. Williams",
+        "original_name": "Lawrence P. Williams",
+        "popularity": 0.1274,
+        "profile_path": null,
+        "credit_id": "52fe4282c3a36847f802451b",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 18759,
+        "known_for_department": "Crew",
+        "name": "Charles Staffell",
+        "original_name": "Charles Staffell",
+        "popularity": 0.0966,
+        "profile_path": null,
+        "credit_id": "56ae4c59925141639e00231e",
+        "department": "Visual Effects",
+        "job": "Visual Effects"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 255,
+        "known_for_department": "Sound",
+        "name": "Winston Ryder",
+        "original_name": "Winston Ryder",
+        "popularity": 0.1363,
+        "profile_path": null,
+        "credit_id": "56ae4d459251410e8f009683",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 11118,
+        "known_for_department": "Directing",
+        "name": "George Pollock",
+        "original_name": "George Pollock",
+        "popularity": 0.2716,
+        "profile_path": "/a5tlfiieLIX1lOoOyGwjSqqoXf5.jpg",
+        "credit_id": "56ae49b7c3a3681c3f00ad14",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 12719,
+        "known_for_department": "Production",
+        "name": "Anthony Havelock-Allan",
+        "original_name": "Anthony Havelock-Allan",
+        "popularity": 0.2674,
+        "profile_path": null,
+        "credit_id": "63c8f8e97a97ab00d3a706f8",
+        "department": "Crew",
+        "job": "Additional Writing"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 7501,
+        "known_for_department": "Directing",
+        "name": "Ronald Neame",
+        "original_name": "Ronald Neame",
+        "popularity": 0.5013,
+        "profile_path": "/4BFCDD3GG5woHmxy6o7fny4NDYc.jpg",
+        "credit_id": "63c8f903c5c1ef00825b7e3b",
+        "department": "Crew",
+        "job": "Additional Writing"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 12718,
+        "known_for_department": "Writing",
+        "name": "Noël Coward",
+        "original_name": "Noël Coward",
+        "popularity": 0.6346,
+        "profile_path": "/20dd32wR8putmUni8BK7ABx5ThM.jpg",
+        "credit_id": "63c8f8d32f3b170085c47173",
+        "department": "Writing",
+        "job": "Theatre Play"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 12238,
+        "known_for_department": "Directing",
+        "name": "David Lean",
+        "original_name": "David Lean",
+        "popularity": 0.7483,
+        "profile_path": "/dzwMuydy2x3JwaTBfBSq8c02qz4.jpg",
+        "credit_id": "63c8f8f3142ef1008a543d4c",
+        "department": "Crew",
+        "job": "Additional Writing"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 12718,
+        "known_for_department": "Writing",
+        "name": "Noël Coward",
+        "original_name": "Noël Coward",
+        "popularity": 0.6346,
+        "profile_path": "/20dd32wR8putmUni8BK7ABx5ThM.jpg",
+        "credit_id": "63c8f8db7a97ab0080586bff",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1570794,
+        "known_for_department": "Sound",
+        "name": "Desmond Dew",
+        "original_name": "Desmond Dew",
+        "popularity": 0.1491,
+        "profile_path": null,
+        "credit_id": "5cf3a282c3a36839e41f5514",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 224002,
+        "known_for_department": "Sound",
+        "name": "Stanley Lambourne",
+        "original_name": "Stanley Lambourne",
+        "popularity": 0.0609,
+        "profile_path": null,
+        "credit_id": "5cf3a2ef0e0a2619d3cab542",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 142036,
+        "known_for_department": "Editing",
+        "name": "Margery Saunders",
+        "original_name": "Margery Saunders",
+        "popularity": 0.1058,
+        "profile_path": null,
+        "credit_id": "5d6f9275e22d280012b51694",
+        "department": "Editing",
+        "job": "Associate Editor"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "ES",
+        "title": "Breve Encuentro",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "CN",
+        "title": "难续未了情",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "CN",
+        "title": "逢恨晚",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "SE",
+        "title": "Kort möte",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "FI",
+        "title": "Lyhyt onni",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "BG",
+        "title": "Кратка среща",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "DK",
+        "title": "Det korte møde",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "GR",
+        "title": "Syntomi synantisis",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "HU",
+        "title": "Késői találkozás",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "PL",
+        "title": "Spotkanie",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "SK",
+        "title": "Puto najsilnejsie",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "BR",
+        "title": "Desencanto",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "KR",
+        "title": "밀회",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "DE",
+        "title": "Begegnung - Brief Encounter",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "JP",
+        "title": "あいびき",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "IT",
+        "title": "Breve incontro",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "TR",
+        "title": "Kısa Buluşma",
+        "type": "Turkish title"
+      }
+    ]
+  }
+}

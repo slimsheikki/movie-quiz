@@ -1,0 +1,292 @@
+{
+  "adult": false,
+  "backdrop_path": "/micBq6IA8zfB7A3o7uT8ogcQr9W.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 74903,
+  "imdb_id": "tt0087855",
+  "origin_country": [
+    "HU"
+  ],
+  "original_language": "hu",
+  "original_title": "Őszi almanach",
+  "overview": "In this dense setting, the inhabitants of a large, claustrophobic apartment reveal their darkest secrets, fears, obsessions and hostilities.",
+  "popularity": 0.5942,
+  "poster_path": "/w1zFwAX87FwLvx9JEHnhFCf5kZj.jpg",
+  "production_companies": [
+    {
+      "id": 28762,
+      "logo_path": null,
+      "name": "Mokép",
+      "origin_country": "HU"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "HU",
+      "name": "Hungary"
+    }
+  ],
+  "release_date": "1984-08-15",
+  "revenue": 0,
+  "runtime": 119,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Hungarian",
+      "iso_639_1": "hu",
+      "name": "Magyar"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Autumn Almanac",
+  "video": false,
+  "vote_average": 7,
+  "vote_count": 46,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 85641,
+        "known_for_department": "Acting",
+        "name": "Hédi Temessy",
+        "original_name": "Temessy Hédi",
+        "popularity": 0.1564,
+        "profile_path": "/1IuqZA6ar6h7nC2hsfPP3zMWSvA.jpg",
+        "cast_id": 10,
+        "character": "Hédi",
+        "credit_id": "52fe48e4c3a368484e11076f",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1042222,
+        "known_for_department": "Acting",
+        "name": "Erika Bodnár",
+        "original_name": "Bodnár Erika",
+        "popularity": 0.1135,
+        "profile_path": "/g1fZknRJ683bB00RAoIUXGm3bsM.jpg",
+        "cast_id": 11,
+        "character": "Anna",
+        "credit_id": "52fe48e4c3a368484e110773",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 49673,
+        "known_for_department": "Acting",
+        "name": "Székely B. Miklós",
+        "original_name": "Székely B. Miklós",
+        "popularity": 0.2738,
+        "profile_path": "/82IjLmtqqv6sVf8j6vphi0kxBn7.jpg",
+        "cast_id": 12,
+        "character": "Miklós",
+        "credit_id": "52fe48e4c3a368484e110777",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1042223,
+        "known_for_department": "Acting",
+        "name": "Pál Hetényi",
+        "original_name": "Hetényi Pál",
+        "popularity": 0.0561,
+        "profile_path": null,
+        "cast_id": 13,
+        "character": "Tibor, a tanár úr",
+        "credit_id": "52fe48e4c3a368484e11077b",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 402999,
+        "known_for_department": "Acting",
+        "name": "János Derzsi",
+        "original_name": "Derzsi János",
+        "popularity": 0.3762,
+        "profile_path": "/8ER5TWn3Wm0UYiwuXEVTcUZaHD1.jpg",
+        "cast_id": 15,
+        "character": "János, Hédi fia",
+        "credit_id": "5589a7959251414c7100209a",
+        "order": 4
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 85637,
+        "known_for_department": "Directing",
+        "name": "Béla Tarr",
+        "original_name": "Tarr Béla",
+        "popularity": 0.7251,
+        "profile_path": "/71o40gwwvIeyI52KvIobGqGteXX.jpg",
+        "credit_id": "52fe48e4c3a368484e110741",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 107858,
+        "known_for_department": "Editing",
+        "name": "Ágnes Hranitzky",
+        "original_name": "Ágnes Hranitzky",
+        "popularity": 0.0796,
+        "profile_path": "/lmuWx37D1sjx0RQR53bbk1Og86G.jpg",
+        "credit_id": "52fe48e4c3a368484e110765",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 85640,
+        "known_for_department": "Acting",
+        "name": "Gyula Pauer",
+        "original_name": "Pauer Gyula",
+        "popularity": 0.1814,
+        "profile_path": "/radfLB93oMbGoYa4jrDYoqqX3kN.jpg",
+        "credit_id": "52fe48e4c3a368484e11076b",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 85637,
+        "known_for_department": "Directing",
+        "name": "Béla Tarr",
+        "original_name": "Tarr Béla",
+        "popularity": 0.7251,
+        "profile_path": "/71o40gwwvIeyI52KvIobGqGteXX.jpg",
+        "credit_id": "52fe48e4c3a368484e11073b",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 107858,
+        "known_for_department": "Editing",
+        "name": "Ágnes Hranitzky",
+        "original_name": "Ágnes Hranitzky",
+        "popularity": 0.0796,
+        "profile_path": "/lmuWx37D1sjx0RQR53bbk1Og86G.jpg",
+        "credit_id": "52fe48e4c3a368484e110747",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 225941,
+        "known_for_department": "Camera",
+        "name": "Buda Gulyás",
+        "original_name": "Gulyás Buda",
+        "popularity": 0.1136,
+        "profile_path": null,
+        "credit_id": "5908868d925141644500d6bc",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1042221,
+        "known_for_department": "Camera",
+        "name": "Ferenc Pap",
+        "original_name": "Pap Ferenc",
+        "popularity": 0.1,
+        "profile_path": null,
+        "credit_id": "59088686c3a368588800c593",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 224340,
+        "known_for_department": "Sound",
+        "name": "Mihály Víg",
+        "original_name": "Mihály Víg",
+        "popularity": 0.2099,
+        "profile_path": "/71v1NmDSD4i8ZJVNIkbvcwzVMs4.jpg",
+        "credit_id": "59088699925141649200da2e",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1042220,
+        "known_for_department": "Camera",
+        "name": "Sándor Kardos",
+        "original_name": "Kardos Sándor",
+        "popularity": 0.1014,
+        "profile_path": "/bKPAl5B1naXq1AP0LHrZgEtzMTm.jpg",
+        "credit_id": "5908867ec3a36858a700decf",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 85640,
+        "known_for_department": "Acting",
+        "name": "Gyula Pauer",
+        "original_name": "Pauer Gyula",
+        "popularity": 0.1814,
+        "profile_path": "/radfLB93oMbGoYa4jrDYoqqX3kN.jpg",
+        "credit_id": "59a97a8ec3a36874d5016c55",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1880521,
+        "known_for_department": "Sound",
+        "name": "Péter Laczkovich",
+        "original_name": "Péter Laczkovich",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "59a97a9b92514157c602dcf8",
+        "department": "Sound",
+        "job": "Sound Designer"
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "GB",
+        "title": "Autumn Almanac",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "IT",
+        "title": "Almanacco d'Autunno",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "US",
+        "title": "Almanac of Fall",
+        "type": ""
+      }
+    ]
+  }
+}
