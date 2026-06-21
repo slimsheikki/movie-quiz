@@ -77,7 +77,7 @@ function run({ dry = false } = {}) {
   const tierOrder = { easy: 0, medium: 1, hard: 2, veryhard: 3, cinephile: 4 };
   const out = sorted
     .map((f) => ({
-      title: f.title, year: f.year, director: f.director,
+      title: f.title, year: f.year, director: f.director, tmdbId: f.tmdbId,
       country: f.country, difficulty: f.difficulty, decoys: [], frames: f.frames,
     }))
     .sort((a, b) => (tierOrder[a.difficulty] - tierOrder[b.difficulty]) || a.title.localeCompare(b.title));

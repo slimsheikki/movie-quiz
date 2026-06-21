@@ -31,9 +31,11 @@ python3 -m http.server 8000      # → open http://localhost:8000  (maximize win
 - `.claude/launch.json` — preview dev-server config.
 
 ## 4. Current state (data)
-- **1,531 films live** (curated from 2,019 — see Phase 2). **3,956 frames** total after Phase 3 frame
-  pruning (894 films keep 3, 637 keep 2; floor = 2). Tiers: `easy 307 · medium 382 · hard 383 · veryhard 306
-  · cinephile 153`. (`?v=4` in index.html.)
+- **1,531 films live** (curated from 2,019 — see Phase 2). **5,485 frames**: each film's `frames[0]` is now the
+  FILM-GRAB **featured image** (`images/<slug>/0.jpg`, the representative hero still shown in-game), followed by
+  the Phase-3-pruned frames as backups. 1,529 films got a featured primary; 2 (Paddington, Foxcatcher) kept old
+  frames because the featured image showed the title. Tiers: `easy 307 · medium 382 · hard 383 · veryhard 306 ·
+  cinephile 153`. (`?v=6`.) Manifest carries `tmdbId` per film (Letterboxd links).
 - **1,854 more films** are matched in TMDb (`tools/data/matched.json`) but frames NOT downloaded —
   film-grab.com throttled our IP under sustained downloading. Resumable later (§7).
 - ~168 titles in `tools/data/logs/unmatched.json` (foreign/ambiguous) — could get manual TMDb overrides.
@@ -42,6 +44,9 @@ python3 -m http.server 8000      # → open http://localhost:8000  (maximize win
 - **State:** `S = { stage:0, progress:0, streak:0, round:null, seen:[], lastChoices:null }`. `seen` = every film
   shown this game; `lastChoices` = prior round's 4 answer titles (so no option repeats back-to-back).
 - **`BANDS[]`** — per-stage config: `{key,name,goal:1000,pMax,pMin,T,sting,color}`. Single source of truth for tuning.
+- **`ACTIVE`** — the stages actually played this game (a subset of `BANDS`, in order), chosen via the menu's
+  stage-select chips. `S.stage` indexes `ACTIVE`. All game logic (progression, ladder, win, relegation, theming)
+  uses `ACTIVE`; only the chip builder and `ACTIVE` derivation read `BANDS` directly.
 - **Progression (current rules):**
   - Every stage fills a **1000-point bar**. Clear it → promote, bar carries overflow into next stage.
   - **Diminishing points-per-answer** so later stages take longer: Easy ~240/answer (~4–5 answers) …
@@ -54,7 +59,8 @@ python3 -m http.server 8000      # → open http://localhost:8000  (maximize win
   similar era (±15y)** — fair but never the same set twice. `avoid` = last round's 4 titles, so **no answer option
   repeats back-to-back** (relaxes only if a tier is too small to fill 3, which never happens at current sizes).
   `pickMovie()` excludes `S.seen` → **no movie repeats within a game**.
-- **Frame draw:** canvas `draw()` **letterboxes** the still (contain) so aspect ratio is preserved (no squeezing).
+- **Frame draw:** each round shows `movie.frames[0]` — the FILM-GRAB featured still (representative image), not
+  a random frame. Canvas `draw()` **letterboxes** the still (contain) so aspect ratio is preserved (no squeezing).
 
 ## 6. Design system
 - Palette: bg `#0a0c0c`, ink `#0a0c0c`, default green `#c6f0c0`. `--good #147a3a`, `--bad #b3261e`.
@@ -107,11 +113,24 @@ Stages (run via `node run-all.js` or individually): `scrape-filmgrab.js` → `ma
   `node analyze-frames.js` caches per-frame results to `tools/data/vision.json` (resumable, ~16 frames/s).
   `node prune-frames.js` (review by default; `--apply` to write) drops **title-giveaway frames** (9 found —
   strict OCR match, skips ultra-short titles) and **person-less frames** where the film keeps ≥2 with people,
-  honoring a floor of 2. Report → `tools/data/logs/prune-frames.json`. **Still TODO:** download FILM-GRAB
-  **thumbnails** for kept films (deferred — re-hits film-grab.com, throttle risk; smaller payload for faster load).
-- **Phase 4 — Features:** Letterboxd link on reveal (`letterboxd.com/tmdb/<id>`, auto-opens app on mobile via
-  universal links — needs `tmdbId` added to the manifest) · **difficulty-select menu** (toggle stages on/off
-  before "ENTER CINÉ QUIZ").
+  honoring a floor of 2. Report → `tools/data/logs/prune-frames.json`.
+  - **Featured/primary image — DONE (this was the "thumbnail" task, reinterpreted).** Each film's FILM-GRAB
+    **featured image** (the large hero still at the top of its page = `og:image`) is downloaded as
+    `images/<slug>/0.jpg` and set as the primary frame shown in-game — these are hand-picked to represent the film,
+    unlike our random samples. Pipeline: `node fetch-featured.js` (URLs read from cached pages = offline; only image
+    bytes hit film-grab.com; concurrency 3, resumable, → `data/featured.json`) → `node analyze-frames.js` (now also
+    OCR-checks each `0.jpg`) → `node set-primary.js` (prepends `0.jpg` to `frames[]`; skips promotion if OCR shows
+    the title). Result: 1,531/1,531 downloaded (0 fail), 1,529 promoted, 2 fell back (Paddington, Foxcatcher).
+- **Phase 4 — Features:**
+  - **Letterboxd link on reveal — DONE.** `#rvLb` anchor in the reveal popup → `letterboxd.com/tmdb/<tmdbId>`
+    (`target=_blank`; auto-opens the app on mobile via universal links). Hidden if a film lacks `tmdbId`.
+    Required adding `tmdbId` to the manifest (now emitted by `curate.js` + `prune-frames.js`).
+  - **Difficulty-select menu — DONE.** Five color-coded `.schip` toggles under the menu ticket ("Choose your
+    stages"), each styled as a **mini movie ticket** (CSS radial-gradient notched ends + dashed `.perf` +
+    a circular `.tick` stub that fills when on). Default all on, ≥1 always enforced. `enterCinema()` locks the selection into `ACTIVE` (a subset of
+    `BANDS`) and resets `S`. The whole game now indexes `ACTIVE`, not `BANDS`: ladder shows only chosen stages
+    ("Stage 1 / N"), win fires on clearing the last active stage, relegation falls back within `ACTIVE`, and the
+    win screen themes/labels to the final active stage. `BANDS` stays the master tuning config + menu source.
 
 ## 11. Verification habit
 After UI changes, verify in the browser preview at desktop (1440×900) **and** mobile (375×667 + a taller phone),

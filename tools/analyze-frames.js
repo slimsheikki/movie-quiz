@@ -31,6 +31,17 @@ function frameList() {
   const MOVIES = require(C.paths.manifest);
   const set = new Set();
   for (const m of MOVIES) for (const f of (m.frames || [])) set.add(f);
+  // also include downloaded featured images (images/<slug>/0.jpg) so they get a title-OCR check
+  const mapPath = path.join(C.paths.data, 'featured.json');
+  if (fs.existsSync(mapPath)) {
+    const map = JSON.parse(fs.readFileSync(mapPath, 'utf8'));
+    for (const slug of Object.keys(map)) {
+      if (map[slug] && map[slug].ok) {
+        const rel = `images/${slug}/0.jpg`;
+        if (fs.existsSync(path.join(C.paths.root, rel))) set.add(rel);
+      }
+    }
+  }
   return [...set];
 }
 

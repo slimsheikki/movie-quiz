@@ -107,7 +107,7 @@ function run({ apply = false } = {}) {
   fs.writeFileSync(reportPath, JSON.stringify(report, null, 2));
 
   const out = MOVIES.map((m) => ({
-    title: m.title, year: m.year, director: m.director,
+    title: m.title, year: m.year, director: m.director, tmdbId: m.tmdbId,
     country: m.country, difficulty: m.difficulty, decoys: [], frames: m._newFrames,
   }));
   const counts = out.reduce((a, f) => ((a[f.difficulty] = (a[f.difficulty] || 0) + 1), a), {});

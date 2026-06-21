@@ -109,6 +109,10 @@
        border:2px solid var(--ink);color:var(--stock);background:var(--ink);border-radius:3px;padding:14px;cursor:pointer}
   .rules{font-size:13px;line-height:1.65;color:var(--ink);text-align:left;font-family:var(--serif)}
   .rules b{font-weight:700}
+  .lblink{font-family:var(--cond);font-weight:700;text-transform:uppercase;letter-spacing:.16em;font-size:11px;
+          color:var(--ink);text-decoration:none;border-bottom:1.5px solid var(--ink);align-self:center;
+          padding-bottom:1px;opacity:.75;transition:opacity .15s ease}
+  .lblink:hover{opacity:1}
 
   /* main menu — the ticket IS the button */
   #menuOv{transition:background .5s ease}
@@ -121,6 +125,26 @@
   .menuticket .enter{font-family:var(--cond);font-weight:800;text-transform:uppercase;letter-spacing:.16em;font-size:22px;
     color:var(--stock);background:var(--ink);border-radius:3px;padding:15px;margin-top:6px}
   .menuticket .tearhint{margin-top:4px;font-size:10px}
+
+  /* stage picker under the ticket */
+  .menuwrap{display:flex;flex-direction:column;align-items:center;gap:20px;width:100%;max-width:430px}
+  .stagepick{display:flex;flex-direction:column;align-items:center;gap:9px;width:100%}
+  .stagepick .picklabel{color:var(--dim);letter-spacing:.26em}
+  .stagepick .chips{display:flex;flex-wrap:wrap;gap:10px;justify-content:center}
+  /* each stage = a little movie ticket: round "tick" stub · dashed perforation · name, with notched ends */
+  .schip{position:relative;display:inline-flex;align-items:stretch;padding:0;border:2px solid;border-radius:4px;
+    background:transparent;cursor:pointer;font-family:var(--cond);font-weight:700;text-transform:uppercase;
+    letter-spacing:.12em;font-size:12px;line-height:1;
+    -webkit-mask:radial-gradient(circle 6px at 0 50%,#0000 97%,#000),radial-gradient(circle 6px at 100% 50%,#0000 97%,#000);
+            mask:radial-gradient(circle 6px at 0 50%,#0000 97%,#000),radial-gradient(circle 6px at 100% 50%,#0000 97%,#000);
+    -webkit-mask-composite:source-in;mask-composite:intersect;
+    transition:opacity .15s ease,background .15s ease,color .15s ease}
+  .schip .tick{flex:0 0 auto;width:13px;height:13px;border-radius:50%;border:2px solid currentColor;
+    align-self:center;margin:9px 0 9px 12px;position:relative}
+  .schip[aria-pressed="true"] .tick::after{content:"";position:absolute;inset:2px;border-radius:50%;background:currentColor}
+  .schip .perf{border-left:2px dashed currentColor;opacity:.5;margin:5px 11px}
+  .schip .lbl{align-self:center;padding-right:14px}
+  .schip[aria-pressed="false"]{opacity:.5}
 
   /* tear-in-half pieces (cloned on click) */
   .tear{z-index:100;pointer-events:none;
@@ -265,19 +289,25 @@
 
 <!-- MAIN MENU -->
 <div class="overlay" id="menuOv">
-  <button class="panel stock menuticket" id="enterBtn" type="button">
-    <div class="stub"><span>Admit One</span><span class="serial">N° 1928</span></div>
-    <div class="perf"></div>
-    <div class="pad">
-      <div class="meta" style="letter-spacing:.3em">Cinéma · Présente</div>
-      <h1>Ciné Quiz</h1>
-      <div class="rules" style="text-align:center">
-        Name the film from a single frame. Climb <b>Easy → Cinephile</b> and reach <b>1000</b> to win.
+  <div class="menuwrap">
+    <button class="panel stock menuticket" id="enterBtn" type="button">
+      <div class="stub"><span>Admit One</span><span class="serial">N° 1928</span></div>
+      <div class="perf"></div>
+      <div class="pad">
+        <div class="meta" style="letter-spacing:.3em">Cinéma · Présente</div>
+        <h1>Ciné Quiz</h1>
+        <div class="rules" style="text-align:center">
+          Name the film from a single frame. Climb <b>Easy → Cinephile</b> and reach <b>1000</b> to win.
+        </div>
+        <div class="enter">Enter Cinema</div>
+        <div class="meta tearhint">Tap the ticket to tear it</div>
       </div>
-      <div class="enter">Enter Cinema</div>
-      <div class="meta tearhint">Tap the ticket to tear it</div>
+    </button>
+    <div class="stagepick">
+      <div class="meta picklabel">Choose your stages</div>
+      <div class="chips" id="stagePick" role="group" aria-label="Choose difficulties"></div>
     </div>
-  </button>
+  </div>
 </div>
 
 <!-- REVEAL -->
@@ -289,6 +319,7 @@
       <div class="delta" id="rvDelta"></div>
       <h2 id="rvTitle"></h2>
       <ul id="rvMeta"></ul>
+      <a id="rvLb" class="lblink" target="_blank" rel="noopener noreferrer">Letterboxd ↗</a>
       <button class="btn" id="nextBtn">Next</button>
     </div>
   </div>
@@ -306,7 +337,7 @@
   </div>
 </div>
 
-<script src="data/movies.js?v=4"></script>
+<script src="data/movies.js?v=6"></script>
 <script>
 (function(){
   "use strict";
@@ -322,6 +353,9 @@
     {key:"veryhard",  name:"Very Hard", goal:1000, pMax:92,  pMin:42,  T:34, sting:60,  color:"--veryhard"},
     {key:"cinephile", name:"Cinephile", goal:1000, pMax:75,  pMin:34,  T:38, sting:48,  color:"--cinephile"}
   ];
+  // The ladder the game actually plays — a subset of BANDS chosen on the menu (defaults to all).
+  let ACTIVE = BANDS.slice();
+  const enabledStages = new Set(BANDS.map(b=>b.key));
 
   // ---- state ----  stage = current mode index (0..4); progress = points in the current stage's bar
   const S = { stage:0, progress:0, streak:0, round:null, seen:[], lastChoices:null };   // seen = every film shown this game (no repeats); lastChoices = prior round's 4 titles
@@ -394,9 +428,9 @@
     return shuffle([ans, ...decoys]);
   }
   function startRound(){
-    const band = BANDS[S.stage];
+    const band = ACTIVE[S.stage];
     const movie = pickMovie(band);
-    const frame = movie.frames[rand(movie.frames.length)];
+    const frame = movie.frames[0];   // frames[0] = FILM-GRAB featured still (the representative image)
     const avoid = new Set((S.lastChoices||[]).map(t=>t.trim().toLowerCase()));
     const choices = makeChoices(movie, band, avoid);
     S.lastChoices = choices;
@@ -446,7 +480,7 @@
       S.streak++;
       S.progress += delta;
       if(S.progress >= band.goal){                          // bar filled → clear the stage
-        if(S.stage === BANDS.length-1){ evt.won = true; S.progress = band.goal; }
+        if(S.stage === ACTIVE.length-1){ evt.won = true; S.progress = band.goal; }
         else { evt.promoted = true; S.stage++; S.progress -= band.goal; }   // carry overflow into the next, harder stage
       }
     } else {
@@ -454,7 +488,7 @@
       S.streak = 0;
       S.progress += delta;
       if(S.progress < 0){
-        if(S.stage > 0){ evt.relegated = true; S.stage--; S.progress = BANDS[S.stage].goal + S.progress; }  // fall back a stage
+        if(S.stage > 0){ evt.relegated = true; S.stage--; S.progress = ACTIVE[S.stage].goal + S.progress; }  // fall back a stage
         else S.progress = 0;                                // can't fall below the first stage
       }
     }
@@ -471,7 +505,7 @@
 
   // ---- stage-cleared toast ----
   function toastPromote(){
-    const prev=BANDS[S.stage-1], cur=BANDS[S.stage];
+    const prev=ACTIVE[S.stage-1], cur=ACTIVE[S.stage];
     const t=$("#toast");
     t.textContent = prev.name+" cleared → "+cur.name;
     t.style.background = cssVar(cur.color);
@@ -482,7 +516,7 @@
   }
 
   function toastRelegate(){
-    const cur=BANDS[S.stage];
+    const cur=ACTIVE[S.stage];
     const t=$("#toast");
     t.textContent = "Relegated → "+cur.name;
     t.style.background = cssVar("--bad");
@@ -494,7 +528,7 @@
   // ---- tiny movie-ticket confetti pop ----
   function confettiBurst(count, originYFrac){
     if(window.matchMedia && matchMedia("(prefers-reduced-motion: reduce)").matches) return;
-    const cols=[cssVar(BANDS[S.stage].color), cssVar(BANDS[Math.max(0,S.stage-1)].color), "#ffffff"];
+    const cols=[cssVar(ACTIVE[S.stage].color), cssVar(ACTIVE[Math.max(0,S.stage-1)].color), "#ffffff"];
     const layer=document.createElement("div");
     layer.style.cssText="position:fixed;inset:0;pointer-events:none;z-index:90;overflow:hidden";
     document.body.appendChild(layer);
@@ -522,8 +556,8 @@
 
   function showReveal(correct, delta, evt){
     renderLadder();
-    setStock(BANDS[S.stage].color);                                              // re-theme to the (possibly new) stage
-    document.documentElement.style.setProperty("--cyan", cssVar(BANDS[S.stage].color));
+    setStock(ACTIVE[S.stage].color);                                              // re-theme to the (possibly new) stage
+    document.documentElement.style.setProperty("--cyan", cssVar(ACTIVE[S.stage].color));
     if(evt.won) return showWin();
     if(evt.promoted) toastPromote();
     else if(evt.relegated) toastRelegate();
@@ -536,12 +570,17 @@
     $("#rvTitle").textContent = m.title;
     const country = Array.isArray(m.country) ? m.country.join(", ") : (m.country || "");
     $("#rvMeta").innerHTML = "<li>"+m.year+" · "+m.director+"</li><li>"+country+"</li>";
+    const lb=$("#rvLb");
+    if(m.tmdbId){ lb.href="https://letterboxd.com/tmdb/"+m.tmdbId; lb.style.display=""; }
+    else lb.style.display="none";
     $("#revealOv").classList.remove("hidden");
     renderLadder();
   }
   function showWin(){
-    setStock("--cinephile");
-    document.documentElement.style.setProperty("--cyan", cssVar("--cinephile"));
+    const last = ACTIVE[ACTIVE.length-1];
+    setStock(last.color);
+    document.documentElement.style.setProperty("--cyan", cssVar(last.color));
+    $("#winResult").textContent = last.name;
     $("#winResult").style.color=cssVar("--ink");
     $("#winOv").classList.remove("hidden");
     confettiBurst(70, 0.32);
@@ -550,16 +589,16 @@
 
   // ---- ladder render ----
   function renderLadder(){
-    const band = BANDS[S.stage];
+    const band = ACTIVE[S.stage];
     $("#scoreNum").textContent = S.progress;
     $("#goalNum").textContent = band.goal;
-    $("#rankLabel").textContent = band.name + " · Stage " + (S.stage+1) + " / 5";
+    $("#rankLabel").textContent = band.name + " · Stage " + (S.stage+1) + " / " + ACTIVE.length;
     const pct = Math.min(100, (S.progress/band.goal)*100);
     const fill=$("#fill");
     fill.style.right = (100-pct)+"%";
     fill.style.background = cssVar(band.color);
     const bandsEl=$("#bands"); bandsEl.innerHTML="";
-    BANDS.forEach((b,i)=>{
+    ACTIVE.forEach((b,i)=>{
       const el=document.createElement("b");
       el.textContent=b.name;
       if(i<S.stage){ el.classList.add("done"); el.style.background=cssVar(b.color); el.style.color=cssVar("--ink"); el.style.borderColor=cssVar(b.color); }
@@ -572,6 +611,8 @@
   function enterCinema(){
     const menu = $("#menuOv"), ticket = $("#enterBtn");
     const r = ticket.getBoundingClientRect();
+    ACTIVE = BANDS.filter(b=>enabledStages.has(b.key));   // lock in the chosen stages for this game
+    S.stage=0; S.progress=0; S.streak=0; S.seen=[]; S.lastChoices=null;
     startRound();                                  // prepare the game behind the menu
     const mk = cls=>{
       const c = ticket.cloneNode(true); c.removeAttribute("id");
@@ -585,6 +626,29 @@
     requestAnimationFrame(()=>requestAnimationFrame(()=>{ top.classList.add("go"); bot.classList.add("go"); }));
     setTimeout(()=>{ menu.classList.add("hidden"); top.remove(); bot.remove(); ticket.style.visibility=""; }, 800);
   }
+
+  // ---- stage picker (menu) ----
+  function renderStagePick(){
+    const wrap=$("#stagePick"); wrap.innerHTML="";
+    BANDS.forEach(b=>{
+      const on=enabledStages.has(b.key), col=cssVar(b.color);
+      const chip=document.createElement("button");
+      chip.type="button"; chip.className="schip";
+      chip.innerHTML='<span class="tick"></span><span class="perf"></span><span class="lbl"></span>';
+      chip.querySelector(".lbl").textContent=b.name;
+      chip.setAttribute("aria-pressed", on);
+      chip.style.borderColor=col;
+      chip.style.color = on ? cssVar("--ink") : col;
+      chip.style.background = on ? col : "transparent";
+      chip.onclick=()=>{
+        if(enabledStages.has(b.key)){ if(enabledStages.size>1) enabledStages.delete(b.key); }  // keep ≥1
+        else enabledStages.add(b.key);
+        renderStagePick();
+      };
+      wrap.appendChild(chip);
+    });
+  }
+  renderStagePick();
 
   // ---- buttons ----
   $("#enterBtn").onclick = enterCinema;
