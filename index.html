@@ -306,7 +306,7 @@
   </div>
 </div>
 
-<script src="data/movies.js?v=2"></script>
+<script src="data/movies.js?v=4"></script>
 <script>
 (function(){
   "use strict";
@@ -324,7 +324,7 @@
   ];
 
   // ---- state ----  stage = current mode index (0..4); progress = points in the current stage's bar
-  const S = { stage:0, progress:0, streak:0, round:null, seen:[] };   // seen = every film shown this game (no repeats)
+  const S = { stage:0, progress:0, streak:0, round:null, seen:[], lastChoices:null };   // seen = every film shown this game (no repeats); lastChoices = prior round's 4 titles
 
   // ---- helpers ----
   const $ = s => document.querySelector(s);
@@ -366,8 +366,9 @@
     S.seen.push(movie.title);
     return movie;
   }
-  // 3 fresh random decoys every round (never the same set) — same tier + similar era to stay fair
-  function makeChoices(movie, band){
+  // 3 fresh random decoys every round (never the same set) — same tier + similar era to stay fair.
+  // `avoid` = titles shown last round; we keep them out so no answer text repeats back-to-back.
+  function makeChoices(movie, band, avoid){
     const ans = movie.title, ak = ans.trim().toLowerCase(), yr = movie.year||0;
     const sameTier = MOVIES.filter(m => m.difficulty===band.key && m.title.trim().toLowerCase()!==ak);
     const pools = [
@@ -375,22 +376,30 @@
       sameTier,                                              // same league, any era
       MOVIES                                                 // last resort
     ];
-    const used = new Set([ak]), decoys = [];
-    for(const pool of pools){
-      let guard = 0;
-      while(decoys.length<3 && pool.length && guard++<500){
-        const t = pool[rand(pool.length)].title, k = t.trim().toLowerCase();
-        if(!used.has(k)){ used.add(k); decoys.push(t); }
+    // First pass excludes last round's titles; if a small tier can't fill 3, relax that rule.
+    const fill = (block) => {
+      const used = new Set([ak]), decoys = [];
+      for(const pool of pools){
+        let guard = 0;
+        while(decoys.length<3 && pool.length && guard++<500){
+          const t = pool[rand(pool.length)].title, k = t.trim().toLowerCase();
+          if(!used.has(k) && !(block && block.has(k))){ used.add(k); decoys.push(t); }
+        }
+        if(decoys.length>=3) break;
       }
-      if(decoys.length>=3) break;
-    }
+      return decoys;
+    };
+    let decoys = fill(avoid);
+    if(decoys.length<3) decoys = fill(null);   // relax: tier too small to also dodge last round
     return shuffle([ans, ...decoys]);
   }
   function startRound(){
     const band = BANDS[S.stage];
     const movie = pickMovie(band);
     const frame = movie.frames[rand(movie.frames.length)];
-    const choices = makeChoices(movie, band);
+    const avoid = new Set((S.lastChoices||[]).map(t=>t.trim().toLowerCase()));
+    const choices = makeChoices(movie, band, avoid);
+    S.lastChoices = choices;
     S.round = { band, movie, frame, choices, answered:false };
 
     spent=0;
@@ -580,7 +589,7 @@
   // ---- buttons ----
   $("#enterBtn").onclick = enterCinema;
   $("#nextBtn").onclick  = ()=>{ $("#revealOv").classList.add("hidden"); startRound(); };
-  $("#againBtn").onclick = ()=>{ S.stage=0;S.progress=0;S.streak=0;S.seen=[]; $("#winOv").classList.add("hidden"); startRound(); };
+  $("#againBtn").onclick = ()=>{ S.stage=0;S.progress=0;S.streak=0;S.seen=[];S.lastChoices=null; $("#winOv").classList.add("hidden"); startRound(); };
 
   // ---- keyboard: 1–4 answer, Enter advances ----
   const visible = el => el && !el.classList.contains("hidden") && getComputedStyle(el).display!=="none";

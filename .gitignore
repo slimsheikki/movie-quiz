@@ -1,0 +1,7 @@
+# compiled Vision helper (rebuilt from tools/vision.swift; never shipped)
+tools/vision-bin
+
+# pipeline caches / logs (regenerable)
+tools/data/cache/
+tools/data/logs/
+tools/.env
