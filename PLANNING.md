@@ -155,3 +155,74 @@ Stages (run via `node run-all.js` or individually): `scrape-filmgrab.js` → `ma
 ## 11. Verification habit
 After UI changes, verify in the browser preview at desktop (1440×900) **and** mobile (375×667 + a taller phone),
 check `preview_console_logs` for errors, and confirm no horizontal scroll / clipping.
+
+## 12. Shared online leaderboard (PLANNED — not built yet)
+**Goal:** a shared, persistent high-score board for the GitHub Pages site (live at `slimsheikki.github.io`).
+GitHub Pages is **static** (can't store data), so scores live in a free hosted DB the page reaches over plain
+HTTPS `fetch` — **no SDK**, keeping the zero-dep/buildless ethos. Chosen backend: **Supabase** (free tier, Postgres
++ auto REST/PostgREST). Firebase Firestore is a viable alternative; Supabase picked for the plain-REST simplicity.
+
+### Decisions still open (confirm with user before building)
+- **Score metric** — the game has **no cumulative score today** (each stage resets its 1000 bar on promotion).
+  Need to add a running total. *Recommended:* `S.total` = sum of every `delta` earned across the run; rank by that,
+  show name + ✦ if they reached Cinephile. (Alternatives: fastest win / fewest rounds; highest stage reached.)
+- **Comparability** — stages + obscurity are toggleable, so runs aren't equal. Either (a) only submit "full runs"
+  (all 5 stages, obscurity 0), or (b) store the config per row and show it. *Lean (a) for a clean board.*
+- **Name entry** — prompt on the win screen; prefill from `localStorage('cq_name')`.
+
+### One-time setup (user's part — needs a Supabase account, ~10 min)
+1. supabase.com → new free project. From Settings → API copy **Project URL** + **anon/publishable key**
+   (both are public-safe by design; the anon key is meant to ship in client code).
+2. SQL editor — create the table:
+   ```sql
+   create table scores (
+     id bigint generated always as identity primary key,
+     name text not null,
+     score int not null,
+     won boolean default false,
+     reached text,            -- highest stage reached
+     obscurity int default 0,
+     created_at timestamptz default now()
+   );
+   ```
+3. Enable **Row Level Security** + two policies: anon **SELECT** (read board) and anon **INSERT** (submit).
+   Optional `CHECK (score between 0 and <sane_max>)` + `length(name) <= 24` to blunt obvious fakes.
+4. (Optional, later) a Supabase **Edge Function** to validate scores server-side = real anti-cheat.
+
+### Client wiring (in `index.html`, plain `fetch`, zero deps)
+- Constants near top of the game script: `const SUPA_URL="https://<proj>.supabase.co", SUPA_KEY="<anon key>";`
+- **Submit (on win):** `POST ${SUPA_URL}/rest/v1/scores`
+  headers `{ apikey:SUPA_KEY, Authorization:"Bearer "+SUPA_KEY, "Content-Type":"application/json", Prefer:"return=minimal" }`
+  body `JSON.stringify({ name, score, won, reached, obscurity })`.
+- **Read top:** `GET ${SUPA_URL}/rest/v1/scores?select=name,score,won,reached&order=score.desc&limit=20`
+  (same `apikey`/`Authorization` headers).
+- **In-game:** track `S.total += delta` on each correct answer (add to `answer()`); reset in the new-game/again paths
+  alongside `S.stage=0` etc.
+- **UI:** a "Hall of Fame" list on the win screen (and optionally the menu); a name `<input>` on the win screen.
+  Bump `?v=` only if `data/movies.js` changes (leaderboard is index.html-only, no data change).
+
+### Caveats
+- The anon key + direct browser INSERT means scores are **spoofable by a technical user** — acceptable for a game
+  shared with friends/family; RLS + CHECK stop casual abuse; Edge Function = true anti-cheat if ever wanted.
+- Supabase allows browser origins (CORS) by default — no extra config for GitHub Pages.
+
+## 13. Session handoff (as of this conversation)
+Everything below is **DONE and live** (`data/movies.js?v=8`, deployed to `slimsheikki.github.io`):
+- Phases 1–4 complete (see §10). Library = **2,000 films** (1,533 core + 467 obscure), **7,165 frames**,
+  `frames[0]` = FILM-GRAB featured image. Manifest carries `tmdbId`, `obscure`, `obs`.
+- **6 wrong-TMDb-match corrections** applied via `tools/fix-matches.js` (Blade Runner/2049, Shame, The Silence,
+  The Return, Spider/Spider-Man, Love) — see §4. Re-run the two detector sweeps (same-tmdbId; page-year vs assigned)
+  after any future expansion.
+- **Difficulty chips** on one row; **obscurity slider** (0–100%) added; **country removed** from reveal popup;
+  mobile game card content-sized + centered.
+
+**Pipeline order (full rebuild):** `node curate.js` → `node fetch-featured.js` → `node analyze-frames.js`
+→ `node prune-frames.js --apply` → `node set-primary.js`, then bump `?v=` in `index.html`. (All resumable/cached;
+only `fetch-featured` hits the network — throttle was clear last run, ~6/s.)
+
+**Next candidate tasks (not started):**
+- **Leaderboard** (§12) — the current focus. Decide score metric + comparability, then build (mostly index.html;
+  Supabase setup needs user).
+- **B — library expansion:** download frames for the ~1,854 parked films in `tools/data/matched.json`
+  (`cd tools && node download-frames.js` then full pipeline). Biggest network job; would also deepen the obscurity
+  pool automatically. Start with a small test batch to re-check the throttle.
