@@ -103,6 +103,7 @@
   .panel h2{font-family:var(--serif);font-size:27px;margin:0;line-height:1.15;color:var(--ink)}
   .panel .result{font-weight:800;text-transform:uppercase;letter-spacing:.2em;font-size:13px}
   .panel .delta{font-family:var(--cond);font-size:38px;font-weight:800}
+  #rvFrame{width:100%;aspect-ratio:16/9;object-fit:contain;background:#000;border:2px solid var(--ink);border-radius:3px;display:block}
   .panel ul{list-style:none;margin:0;padding:0;font-size:11px;letter-spacing:.16em;text-transform:uppercase;color:rgba(10,12,12,.7);display:flex;flex-direction:column;gap:4px}
   .btn{font-family:var(--cond);font-weight:800;text-transform:uppercase;letter-spacing:.16em;font-size:14px;
        border:2px solid var(--ink);color:var(--stock);background:var(--ink);border-radius:3px;padding:14px;cursor:pointer}
@@ -199,6 +200,29 @@
     .panel h1{font-size:40px}
     .panel h2{font-size:30px}
   }
+
+  /* ===================== MOBILE — fit one screen, no scrolling ===================== */
+  @media (max-width:999px){
+    html,body{height:100%;overflow:hidden}
+    body{align-items:stretch}
+    #app{height:100dvh;max-width:520px;gap:8px;padding:10px 12px calc(8px + env(safe-area-inset-bottom));justify-content:flex-start}
+    .ladder{padding:9px 22px;gap:6px}
+    .ladder .score{font-size:20px}
+    .ticket{flex:1 1 auto;display:flex;flex-direction:column;justify-content:center;min-height:0;padding:24px 0}
+    .ticket .stub,.ticket>.perf,.ticket .foot,.hint{display:none}        /* reclaim vertical space */
+    .ticket .body{display:flex;flex-direction:column;align-items:center;gap:10px;padding:0 14px}
+    .framewrap{aspect-ratio:16/9;height:min(42vh,53vw);width:auto;max-width:100%}
+    .potbar{border-top:0;padding-top:0;justify-content:center;gap:12px}
+    .pot{font-size:26px}
+    .choices{width:100%;display:grid;grid-template-columns:1fr 1fr;gap:8px}
+    .choice{font-size:13px;line-height:1.2;padding:11px 10px;text-align:center;min-height:0;display:flex;align-items:center;justify-content:center}
+    /* reveal popup stays compact on phones */
+    .panel .pad{padding:30px 24px;gap:8px}
+    .panel h1{font-size:26px}
+    .panel h2{font-size:22px}
+    .panel .delta{font-size:30px}
+    #rvFrame{height:24vh;width:auto;aspect-ratio:16/9;max-width:100%;margin:0 auto}
+  }
 </style>
 </head>
 <body>
@@ -260,11 +284,12 @@
 <div class="overlay hidden" id="revealOv">
   <div class="panel stock">
     <div class="pad">
+      <img id="rvFrame" alt="">
       <div class="result" id="rvResult"></div>
       <div class="delta" id="rvDelta"></div>
       <h2 id="rvTitle"></h2>
       <ul id="rvMeta"></ul>
-      <button class="btn" id="nextBtn">Next Feature</button>
+      <button class="btn" id="nextBtn">Next</button>
     </div>
   </div>
 </div>
@@ -299,8 +324,7 @@
   ];
 
   // ---- state ----  stage = current mode index (0..4); progress = points in the current stage's bar
-  const S = { stage:0, progress:0, streak:0, round:null, recent:[] };
-  const RECENT_MAX = 40;   // a film won't reappear until at least this many others have been shown
+  const S = { stage:0, progress:0, streak:0, round:null, seen:[] };   // seen = every film shown this game (no repeats)
 
   // ---- helpers ----
   const $ = s => document.querySelector(s);
@@ -308,13 +332,20 @@
   const setStock = v => document.documentElement.style.setProperty("--stock", cssVar(v));
   const rand = n => Math.floor(Math.random()*n);
   const shuffle = a => { a=a.slice(); for(let i=a.length-1;i>0;i--){const j=rand(i+1);[a[i],a[j]]=[a[j],a[i]];} return a; };
+  const frameURL = f => f.indexOf("<svg")===0 ? "data:image/svg+xml;utf8,"+encodeURIComponent(f) : f;
 
   // ---- canvas / pixel engine ----
   const cv = $("#cv"), ctx = cv.getContext("2d");
   let img=null;
 
-  // pixelation skipped for now — show the frame in full
-  function draw(){ ctx.drawImage(img, 0, 0, cv.width, cv.height); }
+  // draw the still letterboxed (contain) so it keeps its real aspect ratio — never squeezed
+  function draw(){
+    ctx.fillStyle="#000"; ctx.fillRect(0,0,cv.width,cv.height);
+    const iw=img.naturalWidth||img.width, ih=img.naturalHeight||img.height;
+    if(!iw||!ih) return;
+    const sc=Math.min(cv.width/iw, cv.height/ih), w=iw*sc, h=ih*sc;
+    ctx.drawImage(img, (cv.width-w)/2, (cv.height-h)/2, w, h);
+  }
 
   // ---- pot (time decay + spend) ----
   let startT=0, spent=0, tickId=null, autoId=null;
@@ -327,8 +358,13 @@
 
   // ---- round lifecycle ----
   function pickMovie(band){
-    const pool = MOVIES.filter(m=>m.difficulty===band.key);
-    return pool[rand(pool.length)];
+    const tier = MOVIES.filter(m=>m.difficulty===band.key);
+    const seen = new Set(S.seen);
+    let pool = tier.filter(m=>!seen.has(m.title));
+    if(!pool.length) pool = tier;                 // tier exhausted this game (won't happen with 200+ per tier)
+    const movie = pool[rand(pool.length)];
+    S.seen.push(movie.title);
+    return movie;
   }
   // 3 fresh random decoys every round (never the same set) — same tier + similar era to stay fair
   function makeChoices(movie, band){
@@ -383,7 +419,7 @@
       renderPot();
       tickId = setInterval(renderPot, 100);
     };
-    img.src = frame.indexOf("<svg")===0 ? "data:image/svg+xml;utf8,"+encodeURIComponent(frame) : frame;
+    img.src = frameURL(frame);
   }
 
   function stopTimers(){ clearInterval(tickId); clearInterval(autoId); }
@@ -487,6 +523,7 @@
     $("#rvResult").style.color = correct ? cssVar("--good") : cssVar("--bad");
     $("#rvDelta").textContent = (delta>=0?"+":"")+delta;
     $("#rvDelta").style.color = correct ? cssVar("--good") : cssVar("--bad");
+    $("#rvFrame").src = frameURL(S.round.frame);
     $("#rvTitle").textContent = m.title;
     const country = Array.isArray(m.country) ? m.country.join(", ") : (m.country || "");
     $("#rvMeta").innerHTML = "<li>"+m.year+" · "+m.director+"</li><li>"+country+"</li>";
@@ -543,7 +580,7 @@
   // ---- buttons ----
   $("#enterBtn").onclick = enterCinema;
   $("#nextBtn").onclick  = ()=>{ $("#revealOv").classList.add("hidden"); startRound(); };
-  $("#againBtn").onclick = ()=>{ S.stage=0;S.progress=0;S.streak=0; $("#winOv").classList.add("hidden"); startRound(); };
+  $("#againBtn").onclick = ()=>{ S.stage=0;S.progress=0;S.streak=0;S.seen=[]; $("#winOv").classList.add("hidden"); startRound(); };
 
   // ---- keyboard: 1–4 answer, Enter advances ----
   const visible = el => el && !el.classList.contains("hidden") && getComputedStyle(el).display!=="none";
