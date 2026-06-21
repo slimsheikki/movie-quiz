@@ -48,7 +48,7 @@ function run({ dry = false } = {}) {
   if (dry) { console.log('\n--dry: no file written.'); return out; }
 
   const banner = `// AUTO-GENERATED — curate.js → prune-frames.js → set-primary.js. Do not edit by hand.\n` +
-    `// ${out.length} films · ${JSON.stringify(counts)} · frames ${totalFrames} · frames[0] = FILM-GRAB featured image\n`;
+    `// ${out.length} films · ${JSON.stringify(counts)} · frames ${totalFrames} · frames[0] = FILM-GRAB featured\n`;
   fs.writeFileSync(C.paths.manifest,
     `const MOVIES = ${JSON.stringify(out, null, 2)};\n` +
     `if (typeof module !== "undefined") module.exports = MOVIES;\n`);

@@ -1,105 +1,101 @@
-// PHASE 2 — Library curation (network-free). Reads matched.json, applies an inclusion
-// floor, deduplicates remakes/alt-cuts, re-tiers by a blended popularity+acclaim score,
-// and emits data/movies.js. Operates only on films that already have frames downloaded.
+// PHASE 2 — Library curation (network-free). Reads matched.json, deduplicates remakes/alt-cuts,
+// re-tiers the core library by a blended popularity+acclaim score, and emits data/movies.js.
 //
-//   node curate.js            # rebuild data/movies.js
-//   node curate.js --dry      # print what would change, write nothing
+// Obscurity: films BELOW the inclusion floor aren't dropped — they're kept as an "obscure" pool
+// routed only into Very Hard / Cinephile and tagged with `obs` (0=least … 100=most obscure) +
+// `obscure:true`. The runtime obscurity slider gates them; at slider 0 they never appear, so the
+// default game = exactly the floor-passing core. Core tiers are unchanged (percentile over core only).
 //
-// Decoys are randomized at runtime in index.html, so this emits decoys: [] (legacy field).
+//   node curate.js [--dry]
 const fs = require('fs');
 const path = require('path');
 const C = require('./config');
 const T = require('./lib/text');
 
-const FLOOR_VOTES = 200;          // inclusion floor: drop films below this many TMDb votes
-const W_VOTES = 0.6, W_RATING = 0.4;   // blend weights for re-tiering
+const FLOOR_VOTES = 200;          // inclusion floor for the CORE (always-on) library
+const W_VOTES = 0.6, W_RATING = 0.4;   // blend weights for core re-tiering
+const VH_VS_CINE_VOTES = 100;     // obscure split: vc>=100 → Very Hard, else Cinephile
 const KEEP_OVERRIDE = new Set(['funny-games-2']); // prefer 1997 original over 2008 remake
 const DROP_OVERRIDE = new Set(['funny-games']);
 
 const norm = (t) => T.norm(t);
-
-function tierFor(p) {
-  for (const t of C.tiers) if (p >= t.min) return t.key;
-  return 'cinephile';
-}
+const tierFor = (p) => { for (const t of C.tiers) if (p >= t.min) return t.key; return 'cinephile'; };
 
 function run({ dry = false } = {}) {
   const all = JSON.parse(fs.readFileSync(C.paths.matched, 'utf8'));
-  let films = all.filter((m) => (m.frames || []).length >= C.frames.min);
-  const start = films.length;
+  const withFrames = all.filter((m) => (m.frames || []).length >= C.frames.min);
+  const start = withFrames.length;
 
-  // 1. inclusion floor — drop obscure tail and broken metadata
-  const belowFloor = [];
-  films = films.filter((f) => {
-    const keep = f.vote_count >= FLOOR_VOTES && f.vote_average > 0;
-    if (!keep) belowFloor.push(f);
-    return keep;
-  });
+  // partition by the core inclusion floor (broken metadata, vote_average==0, is excluded entirely)
+  const rated = withFrames.filter((f) => f.vote_average > 0 && f.vote_count > 0);
+  const isCore = (f) => f.vote_count >= FLOOR_VOTES;
 
-  // 2. deduplicate by normalized title — keep the version most people have seen
-  //    (highest vote_count), with manual overrides for remake/original edge cases.
+  // dedup by normalized title across the WHOLE rated set (core beats obscure on vote_count, so
+  // a title shared by a core + an obscure film keeps the core one — no duplicate answer options).
   const groups = new Map();
-  for (const f of films) {
+  for (const f of rated) {
     const k = norm(f.title);
     if (!groups.has(k)) groups.set(k, []);
     groups.get(k).push(f);
   }
-  const dropped = [];
-  films = [];
+  const survivors = [];
   for (const [, group] of groups) {
-    if (group.length === 1) { films.push(group[0]); continue; }
     let keep = group.find((f) => KEEP_OVERRIDE.has(f.slug));
     if (!keep) keep = group.filter((f) => !DROP_OVERRIDE.has(f.slug))
       .sort((a, b) => b.vote_count - a.vote_count)[0] || group[0];
-    for (const f of group) if (f !== keep) dropped.push(f);
-    films.push(keep);
+    survivors.push(keep);
   }
 
-  // 3. re-tier by blended z(log vote_count) + z(vote_average)
-  const logv = films.map((f) => Math.log(f.vote_count));
-  const rat = films.map((f) => f.vote_average);
+  const core = survivors.filter(isCore);
+  const obscure = survivors.filter((f) => !isCore(f));
+
+  // CORE re-tier by blended z(log vote_count) + z(vote_average) — unchanged from before
   const stats = (arr) => {
     const mean = arr.reduce((s, x) => s + x, 0) / arr.length;
     const sd = Math.sqrt(arr.reduce((s, x) => s + (x - mean) ** 2, 0) / arr.length) || 1;
     return { mean, sd };
   };
-  const sv = stats(logv), sr = stats(rat);
-  films.forEach((f) => {
-    const zv = (Math.log(f.vote_count) - sv.mean) / sv.sd;
-    const zr = (f.vote_average - sr.mean) / sr.sd;
-    f._score = W_VOTES * zv + W_RATING * zr;
+  const sv = stats(core.map((f) => Math.log(f.vote_count)));
+  const sr = stats(core.map((f) => f.vote_average));
+  core.forEach((f) => {
+    f._score = W_VOTES * ((Math.log(f.vote_count) - sv.mean) / sv.sd) + W_RATING * ((f.vote_average - sr.mean) / sr.sd);
   });
-  const sorted = [...films].sort((a, b) => a._score - b._score); // ascending: low score = hardest
-  const n = sorted.length;
-  sorted.forEach((f, i) => { f.difficulty = tierFor(n <= 1 ? 1 : i / (n - 1)); });
+  const coreSorted = [...core].sort((a, b) => a._score - b._score);
+  const n = coreSorted.length;
+  coreSorted.forEach((f, i) => { f.difficulty = tierFor(n <= 1 ? 1 : i / (n - 1)); f.obscure = false; });
 
-  // emit (stable order: tier then title)
+  // OBSCURE pool → Very Hard / Cinephile by vote_count; obs = obscurity percentile WITHIN the
+  // obscure pool (0 = least obscure extra … 100 = most). The runtime slider V gates them:
+  // a film is eligible iff !obscure OR (V>0 && obs<=V) — so V=0 hides every obscure film and the
+  // default game is exactly the core. Core films carry no obs (always eligible).
+  obscure.forEach((f) => { f.difficulty = f.vote_count >= VH_VS_CINE_VOTES ? 'veryhard' : 'cinephile'; f.obscure = true; });
+  const obsSorted = [...obscure].sort((a, b) => b.vote_count - a.vote_count); // most-voted (least obscure) first
+  const m = obsSorted.length;
+  obsSorted.forEach((f, i) => { f.obs = m <= 1 ? 0 : Math.round((100 * i) / (m - 1)); });
+
+  // emit
   const tierOrder = { easy: 0, medium: 1, hard: 2, veryhard: 3, cinephile: 4 };
-  const out = sorted
-    .map((f) => ({
-      title: f.title, year: f.year, director: f.director, tmdbId: f.tmdbId,
-      country: f.country, difficulty: f.difficulty, decoys: [], frames: f.frames,
-    }))
+  const out = [...coreSorted, ...obscure]
+    .map((f) => {
+      const o = { title: f.title, year: f.year, director: f.director, tmdbId: f.tmdbId,
+        country: f.country, difficulty: f.difficulty, decoys: [], frames: f.frames };
+      if (f.obscure) { o.obscure = true; o.obs = f.obs; }   // obscurity gating metadata (extras only)
+      return o;
+    })
     .sort((a, b) => (tierOrder[a.difficulty] - tierOrder[b.difficulty]) || a.title.localeCompare(b.title));
 
-  const counts = out.reduce((m, f) => ((m[f.difficulty] = (m[f.difficulty] || 0) + 1), m), {});
+  const counts = out.reduce((a, f) => ((a[f.difficulty] = (a[f.difficulty] || 0) + 1), a), {});
+  const obsCounts = out.filter((f) => f.obscure).reduce((a, f) => ((a[f.difficulty] = (a[f.difficulty] || 0) + 1), a), {});
 
-  console.log(`Started with ${start} films (>=${C.frames.min} frames)`);
-  console.log(`  − ${belowFloor.length} below floor (vote_count<${FLOOR_VOTES} or no rating)`);
-  console.log(`  − ${dropped.length} duplicate/remake versions`);
+  console.log(`Started with ${start} films (>=${C.frames.min} frames, ${withFrames.length - rated.length} dropped: no rating)`);
+  console.log(`  core (vc≥${FLOOR_VOTES}): ${core.length}  ·  obscure pool (vc<${FLOOR_VOTES}): ${obscure.length}`);
   console.log(`  = ${out.length} films  ${JSON.stringify(counts)}`);
-  if (dropped.length) {
-    console.log('\nDeduped (dropped → kept):');
-    for (const f of dropped) {
-      const kept = films.find((k) => norm(k.title) === norm(f.title));
-      console.log(`  ${f.title} (${f.year}) vc=${f.vote_count}  →  kept ${kept.year} vc=${kept.vote_count}`);
-    }
-  }
+  console.log(`  obscure split: ${JSON.stringify(obsCounts)}`);
 
   if (dry) { console.log('\n--dry: no file written.'); return out; }
 
   const banner = `// AUTO-GENERATED by tools/curate.js — do not edit by hand.\n` +
-    `// ${out.length} films · ${JSON.stringify(counts)}\n`;
+    `// ${out.length} films · ${JSON.stringify(counts)} · obscure ${JSON.stringify(obsCounts)}\n`;
   const body = `const MOVIES = ${JSON.stringify(out, null, 2)};\n` +
     `if (typeof module !== "undefined") module.exports = MOVIES;\n`;
   fs.mkdirSync(path.dirname(C.paths.manifest), { recursive: true });

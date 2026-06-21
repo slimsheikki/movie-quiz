@@ -106,10 +106,13 @@ function run({ apply = false } = {}) {
   fs.mkdirSync(C.paths.logs, { recursive: true });
   fs.writeFileSync(reportPath, JSON.stringify(report, null, 2));
 
-  const out = MOVIES.map((m) => ({
-    title: m.title, year: m.year, director: m.director, tmdbId: m.tmdbId,
-    country: m.country, difficulty: m.difficulty, decoys: [], frames: m._newFrames,
-  }));
+  const out = MOVIES.map((m) => {
+    const o = { title: m.title, year: m.year, director: m.director, tmdbId: m.tmdbId,
+      country: m.country, difficulty: m.difficulty, decoys: [], frames: m._newFrames };
+    if (m.obs != null) o.obs = m.obs;       // preserve obscurity metadata for the runtime slider
+    if (m.obscure) o.obscure = true;
+    return o;
+  });
   const counts = out.reduce((a, f) => ((a[f.difficulty] = (a[f.difficulty] || 0) + 1), a), {});
   const banner = `// AUTO-GENERATED — curate.js then prune-frames.js. Do not edit by hand.\n` +
     `// ${out.length} films · ${JSON.stringify(counts)} · frames ${framesAfter}\n`;

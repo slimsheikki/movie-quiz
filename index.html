@@ -130,21 +130,40 @@
   .menuwrap{display:flex;flex-direction:column;align-items:center;gap:20px;width:100%;max-width:430px}
   .stagepick{display:flex;flex-direction:column;align-items:center;gap:9px;width:100%}
   .stagepick .picklabel{color:var(--dim);letter-spacing:.26em}
-  .stagepick .chips{display:flex;flex-wrap:wrap;gap:10px;justify-content:center}
-  /* each stage = a little movie ticket: round "tick" stub · dashed perforation · name, with notched ends */
-  .schip{position:relative;display:inline-flex;align-items:stretch;padding:0;border:2px solid;border-radius:4px;
-    background:transparent;cursor:pointer;font-family:var(--cond);font-weight:700;text-transform:uppercase;
-    letter-spacing:.12em;font-size:12px;line-height:1;
-    -webkit-mask:radial-gradient(circle 6px at 0 50%,#0000 97%,#000),radial-gradient(circle 6px at 100% 50%,#0000 97%,#000);
-            mask:radial-gradient(circle 6px at 0 50%,#0000 97%,#000),radial-gradient(circle 6px at 100% 50%,#0000 97%,#000);
+  /* obscurity slider */
+  .obscurity{display:flex;flex-direction:column;align-items:center;gap:9px;width:100%;max-width:320px}
+  .obscurity .picklabel{color:var(--dim);letter-spacing:.26em;font-size:11px;text-transform:uppercase;font-family:var(--cond);font-weight:700}
+  .obscurity .picklabel span{color:var(--stock)}
+  .obscurity .obshint{color:var(--dim);opacity:.7;font-size:10px;letter-spacing:.1em;text-transform:uppercase;font-family:var(--cond)}
+  #obsSlider{-webkit-appearance:none;appearance:none;width:100%;height:4px;border-radius:99px;
+    background:rgba(198,240,192,.25);outline:none;cursor:pointer}
+  #obsSlider::-webkit-slider-thumb{-webkit-appearance:none;appearance:none;width:18px;height:18px;border-radius:50%;
+    background:var(--stock);border:2px solid var(--ink);cursor:pointer}
+  #obsSlider::-moz-range-thumb{width:18px;height:18px;border-radius:50%;background:var(--stock);border:2px solid var(--ink);cursor:pointer}
+  .stagepick .chips{display:flex;flex-wrap:nowrap;gap:5px;justify-content:center;width:100%}
+  /* each stage = a little movie ticket: round "tick" stub · dashed perforation · name, with notched ends.
+     Natural width (so longer labels keep their room) + small font keeps all five on ONE row. */
+  .schip{flex:0 0 auto;position:relative;display:inline-flex;align-items:stretch;padding:0;border:2px solid;
+    border-radius:4px;background:transparent;cursor:pointer;font-family:var(--cond);font-weight:700;
+    text-transform:uppercase;letter-spacing:.04em;font-size:clamp(8px,2.5vw,12px);line-height:1;white-space:nowrap;
+    -webkit-mask:radial-gradient(circle 5px at 0 50%,#0000 97%,#000),radial-gradient(circle 5px at 100% 50%,#0000 97%,#000);
+            mask:radial-gradient(circle 5px at 0 50%,#0000 97%,#000),radial-gradient(circle 5px at 100% 50%,#0000 97%,#000);
     -webkit-mask-composite:source-in;mask-composite:intersect;
     transition:opacity .15s ease,background .15s ease,color .15s ease}
-  .schip .tick{flex:0 0 auto;width:13px;height:13px;border-radius:50%;border:2px solid currentColor;
-    align-self:center;margin:9px 0 9px 12px;position:relative}
+  .schip .tick{flex:0 0 auto;width:10px;height:10px;border-radius:50%;border:2px solid currentColor;
+    align-self:center;margin:8px 0 8px 7px;position:relative}
   .schip[aria-pressed="true"] .tick::after{content:"";position:absolute;inset:2px;border-radius:50%;background:currentColor}
-  .schip .perf{border-left:2px dashed currentColor;opacity:.5;margin:5px 11px}
-  .schip .lbl{align-self:center;padding-right:14px}
+  .schip .perf{border-left:2px dashed currentColor;opacity:.5;margin:4px 5px}
+  .schip .lbl{align-self:center;padding-right:9px}
   .schip[aria-pressed="false"]{opacity:.5}
+  /* narrow phones: squeeze the five tickets onto one row — drop the perforation, shrink */
+  @media (max-width:560px){
+    .stagepick .chips{gap:4px}
+    .schip{font-size:clamp(7.5px,2.35vw,11px);letter-spacing:.02em}
+    .schip .perf{display:none}
+    .schip .tick{width:9px;height:9px;margin:7px 0 7px 6px}
+    .schip .lbl{padding:0 7px}
+  }
 
   /* tear-in-half pieces (cloned on click) */
   .tear{z-index:100;pointer-events:none;
@@ -232,13 +251,14 @@
     #app{height:100dvh;max-width:520px;gap:8px;padding:10px 12px calc(8px + env(safe-area-inset-bottom));justify-content:flex-start}
     .ladder{padding:9px 22px;gap:6px}
     .ladder .score{font-size:20px}
-    .ticket{flex:1 1 auto;display:flex;flex-direction:column;justify-content:center;min-height:0;padding:24px 0}
+    /* card sizes to its content and centres in the free space (no full-height stretch) */
+    .ticket{flex:0 1 auto;display:flex;flex-direction:column;justify-content:center;min-height:0;padding:0;margin:auto 0}
     .ticket .stub,.ticket>.perf,.ticket .foot,.hint{display:none}        /* reclaim vertical space */
-    .ticket .body{display:flex;flex-direction:column;align-items:center;gap:10px;padding:0 14px}
-    .framewrap{aspect-ratio:16/9;height:min(42vh,53vw);width:auto;max-width:100%}
+    .ticket .body{display:flex;flex-direction:column;align-items:center;gap:24px;padding:34px 22px}
+    .framewrap{aspect-ratio:16/9;height:min(38vh,50vw);width:auto;max-width:100%}
     .potbar{border-top:0;padding-top:0;justify-content:center;gap:12px}
     .pot{font-size:26px}
-    .choices{width:100%;display:grid;grid-template-columns:1fr 1fr;gap:8px}
+    .choices{width:100%;display:grid;grid-template-columns:1fr 1fr;gap:10px}
     .choice{font-size:13px;line-height:1.2;padding:11px 10px;text-align:center;min-height:0;display:flex;align-items:center;justify-content:center}
     /* reveal popup stays compact on phones */
     .panel .pad{padding:30px 24px;gap:8px}
@@ -307,6 +327,12 @@
       <div class="meta picklabel">Choose your stages</div>
       <div class="chips" id="stagePick" role="group" aria-label="Choose difficulties"></div>
     </div>
+    <div class="obscurity">
+      <div class="meta picklabel">Obscurity · <span id="obsVal">0%</span></div>
+      <input type="range" id="obsSlider" min="0" max="100" step="5" value="0"
+             aria-label="Obscurity — adds rarer films to Very Hard and Cinephile">
+      <div class="obshint">Deeper cuts in Very&nbsp;Hard &amp; Cinephile</div>
+    </div>
   </div>
 </div>
 
@@ -337,7 +363,7 @@
   </div>
 </div>
 
-<script src="data/movies.js?v=6"></script>
+<script src="data/movies.js?v=8"></script>
 <script>
 (function(){
   "use strict";
@@ -356,6 +382,10 @@
   // The ladder the game actually plays — a subset of BANDS chosen on the menu (defaults to all).
   let ACTIVE = BANDS.slice();
   const enabledStages = new Set(BANDS.map(b=>b.key));
+  // obscurity: 0–100. Locked in from the menu slider. A film is eligible if it's core (always) or,
+  // when the slider is above 0, if its obscurity rank is within the slider value. So 0 = core only.
+  let obscurity = 0;
+  const eligible = m => !m.obscure || (obscurity>0 && m.obs<=obscurity);
 
   // ---- state ----  stage = current mode index (0..4); progress = points in the current stage's bar
   const S = { stage:0, progress:0, streak:0, round:null, seen:[], lastChoices:null };   // seen = every film shown this game (no repeats); lastChoices = prior round's 4 titles
@@ -392,7 +422,7 @@
 
   // ---- round lifecycle ----
   function pickMovie(band){
-    const tier = MOVIES.filter(m=>m.difficulty===band.key);
+    const tier = MOVIES.filter(m=>m.difficulty===band.key && eligible(m));
     const seen = new Set(S.seen);
     let pool = tier.filter(m=>!seen.has(m.title));
     if(!pool.length) pool = tier;                 // tier exhausted this game (won't happen with 200+ per tier)
@@ -404,7 +434,7 @@
   // `avoid` = titles shown last round; we keep them out so no answer text repeats back-to-back.
   function makeChoices(movie, band, avoid){
     const ans = movie.title, ak = ans.trim().toLowerCase(), yr = movie.year||0;
-    const sameTier = MOVIES.filter(m => m.difficulty===band.key && m.title.trim().toLowerCase()!==ak);
+    const sameTier = MOVIES.filter(m => m.difficulty===band.key && eligible(m) && m.title.trim().toLowerCase()!==ak);
     const pools = [
       sameTier.filter(m => Math.abs((m.year||0)-yr) <= 15),  // same league, similar era
       sameTier,                                              // same league, any era
@@ -568,8 +598,7 @@
     $("#rvDelta").style.color = correct ? cssVar("--good") : cssVar("--bad");
     $("#rvFrame").src = frameURL(S.round.frame);
     $("#rvTitle").textContent = m.title;
-    const country = Array.isArray(m.country) ? m.country.join(", ") : (m.country || "");
-    $("#rvMeta").innerHTML = "<li>"+m.year+" · "+m.director+"</li><li>"+country+"</li>";
+    $("#rvMeta").innerHTML = "<li>"+m.year+" · "+m.director+"</li>";
     const lb=$("#rvLb");
     if(m.tmdbId){ lb.href="https://letterboxd.com/tmdb/"+m.tmdbId; lb.style.display=""; }
     else lb.style.display="none";
@@ -612,6 +641,7 @@
     const menu = $("#menuOv"), ticket = $("#enterBtn");
     const r = ticket.getBoundingClientRect();
     ACTIVE = BANDS.filter(b=>enabledStages.has(b.key));   // lock in the chosen stages for this game
+    obscurity = +($("#obsSlider")?.value || 0);            // lock in the obscurity level
     S.stage=0; S.progress=0; S.streak=0; S.seen=[]; S.lastChoices=null;
     startRound();                                  // prepare the game behind the menu
     const mk = cls=>{
@@ -649,6 +679,10 @@
     });
   }
   renderStagePick();
+
+  // obscurity slider — live % label
+  const obsSlider=$("#obsSlider"), obsVal=$("#obsVal");
+  if(obsSlider) obsSlider.addEventListener("input", ()=>{ obsVal.textContent = obsSlider.value+"%"; });
 
   // ---- buttons ----
   $("#enterBtn").onclick = enterCinema;

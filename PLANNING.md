@@ -31,11 +31,20 @@ python3 -m http.server 8000      # → open http://localhost:8000  (maximize win
 - `.claude/launch.json` — preview dev-server config.
 
 ## 4. Current state (data)
-- **1,531 films live** (curated from 2,019 — see Phase 2). **5,485 frames**: each film's `frames[0]` is now the
+- **2,000 films live**: **1,533 core** (always on) + **467 obscure** (gated by the obscurity slider, routed only
+  into Very Hard 196 / Cinephile 271, tagged `obscure:true` + `obs` 0–100). At slider 0 only the 1,533 core play,
+  so the default game = the curated set. **7,165 frames**. Each film's `frames[0]` is the
   FILM-GRAB **featured image** (`images/<slug>/0.jpg`, the representative hero still shown in-game), followed by
-  the Phase-3-pruned frames as backups. 1,529 films got a featured primary; 2 (Paddington, Foxcatcher) kept old
-  frames because the featured image showed the title. Tiers: `easy 307 · medium 382 · hard 383 · veryhard 306 ·
-  cinephile 153`. (`?v=6`.) Manifest carries `tmdbId` per film (Letterboxd links).
+  the Phase-3-pruned frames as backups. 1,998 films got a featured primary; 2 (Paddington, Foxcatcher) kept old
+  frames because the featured image showed the title. Core tiers (slider 0): `easy 307 · medium 383 · hard 383 ·
+  veryhard 306 · cinephile 154`; at slider 100, veryhard 502 · cinephile 425. (`?v=8`.) Manifest carries `tmdbId`
+  per film (Letterboxd links). Pipeline: `curate → fetch-featured → analyze-frames → prune-frames --apply → set-primary`.
+- **Match corrections (`tools/fix-matches.js`):** 6 FILM-GRAB pages were matched to the wrong TMDb film (same
+  title/franchise). Fixed → correct ids + re-ran pipeline. Detector for this class: (a) multiple slugs sharing one
+  `tmdbId`, (b) FILM-GRAB page "Year:" vs assigned year differing by ≥2. Corrected: blade-runner-2049 (was tagged
+  1982 → now Blade Runner 2049 2017), shame-2 (→ Bergman's Shame 1968), the-silence (→ Bergman 1963),
+  the-return (→ Zvyagintsev 2003), spider (→ Cronenberg, was Spider-Man), love (→ Eubank 2011). Net +2 films
+  (Blade Runner 2049 + Spider gained; Shame 1968 & Love 2011 collapse under same-title dedup, correct survivor kept).
 - **1,854 more films** are matched in TMDb (`tools/data/matched.json`) but frames NOT downloaded —
   film-grab.com throttled our IP under sustained downloading. Resumable later (§7).
 - ~168 titles in `tools/data/logs/unmatched.json` (foreign/ambiguous) — could get manual TMDb overrides.
@@ -47,6 +56,10 @@ python3 -m http.server 8000      # → open http://localhost:8000  (maximize win
 - **`ACTIVE`** — the stages actually played this game (a subset of `BANDS`, in order), chosen via the menu's
   stage-select chips. `S.stage` indexes `ACTIVE`. All game logic (progression, ladder, win, relegation, theming)
   uses `ACTIVE`; only the chip builder and `ACTIVE` derivation read `BANDS` directly.
+- **Obscurity slider** — module var `obscurity` (0–100, locked from the menu slider at `enterCinema`, default 0).
+  `eligible(m) = !m.obscure || (obscurity>0 && m.obs<=obscurity)`. `pickMovie` + `makeChoices` (decoys) filter
+  Very Hard / Cinephile pools through it, so answer **and** wrong options scale together. At 0, only core films →
+  default game unchanged. Easy/Medium/Hard have no obscure films, so they're unaffected at any level.
 - **Progression (current rules):**
   - Every stage fills a **1000-point bar**. Clear it → promote, bar carries overflow into next stage.
   - **Diminishing points-per-answer** so later stages take longer: Easy ~240/answer (~4–5 answers) …
@@ -78,8 +91,10 @@ python3 -m http.server 8000      # → open http://localhost:8000  (maximize win
   giant letterboxed still as hero on black, 4 numbered "seat" choices in a row. Keyboard: **1–4** answer, **Enter** next.
 - **Mobile (`@media max-width:999px`)** — fits **one screen, no scroll**: compact rank bar + letterboxed frame +
   pot + **2×2 answer grid**. ADMIT ONE/Nº stub, hint, and footer hidden to save space. Reveal popup tuned to fit.
+  The game ticket sizes to its content (`flex:0 1 auto` + `margin:auto 0`) and centres vertically rather than
+  stretching full-height — generous element padding/gaps, balanced dark margins above/below.
 - **Menu:** the ENTER CINEMA ticket **tears in half** (jagged clip-path) to start.
-- **Reveal popup:** shows the movie image + Correct/Wrong + ±points + title/year/director/country + **NEXT** button.
+- **Reveal popup:** shows the movie image + Correct/Wrong + ±points + title/year/director + Letterboxd link + **NEXT** button. (Country removed.)
 
 ## 8. Data pipeline (`tools/`)
 Stages (run via `node run-all.js` or individually): `scrape-filmgrab.js` → `match-tmdb.js` →
@@ -127,10 +142,15 @@ Stages (run via `node run-all.js` or individually): `scrape-filmgrab.js` → `ma
     Required adding `tmdbId` to the manifest (now emitted by `curate.js` + `prune-frames.js`).
   - **Difficulty-select menu — DONE.** Five color-coded `.schip` toggles under the menu ticket ("Choose your
     stages"), each styled as a **mini movie ticket** (CSS radial-gradient notched ends + dashed `.perf` +
-    a circular `.tick` stub that fills when on). Default all on, ≥1 always enforced. `enterCinema()` locks the selection into `ACTIVE` (a subset of
+    a circular `.tick` stub that fills when on). Default all on, ≥1 always enforced. All five sit on **one row**
+    (natural-width chips; on narrow phones `@media(max-width:560px)` drops the perforation + shrinks the font to fit). `enterCinema()` locks the selection into `ACTIVE` (a subset of
     `BANDS`) and resets `S`. The whole game now indexes `ACTIVE`, not `BANDS`: ladder shows only chosen stages
     ("Stage 1 / N"), win fires on clearing the last active stage, relegation falls back within `ACTIVE`, and the
     win screen themes/labels to the final active stage. `BANDS` stays the master tuning config + menu source.
+  - **Obscurity slider — DONE.** Range input under the chips (0–100%, default 0). Sliding up surfaces rarer films
+    in Very Hard & Cinephile only. Data: `curate.js` keeps sub-floor films (was dropping 467) tagged `obscure`+`obs`
+    (within-pool obscurity percentile); runtime `eligible()` gates them by the slider. See §5. Builds on the current
+    library; the parked-1,854 expansion (B) would deepen the obscure pool automatically.
 
 ## 11. Verification habit
 After UI changes, verify in the browser preview at desktop (1440×900) **and** mobile (375×667 + a taller phone),
