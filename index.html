@@ -117,6 +117,9 @@
   /* main menu — the ticket IS the button */
   #menuOv{transition:background .5s ease}
   #menuOv.ripping{background:transparent}
+  /* fade the non-ticket menu controls out the instant the tear starts (they're siblings of the ticket, not part of it) */
+  .stagepick,.obscurity{transition:opacity .2s ease}
+  #menuOv.ripping .stagepick,#menuOv.ripping .obscurity{opacity:0;pointer-events:none}
   .menuticket{border:0;font:inherit;cursor:pointer;display:block;width:100%;max-width:430px;text-align:center;
     transition:transform .15s ease}
   .menuticket:hover{transform:translateY(-2px)}
