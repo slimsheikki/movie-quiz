@@ -31,23 +31,43 @@ python3 -m http.server 8000      # → open http://localhost:8000  (maximize win
 - `.claude/launch.json` — preview dev-server config.
 
 ## 4. Current state (data)
-- **2,000 films live**: **1,533 core** (always on) + **467 obscure** (gated by the obscurity slider, routed only
-  into Very Hard 196 / Cinephile 271, tagged `obscure:true` + `obs` 0–100). At slider 0 only the 1,533 core play,
-  so the default game = the curated set. **7,165 frames**. Each film's `frames[0]` is the
+- **3,784 films live**: **2,750 core** (always on) + **1,034 obscure** (gated by the obscurity slider, routed only
+  into Very Hard 417 / Cinephile 617, tagged `obscure:true` + `obs` 0–100). At slider 0 only the 2,750 core play,
+  so the default game = the curated set. **~13,500 frames**. Each film's `frames[0]` is the
   FILM-GRAB **featured image** (`images/<slug>/0.jpg`, the representative hero still shown in-game), followed by
-  the Phase-3-pruned frames as backups. 1,998 films got a featured primary; 2 (Paddington, Foxcatcher) kept old
-  frames because the featured image showed the title. Core tiers (slider 0): `easy 307 · medium 383 · hard 383 ·
-  veryhard 306 · cinephile 154`; at slider 100, veryhard 502 · cinephile 425. (`?v=8`.) Manifest carries `tmdbId`
-  per film (Letterboxd links). Pipeline: `curate → fetch-featured → analyze-frames → prune-frames --apply → set-primary`.
-- **Match corrections (`tools/fix-matches.js`):** 6 FILM-GRAB pages were matched to the wrong TMDb film (same
-  title/franchise). Fixed → correct ids + re-ran pipeline. Detector for this class: (a) multiple slugs sharing one
-  `tmdbId`, (b) FILM-GRAB page "Year:" vs assigned year differing by ≥2. Corrected: blade-runner-2049 (was tagged
-  1982 → now Blade Runner 2049 2017), shame-2 (→ Bergman's Shame 1968), the-silence (→ Bergman 1963),
-  the-return (→ Zvyagintsev 2003), spider (→ Cronenberg, was Spider-Man), love (→ Eubank 2011). Net +2 films
-  (Blade Runner 2049 + Spider gained; Shame 1968 & Love 2011 collapse under same-title dedup, correct survivor kept).
-- **1,854 more films** are matched in TMDb (`tools/data/matched.json`) but frames NOT downloaded —
-  film-grab.com throttled our IP under sustained downloading. Resumable later (§7).
-- ~168 titles in `tools/data/logs/unmatched.json` (foreign/ambiguous) — could get manual TMDb overrides.
+  the Phase-3-pruned frames as backups. 4 films (Paddington, Foxcatcher, Selma, Asteroid City) kept old frames
+  because the featured image showed the title. Total tiers (core+obscure):
+  `easy 550 · medium 688 · hard 687 · veryhard 967 · cinephile 892`; core-only (slider 0): `easy 550 · medium 688 ·
+  hard 687 · veryhard 550 · cinephile 275`. (`?v=10`.) Manifest carries `tmdbId` per film (Letterboxd links).
+  Pipeline: `curate → fetch-featured → analyze-frames → prune-frames --apply → set-primary`.
+- **Whole FILM-GRAB catalog now ingested (2026-06-22):** the 1,854 previously-parked matched films were downloaded
+  in 5 batches via `download-frames.js --batch=N --batches=5` and run through the full pipeline. Every matched film
+  (3,873) has frames; 3,785 survive curation (7 dropped for missing rating, rest collapse under same-title dedup).
+- **Match corrections (`tools/fix-matches.js` + `tools/detect-mismatches.js`):** FILM-GRAB pages matched to the wrong
+  TMDb film (same title/franchise, or original-vs-remake). **`detect-mismatches.js`** runs the two detector sweeps:
+  (a) multiple slugs sharing one `tmdbId`, (b) FILM-GRAB page "Year:" (the VISIBLE year text — the `category/<year>/`
+  HREF is a site tag, not the film year) vs assigned year differing by ≥N (`--min=`). Findings → `logs/mismatches.json`.
+  `fix-matches.js` holds a `slug → correct tmdbId` map (`FIXES`) + a `DROP` list (slugs with no TMDb *movie* entry).
+  - **Round 1 (pre-expansion):** 6 fixes — blade-runner-2049 (→2049 2017), shame-2 (→Bergman 1968), the-silence
+    (→Bergman 1963), the-return (→Zvyagintsev 2003), spider (→Cronenberg), love (→Eubank 2011).
+  - **Round 2 (2026-06-22, post-expansion):** 17 director-verified fixes incl. 8-12 (→Fellini's 8½), stereo
+    (→Cronenberg), the-hunchback-of-notre-dame (→Worsley 1923), the-texas-chainsaw-massacre (→Hooper 1974, also
+    fixed the lone tmdbId collision), detective (→Godard 1985), boy (→Waititi 2010), the-day-after (→Hong 2017),
+    i-spit-on-your-grave/magic/the-toxic-avenger (original↔remake swaps), etc. **Dropped 4** Steve McQueen *Small
+    Axe* films (mangrove, lovers-rock, red-white-blue explicitly; education auto-filtered for 0 votes) — TMDb
+    catalogs them as TV episodes, so no movie id / no vote data. Re-run `detect-mismatches.js` after any expansion.
+- **The 1,854 parked films are DONE** (downloaded + integrated, see above). The only films still outside the game:
+  ~168 titles in `tools/data/logs/unmatched.json` (foreign/ambiguous) — could get manual TMDb overrides.
+- **FILM-GRAB download gotchas (learned the hard way — NOT a simple IP throttle):**
+  1. **Concurrent tarpit:** film-grab accepts CONCURRENT connections from a repeat IP then stalls the response
+     forever (no 429, no reset — the socket just hangs). This is what looked like "throttling" before. **Serial
+     access (concurrency 1) works flawlessly** — all 1,854 + 1,802 featured fetched at ~1/s with 0 failures.
+     `download-frames.js` & `fetch-featured.js` now default `FG_DOWNLOAD_CONCURRENCY=1` + a per-fetch
+     `AbortController` timeout (`FG_FETCH_TIMEOUT_MS`, 15s) so a stalled socket aborts→retries instead of deadlocking.
+  2. **HTML-entity URLs:** scraped frame/og:image URLs carry entities (e.g. `Child&#039;s_Play` → apostrophe).
+     Left encoded the server returns 200 with an HTML page (not an image), so the film silently gets 0 frames.
+     Both scripts now `decodeEntities()` before fetching. (Only ~17 films hit this, but they failed invisibly.)
+  - `tools/data/batch-plan.json` freezes the 5-way split so `--batch=N` is stable across runs; delete it to re-plan.
 
 ## 5. Game architecture (all in `index.html`)
 - **State:** `S = { stage:0, progress:0, streak:0, round:null, seen:[], lastChoices:null }`. `seen` = every film
@@ -99,17 +119,19 @@ python3 -m http.server 8000      # → open http://localhost:8000  (maximize win
 ## 8. Data pipeline (`tools/`)
 Stages (run via `node run-all.js` or individually): `scrape-filmgrab.js` → `match-tmdb.js` →
 `download-frames.js` → `build-manifest.js`. Resumable & cached (HTML pages, TMDb JSON, discover).
-- `tools/.env` holds TMDb creds + politeness (`FG_DOWNLOAD_CONCURRENCY=3` for gentle resume).
+- `tools/.env` holds TMDb creds + politeness (`FG_DOWNLOAD_CONCURRENCY=1` — serial; see §4 gotchas — plus
+  `FG_IMAGE_DELAY_MS=400`).
 - **Enumeration:** FILM-GRAB sitemaps → ~4,051 film pages. **Matching:** title+year+popularity scoring vs TMDb.
 - **Difficulty:** percentile of TMDb `vote_count` across the matched library.
-- **To finish the parked 1,854** (after throttle cooldown):
-  `cd tools && node download-frames.js && node build-manifest.js` then bump `?v=` in `index.html`.
+- **Whole catalog downloaded (2026-06-22):** nothing parked remains. To re-pull or extend, `download-frames.js`
+  supports `--batch=N --batches=M` (frozen plan in `tools/data/batch-plan.json`) and `--slugs=a,b,c` / `--limit=N`.
 
 ## 9. Gotchas
 - `MOVIES` is a global from `data/movies.js` (a classic `<script>`, not a module).
 - Canvas internal size is fixed 640×360; CSS scales it — keep the framewrap 16:9 so the canvas isn't distorted
   (the letterbox handles non-16:9 stills inside).
-- film-grab throttles sustained concurrent downloads — keep concurrency low on resume.
+- film-grab **tarpits CONCURRENT** downloads (hangs the socket, no error) — keep `FG_DOWNLOAD_CONCURRENCY=1`. See §4.
+- Scraped URLs carry HTML entities (`&#039;` etc.) — both download scripts `decodeEntities()` before fetching. See §4.
 
 ## 10. Backlog (agreed phased plan)
 **Working protocol:** for each task → review, summarize, ask **Y/N**, then do it. Heavy image work runs
@@ -207,22 +229,25 @@ HTTPS `fetch` — **no SDK**, keeping the zero-dep/buildless ethos. Chosen backe
 - Supabase allows browser origins (CORS) by default — no extra config for GitHub Pages.
 
 ## 13. Session handoff (as of this conversation)
-Everything below is **DONE and live** (`data/movies.js?v=8`, deployed to `slimsheikki.github.io`):
-- Phases 1–4 complete (see §10). Library = **2,000 films** (1,533 core + 467 obscure), **7,165 frames**,
-  `frames[0]` = FILM-GRAB featured image. Manifest carries `tmdbId`, `obscure`, `obs`.
-- **6 wrong-TMDb-match corrections** applied via `tools/fix-matches.js` (Blade Runner/2049, Shame, The Silence,
-  The Return, Spider/Spider-Man, Love) — see §4. Re-run the two detector sweeps (same-tmdbId; page-year vs assigned)
-  after any future expansion.
-- **Difficulty chips** on one row; **obscurity slider** (0–100%) added; **country removed** from reveal popup;
+Everything below is **DONE** locally (`data/movies.js?v=10`); **commit + push to deploy** to `slimsheikki.github.io`:
+- Phases 1–4 complete (see §10). **Library expansion DONE (2026-06-22):** the whole FILM-GRAB catalog is now in the
+  game — **3,784 films** (2,750 core + 1,034 obscure), ~13,500 frames, `frames[0]` = FILM-GRAB featured image.
+  Manifest carries `tmdbId`, `obscure`, `obs`. The 1,854 parked films were downloaded (5 batches) + run through the
+  full pipeline. Two real bugs found & fixed along the way (concurrent tarpit, HTML-entity URLs — see §4 gotchas).
+- **Wrong-match re-sweep DONE (2026-06-22):** `tools/detect-mismatches.js` (new, reusable) found post-expansion
+  mismatches → **17 director-verified fixes + 4 Small Axe drops** applied + pipeline re-run. 0 duplicate tmdbIds
+  remain. See §4 "Match corrections". (Re-run the detector after any future expansion.)
+- **Mobile menu-tear fix:** difficulty chips + obscurity slider now fade out with the ticket instead of lingering
+  ~0.5s (CSS `#menuOv.ripping .stagepick/.obscurity{opacity:0}`).
+- **Difficulty chips** on one row; **obscurity slider** (0–100%); **country removed** from reveal popup;
   mobile game card content-sized + centered.
 
 **Pipeline order (full rebuild):** `node curate.js` → `node fetch-featured.js` → `node analyze-frames.js`
 → `node prune-frames.js --apply` → `node set-primary.js`, then bump `?v=` in `index.html`. (All resumable/cached;
-only `fetch-featured` hits the network — throttle was clear last run, ~6/s.)
+`download-frames`/`fetch-featured` hit the network — **run serial**, ~1/s, 0 failures last run.)
 
 **Next candidate tasks (not started):**
-- **Leaderboard** (§12) — the current focus. Decide score metric + comparability, then build (mostly index.html;
-  Supabase setup needs user).
-- **B — library expansion:** download frames for the ~1,854 parked films in `tools/data/matched.json`
-  (`cd tools && node download-frames.js` then full pipeline). Biggest network job; would also deepen the obscurity
-  pool automatically. Start with a small test batch to re-check the throttle.
+- **Leaderboard** (§12) — decide score metric + comparability, then build (mostly index.html; Supabase setup needs user).
+- **~168 unmatched titles** (`tools/data/logs/unmatched.json`) — manual TMDb overrides to pull in the last stragglers.
+- **Low-priority match cleanup:** `the-secret-son` (Garrel, not live) left unfixed; a long tail of Δ2–4 page-vs-assigned
+  year gaps in `logs/mismatches.json` is mostly festival-vs-release noise (verify before touching).

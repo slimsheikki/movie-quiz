@@ -10,9 +10,23 @@ const fs = require('fs');
 const path = require('path');
 const C = require('./config');
 
-const CONCURRENCY = +(process.env.FG_DOWNLOAD_CONCURRENCY || 3);
+// Serial by default: film-grab tarpits CONCURRENT connections (see download-frames.js). 1 + a delay.
+const CONCURRENCY = +(process.env.FG_DOWNLOAD_CONCURRENCY || 1);
+const IMG_DELAY_MS = +(process.env.FG_IMAGE_DELAY_MS || C.delays.filmgrabImageMs || 150);
+const FETCH_TIMEOUT_MS = +(process.env.FG_FETCH_TIMEOUT_MS || 15000);
 const PAGES = path.join(C.paths.data, 'cache', 'pages');
 const MAP = path.join(C.paths.data, 'featured.json');
+
+// og:image URLs carry HTML entities (e.g. &#039; for apostrophe); left encoded the server answers
+// 200 with an HTML page (not an image) and the film silently gets no featured still. Decode them.
+function decodeEntities(s) {
+  return s
+    .replace(/&#0*39;|&#x0*27;|&apos;/gi, "'")
+    .replace(/&quot;|&#0*34;/gi, '"')
+    .replace(/&#0*38;|&amp;/gi, '&')
+    .replace(/&#(\d+);/g, (_, n) => String.fromCodePoint(+n))
+    .replace(/&#x([0-9a-f]+);/gi, (_, h) => String.fromCodePoint(parseInt(h, 16)));
+}
 
 function liveSlugMap() {
   const MOVIES = require(C.paths.manifest);
@@ -40,8 +54,10 @@ function localPath(slug) { return path.join(C.paths.images, slug, '0.jpg'); }
 
 async function fetchImage(url, dest) {
   for (let a = 0; a <= C.retry.max; a++) {
+    const ctrl = new AbortController();
+    const timer = setTimeout(() => ctrl.abort(), FETCH_TIMEOUT_MS);
     try {
-      const r = await fetch(encodeURI(url), { headers: { 'User-Agent': C.UA, Referer: C.FILMGRAB_BASE + '/' } });
+      const r = await fetch(encodeURI(decodeEntities(url)), { headers: { 'User-Agent': C.UA, Referer: C.FILMGRAB_BASE + '/' }, signal: ctrl.signal });
       if (!r.ok) throw new Error('HTTP ' + r.status);
       const ct = r.headers.get('content-type') || '';
       if (!ct.startsWith('image/')) throw new Error('not-image (' + ct + ')');
@@ -53,6 +69,8 @@ async function fetchImage(url, dest) {
     } catch (e) {
       if (a < C.retry.max) await new Promise((res) => setTimeout(res, 500 * 2 ** a + Math.random() * 300));
       else throw e;
+    } finally {
+      clearTimeout(timer);
     }
   }
 }
@@ -93,6 +111,7 @@ async function run({ dry = false } = {}) {
         const rate = done / ((Date.now() - t0) / 1000);
         console.log(`  ${done}/${todo.length}  ok:${ok} fail:${fail}  (${rate.toFixed(1)}/s)`);
       }
+      if (IMG_DELAY_MS) await new Promise((r) => setTimeout(r, IMG_DELAY_MS)); // politeness between fetches
     }
   }
   await Promise.all(Array.from({ length: CONCURRENCY }, worker));

@@ -8,6 +8,8 @@ function parseArgs(argv = process.argv) {
   }
   if (typeof o.slugs === 'string') o.slugs = o.slugs.split(',').map((s) => s.trim()).filter(Boolean);
   if (o.limit) o.limit = +o.limit;
+  if (o.batch) o.batch = +o.batch;
+  if (o.batches) o.batches = +o.batches;
   return o;
 }
 module.exports = { parseArgs };
