@@ -113,9 +113,25 @@
           color:var(--ink);text-decoration:none;border-bottom:1.5px solid var(--ink);align-self:center;
           padding-bottom:1px;opacity:.75;transition:opacity .15s ease}
   .lblink:hover{opacity:1}
+  /* Reel Score breakdown on the win / game-over screens */
+  .scorebox{display:flex;flex-direction:column;align-items:center;gap:8px;width:100%}
+  .scorebox .bigscore{font-family:var(--cond);font-weight:800;font-size:52px;line-height:.95;color:var(--ink)}
+  .scorebox .scoresub{font-family:var(--cond);font-weight:700;text-transform:uppercase;letter-spacing:.22em;font-size:10px;color:rgba(10,12,12,.6)}
+  .scorebox ul.scorelines{font-size:11px;letter-spacing:.1em;text-transform:uppercase;color:rgba(10,12,12,.72);gap:3px;margin-top:4px;align-items:center}
+  .scorebox ul.scorelines b{color:var(--ink)}
+  .scorebox ul.scorelines .dim{opacity:.55}
+  .winbtns{display:flex;gap:10px;width:100%}
+  .winbtns .btn{flex:1}
+  .btn.ghost{background:transparent;color:var(--ink)}
+  .btn.ghost:hover{background:var(--ink);color:var(--stock)}
+  /* infinite-mode strike pips in the rank bar */
+  .strikes{display:inline-flex;gap:5px;align-items:center;margin-left:8px}
+  .strikes i{width:10px;height:10px;border-radius:50%;border:2px solid var(--ink);display:inline-block}
+  .strikes i.spent{background:var(--bad);border-color:var(--bad)}
 
   /* main menu — the ticket IS the button */
-  #menuOv{transition:background .5s ease}
+  /* opaque page-black so the game ticket behind doesn't bleed through as a faint box (the menu sits on clean bg) */
+  #menuOv{background:var(--bg);transition:background .5s ease}
   #menuOv.ripping{background:transparent}
   /* fade the non-ticket menu controls out the instant the tear starts (they're siblings of the ticket, not part of it) */
   .stagepick,.obscurity{transition:opacity .2s ease}
@@ -360,8 +376,23 @@
     <div class="pad">
       <div class="result" id="winResult">Cinephile</div>
       <h1>You Win</h1>
-      <div class="rules" style="text-align:center">She reached 1000 and held the top of the marquee. A true cinephile.</div>
-      <button class="btn" id="againBtn">Play Again</button>
+      <div class="scorebox" id="winScore"></div>
+      <div class="winbtns">
+        <button class="btn" id="wrapBtn">That's a Wrap</button>
+        <button class="btn ghost" id="rollBtn">Keep Rolling ∞</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- INFINITE GAME OVER -->
+<div class="overlay hidden" id="overOv">
+  <div class="panel stock">
+    <div class="pad">
+      <div class="result" id="overResult">Cut!</div>
+      <h1 id="overCount">0 Reels</h1>
+      <div class="scorebox" id="overScore"></div>
+      <button class="btn" id="overAgainBtn">Play Again</button>
     </div>
   </div>
 </div>
@@ -376,11 +407,11 @@
   // Every stage fills to 1000, but points-per-answer DIMINISH as you climb, so later stages are a longer grind.
   // Easy ≈ 4-5 quick answers; Cinephile ≈ 15+. Stings scale down with payouts so a miss ≈ one good answer.
   const BANDS = [
-    {key:"easy",      name:"Easy",      goal:1000, pMax:240, pMin:120, T:22, sting:150, color:"--easy"},
-    {key:"medium",    name:"Medium",    goal:1000, pMax:165, pMin:80,  T:26, sting:110, color:"--medium"},
-    {key:"hard",      name:"Hard",      goal:1000, pMax:120, pMin:55,  T:30, sting:80,  color:"--hard"},
-    {key:"veryhard",  name:"Very Hard", goal:1000, pMax:92,  pMin:42,  T:34, sting:60,  color:"--veryhard"},
-    {key:"cinephile", name:"Cinephile", goal:1000, pMax:75,  pMin:34,  T:38, sting:48,  color:"--cinephile"}
+    {key:"easy",      name:"Easy",      goal:1000, pMax:240, pMin:120, T:22, sting:150, color:"--easy",      ibase:10},
+    {key:"medium",    name:"Medium",    goal:1000, pMax:165, pMin:80,  T:26, sting:110, color:"--medium",    ibase:20},
+    {key:"hard",      name:"Hard",      goal:1000, pMax:120, pMin:55,  T:30, sting:80,  color:"--hard",      ibase:35},
+    {key:"veryhard",  name:"Very Hard", goal:1000, pMax:92,  pMin:42,  T:34, sting:60,  color:"--veryhard",  ibase:55},
+    {key:"cinephile", name:"Cinephile", goal:1000, pMax:75,  pMin:34,  T:38, sting:48,  color:"--cinephile", ibase:80}
   ];
   // The ladder the game actually plays — a subset of BANDS chosen on the menu (defaults to all).
   let ACTIVE = BANDS.slice();
@@ -391,7 +422,46 @@
   const eligible = m => !m.obscure || (obscurity>0 && m.obs<=obscurity);
 
   // ---- state ----  stage = current mode index (0..4); progress = points in the current stage's bar
-  const S = { stage:0, progress:0, streak:0, round:null, seen:[], lastChoices:null };   // seen = every film shown this game (no repeats); lastChoices = prior round's 4 titles
+  // thinkTime = total seconds spent answering (drives the Reel Score speed term); wrong = misses this run.
+  // mode = "classic" (the 5-stage climb) or "infinite" (post-win endurance run). Infinite fields live in S.inf.
+  const S = { stage:0, progress:0, streak:0, round:null, seen:[], lastChoices:null, thinkTime:0, wrong:0, mode:"classic", inf:null };   // seen = every film shown this game (no repeats); lastChoices = prior round's 4 titles
+
+  function resetRun(){ S.stage=0; S.progress=0; S.streak=0; S.seen=[]; S.lastChoices=null; S.thinkTime=0; S.wrong=0; S.mode="classic"; S.inf=null; }
+
+  // ---- Reel Score (leaderboard score for a completed run) ----
+  // completion base + speed (faster total think-time = more, capped) − accuracy penalty + flawless bonus.
+  // Only a full 5-stage run at obscurity 0 is "ranked"; other configs still get a score, shown as practice.
+  const SCORE = { base:8000, speedPool:8000, idealTime:140, mistakePenalty:250, flawlessBonus:2000 };
+  function reelScore(){
+    const speed = Math.round(SCORE.speedPool * Math.min(1, SCORE.idealTime / Math.max(S.thinkTime, SCORE.idealTime)));
+    const penalty = SCORE.mistakePenalty * S.wrong;
+    const flawless = S.wrong===0 ? SCORE.flawlessBonus : 0;
+    const total = Math.max(0, SCORE.base + speed - penalty + flawless);
+    const ranked = ACTIVE.length===5 && obscurity===0;
+    return { total, base:SCORE.base, speed, penalty, flawless, wrong:S.wrong, time:Math.round(S.thinkTime), ranked };
+  }
+
+  // ---- infinite ("Keep Rolling") ----
+  const INF_MAX_MISSES = 3;            // consecutive misses that end an infinite run (sudden death)
+  const INF_WEIGHTS = { easy:1, medium:1, hard:2, veryhard:3, cinephile:3 };   // skew toward harder tiers
+  const bandByKey = k => BANDS.find(b=>b.key===k) || BANDS[BANDS.length-1];
+  // Pick the next infinite film from the whole eligible library, weighted toward harder tiers, no repeats.
+  function pickMovieInfinite(){
+    const seen = new Set(S.seen);
+    let pool = MOVIES.filter(m=>eligible(m) && !seen.has(m.title));
+    if(!pool.length) pool = MOVIES.filter(eligible);          // library exhausted (won't happen at 3.7k films)
+    // weighted draw by difficulty tier
+    let total=0; const weighted = pool.map(m=>{ const w=INF_WEIGHTS[m.difficulty]||1; total+=w; return {m,acc:total}; });
+    let r=Math.random()*total; const hit=weighted.find(x=>r<x.acc) || weighted[weighted.length-1];
+    const movie=hit.m; S.seen.push(movie.title); return movie;
+  }
+  function enterInfinite(){
+    S.mode="infinite";
+    S.streak=0; S.seen=[]; S.lastChoices=null;
+    S.inf = { count:0, score:0, misses:0, best:0 };
+    $("#winOv").classList.add("hidden");
+    startRound();
+  }
 
   // ---- helpers ----
   const $ = s => document.querySelector(s);
@@ -461,8 +531,9 @@
     return shuffle([ans, ...decoys]);
   }
   function startRound(){
-    const band = ACTIVE[S.stage];
-    const movie = pickMovie(band);
+    let band, movie;
+    if(S.mode==="infinite"){ movie = pickMovieInfinite(); band = bandByKey(movie.difficulty); }
+    else { band = ACTIVE[S.stage]; movie = pickMovie(band); }
     const frame = movie.frames[0];   // frames[0] = FILM-GRAB featured still (the representative image)
     const avoid = new Set((S.lastChoices||[]).map(t=>t.trim().toLowerCase()));
     const choices = makeChoices(movie, band, avoid);
@@ -503,26 +574,41 @@
   function answer(btn, title){
     if(S.round.answered) return;
     S.round.answered=true; stopTimers();
+    S.thinkTime += (performance.now()-startT)/1000;   // accumulate think-time for the Reel Score speed term
     const correct = title===S.round.movie.title;
     const band = S.round.band;
     let delta, evt = { promoted:false, won:false };
 
-    if(correct){
-      const mult = 1 + 0.05*Math.min(S.streak,4);
-      delta = Math.round(currentPot()*mult);
-      S.streak++;
-      S.progress += delta;
-      if(S.progress >= band.goal){                          // bar filled → clear the stage
-        if(S.stage === ACTIVE.length-1){ evt.won = true; S.progress = band.goal; }
-        else { evt.promoted = true; S.stage++; S.progress -= band.goal; }   // carry overflow into the next, harder stage
+    if(S.mode==="infinite"){
+      const frac = Math.min(1,(performance.now()-startT)/(band.T*1000));
+      if(correct){
+        const speed = 2 - frac;                              // 1.0 (at deadline) .. 2.0 (instant)
+        const mult = 1 + 0.05*Math.min(S.streak,4);
+        delta = Math.round(band.ibase * speed * mult);       // difficulty × speed × streak — no bar to fill
+        S.inf.score += delta; S.inf.count++; S.streak++; S.inf.misses = 0;
+      } else {
+        delta = 0; S.streak = 0; S.inf.misses++;
+        if(S.inf.misses >= INF_MAX_MISSES) evt.infOver = true;   // 3 in a row → cut!
       }
     } else {
-      delta = -band.sting;
-      S.streak = 0;
-      S.progress += delta;
-      if(S.progress < 0){
-        if(S.stage > 0){ evt.relegated = true; S.stage--; S.progress = ACTIVE[S.stage].goal + S.progress; }  // fall back a stage
-        else S.progress = 0;                                // can't fall below the first stage
+      if(!correct) S.wrong++;
+      if(correct){
+        const mult = 1 + 0.05*Math.min(S.streak,4);
+        delta = Math.round(currentPot()*mult);
+        S.streak++;
+        S.progress += delta;
+        if(S.progress >= band.goal){                          // bar filled → clear the stage
+          if(S.stage === ACTIVE.length-1){ evt.won = true; S.progress = band.goal; }
+          else { evt.promoted = true; S.stage++; S.progress -= band.goal; }   // carry overflow into the next, harder stage
+        }
+      } else {
+        delta = -band.sting;
+        S.streak = 0;
+        S.progress += delta;
+        if(S.progress < 0){
+          if(S.stage > 0){ evt.relegated = true; S.stage--; S.progress = ACTIVE[S.stage].goal + S.progress; }  // fall back a stage
+          else S.progress = 0;                                // can't fall below the first stage
+        }
       }
     }
 
@@ -588,16 +674,19 @@
   }
 
   function showReveal(correct, delta, evt){
+    const themeBand = S.mode==="infinite" ? S.round.band : ACTIVE[S.stage];   // infinite re-themes per film
     renderLadder();
-    setStock(ACTIVE[S.stage].color);                                              // re-theme to the (possibly new) stage
-    document.documentElement.style.setProperty("--cyan", cssVar(ACTIVE[S.stage].color));
+    setStock(themeBand.color);
+    document.documentElement.style.setProperty("--cyan", cssVar(themeBand.color));
     if(evt.won) return showWin();
+    if(evt.infOver) return showOver();
     if(evt.promoted) toastPromote();
     else if(evt.relegated) toastRelegate();
     const m=S.round.movie;
     $("#rvResult").textContent = correct ? "Correct" : "Wrong";
     $("#rvResult").style.color = correct ? cssVar("--good") : cssVar("--bad");
-    $("#rvDelta").textContent = (delta>=0?"+":"")+delta;
+    if(S.mode==="infinite" && !correct) $("#rvDelta").textContent = "Strike "+S.inf.misses+"/"+INF_MAX_MISSES;
+    else $("#rvDelta").textContent = (delta>=0?"+":"")+delta;
     $("#rvDelta").style.color = correct ? cssVar("--good") : cssVar("--bad");
     $("#rvFrame").src = frameURL(S.round.frame);
     $("#rvTitle").textContent = m.title;
@@ -608,19 +697,50 @@
     $("#revealOv").classList.remove("hidden");
     renderLadder();
   }
+  function scoreLines(s){
+    return '<div class="bigscore">'+s.total.toLocaleString()+'</div>'+
+      '<div class="scoresub">'+(s.ranked?'Reel Score':'Reel Score · practice run')+'</div>'+
+      '<ul class="scorelines">'+
+        '<li>Completion <b>+'+s.base.toLocaleString()+'</b></li>'+
+        '<li>Speed <b>+'+s.speed.toLocaleString()+'</b> <span class="dim">('+s.time+'s)</span></li>'+
+        (s.penalty?'<li>Mistakes <b>−'+s.penalty.toLocaleString()+'</b> <span class="dim">('+s.wrong+')</span></li>':'')+
+        (s.flawless?'<li>Flawless <b>+'+s.flawless.toLocaleString()+'</b></li>':'')+
+      '</ul>';
+  }
   function showWin(){
     const last = ACTIVE[ACTIVE.length-1];
     setStock(last.color);
     document.documentElement.style.setProperty("--cyan", cssVar(last.color));
     $("#winResult").textContent = last.name;
     $("#winResult").style.color=cssVar("--ink");
+    $("#winScore").innerHTML = scoreLines(reelScore());
     $("#winOv").classList.remove("hidden");
     confettiBurst(70, 0.32);
     setTimeout(()=>confettiBurst(50, 0.28), 380);
   }
+  function showOver(){
+    if(S.inf.count > S.inf.best) S.inf.best = S.inf.count;
+    $("#overResult").textContent = "Cut!";
+    $("#overResult").style.color = cssVar("--bad");
+    $("#overCount").textContent = S.inf.count + (S.inf.count===1?" Reel":" Reels");
+    $("#overScore").innerHTML =
+      '<div class="bigscore">'+S.inf.score.toLocaleString()+'</div>'+
+      '<div class="scoresub">Infinite Score · '+S.inf.count+' survived</div>';
+    $("#overOv").classList.remove("hidden");
+  }
 
   // ---- ladder render ----
+  function renderInfiniteHUD(){
+    const band = S.round ? S.round.band : ACTIVE[S.stage];
+    $("#scoreNum").textContent = S.inf.count;          // reels survived
+    $("#goalNum").textContent = "∞";
+    const pips = Array.from({length:INF_MAX_MISSES}, (_,i)=>'<i'+(i<S.inf.misses?' class="spent"':'')+'></i>').join('');
+    $("#rankLabel").innerHTML = "Keep Rolling · " + S.inf.score.toLocaleString() + " pts" + '<span class="strikes">'+pips+'</span>';
+    const fill=$("#fill"); fill.style.right="0%"; fill.style.background=cssVar(band.color);   // decorative full bar
+    $("#bands").innerHTML = "";                          // no stage chips in infinite
+  }
   function renderLadder(){
+    if(S.mode==="infinite") return renderInfiniteHUD();
     const band = ACTIVE[S.stage];
     $("#scoreNum").textContent = S.progress;
     $("#goalNum").textContent = band.goal;
@@ -645,7 +765,7 @@
     const r = ticket.getBoundingClientRect();
     ACTIVE = BANDS.filter(b=>enabledStages.has(b.key));   // lock in the chosen stages for this game
     obscurity = +($("#obsSlider")?.value || 0);            // lock in the obscurity level
-    S.stage=0; S.progress=0; S.streak=0; S.seen=[]; S.lastChoices=null;
+    resetRun();
     startRound();                                  // prepare the game behind the menu
     const mk = cls=>{
       const c = ticket.cloneNode(true); c.removeAttribute("id");
@@ -690,19 +810,22 @@
   // ---- buttons ----
   $("#enterBtn").onclick = enterCinema;
   $("#nextBtn").onclick  = ()=>{ $("#revealOv").classList.add("hidden"); startRound(); };
-  $("#againBtn").onclick = ()=>{ S.stage=0;S.progress=0;S.streak=0;S.seen=[];S.lastChoices=null; $("#winOv").classList.add("hidden"); startRound(); };
+  $("#wrapBtn").onclick  = ()=>{ resetRun(); $("#winOv").classList.add("hidden"); startRound(); };   // bank the run, start fresh
+  $("#rollBtn").onclick  = ()=>{ enterInfinite(); };                                                  // continue into infinite
+  $("#overAgainBtn").onclick = ()=>{ resetRun(); $("#overOv").classList.add("hidden"); startRound(); };
 
   // ---- keyboard: 1–4 answer, Enter advances ----
   const visible = el => el && !el.classList.contains("hidden") && getComputedStyle(el).display!=="none";
   document.addEventListener("keydown", e=>{
-    const menu=$("#menuOv"), rev=$("#revealOv"), win=$("#winOv");
+    const menu=$("#menuOv"), rev=$("#revealOv"), win=$("#winOv"), over=$("#overOv");
     if(e.key==="Enter"){
       if(visible(rev)){ e.preventDefault(); $("#nextBtn").click(); }
-      else if(visible(win)){ e.preventDefault(); $("#againBtn").click(); }
+      else if(visible(win)){ e.preventDefault(); $("#wrapBtn").click(); }   // Enter = That's a Wrap (Keep Rolling needs a click)
+      else if(visible(over)){ e.preventDefault(); $("#overAgainBtn").click(); }
       else if(visible(menu)){ e.preventDefault(); $("#enterBtn").click(); }
       return;
     }
-    if(visible(menu)||visible(rev)||visible(win)) return;     // numbers only during live play
+    if(visible(menu)||visible(rev)||visible(win)||visible(over)) return;     // numbers only during live play
     if(S.round && S.round.answered) return;
     if(e.key>="1" && e.key<="4"){
       const btn=[...document.querySelectorAll(".choice")][+e.key-1];
