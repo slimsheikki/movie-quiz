@@ -83,6 +83,36 @@
   .pot{font-family:var(--cond);font-size:32px;font-weight:800;color:var(--ink);font-variant-numeric:tabular-nums;line-height:1}
   .potlabel{font-size:9px;letter-spacing:.2em;text-transform:uppercase;color:rgba(10,12,12,.7);line-height:1.3;font-weight:700}
   .streak{margin-left:auto;font-size:11px;letter-spacing:.14em;text-transform:uppercase;color:var(--ink);font-weight:800}
+  /* lives — five little movie tickets in a row at the bottom; burn on a miss, earn back on a 5-streak */
+  .lives{display:flex;gap:7px;align-items:center;justify-content:center;width:100%;padding-top:4px}
+  .life{width:26px;height:15px;flex:0 0 auto;position:relative;border:2px solid var(--cyan);border-radius:3px;background:var(--cyan);
+    -webkit-mask:radial-gradient(circle 4px at 0 50%,#0000 96%,#000),radial-gradient(circle 4px at 100% 50%,#0000 96%,#000);
+            mask:radial-gradient(circle 4px at 0 50%,#0000 96%,#000),radial-gradient(circle 4px at 100% 50%,#0000 96%,#000);
+    -webkit-mask-composite:source-in;mask-composite:intersect;transition:opacity .2s ease}
+  .life::after{content:"";position:absolute;left:50%;top:2px;bottom:2px;transform:translateX(-50%);border-left:1.5px dashed var(--bg);opacity:.4}
+  .life.spent{background:transparent;border-color:rgba(150,110,90,.45);opacity:.5}
+  .life.spent::after{border-color:rgba(150,110,90,.45)}
+  .life.burning{animation:ticketBurn .6s ease-in forwards;z-index:2}
+  @keyframes ticketBurn{
+    0%{opacity:1;transform:scale(1) rotate(0);filter:none}
+    18%{filter:brightness(1.7) saturate(3) drop-shadow(0 0 5px rgba(255,130,0,.95))}
+    50%{background:#3a1607;border-color:#ff7a18;transform:scale(.92) rotate(-6deg);filter:saturate(2) drop-shadow(0 0 8px rgba(255,95,0,.9))}
+    100%{background:transparent;border-color:rgba(150,110,90,.45);transform:scale(.88) rotate(2deg) translateY(3px);opacity:.5;filter:none}
+  }
+  /* earn a ticket back (5 correct in a row): a fresh ticket prints in with a pop */
+  .life.earned{animation:ticketEarn .5s ease-out}
+  @keyframes ticketEarn{
+    0%{transform:scale(.2) rotate(-12deg);opacity:0;filter:brightness(2)}
+    55%{transform:scale(1.2) rotate(4deg);opacity:1;filter:brightness(1.4) drop-shadow(0 0 5px rgba(255,255,255,.85))}
+    100%{transform:scale(1) rotate(0);opacity:1;filter:none}
+  }
+  /* hot streak: full tickets + 5 in a row → shiny holographic foil */
+  .life.shiny{background:linear-gradient(115deg,#ff6b9d 0%,#ffd86b 18%,#7bffb0 38%,#6bd5ff 58%,#c89bff 78%,#ff6b9d 100%);
+    background-size:300% 100%;border-color:#fff;animation:holoShine 1.4s linear infinite;filter:drop-shadow(0 0 4px rgba(255,255,255,.55))}
+  .life.shiny::after{border-color:rgba(10,12,12,.6)}
+  @keyframes holoShine{from{background-position:0 0}to{background-position:300% 0}}
+  .streak.hot{color:#ff8a3d;text-shadow:0 0 8px rgba(255,138,61,.6)}
+  @media (prefers-reduced-motion: reduce){ .life.burning,.life.earned{animation-duration:.01s} .life.shiny{animation:none} }
   .hint{font-size:12px;color:rgba(10,12,12,.62);text-align:center;letter-spacing:.02em;font-style:italic;font-family:var(--serif)}
 
   /* choices (black ink on stock) */
@@ -211,7 +241,7 @@
   @media (min-width:1000px){
     body{justify-content:center;align-items:stretch}
     #app{max-width:1500px;width:100%;min-height:100dvh;margin:0 auto;
-         display:flex;flex-direction:column;gap:14px;padding:20px 32px 24px}
+         display:flex;flex-direction:column;gap:12px;padding:18px 32px 12px}
 
     .topbar{align-items:center}
     .logo{font-size:16px;padding:9px 14px}
@@ -231,8 +261,10 @@
     .ticket .stub,.ticket>.perf,.ticket .foot{display:none}
     .ticket .body{flex:1;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:18px;padding:0;min-height:0}
 
-    .framewrap{height:min(60vh,48vw);aspect-ratio:16/9;width:auto;max-width:96%;border:3px solid #14181a;
+    .framewrap{height:min(54vh,46vw);aspect-ratio:16/9;width:auto;max-width:96%;border:3px solid #14181a;
                box-shadow:0 0 0 10px #0d0f10,0 22px 60px rgba(0,0,0,.7)}
+    .lives{flex:0 0 auto}
+    .life{width:30px;height:17px}
 
     .potbar{width:min(1000px,92%);border-top:0;padding-top:0;justify-content:center;gap:20px}
     .pot{font-size:42px;color:var(--cyan)}
@@ -270,8 +302,9 @@
     #app{height:100dvh;max-width:520px;gap:8px;padding:10px 12px calc(8px + env(safe-area-inset-bottom));justify-content:flex-start}
     .ladder{padding:9px 22px;gap:6px}
     .ladder .score{font-size:20px}
-    /* card sizes to its content and centres in the free space (no full-height stretch) */
-    .ticket{flex:0 1 auto;display:flex;flex-direction:column;justify-content:center;min-height:0;padding:0;margin:auto 0}
+    /* card sits just under the progress bar; the lives row drops to the bottom (margin-top:auto) */
+    .ticket{flex:0 1 auto;display:flex;flex-direction:column;justify-content:center;min-height:0;padding:0;margin:6px 0 0}
+    .lives{padding-bottom:2px}
     .ticket .stub,.ticket>.perf,.ticket .foot,.hint{display:none}        /* reclaim vertical space */
     .ticket .body{display:flex;flex-direction:column;align-items:center;gap:24px;padding:34px 22px}
     .framewrap{aspect-ratio:16/9;height:min(38vh,50vw);width:auto;max-width:100%}
@@ -322,6 +355,8 @@
     <div class="perf"></div>
     <div class="foot">Ciné Quiz · Cinéma</div>
   </div>
+
+  <div class="lives" id="lives" aria-label="Lives remaining"></div>
 </div>
 
 <div class="toast" id="toast"></div>
@@ -392,7 +427,7 @@
       <div class="result" id="overResult">Cut!</div>
       <h1 id="overCount">0 Reels</h1>
       <div class="scorebox" id="overScore"></div>
-      <button class="btn" id="overAgainBtn">Play Again</button>
+      <button class="btn" id="overAgainBtn">Take Two. Action!</button>
     </div>
   </div>
 </div>
@@ -424,21 +459,32 @@
   // ---- state ----  stage = current mode index (0..4); progress = points in the current stage's bar
   // thinkTime = total seconds spent answering (drives the Reel Score speed term); wrong = misses this run.
   // mode = "classic" (the 5-stage climb) or "infinite" (post-win endurance run). Infinite fields live in S.inf.
-  const S = { stage:0, progress:0, streak:0, round:null, seen:[], lastChoices:null, thinkTime:0, wrong:0, mode:"classic", inf:null };   // seen = every film shown this game (no repeats); lastChoices = prior round's 4 titles
+  // lives = persistent ticket count (classic). A miss burns one; 5 correct in a row earns one back
+  // (capped at MAX_LIVES). At full lives, a 5-streak instead lights a "hot" streak (+50/correct, shiny).
+  const S = { stage:0, progress:0, streak:0, round:null, seen:[], lastChoices:null, thinkTime:0, wrong:0, lives:5, hot:false, mode:"classic", inf:null };   // seen = every film shown this game (no repeats); lastChoices = prior round's 4 titles
+  const MAX_LIVES = 5;
+  const HOT_BONUS = 50;          // extra points per correct while a hot streak is lit
+  const STREAK_STEP = 5;         // correct-in-a-row needed to earn a ticket / light the streak
 
-  function resetRun(){ S.stage=0; S.progress=0; S.streak=0; S.seen=[]; S.lastChoices=null; S.thinkTime=0; S.wrong=0; S.mode="classic"; S.inf=null; }
+  function resetRun(){ S.stage=0; S.progress=0; S.streak=0; S.seen=[]; S.lastChoices=null; S.thinkTime=0; S.wrong=0; S.lives=MAX_LIVES; S.hot=false; S.mode="classic"; S.inf=null; }
 
   // ---- Reel Score (leaderboard score for a completed run) ----
   // completion base + speed (faster total think-time = more, capped) − accuracy penalty + flawless bonus.
   // Only a full 5-stage run at obscurity 0 is "ranked"; other configs still get a score, shown as practice.
   const SCORE = { base:8000, speedPool:8000, idealTime:140, mistakePenalty:250, flawlessBonus:2000 };
-  function reelScore(){
-    const speed = Math.round(SCORE.speedPool * Math.min(1, SCORE.idealTime / Math.max(S.thinkTime, SCORE.idealTime)));
+  // won=true → full completion; won=false (failed out) → base+speed prorated by how far you climbed.
+  function reelScore(won){
+    const goal = (ACTIVE[S.stage] && ACTIVE[S.stage].goal) || 1000;
+    const barFrac = Math.max(0, Math.min(1, S.progress/goal));            // current bar, clamped (a failing sting can go negative)
+    const frac = won ? 1 : Math.max(0, Math.min(1, (S.stage + barFrac) / ACTIVE.length));
+    const speedFull = SCORE.speedPool * Math.min(1, SCORE.idealTime / Math.max(S.thinkTime, SCORE.idealTime));
+    const base = Math.round(SCORE.base * frac);
+    const speed = Math.round(speedFull * frac);
     const penalty = SCORE.mistakePenalty * S.wrong;
-    const flawless = S.wrong===0 ? SCORE.flawlessBonus : 0;
-    const total = Math.max(0, SCORE.base + speed - penalty + flawless);
+    const flawless = (won && S.wrong===0) ? SCORE.flawlessBonus : 0;
+    const total = Math.max(0, base + speed - penalty + flawless);
     const ranked = ACTIVE.length===5 && obscurity===0;
-    return { total, base:SCORE.base, speed, penalty, flawless, wrong:S.wrong, time:Math.round(S.thinkTime), ranked };
+    return { total, base, speed, penalty, flawless, wrong:S.wrong, time:Math.round(S.thinkTime), ranked, won:!!won };
   }
 
   // ---- infinite ("Keep Rolling") ----
@@ -461,6 +507,35 @@
     S.inf = { count:0, score:0, misses:0, best:0 };
     $("#winOv").classList.add("hidden");
     startRound();
+  }
+
+  // ---- lives (classic mode): movie tickets you burn on a miss and earn back with a 5-streak ----
+  function ensureLives(){
+    const wrap = $("#lives");
+    if(wrap.children.length!==MAX_LIVES){ wrap.innerHTML=""; for(let i=0;i<MAX_LIVES;i++){ const t=document.createElement("i"); t.className="life"; wrap.appendChild(t); } }
+    return wrap;
+  }
+  function renderLives(){
+    const wrap = $("#lives");
+    if(S.mode!=="classic"){ wrap.style.display="none"; return; }   // infinite uses its own strike pips
+    wrap.style.display=""; ensureLives();
+    [...wrap.children].forEach((t,i)=>{
+      t.classList.remove("burning","earned");
+      const intact = i < S.lives;
+      t.classList.toggle("spent", !intact);
+      t.classList.toggle("shiny", intact && S.hot);
+    });
+  }
+  function burnLife(){                                   // called after S.lives-- : ticket at index S.lives is the one lost
+    const wrap = ensureLives();
+    [...wrap.children].forEach(c=>c.classList.remove("shiny"));   // hot streak is over
+    const t = wrap.children[S.lives];
+    if(t){ t.classList.remove("earned"); t.classList.add("burning"); setTimeout(()=>{ t.classList.remove("burning"); t.classList.add("spent"); }, 600); }
+  }
+  function earnLife(){                                    // called after S.lives++ : ticket at index S.lives-1 is restored
+    const wrap = ensureLives();
+    const t = wrap.children[S.lives-1];
+    if(t){ t.classList.remove("spent","burning"); t.classList.add("earned"); if(S.hot) t.classList.add("shiny"); setTimeout(()=>t.classList.remove("earned"), 520); }
   }
 
   // ---- helpers ----
@@ -545,9 +620,12 @@
     setStock(band.color);
     document.documentElement.style.setProperty("--cyan", cssVar(band.color));  // chrome adopts the stage color
     renderLadder();
+    renderLives();
     $("#serial").textContent = "N° " + String(1+rand(9998)).padStart(4,"0");
     $("#bandChip").textContent = band.name;
-    $("#streak").textContent = S.streak>=2 ? ("Streak ×"+S.streak) : "";
+    const streakEl = $("#streak");
+    streakEl.classList.toggle("hot", S.hot);
+    streakEl.textContent = S.hot ? ("Hot · +"+HOT_BONUS) : (S.streak>=2 ? ("Streak ×"+S.streak) : "");
 
     // choices
     const cw=$("#choices"); cw.innerHTML="";
@@ -591,21 +669,28 @@
         if(S.inf.misses >= INF_MAX_MISSES) evt.infOver = true;   // 3 in a row → cut!
       }
     } else {
-      if(!correct) S.wrong++;
       if(correct){
         const mult = 1 + 0.05*Math.min(S.streak,4);
-        delta = Math.round(currentPot()*mult);
         S.streak++;
+        let earned = false;
+        if(S.streak % STREAK_STEP === 0){                     // every 5th in a row…
+          if(S.lives < MAX_LIVES){ S.lives++; earned = true; } // …earn a ticket back, or
+          else S.hot = true;                                  // …at full tickets, light the hot streak
+        }
+        delta = Math.round(currentPot()*mult) + (S.hot ? HOT_BONUS : 0);
         S.progress += delta;
         if(S.progress >= band.goal){                          // bar filled → clear the stage
           if(S.stage === ACTIVE.length-1){ evt.won = true; S.progress = band.goal; }
           else { evt.promoted = true; S.stage++; S.progress -= band.goal; }   // carry overflow into the next, harder stage
         }
+        if(earned) earnLife(); else renderLives();            // earn animates the restored ticket; else sync shine
       } else {
+        S.wrong++; S.streak = 0; S.hot = false;
+        S.lives--; burnLife();                                // burn a ticket
         delta = -band.sting;
-        S.streak = 0;
         S.progress += delta;
-        if(S.progress < 0){
+        if(S.lives <= 0){ evt.failed = true; }                // out of tickets → out
+        else if(S.progress < 0){
           if(S.stage > 0){ evt.relegated = true; S.stage--; S.progress = ACTIVE[S.stage].goal + S.progress; }  // fall back a stage
           else S.progress = 0;                                // can't fall below the first stage
         }
@@ -679,6 +764,7 @@
     setStock(themeBand.color);
     document.documentElement.style.setProperty("--cyan", cssVar(themeBand.color));
     if(evt.won) return showWin();
+    if(evt.failed) return showFail();
     if(evt.infOver) return showOver();
     if(evt.promoted) toastPromote();
     else if(evt.relegated) toastRelegate();
@@ -698,10 +784,11 @@
     renderLadder();
   }
   function scoreLines(s){
+    const label = !s.won ? 'Reel Score · did not finish' : (s.ranked ? 'Reel Score' : 'Reel Score · practice run');
     return '<div class="bigscore">'+s.total.toLocaleString()+'</div>'+
-      '<div class="scoresub">'+(s.ranked?'Reel Score':'Reel Score · practice run')+'</div>'+
+      '<div class="scoresub">'+label+'</div>'+
       '<ul class="scorelines">'+
-        '<li>Completion <b>+'+s.base.toLocaleString()+'</b></li>'+
+        '<li>'+(s.won?'Completion':'Progress')+' <b>+'+s.base.toLocaleString()+'</b></li>'+
         '<li>Speed <b>+'+s.speed.toLocaleString()+'</b> <span class="dim">('+s.time+'s)</span></li>'+
         (s.penalty?'<li>Mistakes <b>−'+s.penalty.toLocaleString()+'</b> <span class="dim">('+s.wrong+')</span></li>':'')+
         (s.flawless?'<li>Flawless <b>+'+s.flawless.toLocaleString()+'</b></li>':'')+
@@ -713,10 +800,20 @@
     document.documentElement.style.setProperty("--cyan", cssVar(last.color));
     $("#winResult").textContent = last.name;
     $("#winResult").style.color=cssVar("--ink");
-    $("#winScore").innerHTML = scoreLines(reelScore());
+    $("#winScore").innerHTML = scoreLines(reelScore(true));
     $("#winOv").classList.remove("hidden");
     confettiBurst(70, 0.32);
     setTimeout(()=>confettiBurst(50, 0.28), 380);
+  }
+  function showFail(){                                    // classic: 5 consecutive misses
+    const reached = ACTIVE[S.stage];
+    setStock(reached.color);
+    document.documentElement.style.setProperty("--cyan", cssVar(reached.color));
+    $("#overResult").textContent = "Cut!";
+    $("#overResult").style.color = cssVar("--bad");
+    $("#overCount").textContent = "Out at " + reached.name;
+    $("#overScore").innerHTML = scoreLines(reelScore(false));
+    $("#overOv").classList.remove("hidden");
   }
   function showOver(){
     if(S.inf.count > S.inf.best) S.inf.best = S.inf.count;
